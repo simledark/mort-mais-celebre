@@ -716,7 +716,70 @@ body {
 
 
 
+/* ── BOUTON À PROPOS ─────────────────────────────────── */
+.about-btn {
+  margin-left: auto;
+  border-color: var(--gold-dim);
+  color: var(--gold-light);
+}
+.about-btn:hover {
+  background: var(--gold);
+  color: var(--ink);
+}
+.active-nav {
+  background: rgba(184,148,63,0.15);
+  border-color: var(--gold);
+  color: var(--gold-light);
+}
 
+/* ── PAGE À PROPOS ───────────────────────────────────── */
+.about-page-main {
+  max-width: 760px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+}
+
+.about-article {
+  background: linear-gradient(145deg, #1e1810, #150f0a);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 2.5rem 3rem;
+}
+
+.about-body p {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  color: var(--gray-light);
+  line-height: 1.9;
+  margin-bottom: 1.4rem;
+}
+
+.about-body p em {
+  color: var(--gold-light);
+  font-style: italic;
+}
+
+.about-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border), transparent);
+  margin: 2rem 0;
+}
+
+.about-meta {
+  font-family: var(--font-sc) !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.1em;
+  color: var(--gray) !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.about-meta a {
+  color: var(--gold-dim);
+  text-decoration: none;
+}
+.about-meta a:hover {
+  color: var(--gold);
+}
 
 
 
