@@ -219,7 +219,7 @@ async function fetchWikiDeathsFR(month, day) {
         name:     page.titles?.normalized || page.title || '?',
         desc:     page.description || page.extract || 'Personnalité notable',
         thumb:    page.thumbnail?.source || null,
-        wikiUrl:  page.content_urls?.desktop?.page || '#',
+        wikiUrl: page.content_urls?.desktop?.page?.replace('en.wikipedia.org', 'fr.wikipedia.org') || `https://fr.wikipedia.org/wiki/${encodeURIComponent(page.title || '')}`,
         age:      null,
         category: guessCategory(page.description || ''),
         pageId:   page.pageid,
