@@ -440,3 +440,23 @@ function escHtml(str) {
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
 }
+
+/* ── MINI COMPTEURS PAGE PRINCIPALE ─────────────────── */
+(function miniCounters() {
+  const JAN1 = new Date(new Date().getFullYear(), 0, 1);
+  const W = 63_600_000 / 31_536_000;
+  const F = 680_000    / 31_536_000;
+  const S = 1_000      / 31_536_000;
+  function fmt(n) { return Math.floor(n).toLocaleString('fr-FR'); }
+  function tick() {
+    const secs = (Date.now() - JAN1) / 1000;
+    const wEl = document.getElementById('mc-world-val');
+    const fEl = document.getElementById('mc-france-val');
+    const sEl = document.getElementById('mc-species-val');
+    if (wEl) wEl.textContent = fmt(secs * W);
+    if (fEl) fEl.textContent = fmt(secs * F);
+    if (sEl) sEl.textContent = fmt(secs * S);
+    setTimeout(tick, 1000);
+  }
+  if (document.getElementById('mc-world-val')) tick();
+})();
