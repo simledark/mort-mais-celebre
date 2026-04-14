@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Palmarès de la Mort — Mort &amp; Célèbre</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Cormorant+SC:wght@300;400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="palmares.css" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5509319064903881" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="noise-overlay"></div>
+  <header class="site-header">
+    <div class="header-ornament top-left">✦</div>
+    <div class="header-ornament top-right">✦</div>
+    <div class="header-rule"></div>
+    <div class="header-inner">
+      <p class="header-kicker">Mémorial Quotidien</p>
+      <h1 class="site-title"><a href="index.html" style="text-decoration:none;color:inherit">Mort &amp; Célèbre</a></h1>
+      <p class="header-sub">Ceux qui nous ont quittés — hier, aujourd'hui, autrefois</p>
+    </div>
+    <div class="header-rule"></div>
+  </header>
+  <nav class="date-nav">
+    <div class="date-nav-inner">
+      <a href="index.html" class="nav-btn">← Retour</a>
+      <a href="compteurs.html" class="nav-btn">Compteurs</a>
+      <a href="citations.html" class="nav-btn citations-btn">Citations</a>
+      <a href="a-propos.html" class="nav-btn about-btn">À propos</a>
+    </div>
+  </nav>
+  <main class="palmares-main">
+    <div class="palmares-header">
+      <div class="section-header">
+        <div class="section-rule"></div>
+        <h2 class="section-title">Palmarès de la Mort</h2>
+        <div class="section-rule"></div>
+      </div>
+      <p class="palmares-intro">Statistiques mondiales de mortalité par cause, en temps réel. Chaque compteur s'incrémente selon les données officielles de l'OMS.</p>
+    </div>
+    <div class="palmares-layout">
+      <!-- COMPTEURS -->
+      <section class="palmares-counters">
+        <div class="cat-filters" id="cat-filters"></div>
+        <div id="counters-list"></div>
+      </section>
+      <!-- CALCULATEUR -->
+      <aside class="palmares-calc">
+        <div class="calc-card">
+          <div class="calc-title"><span class="calc-title-icon">⏳</span> Calculateur d'espérance de vie</div>
+          <p class="calc-subtitle">Estimez votre espérance de vie personnalisée.</p>
+          <div class="calc-form">
+            <div class="calc-field">
+              <label class="calc-label">Sexe</label>
+              <div class="calc-radio-group">
+                <label class="calc-radio"><input type="radio" name="sexe" value="H" checked> Homme</label>
+                <label class="calc-radio"><input type="radio" name="sexe" value="F"> Femme</label>
+              </div>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="age">Âge actuel</label>
+              <div class="calc-range-wrap">
+                <input type="range" id="age" min="1" max="100" value="35" oninput="syncRange(this,'age-val')" class="calc-range">
+                <span class="calc-range-val" id="age-val">35 ans</span>
+              </div>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="pays">Pays de résidence</label>
+              <select id="pays" class="calc-select">
+                <option value="france">France</option>
+                <option value="belgique">Belgique</option>
+                <option value="suisse">Suisse</option>
+                <option value="canada">Canada</option>
+                <option value="usa">États-Unis</option>
+                <option value="japon">Japon</option>
+                <option value="allemagne">Allemagne</option>
+                <option value="uk">Royaume-Uni</option>
+                <option value="italie">Italie</option>
+                <option value="espagne">Espagne</option>
+                <option value="maroc">Maroc</option>
+                <option value="algerie">Algérie</option>
+                <option value="russie">Russie</option>
+                <option value="bresil">Brésil</option>
+                <option value="inde">Inde</option>
+                <option value="autre">Autre pays</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="education">Niveau d'études</label>
+              <select id="education" class="calc-select">
+                <option value="primaire">Primaire / Sans diplôme</option>
+                <option value="brevet">Brevet</option>
+                <option value="bac">Baccalauréat</option>
+                <option value="bac2">Bac +2</option>
+                <option value="bac3" selected>Bac +3 (Licence)</option>
+                <option value="bac5">Bac +5 (Master)</option>
+                <option value="doctorat">Doctorat</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="tabac">Tabac</label>
+              <select id="tabac" class="calc-select">
+                <option value="jamais" selected>Jamais fumé</option>
+                <option value="ancien">Ancien fumeur (&gt; 5 ans d'arrêt)</option>
+                <option value="leger">Fumeur léger (&lt; 10 cig/j)</option>
+                <option value="moyen">Fumeur modéré (10–20 cig/j)</option>
+                <option value="fort">Fumeur intensif (&gt; 20 cig/j)</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="alcool">Alcool</label>
+              <select id="alcool" class="calc-select">
+                <option value="jamais">Jamais</option>
+                <option value="occasionnel" selected>Occasionnel</option>
+                <option value="modere">Modéré (1–14 verres/sem.)</option>
+                <option value="excessif">Excessif (&gt; 14 verres/sem.)</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="activite">Activité physique</label>
+              <select id="activite" class="calc-select">
+                <option value="sedentaire">Sédentaire</option>
+                <option value="leger">Légère (1–2x/sem.)</option>
+                <option value="modere" selected>Modérée (3x/sem.)</option>
+                <option value="intense">Intensive (quotidien)</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="imc">Corpulence (IMC)</label>
+              <select id="imc" class="calc-select">
+                <option value="maigreur">Maigreur (&lt; 18,5)</option>
+                <option value="normal" selected>Normal (18,5–25)</option>
+                <option value="surpoids">Surpoids (25–30)</option>
+                <option value="obese1">Obésité modérée (30–35)</option>
+                <option value="obese2">Obésité sévère (&gt; 35)</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="stress">Stress chronique</label>
+              <select id="stress" class="calc-select">
+                <option value="faible" selected>Faible</option>
+                <option value="moyen">Moyen</option>
+                <option value="eleve">Élevé</option>
+                <option value="tres_eleve">Très élevé</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="alimentation">Alimentation</label>
+              <select id="alimentation" class="calc-select">
+                <option value="mauvaise">Mauvaise (ultra-transformé)</option>
+                <option value="moyenne" selected>Moyenne</option>
+                <option value="bonne">Bonne (équilibrée)</option>
+                <option value="excellente">Excellente (méditerranéenne)</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="sommeil">Sommeil moyen</label>
+              <select id="sommeil" class="calc-select">
+                <option value="insuffisant">Insuffisant (&lt; 6h)</option>
+                <option value="correct" selected>Correct (6–8h)</option>
+                <option value="optimal">Optimal (7–9h)</option>
+                <option value="excessif">Excessif (&gt; 9h)</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="lien_social">Liens sociaux</label>
+              <select id="lien_social" class="calc-select">
+                <option value="isole">Isolé(e)</option>
+                <option value="modere" selected>Modérés</option>
+                <option value="fort">Forts</option>
+              </select>
+            </div>
+            <div class="calc-field">
+              <label class="calc-label" for="antecedents">Antécédents familiaux</label>
+              <select id="antecedents" class="calc-select">
+                <option value="aucun" selected>Aucun</option>
+                <option value="cardio">Maladies cardiovasculaires</option>
+                <option value="cancer">Cancers</option>
+                <option value="diabete">Diabète</option>
+                <option value="multiple">Plusieurs antécédents</option>
+              </select>
+            </div>
+            <button class="calc-btn" onclick="calculerEsperance()">Calculer mon espérance de vie</button>
+          </div>
+          <div class="calc-result hidden" id="calc-result">
+            <div class="result-age-wrap">
+              <div class="result-label">Espérance de vie estimée</div>
+              <div class="result-age" id="result-age">–</div>
+              <div class="result-annees" id="result-annees">–</div>
+            </div>
+            <div class="result-bars" id="result-bars"></div>
+            <div class="result-disclaimer">⚠️ Estimation statistique basée sur des moyennes épidémiologiques. Ne constitue pas un avis médical. Sources : OMS, INSEE, PNAS, The Lancet.</div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </main>
+  <footer class="site-footer">
+    <div class="footer-rule"></div>
+    <p>Sources : <a href="https://www.who.int/fr" target="_blank">OMS</a> · <a href="https://www.insee.fr" target="_blank">INSEE</a> · <a href="https://www.thelancet.com" target="_blank">The Lancet</a></p>
+    <p class="footer-copy">Mort &amp; Célèbre · In Memoriam · <span id="footer-year"></span></p>
+    <div class="footer-ornament">✦ ✦ ✦</div>
+  </footer>
+  <script src="palmares.js"></script>
+</body>
+</html>
