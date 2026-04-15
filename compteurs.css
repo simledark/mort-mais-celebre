@@ -1,0 +1,226 @@
+/* ============================================================
+   COMPTEURS VITAUX — Styles spécifiques
+   ============================================================ */
+
+.compteurs-main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+.compteurs-header {
+  margin-bottom: 2rem;
+}
+
+.compteurs-intro {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--gray-light);
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+/* ── GRILLE ──────────────────────────────────────────── */
+.compteurs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+/* ── CARTE COMPTEUR ──────────────────────────────────── */
+.compteur-card {
+  background: linear-gradient(145deg, #1a2e1c, #142010);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.5rem 1.4rem 1.2rem;
+  position: relative;
+  overflow: hidden;
+  animation: fadeUp 0.5s ease both;
+}
+
+.compteur-card::before {
+  content: '';
+  position: absolute; top: 0; left: 0; right: 0;
+  height: 3px;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-world::before   { background: linear-gradient(90deg, var(--green-dim), var(--green)); }
+.card-species::before { background: linear-gradient(90deg, #c68400, var(--gold-light)); }
+.card-france::before  { background: linear-gradient(90deg, #1565c0, #42a5f5); }
+.card-local::before   { background: linear-gradient(90deg, var(--red-death), var(--red-light)); }
+
+.compteur-card-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.compteur-icon { font-size: 1.8rem; line-height: 1; flex-shrink: 0; }
+
+.compteur-label {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--cream);
+  line-height: 1.2;
+}
+
+.compteur-sublabel {
+  font-family: var(--font-sc);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  color: var(--gray);
+  margin-top: 0.2rem;
+}
+
+.compteur-value {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  font-weight: 900;
+  color: var(--cream);
+  line-height: 1;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.5rem;
+  font-variant-numeric: tabular-nums;
+  transition: color 0.3s;
+}
+
+.card-world   .compteur-value { color: var(--green-light); }
+.card-species .compteur-value { color: var(--gold-light); }
+.card-france  .compteur-value { color: #90caf9; }
+.card-local   .compteur-value { color: var(--red-light); }
+
+.compteur-rate {
+  font-family: var(--font-sc);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: var(--gray);
+  margin-bottom: 0.8rem;
+  min-height: 1.2em;
+}
+
+.compteur-bar-wrap {
+  height: 4px;
+  background: rgba(255,255,255,0.07);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-bottom: 0.7rem;
+}
+
+.compteur-bar {
+  height: 100%;
+  border-radius: 2px;
+  width: 0%;
+  transition: width 1.5s ease;
+}
+
+.card-world   .compteur-bar { background: linear-gradient(90deg, var(--green-dim), var(--green)); }
+.card-species .compteur-bar { background: linear-gradient(90deg, #c68400, var(--gold-light)); }
+.card-france  .compteur-bar { background: linear-gradient(90deg, #1565c0, #42a5f5); }
+.card-local   .compteur-bar { background: linear-gradient(90deg, var(--red-death), var(--red-light)); }
+
+.compteur-source {
+  font-family: var(--font-sc);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  color: var(--gray);
+  opacity: 0.6;
+}
+
+/* ── SÉLECTEUR LOCAL ─────────────────────────────────── */
+.local-selector { margin-bottom: 0.8rem; }
+
+.local-select {
+  width: 100%;
+  background: #0f1a14;
+  border: 1px solid var(--border);
+  color: var(--cream);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer;
+  transition: var(--transition);
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%234caf50' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.8rem center;
+  padding-right: 2.2rem;
+}
+.local-select:focus { border-color: var(--red-death); }
+.local-select optgroup { background: #142010; font-weight: 600; }
+.local-select option  { background: #1a2e1c; }
+
+/* ── BLOC LIENS EXTERNES ─────────────────────────────── */
+.more-counters-block {
+  background: linear-gradient(145deg, #1a2e1c, #142010);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 2rem;
+}
+
+.external-links-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.ext-link-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.9rem;
+  padding: 1rem 1.1rem;
+  background: rgba(76,175,80,0.06);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: var(--transition);
+  position: relative;
+}
+.ext-link-card:hover {
+  border-color: var(--green);
+  background: rgba(76,175,80,0.12);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(15,26,20,0.5);
+}
+
+.ext-link-icon { font-size: 1.6rem; line-height: 1; flex-shrink: 0; }
+
+.ext-link-title {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--cream);
+  margin-bottom: 0.2rem;
+}
+
+.ext-link-desc {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  color: var(--gray-light);
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.ext-link-arrow {
+  position: absolute;
+  top: 1rem; right: 1rem;
+  font-size: 1rem;
+  color: var(--green-dim);
+  transition: var(--transition);
+}
+.ext-link-card:hover .ext-link-arrow { color: var(--green-light); transform: translateX(3px); }
+
+/* ── RESPONSIVE ──────────────────────────────────────── */
+@media (max-width: 640px) {
+  .compteurs-grid { grid-template-columns: 1fr; }
+  .external-links-grid { grid-template-columns: 1fr; }
+  .compteur-value { font-size: 2.2rem; }
+}

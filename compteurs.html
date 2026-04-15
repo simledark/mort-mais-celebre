@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Compteurs Vitaux — Mort &amp; Célèbre</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Cormorant+SC:wght@300;400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="compteurs.css" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5509319064903881" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="noise-overlay"></div>
+
+  <header class="site-header">
+    <div class="header-ornament top-left">✦</div>
+    <div class="header-ornament top-right">✦</div>
+    <div class="header-rule"></div>
+    <div class="header-inner">
+      <p class="header-kicker">Mémorial Quotidien</p>
+      <h1 class="site-title"><a href="index.html" style="text-decoration:none;color:inherit">Mort &amp; Célèbre</a></h1>
+      <p class="header-sub">Ceux qui nous ont quittés — hier, aujourd'hui, autrefois</p>
+    </div>
+    <div class="header-rule"></div>
+  </header>
+
+  <nav class="date-nav">
+    <div class="date-nav-inner">
+      <a href="index.html" class="nav-btn">← Retour</a>
+      <a href="citations.html" class="nav-btn citations-btn">Citations Mortelles</a>
+      <a href="a-propos.html" class="nav-btn about-btn">À propos</a>
+    </div>
+  </nav>
+
+  <main class="compteurs-main">
+
+    <div class="compteurs-header">
+      <div class="section-header">
+        <div class="section-rule"></div>
+        <h2 class="section-title">Compteurs en temps réel</h2>
+        <div class="section-rule"></div>
+      </div>
+      <p class="compteurs-intro">Ces compteurs sont calculés à partir des statistiques mondiales officielles (OMS, INSEE, UICN) et s'actualisent en continu depuis le début de l'année en cours.</p>
+    </div>
+
+    <!-- GRILLE PRINCIPALE -->
+    <div class="compteurs-grid">
+
+      <!-- MORTS MONDE -->
+      <div class="compteur-card card-world">
+        <div class="compteur-card-top">
+          <span class="compteur-icon">🌍</span>
+          <div>
+            <div class="compteur-label">Décès dans le monde</div>
+            <div class="compteur-sublabel">depuis le 1ᵉʳ janvier <span class="current-year"></span></div>
+          </div>
+        </div>
+        <div class="compteur-value" id="c-world">0</div>
+        <div class="compteur-rate" id="r-world">≈ 2,0 morts / seconde</div>
+        <div class="compteur-bar-wrap"><div class="compteur-bar" id="b-world"></div></div>
+        <div class="compteur-source">Source : OMS — ~63,6M décès/an mondiaux</div>
+      </div>
+
+      <!-- ESPÈCES ÉTEINTES -->
+      <div class="compteur-card card-species">
+        <div class="compteur-card-top">
+          <span class="compteur-icon">🦏</span>
+          <div>
+            <div class="compteur-label">Espèces disparues</div>
+            <div class="compteur-sublabel">depuis le 1ᵉʳ janvier <span class="current-year"></span></div>
+          </div>
+        </div>
+        <div class="compteur-value" id="c-species">0</div>
+        <div class="compteur-rate" id="r-species">≈ 3 espèces / jour</div>
+        <div class="compteur-bar-wrap"><div class="compteur-bar" id="b-species"></div></div>
+        <div class="compteur-source">Source : UICN — ~1 000 espèces disparaissent/an</div>
+      </div>
+
+      <!-- MORTS FRANCE -->
+      <div class="compteur-card card-france">
+        <div class="compteur-card-top">
+          <span class="compteur-icon">🇫🇷</span>
+          <div>
+            <div class="compteur-label">Décès en France</div>
+            <div class="compteur-sublabel">depuis le 1ᵉʳ janvier <span class="current-year"></span></div>
+          </div>
+        </div>
+        <div class="compteur-value" id="c-france">0</div>
+        <div class="compteur-rate" id="r-france">≈ 1 mort toutes les 31 secondes</div>
+        <div class="compteur-bar-wrap"><div class="compteur-bar" id="b-france"></div></div>
+        <div class="compteur-source">Source : INSEE — ~680 000 décès/an en France</div>
+      </div>
+
+      <!-- MORTS PAR RÉGION / VILLE -->
+      <div class="compteur-card card-local">
+        <div class="compteur-card-top">
+          <span class="compteur-icon">📍</span>
+          <div>
+            <div class="compteur-label">Décès locaux</div>
+            <div class="compteur-sublabel">depuis le 1ᵉʳ janvier <span class="current-year"></span></div>
+          </div>
+        </div>
+
+        <div class="local-selector">
+          <select id="local-select" class="local-select" onchange="updateLocal()">
+            <option value="">— Choisir une région —</option>
+            <optgroup label="Régions de France">
+              <option value="ile-de-france">Île-de-France</option>
+              <option value="auvergne-rhone-alpes">Auvergne-Rhône-Alpes</option>
+              <option value="nouvelle-aquitaine">Nouvelle-Aquitaine</option>
+              <option value="occitanie">Occitanie</option>
+              <option value="hauts-de-france">Hauts-de-France</option>
+              <option value="grand-est">Grand Est</option>
+              <option value="paca">Provence-Alpes-Côte d'Azur</option>
+              <option value="pays-de-la-loire">Pays de la Loire</option>
+              <option value="normandie">Normandie</option>
+              <option value="bretagne">Bretagne</option>
+              <option value="bourgogne-franche-comte">Bourgogne-Franche-Comté</option>
+              <option value="centre-val-de-loire">Centre-Val de Loire</option>
+              <option value="corse">Corse</option>
+            </optgroup>
+            <optgroup label="Grandes villes">
+              <option value="paris">Paris</option>
+              <option value="marseille">Marseille</option>
+              <option value="lyon">Lyon</option>
+              <option value="toulouse">Toulouse</option>
+              <option value="nice">Nice</option>
+              <option value="nantes">Nantes</option>
+              <option value="bordeaux">Bordeaux</option>
+              <option value="lille">Lille</option>
+              <option value="strasbourg">Strasbourg</option>
+              <option value="rennes">Rennes</option>
+            </optgroup>
+          </select>
+        </div>
+
+        <div class="compteur-value" id="c-local">–</div>
+        <div class="compteur-rate" id="r-local">Sélectionnez une zone</div>
+        <div class="compteur-bar-wrap"><div class="compteur-bar" id="b-local"></div></div>
+        <div class="compteur-source">Source : INSEE — taux de mortalité régionaux</div>
+      </div>
+
+    </div>
+
+    <!-- LIEN VERS D'AUTRES COMPTEURS -->
+    <div class="more-counters-block">
+      <div class="section-header" style="margin-bottom:1rem;">
+        <div class="section-rule"></div>
+        <h2 class="section-title">Explorer d'autres compteurs</h2>
+        <div class="section-rule"></div>
+      </div>
+      <p class="compteurs-intro" style="margin-bottom:1.5rem;">Découvrez d'autres statistiques mondiales en temps réel : population, naissances, maladies, économie, environnement…</p>
+      <div class="external-links-grid">
+        <a href="https://www.worldometers.info/fr/" target="_blank" rel="noopener" class="ext-link-card">
+          <div class="ext-link-icon">🌐</div>
+          <div>
+            <div class="ext-link-title">Worldometers</div>
+            <div class="ext-link-desc">Le site de référence — 100+ compteurs mondiaux en temps réel</div>
+          </div>
+          <span class="ext-link-arrow">→</span>
+        </a>
+        <a href="https://countrymeters.info/fr/World" target="_blank" rel="noopener" class="ext-link-card">
+          <div class="ext-link-icon">📊</div>
+          <div>
+            <div class="ext-link-title">CountryMeters</div>
+            <div class="ext-link-desc">Population et mortalité par pays en direct</div>
+          </div>
+          <span class="ext-link-arrow">→</span>
+        </a>
+        <a href="https://www.planetoscope.com" target="_blank" rel="noopener" class="ext-link-card">
+          <div class="ext-link-icon">🌱</div>
+          <div>
+            <div class="ext-link-title">Planetoscope</div>
+            <div class="ext-link-desc">Compteurs environnementaux et écologiques (FR)</div>
+          </div>
+          <span class="ext-link-arrow">→</span>
+        </a>
+        <a href="https://www.thelifeyoucansave.org/impact-calculator/" target="_blank" rel="noopener" class="ext-link-card">
+          <div class="ext-link-icon">❤️</div>
+          <div>
+            <div class="ext-link-title">Impact Calculator</div>
+            <div class="ext-link-desc">Morts évitables et maladies dans le monde</div>
+          </div>
+          <span class="ext-link-arrow">→</span>
+        </a>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-rule"></div>
+    <p>Sources : <a href="https://www.who.int/fr" target="_blank">OMS</a> · <a href="https://www.insee.fr" target="_blank">INSEE</a> · <a href="https://www.iucnredlist.org" target="_blank">UICN</a></p>
+    <p class="footer-copy">Mort &amp; Célèbre · In Memoriam · <span id="footer-year"></span></p>
+    <div class="footer-ornament">✦ ✦ ✦</div>
+  </footer>
+
+  <script src="compteurs.js"></script>
+</body>
+</html>
