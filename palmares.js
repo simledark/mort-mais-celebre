@@ -170,7 +170,8 @@ function buildCounters() {
   const list = document.getElementById('counters-list');
   list.innerHTML = '';
   const secs = secsSinceJan1();
-  COMPTEURS.forEach((c, i) => {
+  const sorted = [...COMPTEURS].sort((a, b) => b.perYear - a.perYear);
+  sorted.forEach((c, i) => {
     const div = document.createElement('div');
     div.className = 'palmares-row';
     div.dataset.cat = c.categorie;
