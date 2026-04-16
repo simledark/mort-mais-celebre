@@ -170,9 +170,11 @@ function buildCounters() {
   const list = document.getElementById('counters-list');
   list.innerHTML = '';
   const secs = secsSinceJan1();
-  COMPTEURS.forEach((c, i) => {
+  const sorted = [...COMPTEURS].sort((a, b) => b.perYear - a.perYear);
+  sorted.forEach((c, i) => {
     const div = document.createElement('div');
     div.className = 'palmares-row';
+    div.id = 'pr-' + c.id;
     div.dataset.cat = c.categorie;
     div.style.animationDelay = `${i * 0.03}s`;
     const pct  = Math.min((c.perYear / 17_900_000) * 100, 100);
@@ -201,10 +203,20 @@ function buildCounters() {
 }
 
 function filterCounters() {
+  const list = document.getElementById('counters-list');
+  const sorted = [...COMPTEURS].sort((a, b) => b.perYear - a.perYear);
+  // Masquer/afficher
   document.querySelectorAll('.palmares-row').forEach(row => {
     const show = currentCat === 'all' || row.dataset.cat === currentCat;
     row.style.display = show ? '' : 'none';
   });
+  // Réordonner dans le DOM par perYear décroissant
+  sorted
+    .filter(c => currentCat === 'all' || c.categorie === currentCat)
+    .forEach(c => {
+      const row = document.getElementById('pr-' + c.id);
+      if (row) list.appendChild(row);
+    });
 }
 
 function tick() {
