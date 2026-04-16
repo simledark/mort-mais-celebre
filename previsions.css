@@ -59,9 +59,10 @@
 .prev-label {
   display: block;
   font-family: var(--font-sc);
-  font-size: 0.78rem;
-  letter-spacing: 0.2em;
-  color: var(--gold-dim2);
+  font-size: 0.82rem;
+  letter-spacing: 0.15em;
+  color: var(--gold-mid);
+  font-weight: 500;
   margin-bottom: 0.4rem;
 }
 
@@ -110,9 +111,9 @@
 .prev-error.hidden { display: none; }
 
 .prev-disclaimer {
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-style: italic;
-  color: var(--gray-light);
+  color: var(--gray);
   text-align: center;
   margin-top: 0.75rem;
 }
@@ -191,9 +192,9 @@
 
 .user-mode {
   font-family: var(--font-sc);
-  font-size: 0.72rem;
-  letter-spacing: 0.15em;
-  color: var(--gold-dim2);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  color: var(--gold-mid);
 }
 
 /* ── MAIN TABS ───────────────────────────────────────────── */
@@ -234,9 +235,10 @@
 }
 .prev-score-info {
   font-family: var(--font-sc);
-  font-size: 0.82rem;
-  letter-spacing: 0.1em;
-  color: var(--gold-dim2);
+  font-size: 0.86rem;
+  letter-spacing: 0.08em;
+  color: var(--gold-mid);
+  font-weight: 500;
   white-space: nowrap;
 }
 .prev-score-track {
@@ -254,9 +256,9 @@
   transition: width 0.6s ease;
 }
 .prev-score-deadline {
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-style: italic;
-  color: var(--gray-light);
+  color: var(--gray);
   white-space: nowrap;
 }
 
@@ -320,9 +322,9 @@
 }
 .pred-meta {
   font-family: var(--font-sc);
-  font-size: 0.7rem;
-  letter-spacing: 0.12em;
-  color: var(--gold-dim2);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  color: var(--gold-mid);
   margin-top: 1px;
 }
 
@@ -400,9 +402,9 @@
 }
 .equipe-meta {
   font-family: var(--font-sc);
-  font-size: 0.72rem;
-  letter-spacing: 0.15em;
-  color: var(--gold-dim2);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  color: var(--gold-mid);
   margin-top: 2px;
 }
 
@@ -439,14 +441,15 @@
 .admin-control-row:last-child { border-bottom: none; }
 .admin-label {
   font-family: var(--font-sc);
-  font-size: 0.78rem;
-  letter-spacing: 0.12em;
+  font-size: 0.84rem;
+  letter-spacing: 0.08em;
   color: var(--cream);
+  font-weight: 500;
 }
 .admin-sub {
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-style: italic;
-  color: var(--gray-light);
+  color: var(--gray);
   margin-top: 2px;
 }
 
@@ -504,9 +507,9 @@
   font-family: monospace;
 }
 .invite-qr-hint {
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-style: italic;
-  color: var(--gray-light);
+  color: var(--gray);
   margin: 0.5rem 0 0.5rem;
 }
 .invite-qr {
@@ -610,8 +613,9 @@
   border: 1px solid var(--border);
   color: var(--gray);
   font-family: var(--font-sc);
-  font-size: 0.72rem;
-  letter-spacing: 0.1em;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  font-weight: 500;
   padding: 0.3rem 0.75rem;
   border-radius: 20px;
   cursor: pointer;
@@ -665,9 +669,9 @@
 }
 .result-meta {
   font-family: var(--font-sc);
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  color: var(--gold-dim2);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: var(--gold-mid);
   margin-top: 2px;
 }
 
@@ -676,8 +680,9 @@
   border: 1px solid var(--border);
   color: var(--gold-mid);
   font-family: var(--font-sc);
-  font-size: 0.72rem;
-  letter-spacing: 0.1em;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  font-weight: 500;
   padding: 0.3rem 0.7rem;
   border-radius: 4px;
   cursor: pointer;
@@ -726,9 +731,9 @@
 }
 .suggestion-age {
   font-family: var(--font-sc);
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  color: var(--gold-dim2);
+  font-size: 0.74rem;
+  letter-spacing: 0.06em;
+  color: var(--gold-mid);
   flex-shrink: 0;
 }
 
@@ -774,8 +779,9 @@
 }
 .selected-celeb-wiki a {
   font-family: var(--font-sc);
-  font-size: 0.72rem;
-  letter-spacing: 0.1em;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  font-weight: 500;
   color: var(--gold-mid);
   text-decoration: none;
   border-bottom: 1px solid var(--border-strong);

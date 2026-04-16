@@ -4,23 +4,23 @@
    ============================================================ */
 
 :root {
-  --cream: #1C1A14;
-  --parchment: #2C2820;
+  --cream: #0F0E0A;
+  --parchment: #1A1814;
   --ink: #FAF8F4;
   --surface: #FFFFFF;
-  --gold: #B87A1A;
-  --gold-light: #D4952A;
-  --gold-dim: #8A5A10;
-  --red-death: #B82A22;
-  --red-light: #C0392B;
-  --gold-accent: #D4952A;
-  --gold-mid: #B87A1A;
-  --gold-dim2: #8A5A10;
-  --gray: #7A6E5E;
-  --gray-light: #5A5040;
-  --border: rgba(184,122,26,0.2);
-  --border-strong: rgba(184,122,26,0.45);
-  --shadow: rgba(28,26,20,0.12);
+  --gold: #9A620E;
+  --gold-light: #B87A1A;
+  --gold-dim: #7A4E0A;
+  --red-death: #A02018;
+  --red-light: #B82A22;
+  --gold-accent: #B87A1A;
+  --gold-mid: #9A620E;
+  --gold-dim2: #7A4E0A;
+  --gray: #4A4035;
+  --gray-light: #3A3028;
+  --border: rgba(154,98,14,0.25);
+  --border-strong: rgba(154,98,14,0.5);
+  --shadow: rgba(15,14,10,0.14);
   --font-display: 'Playfair Display', Georgia, serif;
   --font-body: 'EB Garamond', Georgia, serif;
   --font-sc: 'Cormorant SC', Georgia, serif;
@@ -34,8 +34,9 @@ body {
   background-color: #FAF8F4;
   color: var(--cream);
   font-family: var(--font-body);
-  font-size: 17px;
-  line-height: 1.65;
+  font-size: 18px;
+  line-height: 1.7;
+  font-weight: 400;
   min-height: 100vh;
   position: relative;
   overflow-x: hidden;
@@ -73,11 +74,12 @@ body {
 
 .header-kicker {
   font-family: var(--font-sc);
-  font-size: 0.78rem;
-  letter-spacing: 0.35em;
-  color: var(--gold-dim2);
+  font-size: 0.82rem;
+  letter-spacing: 0.3em;
+  color: var(--gold-mid);
   text-transform: uppercase;
   margin-bottom: 0.6rem;
+  font-weight: 500;
 }
 
 .site-title {
@@ -95,7 +97,7 @@ body {
   font-family: var(--font-body);
   font-style: italic;
   color: var(--gray);
-  font-size: 1rem;
+  font-size: 1.05rem;
   margin-top: 0.5rem;
 }
 
@@ -123,8 +125,9 @@ body {
   border: 1px solid var(--border);
   color: var(--gold-mid);
   font-family: var(--font-sc);
-  font-size: 0.85rem;
-  letter-spacing: 0.1em;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  font-weight: 500;
   padding: 0.4rem 0.9rem;
   cursor: pointer;
   transition: var(--transition);
@@ -283,10 +286,11 @@ body {
 
 .calc-label {
   font-family: var(--font-sc);
-  font-size: 0.67rem;
-  letter-spacing: 0.15em;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
   color: var(--gray);
   text-transform: uppercase;
+  font-weight: 500;
 }
 
 .calc-radio-group { display: flex; gap: 1rem; }
@@ -456,8 +460,8 @@ body {
 
 .section-title {
   font-family: var(--font-display);
-  font-size: 1.3rem;
-  font-weight: 400;
+  font-size: 1.35rem;
+  font-weight: 700;
   font-style: italic;
   color: var(--gold-mid);
   white-space: nowrap;
@@ -550,15 +554,16 @@ body {
 
 .card-dates {
   font-family: var(--font-sc);
-  font-size: 0.72rem;
-  letter-spacing: 0.15em;
+  font-size: 0.76rem;
+  letter-spacing: 0.12em;
   color: var(--gold-mid);
   margin-bottom: 0.5rem;
+  font-weight: 500;
 }
 
 .card-desc {
-  font-size: 0.85rem;
-  color: var(--gray-light);
+  font-size: 0.9rem;
+  color: var(--gray);
   font-style: italic;
   line-height: 1.4;
   display: -webkit-box;
@@ -571,9 +576,9 @@ body {
   display: inline-block;
   margin-top: 0.6rem;
   font-family: var(--font-sc);
-  font-size: 0.65rem;
-  letter-spacing: 0.18em;
-  color: var(--gold-dim2);
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  color: var(--gold-mid);
   border: 1px solid rgba(184,122,26,0.35);
   padding: 0.1rem 0.5rem;
   border-radius: 20px;
@@ -634,10 +639,11 @@ body {
 
 .timeline-year {
   font-family: var(--font-sc);
-  font-size: 0.75rem;
-  letter-spacing: 0.2em;
+  font-size: 0.8rem;
+  letter-spacing: 0.15em;
   color: var(--gold-mid);
   margin-bottom: 0.2rem;
+  font-weight: 600;
 }
 
 .timeline-name {
@@ -651,7 +657,7 @@ body {
 .timeline-name:hover { color: var(--gold-light); }
 
 .timeline-info {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   color: var(--gray);
   font-style: italic;
   margin-top: 0.1rem;
@@ -687,7 +693,7 @@ body {
 
 .sidebar-title {
   font-family: var(--font-display);
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 700;
   color: var(--gold-mid);
   letter-spacing: 0.02em;
@@ -733,7 +739,7 @@ body {
 }
 
 .counter-note {
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   color: var(--gray);
   font-style: italic;
   text-align: center;
@@ -806,7 +812,7 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.rank-detail { font-size: 0.75rem; color: var(--gray); font-style: italic; }
+.rank-detail { font-size: 0.8rem; color: var(--gray); font-style: italic; }
 .ranking-loading { color: var(--gray); font-style: italic; font-size: 0.85rem; padding: 0.5rem 0; }
 
 .quote-block {
@@ -900,7 +906,7 @@ body {
   font-size: 0.8rem; letter-spacing: 0.2em;
   color: var(--gold-mid); margin-bottom: 1rem;
 }
-.modal-desc { font-size: 0.95rem; color: var(--gray); line-height: 1.7; font-style: italic; }
+.modal-desc { font-size: 1rem; color: var(--gray); line-height: 1.75; font-style: italic; }
 .modal-link {
   display: inline-block; margin-top: 1.2rem;
   font-family: var(--font-sc); font-size: 0.75rem;
@@ -1120,7 +1126,7 @@ body {
   text-align: center; padding: 2rem;
   border-top: 1px solid var(--border);
   background: #F5F0E8;
-  color: var(--gray); font-size: 0.82rem;
+  color: var(--gray); font-size: 0.86rem;
 }
 .site-footer a { color: var(--gold-mid); text-decoration: none; }
 .site-footer a:hover { color: var(--gold-light); }
