@@ -116,6 +116,9 @@ function setupDomainFilters() {
    ═══════════════════════════════════════════════════════════ */
 
 async function doRegister() {
+  const firstname  = document.getElementById('reg-firstname').value.trim();
+  const lastname   = document.getElementById('reg-lastname').value.trim();
+  const birthdate  = document.getElementById('reg-birthdate').value;
   const pseudo     = document.getElementById('reg-pseudo').value.trim();
   const email      = document.getElementById('reg-email').value.trim();
   const pass       = document.getElementById('reg-password').value;
@@ -135,7 +138,10 @@ async function doRegister() {
 
   const { error } = await sb.auth.signUp({
     email, password: pass,
-    options: { data: { pseudo, newsletter }, emailRedirectTo: window.location.href }
+    options: {
+      data: { pseudo, newsletter, first_name: firstname, last_name: lastname, birth_date: birthdate },
+      emailRedirectTo: window.location.href
+    }
   });
   if (error) return err(error.message);
   showConfirmEmail(email);
@@ -163,6 +169,135 @@ async function doLogin() {
 
 async function doLogout() { await sb.auth.signOut(); }
 
+
+/* ═══════════════════════════════════════════════════════════
+   GESTION DU COMPTE
+   ═══════════════════════════════════════════════════════════ */
+
+async function showAccountScreen() {
+  if (!currentProfile) return;
+  // Pré-remplir les champs
+  document.getElementById('acc-firstname').value  = currentProfile.first_name  || '';
+  document.getElementById('acc-lastname').value   = currentProfile.last_name   || '';
+  document.getElementById('acc-birthdate').value  = currentProfile.birth_date  || '';
+  document.getElementById('acc-pseudo').value     = currentProfile.pseudo      || '';
+  document.getElementById('acc-email').value      = currentUser.email          || '';
+  document.getElementById('acc-newsletter').checked = currentProfile.newsletter !== false;
+  // Masquer les messages
+  document.getElementById('account-success').classList.add('hidden');
+  document.getElementById('account-error').classList.add('hidden');
+  document.getElementById('newsletter-success').classList.add('hidden');
+  document.getElementById('password-error').classList.add('hidden');
+  document.getElementById('password-success').classList.add('hidden');
+  showScreen('screen-account');
+}
+
+async function saveAccount() {
+  const pseudo     = document.getElementById('acc-pseudo').value.trim();
+  const firstname  = document.getElementById('acc-firstname').value.trim();
+  const lastname   = document.getElementById('acc-lastname').value.trim();
+  const birthdate  = document.getElementById('acc-birthdate').value;
+  const errEl      = document.getElementById('account-error');
+  const okEl       = document.getElementById('account-success');
+  errEl.classList.add('hidden');
+  okEl.classList.add('hidden');
+
+  if (!pseudo || pseudo.length < 2) {
+    errEl.textContent = 'Le pseudonyme doit faire au moins 2 caracteres.';
+    errEl.classList.remove('hidden'); return;
+  }
+
+  // Verifier unicite pseudo si change
+  if (pseudo !== currentProfile.pseudo) {
+    const { data: existing } = await sb.from('profiles').select('pseudo').eq('pseudo', pseudo).maybeSingle();
+    if (existing) {
+      errEl.textContent = 'Ce pseudonyme est deja utilise.';
+      errEl.classList.remove('hidden'); return;
+    }
+  }
+
+  const { error } = await sb.from('profiles').update({
+    pseudo     : pseudo,
+    first_name : firstname || null,
+    last_name  : lastname  || null,
+    birth_date : birthdate || null,
+  }).eq('id', currentUser.id);
+
+  if (error) {
+    errEl.textContent = 'Erreur : ' + error.message;
+    errEl.classList.remove('hidden'); return;
+  }
+
+  // Mettre a jour le profil local
+  currentProfile.pseudo     = pseudo;
+  currentProfile.first_name = firstname;
+  currentProfile.last_name  = lastname;
+  currentProfile.birth_date = birthdate;
+
+  // Mettre a jour l'affichage dans la barre utilisateur
+  document.getElementById('user-avatar-main').textContent   = pseudo[0].toUpperCase();
+  document.getElementById('user-pseudo-display').textContent = pseudo;
+
+  okEl.classList.remove('hidden');
+  setTimeout(function() { okEl.classList.add('hidden'); }, 3000);
+}
+
+async function saveNewsletter() {
+  const checked = document.getElementById('acc-newsletter').checked;
+  const okEl    = document.getElementById('newsletter-success');
+  okEl.classList.add('hidden');
+
+  await sb.from('profiles').update({ newsletter: checked }).eq('id', currentUser.id);
+  currentProfile.newsletter = checked;
+
+  okEl.classList.remove('hidden');
+  setTimeout(function() { okEl.classList.add('hidden'); }, 3000);
+}
+
+async function changePassword() {
+  const pass  = document.getElementById('acc-newpass').value;
+  const pass2 = document.getElementById('acc-newpass2').value;
+  const errEl = document.getElementById('password-error');
+  const okEl  = document.getElementById('password-success');
+  errEl.classList.add('hidden');
+  okEl.classList.add('hidden');
+
+  if (pass.length < 8) {
+    errEl.textContent = 'Le mot de passe doit faire au moins 8 caracteres.';
+    errEl.classList.remove('hidden'); return;
+  }
+  if (pass !== pass2) {
+    errEl.textContent = 'Les mots de passe ne correspondent pas.';
+    errEl.classList.remove('hidden'); return;
+  }
+
+  const { error } = await sb.auth.updateUser({ password: pass });
+  if (error) {
+    errEl.textContent = 'Erreur : ' + error.message;
+    errEl.classList.remove('hidden'); return;
+  }
+
+  document.getElementById('acc-newpass').value  = '';
+  document.getElementById('acc-newpass2').value = '';
+  okEl.classList.remove('hidden');
+  setTimeout(function() { okEl.classList.add('hidden'); }, 3000);
+}
+
+async function deleteAccount() {
+  if (!confirm('Supprimer definitivement votre compte ?\nToutes vos previsions seront supprimees. Cette action est irreversible.')) return;
+  if (!confirm('Derniere confirmation : supprimer le compte de ' + (currentProfile.pseudo || currentUser.email) + ' ?')) return;
+
+  // Supprimer les previsions
+  await sb.from('predictions').delete().eq('user_id', currentUser.id);
+  // Quitter toutes les equipes
+  await sb.from('team_members').delete().eq('user_id', currentUser.id);
+  // Supprimer le profil
+  await sb.from('profiles').delete().eq('id', currentUser.id);
+  // Deconnexion (le compte auth est supprime cote serveur via trigger ou manuellement)
+  await sb.auth.signOut();
+  alert('Votre compte a ete supprime. A bientot !');
+}
+
 async function loadProfileAndEnter() {
   await reloadProfile();
   showScreen('screen-main');
@@ -186,9 +321,10 @@ async function reloadProfile() {
     currentTeam = currentUserTeams[0] || null;
   }
 
-  const displayName = (profile && profile.pseudo) ? profile.pseudo : (currentUser.email || '?');
+  // Toujours utiliser le pseudo enregistré en base, jamais l'email
+  const displayName = (profile && profile.pseudo) ? profile.pseudo : '?';
   document.getElementById('user-avatar-main').textContent   = displayName[0].toUpperCase();
-  document.getElementById('user-pseudo-display').textContent = (profile && profile.pseudo) ? profile.pseudo : currentUser.email;
+  document.getElementById('user-pseudo-display').textContent = displayName;
   document.getElementById('user-mode-display').textContent  = currentUserTeams.length > 0
     ? currentUserTeams.length + ' equipe' + (currentUserTeams.length > 1 ? 's' : '') : 'Predicteur solo';
 }

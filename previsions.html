@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Prévisions 2026 — Mort &amp; Célèbre</title>
-  <meta name="description" content="Faites vos prévisions de disparitions de célébrités pour 2026. Jouez en solo ou en équipe." />
+  <meta name="description" content="Faites vos prévisions de disparitions de célébrités pour 2026." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Cormorant+SC:wght@300;400;600&display=swap" rel="stylesheet" />
@@ -15,7 +15,6 @@
 <body>
   <div class="noise-overlay"></div>
 
-  <!-- HEADER -->
   <header class="site-header">
     <div class="header-ornament top-left">✦</div>
     <div class="header-ornament top-right">✦</div>
@@ -28,7 +27,6 @@
     <div class="header-rule"></div>
   </header>
 
-  <!-- NAV -->
   <nav class="date-nav">
     <div class="date-nav-inner">
       <a href="index.html" class="nav-btn">← Accueil</a>
@@ -38,7 +36,9 @@
     </div>
   </nav>
 
-  <!-- ÉCRAN : NON CONNECTÉ -->
+  <!-- ══════════════════════════════════════════════════
+       ÉCRAN AUTH
+  ══════════════════════════════════════════════════ -->
   <div id="screen-auth" class="prev-screen hidden">
     <div class="prev-container prev-auth-wrap">
       <div class="section-header">
@@ -51,7 +51,6 @@
         jouez seul ou en équipe. Le palmarès sera révélé le 1er janvier 2027.
       </p>
 
-      <!-- TABS -->
       <div class="auth-tabs">
         <button class="auth-tab active" data-tab="login">Se connecter</button>
         <button class="auth-tab" data-tab="register">Créer un compte</button>
@@ -73,6 +72,20 @@
 
       <!-- REGISTER -->
       <div id="tab-register" class="auth-form hidden">
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.75rem;">
+          <div class="prev-field" style="margin-bottom:0">
+            <label class="prev-label">Prénom</label>
+            <input type="text" id="reg-firstname" class="prev-input" placeholder="Jean" autocomplete="given-name" />
+          </div>
+          <div class="prev-field" style="margin-bottom:0">
+            <label class="prev-label">Nom</label>
+            <input type="text" id="reg-lastname" class="prev-input" placeholder="Dupont" autocomplete="family-name" />
+          </div>
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Date de naissance</label>
+          <input type="date" id="reg-birthdate" class="prev-input" />
+        </div>
         <div class="prev-field">
           <label class="prev-label">Pseudonyme <span class="prev-hint">(visible publiquement)</span></label>
           <input type="text" id="reg-pseudo" class="prev-input" placeholder="Ex : LeGrandProphète" maxlength="30" />
@@ -91,7 +104,7 @@
         </div>
         <div class="prev-field" style="display:flex;align-items:center;gap:0.6rem;margin-top:0.25rem">
           <input type="checkbox" id="reg-newsletter" checked style="width:16px;height:16px;accent-color:var(--gold);cursor:pointer;flex-shrink:0" />
-          <label for="reg-newsletter" style="font-size:0.85rem;color:var(--gray);cursor:pointer;font-style:italic">
+          <label for="reg-newsletter" style="font-size:0.9rem;color:var(--gray);cursor:pointer;font-style:italic">
             Recevoir la newsletter annuelle de Mort &amp; Célèbre (résultats, palmarès)
           </label>
         </div>
@@ -102,11 +115,12 @@
     </div>
   </div>
 
-  <!-- ÉCRAN PRINCIPAL : CONNECTÉ -->
+  <!-- ══════════════════════════════════════════════════
+       ÉCRAN PRINCIPAL
+  ══════════════════════════════════════════════════ -->
   <div id="screen-main" class="prev-screen hidden">
     <div class="prev-container">
 
-      <!-- BARRE UTILISATEUR -->
       <div class="user-bar">
         <div class="user-bar-left">
           <span class="user-avatar" id="user-avatar-main">?</span>
@@ -117,29 +131,24 @@
         </div>
         <div class="user-bar-right">
           <button class="prev-btn prev-btn-sm" onclick="showScreen('screen-add')">+ Prévision</button>
+          <button class="prev-btn prev-btn-sm" onclick="showAccountScreen()" title="Mon compte" style="padding:5px 10px;">⚙</button>
           <button class="prev-btn prev-btn-sm prev-btn-ghost" onclick="doLogout()">Déconnexion</button>
         </div>
       </div>
 
-      <!-- ONGLETS PRINCIPAUX -->
       <div class="main-tabs">
         <button class="main-tab active" data-tab="mes-previsions">Mes prévisions</button>
-        <button class="main-tab" data-tab="mon-equipe" id="tab-equipe-btn">Mon équipe</button>
+        <button class="main-tab" data-tab="mon-equipe">Mon équipe</button>
         <button class="main-tab" data-tab="rejoindre">Rejoindre / Créer</button>
       </div>
 
-      <!-- ONGLET : MES PRÉVISIONS -->
+      <!-- MES PRÉVISIONS -->
       <div id="tab-mes-previsions" class="main-tab-content">
         <div class="prev-score-bar">
-          <div class="prev-score-info">
-            <span id="score-count">0</span> / 20 prévisions
-          </div>
-          <div class="prev-score-track">
-            <div class="prev-score-fill" id="score-fill"></div>
-          </div>
+          <div class="prev-score-info"><span id="score-count">0</span> / 20 prévisions</div>
+          <div class="prev-score-track"><div class="prev-score-fill" id="score-fill"></div></div>
           <div class="prev-score-deadline">Clôture le 31 déc. 23h59</div>
         </div>
-
         <div id="my-predictions-list" class="predictions-list"></div>
         <div id="my-predictions-empty" class="prev-empty hidden">
           <div class="prev-empty-icon">✦</div>
@@ -148,7 +157,7 @@
         </div>
       </div>
 
-      <!-- ONGLET : MON ÉQUIPE -->
+      <!-- MON ÉQUIPE -->
       <div id="tab-mon-equipe" class="main-tab-content hidden">
         <div id="equipe-no-team" class="prev-empty">
           <div class="prev-empty-icon">⚔</div>
@@ -156,7 +165,6 @@
           <button class="prev-btn prev-btn-primary" onclick="switchMainTab('rejoindre')">Rejoindre ou créer une équipe</button>
         </div>
         <div id="equipe-content" class="hidden">
-          <!-- Infos équipe -->
           <div class="equipe-header" id="equipe-header">
             <div>
               <div class="equipe-name" id="equipe-name-display"></div>
@@ -166,8 +174,6 @@
               <div id="equipe-admin-badge" class="prev-badge prev-badge-gold hidden">Admin</div>
             </div>
           </div>
-
-          <!-- Paramètres admin -->
           <div id="equipe-admin-panel" class="equipe-admin-panel hidden">
             <div class="section-header" style="margin-top:1.5rem">
               <div class="section-rule"></div>
@@ -197,19 +203,15 @@
                 </div>
               </div>
             </div>
-
-            <!-- Invitation -->
             <div class="invite-block">
               <div class="admin-label" style="margin-bottom:0.5rem">Lien d'invitation</div>
               <div class="invite-link-wrap">
                 <code class="invite-link" id="invite-link-display"></code>
                 <button class="prev-btn prev-btn-sm" onclick="copyInviteLink()">Copier</button>
               </div>
-              <div class="invite-qr-hint">Partagez ce lien ou le QR code ci-dessous :</div>
+              <div class="invite-qr-hint">Partagez ce lien ou le QR code :</div>
               <div id="invite-qr" class="invite-qr"></div>
             </div>
-
-            <!-- Membres -->
             <div class="section-header" style="margin-top:1.5rem">
               <div class="section-rule"></div>
               <h3 class="section-title" style="font-size:1rem">Membres</h3>
@@ -217,16 +219,12 @@
             </div>
             <div id="equipe-members-list" class="members-list"></div>
           </div>
-
-          <!-- Prévisions de l'équipe -->
           <div class="section-header" style="margin-top:1.5rem">
             <div class="section-rule"></div>
             <h3 class="section-title" style="font-size:1rem">Prévisions partagées</h3>
             <div class="section-rule"></div>
           </div>
           <div id="equipe-predictions-list" class="predictions-list"></div>
-
-          <!-- Classement interne -->
           <div class="section-header" style="margin-top:1.5rem">
             <div class="section-rule"></div>
             <h3 class="section-title" style="font-size:1rem">Classement de l'équipe</h3>
@@ -236,9 +234,8 @@
         </div>
       </div>
 
-      <!-- ONGLET : REJOINDRE / CRÉER -->
+      <!-- REJOINDRE / CRÉER -->
       <div id="tab-rejoindre" class="main-tab-content hidden">
-        <!-- Créer -->
         <div class="section-header">
           <div class="section-rule"></div>
           <h3 class="section-title">Créer une équipe</h3>
@@ -250,10 +247,7 @@
         </div>
         <div id="create-team-error" class="prev-error hidden"></div>
         <button class="prev-btn prev-btn-primary" onclick="createTeam()">Créer l'équipe</button>
-
         <div class="prev-divider">ou</div>
-
-        <!-- Rejoindre -->
         <div class="section-header">
           <div class="section-rule"></div>
           <h3 class="section-title">Rejoindre via un lien</h3>
@@ -270,7 +264,100 @@
     </div>
   </div>
 
-  <!-- ÉCRAN : AJOUTER UNE PRÉVISION -->
+  <!-- ══════════════════════════════════════════════════
+       ÉCRAN MON COMPTE
+  ══════════════════════════════════════════════════ -->
+  <div id="screen-account" class="prev-screen hidden">
+    <div class="prev-container">
+      <div class="section-header">
+        <div class="section-rule"></div>
+        <h2 class="section-title">Mon compte</h2>
+        <div class="section-rule"></div>
+      </div>
+      <button class="prev-btn prev-btn-ghost" style="margin-bottom:1.5rem" onclick="showScreen('screen-main')">← Retour</button>
+
+      <!-- INFOS PERSONNELLES -->
+      <div class="account-section">
+        <div class="account-section-title">Informations personnelles</div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.75rem;">
+          <div class="prev-field" style="margin-bottom:0">
+            <label class="prev-label">Prénom</label>
+            <input type="text" id="acc-firstname" class="prev-input" placeholder="Prénom" autocomplete="given-name" />
+          </div>
+          <div class="prev-field" style="margin-bottom:0">
+            <label class="prev-label">Nom</label>
+            <input type="text" id="acc-lastname" class="prev-input" placeholder="Nom" autocomplete="family-name" />
+          </div>
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Date de naissance</label>
+          <input type="date" id="acc-birthdate" class="prev-input" />
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Pseudonyme <span class="prev-hint">(visible publiquement)</span></label>
+          <input type="text" id="acc-pseudo" class="prev-input" placeholder="Votre pseudo" maxlength="30" />
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Email <span class="prev-hint">(non modifiable)</span></label>
+          <input type="email" id="acc-email" class="prev-input" disabled style="opacity:0.6;cursor:not-allowed;" />
+        </div>
+        <div id="account-success" class="prev-success hidden">✓ Informations mises à jour</div>
+        <div id="account-error" class="prev-error hidden"></div>
+        <button class="prev-btn prev-btn-primary" onclick="saveAccount()">Enregistrer les modifications</button>
+      </div>
+
+      <div class="prev-divider"></div>
+
+      <!-- NEWSLETTER -->
+      <div class="account-section">
+        <div class="account-section-title">Newsletter</div>
+        <div class="prev-field" style="display:flex;align-items:center;gap:0.75rem;margin-bottom:0.5rem">
+          <input type="checkbox" id="acc-newsletter" style="width:18px;height:18px;accent-color:var(--gold);cursor:pointer;flex-shrink:0" />
+          <label for="acc-newsletter" style="font-size:0.95rem;color:var(--gray);cursor:pointer;">
+            Recevoir la newsletter annuelle de Mort &amp; Célèbre (résultats du palmarès, bilan de l'année)
+          </label>
+        </div>
+        <button class="prev-btn" style="margin-top:0.5rem" onclick="saveNewsletter()">Mettre à jour</button>
+        <div id="newsletter-success" class="prev-success hidden">✓ Préférence enregistrée</div>
+      </div>
+
+      <div class="prev-divider"></div>
+
+      <!-- MOT DE PASSE -->
+      <div class="account-section">
+        <div class="account-section-title">Changer de mot de passe</div>
+        <div class="prev-field">
+          <label class="prev-label">Nouveau mot de passe</label>
+          <input type="password" id="acc-newpass" class="prev-input" placeholder="8 caractères minimum" autocomplete="new-password" />
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Confirmer le nouveau mot de passe</label>
+          <input type="password" id="acc-newpass2" class="prev-input" placeholder="••••••••" autocomplete="new-password" />
+        </div>
+        <div id="password-error" class="prev-error hidden"></div>
+        <div id="password-success" class="prev-success hidden">✓ Mot de passe mis à jour</div>
+        <button class="prev-btn prev-btn-primary" onclick="changePassword()">Changer le mot de passe</button>
+      </div>
+
+      <div class="prev-divider"></div>
+
+      <!-- SUPPRIMER LE COMPTE -->
+      <div class="account-section">
+        <div class="account-section-title" style="color:var(--red-death)">Zone de danger</div>
+        <p style="font-size:0.95rem;color:var(--gray);font-style:italic;margin-bottom:1rem;">
+          La suppression de votre compte est définitive. Toutes vos prévisions seront supprimées.
+        </p>
+        <button class="prev-btn" style="border-color:rgba(184,42,34,0.4);color:var(--red-death);" onclick="deleteAccount()">
+          Supprimer mon compte
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════
+       ÉCRAN AJOUTER UNE PRÉVISION
+  ══════════════════════════════════════════════════ -->
   <div id="screen-add" class="prev-screen hidden">
     <div class="prev-container">
       <div class="section-header">
@@ -280,7 +367,6 @@
       </div>
       <button class="prev-btn prev-btn-ghost" style="margin-bottom:1.5rem" onclick="showScreen('screen-main')">← Retour</button>
 
-      <!-- RECHERCHE -->
       <div class="prev-field">
         <label class="prev-label">Rechercher une célébrité encore en vie</label>
         <div class="search-wrap">
@@ -290,7 +376,6 @@
         <p class="prev-hint-text">Seules les personnalités <strong>encore en vie</strong> apparaissent (vérifié via Wikidata).</p>
       </div>
 
-      <!-- FILTRES PAR DOMAINE -->
       <div class="domain-filters" id="domain-filters">
         <button class="domain-btn active" data-domain="">Tous</button>
         <button class="domain-btn" data-domain="music">Musique</button>
@@ -301,7 +386,6 @@
         <button class="domain-btn" data-domain="science">Sciences</button>
       </div>
 
-      <!-- RÉSULTATS -->
       <div id="search-results" class="search-results"></div>
       <div id="search-empty" class="prev-empty hidden">
         <p>Aucune personnalité trouvée, ou cette personne est déjà décédée.</p>
@@ -311,7 +395,6 @@
         <div id="suggestions-list" class="suggestions-grid"></div>
       </div>
 
-      <!-- VISIBILITÉ -->
       <div class="visibility-block" id="visibility-block" style="display:none">
         <div class="prev-label">Visibilité de cette prévision</div>
         <div class="visibility-opts">
@@ -321,7 +404,6 @@
         </div>
       </div>
 
-      <!-- CÉLÉBRITÉ SÉLECTIONNÉE -->
       <div id="selected-celebrity" class="selected-celeb hidden">
         <div class="selected-celeb-inner">
           <img id="selected-img" src="" alt="" class="selected-celeb-img" onerror="this.style.display='none'" />
@@ -334,7 +416,6 @@
         <button class="prev-btn prev-btn-primary" onclick="confirmPrediction()">✦ Confirmer cette prévision</button>
         <button class="prev-btn prev-btn-ghost" onclick="clearSelection()">Changer de célébrité</button>
       </div>
-
     </div>
   </div>
 
@@ -350,7 +431,6 @@
     </div>
   </div>
 
-  <!-- FOOTER -->
   <footer class="site-footer">
     <div class="footer-rule"></div>
     <p>Sources : <a href="https://www.wikidata.org" target="_blank">Wikidata</a> · <a href="https://fr.wikipedia.org" target="_blank">Wikipédia</a></p>
