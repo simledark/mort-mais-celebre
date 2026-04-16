@@ -198,20 +198,7 @@ async function doLogout() {
 }
 
 async function loadProfileAndEnter() {
-  const { data: profile } = await sb
-    .from('profiles')
-    .select('*, teams(*)')
-    .eq('id', currentUser.id)
-    .maybeSingle();
-
-  currentProfile = profile;
-  currentTeam    = profile?.teams ?? null;
-
-  document.getElementById('user-avatar-main').textContent = (profile?.pseudo ?? '?')[0].toUpperCase();
-  document.getElementById('user-pseudo-display').textContent = profile?.pseudo ?? currentUser.email;
-  document.getElementById('user-mode-display').textContent   = currentTeam
-    ? `Équipe : ${currentTeam.name}` : 'Prédicteur solo';
-
+  await reloadProfile();
   showScreen('screen-main');
   await renderMyPredictions();
   loadSuggestions('');
@@ -344,9 +331,13 @@ async function createTeam() {
   const { data: team, error } = await sb.from('teams').insert({ name, admin_id: currentUser.id }).select().single();
   if (error) { errEl.textContent = error.message; errEl.classList.remove('hidden'); return; }
 
+  // Rattacher le profil à l'équipe en base
   await sb.from('profiles').update({ team_id: team.id }).eq('id', currentUser.id);
-  currentTeam = team; currentProfile.team_id = team.id;
-  document.getElementById('user-mode-display').textContent = `Équipe : ${team.name}`;
+
+  // Recharger le profil complet depuis Supabase
+  await reloadProfile();
+
+  document.getElementById('new-team-name').value = '';
   switchMainTab('mon-equipe');
 }
 
@@ -363,9 +354,29 @@ async function joinTeam() {
   if (!team) { errEl.textContent = 'Code invalide.'; errEl.classList.remove('hidden'); return; }
 
   await sb.from('profiles').update({ team_id: team.id }).eq('id', currentUser.id);
-  currentTeam = team; currentProfile.team_id = team.id;
-  document.getElementById('user-mode-display').textContent = `Équipe : ${team.name}`;
+
+  // Recharger le profil complet depuis Supabase
+  await reloadProfile();
+
+  document.getElementById('join-code').value = '';
   switchMainTab('mon-equipe');
+}
+
+// Recharge le profil + équipe depuis Supabase et met à jour l'affichage
+async function reloadProfile() {
+  const { data: profile } = await sb
+    .from('profiles')
+    .select('*, teams(*)')
+    .eq('id', currentUser.id)
+    .maybeSingle();
+
+  currentProfile = profile;
+  currentTeam    = profile?.teams ?? null;
+
+  document.getElementById('user-avatar-main').textContent = (profile?.pseudo ?? '?')[0].toUpperCase();
+  document.getElementById('user-pseudo-display').textContent = profile?.pseudo ?? currentUser.email;
+  document.getElementById('user-mode-display').textContent   = currentTeam
+    ? `Équipe : ${currentTeam.name}` : 'Prédicteur solo';
 }
 
 async function renderTeamTab() {
