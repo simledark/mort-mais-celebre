@@ -922,7 +922,16 @@ function getFilteredData() {
   });
 }
 
+var palmaresVisibleCount = 10;
+
+var palmaresVisibleCount = 10;
+
 function renderPalmares(items) {
+  palmaresVisibleCount = 10;
+  renderPalmaresRows(items, palmaresVisibleCount);
+}
+
+function renderPalmaresRows(items, visibleCount) {
   var listEl = document.getElementById('palmares-list');
   if (!listEl) return;
 
@@ -940,31 +949,30 @@ function renderPalmares(items) {
   var rankClasses = ['gold', 'silver', 'bronze'];
 
   listEl.innerHTML = '';
-  items.slice(0, 30).forEach(function(item, i) {
+  items.slice(0, visibleCount).forEach(function(item, i) {
     var row = document.createElement('div');
     row.className = 'pub-row';
     row.style.animationDelay = (i * 0.04) + 's';
 
-    var val   = palmaresTab === 'scores' ? item.confirmed : item.citations;
-    var label = palmaresTab === 'scores' ? 'confirmé' + (val > 1 ? 's' : '') : 'prédiction' + (val > 1 ? 's' : '');
-    var pct   = Math.round((val / maxVal) * 100);
+    var val      = palmaresTab === 'scores' ? item.confirmed : item.citations;
+    var label    = palmaresTab === 'scores' ? 'confirmé' + (val > 1 ? 's' : '') : 'prédiction' + (val > 1 ? 's' : '');
+    var pct      = Math.round((val / maxVal) * 100);
     var rankHtml = i < 3
       ? '<div class="pub-rank ' + rankClasses[i] + '">' + medals[i] + '</div>'
       : '<div class="pub-rank">' + (i + 1) + '</div>';
 
     var imgHtml = item.imageUrl
-      ? '<img class="pub-thumb" src="' + esc(item.imageUrl) + '" alt="' + esc(item.name) + '" onerror=\"imgFallback(this,\'pub-thumb-placeholder\')\">'
+      ? '<img class="pub-thumb" src="' + esc(item.imageUrl) + '" alt="' + esc(item.name) + '" onerror="imgFallback(this,&quot;pub-thumb-placeholder&quot;)">'
       : '<div class="pub-thumb-placeholder">&#x271D;</div>';
 
-    var barClass = palmaresTab === 'scores' ? 'pub-bar-fill confirmed' : 'pub-bar-fill';
+    var barClass  = palmaresTab === 'scores' ? 'pub-bar-fill confirmed' : 'pub-bar-fill';
     var metaParts = [item.domain, item.nationality, item.age ? item.age + ' ans' : null].filter(Boolean);
 
     row.innerHTML =
-      rankHtml +
-      imgHtml +
+      rankHtml + imgHtml +
       '<div class="pub-info">' +
         '<div class="pub-name">' + esc(item.name) + '</div>' +
-        '<div class="pub-meta">' + esc(metaParts.join(' &middot; ')) + '</div>' +
+        '<div class="pub-meta">' + esc(metaParts.join(' · ')) + '</div>' +
       '</div>' +
       '<div style="text-align:right;flex-shrink:0;">' +
         '<div class="pub-count">' + val + '</div>' +
@@ -973,9 +981,21 @@ function renderPalmares(items) {
           '<div class="' + barClass + '" style="width:' + pct + '%"></div>' +
         '</div>' +
       '</div>';
-
     listEl.appendChild(row);
   });
+
+  // Bouton Voir plus
+  if (visibleCount < items.length) {
+    var remaining = items.length - visibleCount;
+    var btn = document.createElement('button');
+    btn.className = 'palmares-voir-plus';
+    btn.innerHTML = 'Voir ' + Math.min(remaining, 10) + ' de plus &nbsp;<span style="opacity:0.55;font-size:0.82em">(' + remaining + ' restants)</span>';
+    btn.onclick = function() {
+      palmaresVisibleCount += 10;
+      renderPalmaresRows(items, palmaresVisibleCount);
+    };
+    listEl.appendChild(btn);
+  }
 }
 
 function switchPalmaresTab(tab) {

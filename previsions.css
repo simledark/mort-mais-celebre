@@ -1143,3 +1143,28 @@
   .palmares-filters::-webkit-scrollbar { display: none; }
   .pfilter-btn { flex-shrink: 0; }
 }
+
+/* ── BOUTON VOIR PLUS (palmarès public) ──────────────── */
+.palmares-voir-plus {
+  display: block;
+  width: 100%;
+  margin-top: 0.75rem;
+  padding: 0.6rem 1rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-family: var(--font-sc);
+  font-size: 0.84rem;
+  letter-spacing: 0.1em;
+  color: var(--gold-mid);
+  cursor: pointer;
+  transition: var(--transition);
+  text-align: center;
+}
+.palmares-voir-plus:hover {
+  background: rgba(154,98,14,0.06);
+  border-color: var(--gold);
+}
+.palmares-voir-plus span {
+  color: var(--gray);
+}
