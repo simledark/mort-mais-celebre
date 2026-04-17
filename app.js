@@ -279,8 +279,13 @@ function renderCards(people) {
 }
 
 /* ── RENDER TIMELINE (history) ──────────────────────────── */
+let historyVisibleCount = 10;
+let historySortedCache  = [];
+
 function renderHistory(people, century) {
   $timelineHist.innerHTML = '';
+  historyVisibleCount = 10; // reset à chaque changement de filtre/date
+
   const filtered = people.filter(p => {
     if (century === 'all') return true;
     if (century === '21')  return p.year >= 2000;
@@ -296,9 +301,14 @@ function renderHistory(people, century) {
   }
   $emptyHist.classList.add('hidden');
 
-  // Sort descending
-  const sorted = [...filtered].sort((a, b) => b.year - a.year);
-  sorted.forEach((p, i) => {
+  historySortedCache = [...filtered].sort((a, b) => b.year - a.year);
+  renderHistoryRows(historySortedCache, historyVisibleCount);
+}
+
+function renderHistoryRows(sorted, visibleCount) {
+  $timelineHist.innerHTML = '';
+
+  sorted.slice(0, visibleCount).forEach((p, i) => {
     const el = document.createElement('div');
     el.className = 'timeline-entry';
     el.style.animationDelay = `${i * 0.04}s`;
@@ -310,6 +320,19 @@ function renderHistory(people, century) {
     el.addEventListener('click', () => openModal(p));
     $timelineHist.appendChild(el);
   });
+
+  // Bouton Voir plus
+  if (visibleCount < sorted.length) {
+    const remaining = sorted.length - visibleCount;
+    const btn = document.createElement('button');
+    btn.className = 'timeline-voir-plus';
+    btn.innerHTML = `Voir ${Math.min(remaining, 10)} de plus <span>(${remaining} restants)</span>`;
+    btn.addEventListener('click', () => {
+      historyVisibleCount += 10;
+      renderHistoryRows(historySortedCache, historyVisibleCount);
+    });
+    $timelineHist.appendChild(btn);
+  }
 }
 
 /* ── MODAL ──────────────────────────────────────────────── */

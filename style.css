@@ -1324,3 +1324,30 @@ body {
   .calc-btn { font-size: 0.82rem; padding: 0.6rem; }
   .result-age { font-size: 2.2rem; }
 }
+
+/* ── BOUTON VOIR PLUS (timeline histoire) ────────────── */
+.timeline-voir-plus {
+  display: block;
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.55rem 1rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-family: var(--font-sc);
+  font-size: 0.84rem;
+  letter-spacing: 0.1em;
+  color: var(--gold-mid);
+  cursor: pointer;
+  transition: var(--transition);
+  text-align: center;
+}
+.timeline-voir-plus:hover {
+  background: rgba(154,98,14,0.06);
+  border-color: var(--gold);
+}
+.timeline-voir-plus span {
+  color: var(--gray);
+  opacity: 0.7;
+  font-size: 0.85em;
+}
