@@ -1,5 +1,526 @@
 {
-  "generated_at": "2026-04-17T00:00:00+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-04-17T15:24:54.185311+00:00",
+  "count": 52,
+  "articles": [
+    {
+      "title": "Espoir majeur dans le cancer du pancréas : un nouveau traitement double la survie des patients à un an",
+      "desc": "Un nouveau traitement suscite l'espoir face au cancer du pancréas. Testé en association avec une chimiothérapie, il montre des résultats encourageants dans un essai clinique, avec une amélioration notable sur la survie des patients. Une avancée à confirmer, mais suffisamment solide pour attirer...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-pancreas-espoir-majeur-cancer-pancreas-nouveau-traitement-double-survie-patients-an-133829/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/3/1/931f1157eb_50254059_cancer-pancrea.jpg",
+      "date": "2026-04-17T16:08:22+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "\"13h15 le samedi\". Sally, la joie de vivre jusqu'au bout",
+      "desc": "Atteinte d'une maladie incurable, Sally, 27 ans, a décidé d'avoir recours au suicide assisté. Le 18 décembre 2025, elle s'est éteinte en Suisse où cette pratique est légale, après avoir profité de ses derniers moments de vie, entourée de sa famille et de ses amis.",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-sally-la-joie-de-vivre-jusqu-au-bout_7908038.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mrpx9aZcQwY5uo4D7AZGLAQrxjU/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/17/69e2241184a73110773824.png",
+      "date": "2026-04-17T14:16:15+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : le sport sur ordonnance testé en remboursement",
+      "desc": "Le remboursement de l'activité physique sur ordonnance pour des malades du cancer, dans le cadre d'une expérimentation de deux ans, va finalement pouvoir entrer en vigueur avec la publication jeudi d'un décret sur cette mesure prévue au budget de la Sécurité sociale de 2024.",
+      "url": "https://www.sciencesetavenir.fr/sante/e-sante/sport-sur-ordonnance-une-experimentation-de-remboursement-lancee-pour-les-patients-atteints-de-cancer_191996?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/17/cover-r4x3w1200-69e228179c839-sport.jpg",
+      "date": "2026-04-17T13:50:35+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "«Flip» Daudet, la mort comme dans un moulin",
+      "desc": "Jean-Jacques Salgon piste un «fils de» anarchiste, qui envisagea de tuer son père royaliste.",
+      "url": "https://www.liberation.fr/culture/livres/flip-daudet-la-mort-comme-dans-un-moulin-20260417_UJ46Q76HPNEGLGJOIY6IF5EMT4/",
+      "image": null,
+      "date": "2026-04-17T13:37:00+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Démence : un simple spray nasal serait capable de freiner, voire d'inverser le déclin cognitif !",
+      "desc": "Et si le déclin cognitif lié à l’âge n’était pas irréversible ? Des chercheurs américains ont mis au point un spray nasal capable de réduire l’inflammation cérébrale et d’améliorer la mémoire dans des modèles animaux. Une piste prometteuse, encore expérimentale, qui pourrait à terme transformer...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-demence-simple-spray-nasal-serait-capable-freiner-voire-inverser-declin-cognitif-133788/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/8/9/989feddab0_50254011_2-spray-nasal.jpg",
+      "date": "2026-04-17T12:17:05+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Pris dans un étau budgétaire, les départements en difficulté face au vieillissement de la population",
+      "desc": "Un rapport de la chambre régionale des comptes des Hauts-de-France étrille la gestion de l’allocation personnalisée d’autonomie par le département du Pas-de-Calais, illustrant les difficultés de ces collectivités locales face aux nécessités d’économie.",
+      "url": "https://www.lemonde.fr/sante/article/2026/04/17/pris-dans-un-etau-budgetaire-les-departements-en-difficulte-face-au-vieillissement-de-la-population_6680856_1651302.html",
+      "image": "https://img.lemde.fr/2026/04/16/432/0/5184/2592/644/322/60/0/8a8544e_upload-1-v5s293nqtrx4-maxstockworld391774.jpg",
+      "date": "2026-04-17T12:00:07+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "En 2025, l'Assurance maladie a détecté près de 723 millions d'euros de fraudes",
+      "desc": "Faux arrêts de travail, des centres de santé fictifs, du blanchiment... Un nouveau record de fraude à l'assurance maladie a été battu en 2025. Les inspecteurs ont détecté près de 723 millions d'euros de fraude.",
+      "url": "https://www.franceinfo.fr/economie/fraude/en-2025-l-assurance-maladie-a-detecte-pres-de-723-millions-d-euros-de-fraudes_7943852.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/e0lwTtxD6e9cZmQLI6ljIEBz0GU/84x0:1489x790/432x243/filters:format(jpg)/2026/04/16/69e139db3e2dc015541980.jpg",
+      "date": "2026-04-17T11:41:00+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une activité physique intense, même de courte durée, réduit le risque de développer huit maladies chroniques",
+      "desc": "« Dix mille pas et plus ». Une étude menée à partir de la cohorte britannique UK Biobank montre que la diminution du risque varie de 29 % à 63 % selon les pathologies, avec une baisse de 46 % pour la mortalité globale.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/17/meme-de-courte-duree-une-activite-intense-reduit-le-risque-de-developper-huit-maladies-chroniques_6680805_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/14/250/0/3600/1800/644/322/60/0/5d8ad0c_upload-1-fxt6pi0a0lir-063-1168515862.jpg",
+      "date": "2026-04-17T06:00:13+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Une femme enceinte frôle la mort après avoir contacté le SAMU qui ne l'a pas prise en charge",
+      "desc": "Erreur ou manque de moyens du SAMU ? Une femme enceinte a appelé le SAMU qui lui expliqué qu'il ne pouvait pas la prendre en charge. C'est finalement les parents de jeunes qui l'emmènent à l'hôpital où elle se réveillera en réanimation.",
+      "url": "https://www.franceinfo.fr/sante/une-femme-enceinte-frole-la-mort-apres-avoir-contacte-le-samu-qui-ne-l-a-pas-prise-en-charge_7943873.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_-dXqpLcW1nZZft9xaembCD39d0/162x0:1483x743/432x243/filters:format(jpg)/2026/04/16/69e13ff08a0a6449569063.jpg",
+      "date": "2026-04-16T22:07:49+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
+      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
+      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
+      "image": null,
+      "date": "2026-04-16T18:00:00+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Démence : ces 3 habitudes très simples pourraient aider à protéger votre cerveau, selon une vaste étude",
+      "desc": "Trois gestes du quotidien, souvent négligés, pourraient pourtant peser lourd dans la balance face à la démence selon une méta-analyse récente. Des résultats qui renforcent l’idée qu’une partie de la prévention se joue bien avant les premiers symptômes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-demence-ces-3-habitudes-tres-simple-pourraient-aider-proteger-votre-cerveau-selon-vaste-etude-133799/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/5/f/75fc958286_50254037_3-activite-physique.jpg",
+      "date": "2026-04-16T17:03:43+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cancer de l'ovaire : deux traitements enregistrent de bons résultats",
+      "desc": "Deux traitements permettent de légèrement améliorer la survie de patientes atteintes de cancers de l'ovaire qui sont devenus résistants à la thérapie habituelle, montrent des études publiées dans la revue médicale The Lancet.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/cancer-de-l-ovaire-deux-traitements-enregistrent-de-bons-resultats-face-a-une-forme-resistante_191938?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/10/cover-r4x3w1200-69d968d170c8a-6b44a8d70a04c02d5b77d591103f378b9256c395-jpg.jpg",
+      "date": "2026-04-16T14:16:37+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Santé mentale des préadolescents : aux urgences de l’hôpital Robert-Debré, « parler de son envie de mourir, ça peut faire très peur, mais les mots ne rendent pas malade »",
+      "desc": "La Fédération hospitalière de France a alerté, mercredi, sur la hausse de 118 % sur cinq ans des hospitalisations pour tentative de suicide des filles de 10 à 14 ans. Reportage auprès de jeunes, de mères et de professionnels dans l’établissement parisien, qui projette l’ouverture d’une unité supplém",
+      "url": "https://www.lemonde.fr/societe/article/2026/04/16/idees-et-tentatives-de-suicide-chez-les-preadolescents-a-l-hopital-robert-debre-parler-de-son-envie-de-mourir-ca-peut-faire-tres-peur-mais-les-mots-ne-rendent-pas-malade_6680464_3224.html",
+      "image": "https://img.lemde.fr/2026/04/15/0/0/2173/1086/644/322/60/0/62102f1_upload-1-unomitp1fjzt-se-verin-millet-suicide-ados.jpg",
+      "date": "2026-04-16T06:00:25+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Teint clair, calvitie réduite, résistance à certaines maladies… L’ADN ancien éclaire l’évolution des Européens depuis plus de 10 000 ans",
+      "desc": "Une vaste analyse, portant sur près de 16 000 génomes humains anciens, permet de suivre le flux et le reflux de variants génétiques sélectionnés et contre-sélectionnés pour leurs avantages et leurs inconvénients.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/15/teint-clair-calvitie-reduite-resistance-a-certaines-maladies-l-adn-ancien-eclaire-l-evolution-des-europeens-depuis-plus-de-10-000-ans_6680332_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/15/464/0/5568/2784/644/322/60/0/fa53432_upload-1-yuwnm7u6atsu-ap25187464526439.jpg",
+      "date": "2026-04-15T19:31:37+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Chez une patiente, une perfusion de cellules CAR-T induit la rémission de trois maladies auto-immunes",
+      "desc": "Une seule perfusion de cellules CAR-T a permis de faire disparaître trois pathologies dysimmunitaires chez une patiente qui en souffrait depuis plus de dix ans.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/04/15/chez-une-patiente-une-perfusion-de-cellules-car-t-induit-la-remission-de-trois-maladies-auto-immunes_6680319_6579630.html",
+      "image": "https://img.lemde.fr/2026/04/15/67/0/681/340/644/322/60/0/0413f5d_upload-1-xajahcwx7pzg-car-t-cell-therapy.png",
+      "date": "2026-04-15T18:38:21+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Selon Donald Trump, les sodas « tuent les cellules cancéreuses dans le corps »",
+      "desc": "Le Dr Mehmet Oz, membre du gouvernement américain, a affirmé dans un podcast de Donald Trump Jr. que son père considérait le soda comme ayant des effets contre le cancer, des propos que conteste évidemment la communauté médicale",
+      "url": "https://www.20minutes.fr/sante/4218573-20260415-selon-donald-trump-sodas-tuent-cellules-cancereuses-corps?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/vol9POqISSeqnC1Qmuk_fyk/1200x768_illustration-photo-de-coca-cola-vu-sur-une-table-avec-le-president-americain-donald-trump-diaporama-affiche-en-arriere-plan-pour-annoncer-le-nouvel-emballage-le-23-juillet-au-cachemire-en-inde-image-de-credit-danish-show-kat-eye-pix-via-zuma-press-wire-sipa60038025-000005-zeus-2507232046",
+      "date": "2026-04-15T15:32:36+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au Sénégal, l’homophobie d’Etat met en péril la lutte contre le sida",
+      "desc": "Après l’adoption mi-mars de la loi punissant plus sévèrement les relations entre personnes de même sexe, le combat contre le VIH marque le pas. Au grand dam des organisations sanitaires et humanitaires luttant contre le virus.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/04/15/au-senegal-l-homophobie-d-etat-met-en-peril-la-lutte-contre-le-sida_6680284_3212.html",
+      "image": "https://img.lemde.fr/2026/04/15/0/0/6000/3000/644/322/60/0/88e6fa8_upload-1-akxmq4i66klx-2026-02-14t202235z-840452778-rc2tlja64fua-rtrmadp-3-senegal-lgbt-protest.JPG",
+      "date": "2026-04-15T15:00:05+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Faux arrêts-maladie : un homme mis en examen pour avoir vendu plus de 44 000 certificats sur Internet",
+      "desc": "Les investigations ont établi que « des arrêts de travail étaient générés systématiquement par la plateforme, pour la somme de 21 euros », selon le parquet de Paris. L’homme de 25 ans a été mis en examen au début d’avril à Paris, notamment pour exercice illégal de la médecine.",
+      "url": "https://www.lemonde.fr/societe/article/2026/04/15/faux-arrets-maladie-un-homme-mis-en-examen-pour-avoir-vendu-plus-de-44-000-certificats-sur-internet_6680276_3224.html",
+      "image": "https://img.lemde.fr/2026/04/15/242/0/7488/3744/644/322/60/0/4af452a_upload-1-t6cp0vzfz49a-000-a74k7tl.jpg",
+      "date": "2026-04-15T13:28:41+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L'essor de l'obésité éclipse les progrès en santé publique depuis 2010, selon un rapport de l'OCDE",
+      "desc": "Malgré des avancées contre le tabagisme, la pollution ou l’alcool, les maladies chroniques continuent d’augmenter dans les pays de l’OCDE. En cause : la progression rapide de l’obésité, qui annule une grande partie des bénéfices sanitaires.",
+      "url": "https://www.sciencesetavenir.fr/sante/l-essor-de-l-obesite-eclipse-les-progres-en-sante-publique-depuis-2010-selon-un-rapport-de-l-ocde_191967?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/15/cover-r4x3w1200-69df9b8ac4a5a-ff1ec4a979906d510b40addadf8ae399df45e75c-jpg.jpg",
+      "date": "2026-04-15T13:19:50+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Alzheimer : votre taux de vitamine D à la quarantaine pourrait influencer votre cerveau des années plus tard",
+      "desc": "Et si tout se jouait bien avant les premiers symptômes d’Alzheimer ? Une étude récente explore le lien entre le taux de vitamine D à la quarantaine et la santé du cerveau des années plus tard. Une piste qui intrigue les chercheurs.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-votre-taux-vitamine-d-quarantaine-pourrait-influencer-votre-cerveau-annees-plus-tard-133744/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/6/e/66e0680872_50253991_alzheimer-vitamine-d.jpg",
+      "date": "2026-04-15T12:29:13+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Un homme se suicide après une opération en Turquie qui l’a laissé sans aucune dentition",
+      "desc": "Après une opération en Turquie, un homme s’est retrouvé sans dents et sans solution, en pleine détresse, ce père de famille s’est finalement suicidé",
+      "url": "https://www.20minutes.fr/sante/4218483-20260415-homme-suicide-apres-operation-turquie-laisse-aucune-dentition?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/as-da1PRTFqsY8riH4hF6Sk/1200x768_illustration-de-modeles-de-protheses-dentaires-en-silicone-benayacheadil-mourad0257-credit-adil-benayache-sipa-2502141548",
+      "date": "2026-04-15T09:33:08+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des pistes pour améliorer la cicatrisation, voire la repousse de membres",
+      "desc": "Deux études parues dans « Science » montrent les rôles-clés de l’acide hyaluronique et de l’oxygène dans le processus de régénération corporelle chez la souris.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/15/des-pistes-pour-ameliorer-la-cicatrisation-voire-la-repousse-de-membres_6680216_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/13/500/0/6000/3000/644/322/60/0/1a234e7_upload-1-2gtw6083g9ce-naturimages-17mbe06890-1225.jpg",
+      "date": "2026-04-15T06:30:11+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Pourquoi les lunettes de soleil sont indispensables dès le plus jeune âge",
+      "desc": "Avec l’arrivée des beaux jours, les adultes ont le réflexe de mettre des lunettes de soleil, mais pas forcément pour leurs enfants. Or, « si vous avez besoin de les porter en cas de lumière vive, l’enfant en a besoin deux fois plus », souligne Philippe Roncalli, opticien Optikid, le premier...",
+      "url": "https://www.futura-sciences.com/sante/actualites/yeux-lunettes-soleil-sont-indispensables-plus-jeune-age-133733/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/1/a/b1aa80e8d3_50253888_optikid-lunettes-soleil-enfants.jpg",
+      "date": "2026-04-14T20:00:00+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "VIH : « J’ai eu l’impression de gagner deux fois au loto »… pourquoi son cas sidère les médecins",
+      "desc": "Atteint du VIH puis d’une grave maladie du sang, cet homme pensait suivre un parcours médical classique, entre traitements et rechutes. Mais une décision prise au sein de sa propre famille va entraîner une suite d’événements aussi rares qu’inattendus…",
+      "url": "https://www.futura-sciences.com/sante/actualites/sida-vih-jai-eu-impression-gagner-deux-fois-loto-son-cas-sidere-medecins-133757/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/9/e/39e2c77a3e_50253966_hiv-virus.jpg",
+      "date": "2026-04-14T17:08:30+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "VIH : un patient en rémission grâce à un coup de chance exceptionnel",
+      "desc": "Un patient norvégien infecté par le VIH est en rémission après une greffe de moelle osseuse destinée à traiter un cancer du sang. Son donneur, son propre frère, s’est révélé porteur d’une mutation rare capable de bloquer le virus.",
+      "url": "https://www.sciencesetavenir.fr/sante/vih-un-patient-en-remission-grace-a-un-coup-de-chance-exceptionnel_191946?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/13/cover-r4x3w1200-69dd4965443c3-8a59b84d9e874abac18fd9ed32f8c200fcda0e74-jpg.jpg",
+      "date": "2026-04-14T15:05:43+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Quand les photos prennent vie : une forme inédite de délire chez des patients atteints de démence",
+      "desc": "Chez ces patients atteints de maladies neurodégénératives, les personnes figurant sur des images fixes sont perçues comme vivantes et physiquement présentes à leurs côtés.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/04/14/quand-les-photos-prennent-vie-une-forme-inedite-de-delire-chez-des-patients-atteints-de-demence_6679928_6579630.html",
+      "image": "https://img.lemde.fr/2026/04/13/500/0/6000/3000/644/322/60/0/e60c0b1_upload-1-svnnxhjymjwg-quand-les-photos-prennent-vie-de-lire-d-identification-alzheimer-maladie-neurodegenerative.jpg",
+      "date": "2026-04-14T14:21:06+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Le « modèle français de la fin de vie », un fragile équilibre entre liberté et fraternité",
+      "desc": "Pour ses défenseurs, la proposition de loi est « équilibrée » entre la liberté individuelle de décider de sa mort et la fraternité d’une société à l’aider à abréger sa vie. Mais certaines dispositions du texte peuvent être appréciées différemment.",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/14/le-modele-francais-de-la-fin-de-vie-un-fragile-equilibre-entre-liberte-et-fraternite_6679920_3232.html",
+      "image": "https://img.lemde.fr/2025/06/05/0/0/6000/3000/644/322/60/0/9a9c20e_ftp-import-images-1-co0xj2yu0wo7-5104132-01-06.jpg",
+      "date": "2026-04-14T13:00:07+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
+      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
+      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
+      "image": null,
+      "date": "2026-04-14T13:00:00+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Norvège : « C’était comme gagner deux fois à la loterie »… Une greffe de moelle osseuse le guérit du cancer et du sida",
+      "desc": "Un patient norvégien atteint du VIH et d’un cancer du sang est en rémission après une greffe de moelle osseuse, un cas rare qui relance l’espoir d’un traitement durable contre le virus",
+      "url": "https://www.20minutes.fr/monde/4218253-20260413-norvege-comme-gagner-deux-fois-loterie-greffe-moelle-osseuse-guerit-cancer-sida?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/LdIpQh1LSiCCnOXaMFhZeCk/1200x768_illustration-du-myelome-multiple-le-myelome-multiple-est-un-cancer-des-plasmocytes-un-type-de-globule-blanc-present-dans-la-moelle-osseuse-qui-produit-normalement-des-anticorps-dans-le-cas-du-myelome-multiple-des-plasmocytes-anormaux-s-accumulent-dans-la-moelle-osseuse-et-produisent-des-proteines-anormales-qui-peuvent-endommager-des-organes-notamment-les-reins-elle-provoque-des-symptomes-tels-que-des-douleurs-osseuses-une-anemie-des-infections-frequentes-et-des-problemes-renaux-le-traitement-comprend-l-immunotherapie-la-greffe-de-cellules-souches-et-la-chimiotherapie-photo-de-nemes-laszlo-science-photo-libra-nla-science-photo-library-via-afp",
+      "date": "2026-04-13T20:39:58+00:00",
+      "date_formatted": "13 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La peau artificielle, un objectif encore lointain pour les grands brûlés",
+      "desc": "Cultiver les propres cellules du patient, recourir à un antigène-clé dans la tolérance materno-fœtale ou encore utiliser des cellules souches pluripotentes : plusieurs équipes de recherche tentent de trouver une solution durable et bien tolérée par le système immunitaire.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/13/la-peau-artificielle-un-objectif-encore-lointain-pour-les-grands-brules_6679737_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/10/688/0/8256/4128/644/322/60/0/0482c0e_upload-1-jmdttsigf5e5-021.jpg",
+      "date": "2026-04-13T17:30:02+00:00",
+      "date_formatted": "13 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Punaises de lit : Cet insecticide est interdit en France depuis 2013 mais il continue de circuler… et de tuer",
+      "desc": "Un insecticide interdit en France pour lutter contre les punaises de lit continue à circuler et a fait quatre morts, alertent les autorités sanitaires",
+      "url": "https://www.20minutes.fr/sante/4218163-20260413-punaises-lit-attention-insecticide-interdit-france-continue-circuler-fait-quatre-morts?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Z5pcP3-dQMOPYP7fl-xM8ik/1200x768_ecran-du-site-de-vente-d-un-sniper-1000-ec-ddvp-photo-de-philippe-turpin-photononstop-via-afp",
+      "date": "2026-04-13T12:46:29+00:00",
+      "date_formatted": "13 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un insecticide interdit en France continue à circuler et fait quatre morts",
+      "desc": "\"Autrefois utilisé pour combattre les insectes dans les habitations, les entrepôts, les cultures et les élevages\", le dichlorvos, principale substance active biocide du \"Sniper 1000\", est interdit depuis 2013 en France, rappelle l'Anses.",
+      "url": "https://www.sciencesetavenir.fr/sante/punaises-de-lit-un-insecticide-interdit-en-france-continue-a-circuler-et-a-fait-quatre-morts_191943?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/13/cover-r4x3w1200-69dcd5610d054-0bbdabc830f1fc64e84f41be2e5d186ecb427bcd-jpg.jpg",
+      "date": "2026-04-13T12:28:49+00:00",
+      "date_formatted": "13 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Observer le cerveau en profondeur grâce à la lumière : cette expérience marque un tournant scientifique inédit",
+      "desc": "Un faisceau laser traverse l'intégralité d'un crâne adulte vivant… Des photons atteignent l'autre côté du cerveau, là où aucune lumière n'était supposée parvenir ! Cette percée technique, réalisée à l'université de Glasgow, pourrait changer radicalement le diagnostic des maladies neurologiques....",
+      "url": "https://www.futura-sciences.com/sante/actualites/medecine-observer-cerveau-profondeur-grace-lumiere-cette-experience-marque-tournant-scientifique-inedit-k2m6-133556/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/b/d/fbdadbe5ab_50253556_photons-lumiere-imagerie-cerveau.jpg",
+      "date": "2026-04-13T10:00:00+00:00",
+      "date_formatted": "13 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Le daltonisme aggrave le pronostic du cancer de la vessie",
+      "desc": "Les patients daltoniens atteints d'un cancer de la vessie présentent un risque de mortalité largement supérieur aux autres, met en évidence une étude.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/le-daltonisme-aggrave-le-pronostic-du-cancer-de-la-vessie_191610?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/03/26/cover-r4x3w1200-69c4f45f06ca4-afp-20260325-f0464962-v1-highres-ishiharacolourblindnesstestillustration.jpg",
+      "date": "2026-04-12T09:00:00+00:00",
+      "date_formatted": "12 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Ces 5 troubles du langage annoncent Alzheimer bien avant la perte de la mémoire",
+      "desc": "La maladie d'Alzheimer est difficile à diagnostiquer, car ses symptômes apparaissent progressivement et peuvent être confondus avec d'autres troubles. Pourtant, un diagnostic précoce aide à ralentir son évolution. Parmi les signes les plus précoces, les troubles du langage sont souvent sous-estimés.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-ces-5-troubles-langage-annoncent-alzheimer-bien-avant-ceux-memoire-w2t8-133477/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/d/4/bd4fe640c7_50253535_alzheimer-troubles-memoire.jpg",
+      "date": "2026-04-12T08:00:00+00:00",
+      "date_formatted": "12 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Patient bizarre : il adorait la viande crue… les médecins ne sont pas prêts d’oublier ce qu’ils ont trouvé dans son corps !",
+      "desc": "En Chine, un homme de 38 ans s’est présenté chez son médecin généraliste se plaignant de fortes douleurs abdominales et de vomissements répétés. Il a rapidement été dirigé vers un service de maladies infectieuses, où on lui a diagnostiqué une infestation par le ver Taenia saginata.",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-patient-bizarre-il-adorait-viande-crue-medecins-ne-sont-pas-prets-oublier-ce-quils-ont-trouve-son-corps-133596/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/b/f/1bf21fdb3e_50253640_alimentation-viande-crue.jpg",
+      "date": "2026-04-11T19:57:30+00:00",
+      "date_formatted": "11 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ce sucre agit en silence dans votre corps : son rôle dans les tumeurs inquiète les chercheurs",
+      "desc": "Il est présent dans de très nombreux aliments du quotidien, parfois là où on ne l’attend pas. Longtemps considéré comme inoffensif, il est aujourd’hui dans le viseur des chercheurs. Car une nouvelle étude révèle qu’il pourrait, de manière insidieuse, favoriser la croissance des tumeurs en...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-ce-sucre-agit-silence-votre-corps-son-role-tumeurs-inquiete-chercheurs-w2t8-133467/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/1/d/31d354e748_50226398_sodas-fructose.jpg",
+      "date": "2026-04-11T09:00:00+00:00",
+      "date_formatted": "11 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Face à la dengue, la recherche s’active alors que le réchauffement laisse craindre une saison 2026 record",
+      "desc": "Les survenues du phénomène El Niño sont associées à des vagues épidémiques dans les régions où les moustiques « Aedes » et le virus sont bien installés",
+      "url": "https://www.lemonde.fr/planete/article/2026/04/11/face-a-la-dengue-la-recherche-s-active-alors-que-le-rechauffement-laisse-craindre-une-saison-2026-record_6679279_3244.html",
+      "image": "https://img.lemde.fr/2026/04/10/668/0/6704/3352/644/322/60/0/7bfd4c0_upload-1-66ilviphkdwo-000-67vw3hy.jpg",
+      "date": "2026-04-11T05:45:04+00:00",
+      "date_formatted": "11 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
+      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
+      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
+      "image": null,
+      "date": "2026-04-03T09:21:47+00:00",
+      "date_formatted": "3 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Lien entre cancer et pesticides : une étude majeure menée au Pérou",
+      "desc": "Grâce à la modélisation des transferts de pesticides dans l’environnement et à une méthode innovante de classification des cancers, une équipe franco-péruvienne apporte des preuves solides à l’échelle de tout un pays que les régions où les teneurs en phytosanitaires s'accumulent dans l'environnement",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/lien-entre-cancer-et-pesticides-une-etude-majeure-menee-au-perou_191761?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/01/cover-r4x3w1200-69ccdaf7d2274-afp-20121218-761566-v1-highres-phytosanitarytreatmentinacocaplantationperu.jpg",
+      "date": "2026-04-01T09:00:00+00:00",
+      "date_formatted": "1 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Retour de Céline Dion : qu’est-ce que le syndrome de la personne raide, dont elle souffre ?",
+      "desc": "La chanteuse Céline Dion va faire son retour sur scène, malgré sa maladie : le syndrome de la personne raide. Impossible, à l'heure actuelle d'en guérir, mais certains traitements peuvent limiter les symptômes.",
+      "url": "https://www.sciencesetavenir.fr/sante/os-et-muscles/retour-de-celine-dion-qu-est-ce-que-le-syndrome-de-la-personne-raide-dont-elle-souffre_191737?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/03/31/cover-r4x3w1200-69cb7f7cd1bfb-d78c0f473ce2db55e6301818eea0fe990e879423-jpg.jpg",
+      "date": "2026-03-31T10:21:36+00:00",
+      "date_formatted": "31 March 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
+      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
+      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
+      "image": null,
+      "date": "2026-03-26T16:00:46+00:00",
+      "date_formatted": "26 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Faut-il vraiment « réguler son cortisol » ?",
+      "desc": "Le cortisol est accusé de tous les maux. Pourtant, cette « hormone du stress » joue un rôle essentiel dans l’organisme et ne nécessite pas d’être « régulée » en l’absence de pathologie. L’article Faut-il vraiment « réguler son cortisol » ? est apparu en premier sur Salle de presse de l'Inserm .",
+      "url": "https://presse.inserm.fr/canal-detox/faut-il-vraiment-reguler-son-cortisol/",
+      "image": null,
+      "date": "2026-03-23T07:00:00+00:00",
+      "date_formatted": "23 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une nouvelle piste thérapeutique contre l’hépatoblastome, principal cancer du foie chez l’enfant",
+      "desc": "Une équipe de l’Institut d’oncologie de Bordeaux (Inserm/université de Bordeaux) a mis au point un protocole associant un inhibiteur chimique d’EZH2, une protéine impliquée dans de nombreux cancers, et des statines (des médicaments anti-cholestérol) dans le but de cibler les cellules tumorales résis",
+      "url": "https://presse.inserm.fr/une-nouvelle-piste-therapeutique-contre-lhepatoblastome-principal-cancer-du-foie-chez-lenfant/72352/",
+      "image": null,
+      "date": "2026-03-19T08:30:45+00:00",
+      "date_formatted": "19 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Remonter le temps : des scientifiques rétablissent certaines propriétés des cellules souches âgées en restaurant leurs « centres de recyclage »",
+      "desc": "Dans une étude collaborative publiée dans Cell Stem Cell et dirigée par Mickaël Ménager (Institut Imagine, Inserm, Université Paris Cité | Paris, France) et Saghi Ghaffari (Icahn School of Medicine at Mount Sinai | New York, USA), des chercheurs ont exploré une piste prometteuse. En ciblant les « ce",
+      "url": "https://presse.inserm.fr/remonter-le-temps-des-scientifiques-retablissent-certaines-proprietes-des-cellules-souches-agees-en-restaurant-leurs-centres-de-recyclage/72303/",
+      "image": null,
+      "date": "2026-03-11T11:35:50+00:00",
+      "date_formatted": "11 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Alzheimer : découverte de l’implication de nouvelles cellules dans l’apparition et la progression de la maladie",
+      "desc": "Les patients atteints de la maladie d’Alzheimer présentent des altérations biologiques communes, notamment une accumulation anormale de la protéine Tau dans le cerveau. Les mécanismes derrière cette anomalie pourraient être sur le point d’être élucidés. Dans une nouvelle étude, une équipe de recherc",
+      "url": "https://presse.inserm.fr/alzheimer-decouverte-de-limplication-de-nouvelles-cellules-dans-lapparition-et-la-progression-de-la-maladie/72092/",
+      "image": null,
+      "date": "2026-03-05T16:00:32+00:00",
+      "date_formatted": "5 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Maladies inflammatoires et chroniques de l’intestin : le rôle anti-inflammatoire d’une bactérie du microbiote intestinal ouvre la voie vers de nouvelles pistes thérapeutiques",
+      "desc": "Une étude impliquant des chercheurs de Sorbonne Université, de l’Inserm, d’INRAE et de l’AP-HP, en collaboration avec la société de biotechnologie Exeliom Biosciences, apporte de nouveaux éléments sur le mode d’action de la bactérie Faecalibacterium prausnitzii. Cette bactérie, au rôle majeur dans l",
+      "url": "https://presse.inserm.fr/maladies-inflammatoires-et-chroniques-de-lintestin-le-role-anti-inflammatoire-dune-bacterie-du-microbiote-intestinal-ouvre-la-voie-vers-de-nouvelles-pistes-therapeutiques/72258/",
+      "image": null,
+      "date": "2026-03-03T09:47:33+00:00",
+      "date_formatted": "3 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Quand les apnées du sommeil mettent le métabolisme en décalage horaire",
+      "desc": "Les apnées du sommeil touchent près d’un milliard de personnes dans le monde et provoquent des épisodes répétés de manque d’oxygène pendant la nuit appelés hypoxie intermittente. Une étude menée par des scientifiques de l’Université Grenoble Alpes, de l’Inserm et du CHU Grenoble Alpes montre que ces",
+      "url": "https://presse.inserm.fr/quand-les-apnees-du-sommeil-mettent-le-metabolisme-en-decalage-horaire/72163/",
+      "image": null,
+      "date": "2026-02-25T19:00:07+00:00",
+      "date_formatted": "25 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "À Paris, les arbres atténuent la mortalité liée aux fortes chaleurs",
+      "desc": "À Paris, les arrondissements les plus végétalisés présentent un risque plus faible de décès lors des périodes de forte chaleur, tandis que les zones très minéralisées, avec peu d’espaces verts et un fort potentiel d’îlot de chaleur urbain, sont les plus exposées. Les scientifiques soulignent l’impor",
+      "url": "https://presse.inserm.fr/a-paris-les-arbres-attenuent-la-mortalite-liee-aux-fortes-chaleurs/72101/",
+      "image": null,
+      "date": "2026-02-16T08:30:59+00:00",
+      "date_formatted": "16 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Suivi des maladies chroniques : un patient sur deux serait ouvert à la téléconsultation",
+      "desc": "Les équipes de médecine interne de l’hôpital européen Georges-Pompidou AP-HP, du centre d’épidémiologie clinique de l’hôpital Hôtel-Dieu AP-HP, de l’Université Paris Cité, de l’université Sorbonne Paris-Nord, de l’Inserm, et INRAE (CRESS), en collaboration avec la cohorte ComPaRe et sous la coordina",
+      "url": "https://presse.inserm.fr/suivi-des-maladies-chroniques-un-patient-sur-deux-serait-ouvert-a-la-teleconsultation/72085/",
+      "image": null,
+      "date": "2026-02-11T10:18:52+00:00",
+      "date_formatted": "11 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Diabète–hypertension : la génétique identifie les personnes à haut risque et ouvre la voie à une prévention personnalisée",
+      "desc": "L’hypertension artérielle et le diabète sont souvent associés, augmentant fortement le risque d’AVC et d’atteinte rénale grave. Des chercheurs de Surrey (Royaume Uni) et de Lille au sein de l’unité « Multi-omique et physiopathologie des maladies métaboliques (Inserm/CNRS/Université de Lille/ CHU de ",
+      "url": "https://presse.inserm.fr/diabete-hypertension-la-genetique-identifie-les-personnes-a-haut-risque-et-ouvre-la-voie-a-une-prevention-personnalisee/72080/",
+      "image": null,
+      "date": "2026-02-10T14:43:21+00:00",
+      "date_formatted": "10 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Remodeler l’architecture de l’os du crâne pour renforcer les défenses immunitaires du cerveau",
+      "desc": "En cas de neuro-inflammation, le cerveau dispose d’une voie rapide de défense : de minuscules canaux osseux permettent aux cellules immunitaires de passer directement de l’os crânien aux méninges. Une étude récente de l’Inserm, du CNRS et d’Aix-Marseille Université, révèle que ces canaux se forment ",
+      "url": "https://presse.inserm.fr/remodeler-larchitecture-de-los-du-crane-pour-renforcer-les-defenses-immunitaires-du-cerveau/71989/",
+      "image": null,
+      "date": "2026-02-09T08:30:40+00:00",
+      "date_formatted": "9 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    }
+  ]
 }
