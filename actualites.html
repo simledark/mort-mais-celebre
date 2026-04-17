@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Actualités — Mort &amp; Célèbre</title>
+  <meta name="description" content="L'actualité scientifique et presse sur la mort, le vieillissement et la longévité." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Cormorant+SC:wght@300;400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="actualites.css" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5509319064903881" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="noise-overlay"></div>
+
+  <header class="site-header">
+    <div class="header-ornament top-left">✦</div>
+    <div class="header-ornament top-right">✦</div>
+    <div class="header-rule"></div>
+    <div class="header-inner">
+      <p class="header-kicker">Memento Mori · Veille</p>
+      <h1 class="site-title"><a href="index.html" style="text-decoration:none;color:inherit">Mort &amp; Célèbre</a></h1>
+      <p class="header-sub">L'actualité scientifique et presse autour de la mort</p>
+    </div>
+    <div class="header-rule"></div>
+  </header>
+
+  <nav class="date-nav">
+    <div class="date-nav-inner">
+      <a href="index.html" class="nav-btn">← Accueil</a>
+      <a href="previsions.html" class="nav-btn" style="color:var(--red-death);border-color:rgba(184,42,34,0.3)">✦ Prévisions 2026</a>
+      <a href="palmares.html" class="nav-btn">Palmarès</a>
+      <a href="citations.html" class="nav-btn citations-btn">Citations</a>
+      <a href="a-propos.html" class="nav-btn about-btn">À propos</a>
+    </div>
+  </nav>
+
+  <main class="actu-main">
+
+    <!-- ARTICLE À LA UNE -->
+    <section class="actu-une-section">
+      <div class="section-header">
+        <div class="section-rule"></div>
+        <h2 class="section-title">À la une</h2>
+        <div class="section-rule"></div>
+      </div>
+      <div id="actu-une" class="actu-une-wrap">
+        <div class="actu-loading">
+          <div class="coffin-spinner"></div>
+          <p>Chargement de l'actualité…</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ONGLETS + GRILLE -->
+    <section class="actu-grid-section">
+      <div class="actu-tabs-bar">
+        <div class="actu-tabs">
+          <button class="actu-tab active" data-tab="all" onclick="setTab('all')">Tout</button>
+          <button class="actu-tab" data-tab="science" onclick="setTab('science')">🔬 Science</button>
+          <button class="actu-tab" data-tab="presse" onclick="setTab('presse')">📰 Presse</button>
+        </div>
+        <div id="actu-count" class="actu-count"></div>
+      </div>
+
+      <div id="actu-grid" class="actu-grid">
+        <!-- Articles injectés par JS -->
+      </div>
+
+      <div id="actu-empty" class="actu-empty hidden">
+        <div style="font-size:2rem;margin-bottom:0.5rem;opacity:0.3">✦</div>
+        <p>Aucun article disponible pour ce filtre.</p>
+      </div>
+
+      <button id="actu-voir-plus" class="actu-voir-plus hidden" onclick="loadMore()">
+        Voir plus d'articles
+      </button>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-rule"></div>
+    <p>Sources : <a href="https://www.lemonde.fr" target="_blank">Le Monde</a> · <a href="https://www.sciencesetavenir.fr" target="_blank">Sciences &amp; Avenir</a> · <a href="https://www.futura-sciences.com" target="_blank">Futura</a> · <a href="https://www.inserm.fr" target="_blank">Inserm</a> · <a href="https://www.lefigaro.fr" target="_blank">Le Figaro</a></p>
+    <p class="footer-copy">Mort &amp; Célèbre · Actualités · <span id="footer-year"></span></p>
+    <div class="footer-ornament">✦ ✦ ✦</div>
+  </footer>
+
+  <script src="actualites.js"></script>
+</body>
+</html>

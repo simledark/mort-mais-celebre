@@ -1,0 +1,343 @@
+/* ============================================================
+   MORT & CÉLÈBRE — Actualités
+   ============================================================ */
+
+.actu-main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+/* ── À LA UNE ────────────────────────────────────────────── */
+.actu-une-section { margin-bottom: 3rem; }
+
+.actu-une-wrap { min-height: 120px; }
+
+.actu-loading {
+  text-align: center;
+  padding: 2.5rem 1rem;
+  color: var(--gray);
+  font-style: italic;
+}
+
+.actu-une-card {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 0;
+  background: #FFFFFF;
+  border: 1px solid var(--border-strong);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(28,26,20,0.1);
+  cursor: pointer;
+  transition: var(--transition);
+  text-decoration: none;
+}
+.actu-une-card:hover {
+  border-color: var(--gold);
+  box-shadow: 0 8px 32px rgba(28,26,20,0.15);
+  transform: translateY(-2px);
+}
+
+.actu-une-body {
+  padding: 2rem 2rem 1.75rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.actu-une-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-sc);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+  width: fit-content;
+}
+.badge-science { background: rgba(21,101,192,0.1); color: #1565c0; }
+.badge-presse  { background: rgba(184,42,34,0.08); color: var(--red-death); }
+
+.actu-une-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.3rem, 2.5vw, 1.9rem);
+  font-weight: 900;
+  color: var(--cream);
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.actu-une-desc {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--gray);
+  line-height: 1.7;
+  font-style: italic;
+  margin-bottom: 1.25rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.actu-une-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.actu-une-source {
+  font-family: var(--font-sc);
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  color: var(--gold-mid);
+}
+
+.actu-une-date {
+  font-family: var(--font-sc);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: var(--gray);
+}
+
+.actu-une-lire {
+  font-family: var(--font-sc);
+  font-size: 0.72rem;
+  letter-spacing: 0.15em;
+  color: var(--gold-mid);
+  border-bottom: 1px solid var(--border-strong);
+  padding-bottom: 1px;
+}
+
+.actu-une-img-wrap {
+  background: #F2EFE7;
+  overflow: hidden;
+  position: relative;
+}
+.actu-une-img-wrap::after {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(to right, rgba(255,255,255,0.15), transparent);
+}
+.actu-une-img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  filter: grayscale(15%) sepia(10%) saturate(1.1);
+  transition: transform 0.6s ease;
+}
+.actu-une-card:hover .actu-une-img { transform: scale(1.04); }
+.actu-une-img-placeholder {
+  width: 100%; height: 100%;
+  min-height: 280px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 4rem;
+  color: var(--border-strong);
+  opacity: 0.3;
+}
+
+/* ── ONGLETS ─────────────────────────────────────────────── */
+.actu-tabs-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.actu-tabs {
+  display: flex;
+  gap: 0;
+}
+
+.actu-tab {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 0.5rem 1.1rem;
+  font-family: var(--font-sc);
+  font-size: 0.88rem;
+  letter-spacing: 0.1em;
+  color: var(--gray);
+  cursor: pointer;
+  transition: var(--transition);
+  margin-bottom: -1px;
+  white-space: nowrap;
+}
+.actu-tab.active { color: var(--gold-mid); border-bottom-color: var(--gold); }
+.actu-tab:hover  { color: var(--gold-light); }
+
+.actu-count {
+  font-family: var(--font-sc);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  color: var(--gray);
+  font-style: italic;
+}
+
+/* ── GRILLE ARTICLES ─────────────────────────────────────── */
+.actu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+}
+
+.actu-card {
+  background: #FFFFFF;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: var(--transition);
+  animation: fadeUp 0.4s ease both;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+.actu-card:hover {
+  border-color: var(--gold);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(28,26,20,0.12);
+}
+
+.actu-card-img-wrap {
+  height: 160px;
+  background: #F2EFE7;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.actu-card-img-wrap::after {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(to bottom, transparent 50%, rgba(250,248,244,0.6));
+}
+.actu-card-img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  filter: grayscale(15%) sepia(8%) saturate(1.1);
+  transition: transform 0.5s ease;
+}
+.actu-card:hover .actu-card-img { transform: scale(1.05); }
+.actu-card-img-placeholder {
+  width: 100%; height: 100%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 2.5rem;
+  color: var(--border-strong);
+  opacity: 0.25;
+}
+
+.actu-card-body {
+  padding: 1rem 1.1rem 0.9rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+.actu-card-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-family: var(--font-sc);
+  font-size: 0.68rem;
+  letter-spacing: 0.15em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+  width: fit-content;
+}
+
+.actu-card-title {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--cream);
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.actu-card-desc {
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  color: var(--gray);
+  font-style: italic;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.actu-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+  padding-top: 0.5rem;
+  border-top: 1px solid rgba(184,122,26,0.1);
+}
+
+.actu-card-source {
+  font-family: var(--font-sc);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  color: var(--gold-mid);
+}
+
+.actu-card-date {
+  font-family: var(--font-sc);
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  color: var(--gray);
+  opacity: 0.7;
+}
+
+/* ── EMPTY / VOIR PLUS ───────────────────────────────────── */
+.actu-empty {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--gray);
+  font-style: italic;
+}
+.actu-empty.hidden { display: none; }
+
+.actu-voir-plus {
+  display: block;
+  margin: 2rem auto 0;
+  padding: 0.65rem 2rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-family: var(--font-sc);
+  font-size: 0.84rem;
+  letter-spacing: 0.12em;
+  color: var(--gold-mid);
+  cursor: pointer;
+  transition: var(--transition);
+}
+.actu-voir-plus:hover { background: rgba(154,98,14,0.06); border-color: var(--gold); }
+.actu-voir-plus.hidden { display: none; }
+
+/* ── RESPONSIVE ──────────────────────────────────────────── */
+@media (max-width: 900px) {
+  .actu-une-card { grid-template-columns: 1fr; }
+  .actu-une-img-wrap { height: 220px; }
+  .actu-une-img-wrap::after { background: linear-gradient(to top, rgba(255,255,255,0.1), transparent); }
+}
+
+@media (max-width: 640px) {
+  .actu-main { padding: 1.2rem 0.9rem 2.5rem; }
+  .actu-grid { grid-template-columns: 1fr; }
+  .actu-une-body { padding: 1.25rem; }
+  .actu-une-title { font-size: 1.3rem; }
+}
