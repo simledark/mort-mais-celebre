@@ -1,24 +1,54 @@
 {
-  "generated_at": "2026-04-18T05:51:52.860463+00:00",
-  "count": 52,
+  "generated_at": "2026-04-18T08:08:18.417720+00:00",
+  "count": 55,
   "articles": [
     {
-      "title": "Attentat au marché de Noël de Strasbourg : la cour d’appel confirme la peine de 30 ans de prison contre Audrey Mondjehi",
-      "desc": "La cour d’assises spéciale d’appel de Paris a condamné dans les mêmes termes l’homme de 44 ans accusé d’avoir aidé le jihadiste Chérif Chekatt à se procurer une arme, avant l’attaque qui avait fait cinq morts à Strasbourg en 2018.",
-      "url": "https://www.liberation.fr/societe/police-justice/attentat-au-marche-de-noel-de-strasbourg-la-cour-dappel-confirme-la-peine-de-30-ans-de-prison-contre-audrey-mondjehi-20260417_2ZY7CTW4END6PFWO6MLKS435CA/",
+      "title": "Quels sont les principaux motifs des arrêts de travail en 2025 ?",
+      "desc": "Alors que le gouvernement vient de présenter un plan de réduction de l'absentéisme et des arrêts maladie, le cabinet de conseil Oasys-Diot Siaci et l'IFOP ont demandé à un panel de salariés s'ils avaient été arrêtés l'an dernier, pourquoi et quelles sont leurs conditions de travail ?",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/quels-sont-les-principaux-motifs-des-arrets-de-travail-en-2025_7940294.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/W4HipIeJtN3203usLuPp8Ktu2kQ/0x0:3354x1886/432x243/filters:format(jpg)/2026/04/16/69e0a8ca8023f204638172.jpg",
+      "date": "2026-04-18T10:00:09+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le secret génétique des mollys amazones, ce poisson qui se clone depuis 100 000 ans",
+      "desc": "Une nouvelle étude de l’université du Missouri, aux États-Unis, s’est penchée sur un poisson qui se clone lui-même. Une particularité qui défie les lois de la génétique.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/le-secret-genetique-des-mollys-amazones-ce-poisson-qui-se-clone-depuis-100-000-ans_7940096.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/LbyOZYN-PfKGrg-vKVi3m0iNR3k/0x0:6000x3375/432x243/filters:format(jpg)/2026/04/16/69e0c12d73afc129839431.jpg",
+      "date": "2026-04-18T10:00:05+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Pragmata», de Lune à l’autre",
+      "desc": "Grisant et frénétique, le dernier né de Capcom superpose, avec un gameplay impeccable, un jeu dans le jeu au cœur d’une lutte à mort contre une IA sur une base lunaire.",
+      "url": "https://www.liberation.fr/culture/jeux-video/pragmata-de-lune-a-lautre-20260418_FLD5EGW4KRDVJGZYEGS75VUG2A/",
       "image": null,
-      "date": "2026-04-17T19:04:05+00:00",
-      "date_formatted": "17 April 2026",
+      "date": "2026-04-18T08:01:00+00:00",
+      "date_formatted": "18 April 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Nos déchets plastique bientôt recyclés en hydrogène ?",
-      "desc": "Une équipe de chercheurs britanniques propose, dans des travaux publiés début avril dans la revue «Joule», un procédé utilisant deux déchets, le plastique et l’acide des batteries de voiture, pour produire le carburant vert.",
-      "url": "https://www.liberation.fr/environnement/pollution/nos-dechets-plastique-bientot-recycles-en-hydrogene-20260417_KPRHF5EADZBLTM6I4YB7YQEBL4/",
+      "title": "L’actrice Nathalie Baye est morte, annonce sa famille",
+      "desc": "La comédienne aux quatre césars est morte à 77 ans, ont annoncé ses proches à l’AFP ce samedi 18 avril.",
+      "url": "https://www.liberation.fr/culture/cinema/lactrice-nathalie-baye-est-morte-annonce-sa-famille-20260418_TY5KFD6UO5DZZFWU4UFIIQOHTI/",
       "image": null,
-      "date": "2026-04-17T17:32:28+00:00",
-      "date_formatted": "17 April 2026",
+      "date": "2026-04-18T07:58:39+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Accident de piscine : la comédienne Nadia Farès est morte à 57 ans",
+      "desc": "Plongée dans le coma depuis une semaine après avoir été remontée inconsciente d’un bassin parisien, l’actrice est morte vendredi 17 avril, ont annoncé ses filles.",
+      "url": "https://www.liberation.fr/culture/cinema/accident-de-piscine-la-comedienne-nadia-fares-est-morte-a-57-ans-20260418_AU2NURA6SFGGJJ45SJAI3OB72M/",
+      "image": null,
+      "date": "2026-04-18T06:41:38+00:00",
+      "date_formatted": "18 April 2026",
       "source": "Libération",
       "type": "presse"
     },
