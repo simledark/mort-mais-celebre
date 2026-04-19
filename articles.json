@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-19T06:17:43.677049+00:00",
-  "count": 57,
+  "generated_at": "2026-04-19T14:11:42.115766+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "De la mort-aux-rats découverte dans des pots de purée pour bébés en Autriche",
+      "desc": "Cette substance pourrait avoir été introduite dans le cadre d'une tentative d'extorsion, selon l'agence autrichienne de protection des aliments.",
+      "url": "https://www.franceinfo.fr/sante/alimentation/de-la-mort-aux-rats-decouverte-dans-des-pots-de-puree-pour-bebes-en-autriche_7949612.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ZTCpJrElXZ48CKdMIxUWungV8Dw/0x207:3988x2451/432x243/filters:format(jpg)/2026/04/19/69e4aa9e5f03a139734157.jpg",
+      "date": "2026-04-19T14:23:57+00:00",
+      "date_formatted": "19 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "De la mort-aux-rats retrouvée dans un pot d’aliments pour bébés en Autriche, la police soupçonne «un maître-chanteur»",
+      "desc": "Le poison a été décelé dans un pot de la marque allemande HIPP. La République Tchèque et la Slovaquie sont aussi concernés.",
+      "url": "https://www.liberation.fr/international/europe/de-la-mort-aux-rats-retrouvee-dans-un-pot-daliments-pour-bebes-en-autriche-la-police-soupconne-un-maitre-chanteur-20260419_LDVMTF3BRBGCJB4TYS6ZX34PTM/",
+      "image": null,
+      "date": "2026-04-19T10:19:26+00:00",
+      "date_formatted": "19 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Des poissons qui se clonent depuis 100 000 ans !",
       "desc": "Bill François nous raconte le secret des mollys amazones, ce poisson qui se clone depuis 100 000 ans, une particularité qui défie les lois de la génétique.",
@@ -10,36 +30,6 @@
       "date": "2026-04-18T18:00:02+00:00",
       "date_formatted": "18 April 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Au moins cinq morts dans une fusillade à Kyiv : un suspect abattu",
-      "desc": "Un homme s’était retranché dans un supermarché de la capitale ukrainienne après avoir ouvert le feu ce samedi 18 avril dans le quartier de Demyïvka.",
-      "url": "https://www.liberation.fr/international/europe/ukraine-un-homme-a-ouvert-le-feu-dans-un-quartier-de-kyiv-et-fait-plusieurs-morts-20260418_VSEHGDQYZFCNVKUI6NSMKKJLOU/",
-      "image": null,
-      "date": "2026-04-18T15:39:43+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Nathalie Baye : l’art du grand écart d’une star discrète",
-      "desc": "De Truffaut à Tonie Marshall, en passant par Godard, Spielberg, Balasko… La comédienne aux quatre césars, incontournable du cinéma français durant cinq décennies, est morte vendredi chez elle à Paris, à 77 ans. Elle souffrait de la maladie à corps de Lewy.",
-      "url": "https://www.liberation.fr/culture/cinema/lactrice-nathalie-baye-est-morte-annonce-sa-famille-20260418_TY5KFD6UO5DZZFWU4UFIIQOHTI/",
-      "image": null,
-      "date": "2026-04-18T15:21:12+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Leslie Cheung, HK confidentiel",
-      "desc": "De sabre ou de romance, trois films exhumés et édités en Blu-ray montrent les débuts au cinéma de l’acteur hongkongais adulé, mort en 2003.",
-      "url": "https://www.liberation.fr/culture/cinema/leslie-cheung-hk-confidentiel-20260418_Z3I7M34NTBGA7E7R2CNF4YKADE/",
-      "image": null,
-      "date": "2026-04-18T14:07:00+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -113,16 +103,6 @@
       "type": "science"
     },
     {
-      "title": "\"13h15 le samedi\". Sally, la joie de vivre jusqu'au bout",
-      "desc": "Atteinte d'une maladie incurable, Sally, 27 ans, a décidé d'avoir recours au suicide assisté. Le 18 décembre 2025, elle s'est éteinte en Suisse où cette pratique est légale, après avoir profité de ses derniers moments de vie, entourée de sa famille et de ses amis.",
-      "url": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-sally-la-joie-de-vivre-jusqu-au-bout_7908038.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mrpx9aZcQwY5uo4D7AZGLAQrxjU/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/17/69e2241184a73110773824.png",
-      "date": "2026-04-17T14:16:15+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer : le sport sur ordonnance testé en remboursement",
       "desc": "Le remboursement de l'activité physique sur ordonnance pour des malades du cancer, dans le cadre d'une expérimentation de deux ans, va finalement pouvoir entrer en vigueur avec la publication jeudi d'un décret sur cette mesure prévue au budget de la Sécurité sociale de 2024.",
       "url": "https://www.sciencesetavenir.fr/sante/e-sante/sport-sur-ordonnance-une-experimentation-de-remboursement-lancee-pour-les-patients-atteints-de-cancer_191996?xtor=RSS-16",
@@ -150,16 +130,6 @@
       "date": "2026-04-17T12:00:07+00:00",
       "date_formatted": "17 April 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En 2025, l'Assurance maladie a détecté près de 723 millions d'euros de fraudes",
-      "desc": "Faux arrêts de travail, des centres de santé fictifs, du blanchiment... Un nouveau record de fraude à l'assurance maladie a été battu en 2025. Les inspecteurs ont détecté près de 723 millions d'euros de fraude.",
-      "url": "https://www.franceinfo.fr/economie/fraude/en-2025-l-assurance-maladie-a-detecte-pres-de-723-millions-d-euros-de-fraudes_7943852.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/e0lwTtxD6e9cZmQLI6ljIEBz0GU/84x0:1489x790/432x243/filters:format(jpg)/2026/04/16/69e139db3e2dc015541980.jpg",
-      "date": "2026-04-17T11:41:00+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -408,16 +378,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/alimentation-patient-bizarre-il-adorait-viande-crue-medecins-ne-sont-pas-prets-oublier-ce-quils-ont-trouve-son-corps-133596/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/b/f/1bf21fdb3e_50253640_alimentation-viande-crue.jpg",
       "date": "2026-04-11T19:57:30+00:00",
-      "date_formatted": "11 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Ce sucre agit en silence dans votre corps : son rôle dans les tumeurs inquiète les chercheurs",
-      "desc": "Il est présent dans de très nombreux aliments du quotidien, parfois là où on ne l’attend pas. Longtemps considéré comme inoffensif, il est aujourd’hui dans le viseur des chercheurs. Car une nouvelle étude révèle qu’il pourrait, de manière insidieuse, favoriser la croissance des tumeurs en...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-ce-sucre-agit-silence-votre-corps-son-role-tumeurs-inquiete-chercheurs-w2t8-133467/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/1/d/31d354e748_50226398_sodas-fructose.jpg",
-      "date": "2026-04-11T09:00:00+00:00",
       "date_formatted": "11 April 2026",
       "source": "Futura Santé",
       "type": "science"
