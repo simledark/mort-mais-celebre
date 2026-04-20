@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-19T19:55:51.504566+00:00",
+  "generated_at": "2026-04-20T07:28:14.324086+00:00",
   "count": 56,
   "articles": [
+    {
+      "title": "Alzheimer : cette découverte pourrait changer tout ce que vous pensiez sur la maladie",
+      "desc": "Et si la maladie d’Alzheimer n’était pas aussi irréversible qu’on l’a longtemps cru ? Une nouvelle étude américaine explore une piste inattendue, centrée sur l’énergie du cerveau, et invite à repenser les approches actuelles.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-cette-decouverte-pourrait-changer-tout-ce-vous-pensiez-maladie-w2t8-133521/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/4/c/d4c51cd596_50253527_reparer-cerveau-alzheimer.jpg",
+      "date": "2026-04-20T08:00:00+00:00",
+      "date_formatted": "20 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "C’est inédit : un virus venu des océans est passé chez l’être humain",
+      "desc": "Dans une étude publiée fin mars 2026 dans la revue Nature Microbiology, des chercheurs chinois ont établi un lien inédit entre un virus identifié notamment chez les crevettes, les poissons et d’autres animaux marins, et une grave maladie de l’œil chez les humains, invitant à reconsidérer les risques",
+      "url": "https://www.franceinfo.fr/sciences/c-est-inedit-un-virus-venu-des-oceans-est-passe-chez-l-etre-humain_7945748.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/TNVmfWkN0aNCUFmlI3vdFbRXSZY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/04/17/69e22ff3d8ac0093116449.jpg",
+      "date": "2026-04-20T06:00:03+00:00",
+      "date_formatted": "20 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Vous mangez du fromage ? Cette étude révèle un effet inattendu sur le cerveau",
       "desc": "Et si un simple morceau de fromage pouvait protéger votre cerveau ? Une étude japonaise publiée en octobre 2025 dans la revue Nutrients a mis en évidence une association surprenante. Les personnes âgées consommant du fromage chaque semaine présentaient un risque de démence réduit de 24 %.",
@@ -18,26 +38,6 @@
       "url": "https://www.liberation.fr/international/europe/mort-de-nathalie-baye-soldat-francais-tue-au-liban-lr-choisit-retailleau-pour-la-presidentielle-lactu-de-ce-week-end-20260419_J7KNS76AGJHOLMUK2BTRLLZADM/",
       "image": null,
       "date": "2026-04-19T17:56:25+00:00",
-      "date_formatted": "19 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Menus clé en main, préparation à la chaîne et travail dissimulé : dans l’arrière-cuisine peu reluisante des «dark kitchens»",
-      "desc": "Depuis leur création à la fin des années 2010 et leur démocratisation lors de la pandémie de Covid-19, ces restaurants sans salle qui ne vendent que via les plateformes de livraison suscitent la curiosité. Immersion dans un écosystème prisé par les investisseurs qui privilégient la rentabilité à la ",
-      "url": "https://www.liberation.fr/economie/conso/menus-cle-en-main-preparation-a-la-chaine-et-travail-dissimule-dans-larriere-cuisine-peu-reluisante-des-dark-kitchens-20260419_DMVDX4KR6ZHLDPVLOYRQDBMFBM/",
-      "image": null,
-      "date": "2026-04-19T15:49:03+00:00",
-      "date_formatted": "19 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«November», un splendide documentaire pour redécouvrir Dennis Johnson, pionnier oublié de la musique américaine",
-      "desc": "L’ambitieux portrait filmique d’Eric Pinoit, diffusé en première mondiale du 23 au 26 avril à Paris dans le cadre du festival FAME, redonne au musicien mort en 2018, authentique anticonformiste, sa place cruciale dans l’histoire du minimalisme.",
-      "url": "https://www.liberation.fr/culture/november-un-splendide-documentaire-pour-redecouvrir-dennis-johnson-pionnier-oublie-de-la-musique-americaine-20260419_UKB6B5IENBBEZBVE4MVSLVQ27E/",
-      "image": null,
-      "date": "2026-04-19T15:36:00+00:00",
       "date_formatted": "19 April 2026",
       "source": "Libération",
       "type": "presse"
