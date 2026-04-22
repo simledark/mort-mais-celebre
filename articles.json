@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-04-22T15:58:17.452547+00:00",
-  "count": 55,
+  "generated_at": "2026-04-22T20:40:31.119130+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Cancer colorectal chez les moins de 50 ans : un herbicide présent dans l’eau ressort dans une étude majeure",
+      "desc": "Notre environnement laisse des marques durables au cœur même de notre ADN. En explorant ces empreintes invisibles, des chercheurs viennent d’identifier un facteur de risque méconnu qui pourrait être en cause dans la hausse inquiétante des cancers colorectaux chez les jeunes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-colon-cancer-colorectal-chez-moins-50-ans-herbicide-present-eau-ressort-etude-majeure-133933/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/2/7/727255a553_50254243_cancer-colon-lien-herbiscide.jpg",
+      "date": "2026-04-22T20:03:42+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Coronavirus de chauves-souris : une nouvelle porte d’entrée dans les cellules humaines vient d’être mise au jour",
+      "desc": "Cette découverte, réalisée par une équipe britannique, s’inscrit dans la recherche pour identifier et prévenir les futures pandémies.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/22/coronavirus-de-chauves-souris-une-nouvelle-porte-d-entree-dans-les-cellules-humaines-vient-d-etre-mise-au-jour_6682440_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/22/250/0/3000/1500/644/322/60/0/d218939_upload-1-szdyrs1j0tkk-2021-03-22t000000z-1086782415-rc2ngm9ta8l7-rtrmadp-3-health-coronavirus-philippines-bats.JPG",
+      "date": "2026-04-22T18:13:22+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "\"Il y a une sous-estimation du phénomène du chemsex et de ses ravages\", alerte le psychiatre Jean-Victor Blanc",
+      "desc": "Depuis janvier 2026, 18 personnes sont mortes d'overdoses à Paris, et neuf de ces décès sont liés au chemsex, selon le parquet de Paris. Le psychiatre Jean-Victor Blanc alerte sur l’ampleur du phénomène.",
+      "url": "https://www.franceinfo.fr/sante/il-y-a-une-sous-estimation-du-phenomene-du-chemsex-et-de-ses-ravages-alerte-le-psychiatre-jean-victor-blanc_7957163.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/6VJIOOkm7Efy4U9lVlI-gHPRK1E/0x275:5286x3249/432x243/filters:format(jpg)/2026/04/03/69cf63317061b867842543.jpg",
+      "date": "2026-04-22T18:03:44+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "\"Les Britanniques nous ouvrent la voie !\" : les associations françaises espèrent un sursaut, après l'adoption d'une loi \"génération sans tabac\" au Royaume-Uni",
       "desc": "Le Royaume-Uni a adopté lundi une loi interdisant la vente de cigarettes aux personnes nées après 2008. En France, en 2023, le tabagisme a entraîné 68 000 décès, et plusieurs acteurs de la prévention défendent une proposition de loi pour une \"génération sans tabac\".",
@@ -13,13 +43,23 @@
       "type": "presse"
     },
     {
-      "title": "Sud-Liban : un deuxième soldat français des Casques bleus est mort des suites de ses blessures",
-      "desc": "Le caporal-chef Anicet Girardin servait dans les rangs de la Force intérimaire des Nations unies au Liban (Finul) lorsqu’il a été pris pour cible samedi «par des combattants du Hezbollah», a déclaré Emmanuel Macron.",
-      "url": "https://www.liberation.fr/international/moyen-orient/liban-un-2e-soldat-francais-des-casques-bleus-est-mort-des-suites-de-ses-blessures-20260422_5KLYJ5IFBBFMJAYLH5PSJQSMK4/",
+      "title": "Prêt de 90 milliards à l’Ukraine, mort d’un deuxième Casque bleu français, victoire de Paul Seixas sur la Flèche wallonne… l’actu de ce mercredi 22 avril",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+      "url": "https://www.liberation.fr/international/europe/pret-de-90-milliards-a-lukraine-mort-dun-deuxieme-casque-bleu-francais-victoire-de-paul-seixas-sur-la-fleche-wallonne-lactu-de-ce-mercredi-22-avril-20260422_J4DV7IQL35EITEEVDV5K345LFQ/",
       "image": null,
-      "date": "2026-04-22T14:09:25+00:00",
+      "date": "2026-04-22T16:18:56+00:00",
       "date_formatted": "22 April 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du pancréas : Après 40 ans sans progrès, enfin des avancées pour augmenter l’espérance de vie des patients",
+      "desc": "Plusieurs études mettent en exergue des pistes prometteuses pour faire gagner des mois de vie aux personnes atteintes par le cancer du pancréas",
+      "url": "https://www.20minutes.fr/sante/4219793-20260422-cancer-pancreas-apres-40-ans-progres-enfin-avancees-augmenter-esperance-vie-patients?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/8UAfYN61RFuq2IUQF8c7xQ/1200x768_universitaires-accusent-cnrs-adopter-methodes-discriminantes-envers-sociologue-depuis-trois-ans",
+      "date": "2026-04-22T16:16:07+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -151,16 +191,6 @@
       "date_formatted": "21 April 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Une étude permet de découvrir \"des altérations du microbiote spécifiques à la maladie de Parkinson\" avec l'espoir \"d'identifier les individus les plus à risque\"",
-      "desc": "L'étude internationale, à laquelle a pris part l'Inrae, l'institut national de la recherche agronomique en France, a été publiée dans la revue \"Nature Medicine\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/une-etude-permet-de-decouvrir-des-alterations-du-microbiote-specifiques-a-la-maladie-de-parkinson-avec-l-espoir-d-identifier-les-individus-les-plus-a-risque_7952195.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/apmiAWuSYCHxIRmbimnzr9X8teU/0x501:3174x2287/432x243/filters:format(jpg)/2026/04/20/69e682dd5bcd5592680121.jpg",
-      "date": "2026-04-20T21:49:22+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Maladie à corps de Lewy : quelle est cette maladie neurocognitive fréquente, mais peu connue, qui a emporté Nathalie Baye ?",
@@ -383,16 +413,6 @@
       "type": "science"
     },
     {
-      "title": "Alzheimer : votre taux de vitamine D à la quarantaine pourrait influencer votre cerveau des années plus tard",
-      "desc": "Et si tout se jouait bien avant les premiers symptômes d’Alzheimer ? Une étude récente explore le lien entre le taux de vitamine D à la quarantaine et la santé du cerveau des années plus tard. Une piste qui intrigue les chercheurs.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-votre-taux-vitamine-d-quarantaine-pourrait-influencer-votre-cerveau-annees-plus-tard-133744/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/6/e/66e0680872_50253991_alzheimer-vitamine-d.jpg",
-      "date": "2026-04-15T12:29:13+00:00",
-      "date_formatted": "15 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "VIH : un patient en rémission grâce à un coup de chance exceptionnel",
       "desc": "Un patient norvégien infecté par le VIH est en rémission après une greffe de moelle osseuse destinée à traiter un cancer du sang. Son donneur, son propre frère, s’est révélé porteur d’une mutation rare capable de bloquer le virus.",
       "url": "https://www.sciencesetavenir.fr/sante/vih-un-patient-en-remission-grace-a-un-coup-de-chance-exceptionnel_191946?xtor=RSS-16",
@@ -401,16 +421,6 @@
       "date_formatted": "14 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Le « modèle français de la fin de vie », un fragile équilibre entre liberté et fraternité",
-      "desc": "Pour ses défenseurs, la proposition de loi est « équilibrée » entre la liberté individuelle de décider de sa mort et la fraternité d’une société à l’aider à abréger sa vie. Mais certaines dispositions du texte peuvent être appréciées différemment.",
-      "url": "https://www.lemonde.fr/idees/article/2026/04/14/le-modele-francais-de-la-fin-de-vie-un-fragile-equilibre-entre-liberte-et-fraternite_6679920_3232.html",
-      "image": "https://img.lemde.fr/2025/06/05/0/0/6000/3000/644/322/60/0/9a9c20e_ftp-import-images-1-co0xj2yu0wo7-5104132-01-06.jpg",
-      "date": "2026-04-14T13:00:07+00:00",
-      "date_formatted": "14 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
