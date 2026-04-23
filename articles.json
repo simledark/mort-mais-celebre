@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-22T20:40:31.119130+00:00",
-  "count": 56,
+  "generated_at": "2026-04-23T06:28:04.567514+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Faut-il craindre un nouvelle pandémie de Covid dans les prochaines années ? Un nouveau type de coronavirus capable d'infecter l'humain a été identifié",
+      "desc": "C'est au Kenya que ce nouveau type de coronavirus a été repéré. \"Pour le moment, il n'y a pas eu de transmission à l'homme\", déclare Stephen Graham, professeur de virologie à l'université de Cambridge, qui appelle quand même à la prudence.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/faut-il-craindre-un-nouvelle-pandemie-de-covid-dans-les-prochaines-annees-un-nouveau-type-de-coronavirus-capable-d-infecter-l-humain-a-ete-identifie_7957187.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1v1b4kuu1qUqBfPVCQQAe04WTHw/0x0:2108x1185/432x243/filters:format(jpg)/2026/04/22/69e8f2f91a8ae532061711.jpg",
+      "date": "2026-04-23T08:00:01+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "A Montauban, un hommage rendu à Florian Montorio, casque bleu tué au Liban",
+      "desc": "La ministre des Armées, Catherine Vautrin, présidera la cérémonie. Mercredi 22 avril, Emmanuel Macron a informé qu’un deuxième soldat français, blessé au Liban dans une attaque attribuée au Hezbollah, était mort.",
+      "url": "https://www.liberation.fr/international/moyen-orient/a-montauban-un-hommage-rendu-a-florian-montorio-casque-bleu-tue-au-liban-20260423_SJOGVG5HG5GR3CL4KBFKFD3F6I/",
+      "image": null,
+      "date": "2026-04-23T06:22:14+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Cancer colorectal chez les moins de 50 ans : un herbicide présent dans l’eau ressort dans une étude majeure",
       "desc": "Notre environnement laisse des marques durables au cœur même de notre ADN. En explorant ces empreintes invisibles, des chercheurs viennent d’identifier un facteur de risque méconnu qui pourrait être en cause dans la hausse inquiétante des cancers colorectaux chez les jeunes.",
@@ -40,16 +60,6 @@
       "date": "2026-04-22T17:06:08+00:00",
       "date_formatted": "22 April 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Prêt de 90 milliards à l’Ukraine, mort d’un deuxième Casque bleu français, victoire de Paul Seixas sur la Flèche wallonne… l’actu de ce mercredi 22 avril",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "url": "https://www.liberation.fr/international/europe/pret-de-90-milliards-a-lukraine-mort-dun-deuxieme-casque-bleu-francais-victoire-de-paul-seixas-sur-la-fleche-wallonne-lactu-de-ce-mercredi-22-avril-20260422_J4DV7IQL35EITEEVDV5K345LFQ/",
-      "image": null,
-      "date": "2026-04-22T16:18:56+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
