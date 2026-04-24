@@ -1,46 +1,106 @@
 {
-  "generated_at": "2026-04-24T06:30:01.968796+00:00",
-  "count": 53,
+  "generated_at": "2026-04-24T15:54:08.812283+00:00",
+  "count": 56,
   "articles": [
     {
-      "title": "« Même si je suis en larmes à l’intérieur, mon corps ne montre rien » : les confidences d’une médecin généraliste dans un désert médical",
-      "desc": "« Mes patients, la maladie et moi » (1/5). Et si on prenait le pouls des médecins ? Généraliste dans la Nièvre, Nacéra Ounnas-Verspieren, 58 ans, a elle-même été confrontée à un cancer. Depuis, son regard sur la parole médicale a changé.",
-      "url": "https://www.lemonde.fr/intimites/article/2026/04/24/meme-si-je-suis-en-larmes-a-l-interieur-mon-corps-ne-montre-rien-les-confidences-d-une-medecin-generaliste-dans-un-desert-medical_6683000_6190330.html",
-      "image": "https://img.lemde.fr/2026/04/06/333/0/4000/2000/644/322/60/0/512befe_upload-1-bjojjr8ll4y4-img-3594-2.jpg",
-      "date": "2026-04-24T06:00:19+00:00",
+      "title": "Mort de Michael Tilson-Thomas, le plus grand chef d’orchestre de sa génération",
+      "desc": "Immense chef d’orchestre américain, également compositeur et pianiste, a succombé, le 22 avril, à une tumeur au cerveau à l’âge de 81 ans.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-michael-tilson-thomas-le-plus-grand-chef-dorchestre-de-sa-generation-20260424_DL4VKLGRZRALJPTLOD5SX7QLEY/",
+      "image": null,
+      "date": "2026-04-24T15:31:39+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Madame de Sévigné : sans mari dans le Marais",
+      "desc": "Dans l’hôtel où elle vécut, au musée Carnavalet, une exposition est consacrée à la grande épistolière, veuve et donc libre à 25 ans, pour le quadricentenaire de sa naissance. Un accrochage qui s’appuie sur le renouvellement de l’historiographie des femmes au XVIIe siècle.",
+      "url": "https://www.liberation.fr/culture/livres/madame-de-sevigne-sans-mari-dans-le-marais-20260424_C5UQULDLTJAAVC3UVCH53M7LTE/",
+      "image": null,
+      "date": "2026-04-24T14:54:00+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Procès de la mort d’Agnès Lassalle : seize ans de réclusion requis contre l’élève",
+      "desc": "La cour d’assises des mineurs des Pyrénées-Atlantiques a rendu ce vendredi soir son verdict dans l’affaire de la professeure de Saint-Jean-de-Luz poignardée en plein cours en février 2023.",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-de-la-mort-dagnes-lassalle-seize-ans-de-reclusion-requis-contre-leleve-20260424_LHI3X5PNNZBMTLF2KZR6M3PRWE/",
+      "image": null,
+      "date": "2026-04-24T14:07:31+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : pourquoi les tumeurs du coeur sont-elles si rares ?",
+      "desc": "Les tumeurs du coeur font partie des tumeurs les plus rares au monde. Pour comprendre ce qui protège cet organe, une équipe a mis le doigt sur un mécanisme clé. Plus qu'un mouvement mécanique, c'est toute une cascade biologique qui entre en jeu.",
+      "url": "https://www.sciencesetavenir.fr/sante/coeur-et-cardio/cancer-pourquoi-les-tumeurs-du-coeur-sont-elles-si-rares_192175?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb6f5dd4a86-afp-20240403-f0423593-v1-highres-humanheartvolumeandbloodsupplyillustration.jpg",
+      "date": "2026-04-24T14:03:46+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "«Les Pêcheurs» de Raul Brandão : le Grand bleu en noir",
+      "desc": "Entre poésie et récit ethnographique, l’auteur portugais immortalise dans un ouvrage paru en 1923 le monde enfui des travailleurs de la mer.",
+      "url": "https://www.liberation.fr/culture/livres/les-pecheurs-de-raul-brandao-le-grand-bleu-en-noir-20260424_SSON5SJBGZBXRELIZXYX7EOY3M/",
+      "image": null,
+      "date": "2026-04-24T13:32:25+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le Parquet antiterroriste annonce la mise en examen d’un adolescent qui projetait une «action violente» contre les communautés juive ou homosexuelle",
+      "desc": "Le mineur, 15 ans, a été interpellé le 17 avril dans le Rhône. D’après le Pnat ce vendredi, il a reconnu avoir «voulu mourir en martyr».",
+      "url": "https://www.liberation.fr/societe/police-justice/le-pnat-annonce-la-mise-en-examen-dun-adolescent-qui-projetait-une-action-violente-contre-les-communautes-juive-ou-homosexuelle-20260424_S6MDOIDHRRAKBOOBIZKZL3HEXY/",
+      "image": null,
+      "date": "2026-04-24T13:29:50+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Guadeloupe : plongée scientifique dans les gaz du volcan, au plus près du cratère",
+      "desc": "Une équipe transdisciplinaire de chercheurs part à l’assaut de la Soufrière pour mesurer en particulier les émissions de sulfure d’hydrogène et sa toxicité sur les populations vivant à proximité.",
+      "url": "https://www.lemonde.fr/sciences/video/2026/04/24/guadeloupe-plongee-scientifique-dans-les-gaz-du-volcan-au-plus-pres-du-cratere_6683044_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/23/60/0/1920/960/644/322/60/0/9a6c625_upload-1-gut0kofyehw5-gwada.jpg",
+      "date": "2026-04-24T11:20:15+00:00",
       "date_formatted": "24 April 2026",
       "source": "Le Monde Science",
       "type": "science"
     },
     {
-      "title": "La face cachée de la Fondation Brigitte-Bardot (3/3) : les juteux contrats avec le néofasciste Frédéric Chatillon",
-      "desc": "«Libération» a enquêté sur les zones d’ombre de la Fondation Brigitte-Bardot, fer de lance de la protection animale, laissée par l’actrice à sa mort, le 28 décembre 2025. Dans le troisième épisode : comment le prestataire du RN aux accointances néonazies reste un acteur clé de la structure, où ses s",
-      "url": "https://www.liberation.fr/politique/la-face-cachee-de-la-fondation-brigitte-bardot-33-les-juteux-contrats-avec-le-neofasciste-frederic-chatillon-20260424_XHMI3UDMERFZVA3R5MLV25JO2I/",
-      "image": null,
-      "date": "2026-04-24T05:00:00+00:00",
+      "title": "L'OMS salue les résultats de sa campagne de \"grand rattrapage\" de vaccination des enfants",
+      "desc": "La pandémie de Covid-19 a profondément ébranlé les systèmes de santé et bouleversé les campagnes de vaccination à travers le monde. Résultat : des maladies contagieuses comme la rougeole ont connu un rebond inquiétant. Face à cette situation, l’OMS, l’Unicef et Gavi — l’alliance internationale pour ",
+      "url": "https://www.sciencesetavenir.fr/sante/l-oms-salue-les-resultats-de-sa-campagne-de-grand-rattrapage-de-vaccination-des-enfants_192164?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb32eea7b28-vaccination.jpg",
+      "date": "2026-04-24T09:26:26+00:00",
       "date_formatted": "24 April 2026",
-      "source": "Libération",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Rougeole : les cas augmentent dans les pays d’Amérique du Nord, où cette maladie mortelle avait quasiment disparu",
+      "desc": "L’Organisation panaméricaine de la santé a mis en garde jeudi contre l’intensification de l’épidémie de rougeole dans les Amériques, notamment à l’approche de la Coupe du monde de football 2026, qui se tiendra en juin aux Etats-Unis, au Mexique et au Canada.",
+      "url": "https://www.lemonde.fr/international/article/2026/04/24/l-epidemie-de-rougeole-s-intensifie-sur-le-continent-americain-alerte-l-organisation-regionale-de-la-sante_6683022_3210.html",
+      "image": "https://img.lemde.fr/2026/04/10/500/0/6000/3000/644/322/60/0/1f1690e_ftp-1-27si7hmgaydd-ddf023bc6be64fdc8b8f412d816bf5ce-3-5a6ef9fee66c4e7db1711ab835920ae9.jpg",
+      "date": "2026-04-24T09:04:52+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "Mamadou Coulibaly, milieu de l’AS Monaco : «Je garde en tête que je ne dois ni me laisser aller ni m’habituer au luxe»",
-      "desc": "Le joueur de tout juste 22 ans, international Espoirs, s’est posé avec «Libé» pour évoquer la maturation d’un joueur de haut niveau, le passage de l’enfance à l’âge adulte et le rôle de son club formateur dans cette transmutation.",
-      "url": "https://www.liberation.fr/sports/football/mamadou-coulibaly-milieu-de-las-monaco-je-garde-en-tete-que-je-ne-dois-ni-me-laisser-aller-ni-mhabituer-au-luxe-20260424_TY6NK2MLYVA4FP3IFCI6GHTU54/",
-      "image": null,
-      "date": "2026-04-24T04:15:00+00:00",
+      "title": "« Même si je suis en larmes à l’intérieur, mon corps ne montre rien » : les confidences de Nacéra Ounnas-Verspieren, médecin généraliste dans le désert médical de la Nièvre",
+      "desc": "« Mes patients, la maladie et moi » (1/5). Et si on prenait le pouls des médecins ? Depuis qu’elle a elle-même été confrontée à un cancer, le regard de cette soignante sur la parole médicale a changé, comme elle l’explique dans un entretien au « Monde ».",
+      "url": "https://www.lemonde.fr/intimites/article/2026/04/24/meme-si-je-suis-en-larmes-a-l-interieur-mon-corps-ne-montre-rien-les-confidences-d-une-medecin-generaliste-dans-un-desert-medical_6683000_6190330.html",
+      "image": "https://img.lemde.fr/2026/04/06/1333/0/2667/1333/644/322/60/0/bae78f1_upload-1-mugzfg6sq68c-img-3519.jpg",
+      "date": "2026-04-24T06:00:08+00:00",
       "date_formatted": "24 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Journalistes tués par l’armée israélienne : condamner ne suffit plus, il faut sanctionner",
-      "desc": "La mort d’Amal Khalil, journaliste libanaise visée et tuée par Tsahal mercredi 23 avril, montre une nouvelle fois la violence systémique d’Israël contre la profession.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/journalistes-tues-par-larmee-israelienne-condamner-ne-suffit-plus-il-faut-sanctionner-20260424_KGXVROS35NFGBIVCCDFFZP3L4Y/",
-      "image": null,
-      "date": "2026-04-24T03:29:00+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "Cancer : des chercheurs ont mis au point un piège qui se referme sur la tumeur au moment où elle résiste",
@@ -353,16 +413,6 @@
       "type": "science"
     },
     {
-      "title": "Démence : un simple spray nasal serait capable de freiner, voire d'inverser le déclin cognitif !",
-      "desc": "Et si le déclin cognitif lié à l’âge n’était pas irréversible ? Des chercheurs américains ont mis au point un spray nasal capable de réduire l’inflammation cérébrale et d’améliorer la mémoire dans des modèles animaux. Une piste prometteuse, encore expérimentale, qui pourrait à terme transformer...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-demence-simple-spray-nasal-serait-capable-freiner-voire-inverser-declin-cognitif-133788/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/8/9/989feddab0_50254011_2-spray-nasal.jpg",
-      "date": "2026-04-17T12:17:05+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Pris dans un étau budgétaire, les départements en difficulté face au vieillissement de la population",
       "desc": "Un rapport de la chambre régionale des comptes des Hauts-de-France étrille la gestion de l’allocation personnalisée d’autonomie par le département du Pas-de-Calais, illustrant les difficultés de ces collectivités locales face aux nécessités d’économie.",
       "url": "https://www.lemonde.fr/sante/article/2026/04/17/pris-dans-un-etau-budgetaire-les-departements-en-difficulte-face-au-vieillissement-de-la-population_6680856_1651302.html",
@@ -391,16 +441,6 @@
       "date_formatted": "16 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Santé mentale des préadolescents : aux urgences de l’hôpital Robert-Debré, « parler de son envie de mourir, ça peut faire très peur, mais les mots ne rendent pas malade »",
-      "desc": "La Fédération hospitalière de France a alerté, mercredi, sur la hausse de 118 % sur cinq ans des hospitalisations pour tentative de suicide des filles de 10 à 14 ans. Reportage auprès de jeunes, de mères et de professionnels dans l’établissement parisien, qui projette l’ouverture d’une unité supplém",
-      "url": "https://www.lemonde.fr/societe/article/2026/04/16/idees-et-tentatives-de-suicide-chez-les-preadolescents-a-l-hopital-robert-debre-parler-de-son-envie-de-mourir-ca-peut-faire-tres-peur-mais-les-mots-ne-rendent-pas-malade_6680464_3224.html",
-      "image": "https://img.lemde.fr/2026/04/15/0/0/2173/1086/644/322/60/0/62102f1_upload-1-unomitp1fjzt-se-verin-millet-suicide-ados.jpg",
-      "date": "2026-04-16T06:00:25+00:00",
-      "date_formatted": "16 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "L'essor de l'obésité éclipse les progrès en santé publique depuis 2010, selon un rapport de l'OCDE",
@@ -519,16 +559,6 @@
       "image": null,
       "date": "2026-02-11T10:18:52+00:00",
       "date_formatted": "11 February 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Diabète–hypertension : la génétique identifie les personnes à haut risque et ouvre la voie à une prévention personnalisée",
-      "desc": "L’hypertension artérielle et le diabète sont souvent associés, augmentant fortement le risque d’AVC et d’atteinte rénale grave. Des chercheurs de Surrey (Royaume Uni) et de Lille au sein de l’unité « Multi-omique et physiopathologie des maladies métaboliques (Inserm/CNRS/Université de Lille/ CHU de ",
-      "url": "https://presse.inserm.fr/diabete-hypertension-la-genetique-identifie-les-personnes-a-haut-risque-et-ouvre-la-voie-a-une-prevention-personnalisee/72080/",
-      "image": null,
-      "date": "2026-02-10T14:43:21+00:00",
-      "date_formatted": "10 February 2026",
       "source": "Inserm",
       "type": "science"
     }
