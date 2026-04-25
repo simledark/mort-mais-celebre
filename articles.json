@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-04-25T14:29:26.267568+00:00",
-  "count": 51,
+  "generated_at": "2026-04-25T19:57:33.398344+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Patient bizarre : morte depuis quelques secondes, elle revient sans aucune réanimation !",
+      "desc": "Une femme de 94 ans a été victime d’un arrêt cardiaque. En accord avec les directives écrites de la patiente, les médecins n’ont pas entrepris de réanimation pour tenter de la sauver. Alors qu’ils s’apprêtaient à déclarer son décès, son cœur est reparti spontanément. Ce cas est inédit puisque la...",
+      "url": "https://www.futura-sciences.com/sante/actualites/coeur-patient-bizarre-morte-depuis-quelques-secondes-elle-revient-aucune-reanimation-133950/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/f/5/1f54f328ec_50254325_senior-hopital.jpg",
+      "date": "2026-04-25T20:01:06+00:00",
+      "date_formatted": "25 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Isabelle Peretz, neuropsychologue : « Les bienfaits de la musique sont immédiats, variés, sans effets indésirables »",
+      "desc": "Dans un entretien au « Monde », la chercheuse en neurocognition de la musique détaille les effets des chansons et des sons chez des patients touchés par la maladie d’Alzheimer ou de Parkinson, ou chez les bébés prématurés.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/25/isabelle-peretz-neuropsychologue-les-bienfaits-de-la-musique-sont-immediats-varies-sans-effets-indesirables_6683269_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/22/171/0/2048/1024/644/322/60/0/ef8a9ae_upload-1-abvcmsqh1gtx-photo-2022-pour-nas.jpeg",
+      "date": "2026-04-25T18:00:14+00:00",
+      "date_formatted": "25 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Adieu les Ehpad, bonjour les Maisons France Autonomie",
+      "desc": "En changeant le nom des Etablissements d’hébergement pour personnes âgées dépendantes, l’exécutif espère «changer le regard sur le vieillissement» mais aussi la réputation des maisons de retraite abîmée par le scandale Orpea.",
+      "url": "https://www.liberation.fr/societe/sante/adieu-les-ehpad-bonjour-les-maisons-france-autonomie-20260425_CEZVBK2BLVCVDMVVUP6P53C4K4/",
+      "image": null,
+      "date": "2026-04-25T14:38:54+00:00",
+      "date_formatted": "25 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Meurtre d’Agathe Hilairet : le principal suspect retire ses aveux sur fond de contamination de preuves",
       "desc": "Selon «le Parisien», une erreur de manipulation au moment de l’autopsie de la jeune joggeuse tuée en 2025 dans la Vienne, permet à l’homme, mis en examen pour meurtre, d’affirmer qu’il n’est pas l’auteur du crime. De lourdes charges pèsent néanmoins encore sur lui.",
@@ -23,16 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Ukraine : au moins cinq morts et 34 blessés dans des frappes russes dans la nuit à Dnipro",
-      "desc": "Au total, les dernières attaques russes en date en Ukraine ont fait au moins six morts et près d’une quarantaine de blessés, selon les autorités ukrainiennes, tandis que la Russie a dénombré au moins un mort et trois blessés dans des frappes sur son territoire.",
-      "url": "https://www.liberation.fr/international/europe/ukraine-au-moins-deux-morts-et-21-blesses-dans-une-frappe-russe-a-dnipro-20260425_CE7MFMMXXBHE3DQVE3NUGZXJQM/",
-      "image": null,
-      "date": "2026-04-25T09:30:22+00:00",
-      "date_formatted": "25 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Pourquoi à un moment de leur vie, les hommes ont des poils qui sortent de leurs oreilles ?",
       "desc": "Il est des questions qu’on n’ose pas poser ouvertement en public. Parmi elles, certaines touchent à l’intime comme ces poils qui apparaissent chez les hommes d’un certain âge au niveau des oreilles",
       "url": "https://www.20minutes.fr/sante/4219558-20260425-pourquoi-moment-vie-hommes-poils-sortent-oreilles?at_medium=display&at_campaign=149",
@@ -46,8 +66,8 @@
       "title": "« Le courage des enfants nous oblige à déplacer des montagnes » : les confidences d’une spécialiste du cancer du sang pédiatrique",
       "desc": "« Mes patients, la maladie et moi ». Et si on prenait le pouls des médecins ? A la tête d’un réseau francilien de soins palliatifs infantiles, Béatrice Pellegrino, hémato-onco-pédiatre, met toute son énergie et sa foi au service de l’accompagnement de ses jeunes patients.",
       "url": "https://www.lemonde.fr/intimites/article/2026/04/25/le-courage-des-enfants-nous-oblige-a-deplacer-des-montagnes-les-confidences-d-une-specialiste-du-cancer-du-sang-pediatrique_6683212_6190330.html",
-      "image": "https://img.lemde.fr/2026/04/01/167/0/3292/1646/644/322/60/0/54cde49_upload-1-ywmmdxj7iflh-capture-d-e-cran-2026-03-30-a-11-17-28.png",
-      "date": "2026-04-25T06:00:32+00:00",
+      "image": "https://img.lemde.fr/2026/04/01/3486/0/5460/2730/644/322/60/0/0525026_upload-1-spfwqjsstf6x-4-portrait-plein-pied2.jpg",
+      "date": "2026-04-25T06:00:28+00:00",
       "date_formatted": "25 April 2026",
       "source": "Le Monde Science",
       "type": "science"
