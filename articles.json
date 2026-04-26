@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-25T19:57:33.398344+00:00",
+  "generated_at": "2026-04-26T06:29:46.902148+00:00",
   "count": 53,
   "articles": [
+    {
+      "title": "PMA : l’autorisation du diagnostic préimplantatoire des embryons en France de nouveau interrogée",
+      "desc": "Dans le cadre des Etats généraux de la bioéthique, la question du recours à la technique génétique visant à écarter les embryons non viables pour améliorer les parcours de procréation médicalement assistée revient dans le débat. Toujours aussi clivante.",
+      "url": "https://www.lemonde.fr/societe/article/2026/04/26/pma-l-autorisation-du-diagnostic-preimplantatoire-des-embryons-en-france-de-nouveau-interrogee_6683440_3224.html",
+      "image": "https://img.lemde.fr/2026/04/24/186/0/5568/2784/644/322/60/0/014b04f_upload-1-zp641zcmbxb4-000-32m48p2.jpg",
+      "date": "2026-04-26T07:30:02+00:00",
+      "date_formatted": "26 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« J’ai eu très peur que certaines de mes patientes se suicident » : les confidences d’un psychiatre à Rennes",
+      "desc": "« Mes patients, la maladie et moi » (3/5). Et si on prenait le pouls des médecins ? Jacques Dayan, professeur de psychiatrie et volubile septuagénaire qui a créé une unité psychiatrique parents-bébé à Rennes, éprouve une immense satisfaction quand il parvient à nouer un lien entre une mère et son en",
+      "url": "https://www.lemonde.fr/intimites/article/2026/04/26/j-ai-eu-tres-peur-que-certaines-de-mes-patientes-se-suicident-les-confidences-d-un-psychiatre-a-rennes_6683419_6190330.html",
+      "image": "https://img.lemde.fr/2026/04/01/456/0/5472/2736/644/322/60/0/9ff5dbe_upload-1-znm2wvadxp6a-6a7a4048.jpg",
+      "date": "2026-04-26T05:30:30+00:00",
+      "date_formatted": "26 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "Patient bizarre : morte depuis quelques secondes, elle revient sans aucune réanimation !",
       "desc": "Une femme de 94 ans a été victime d’un arrêt cardiaque. En accord avec les directives écrites de la patiente, les médecins n’ont pas entrepris de réanimation pour tenter de la sauver. Alors qu’ils s’apprêtaient à déclarer son décès, son cœur est reparti spontanément. Ce cas est inédit puisque la...",
@@ -28,16 +48,6 @@
       "url": "https://www.liberation.fr/societe/sante/adieu-les-ehpad-bonjour-les-maisons-france-autonomie-20260425_CEZVBK2BLVCVDMVVUP6P53C4K4/",
       "image": null,
       "date": "2026-04-25T14:38:54+00:00",
-      "date_formatted": "25 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Meurtre d’Agathe Hilairet : le principal suspect retire ses aveux sur fond de contamination de preuves",
-      "desc": "Selon «le Parisien», une erreur de manipulation au moment de l’autopsie de la jeune joggeuse tuée en 2025 dans la Vienne, permet à l’homme, mis en examen pour meurtre, d’affirmer qu’il n’est pas l’auteur du crime. De lourdes charges pèsent néanmoins encore sur lui.",
-      "url": "https://www.liberation.fr/societe/police-justice/meurtre-dagathe-hilairet-le-principal-suspect-retire-ses-aveux-sur-fond-de-contamination-de-preuves-20260425_BUMBDSONXVDONBLVHFWVJMGYNU/",
-      "image": null,
-      "date": "2026-04-25T11:53:24+00:00",
       "date_formatted": "25 April 2026",
       "source": "Libération",
       "type": "presse"
@@ -173,16 +183,6 @@
       "type": "presse"
     },
     {
-      "title": "Le chimiste Raphaël Rodriguez et la biologiste Gaëlle Legube lauréats des prix de la Fondation ARC pour la recherche sur le cancer",
-      "desc": "Les travaux des deux lauréats ont permis de faire des avancées significatives dans la lutte contre le cancer.",
-      "url": "https://www.franceinfo.fr/sante/cancer/le-chimiste-raphael-rodriguez-et-la-biologiste-gaelle-legube-laureats-des-prix-de-la-fondation-arc-pour-la-recherche-sur-le-cancer_7958954.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/5tCwvBhkbwSOUvwkWXF5lDRD_mo/6x0:991x554/432x243/filters:format(jpg)/2026/04/23/69e9d58c9f9f0933976758.png",
-      "date": "2026-04-23T10:26:10+00:00",
-      "date_formatted": "23 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Contre le cancer du pancréas, des avancées enfin prometteuses",
       "desc": "Après plusieurs décennies de stagnation, la recherche avance face au cancer du pancréas, l'un des plus meurtriers qui soient. Si l'on reste bien loin de pouvoir guérir la plupart des patients, ces pistes promettent de rajouter de précieux mois à leur existence.",
       "url": "https://www.sciencesetavenir.fr/sante/cancer/contre-le-cancer-du-pancreas-des-avancees-enfin-prometteuses_192063?xtor=RSS-16",
@@ -309,8 +309,8 @@
       "image": "https://img.lemde.fr/2026/04/20/324/0/3898/1949/644/322/60/0/016c946_upload-1-ny7s991b8cd8-sciencephoto-fr-c0529825-1.jpg",
       "date": "2026-04-21T06:30:03+00:00",
       "date_formatted": "21 April 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
