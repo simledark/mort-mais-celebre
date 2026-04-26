@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-04-26T14:29:41.019956+00:00",
-  "count": 42,
+  "generated_at": "2026-04-26T19:59:46.802324+00:00",
+  "count": 50,
   "articles": [
     {
-      "title": "En Colombie, les dissidents des Farc ensanglantent la campagne présidentielle",
-      "desc": "Un attentat à la bombe a fait au moins 14 morts et 38 blessés samedi sur une route du sud-ouest de la Colombie, secouée par une série d’attaques à un peu plus d’un mois de la présidentielle.",
-      "url": "https://www.liberation.fr/international/amerique/en-colombie-les-dissidents-des-farc-ensanglantent-la-campagne-presidentielle-20260426_WTWYJCTAJNH4VBSJ7PNMFCSIX4/",
+      "title": "Mort d’Yvan Colonna : Franck Elong Abé sera jugé pour assassinat en relation avec une entreprise terroriste",
+      "desc": "Le détenu radicalisé avait mortellement agressé, dans la prison d’Arles le 2 mars 2022, le militant nationaliste corse qui purgeait une peine à perpétuité pour l’assassinat du préfet Erignac en 1998.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-dyvan-colonna-franck-elong-abe-sera-juge-pour-assassinat-en-relation-avec-une-entreprise-terroriste-20260426_FDGSRGY66RDFRPEPVVSPLXFS3Y/",
       "image": null,
-      "date": "2026-04-26T10:11:32+00:00",
+      "date": "2026-04-26T18:21:32+00:00",
       "date_formatted": "26 April 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "A l’ombre des attaques contre Donald Trump, la violence politique s’enracine aux Etats-Unis",
+      "desc": "Depuis la première élection du milliardaire en 2016, les attaques et menaces contre les élus de tous bords et de tous niveaux ont bondi. Elles ont fait plusieurs morts l’année dernière et menacent sérieusement la démocratie.",
+      "url": "https://www.liberation.fr/international/amerique/a-lombre-des-attaques-contre-trump-la-violence-politique-senracine-aux-etats-unis-20260426_ZMA5KLFYBBEMNDDMDG2EPZCJU4/",
+      "image": null,
+      "date": "2026-04-26T18:11:55+00:00",
+      "date_formatted": "26 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée",
+      "desc": "Et si les objets les plus banals de votre quotidien – emballages, cosmétiques, sols en PVC – jouaient un rôle silencieux dans le développement du cancer du sein ? Une étude de long terme relance l’inquiétude autour des phtalates, ces substances omniprésentes capables d’interférer avec nos...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-chez-moins-50-ans-responsabilite-phtalates-confirmee-133964/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/b/1/2b1863c996_50254323_5-cancer-sein.jpg",
+      "date": "2026-04-26T17:08:23+00:00",
+      "date_formatted": "26 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "PMA : l’autorisation du diagnostic préimplantatoire des embryons en France de nouveau interrogée",
@@ -113,6 +133,16 @@
       "type": "presse"
     },
     {
+      "title": "Cancer : pourquoi les tumeurs du coeur sont-elles si rares ?",
+      "desc": "Les tumeurs du coeur font partie des tumeurs les plus rares au monde. Pour comprendre ce qui protège cet organe, une équipe a mis le doigt sur un mécanisme clé. Plus qu'un mouvement mécanique, c'est toute une cascade biologique qui entre en jeu.",
+      "url": "https://www.sciencesetavenir.fr/sante/coeur-et-cardio/cancer-pourquoi-les-tumeurs-du-coeur-sont-elles-si-rares_192175?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb6f5dd4a86-afp-20240403-f0423593-v1-highres-humanheartvolumeandbloodsupplyillustration.jpg",
+      "date": "2026-04-24T14:03:46+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
       "title": "Guadeloupe : plongée scientifique dans les gaz du volcan, au plus près du cratère",
       "desc": "Une équipe transdisciplinaire de chercheurs part à l’assaut de la Soufrière pour mesurer en particulier les émissions de sulfure d’hydrogène et sa toxicité sur les populations vivant à proximité.",
       "url": "https://www.lemonde.fr/sciences/video/2026/04/24/guadeloupe-plongee-scientifique-dans-les-gaz-du-volcan-au-plus-pres-du-cratere_6683044_1650684.html",
@@ -120,6 +150,16 @@
       "date": "2026-04-24T11:20:15+00:00",
       "date_formatted": "24 April 2026",
       "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "L'OMS salue les résultats de sa campagne de \"grand rattrapage\" de vaccination des enfants",
+      "desc": "La pandémie de Covid-19 a profondément ébranlé les systèmes de santé et bouleversé les campagnes de vaccination à travers le monde. Résultat : des maladies contagieuses comme la rougeole ont connu un rebond inquiétant. Face à cette situation, l’OMS, l’Unicef et Gavi — l’alliance internationale pour ",
+      "url": "https://www.sciencesetavenir.fr/sante/l-oms-salue-les-resultats-de-sa-campagne-de-grand-rattrapage-de-vaccination-des-enfants_192164?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb32eea7b28-vaccination.jpg",
+      "date": "2026-04-24T09:26:26+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -150,6 +190,16 @@
       "date": "2026-04-23T15:18:44+00:00",
       "date_formatted": "23 April 2026",
       "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Contre le cancer du pancréas, des avancées enfin prometteuses",
+      "desc": "Après plusieurs décennies de stagnation, la recherche avance face au cancer du pancréas, l'un des plus meurtriers qui soient. Si l'on reste bien loin de pouvoir guérir la plupart des patients, ces pistes promettent de rajouter de précieux mois à leur existence.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/contre-le-cancer-du-pancreas-des-avancees-enfin-prometteuses_192063?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/23/cover-r4x3w1200-69e9dfc59130c-pancreas.jpg",
+      "date": "2026-04-23T09:09:27+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -283,6 +333,16 @@
       "type": "science"
     },
     {
+      "title": "Qu'est-ce que la maladie à corps de Lewy ?",
+      "desc": "La maladie à corps de Lewy, dont souffrait l'actrice Nathalie Baye, décédée le 17 avril 2026, est une maladie neurodégénérative peu connue mais fréquente, aux troubles proches de ceux de Parkinson et d'Alzheimer.",
+      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/la-maladie-a-corps-de-lewy-un-trouble-neurodegeneratif-peu-connu-mais-frequent_192006?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/18/cover-r4x3w1200-69e35b4df24b3-30f5f8df0cfc2e84cec0d49315306a34e7bf8ee2-jpg.jpg",
+      "date": "2026-04-20T14:58:36+00:00",
+      "date_formatted": "20 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
       "title": "Pour la première fois, un virus marin a été transmis à l'humain, provoquant une maladie grave",
       "desc": "Des chercheurs ont démontré pour la première fois la transmission à l'humain d’un virus habituellement présent chez des animaux marins. Ce virus est responsable de graves troubles de la vision.",
       "url": "https://www.futura-sciences.com/sante/actualites/virus-premiere-fois-virus-marin-ete-transmis-humain-provoquant-maladie-grave-133868/#xtor%3DRSS-8",
@@ -293,23 +353,23 @@
       "type": "science"
     },
     {
-      "title": "Cancer : une nouvelle approche génétique cible les cellules malades sans toucher aux autres",
-      "desc": "Serait-il possible d'attaquer une tumeur sans abîmer le reste de l’organisme ? C’est la piste explorée par des chercheurs qui ont mis au point un système capable de repérer une particularité propre aux cellules cancéreuses pour les cibler avec précision. Une avancée encore précoce, mais qui...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-nouvelle-approche-genetique-cible-cellules-malades-toucher-autres-133833/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/7/1/1719c778a8_50254078_gene-genetique.jpg",
-      "date": "2026-04-20T10:08:19+00:00",
+      "title": "Ces robots composés d’ADN ciblent les cellules cancéreuses",
+      "desc": "Ce nouveau type de médicament s’active uniquement lorsque deux facteurs sont reconnus, assurant que seules les cellules tumorales sont attaquées.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/ces-robots-composes-d-adn-ciblent-les-cellules-cancereuses_192000?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/17/cover-r4x3w1200-69e26290b91be-afp-20230323-f0337251-v1-highres-dnamoleculeillustration.jpg",
+      "date": "2026-04-20T07:46:43+00:00",
       "date_formatted": "20 April 2026",
-      "source": "Futura Santé",
+      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
-      "title": "Alzheimer : cette découverte pourrait changer tout ce que vous pensiez sur la maladie",
-      "desc": "Et si la maladie d’Alzheimer n’était pas aussi irréversible qu’on l’a longtemps cru ? Une nouvelle étude américaine explore une piste inattendue, centrée sur l’énergie du cerveau, et invite à repenser les approches actuelles.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-cette-decouverte-pourrait-changer-tout-ce-vous-pensiez-maladie-w2t8-133521/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/4/c/d4c51cd596_50253527_reparer-cerveau-alzheimer.jpg",
-      "date": "2026-04-20T08:00:00+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "Futura Santé",
+      "title": "Cancer : le sport sur ordonnance testé en remboursement",
+      "desc": "Le remboursement de l'activité physique sur ordonnance pour des malades du cancer, dans le cadre d'une expérimentation de deux ans, va finalement pouvoir entrer en vigueur avec la publication jeudi d'un décret sur cette mesure prévue au budget de la Sécurité sociale de 2024.",
+      "url": "https://www.sciencesetavenir.fr/sante/e-sante/sport-sur-ordonnance-une-experimentation-de-remboursement-lancee-pour-les-patients-atteints-de-cancer_191996?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/17/cover-r4x3w1200-69e228179c839-sport.jpg",
+      "date": "2026-04-17T13:50:35+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -320,6 +380,26 @@
       "date": "2026-04-16T18:00:00+00:00",
       "date_formatted": "16 April 2026",
       "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer de l'ovaire : deux traitements enregistrent de bons résultats",
+      "desc": "Deux traitements permettent de légèrement améliorer la survie de patientes atteintes de cancers de l'ovaire qui sont devenus résistants à la thérapie habituelle, montrent des études publiées dans la revue médicale The Lancet.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/cancer-de-l-ovaire-deux-traitements-enregistrent-de-bons-resultats-face-a-une-forme-resistante_191938?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/10/cover-r4x3w1200-69d968d170c8a-6b44a8d70a04c02d5b77d591103f378b9256c395-jpg.jpg",
+      "date": "2026-04-16T14:16:37+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "L'essor de l'obésité éclipse les progrès en santé publique depuis 2010, selon un rapport de l'OCDE",
+      "desc": "Malgré des avancées contre le tabagisme, la pollution ou l’alcool, les maladies chroniques continuent d’augmenter dans les pays de l’OCDE. En cause : la progression rapide de l’obésité, qui annule une grande partie des bénéfices sanitaires.",
+      "url": "https://www.sciencesetavenir.fr/sante/l-essor-de-l-obesite-eclipse-les-progres-en-sante-publique-depuis-2010-selon-un-rapport-de-l-ocde_191967?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/15/cover-r4x3w1200-69df9b8ac4a5a-ff1ec4a979906d510b40addadf8ae399df45e75c-jpg.jpg",
+      "date": "2026-04-15T13:19:50+00:00",
+      "date_formatted": "15 April 2026",
+      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
