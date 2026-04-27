@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-04-27T13:13:54.531441+00:00",
-  "count": 51,
+  "generated_at": "2026-04-27T19:02:24.401724+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Deux morts par jour au travail : quelles mesures face à l’hécatombe ?",
+      "desc": "La France est l’un des pires pays européens en matière de mortalité dans les entreprises. A l’occasion de la Journée mondiale pour la santé et la sécurité au travail, l’heure d’une prise de conscience indispensable.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/deux-morts-par-jour-au-travail-quelles-mesures-face-a-lhecatombe-20260427_VCQCZNCI55CGDHETCKLXUMOUHM/",
+      "image": null,
+      "date": "2026-04-27T18:47:02+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Contre l’hécatombe de morts au travail, des solutions pour ne plus se tuer à la tâche",
+      "desc": "Sous-traitance, formation, inspection du travail… A l’occasion de la journée mondiale pour la santé et la sécurité au travail, ce mardi 27 avril, «Libé» met en avant des propositions pour lutter contre les accidents du travail, qui coûtent la vie à plus de 700 personnes chaque année en France.",
+      "url": "https://www.liberation.fr/economie/social/morts-au-travail-des-solutions-contre-lhecatombe-20260427_KEIRPEDU4BA6VBJ3PO2KMYTIIM/",
+      "image": null,
+      "date": "2026-04-27T18:12:00+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Le dépistage du cadmium bientôt remboursé en France",
+      "desc": "Le dépistage de l’exposition au cadmium, métal lourd classé cancérogène, sera remboursé. Mais le dispositif, limité aux seules personnes « potentiellement surexposées » selon leur lieu de résidence, est critiqué par les médecins",
+      "url": "https://www.20minutes.fr/sante/4220605-20260427-depistage-cadmium-bientot-rembourse-france?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/AuWonBSPQRKcR2kYicY_MSk/1200x768_photo-illustration-d-un-rayon-fraicheur-dans-un-magasin-de-fruits-et-legumes-credit-allili-mourad-sipa-1703021842",
+      "date": "2026-04-27T13:35:11+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Faut‑il absolument opter pour des tripeptides de collagène ? Spoiler : pas vraiment",
       "desc": "Présentés sous la forme de collagène la plus hautement assimilable et la plus rapidement absorbable, les tripeptides de collagène séduisent. Mais cette promesse s’appuie-t-elle sur des preuves scientifiques ou sur un argument marketing ? Décryptage.",
@@ -353,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Pour la première fois, un virus marin a été transmis à l'humain, provoquant une maladie grave",
-      "desc": "Des chercheurs ont démontré pour la première fois la transmission à l'humain d’un virus habituellement présent chez des animaux marins. Ce virus est responsable de graves troubles de la vision.",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-premiere-fois-virus-marin-ete-transmis-humain-provoquant-maladie-grave-133868/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/4/5/a45a589f80_50254124_crevette-anemone.jpg",
-      "date": "2026-04-20T13:15:52+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ces robots composés d’ADN ciblent les cellules cancéreuses",
       "desc": "Ce nouveau type de médicament s’active uniquement lorsque deux facteurs sont reconnus, assurant que seules les cellules tumorales sont attaquées.",
       "url": "https://www.sciencesetavenir.fr/sante/cancer/ces-robots-composes-d-adn-ciblent-les-cellules-cancereuses_192000?xtor=RSS-16",
@@ -499,16 +529,6 @@
       "image": null,
       "date": "2026-02-25T19:00:07+00:00",
       "date_formatted": "25 February 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "À Paris, les arbres atténuent la mortalité liée aux fortes chaleurs",
-      "desc": "À Paris, les arrondissements les plus végétalisés présentent un risque plus faible de décès lors des périodes de forte chaleur, tandis que les zones très minéralisées, avec peu d’espaces verts et un fort potentiel d’îlot de chaleur urbain, sont les plus exposées. Les scientifiques soulignent l’impor",
-      "url": "https://presse.inserm.fr/a-paris-les-arbres-attenuent-la-mortalite-liee-aux-fortes-chaleurs/72101/",
-      "image": null,
-      "date": "2026-02-16T08:30:59+00:00",
-      "date_formatted": "16 February 2026",
       "source": "Inserm",
       "type": "science"
     }
