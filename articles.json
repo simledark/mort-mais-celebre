@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-04-29T13:18:14.335248+00:00",
-  "count": 52,
+  "generated_at": "2026-04-29T19:05:38.355941+00:00",
+  "count": 54,
   "articles": [
     {
-      "title": "«Il faudrait beaucoup de rues pour leur rendre hommage» : l’allée Amara Dioumassy, un lieu de mémoire pour les ouvriers morts au travail",
-      "desc": "Une cérémonie pour ce maçon de 51 ans, décédé sur un chantier parisien en 2023, s’est tenue mardi 28 avril, journée mondiale pour la santé et la sécurité au travail.",
-      "url": "https://www.liberation.fr/societe/sante/il-faudrait-beaucoup-de-rues-pour-leur-rendre-hommage-lallee-amara-dioumassy-un-lieu-de-memoire-pour-les-ouvriers-morts-au-travail-20260429_57EPELZVLBD6RBC2RJ2NLJLNMI/",
+      "title": "Allemagne : le gouvernement coupe dans les dépenses de santé pour enrayer le déficit de l’assurance maladie",
+      "desc": "La réforme devrait permettre d’économiser 16,3 milliards d’euros par an sur les dépenses de santé pour faire face au vieillissement de la population. Une réforme des retraites doit être lancée avant l’été.",
+      "url": "https://www.lemonde.fr/international/article/2026/04/29/allemagne-le-gouvernement-coupe-dans-les-depenses-de-sante-pour-enrayer-le-deficit-de-l-assurance-maladie_6684314_3210.html",
+      "image": "https://img.lemde.fr/2026/04/29/333/0/8060/4030/644/322/60/0/7d38bcd_ftp-1-cvyuwcxosetb-fe267ff60e9342c5a99f67828ce1e0ff-0-bd05c080ecfe47db8826ff2e2fd3cc25.jpg",
+      "date": "2026-04-29T19:57:34+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Etats-Unis : condamnation pénale du laboratoire considéré comme étant à l’origine de la crise des opioïdes et qualifié d’«entreprise criminelle»",
+      "desc": "Purdue Pharma était accusé d’avoir dissimulé le potentiel addictif d’un antidouleur et d’avoir versé des pots-de-vin à des médecins. Les overdoses ont provoqué près de 730 000 morts entre 1999 et 2022",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-condamnation-penale-du-laboratoire-considere-comme-etant-a-lorigine-de-la-crise-des-opioides-et-qualifie-dentreprise-criminelle-20260429_5YOPQ7OC4FDC3CPB5CDUKAP4ZA/",
       "image": null,
-      "date": "2026-04-29T12:48:14+00:00",
+      "date": "2026-04-29T18:43:03+00:00",
       "date_formatted": "29 April 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "La campagne vaccinale anti-Covid est lancée mais pourquoi cibler juste les plus fragiles ?",
+      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il déplore aujourd’hui une communication trop peu incitative contre un virus qui continue à tuer chaque année plus que les accidents de la route.",
+      "url": "https://www.liberation.fr/societe/sante/la-campagne-vaccinale-anti-covid-est-lancee-mais-pourquoi-cibler-juste-les-plus-fragiles-20260429_2E227F7BRJDKLK25YNVQPNUFGU/",
+      "image": null,
+      "date": "2026-04-29T15:44:58+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L'acteur Sam Neill annonce la rémission de son cancer après une thérapie génique",
+      "desc": "L'acteur a suivi une immunothérapie dite \"de cellules CAR-T\", qui utilise un virus inactivé pour reprogrammer génétiquement les globules T humains, leur permettant ainsi de cibler des cancers spécifiques.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/sam-neill-la-star-de-jurassic-park-annonce-la-remission-de-son-cancer-apres-une-therapie-genique_192239?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/29/cover-r4x3w1200-69f210e7b124b-afp-20250207-2198098103-v3-highres-2025aactaawardsceremonypresentedbyfoxtelgrou.jpg",
+      "date": "2026-04-29T14:08:40+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Anthrax du soudeur : ce cas presque mortel relance les inquiétudes autour d’une maladie encore mal comprise",
@@ -21,16 +51,6 @@
       "date_formatted": "29 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«Des sites qui mettent en contact des pédocriminels» : après la réapparition de Coco, deux autres plateformes signalées à la justice",
-      "desc": "La haute-commissaire à l’enfance indique ce mercredi 29 avril avoir saisi la justice concernant des sites de discussions similaires, accessibles sans vérification de l’âge ou de l’identité. Coco était centre de l’affaire des viols de Mazan.",
-      "url": "https://www.liberation.fr/societe/police-justice/des-sites-qui-mettent-en-contact-des-pedocriminels-apres-la-reapparition-de-coco-deux-autres-plateformes-signalees-a-la-justice-20260429_QEGBOWGQVBCZTA2ZXLPGZIGHQE/",
-      "image": null,
-      "date": "2026-04-29T09:17:07+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Alzheimer : ce traitement expérimental fait resurgir des souvenirs que l’on croyait perdus",
