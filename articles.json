@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-04-29T01:48:45.001003+00:00",
+  "generated_at": "2026-04-29T07:56:56.313147+00:00",
   "count": 53,
   "articles": [
     {
-      "title": "«Polvo Serán», mourir à petits faux",
-      "desc": "Le long métrage de Carlos Marques-Marcet suit le parcours d’un vieux couple, dont la femme est atteinte de démence, qui entreprend un double suicide assisté en Suisse. Une intention louable mais un résultat raté.",
-      "url": "https://www.liberation.fr/culture/cinema/polvo-seran-mourir-a-petits-faux-20260428_P4N7JEEZYVDDPNF4UNBP2RMEWI/",
-      "image": null,
-      "date": "2026-04-28T21:11:00+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "Libération",
-      "type": "presse"
+      "title": "Alzheimer : ce traitement expérimental fait resurgir des souvenirs que l’on croyait perdus",
+      "desc": "Une avancée prometteuse vient de surgir dans la lutte contre la maladie d'Alzheimer. Des chercheurs américains ont découvert une molécule capable de restaurer la mémoire chez des souris présentant des symptômes similaires à ceux de cette pathologie neurodégénérative. Cette percée scientifique...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-traitement-experimental-fait-resurgir-souvenirs-on-croyait-perdus-w2t8-134091/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/2/a/12aabdd898_50254487_alzheimer-souvenirs.jpg",
+      "date": "2026-04-29T08:00:00+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Comment les battements du cœur le protègent des cancers",
+      "desc": "La charge mécanique élevée exercée sur le tissu cardiaque, quand il pompe le sang vers tous les organes du corps, inhibe la prolifération des cellules tumorales, montre une étude dans « Science ».",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/29/comment-les-battements-du-c-ur-le-protegent-des-cancers_6684092_1650684.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/12ed17a_upload-1-hehlku2zmcrr-frame-256.jpg",
+      "date": "2026-04-29T06:30:12+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "« J’ai un vrai problème avec la mort et la maladie » : les confidences d’une gynécologue à Biarritz",
@@ -301,16 +311,6 @@
       "date_formatted": "24 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Rougeole : les cas augmentent dans les pays d’Amérique du Nord, où cette maladie mortelle avait quasiment disparu",
-      "desc": "L’Organisation panaméricaine de la santé a mis en garde jeudi contre l’intensification de l’épidémie de rougeole dans les Amériques, notamment à l’approche de la Coupe du monde de football 2026, qui se tiendra en juin aux Etats-Unis, au Mexique et au Canada.",
-      "url": "https://www.lemonde.fr/international/article/2026/04/24/l-epidemie-de-rougeole-s-intensifie-sur-le-continent-americain-alerte-l-organisation-regionale-de-la-sante_6683022_3210.html",
-      "image": "https://img.lemde.fr/2026/04/10/500/0/6000/3000/644/322/60/0/1f1690e_ftp-1-27si7hmgaydd-ddf023bc6be64fdc8b8f412d816bf5ce-3-5a6ef9fee66c4e7db1711ab835920ae9.jpg",
-      "date": "2026-04-24T09:04:52+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer : des chercheurs ont mis au point un piège qui se referme sur la tumeur au moment où elle résiste",
