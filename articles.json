@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-04-28T19:16:07.601259+00:00",
-  "count": 52,
+  "generated_at": "2026-04-29T01:48:45.001003+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "«Polvo Serán», mourir à petits faux",
+      "desc": "Le long métrage de Carlos Marques-Marcet suit le parcours d’un vieux couple, dont la femme est atteinte de démence, qui entreprend un double suicide assisté en Suisse. Une intention louable mais un résultat raté.",
+      "url": "https://www.liberation.fr/culture/cinema/polvo-seran-mourir-a-petits-faux-20260428_P4N7JEEZYVDDPNF4UNBP2RMEWI/",
+      "image": null,
+      "date": "2026-04-28T21:11:00+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "« J’ai un vrai problème avec la mort et la maladie » : les confidences d’une gynécologue à Biarritz",
       "desc": "« Mes patients, la maladie et moi » (5/5). Et si on prenait le pouls des médecins ? Etre gynécologue obstétricienne, c’est aider à donner la vie. Voilà pourquoi Hélène Mignardi, 44 ans, a choisi ce métier. Plusieurs dénouements malheureux ont toutefois marqué cette compétitrice-née.",
       "url": "https://www.lemonde.fr/intimites/article/2026/04/28/j-ai-un-vrai-probleme-avec-la-mort-et-la-maladie-les-confidences-d-une-gynecologue-a-biarritz_6683957_6190330.html",
       "image": "https://img.lemde.fr/2026/04/17/741/0/6179/3089/644/322/60/0/c81256c_upload-1-keaikn6dnhli-dscf9248-copie.jpg",
-      "date": "2026-04-28T17:43:15+00:00",
+      "date": "2026-04-28T17:43:14+00:00",
       "date_formatted": "28 April 2026",
       "source": "Le Monde Science",
       "type": "science"
