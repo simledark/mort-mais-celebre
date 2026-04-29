@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-04-29T07:56:56.313147+00:00",
-  "count": 53,
+  "generated_at": "2026-04-29T13:18:14.335248+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "«Il faudrait beaucoup de rues pour leur rendre hommage» : l’allée Amara Dioumassy, un lieu de mémoire pour les ouvriers morts au travail",
+      "desc": "Une cérémonie pour ce maçon de 51 ans, décédé sur un chantier parisien en 2023, s’est tenue mardi 28 avril, journée mondiale pour la santé et la sécurité au travail.",
+      "url": "https://www.liberation.fr/societe/sante/il-faudrait-beaucoup-de-rues-pour-leur-rendre-hommage-lallee-amara-dioumassy-un-lieu-de-memoire-pour-les-ouvriers-morts-au-travail-20260429_57EPELZVLBD6RBC2RJ2NLJLNMI/",
+      "image": null,
+      "date": "2026-04-29T12:48:14+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Anthrax du soudeur : ce cas presque mortel relance les inquiétudes autour d’une maladie encore mal comprise",
+      "desc": "Un adolescent de 18 ans, soudeur apprenti en Louisiane, a failli mourir d'une maladie bactérienne rarissime en septembre 2024. Six des huit cas précédents ont été fatals. Ce syndrome mystérieux ne touche quasiment que les soudeurs et métallurgistes. Pourquoi eux, et pourquoi maintenant ?",
+      "url": "https://www.futura-sciences.com/sante/actualites/bacteries-anthrax-soudeur-ce-cas-presque-mortel-relance-inquietudes-autour-maladie-encore-mal-comprise-k2m6-134082/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/8/5/785dd700f4_50254476_anthrax-soudeur-metallurgistes.jpg",
+      "date": "2026-04-29T10:00:00+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "«Des sites qui mettent en contact des pédocriminels» : après la réapparition de Coco, deux autres plateformes signalées à la justice",
+      "desc": "La haute-commissaire à l’enfance indique ce mercredi 29 avril avoir saisi la justice concernant des sites de discussions similaires, accessibles sans vérification de l’âge ou de l’identité. Coco était centre de l’affaire des viols de Mazan.",
+      "url": "https://www.liberation.fr/societe/police-justice/des-sites-qui-mettent-en-contact-des-pedocriminels-apres-la-reapparition-de-coco-deux-autres-plateformes-signalees-a-la-justice-20260429_QEGBOWGQVBCZTA2ZXLPGZIGHQE/",
+      "image": null,
+      "date": "2026-04-29T09:17:07+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Alzheimer : ce traitement expérimental fait resurgir des souvenirs que l’on croyait perdus",
       "desc": "Une avancée prometteuse vient de surgir dans la lutte contre la maladie d'Alzheimer. Des chercheurs américains ont découvert une molécule capable de restaurer la mémoire chez des souris présentant des symptômes similaires à ceux de cette pathologie neurodégénérative. Cette percée scientifique...",
@@ -243,16 +273,6 @@
       "type": "presse"
     },
     {
-      "title": "« J’ai eu très peur que certaines de mes patientes se suicident » : les confidences d’un psychiatre à Rennes",
-      "desc": "« Mes patients, la maladie et moi » (3/5). Et si on prenait le pouls des médecins ? Jacques Dayan, professeur de psychiatrie et volubile septuagénaire qui a créé une unité psychiatrique parents-bébé à Rennes, éprouve une immense satisfaction quand il parvient à nouer un lien entre une mère et son en",
-      "url": "https://www.lemonde.fr/intimites/article/2026/04/26/j-ai-eu-tres-peur-que-certaines-de-mes-patientes-se-suicident-les-confidences-d-un-psychiatre-a-rennes_6683419_6190330.html",
-      "image": "https://img.lemde.fr/2026/04/01/456/0/5472/2736/644/322/60/0/9ff5dbe_upload-1-znm2wvadxp6a-6a7a4048.jpg",
-      "date": "2026-04-26T05:30:30+00:00",
-      "date_formatted": "26 April 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Patient bizarre : morte depuis quelques secondes, elle revient sans aucune réanimation !",
       "desc": "Une femme de 94 ans a été victime d’un arrêt cardiaque. En accord avec les directives écrites de la patiente, les médecins n’ont pas entrepris de réanimation pour tenter de la sauver. Alors qu’ils s’apprêtaient à déclarer son décès, son cœur est reparti spontanément. Ce cas est inédit puisque la...",
       "url": "https://www.futura-sciences.com/sante/actualites/coeur-patient-bizarre-morte-depuis-quelques-secondes-elle-revient-aucune-reanimation-133950/#xtor%3DRSS-8",
@@ -269,8 +289,8 @@
       "image": "https://img.lemde.fr/2026/04/22/171/0/2048/1024/644/322/60/0/ef8a9ae_upload-1-abvcmsqh1gtx-photo-2022-pour-nas.jpeg",
       "date": "2026-04-25T18:00:06+00:00",
       "date_formatted": "25 April 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Au Royaume-Uni, le projet de loi sur l’aide à mourir en Angleterre et au Pays de Galles échoue au Parlement",
@@ -303,6 +323,16 @@
       "type": "science"
     },
     {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "L'OMS salue les résultats de sa campagne de \"grand rattrapage\" de vaccination des enfants",
       "desc": "La pandémie de Covid-19 a profondément ébranlé les systèmes de santé et bouleversé les campagnes de vaccination à travers le monde. Résultat : des maladies contagieuses comme la rougeole ont connu un rebond inquiétant. Face à cette situation, l’OMS, l’Unicef et Gavi — l’alliance internationale pour ",
       "url": "https://www.sciencesetavenir.fr/sante/l-oms-salue-les-resultats-de-sa-campagne-de-grand-rattrapage-de-vaccination-des-enfants_192164?xtor=RSS-16",
@@ -331,46 +361,6 @@
       "date_formatted": "23 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Cancer colorectal chez les moins de 50 ans : un herbicide présent dans l’eau ressort dans une étude majeure",
-      "desc": "Notre environnement laisse des marques durables au cœur même de notre ADN. En explorant ces empreintes invisibles, des chercheurs viennent d’identifier un facteur de risque méconnu qui pourrait être en cause dans la hausse inquiétante des cancers colorectaux chez les jeunes.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-colon-cancer-colorectal-chez-moins-50-ans-herbicide-present-eau-ressort-etude-majeure-133933/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/2/7/727255a553_50254243_cancer-colon-lien-herbiscide.jpg",
-      "date": "2026-04-22T20:03:42+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : Après 40 ans sans progrès, enfin des avancées pour augmenter l’espérance de vie des patients",
-      "desc": "Plusieurs études mettent en exergue des pistes prometteuses pour faire gagner des mois de vie aux personnes atteintes par le cancer du pancréas",
-      "url": "https://www.20minutes.fr/sante/4219793-20260422-cancer-pancreas-apres-40-ans-progres-enfin-avancees-augmenter-esperance-vie-patients?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/8UAfYN61RFuq2IUQF8c7xQ/1200x768_universitaires-accusent-cnrs-adopter-methodes-discriminantes-envers-sociologue-depuis-trois-ans",
-      "date": "2026-04-22T16:16:07+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "On croyait connaître le vrai danger du sel : cette étude en révèle un autre, plus insidieux",
-      "desc": "Réduire le sel reste une recommandation de base en santé. Mais une nouvelle étude suggère que l’enjeu dépasse largement la tension artérielle. En stimulant certains signaux inflammatoires, le sel pourrait accélérer le vieillissement des vaisseaux sanguins et fragiliser leur fonctionnement sur le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-on-croyait-connaitre-vrai-danger-sel-cette-etude-revele-autre-plus-insidieux-133920/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/8/e/a8edeac1ad_50254224_exces-sel.jpg",
-      "date": "2026-04-22T13:17:20+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Maladies, rats… Travailler dans un centre de tri des déchets comporte de multiples risques",
-      "desc": "Les salariés des centres de tri des déchets ménagers sont exposés à de multiples risques pour leur santé, selon un rapport de l’Agence de sécurité sanitaire",
-      "url": "https://www.20minutes.fr/societe/4219681-20260422-maladies-rats-travailler-centre-tri-dechets-comporte-multiples-risques?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/lyGKq2vwSJiKukFUo_ebiSk/1200x768_strasbourg-le-9-octobre-2015-centre-de-tri-altem-alsacienne-de-tri-d-emballages-menagers",
-      "date": "2026-04-22T08:34:34+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
