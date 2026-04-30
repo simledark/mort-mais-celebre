@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-30T08:00:05.150886+00:00",
-  "count": 53,
+  "generated_at": "2026-04-30T13:16:28.213224+00:00",
+  "count": 50,
   "articles": [
+    {
+      "title": "Cancer du pancréas : Pourquoi cette étude prometteuse a finalement été rétractée",
+      "desc": "Une équipe de scientifiques espagnols avait découvert une piste prometteuse pour traiter ce cancer. Mais l'étude a dû être retirée",
+      "url": "https://www.20minutes.fr/sante/4221210-20260430-cancer-pancreas-pourquoi-etude-prometteuse-finalement-retractee?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/9zNsUi-xTYOAWa3Pp_zyqyk/1200x768_credit-obligatoire-photo-de-john-cummings-mood-board-rex-features-1257856a-modele-publie-un-travailleur-de-laboratoire-ajoute-un-liquide-violet-a-des-tubes-a-essai-recherche-et-technologie-rex-moo45-1257856a-1103220054",
+      "date": "2026-04-30T12:42:25+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Sites néonazis : le député macroniste Eric Bothorel veut en faire interdire cinq",
+      "desc": "Des PDF néonazis en libre accès, une galaxie de sites qui prospère dans les angles morts du web… Depuis 2017, les Sleeping Giants traquent les financements de cette nébuleuse haineuse. Après une première décision de justice, Eric Bothorel passe à l’offensive pour élargir le blocage.",
+      "url": "https://www.liberation.fr/politique/sites-neonazis-le-depute-macroniste-eric-bothorel-veut-en-faire-interdire-cinq-20260430_KTETXLQ4PVGHPLMDUK3SH3PHO4/",
+      "image": null,
+      "date": "2026-04-30T10:59:44+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Faire du sport ne suffit pas à protéger votre cerveau du déclin si vous restez trop longtemps assis",
       "desc": "Une nouvelle étude vient bousculer les certitudes concernant l’importance de l’activité physique pour diminuer les risques de démence chez les personnes âgées. Une habitude simple mais plus puissante mériterait d’être adoptée.",
@@ -133,26 +153,6 @@
       "type": "science"
     },
     {
-      "title": "Erreurs médicales, infections, morts... Le rapport alarmant de la Cour des comptes sur la qualité des soins dans les établissements de santé",
-      "desc": "Selon le rapport de l'institution, la \"non-qualité\" des soins représente un \"enjeu majeur\" du secteur de la santé.",
-      "url": "https://www.franceinfo.fr/sante/hopital/crise/erreurs-medicales-infections-morts-le-rapport-alarmant-de-la-cour-des-comptes-sur-la-qualite-des-soins-dans-les-etablissements-de-sante_7969490.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Bd5CSNSg9er5yxQF1I7g18QZ2lU/0x226:4391x2696/432x243/filters:format(jpg)/2026/01/20/000-36ww7p4-696fc042e7fa0975219578.jpg",
-      "date": "2026-04-28T12:50:15+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Gravir le Mont Blanc, le pari fou de sept adolescents Niçois pour une cause solidaire",
-      "desc": "Un groupe de sept adolescents niçois s'est lancé le défi de gravir le Mont Blanc. Leur objectif est de soutenir une association qui accompagne les enfants atteints de cancer au CHU de Nice (Alpes-Maritimes). Mais avant de se lancer, il leur faut trouver des fonds.",
-      "url": "https://www.franceinfo.fr/sports/sports-extremes/gravir-le-mont-blanc-le-pari-fou-de-sept-adolescents-nicois-pour-une-cause-solidaire_7969760.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/0ZbGsfe7Nhp9eAPiYjPrPMBIY_4/4x0:1521x853/432x243/filters:format(jpg)/2026/04/28/69f085ba70329043418444.jpg",
-      "date": "2026-04-28T12:02:59+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Décès, infections, gaspillage... La Cour des comptes épingle la qualité des soins dans les établissements de santé",
       "desc": "La Cour des comptes alerte sur la qualité des soins en France, un « enjeu majeur » avec plus de 11 milliards d’euros de coûts liés aux préjudices évitables et au moins 4.000 décès par an dus aux maladies nosocomiales",
       "url": "https://www.20minutes.fr/sante/4220800-20260428-deces-infections-gaspillage-cour-comptes-epingle-qualite-soins-etablissements-sante?at_medium=display&at_campaign=149",
@@ -263,16 +263,6 @@
       "type": "science"
     },
     {
-      "title": "Ces start-up qui rêvent de créer des bébés génétiquement modifiés : « Le fantasme d’un humain amélioré, sans maladies, super-performant, super-intelligent »",
-      "desc": "Nées dans la tech américaine, Preventive ou Origin Genomics entendent faire avancer la modification du génome d’embryons. Une technique très contestée, et largement interdite, qui fait craindre le retour d’une forme d’eugénisme.",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/27/le-fantasme-d-un-humain-ameliore-sans-maladies-super-performant-super-intelligent-ces-start-up-qui-revent-de-creer-des-bebes-genetiquement-modifies_6683602_3234.html",
-      "image": "https://img.lemde.fr/2026/04/24/2422/0/3200/1600/644/322/60/0/a326c9b_upload-1-rxamjejl51yi-conception-0280.jpg",
-      "date": "2026-04-27T05:30:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée",
       "desc": "Et si les objets les plus banals de votre quotidien – emballages, cosmétiques, sols en PVC – jouaient un rôle silencieux dans le développement du cancer du sein ? Une étude de long terme relance l’inquiétude autour des phtalates, ces substances omniprésentes capables d’interférer avec nos...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-chez-moins-50-ans-responsabilite-phtalates-confirmee-133964/#xtor%3DRSS-8",
@@ -320,16 +310,6 @@
       "date": "2026-04-24T17:55:58+00:00",
       "date_formatted": "24 April 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Que sait-on sur ce nouveau coronavirus transmissible à l’homme identifié au Kenya ?",
-      "desc": "Une équipe de scientifiques vient de découvrir un nouveau coronavirus (CcCoV-KY43) transmissible à l’homme grâce à un récepteur jamais identifié encore chez les coronavirus. Si la découverte scientifique est majeure, le risque épidémique reste limité",
-      "url": "https://www.20minutes.fr/sante/4220115-20260424-sait-nouveau-coronavirus-transmissible-homme-identifie-kenya?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/rMGf9KITQhWfdtpjFu8GpSk/1200x768_illustration-d-un-coronavirus-montrant-les-structures-des-proteines-de-pointe-et-l-enveloppe-virale-photo-de-ruslanas-baranauskas-science-pho-rbu-bibliotheque-de-photos-scientifiques-via-afp",
-      "date": "2026-04-24T14:12:15+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -419,16 +399,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/17/cover-r4x3w1200-69e26290b91be-afp-20230323-f0337251-v1-highres-dnamoleculeillustration.jpg",
       "date": "2026-04-20T07:46:43+00:00",
       "date_formatted": "20 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer : le sport sur ordonnance testé en remboursement",
-      "desc": "Le remboursement de l'activité physique sur ordonnance pour des malades du cancer, dans le cadre d'une expérimentation de deux ans, va finalement pouvoir entrer en vigueur avec la publication jeudi d'un décret sur cette mesure prévue au budget de la Sécurité sociale de 2024.",
-      "url": "https://www.sciencesetavenir.fr/sante/e-sante/sport-sur-ordonnance-une-experimentation-de-remboursement-lancee-pour-les-patients-atteints-de-cancer_191996?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/17/cover-r4x3w1200-69e228179c839-sport.jpg",
-      "date": "2026-04-17T13:50:35+00:00",
-      "date_formatted": "17 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
