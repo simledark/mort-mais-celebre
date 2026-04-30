@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-30T01:47:56.931337+00:00",
-  "count": 56,
+  "generated_at": "2026-04-30T08:00:05.150886+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Faire du sport ne suffit pas à protéger votre cerveau du déclin si vous restez trop longtemps assis",
+      "desc": "Une nouvelle étude vient bousculer les certitudes concernant l’importance de l’activité physique pour diminuer les risques de démence chez les personnes âgées. Une habitude simple mais plus puissante mériterait d’être adoptée.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-faire-sport-ne-suffit-pas-proteger-votre-cerveau-declin-si-vous-restez-trop-longtemps-assis-w2t8-134093/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/8/c/58c4d59743_50254490_station-debout-sport-bien-vieillir.jpg",
+      "date": "2026-04-30T08:00:00+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Immunothérapie : une technique pour mieux cibler les tumeurs expérimentée à l'institut Gustave Roussy",
       "desc": "La \"radiologie interventionnelle\" permet de repérer \"où se trouvent les métastases du cancer\" mais aussi d'injecter le traitement \"directement dans la tumeur\", explique l'oncologue Aurélien Marabelle, mercredi à France Inter.",
@@ -20,36 +30,6 @@
       "date": "2026-04-29T19:57:34+00:00",
       "date_formatted": "29 April 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Dans l’Oise, un enfant de 10 ans entre la vie et la mort, après avoir été mordu par des chiens",
-      "desc": "Les deux chiens, de race «cane corso» appartiennent aux voisins du garçon, qui jouait dans les bois avec trois copains. Transporté à l’hôpital en urgence absolue, il présentait cinq traces de morsures.",
-      "url": "https://www.liberation.fr/societe/dans-loise-un-enfant-de-10-ans-entre-la-vie-et-la-mort-apres-avoir-ete-mordu-par-des-chiens-20260429_YNQNDGLVRBCO3DYDIXQGITX3XQ/",
-      "image": null,
-      "date": "2026-04-29T19:42:59+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Etats-Unis : condamnation pénale du laboratoire considéré comme étant à l’origine de la crise des opioïdes et qualifié d’«entreprise criminelle»",
-      "desc": "Purdue Pharma était accusé d’avoir dissimulé le potentiel addictif d’un antidouleur et d’avoir versé des pots-de-vin à des médecins. Les overdoses ont provoqué près de 730 000 morts entre 1999 et 2022",
-      "url": "https://www.liberation.fr/international/amerique/etats-unis-condamnation-penale-du-laboratoire-considere-comme-etant-a-lorigine-de-la-crise-des-opioides-et-qualifie-dentreprise-criminelle-20260429_5YOPQ7OC4FDC3CPB5CDUKAP4ZA/",
-      "image": null,
-      "date": "2026-04-29T18:43:03+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "La campagne vaccinale anti-Covid est lancée mais pourquoi cibler juste les plus fragiles ?",
-      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il déplore aujourd’hui une communication trop peu incitative contre un virus qui continue à tuer chaque année plus que les accidents de la route.",
-      "url": "https://www.liberation.fr/societe/sante/la-campagne-vaccinale-anti-covid-est-lancee-mais-pourquoi-cibler-juste-les-plus-fragiles-20260429_2E227F7BRJDKLK25YNVQPNUFGU/",
-      "image": null,
-      "date": "2026-04-29T15:44:58+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -380,16 +360,6 @@
       "date": "2026-04-24T09:26:26+00:00",
       "date_formatted": "24 April 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer : des chercheurs ont mis au point un piège qui se referme sur la tumeur au moment où elle résiste",
-      "desc": "Des chercheurs américains ont mis au point une stratégie expérimentale qui pousse les tumeurs à évoluer dans une direction précise, pour ensuite les frapper au moment où elles deviennent vulnérables.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-lutte-cancer-nouvelle-methode-permet-retourner-capacites-adaptation-tumeurs-elles-133937/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/a/8/ea882e0b11_50254299_piege-tumeurs.jpg",
-      "date": "2026-04-23T15:18:44+00:00",
-      "date_formatted": "23 April 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
