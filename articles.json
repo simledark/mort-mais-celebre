@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-29T19:05:38.355941+00:00",
-  "count": 54,
+  "generated_at": "2026-04-30T01:47:56.931337+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Immunothérapie : une technique pour mieux cibler les tumeurs expérimentée à l'institut Gustave Roussy",
+      "desc": "La \"radiologie interventionnelle\" permet de repérer \"où se trouvent les métastases du cancer\" mais aussi d'injecter le traitement \"directement dans la tumeur\", explique l'oncologue Aurélien Marabelle, mercredi à France Inter.",
+      "url": "https://www.franceinfo.fr/sante/cancer/immunotherapie-une-technique-pour-mieux-cibler-les-tumeurs-experimentee-a-l-institut-gustave-roussy_7972613.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/cGl9YLMOD_e67B3RDXf7Yzcl0QY/0x368:3934x2581/432x243/filters:format(jpg)/2026/04/29/69f25901e49e1688616283.jpg",
+      "date": "2026-04-29T21:17:03+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Allemagne : le gouvernement coupe dans les dépenses de santé pour enrayer le déficit de l’assurance maladie",
       "desc": "La réforme devrait permettre d’économiser 16,3 milliards d’euros par an sur les dépenses de santé pour faire face au vieillissement de la population. Une réforme des retraites doit être lancée avant l’été.",
@@ -10,6 +20,16 @@
       "date": "2026-04-29T19:57:34+00:00",
       "date_formatted": "29 April 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Dans l’Oise, un enfant de 10 ans entre la vie et la mort, après avoir été mordu par des chiens",
+      "desc": "Les deux chiens, de race «cane corso» appartiennent aux voisins du garçon, qui jouait dans les bois avec trois copains. Transporté à l’hôpital en urgence absolue, il présentait cinq traces de morsures.",
+      "url": "https://www.liberation.fr/societe/dans-loise-un-enfant-de-10-ans-entre-la-vie-et-la-mort-apres-avoir-ete-mordu-par-des-chiens-20260429_YNQNDGLVRBCO3DYDIXQGITX3XQ/",
+      "image": null,
+      "date": "2026-04-29T19:42:59+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
