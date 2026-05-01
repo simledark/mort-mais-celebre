@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T01:50:47.006440+00:00",
-  "count": 53,
+  "generated_at": "2026-05-01T07:58:24.343359+00:00",
+  "count": 51,
   "articles": [
     {
       "title": "VIDEO. Isolement des seniors : l’urgence invisible",
@@ -53,33 +53,13 @@
       "type": "presse"
     },
     {
-      "title": "A La Réunion, au festival Komidi, théâtre et lien social dialoguent",
-      "desc": "Le projet est né en 2008 avec le désir de «fabriquer les spectateurs du théâtre de demain». Pari réussi, l’évènement s’étoffe chaque année un peu plus et l’engouement populaire est de tous les âges.",
-      "url": "https://www.liberation.fr/culture/scenes/a-la-reunion-au-festival-komidi-theatre-et-lien-social-dialoguent-20260430_PM5GX6GYA5DGXNIXWKNYD4KVV4/",
-      "image": null,
-      "date": "2026-04-30T16:34:19+00:00",
+      "title": "Consommer des aliments ultra-transformés augmente le risque de démence, selon des chercheurs",
+      "desc": "Même en suivant un régime équilibré et sain, une part d’aliments ultra-transformés peut provoquer l’altération des capacités cognitives et accroître le risque de démence, selon une étude australienne",
+      "url": "https://www.20minutes.fr/sante/4221290-20260430-consommer-aliments-ultra-transformes-augmente-risque-demence-selon-chercheurs?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/EXdPWrRFSbSrEoWfFTtUlCk/1200x768_manger-des-aliments-ultra-transformes-en-parallele-d-un-regime-sain-n-empeche-pas-l-augmentation-du-risque-de-demence",
+      "date": "2026-04-30T14:32:36+00:00",
       "date_formatted": "30 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Georg Baselitz, figure majeure de l’art contemporain, a rejoint le ciel qu’il aimait peindre la tête en bas",
-      "desc": "Celui qui se définissait comme «brutal, naïf et gothique» est décédé à l’âge de 88 ans, annoncent les médias allemands et la galerie Ropac ce jeudi 30 avril. Le peintre, sculpteur et graveur allemand était le représentant le plus puissant de l’expressionnisme depuis six décennies.",
-      "url": "https://www.liberation.fr/culture/arts/le-peintre-et-sculpteur-allemand-georg-baselitz-est-mort-20260430_R72SVOH52RAPTADQWPXWFDX7LQ/",
-      "image": null,
-      "date": "2026-04-30T16:00:15+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "L’ex-maire de Plouasne, poursuivi après la mort d’une femme qu’il voulait faire interner : «Je suis très content, sauf du décès de madame Josselin»",
-      "desc": "Poursuivi pour «arrestation et détention arbitraire suivies de mort» et «violences commises en réunion ayant entraîné la mort sans intention de la donner», Michel Daugan avait été placé en garde à vue. Lors d’une audience, ce jeudi 30 avril, il demandait sa remise en liberté.",
-      "url": "https://www.liberation.fr/societe/police-justice/lex-maire-de-plouasne-poursuivi-apres-la-mort-dune-femme-quil-voulait-faire-interner-je-suis-tres-content-sauf-du-deces-de-madame-josselin-20260430_RR55GVMBJFGV7KWEZ7PT3SWB4U/",
-      "image": null,
-      "date": "2026-04-30T15:55:36+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Libération",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
