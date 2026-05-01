@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-05-01T07:58:24.343359+00:00",
-  "count": 51,
+  "generated_at": "2026-05-01T12:51:14.932044+00:00",
+  "count": 35,
   "articles": [
+    {
+      "title": "« Le mot cancer fait encore très peur », Yaël Braun-Pivet raconte son combat contre la maladie",
+      "desc": "Atteinte d’un cancer du sein, la présidente de l’Assemblée nationale a raconté à « Ici Gascogne » qu’elle veut « dédiaboliser » cette pathologie",
+      "url": "https://www.20minutes.fr/politique/4221390-20260501-mot-cancer-fait-encore-tres-peur-yael-braun-pivet-raconte-combat-contre-maladie?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/LMYXoWX-SkqzWNYOk4gM-Ck/1200x768_reponse-et-intervention-de-yael-braun-pivet-president-de-l-assemblee-nationale-seance-de-questions-au-gouvernement-a-l-assemblee-nationale-francaise-a-paris-france-le-29-avril-2026-04sipa-sipa-41598-credit-martin-rodier-sipa-2604301702",
+      "date": "2026-05-01T12:06:48+00:00",
+      "date_formatted": "1 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Qu’est-ce que l’ochratoxine A, cette toxine qui nécessite le rappel de certaines marques de café ?",
+      "desc": "La plateforme gouvernementale Rappel Conso a émis une alerte, jeudi 30 avril, au sujet d’un café moulu de la marque Monoprix Gourmet contenant une substance suspectée d’être cancérigène.",
+      "url": "https://www.liberation.fr/societe/sante/quest-ce-que-lochratoxine-a-cette-toxine-qui-necessite-le-rappel-de-certaines-marques-de-cafe-20260501_HBS44IFVVJBNJKGJF44W6AR5NQ/",
+      "image": null,
+      "date": "2026-05-01T08:01:30+00:00",
+      "date_formatted": "1 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "VIDEO. Isolement des seniors : l’urgence invisible",
       "desc": "Alors que 750 000 seniors français vivraient dans un isolement extrême, \"Envoyé spécial\" a suivi des bénévoles qui les écoutent, des femmes qui rendent hommage aux morts isolés, et des hommes et des femmes qui tentent de renouer un fil.",
@@ -41,16 +61,6 @@
       "date_formatted": "30 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : 15  morts au Sud-Liban après de nouvelles frappes israéliennes, malgré le cessez-le-feu",
-      "desc": "Depuis que Donald Trump a annoncé que le blocus des ports iraniens «pourrait durer des mois», le prix du pétrole s’est envolé, avant de retomber en milieu de journée. Les négociations entre les Etats-Unis et l’Iran piétinent depuis deux jours.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-prix-du-petrole-senvolent-le-baril-de-brent-a-pres-de-125-dollars-20260430_ANE3ORO27VFG3IFUXULYREE2YI/",
-      "image": null,
-      "date": "2026-04-30T17:59:13+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Consommer des aliments ultra-transformés augmente le risque de démence, selon des chercheurs",
@@ -153,16 +163,6 @@
       "type": "science"
     },
     {
-      "title": "Erreurs médicales : des chiffres en augmentation (et sous-estimés)",
-      "desc": "Plus d'un tiers des erreurs médicales, des infections ou des décès qui surviennent après une opération pourraient être évités selon la Cour des comptes. L'institution vient de publier un rapport sur la qualité des soins dans les établissements de santé et constate qu'il y a beaucoup plus d'évènement",
-      "url": "https://www.franceinfo.fr/sante/erreurs-medicales-des-chiffres-en-augmentation-et-sous-estimes_7970075.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/i4oN2u6gPJR5Jz838BCW339scc0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/04/28/69f0c4582454e876042560.jpg",
-      "date": "2026-04-28T16:31:52+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Microplastiques : ce que les scientifiques ont découvert dans notre ventre devient préoccupant",
       "desc": "On savait déjà les microplastiques omniprésents dans notre environnement. De nouvelles recherches suggèrent désormais qu’ils pourraient aussi déséquilibrer silencieusement notre flore intestinale, au point d’augmenter le risque de maladies inflammatoires chroniques comme Crohn.",
       "url": "https://www.futura-sciences.com/sante/actualites/microplastiques-microplastiques-ce-scientifiques-ont-decouverts-notre-ventre-devient-preoccupant-134078/#xtor%3DRSS-8",
@@ -243,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Le dépistage du cadmium bientôt remboursé en France",
       "desc": "Le dépistage de l’exposition au cadmium, métal lourd classé cancérogène, sera remboursé. Mais le dispositif, limité aux seules personnes « potentiellement surexposées » selon leur lieu de résidence, est critiqué par les médecins",
       "url": "https://www.20minutes.fr/sante/4220605-20260427-depistage-cadmium-bientot-rembourse-france?at_medium=display&at_campaign=149",
@@ -278,16 +268,6 @@
       "url": "https://www.20minutes.fr/monde/4220554-20260427-japon-traitement-contre-insuffisance-renale-chronique-chez-chat-pourrait-voir-jour?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/foQDRuhhTvOej9sXsxKswSk/1200x768_l-insuffisance-renale-chronique-touche-jusqu-a-40-des-chats-de-plus-de-dix-ans-et-80-de-ceux-de-plus-de-15-ans-selon-le-cornell-feline-health-center",
       "date": "2026-04-27T09:40:21+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La vaccination à la peine en France, notamment chez les adolescents",
-      "desc": "La couverture vaccinale devrait être plus importante contre certaines maladies, estiment les autorités sanitaires",
-      "url": "https://www.20minutes.fr/sante/4220412-20260427-vaccinations-peine-france-protection-adolescents-prioritaire?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/6wtOEh0FQBOPglC5Nk_p7Ck/1200x768_depuis-ce-15-juin-les-adolescents-de-12-a-17-ans-et-plus-peuvent-se-faire-vacciner-pour-y-arriver-le-consentement-oral-de-l-adolescent-ainsi-que-celui-de-ses-parents-sera-obligatoire-douai-15-juin-2021-a-partir-du-15-juin-les-adolescents-ages-de-12-a-17-ans-et-plus-pourront-etre-vaccines-pour-y-parvenir-le-consentement-oral-de-l-adolescent-ainsi-que-celui-de-ses-parents-seront-requis-le-gouvernement-espere-ainsi-limiter-le-ralentissement-de-la-vaccination-en-france-gage-d-une-protection-collective-suffisante-a-douai-le-15-juin-2021-greuezfrancois-1-1553-2106151634-credit-francois-greuez-sipa-2106151637",
-      "date": "2026-04-27T07:12:27+00:00",
       "date_formatted": "27 April 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
@@ -343,16 +323,6 @@
       "type": "science"
     },
     {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "L'OMS salue les résultats de sa campagne de \"grand rattrapage\" de vaccination des enfants",
       "desc": "La pandémie de Covid-19 a profondément ébranlé les systèmes de santé et bouleversé les campagnes de vaccination à travers le monde. Résultat : des maladies contagieuses comme la rougeole ont connu un rebond inquiétant. Face à cette situation, l’OMS, l’Unicef et Gavi — l’alliance internationale pour ",
       "url": "https://www.sciencesetavenir.fr/sante/l-oms-salue-les-resultats-de-sa-campagne-de-grand-rattrapage-de-vaccination-des-enfants_192164?xtor=RSS-16",
@@ -373,36 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
-      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
-      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
-      "image": null,
-      "date": "2026-04-21T15:30:59+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
-      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
-      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
-      "image": null,
-      "date": "2026-04-21T08:00:54+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
-      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
-      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
-      "image": null,
-      "date": "2026-04-21T00:00:17+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Qu'est-ce que la maladie à corps de Lewy ?",
       "desc": "La maladie à corps de Lewy, dont souffrait l'actrice Nathalie Baye, décédée le 17 avril 2026, est une maladie neurodégénérative peu connue mais fréquente, aux troubles proches de ceux de Parkinson et d'Alzheimer.",
       "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/la-maladie-a-corps-de-lewy-un-trouble-neurodegeneratif-peu-connu-mais-frequent_192006?xtor=RSS-16",
@@ -410,106 +350,6 @@
       "date": "2026-04-20T14:58:36+00:00",
       "date_formatted": "20 April 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
-      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
-      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
-      "image": null,
-      "date": "2026-04-16T18:00:00+00:00",
-      "date_formatted": "16 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
-      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
-      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
-      "image": null,
-      "date": "2026-04-14T13:00:00+00:00",
-      "date_formatted": "14 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
-      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
-      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
-      "image": null,
-      "date": "2026-04-03T09:21:47+00:00",
-      "date_formatted": "3 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
-      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
-      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
-      "image": null,
-      "date": "2026-03-26T16:00:46+00:00",
-      "date_formatted": "26 March 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Faut-il vraiment « réguler son cortisol » ?",
-      "desc": "Le cortisol est accusé de tous les maux. Pourtant, cette « hormone du stress » joue un rôle essentiel dans l’organisme et ne nécessite pas d’être « régulée » en l’absence de pathologie. L’article Faut-il vraiment « réguler son cortisol » ? est apparu en premier sur Salle de presse de l'Inserm .",
-      "url": "https://presse.inserm.fr/canal-detox/faut-il-vraiment-reguler-son-cortisol/",
-      "image": null,
-      "date": "2026-03-23T07:00:00+00:00",
-      "date_formatted": "23 March 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une nouvelle piste thérapeutique contre l’hépatoblastome, principal cancer du foie chez l’enfant",
-      "desc": "Une équipe de l’Institut d’oncologie de Bordeaux (Inserm/université de Bordeaux) a mis au point un protocole associant un inhibiteur chimique d’EZH2, une protéine impliquée dans de nombreux cancers, et des statines (des médicaments anti-cholestérol) dans le but de cibler les cellules tumorales résis",
-      "url": "https://presse.inserm.fr/une-nouvelle-piste-therapeutique-contre-lhepatoblastome-principal-cancer-du-foie-chez-lenfant/72352/",
-      "image": null,
-      "date": "2026-03-19T08:30:45+00:00",
-      "date_formatted": "19 March 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Remonter le temps : des scientifiques rétablissent certaines propriétés des cellules souches âgées en restaurant leurs « centres de recyclage »",
-      "desc": "Dans une étude collaborative publiée dans Cell Stem Cell et dirigée par Mickaël Ménager (Institut Imagine, Inserm, Université Paris Cité | Paris, France) et Saghi Ghaffari (Icahn School of Medicine at Mount Sinai | New York, USA), des chercheurs ont exploré une piste prometteuse. En ciblant les « ce",
-      "url": "https://presse.inserm.fr/remonter-le-temps-des-scientifiques-retablissent-certaines-proprietes-des-cellules-souches-agees-en-restaurant-leurs-centres-de-recyclage/72303/",
-      "image": null,
-      "date": "2026-03-11T11:35:50+00:00",
-      "date_formatted": "11 March 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Alzheimer : découverte de l’implication de nouvelles cellules dans l’apparition et la progression de la maladie",
-      "desc": "Les patients atteints de la maladie d’Alzheimer présentent des altérations biologiques communes, notamment une accumulation anormale de la protéine Tau dans le cerveau. Les mécanismes derrière cette anomalie pourraient être sur le point d’être élucidés. Dans une nouvelle étude, une équipe de recherc",
-      "url": "https://presse.inserm.fr/alzheimer-decouverte-de-limplication-de-nouvelles-cellules-dans-lapparition-et-la-progression-de-la-maladie/72092/",
-      "image": null,
-      "date": "2026-03-05T16:00:32+00:00",
-      "date_formatted": "5 March 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Maladies inflammatoires et chroniques de l’intestin : le rôle anti-inflammatoire d’une bactérie du microbiote intestinal ouvre la voie vers de nouvelles pistes thérapeutiques",
-      "desc": "Une étude impliquant des chercheurs de Sorbonne Université, de l’Inserm, d’INRAE et de l’AP-HP, en collaboration avec la société de biotechnologie Exeliom Biosciences, apporte de nouveaux éléments sur le mode d’action de la bactérie Faecalibacterium prausnitzii. Cette bactérie, au rôle majeur dans l",
-      "url": "https://presse.inserm.fr/maladies-inflammatoires-et-chroniques-de-lintestin-le-role-anti-inflammatoire-dune-bacterie-du-microbiote-intestinal-ouvre-la-voie-vers-de-nouvelles-pistes-therapeutiques/72258/",
-      "image": null,
-      "date": "2026-03-03T09:47:33+00:00",
-      "date_formatted": "3 March 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Quand les apnées du sommeil mettent le métabolisme en décalage horaire",
-      "desc": "Les apnées du sommeil touchent près d’un milliard de personnes dans le monde et provoquent des épisodes répétés de manque d’oxygène pendant la nuit appelés hypoxie intermittente. Une étude menée par des scientifiques de l’Université Grenoble Alpes, de l’Inserm et du CHU Grenoble Alpes montre que ces",
-      "url": "https://presse.inserm.fr/quand-les-apnees-du-sommeil-mettent-le-metabolisme-en-decalage-horaire/72163/",
-      "image": null,
-      "date": "2026-02-25T19:00:07+00:00",
-      "date_formatted": "25 February 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
