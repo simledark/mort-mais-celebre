@@ -1,35 +1,25 @@
 {
-  "generated_at": "2026-05-02T07:17:04.850672+00:00",
-  "count": 51,
+  "generated_at": "2026-05-02T12:41:28.768163+00:00",
+  "count": 49,
   "articles": [
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Trump déclare que «les hostilités sont terminées» mais n’est «pas satisfait» par la dernière proposition de paix iranienne",
-      "desc": "Le président américain a rejeté une nouvelle offre de l’Iran, vendredi 1er mai, pour relancer les négociations de paix actuellement au point mort. Dans le sud du Liban, les frappes israéliennes se poursuivent.",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : la proposition de paix iranienne rejetée par Trump prévoyait l’ouverture du détroit d’Ormuz",
+      "desc": "Le président américain a rejeté une nouvelle offre de l’Iran, vendredi 1er mai, qui visait à relancer les négociations de paix actuellement au point mort. Dans le sud du Liban, les frappes israéliennes se poursuivent.",
       "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-nest-pas-satisfait-par-la-derniere-proposition-de-paix-iranienne-20260502_ACJG75NT7VF3HJ7XWHK3PZRUPA/",
       "image": null,
-      "date": "2026-05-02T07:05:26+00:00",
+      "date": "2026-05-02T12:29:44+00:00",
       "date_formatted": "2 May 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Cancer du pancréas : pour la première fois en Europe, un traitement innovant testé sur un patient au CHU de Grenoble",
+      "title": "Un traitement innovant contre le cancer du pancréas testé au CHU de Grenoble, une première en Europe",
       "desc": "Ce traitement consiste en une radiothérapie ciblée qui va au plus près de la tumeur grâce à des bâtonnets radioactifs introduits dans l'abdomen du malade.",
       "url": "https://www.franceinfo.fr/sante/cancer/cancer-du-pancreas-pour-la-premiere-fois-en-europe-un-traitement-innovant-teste-sur-un-patient-au-chu-de-grenoble_7976750.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/PVHibOjqYHzV4nSmYk8Idm3_ucE/0x277:5337x3280/432x243/filters:format(jpg)/2026/05/01/69f4af0e28620084414692.jpg",
       "date": "2026-05-02T06:40:06+00:00",
       "date_formatted": "2 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Peine de mort en Israël : la Cour suprême peut encore refuser ce meurtre légal",
-      "desc": "Il faudra du courage aux juges israéliens pour invalider cette loi discriminatoire à l’égard des Palestiniens, en s’appuyant sur les réserves du ministère de la Justice, de certains hauts responsables militaires et de l’Association pour les droits civiques, espère le magistrat et essayiste Denis Sal",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/peine-de-mort-en-israel-la-cour-supreme-peut-encore-refuser-ce-meurtre-legal-20260502_LYYPSVHYAZAJRJRIGDRXUV2ZM4/",
-      "image": null,
-      "date": "2026-05-02T06:32:00+00:00",
-      "date_formatted": "2 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -74,7 +64,7 @@
     },
     {
       "title": "Craig Venter, pionnier du séquençage du génome humain, est mort",
-      "desc": "Le biologiste et entrepreneur américain était une figure majeure du génome. Il s’était aussi tourné vers un autre domaine controversé, la biologie de synthèse. Il est décédé à l’âge de 79 ans, à San Diego (Californie).",
+      "desc": "Le biologiste et entrepreneur américain était une figure majeure du génome. Il s’était aussi tourné vers un autre domaine controversé, la biologie de synthèse. Il est mort à l’âge de 79 ans, à San Diego (Californie).",
       "url": "https://www.lemonde.fr/sciences/article/2026/04/30/craig-venter-pionnier-du-sequencage-du-genome-humain-est-mort_6684647_1650684.html",
       "image": "https://img.lemde.fr/2026/04/30/827/0/2336/1168/644/322/60/0/62391a5_upload-1-7grwcofe3toe-ap080125017931.jpg",
       "date": "2026-04-30T19:07:01+00:00",
@@ -281,16 +271,6 @@
       "date_formatted": "27 April 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Le dépistage du cadmium bientôt remboursé en France",
-      "desc": "Le dépistage de l’exposition au cadmium, métal lourd classé cancérogène, sera remboursé. Mais le dispositif, limité aux seules personnes « potentiellement surexposées » selon leur lieu de résidence, est critiqué par les médecins",
-      "url": "https://www.20minutes.fr/sante/4220605-20260427-depistage-cadmium-bientot-rembourse-france?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/AuWonBSPQRKcR2kYicY_MSk/1200x768_photo-illustration-d-un-rayon-fraicheur-dans-un-magasin-de-fruits-et-legumes-credit-allili-mourad-sipa-1703021842",
-      "date": "2026-04-27T13:35:11+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Faut‑il absolument opter pour des tripeptides de collagène ? Spoiler : pas vraiment",
