@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-05-02T01:27:52.210398+00:00",
-  "count": 49,
+  "generated_at": "2026-05-02T07:17:04.850672+00:00",
+  "count": 51,
   "articles": [
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Trump déclare que «les hostilités sont terminées» mais n’est «pas satisfait» par la dernière proposition de paix iranienne",
+      "desc": "Le président américain a rejeté une nouvelle offre de l’Iran, vendredi 1er mai, pour relancer les négociations de paix actuellement au point mort. Dans le sud du Liban, les frappes israéliennes se poursuivent.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-nest-pas-satisfait-par-la-derniere-proposition-de-paix-iranienne-20260502_ACJG75NT7VF3HJ7XWHK3PZRUPA/",
+      "image": null,
+      "date": "2026-05-02T07:05:26+00:00",
+      "date_formatted": "2 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du pancréas : pour la première fois en Europe, un traitement innovant testé sur un patient au CHU de Grenoble",
+      "desc": "Ce traitement consiste en une radiothérapie ciblée qui va au plus près de la tumeur grâce à des bâtonnets radioactifs introduits dans l'abdomen du malade.",
+      "url": "https://www.franceinfo.fr/sante/cancer/cancer-du-pancreas-pour-la-premiere-fois-en-europe-un-traitement-innovant-teste-sur-un-patient-au-chu-de-grenoble_7976750.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/PVHibOjqYHzV4nSmYk8Idm3_ucE/0x277:5337x3280/432x243/filters:format(jpg)/2026/05/01/69f4af0e28620084414692.jpg",
+      "date": "2026-05-02T06:40:06+00:00",
+      "date_formatted": "2 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Peine de mort en Israël : la Cour suprême peut encore refuser ce meurtre légal",
+      "desc": "Il faudra du courage aux juges israéliens pour invalider cette loi discriminatoire à l’égard des Palestiniens, en s’appuyant sur les réserves du ministère de la Justice, de certains hauts responsables militaires et de l’Association pour les droits civiques, espère le magistrat et essayiste Denis Sal",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/peine-de-mort-en-israel-la-cour-supreme-peut-encore-refuser-ce-meurtre-legal-20260502_LYYPSVHYAZAJRJRIGDRXUV2ZM4/",
+      "image": null,
+      "date": "2026-05-02T06:32:00+00:00",
+      "date_formatted": "2 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"J'ai eu beaucoup de chance\" : déclaré mort après un arrêt cardiaque, il se réveille trois heures plus tard",
       "desc": "Didier, un patient de 62 ans hospitalisé à Rennes, a probablement présenté un syndrome de Lazare, une affection rarissime qui rend indétectables les constances vitales.",
@@ -271,16 +301,6 @@
       "date_formatted": "27 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Japon : Un traitement contre l’insuffisance rénale chronique chez le chat pourrait voir le jour",
-      "desc": "Ce médicament prolongeait de manière significative l’espérance de vie des félins touchés par cette pathologie qui concerne plus de 40 % des chats de plus de 10 ans",
-      "url": "https://www.20minutes.fr/monde/4220554-20260427-japon-traitement-contre-insuffisance-renale-chronique-chez-chat-pourrait-voir-jour?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/foQDRuhhTvOej9sXsxKswSk/1200x768_l-insuffisance-renale-chronique-touche-jusqu-a-40-des-chats-de-plus-de-dix-ans-et-80-de-ceux-de-plus-de-15-ans-selon-le-cornell-feline-health-center",
-      "date": "2026-04-27T09:40:21+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée",
