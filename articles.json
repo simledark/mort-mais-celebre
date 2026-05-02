@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-05-02T12:41:28.768163+00:00",
-  "count": 49,
+  "generated_at": "2026-05-02T18:40:38.499854+00:00",
+  "count": 50,
   "articles": [
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : la proposition de paix iranienne rejetée par Trump prévoyait l’ouverture du détroit d’Ormuz",
-      "desc": "Le président américain a rejeté une nouvelle offre de l’Iran, vendredi 1er mai, qui visait à relancer les négociations de paix actuellement au point mort. Dans le sud du Liban, les frappes israéliennes se poursuivent.",
+      "title": "Un mécène indien vole au secours des hippopotames de Pablo Escobar, condamnés à mort en Colombie",
+      "desc": "Dans les années 80, le parrain de la drogue avait importé des pachydermes pour son zoo personnel. Face à la décision du gouvernement colombien d’euthanasier 80 de leurs descendants, un fils de milliardaire se dit prêt à les transporter en Inde.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/un-mecene-indien-vole-au-secours-des-hippopotames-de-pablo-escobar-condamnes-a-mort-en-colombie-20260502_MJBMCKDENRHCZIDKY3UFAFV74A/",
+      "image": null,
+      "date": "2026-05-02T17:00:00+00:00",
+      "date_formatted": "2 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des nanoplastiques jusque dans le cerveau : pourquoi cette étude alarme les scientifiques",
+      "desc": "Et si notre cerveau n’était plus aussi protégé qu’on le pensait ? Des chercheurs viennent de mettre en évidence une accumulation inquiétante de microplastiques dans cet organe clé, ouvrant la voie à des interrogations majeures sur leurs liens possibles avec certaines maladies.",
+      "url": "https://www.futura-sciences.com/sante/actualites/microplastiques-nanoplastiques-jusque-cerveau-cette-etude-alarme-scientifiques-134161/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/8/c/f8c7f9582b_50254639_microplastiques-cerveau.jpg",
+      "date": "2026-05-02T16:08:32+00:00",
+      "date_formatted": "2 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : «La balle est dans le camp des Etats-Unis», affirme l’Iran",
+      "desc": "Le président américain a rejeté une nouvelle offre de l’Iran vendredi, qui visait à relancer les négociations de paix actuellement au point mort. Dans le sud du Liban ce samedi, les frappes israéliennes ont fait au moins dix morts.",
       "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-nest-pas-satisfait-par-la-derniere-proposition-de-paix-iranienne-20260502_ACJG75NT7VF3HJ7XWHK3PZRUPA/",
       "image": null,
-      "date": "2026-05-02T12:29:44+00:00",
+      "date": "2026-05-02T13:52:45+00:00",
       "date_formatted": "2 May 2026",
       "source": "Libération",
       "type": "presse"
@@ -111,16 +131,6 @@
       "date_formatted": "30 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Immunothérapie : une technique pour mieux cibler les tumeurs expérimentée à l'institut Gustave Roussy",
-      "desc": "La \"radiologie interventionnelle\" permet de repérer \"où se trouvent les métastases du cancer\" mais aussi d'injecter le traitement \"directement dans la tumeur\", explique l'oncologue Aurélien Marabelle, mercredi à France Inter.",
-      "url": "https://www.franceinfo.fr/sante/cancer/immunotherapie-une-technique-pour-mieux-cibler-les-tumeurs-experimentee-a-l-institut-gustave-roussy_7972613.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cGl9YLMOD_e67B3RDXf7Yzcl0QY/0x368:3934x2581/432x243/filters:format(jpg)/2026/04/29/69f25901e49e1688616283.jpg",
-      "date": "2026-04-29T21:17:03+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Allemagne : le gouvernement coupe dans les dépenses de santé pour enrayer le déficit de l’assurance maladie",
