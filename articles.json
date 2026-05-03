@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-05-03T07:44:31.066856+00:00",
+  "generated_at": "2026-05-03T12:41:19.157177+00:00",
   "count": 52,
   "articles": [
+    {
+      "title": "\"Aborder le vieillissement de façon positive\" : la ministre déléguée explique pourquoi les Ehpad vont être renommés \"Maisons France autonomie\"",
+      "desc": "\"Les Maisons France autonomie devront être des lieux où les personnes âgées souhaitent habiter et les professionnels travailler\", affirme Camille Galliard-Minier.",
+      "url": "https://www.franceinfo.fr/sante/senior/maltraitance-dans-les-ehpad/aborder-le-vieillissement-de-facon-positive-la-ministre-deleguee-explique-pourquoi-les-ehpad-vont-etre-renommes-maisons-france-autonomie_7980401.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/WJ-ulJ9t0pLtRiQolDzkhlhDWB4/0x53:1024x629/432x243/filters:format(jpg)/2026/05/03/69f72364e44f4168830935.jpg",
+      "date": "2026-05-03T14:02:47+00:00",
+      "date_formatted": "3 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Raphaël Glucksmann, François Ruffin : aller dans le sens du vent, c’est le destin des feuilles mortes»",
+      "desc": "Que ce soit sur le temps de travail ou l’immigration, le député européen et celui de la Somme ont employé, ces derniers jours, des expressions qui nuisent à la crédibilité du combat pour la gauche, estime le député des Yvelines Benjamin Lucas.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/raphael-glucksmann-francois-ruffin-aller-dans-le-sens-du-vent-cest-le-destin-des-feuilles-mortes-20260503_S76Z2QX7AJA2BHI4DDBRSQ52BM/",
+      "image": null,
+      "date": "2026-05-03T12:00:00+00:00",
+      "date_formatted": "3 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pas-de-Calais : deux migrantes meurent lors d’une tentative de traversée en mer clandestine",
+      "desc": "Deux femmes d’origine soudanaise sont mortes ce dimanche 3 avril au large de Neufchâtel-Hardelot. C’est le troisième drame en un mois dans la Manche. En 2025, au moins 29 personnes ont péri en voulant effectuer la traversé.",
+      "url": "https://www.liberation.fr/societe/immigration/pas-de-calais-deux-migrantes-mortes-lors-dune-tentative-de-traversee-en-mer-clandestine-20260503_J5KDV3XXIRF2BHYQHDAJ4UFX6I/",
+      "image": null,
+      "date": "2026-05-03T10:35:24+00:00",
+      "date_formatted": "3 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le congé endométriose fait son entrée dans un groupe de BTP",
+      "desc": "C'est une première dans le secteur du bâtiment et des travaux publics. Le groupe NGE propose désormais des jours de congé supplémentaires à ses salariées atteintes d'endométriose. Cette maladie gynécologique chronique et invalidante provoque, notamment, des règles douloureuses.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/le-conge-endometriose-fait-son-entree-dans-un-groupe-de-btp_7949153.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/7Tl8hbz8kLhXttnnuARlBZUVUL0/0x110:2121x1304/432x243/filters:format(jpg)/2026/04/23/69ea144c83785927522833.jpg",
+      "date": "2026-05-03T10:00:03+00:00",
+      "date_formatted": "3 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Cancer du pancréas : un traitement innovant redonne espoir au corps médical",
       "desc": "Le CHU de Grenoble (Isère) a été le théâtre d'une première européenne avec l'utilisation d'une radiothérapie ciblée allant au plus près de la tumeur grâce à des bâtonnets radioactifs. Cela pourrait grandement faire avancer la recherche contre le cancer du pancréas.",
@@ -43,16 +83,6 @@
       "type": "science"
     },
     {
-      "title": "Guerre au Moyen-Orient : «La balle est dans le camp des Etats-Unis», affirme l’Iran",
-      "desc": "Le président américain a rejeté une nouvelle offre de l’Iran vendredi, qui visait à relancer les négociations de paix actuellement au point mort. Dans le sud du Liban ce samedi, les frappes israéliennes ont fait au moins dix morts.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-nest-pas-satisfait-par-la-derniere-proposition-de-paix-iranienne-20260502_ACJG75NT7VF3HJ7XWHK3PZRUPA/",
-      "image": null,
-      "date": "2026-05-02T13:52:45+00:00",
-      "date_formatted": "2 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Un traitement innovant contre le cancer du pancréas testé au CHU de Grenoble, une première en Europe",
       "desc": "Ce traitement consiste en une radiothérapie ciblée qui va au plus près de la tumeur grâce à des bâtonnets radioactifs introduits dans l'abdomen du malade.",
       "url": "https://www.franceinfo.fr/sante/cancer/cancer-du-pancreas-pour-la-premiere-fois-en-europe-un-traitement-innovant-teste-sur-un-patient-au-chu-de-grenoble_7976750.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -80,16 +110,6 @@
       "date": "2026-05-01T12:06:48+00:00",
       "date_formatted": "1 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "VIDEO. Isolement des seniors : l’urgence invisible",
-      "desc": "Alors que 750 000 seniors français vivraient dans un isolement extrême, \"Envoyé spécial\" a suivi des bénévoles qui les écoutent, des femmes qui rendent hommage aux morts isolés, et des hommes et des femmes qui tentent de renouer un fil.",
-      "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-isolement-des-seniors-l-urgence-invisible_7967771.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/4vaMnFOUU0jzY3i02Kk-Vbf5mDg/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/30/69f3bb39c8c99039563021.jpg",
-      "date": "2026-04-30T22:45:57+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -333,16 +353,6 @@
       "type": "presse"
     },
     {
-      "title": "Isabelle Peretz, neuropsychologue : « Les bienfaits de la musique sont immédiats, variés, sans effets indésirables »",
-      "desc": "Dans un entretien au « Monde », la chercheuse en neurocognition de la musique détaille les effets des chansons et des sons chez des patients touchés par la maladie d’Alzheimer ou de Parkinson, ou chez les bébés prématurés.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/25/isabelle-peretz-neuropsychologue-les-bienfaits-de-la-musique-sont-immediats-varies-sans-effets-indesirables_6683269_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/22/171/0/2048/1024/644/322/60/0/ef8a9ae_upload-1-abvcmsqh1gtx-photo-2022-pour-nas.jpeg",
-      "date": "2026-04-25T18:00:06+00:00",
-      "date_formatted": "25 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer : pourquoi les tumeurs du coeur sont-elles si rares ?",
       "desc": "Les tumeurs du coeur font partie des tumeurs les plus rares au monde. Pour comprendre ce qui protège cet organe, une équipe a mis le doigt sur un mécanisme clé. Plus qu'un mouvement mécanique, c'est toute une cascade biologique qui entre en jeu.",
       "url": "https://www.sciencesetavenir.fr/sante/coeur-et-cardio/cancer-pourquoi-les-tumeurs-du-coeur-sont-elles-si-rares_192175?xtor=RSS-16",
@@ -410,16 +420,6 @@
       "date": "2026-04-21T00:00:17+00:00",
       "date_formatted": "21 April 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Qu'est-ce que la maladie à corps de Lewy ?",
-      "desc": "La maladie à corps de Lewy, dont souffrait l'actrice Nathalie Baye, décédée le 17 avril 2026, est une maladie neurodégénérative peu connue mais fréquente, aux troubles proches de ceux de Parkinson et d'Alzheimer.",
-      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/la-maladie-a-corps-de-lewy-un-trouble-neurodegeneratif-peu-connu-mais-frequent_192006?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/18/cover-r4x3w1200-69e35b4df24b3-30f5f8df0cfc2e84cec0d49315306a34e7bf8ee2-jpg.jpg",
-      "date": "2026-04-20T14:58:36+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
