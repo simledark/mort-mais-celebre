@@ -1,10 +1,90 @@
 {
-  "generated_at": "2026-05-04T13:18:33.174817+00:00",
-  "count": 62,
+  "generated_at": "2026-05-04T19:10:58.691806+00:00",
+  "count": 65,
   "articles": [
     {
-      "title": "Foyer présumé de hantavirus sur un navire de croisière : le Cap-Vert refuse le débarquement des passagers, les Canaries « envisagées » par l’opérateur",
-      "desc": "Face à la menace d’un foyer de hantavirus à bord, les autorités cap-verdiennes renforcent les mesures sanitaires. Selon l’OMS, l’épisode de hantavirus présente un « faible risque » de propagation.",
+      "title": "Les passagers d'un navire de croisière bloqués à bord en raison d'un virus mortel",
+      "desc": "Alors qu'un bateau de croisière doit relier Ushuaïa (Argentine) au Cap-Vert, les autorités capverdiennes refusent de la voir accoster. La raison : un virus inconnu, répandu parmi les passagers, qui a déjà fait trois morts et contaminé trois autres personnes.",
+      "url": "https://www.franceinfo.fr/sante/les-passagers-d-un-navire-de-croisiere-bloques-a-bord-en-raison-d-un-virus-mortel_7982999.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/F9J5M0aRT9F87RSXtzO8f6TT7bU/0x6:1275x724/432x243/filters:format(jpg)/2026/05/04/69f8e51fb8ee0266476126.jpg",
+      "date": "2026-05-04T20:31:17+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "D’Ushuaïa au Cap-Vert, comment la croisière de rêve du MV « Hondius » a viré au cauchemar sanitaire",
+      "desc": "Un hantavirus est responsable de la mort d’au moins un des trois passagers décédés. Alors que trois personnes à bord présentent des symptômes de détresse respiratoire, le navire de croisière de luxe, interdit d’accoster par les autorités capverdiennes, pourrait mettre le cap sur les Canaries.",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/04/d-ushuaia-au-cap-vert-comment-la-croisiere-de-reve-du-mv-hondius-a-vire-au-cauchemar-sanitaire_6685405_3244.html",
+      "image": "https://img.lemde.fr/2026/05/04/350/0/4197/2098/644/322/60/0/52eb9d4_upload-1-k1uizkv3v614-000-a9nw6qw.jpg",
+      "date": "2026-05-04T19:55:41+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Allemagne : une voiture fonce dans la foule à Leipzig, deux morts et de nombreux blessés",
+      "desc": "La police a arrêté un suspect peu de temps après les faits ce lundi 4 mai, sans avancer d’hypothèse pour expliquer le drame. Le pays a connu plusieurs attaques à la voiture-bélier ces dernières années.",
+      "url": "https://www.liberation.fr/international/europe/allemagne-plusieurs-blesses-lors-dun-incident-impliquant-une-voiture-a-leipzig-20260504_QW6Z3DCXOFHY3GU2PWPEQAFPRM/",
+      "image": null,
+      "date": "2026-05-04T18:41:43+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vasyl Stus : «Tenir bon. Ici ! Dans ce champ»",
+      "desc": "Le poète ukrainien mort au goulag en 1985 est traduit pour la première fois par Georges Nivat.",
+      "url": "https://www.liberation.fr/culture/livres/vasyl-stus-tenir-bon-ici-dans-ce-champ-20260504_XITTBGSIRREXDGFN6EBIXGHJVQ/",
+      "image": null,
+      "date": "2026-05-04T18:38:22+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Bonne nouvelle pour les buveurs de café : on comprend enfin comment il pourrait protéger contre plusieurs maladies",
+      "desc": "Et si votre café du matin faisait bien plus que vous réveiller ? Derrière ses arômes familiers se cacherait un mécanisme biologique insoupçonné, capable d’agir au cœur même de vos cellules pour protéger votre organisme. Une découverte qui pourrait enfin expliquer pourquoi cette boisson parfois...",
+      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-bonne-nouvelle-buveurs-cafe-on-comprend-enfin-il-pourrait-proteger-plusieurs-maladies-134240/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/a/2/5a26eff746_50254744_bienfaits-cafe-science.jpg",
+      "date": "2026-05-04T16:38:15+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "L’Iran dément le passage de navires via Ormuz, foyer présumé d’hantavirus sur un bateau de croisière, Seixas va courir le Tour de France… L’actu de ce lundi 4 mai",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du lundi 4 mai.",
+      "url": "https://www.liberation.fr/international/europe/liran-dement-le-passage-de-navires-via-ormuz-foyer-presume-dhantavirus-sur-un-bateau-de-croisiere-seixas-va-courir-le-tour-de-france-lactu-de-ce-lundi-4-mai-20260504_3UCFHOZGYBGZTNAFV7BM2IPFVI/",
+      "image": null,
+      "date": "2026-05-04T16:11:47+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Trois morts, un possible foyer de hantavirus, un \"faible risque\" de propagation... Ce que l'on sait de la situation à bord du bateau de croisière \"MV Hondius\"",
+      "desc": "Parti d'Ushuaïa, dans le sud de l'Argentine, il y a trois semaines, le navire stationnait toujours dimanche soir au large du Cap-Vert. Quelque 150 touristes se trouvent à bord.",
+      "url": "https://www.franceinfo.fr/sante/maladie/trois-morts-un-possible-foyer-de-hantavirus-un-navire-bloque-en-afrique-ce-que-l-on-sait-de-la-situation-a-bord-du-bateau-de-croisiere-mv-hondius_7981994.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/iWg2YOnLKSXRycNEF8U7nePt7Oo/0x73:1024x649/432x243/filters:format(jpg)/2026/05/04/69f846c5311a7845869265.jpg",
+      "date": "2026-05-04T16:02:37+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Qu'est-ce qu'un hantavirus ?",
+      "desc": "Un navire de croisière présent dans l'Atlantique est devenu un potentiel foyer d'infection à hantavirus, causant la mort de trois personnes. Transmission, symptômes, traitements : Sciences et Avenir fait le point sur ces pathogènes.",
+      "url": "https://www.sciencesetavenir.fr/sante/qu-est-ce-que-l-infection-a-hantavirus-qui-aurait-fait-trois-morts-sur-un-bateau-de-croisiere_192302?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f8abf1092ef-afp-20250604-f0450716-v1-highres-hantavirusantibodybloodtest.jpg",
+      "date": "2026-05-04T15:01:13+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Foyer présumé de hantavirus sur un navire de croisière : les Canaries « envisagées » pour le débarquement des passagers après le refus du Cap-Vert",
+      "desc": "En raison de la possibilité d’un foyer de hantavirus à bord du navire, les autorités cap-verdiennes renforcent les mesures sanitaires. Selon l’OMS, l’épisode de hantavirus présente un « faible risque » de propagation.",
       "url": "https://www.lemonde.fr/sante/article/2026/05/04/foyer-presume-de-hantavirus-sur-un-navire-de-croisiere-le-cap-vert-refuse-le-debarquement-des-passagers_6685381_1651302.html",
       "image": "https://img.lemde.fr/2026/05/03/461/0/3600/1800/644/322/60/0/d60412b_ftp-1-h9nppj9x03x7-5935115-01-06.jpg",
       "date": "2026-05-04T14:46:24+00:00",
@@ -23,13 +103,13 @@
       "type": "science"
     },
     {
-      "title": "Trois morts, un possible foyer de hantavirus, un \"faible risque\" de propagation... Ce que l'on sait de la situation à bord du bateau de croisière \"MV Hondius\"",
-      "desc": "Parti d'Ushuaïa, dans le sud de l'Argentine, il y a trois semaines, le navire stationnait toujours dimanche soir au large du Cap-Vert. Quelque 150 touristes se trouvent à bord.",
-      "url": "https://www.franceinfo.fr/sante/maladie/trois-morts-un-possible-foyer-de-hantavirus-un-navire-bloque-en-afrique-ce-que-l-on-sait-de-la-situation-a-bord-du-bateau-de-croisiere-mv-hondius_7981994.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/iWg2YOnLKSXRycNEF8U7nePt7Oo/0x73:1024x649/432x243/filters:format(jpg)/2026/05/04/69f846c5311a7845869265.jpg",
-      "date": "2026-05-04T14:00:03+00:00",
+      "title": "Royaume-Uni : « Nous sommes des miracles »… Des sœurs jumelles découvrent qu’elles n’ont pas le même père",
+      "desc": "A l’issue de tests ADN, les deux Britanniques ont appris qu’elles n’étaient que demi-sœurs et ont pu retrouver leurs pères biologiques",
+      "url": "https://www.20minutes.fr/sante/4221807-20260504-urs-jumelles-decouvrent-elles-pere-miracles?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/bdGMBtoBQmuJUwSsSsyDpSk/1200x768_jumelles",
+      "date": "2026-05-04T14:02:37+00:00",
       "date_formatted": "4 May 2026",
-      "source": "France Info Santé",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -43,6 +123,16 @@
       "type": "presse"
     },
     {
+      "title": "Foyer présumé d’hantavirus : Les 149 passagers, dont cinq Français, du bateau pourraient débarquer aux Canaries",
+      "desc": "Les îles de Las Palmas et Tenerife des Canaries sont « envisagées comme porte d’entrée pour le débarquement » du bateau de croisière, présumé abriter un foyer d’hantavirus et sur lequel voyagent cinq Français",
+      "url": "https://www.20minutes.fr/monde/4221797-20260504-foyer-presume-hantavirus-149-passagers-bateau-pourraient-debarquer-canaries?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/tFV1iplDRQG9F7vpEn-lQyk/1200x768_vue-du-navire-de-croisiere-m-v-hondius-ancre-dans-un-port-de-praia-au-cap-vert-le-lundi-4-mai-2026-ap-photo-arilson-almeida-xma101-26124444323903-2605041434",
+      "date": "2026-05-04T13:37:33+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
       "title": "Risques, transmission, traitement… Trois questions à un infectiologue pour comprendre les hantavirus",
       "desc": "L'Organisation mondiale de la santé soupçonne une contamination par hantavirus après le décès de trois passagers lors d'une croisière transatlantique. \"Tout un tas de petits rongeurs peuvent les transmettre\", souligne l'infectiologue Gilles Pialoux.",
       "url": "https://www.franceinfo.fr/sante/maladie/risques-transmission-traitement-trois-questions-a-un-infectiologue-pour-comprendre-les-hantavirus_7982144.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -51,6 +141,16 @@
       "date_formatted": "4 May 2026",
       "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "Il court 32 marathons en 32 jours consécutifs pour attirer l'attention sur la démence",
+      "desc": "Jordan Adams a couru le marathon de Londres le 3 mai 2026 avec un réfrigérateur de 25 kilos sur le dos. Ce n'était qu'une première étape : il s'est lancé dans 32 marathons sur 32 jours en Irlande pour attirer l'attention sur une forme de démence que lui et son frère sont quasiment certains de dévelo",
+      "url": "https://www.sciencesetavenir.fr/sante/il-court-32-marathons-en-32-jours-consecutifs-pour-attirer-l-attention-sur-la-demence_192269?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/30/cover-r4x3w1200-69f33328ee781-59ec65bb8cbfe77d781b77f77d92f0caa9c05c15-jpg.jpg",
+      "date": "2026-05-04T13:25:44+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Cinq Français à bord du navire de croisière soupçonné d'abriter un foyer d'hantavirus, selon le ministère de la Santé",
@@ -83,16 +183,6 @@
       "type": "presse"
     },
     {
-      "title": "Les laboratoires de biologie médicale de ville en grève ce lundi",
-      "desc": "Les syndicats de salariés ont lancé un mouvement, ce lundi 4 mai, pour dénoncer la dégradation des conditions de travail et les bas salaires qui frappent les laboratoires rachetés par les grands acteurs privés.",
-      "url": "https://www.liberation.fr/societe/sante/les-laboratoires-de-biologie-medicale-de-ville-en-greve-ce-lundi-20260504_NZ6JWH3LFNGCVFRRBLW4NA4YG4/",
-      "image": null,
-      "date": "2026-05-04T11:15:15+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Ce qu’il faut savoir sur les hantavirus : origine, moyens de transmission, symptômes potentiels…",
       "desc": "L’OMS a fait état dimanche de trois morts liés à un possible foyer d’infection à hantavirus sur un bateau de croisière, le « Hondius », dans l’Atlantique. Lorsqu’ils affectent l’être humain, les hantavirus peuvent être responsables d’infections, de gravité variable, parfois mortelles.",
       "url": "https://www.lemonde.fr/sante/article/2026/05/04/ce-qu-il-faut-savoir-sur-les-hantavirus-origine-moyens-de-transmission-symptomes-potentiels_6685359_1651302.html",
@@ -121,26 +211,6 @@
       "date_formatted": "4 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Trois morts et des passagers malades… ce que l’on sait du foyer de hantavirus détecté à bord du navire «MV Hondius» dans l’Atlantique",
-      "desc": "Plusieurs croisiéristes semblent victimes du syndrome respiratoire aigu à bord d’un petit bateau de croisière néerlandais actuellement au large de Praia, la capitale du Cap-Vert.",
-      "url": "https://www.liberation.fr/international/afrique/un-foyer-de-syndrome-respiratoire-aigu-fait-deux-morts-sur-un-bateau-de-croisiere-dans-latlantique-20260503_JIKBMJTIUJH5JDWUMHKGUZOFEA/",
-      "image": null,
-      "date": "2026-05-04T09:34:16+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Devenir adulte, «c’est avoir une vie qui nous plaît»",
-      "desc": "La sociologue Sandra Gaviria rappelle que le passage à l’âge adulte est un processus très variable en fonction des parcours personnels.",
-      "url": "https://www.liberation.fr/lifestyle/intimites/devenir-adulte-cest-avoir-une-vie-qui-nous-plait-20260504_P4NEWAPAMZAYVKCPQ2QHGHKBNU/",
-      "image": null,
-      "date": "2026-05-04T08:53:29+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Morts sur un bateau de croisière : Que sait-on sur les hantavirus ?",
@@ -238,16 +308,6 @@
       "url": "https://www.franceinfo.fr/sante/senior/maltraitance-dans-les-ehpad/aborder-le-vieillissement-de-facon-positive-la-ministre-deleguee-explique-pourquoi-les-ehpad-vont-etre-renommes-maisons-france-autonomie_7980401.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/WJ-ulJ9t0pLtRiQolDzkhlhDWB4/0x53:1024x629/432x243/filters:format(jpg)/2026/05/03/69f72364e44f4168830935.jpg",
       "date": "2026-05-03T14:02:47+00:00",
-      "date_formatted": "3 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le congé endométriose fait son entrée dans un groupe de BTP",
-      "desc": "C'est une première dans le secteur du bâtiment et des travaux publics. Le groupe NGE propose désormais des jours de congé supplémentaires à ses salariées atteintes d'endométriose. Cette maladie gynécologique chronique et invalidante provoque, notamment, des règles douloureuses.",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/le-conge-endometriose-fait-son-entree-dans-un-groupe-de-btp_7949153.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/7Tl8hbz8kLhXttnnuARlBZUVUL0/0x110:2121x1304/432x243/filters:format(jpg)/2026/04/23/69ea144c83785927522833.jpg",
-      "date": "2026-05-03T10:00:03+00:00",
       "date_formatted": "3 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -433,26 +493,6 @@
       "type": "science"
     },
     {
-      "title": "« La politique de santé sur l’endométriose ne peut se résumer à la mise à disposition d’un test »",
-      "desc": "Dans une tribune au « Monde », un collectif de médecins dénonce l’absence d’une stratégie nationale, finançant la recherche, la formation de soignants et un maillage territorial adapté à cette pathologie.",
-      "url": "https://www.lemonde.fr/idees/article/2026/04/28/la-politique-de-sante-sur-l-endometriose-ne-peut-se-resumer-a-la-mise-a-disposition-d-un-test_6683886_3232.html",
-      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
-      "date": "2026-04-28T08:59:50+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des chercheurs testent un chewing-gum capable de piéger des microbes impliqués dans le cancer",
-      "desc": "Le cancer de la bouche fait partie des maladies pour lesquelles la prévention reste un enjeu majeur. Malgré les progrès médicaux, les facteurs qui favorisent son apparition ou son aggravation continuent d’être activement étudiés. Une découverte de l'Université de Pennsylvanie, de l'Ucla, du...",
-      "url": "https://www.futura-sciences.com/sante/actualites/prevention-cancers-chercheurs-testent-chewing-gum-capable-pieger-microbes-impliques-cancer-134066/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/f/5/ff5d231981_50254456_chewing-gum-medical.jpg",
-      "date": "2026-04-28T07:08:11+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
       "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
       "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
@@ -489,16 +529,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb32eea7b28-vaccination.jpg",
       "date": "2026-04-24T09:26:26+00:00",
       "date_formatted": "24 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Contre le cancer du pancréas, des avancées enfin prometteuses",
-      "desc": "Après plusieurs décennies de stagnation, la recherche avance face au cancer du pancréas, l'un des plus meurtriers qui soient. Si l'on reste bien loin de pouvoir guérir la plupart des patients, ces pistes promettent de rajouter de précieux mois à leur existence.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/contre-le-cancer-du-pancreas-des-avancees-enfin-prometteuses_192063?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/23/cover-r4x3w1200-69e9dfc59130c-pancreas.jpg",
-      "date": "2026-04-23T09:09:27+00:00",
-      "date_formatted": "23 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
