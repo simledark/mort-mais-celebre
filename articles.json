@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-05-04T01:30:33.233331+00:00",
-  "count": 53,
+  "generated_at": "2026-05-04T08:13:55.908419+00:00",
+  "count": 44,
   "articles": [
+    {
+      "title": "Cancer du sein : combiner les traitements conventionnels aux médecines alternatives diminue les chances de survie",
+      "desc": "Des chercheurs ont analysé les choix thérapeutiques de patientes atteintes d’un cancer du sein et leurs effets sur l’évolution de la maladie. Le recours aux traitements non conventionnels pourrait nuire de façon significative au taux de survie.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-sein-combiner-traitements-conventionnels-medecines-alternatives-diminue-chances-survie-133460/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/9/5/295ccbdd42_50253505_4-cancer-sein.jpg",
+      "date": "2026-05-04T09:38:46+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Qu'est-ce que les hantavirus, ces infections transmises par des rongeurs à l’homme ?",
+      "desc": "Un foyer de syndrome respiratoire aigu s’est déclaré lors d’une croisière entre l’Argentine et le Cap-Vert. Trois passagers sont morts et plusieurs cas d’hantavirus sont suspectés.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/qu-est-ce-que-les-hantavirus-ces-infections-transmises-par-des-rongeurs-a-l-homme_7981958.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/YXEfFfHypMtVCDuIdxLRE9A46vQ/0x130:3307x1991/432x243/filters:format(jpg)/2026/05/04/69f836a516a06433578899.jpg",
+      "date": "2026-05-04T08:08:01+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Biologie médicale : Grosses perturbations dans les laboratoires en raison d’un appel à la grève",
+      "desc": "Les salariés des laboratoires de biologie médicale de ville sont appelés à la grève à partir de ce lundi pour dénoncer l’absence de revalorisation salariale et une dégradation des conditions de travail",
+      "url": "https://www.20minutes.fr/societe/4221711-20260504-biologie-medicale-grosses-perturbations-laboratoires-raison-appel-greve?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/5bfCvOejSHapYZn3zshgOyk/1200x768_france-plessis-robinson-14-novembre-2014-laboratoire-d-analyses-medicales-ferme-greve-photographie-de-magali-cohen-hans-lucas-france-plessis-robinson-14-novembre-fermeture-des-laboratoires-d-analyses-medicales-laboratoire-de-biologie-medicale-cerballiance-greve-photographie-par-magali-cohen-hans-lucas-photo-de-magali-cohen-hans-lucas-via-afp",
+      "date": "2026-05-04T06:52:40+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi les salariés des laboratoires de biologie médicale sont en grève lundi",
+      "desc": "Les organisations syndicales dénoncent notamment \"des charges de travail en hausse constante\", \"des mobilités imposées\" ou encore \"des suppressions de postes\".",
+      "url": "https://www.franceinfo.fr/sante/pourquoi-les-salaries-des-laboratoires-de-biologie-medicale-sont-en-greve-lundi_7980677.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/tqhqjudlqquxHFs2BA2qKCUA1uE/0x107:1024x683/432x243/filters:format(jpg)/2026/05/03/69f7706e8a59d830759928.jpg",
+      "date": "2026-05-04T06:24:52+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer : une étude conclut à l’absence d’effets « cliniquement significatifs » de nouveaux traitements",
+      "desc": "L’organisation indépendante Cochrane se montre sceptique dans une synthèse de 17 études sur l’utilité des médicaments ciblant les protéines amyloïdes dans le cerveau, rappelant qu’ils sont associés à un risque d’hémorragie. Mais des chercheurs jugent discutable d’avoir mis sur le même plan des trait",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/04/alzheimer-une-etude-conclut-a-l-absence-d-effets-cliniquement-significatifs-de-nouveaux-traitements_6685331_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/29/667/0/8000/4000/644/322/60/0/31f92ed_upload-1-xcpb3ya78bj8-000-346q7vp.jpg",
+      "date": "2026-05-04T06:00:08+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Faire du vélo permet-il d’augmenter son espérance de vie ?",
+      "desc": "Se déplacer en pédalant permet de pratiquer une activité physique régulière qui diminue nettement les risques de maladies cardiovasculaires et de cancer, selon l’Ademe, l’agence de transition écologique",
+      "url": "https://www.20minutes.fr/societe/4221233-20260504-faire-velo-permet-augmenter-esperance-vie?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/OS6fNVPBRaWDn3iI_LMUbSk/1200x768_un-homme-debout-a-cote-de-son-velo-regarde-le-coucher-de-soleil-sur-la-mer-mediterranee-a-marseille-dans-le-sud-de-la-france-le-8-novembre-2023-photo-de-nicolas-tucat-afp",
+      "date": "2026-05-04T05:02:36+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus, morts… Le point sur la croisière endeuillée par un drame sanitaire",
       "desc": "A la suite du décès de trois passagers, l’OMS s’inquiète d’un possible foyer hantavirus sur un bateau de croisière naviguant sur l’Atlantique",
@@ -30,36 +90,6 @@
       "date": "2026-05-03T18:33:43+00:00",
       "date_formatted": "3 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un foyer de syndrome respiratoire aigu fait deux morts sur un bateau de croisière dans l’Atlantique",
-      "desc": "Deux passagers du «MV Hondius», un petit navire de croisière, sont morts. Un troisième est en soins intensifs à Johannesburg, en Afrique du Sud.",
-      "url": "https://www.liberation.fr/international/afrique/un-foyer-de-syndrome-respiratoire-aigu-fait-deux-morts-sur-un-bateau-de-croisiere-dans-latlantique-20260503_JIKBMJTIUJH5JDWUMHKGUZOFEA/",
-      "image": null,
-      "date": "2026-05-03T17:15:25+00:00",
-      "date_formatted": "3 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Trois morts dans des attaques russes en Ukraine, deux morts dans des frappes ukrainiennes",
-      "desc": "L’Ukraine et la Russie se sont mutuellement attaquées ce dimanche 3 mai. Des attaques de drones russes ont fait trois morts en Ukraine, notamment dans la région portuaire d’Odessa.",
-      "url": "https://www.liberation.fr/international/europe/trois-morts-dans-des-attaques-russes-en-ukraine-deux-morts-dans-des-frappes-ukrainiennes-20260503_E6Z7HH4J6NFEPK4YW5OLZ3B4Z4/",
-      "image": null,
-      "date": "2026-05-03T14:25:19+00:00",
-      "date_formatted": "3 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«On est tellement différentes» : jumelles mais demi-sœurs, l’histoire rarissime que découvre l’Angleterre",
-      "desc": "Grâce à des tests génétiques, Michelle et Lavinia Osbourne ont découvert qu’elles avaient un père biologique différent. C’est le premier cas de ce genre au Royaume-Uni.",
-      "url": "https://www.liberation.fr/societe/familles/on-est-tellement-differentes-jumelles-mais-demi-soeurs-lhistoire-rarissime-que-decouvre-langleterre-20260503_DJEXPZR77ZHT7NDBO7ZAIBCK3M/",
-      "image": null,
-      "date": "2026-05-03T14:08:58+00:00",
-      "date_formatted": "3 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -111,16 +141,6 @@
       "date_formatted": "2 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Un traitement innovant contre le cancer du pancréas testé au CHU de Grenoble, une première en Europe",
-      "desc": "Ce traitement consiste en une radiothérapie ciblée qui va au plus près de la tumeur grâce à des bâtonnets radioactifs introduits dans l'abdomen du malade.",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancer-du-pancreas-pour-la-premiere-fois-en-europe-un-traitement-innovant-teste-sur-un-patient-au-chu-de-grenoble_7976750.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/PVHibOjqYHzV4nSmYk8Idm3_ucE/0x277:5337x3280/432x243/filters:format(jpg)/2026/05/01/69f4af0e28620084414692.jpg",
-      "date": "2026-05-02T06:40:06+00:00",
-      "date_formatted": "2 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "« Le mot cancer fait encore très peur », Yaël Braun-Pivet raconte son combat contre la maladie",
@@ -203,16 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "L'acteur Sam Neill annonce la rémission de son cancer après une thérapie génique",
-      "desc": "L'acteur a suivi une immunothérapie dite \"de cellules CAR-T\", qui utilise un virus inactivé pour reprogrammer génétiquement les globules T humains, leur permettant ainsi de cibler des cancers spécifiques.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/sam-neill-la-star-de-jurassic-park-annonce-la-remission-de-son-cancer-apres-une-therapie-genique_192239?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/29/cover-r4x3w1200-69f210e7b124b-afp-20250207-2198098103-v3-highres-2025aactaawardsceremonypresentedbyfoxtelgrou.jpg",
-      "date": "2026-04-29T14:08:40+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Anthrax du soudeur : ce cas presque mortel relance les inquiétudes autour d’une maladie encore mal comprise",
       "desc": "Un adolescent de 18 ans, soudeur apprenti en Louisiane, a failli mourir d'une maladie bactérienne rarissime en septembre 2024. Six des huit cas précédents ont été fatals. Ce syndrome mystérieux ne touche quasiment que les soudeurs et métallurgistes. Pourquoi eux, et pourquoi maintenant ?",
       "url": "https://www.futura-sciences.com/sante/actualites/bacteries-anthrax-soudeur-ce-cas-presque-mortel-relance-inquietudes-autour-maladie-encore-mal-comprise-k2m6-134082/#xtor%3DRSS-8",
@@ -263,46 +273,6 @@
       "type": "science"
     },
     {
-      "title": "Au Royaume-Uni, baisse de l'espérance de vie en bonne santé",
-      "desc": "Le Royaume-Uni a enregistré en une décennie une baisse de plus de deux ans de l'espérance de vie en bonne santé, désormais inférieure à 61 ans, ce qui le place à l'avant-dernier rang parmi les pays riches, selon une étude de l'organisation Health Foundation.",
-      "url": "https://www.sciencesetavenir.fr/sante/au-royaume-uni-baisse-de-l-esperance-de-vie-en-bonne-sante_192222?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/28/cover-r4x3w1200-69f0918cc4226-food-bank.jpg",
-      "date": "2026-04-28T13:44:54+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "L'OMS alerte sur la lenteur des progrès dans la lutte contre les virus de l'hépatite",
-      "desc": "Selon le rapport mondial de l'OMS sur l'hépatite 2026, la transmission des hépatites B et C se poursuit à un rythme soutenu.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-oms-alerte-sur-la-lenteur-des-progres-dans-la-lutte-contre-les-virus-de-l-hepatite_192221?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/28/cover-r4x3w1200-69f09155b9be0-f18b6d6f1baf235cebeb01110fe4cb74979b2f21-jpg.jpg",
-      "date": "2026-04-28T13:07:35+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Décès, infections, gaspillage... La Cour des comptes épingle la qualité des soins dans les établissements de santé",
-      "desc": "La Cour des comptes alerte sur la qualité des soins en France, un « enjeu majeur » avec plus de 11 milliards d’euros de coûts liés aux préjudices évitables et au moins 4.000 décès par an dus aux maladies nosocomiales",
-      "url": "https://www.20minutes.fr/sante/4220800-20260428-deces-infections-gaspillage-cour-comptes-epingle-qualite-soins-etablissements-sante?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/59kIAMTLTuioI-MAXAM2Sik/1200x768_photo-illustration-des-urgences-dans-un-centre-hospitalier-illustration-photographique-de-la-salle-d-urgence-d-un-centre-hospitalier-greuezfrancois-sipa-00798-credit-francois-greuez-sipa-2501311300",
-      "date": "2026-04-28T10:25:50+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Semaine cruciale de négociations à l'OMS sur les vaccins et pathogènes",
-      "desc": "Les Etats membres de l'OMS doivent s'entendre sur un système visant à organiser le partage rapide et équitable des agents pathogènes, de leurs données génétiques et des produits de santé.",
-      "url": "https://www.sciencesetavenir.fr/sante/semaine-cruciale-de-negociations-a-l-oms-sur-les-vaccins-et-pathogenes_192190?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/27/cover-r4x3w1200-69eed1ad3408c-cf883123b63299fb250b91627ed20e7494fcf288-jpg.jpg",
-      "date": "2026-04-28T09:38:34+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "« La politique de santé sur l’endométriose ne peut se résumer à la mise à disposition d’un test »",
       "desc": "Dans une tribune au « Monde », un collectif de médecins dénonce l’absence d’une stratégie nationale, finançant la recherche, la formation de soignants et un maillage territorial adapté à cette pathologie.",
       "url": "https://www.lemonde.fr/idees/article/2026/04/28/la-politique-de-sante-sur-l-endometriose-ne-peut-se-resumer-a-la-mise-a-disposition-d-un-test_6683886_3232.html",
@@ -321,16 +291,6 @@
       "date_formatted": "28 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Stress, harcèlement… Les risques psychosociaux sèment la mort chez les travailleurs",
-      "desc": "Selon l’OIT, les facteurs de risques psychosociaux liés au travail entraînent dans le monde « environ 840.000 décès annuels imputables à des maladies cardiovasculaires ou à des troubles mentaux »",
-      "url": "https://www.20minutes.fr/economie/4220734-20260428-stress-harcelement-risques-psychosociaux-sement-mort-chez-travailleurs?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/jJpK68O5TXeIGQmCydM6WSk/1200x768_homme-d-age-moyen-bouleverse-et-fatigue-avec-un-ordinateur-portable-en-bas-de-la-tete-ibxaii09325947-imagebroker-com-aleksei-isachenko-sipa-2306211641",
-      "date": "2026-04-28T06:44:08+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
@@ -353,26 +313,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée",
-      "desc": "Et si les objets les plus banals de votre quotidien – emballages, cosmétiques, sols en PVC – jouaient un rôle silencieux dans le développement du cancer du sein ? Une étude de long terme relance l’inquiétude autour des phtalates, ces substances omniprésentes capables d’interférer avec nos...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-chez-moins-50-ans-responsabilite-phtalates-confirmee-133964/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/b/1/2b1863c996_50254323_5-cancer-sein.jpg",
-      "date": "2026-04-26T17:08:23+00:00",
-      "date_formatted": "26 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cancer : pourquoi les tumeurs du coeur sont-elles si rares ?",
-      "desc": "Les tumeurs du coeur font partie des tumeurs les plus rares au monde. Pour comprendre ce qui protège cet organe, une équipe a mis le doigt sur un mécanisme clé. Plus qu'un mouvement mécanique, c'est toute une cascade biologique qui entre en jeu.",
-      "url": "https://www.sciencesetavenir.fr/sante/coeur-et-cardio/cancer-pourquoi-les-tumeurs-du-coeur-sont-elles-si-rares_192175?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb6f5dd4a86-afp-20240403-f0423593-v1-highres-humanheartvolumeandbloodsupplyillustration.jpg",
-      "date": "2026-04-24T14:03:46+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
       "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
       "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
@@ -380,26 +320,6 @@
       "date": "2026-04-24T10:30:35+00:00",
       "date_formatted": "24 April 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "L'OMS salue les résultats de sa campagne de \"grand rattrapage\" de vaccination des enfants",
-      "desc": "La pandémie de Covid-19 a profondément ébranlé les systèmes de santé et bouleversé les campagnes de vaccination à travers le monde. Résultat : des maladies contagieuses comme la rougeole ont connu un rebond inquiétant. Face à cette situation, l’OMS, l’Unicef et Gavi — l’alliance internationale pour ",
-      "url": "https://www.sciencesetavenir.fr/sante/l-oms-salue-les-resultats-de-sa-campagne-de-grand-rattrapage-de-vaccination-des-enfants_192164?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb32eea7b28-vaccination.jpg",
-      "date": "2026-04-24T09:26:26+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Contre le cancer du pancréas, des avancées enfin prometteuses",
-      "desc": "Après plusieurs décennies de stagnation, la recherche avance face au cancer du pancréas, l'un des plus meurtriers qui soient. Si l'on reste bien loin de pouvoir guérir la plupart des patients, ces pistes promettent de rajouter de précieux mois à leur existence.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/contre-le-cancer-du-pancreas-des-avancees-enfin-prometteuses_192063?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/23/cover-r4x3w1200-69e9dfc59130c-pancreas.jpg",
-      "date": "2026-04-23T09:09:27+00:00",
-      "date_formatted": "23 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -519,16 +439,6 @@
       "image": null,
       "date": "2026-03-03T09:47:33+00:00",
       "date_formatted": "3 March 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Quand les apnées du sommeil mettent le métabolisme en décalage horaire",
-      "desc": "Les apnées du sommeil touchent près d’un milliard de personnes dans le monde et provoquent des épisodes répétés de manque d’oxygène pendant la nuit appelés hypoxie intermittente. Une étude menée par des scientifiques de l’Université Grenoble Alpes, de l’Inserm et du CHU Grenoble Alpes montre que ces",
-      "url": "https://presse.inserm.fr/quand-les-apnees-du-sommeil-mettent-le-metabolisme-en-decalage-horaire/72163/",
-      "image": null,
-      "date": "2026-02-25T19:00:07+00:00",
-      "date_formatted": "25 February 2026",
       "source": "Inserm",
       "type": "science"
     }
