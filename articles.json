@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-05-04T08:13:55.908419+00:00",
-  "count": 44,
+  "generated_at": "2026-05-04T13:18:33.174817+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title": "Foyer présumé de hantavirus sur un navire de croisière : le Cap-Vert refuse le débarquement des passagers, les Canaries « envisagées » par l’opérateur",
+      "desc": "Face à la menace d’un foyer de hantavirus à bord, les autorités cap-verdiennes renforcent les mesures sanitaires. Selon l’OMS, l’épisode de hantavirus présente un « faible risque » de propagation.",
+      "url": "https://www.lemonde.fr/sante/article/2026/05/04/foyer-presume-de-hantavirus-sur-un-navire-de-croisiere-le-cap-vert-refuse-le-debarquement-des-passagers_6685381_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/03/461/0/3600/1800/644/322/60/0/d60412b_ftp-1-h9nppj9x03x7-5935115-01-06.jpg",
+      "date": "2026-05-04T14:46:24+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : pourquoi les 6 cas graves et décès sur le même navire intriguent autant les chercheurs",
+      "desc": "En quelques jours, un couple de passagers britanniques a été frappé de plein fouet, suivi de quatre autres croisiéristes présentant les mêmes symptômes respiratoires sévères. Sur ce foyer mortel observé à bord du MV Hondius, un seul cas de hantavirus est confirmé à ce stade, mais cela suffit...",
+      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-6-cas-graves-deces-meme-navire-intriguent-autant-chercheurs-134228/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/3/f/43fb25fa54_50254725_hantavirus-rongeur.jpg",
+      "date": "2026-05-04T14:03:57+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Trois morts, un possible foyer de hantavirus, un \"faible risque\" de propagation... Ce que l'on sait de la situation à bord du bateau de croisière \"MV Hondius\"",
+      "desc": "Parti d'Ushuaïa, dans le sud de l'Argentine, il y a trois semaines, le navire stationnait toujours dimanche soir au large du Cap-Vert. Quelque 150 touristes se trouvent à bord.",
+      "url": "https://www.franceinfo.fr/sante/maladie/trois-morts-un-possible-foyer-de-hantavirus-un-navire-bloque-en-afrique-ce-que-l-on-sait-de-la-situation-a-bord-du-bateau-de-croisiere-mv-hondius_7981994.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/iWg2YOnLKSXRycNEF8U7nePt7Oo/0x73:1024x649/432x243/filters:format(jpg)/2026/05/04/69f846c5311a7845869265.jpg",
+      "date": "2026-05-04T14:00:03+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Trois morts sur un bateau de croisière : un hantavirus est-il responsable de la contamination des passagers ?",
+      "desc": "Une croisière a viré au drame au large du Cap-Vert. Trois passagers d'un navire sont décédés après l'apparition d'un foyer de syndrome respiratoire aigu. Un couple de retraités figure parmi les victimes et cinq ressortissants français se trouveraient à bord. Retour sur les détails du drame.",
+      "url": "https://www.franceinfo.fr/sante/trois-morts-sur-un-bateau-de-croisiere-un-hantavirus-est-il-responsable-de-la-contamination-des-passagers_7982444.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/EhW81qsFz4e5l7oDMX-wB8_GNRU/68x0:1462x784/432x243/filters:format(jpg)/2026/05/04/69f8883cdc4df164456721.jpg",
+      "date": "2026-05-04T13:53:31+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Risques, transmission, traitement… Trois questions à un infectiologue pour comprendre les hantavirus",
+      "desc": "L'Organisation mondiale de la santé soupçonne une contamination par hantavirus après le décès de trois passagers lors d'une croisière transatlantique. \"Tout un tas de petits rongeurs peuvent les transmettre\", souligne l'infectiologue Gilles Pialoux.",
+      "url": "https://www.franceinfo.fr/sante/maladie/risques-transmission-traitement-trois-questions-a-un-infectiologue-pour-comprendre-les-hantavirus_7982144.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/tAMNLR0XrTVVlNY5bJAAgRQnHEU/0x199:3837x2358/432x243/filters:format(jpg)/2026/05/04/69f877065c1a6104033537.jpg",
+      "date": "2026-05-04T13:28:29+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cinq Français à bord du navire de croisière soupçonné d'abriter un foyer d'hantavirus, selon le ministère de la Santé",
+      "desc": "Un foyer de syndrome respiratoire aigu s’est déclaré lors d’une croisière entre l’Argentine et le Cap-Vert. Trois passagers sont morts et plusieurs cas d’hantavirus sont suspectés.",
+      "url": "https://www.franceinfo.fr/sante/maladie/cinq-francais-a-bord-du-navire-de-croisiere-soupconne-d-abriter-un-foyer-d-hantavirus-selon-le-ministere-de-la-sante_7982393.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/BTggzaxNmjs8G0HcOLuVyqpF58I/0x53:1024x629/432x243/filters:format(jpg)/2026/05/04/69f87a7f94bf8245156855.jpg",
+      "date": "2026-05-04T12:55:44+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Trois morts liés à un possible foyer de hantavirus sur un bateau de croisière dans l'Atlantique",
+      "desc": "L’Organisation mondiale de la santé (OMS) a annoncé le 3 mai 2026 trois décès potentiellement liés à un foyer d’infection à hantavirus, une maladie susceptible d’entraîner un syndrome respiratoire aigu, survenu à bord d’un navire de croisière dans l’Atlantique.",
+      "url": "https://www.sciencesetavenir.fr/sante/trois-morts-lies-a-un-possible-foyer-de-hantavirus-sur-un-bateau-de-croisiere-dans-l-atlantique_192299?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f8730141eeb-croisiere.jpg",
+      "date": "2026-05-04T12:04:33+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Foyer d’hantavirus sur un paquebot : Pour l’OMS, il n’y a aucune raison de céder à la panique",
+      "desc": "Trois passagers - un couple néerlandais et une troisième victime de nationalité inconnue - sont décédés à bord du bateau de croisière néerlandais « MV Hondius » lors d’une traversée d’Ushuaïa au Cap-Vert. Trois autres sont dans un état grave",
+      "url": "https://www.20minutes.fr/sante/4221766-20260504-foyer-hantavirus-paquebot-oms-aucune-raison-ceder-panique?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/IxyoOUQnQBCPZ5i53b0V7ik/1200x768_a-general-view-of-the-cruise-ship-mv-hondius-stationary-off-the-port-of-praia-the-capital-of-cape-verde-on-may-3-2026-an-outbreak-of-severe-acute-respiratory-illness-on-board-a-cruise-ship-in-the-atlantic-has-left-two-people-dead-and-a-third-in-intensive-care-in-johannesburg-south-africa-s-health-ministry-told-afp-on-may-3-2026-the-outbreak-occurred-on-the-mv-hondius-travelling-from-ushuaia-in-argentina-to-cape-verde-the-patient-being-treated-in-johannesburg-tested-positive-for-a-hantavirus-a-family-of-viruses-that-can-cause-hemorrhagic-fever-south-african-spokesperson-foster-mohale-said",
+      "date": "2026-05-04T11:39:46+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les laboratoires de biologie médicale de ville en grève ce lundi",
+      "desc": "Les syndicats de salariés ont lancé un mouvement, ce lundi 4 mai, pour dénoncer la dégradation des conditions de travail et les bas salaires qui frappent les laboratoires rachetés par les grands acteurs privés.",
+      "url": "https://www.liberation.fr/societe/sante/les-laboratoires-de-biologie-medicale-de-ville-en-greve-ce-lundi-20260504_NZ6JWH3LFNGCVFRRBLW4NA4YG4/",
+      "image": null,
+      "date": "2026-05-04T11:15:15+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ce qu’il faut savoir sur les hantavirus : origine, moyens de transmission, symptômes potentiels…",
+      "desc": "L’OMS a fait état dimanche de trois morts liés à un possible foyer d’infection à hantavirus sur un bateau de croisière, le « Hondius », dans l’Atlantique. Lorsqu’ils affectent l’être humain, les hantavirus peuvent être responsables d’infections, de gravité variable, parfois mortelles.",
+      "url": "https://www.lemonde.fr/sante/article/2026/05/04/ce-qu-il-faut-savoir-sur-les-hantavirus-origine-moyens-de-transmission-symptomes-potentiels_6685359_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/04/0/0/3045/1522/644/322/60/0/c814adf_upload-1-df6b3dxzzjmq-2017-07-06t234315z-70732478-rc1d8ffafa10-rtrmadp-3-washington-hantavirus.JPG",
+      "date": "2026-05-04T10:31:28+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le lipœdème, la \"maladie des jambes poteaux\", toucherait une femme sur dix",
+      "desc": "Le lipœdème est une maladie chronique encore sous-diagnostiquée, marquée par une accumulation symétrique de graisse, surtout au niveau des jambes, souvent associée à un risque accru de bleus et d’hématomes. Reconnu depuis 2018, il reste pourtant sans prise en charge spécifique.",
+      "url": "https://www.sciencesetavenir.fr/sante/le-lipoedeme-la-maladie-des-jambes-poteaux-toucherait-une-femme-sur-dix_192297?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f86ebbb36ba-lipo.jpg",
+      "date": "2026-05-04T10:26:04+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Cancer du sein : combiner les traitements conventionnels aux médecines alternatives diminue les chances de survie",
       "desc": "Des chercheurs ont analysé les choix thérapeutiques de patientes atteintes d’un cancer du sein et leurs effets sur l’évolution de la maladie. Le recours aux traitements non conventionnels pourrait nuire de façon significative au taux de survie.",
@@ -11,6 +121,36 @@
       "date_formatted": "4 May 2026",
       "source": "Futura Santé",
       "type": "science"
+    },
+    {
+      "title": "Trois morts et des passagers malades… ce que l’on sait du foyer de hantavirus détecté à bord du navire «MV Hondius» dans l’Atlantique",
+      "desc": "Plusieurs croisiéristes semblent victimes du syndrome respiratoire aigu à bord d’un petit bateau de croisière néerlandais actuellement au large de Praia, la capitale du Cap-Vert.",
+      "url": "https://www.liberation.fr/international/afrique/un-foyer-de-syndrome-respiratoire-aigu-fait-deux-morts-sur-un-bateau-de-croisiere-dans-latlantique-20260503_JIKBMJTIUJH5JDWUMHKGUZOFEA/",
+      "image": null,
+      "date": "2026-05-04T09:34:16+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Devenir adulte, «c’est avoir une vie qui nous plaît»",
+      "desc": "La sociologue Sandra Gaviria rappelle que le passage à l’âge adulte est un processus très variable en fonction des parcours personnels.",
+      "url": "https://www.liberation.fr/lifestyle/intimites/devenir-adulte-cest-avoir-une-vie-qui-nous-plait-20260504_P4NEWAPAMZAYVKCPQ2QHGHKBNU/",
+      "image": null,
+      "date": "2026-05-04T08:53:29+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Morts sur un bateau de croisière : Que sait-on sur les hantavirus ?",
+      "desc": "Les hantavirus sont transmis à l’être humain par des rongeurs infectés et la contamination humaine se fait généralement par inhalation de poussières et aérosols",
+      "url": "https://www.20minutes.fr/sante/4221715-20260504-morts-bateau-croisiere-sait-hantavirus?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/YMTI9FwfTBSB9awHR5k6FSk/1200x768_illustration-de-rats-dans-la-ville-a-cote-de-la-cathedrale-notre-dame-de-paris-paris-france-10-2017-houplinerenard-1446003-credit-houpline-renard-sipa-1710061450",
+      "date": "2026-05-04T08:52:22+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
     },
     {
       "title": "Qu'est-ce que les hantavirus, ces infections transmises par des rongeurs à l’homme ?",
@@ -83,7 +223,7 @@
       "type": "presse"
     },
     {
-      "title": "Un foyer de syndrome respiratoire aigu s’est déclaré à bord du bateau de croisière « MV Hondius », trois personnes sont mortes",
+      "title": "Un foyer de syndrome respiratoire aigu s’est déclaré à bord du bateau de croisière MV « Hondius », trois personnes sont mortes",
       "desc": "« A ce jour, un cas d’infection à hantavirus a été confirmé en laboratoire, et cinq autres cas sont suspectés. Sur les six personnes touchées, trois sont mortes et une se trouve actuellement en soins intensifs en Afrique du Sud », a fait savoir l’Organisation mondiale de la santé.",
       "url": "https://www.lemonde.fr/planete/article/2026/05/03/un-foyer-de-syndrome-respiratoire-aigu-s-est-declare-a-bord-du-bateau-de-croisiere-mv-hondius-deux-personnes-sont-mortes-et-une-troisieme-est-en-soins-intensifs_6685243_3244.html",
       "image": "https://img.lemde.fr/2026/05/03/85/0/1023/511/644/322/60/0/0943e07_upload-1-tgzwnxe57fi4-january-2020home-hondius-mvhondius-globetrotmatt.jpg",
@@ -109,26 +249,6 @@
       "image": "https://www.franceinfo.fr/pictures/7Tl8hbz8kLhXttnnuARlBZUVUL0/0x110:2121x1304/432x243/filters:format(jpg)/2026/04/23/69ea144c83785927522833.jpg",
       "date": "2026-05-03T10:00:03+00:00",
       "date_formatted": "3 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer du pancréas : un traitement innovant redonne espoir au corps médical",
-      "desc": "Le CHU de Grenoble (Isère) a été le théâtre d'une première européenne avec l'utilisation d'une radiothérapie ciblée allant au plus près de la tumeur grâce à des bâtonnets radioactifs. Cela pourrait grandement faire avancer la recherche contre le cancer du pancréas.",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancer-du-pancreas-un-traitement-innovant-redonne-espoir-au-corps-medical_7980212.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/x266OVAt-jPaSmRZeI5IkNT1tB4/21x0:1510x838/432x243/filters:format(jpg)/2026/05/03/69f6efb045af0957331982.jpg",
-      "date": "2026-05-03T08:49:55+00:00",
-      "date_formatted": "3 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Petits pots pour bébés de marque Hipp empoisonnés : un suspect a été arrêté en Autriche",
-      "desc": "L'individu de 39 ans est suspecté d'avoir contaminé des pots pour bébés avec de la mort-aux-rats. Les autorités enquêtent également dans cette affaire sur des soupçons de tentative d'extorsion visant le fabricant Hipp.",
-      "url": "https://www.franceinfo.fr/sante/petits-pots-pour-bebes-de-marque-hipp-empoisonnes-un-suspect-a-ete-arrete-en-autriche_7978976.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Ce0MpYdYELIMPcHRfvrMM89hs7o/0x53:1024x629/432x243/filters:format(jpg)/2026/05/02/69f6487e047c2886979208.jpg",
-      "date": "2026-05-02T20:56:13+00:00",
-      "date_formatted": "2 May 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
@@ -223,6 +343,16 @@
       "type": "presse"
     },
     {
+      "title": "L'acteur Sam Neill annonce la rémission de son cancer après une thérapie génique",
+      "desc": "L'acteur a suivi une immunothérapie dite \"de cellules CAR-T\", qui utilise un virus inactivé pour reprogrammer génétiquement les globules T humains, leur permettant ainsi de cibler des cancers spécifiques.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/sam-neill-la-star-de-jurassic-park-annonce-la-remission-de-son-cancer-apres-une-therapie-genique_192239?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/29/cover-r4x3w1200-69f210e7b124b-afp-20250207-2198098103-v3-highres-2025aactaawardsceremonypresentedbyfoxtelgrou.jpg",
+      "date": "2026-04-29T14:08:40+00:00",
+      "date_formatted": "29 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
       "title": "Anthrax du soudeur : ce cas presque mortel relance les inquiétudes autour d’une maladie encore mal comprise",
       "desc": "Un adolescent de 18 ans, soudeur apprenti en Louisiane, a failli mourir d'une maladie bactérienne rarissime en septembre 2024. Six des huit cas précédents ont été fatals. Ce syndrome mystérieux ne touche quasiment que les soudeurs et métallurgistes. Pourquoi eux, et pourquoi maintenant ?",
       "url": "https://www.futura-sciences.com/sante/actualites/bacteries-anthrax-soudeur-ce-cas-presque-mortel-relance-inquietudes-autour-maladie-encore-mal-comprise-k2m6-134082/#xtor%3DRSS-8",
@@ -273,6 +403,36 @@
       "type": "science"
     },
     {
+      "title": "Au Royaume-Uni, baisse de l'espérance de vie en bonne santé",
+      "desc": "Le Royaume-Uni a enregistré en une décennie une baisse de plus de deux ans de l'espérance de vie en bonne santé, désormais inférieure à 61 ans, ce qui le place à l'avant-dernier rang parmi les pays riches, selon une étude de l'organisation Health Foundation.",
+      "url": "https://www.sciencesetavenir.fr/sante/au-royaume-uni-baisse-de-l-esperance-de-vie-en-bonne-sante_192222?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/28/cover-r4x3w1200-69f0918cc4226-food-bank.jpg",
+      "date": "2026-04-28T13:44:54+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "L'OMS alerte sur la lenteur des progrès dans la lutte contre les virus de l'hépatite",
+      "desc": "Selon le rapport mondial de l'OMS sur l'hépatite 2026, la transmission des hépatites B et C se poursuit à un rythme soutenu.",
+      "url": "https://www.sciencesetavenir.fr/sante/l-oms-alerte-sur-la-lenteur-des-progres-dans-la-lutte-contre-les-virus-de-l-hepatite_192221?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/28/cover-r4x3w1200-69f09155b9be0-f18b6d6f1baf235cebeb01110fe4cb74979b2f21-jpg.jpg",
+      "date": "2026-04-28T13:07:35+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Semaine cruciale de négociations à l'OMS sur les vaccins et pathogènes",
+      "desc": "Les Etats membres de l'OMS doivent s'entendre sur un système visant à organiser le partage rapide et équitable des agents pathogènes, de leurs données génétiques et des produits de santé.",
+      "url": "https://www.sciencesetavenir.fr/sante/semaine-cruciale-de-negociations-a-l-oms-sur-les-vaccins-et-pathogenes_192190?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/27/cover-r4x3w1200-69eed1ad3408c-cf883123b63299fb250b91627ed20e7494fcf288-jpg.jpg",
+      "date": "2026-04-28T09:38:34+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
       "title": "« La politique de santé sur l’endométriose ne peut se résumer à la mise à disposition d’un test »",
       "desc": "Dans une tribune au « Monde », un collectif de médecins dénonce l’absence d’une stratégie nationale, finançant la recherche, la formation de soignants et un maillage territorial adapté à cette pathologie.",
       "url": "https://www.lemonde.fr/idees/article/2026/04/28/la-politique-de-sante-sur-l-endometriose-ne-peut-se-resumer-a-la-mise-a-disposition-d-un-test_6683886_3232.html",
@@ -303,13 +463,13 @@
       "type": "science"
     },
     {
-      "title": "Faut‑il absolument opter pour des tripeptides de collagène ? Spoiler : pas vraiment",
-      "desc": "Présentés sous la forme de collagène la plus hautement assimilable et la plus rapidement absorbable, les tripeptides de collagène séduisent. Mais cette promesse s’appuie-t-elle sur des preuves scientifiques ou sur un argument marketing ? Décryptage.",
-      "url": "https://www.futura-sciences.com/sante/actualites/complement-alimentaire-faut-il-absolument-opter-tripeptides-collagene-spoiler-pas-vraiment-133369/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/2/f/62f298a9cd_50253346_greenwhey-article-5.jpg",
-      "date": "2026-04-27T10:30:00+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Futura Santé",
+      "title": "Cancer : pourquoi les tumeurs du coeur sont-elles si rares ?",
+      "desc": "Les tumeurs du coeur font partie des tumeurs les plus rares au monde. Pour comprendre ce qui protège cet organe, une équipe a mis le doigt sur un mécanisme clé. Plus qu'un mouvement mécanique, c'est toute une cascade biologique qui entre en jeu.",
+      "url": "https://www.sciencesetavenir.fr/sante/coeur-et-cardio/cancer-pourquoi-les-tumeurs-du-coeur-sont-elles-si-rares_192175?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb6f5dd4a86-afp-20240403-f0423593-v1-highres-humanheartvolumeandbloodsupplyillustration.jpg",
+      "date": "2026-04-24T14:03:46+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -320,6 +480,26 @@
       "date": "2026-04-24T10:30:35+00:00",
       "date_formatted": "24 April 2026",
       "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "L'OMS salue les résultats de sa campagne de \"grand rattrapage\" de vaccination des enfants",
+      "desc": "La pandémie de Covid-19 a profondément ébranlé les systèmes de santé et bouleversé les campagnes de vaccination à travers le monde. Résultat : des maladies contagieuses comme la rougeole ont connu un rebond inquiétant. Face à cette situation, l’OMS, l’Unicef et Gavi — l’alliance internationale pour ",
+      "url": "https://www.sciencesetavenir.fr/sante/l-oms-salue-les-resultats-de-sa-campagne-de-grand-rattrapage-de-vaccination-des-enfants_192164?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb32eea7b28-vaccination.jpg",
+      "date": "2026-04-24T09:26:26+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Contre le cancer du pancréas, des avancées enfin prometteuses",
+      "desc": "Après plusieurs décennies de stagnation, la recherche avance face au cancer du pancréas, l'un des plus meurtriers qui soient. Si l'on reste bien loin de pouvoir guérir la plupart des patients, ces pistes promettent de rajouter de précieux mois à leur existence.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/contre-le-cancer-du-pancreas-des-avancees-enfin-prometteuses_192063?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/23/cover-r4x3w1200-69e9dfc59130c-pancreas.jpg",
+      "date": "2026-04-23T09:09:27+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
