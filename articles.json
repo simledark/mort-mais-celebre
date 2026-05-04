@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-03T18:40:46.672284+00:00",
-  "count": 54,
+  "generated_at": "2026-05-04T01:30:33.233331+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Hantavirus, morts… Le point sur la croisière endeuillée par un drame sanitaire",
+      "desc": "A la suite du décès de trois passagers, l’OMS s’inquiète d’un possible foyer hantavirus sur un bateau de croisière naviguant sur l’Atlantique",
+      "url": "https://www.20minutes.fr/faits_divers/4221563-20260504-hantavirus-morts-point-croisiere-endeuillee-drame-sanitaire?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/IxyoOUQnQBCPZ5i53b0V7ik/1200x768_a-general-view-of-the-cruise-ship-mv-hondius-stationary-off-the-port-of-praia-the-capital-of-cape-verde-on-may-3-2026-an-outbreak-of-severe-acute-respiratory-illness-on-board-a-cruise-ship-in-the-atlantic-has-left-two-people-dead-and-a-third-in-intensive-care-in-johannesburg-south-africa-s-health-ministry-told-afp-on-may-3-2026-the-outbreak-occurred-on-the-mv-hondius-travelling-from-ushuaia-in-argentina-to-cape-verde-the-patient-being-treated-in-johannesburg-tested-positive-for-a-hantavirus-a-family-of-viruses-that-can-cause-hemorrhagic-fever-south-african-spokesperson-foster-mohale-said",
+      "date": "2026-05-04T01:15:01+00:00",
+      "date_formatted": "4 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Un foyer de syndrome respiratoire aigu provoque trois morts sur un bateau de croisière dans l'Atlantique, selon l'OMS",
       "desc": "Un passager a également été hospitalisé à Johannesburg. Il a été testé positif à un hantavirus, une famille de virus qui peuvent provoquer une fièvre hémorragique, selon le département sud-africain de la Santé.",
@@ -14,7 +24,7 @@
     },
     {
       "title": "Un foyer de syndrome respiratoire aigu s’est déclaré à bord du bateau de croisière « MV Hondius », trois personnes sont mortes",
-      "desc": "« A ce jour, un cas d’infection à hantavirus a été confirmé en laboratoire, et cinq autres cas sont suspectés. Sur les six personnes touchées, trois sont mortes et une se trouve actuellement en soins intensifs en Afrique du Sud », a fait savoir l’Organisation mondiale de la santé à l’Agence France-P",
+      "desc": "« A ce jour, un cas d’infection à hantavirus a été confirmé en laboratoire, et cinq autres cas sont suspectés. Sur les six personnes touchées, trois sont mortes et une se trouve actuellement en soins intensifs en Afrique du Sud », a fait savoir l’Organisation mondiale de la santé.",
       "url": "https://www.lemonde.fr/planete/article/2026/05/03/un-foyer-de-syndrome-respiratoire-aigu-s-est-declare-a-bord-du-bateau-de-croisiere-mv-hondius-deux-personnes-sont-mortes-et-une-troisieme-est-en-soins-intensifs_6685243_3244.html",
       "image": "https://img.lemde.fr/2026/05/03/85/0/1023/511/644/322/60/0/0943e07_upload-1-tgzwnxe57fi4-january-2020home-hondius-mvhondius-globetrotmatt.jpg",
       "date": "2026-05-03T18:33:43+00:00",
@@ -60,16 +70,6 @@
       "date": "2026-05-03T14:02:47+00:00",
       "date_formatted": "3 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Raphaël Glucksmann, François Ruffin : aller dans le sens du vent, c’est le destin des feuilles mortes»",
-      "desc": "Que ce soit sur le temps de travail ou l’immigration, le député européen et celui de la Somme ont employé, ces derniers jours, des expressions qui nuisent à la crédibilité du combat pour la gauche, estime le député des Yvelines Benjamin Lucas.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/raphael-glucksmann-francois-ruffin-aller-dans-le-sens-du-vent-cest-le-destin-des-feuilles-mortes-20260503_S76Z2QX7AJA2BHI4DDBRSQ52BM/",
-      "image": null,
-      "date": "2026-05-03T12:00:00+00:00",
-      "date_formatted": "3 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -361,16 +361,6 @@
       "date_formatted": "26 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "PMA : l’autorisation du diagnostic préimplantatoire des embryons en France de nouveau interrogée",
-      "desc": "Dans le cadre des Etats généraux de la bioéthique, la question du recours à la technique génétique visant à écarter les embryons non viables pour améliorer les parcours de procréation médicalement assistée revient dans le débat. Toujours aussi clivante.",
-      "url": "https://www.lemonde.fr/societe/article/2026/04/26/pma-l-autorisation-du-diagnostic-preimplantatoire-des-embryons-en-france-de-nouveau-interrogee_6683440_3224.html",
-      "image": "https://img.lemde.fr/2026/04/24/186/0/5568/2784/644/322/60/0/014b04f_upload-1-zp641zcmbxb4-000-32m48p2.jpg",
-      "date": "2026-04-26T07:30:02+00:00",
-      "date_formatted": "26 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer : pourquoi les tumeurs du coeur sont-elles si rares ?",
