@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-05-05T01:30:16.206167+00:00",
-  "count": 65,
+  "generated_at": "2026-05-05T07:51:29.652198+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title": "Hantavirus : les images du MV « Hondius », ce bateau de croisière de luxe devenu un foyer d’infection",
+      "desc": "Les 149 passagers et membres d’équipage d’un bateau de croisière, suspecté d’être un foyer d’infection à hantavirus, demeurent coincés à bord dans l’incertitude au large du Cap-Vert lundi soir, dans l’attente d’un lieu où pouvoir débarquer.",
+      "url": "https://www.lemonde.fr/videos/video/2026/05/05/un-foyer-de-hantavirus-presume-sur-un-bateau-de-croisiere-arrive-pres-du-cap-vert_6685555_1669088.html",
+      "image": "https://img.lemde.fr/2026/05/05/350/0/4197/2098/644/322/60/0/ecfb9dd_ftp-1-qgdnyrb8kyv6-5948357-01-06.jpg",
+      "date": "2026-05-05T09:06:33+00:00",
+      "date_formatted": "5 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi le cœur est presque totalement épargné par le cancer grâce à ses battements ?",
+      "desc": "Alors que le cancer touche des millions de personnes, le cœur reste un organe très rarement atteint. Une étude récente met en lumière les mécanismes biologiques qui expliquent cette exception.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/pourquoi-le-c-ur-est-presque-totalement-epargne-par-le-cancer-grace-a-ses-battements_7984256.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/s5mKtdc_snr9uCV2WWNVJLqFW1w/0x64:1239x761/432x243/filters:format(jpg)/2026/05/05/69f985364ff22961301721.jpg",
+      "date": "2026-05-05T08:00:19+00:00",
+      "date_formatted": "5 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Virus m0rtel : 149 passagers bloqués sur un navire de croisière",
+      "desc": "Quel est ce mystérieux virus qui a fait 3 morts sur un bateau de croisière dans l'Atlantique au large du Cap Vert ? Des décès qui pourraient être liés à un foyer d'hantavirus, une maladie propagée par des rongeurs... Près de 150 personnes sont actuellement à bord dont 5 Français... ils pourraient dé",
+      "url": "https://www.franceinfo.fr/sante/maladie/virus-m0rtel-149-passagers-bloques-sur-un-navire-de-croisiere_7983035.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/-kVZRp-aCTFecwzXUl4yvuj6M7A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/04/69f8eb463e487181939415.png",
+      "date": "2026-05-05T08:00:02+00:00",
+      "date_formatted": "5 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Risques, transmission, traitement… Trois questions à un infectiologue pour comprendre les hantavirus",
+      "desc": "L'Organisation mondiale de la santé soupçonne une contamination par hantavirus après le décès de trois passagers lors d'une croisière transatlantique. \"Tout un tas de petits rongeurs peuvent les transmettre\", souligne l'infectiologue Gilles Pialoux.",
+      "url": "https://www.franceinfo.fr/sante/maladie/risques-transmission-traitement-trois-questions-a-un-infectiologue-pour-comprendre-les-hantavirus_7982144.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/tAMNLR0XrTVVlNY5bJAAgRQnHEU/0x199:3837x2358/432x243/filters:format(jpg)/2026/05/04/69f877065c1a6104033537.jpg",
+      "date": "2026-05-05T07:49:59+00:00",
+      "date_formatted": "5 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le jour où je suis devenue adulte : «Mon petit monde s’écroule à la mort de mon père»",
+      "desc": "La fin de l’enfance est souvent un grand saut dans l’inconnu. Dans le deuxième épisode de notre série, Felicia, 26 ans, décrit sa nouvelle vision de la vie depuis qu’elle a fait le deuil de son père.",
+      "url": "https://www.liberation.fr/lifestyle/intimites/le-jour-ou-je-suis-devenue-adulte-mon-petit-monde-secroule-a-la-mort-de-mon-pere-20260505_SDMVDG5DLNGONEEBT7K7VLIB4Q/",
+      "image": null,
+      "date": "2026-05-05T05:27:00+00:00",
+      "date_formatted": "5 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Les passagers d'un navire de croisière bloqués à bord en raison d'un virus mortel",
       "desc": "Alors qu'un bateau de croisière doit relier Ushuaïa (Argentine) au Cap-Vert, les autorités capverdiennes refusent de la voir accoster. La raison : un virus inconnu, répandu parmi les passagers, qui a déjà fait trois morts et contaminé trois autres personnes.",
@@ -23,33 +73,13 @@
       "type": "presse"
     },
     {
-      "title": "D’Ushuaïa au Cap-Vert, comment la croisière de rêve du MV « Hondius » a viré au cauchemar sanitaire",
-      "desc": "Un hantavirus est responsable de la mort d’au moins un des trois passagers décédés. Alors que trois personnes à bord présentent des symptômes de détresse respiratoire, le navire de croisière de luxe, interdit d’accoster par les autorités capverdiennes, pourrait mettre le cap sur les Canaries.",
+      "title": "Hantavirus : d’Ushuaia au Cap-Vert, comment la croisière de rêve du MV « Hondius » a viré au cauchemar sanitaire",
+      "desc": "Alors que trois personnes sont mortes d’infections respiratoires aiguës et que trois autres présentent des symptômes similaires, le navire, interdit d’accostage au Cap-Vert, pourrait mettre le cap sur les Canaries.",
       "url": "https://www.lemonde.fr/planete/article/2026/05/04/d-ushuaia-au-cap-vert-comment-la-croisiere-de-reve-du-mv-hondius-a-vire-au-cauchemar-sanitaire_6685405_3244.html",
       "image": "https://img.lemde.fr/2026/05/04/350/0/4197/2098/644/322/60/0/52eb9d4_upload-1-k1uizkv3v614-000-a9nw6qw.jpg",
       "date": "2026-05-04T19:55:38+00:00",
       "date_formatted": "4 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Allemagne : une voiture fonce dans la foule à Leipzig, deux morts et de nombreux blessés",
-      "desc": "La police a arrêté un suspect peu de temps après les faits ce lundi 4 mai, sans avancer d’hypothèse pour expliquer le drame. Le pays a connu plusieurs attaques à la voiture-bélier ces dernières années.",
-      "url": "https://www.liberation.fr/international/europe/allemagne-plusieurs-blesses-lors-dun-incident-impliquant-une-voiture-a-leipzig-20260504_QW6Z3DCXOFHY3GU2PWPEQAFPRM/",
-      "image": null,
-      "date": "2026-05-04T18:41:43+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Vasyl Stus : «Tenir bon. Ici ! Dans ce champ»",
-      "desc": "Le poète ukrainien mort au goulag en 1985 est traduit pour la première fois par Georges Nivat.",
-      "url": "https://www.liberation.fr/culture/livres/vasyl-stus-tenir-bon-ici-dans-ce-champ-20260504_XITTBGSIRREXDGFN6EBIXGHJVQ/",
-      "image": null,
-      "date": "2026-05-04T18:38:22+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -130,16 +160,6 @@
       "date": "2026-05-04T13:37:33+00:00",
       "date_formatted": "4 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Risques, transmission, traitement… Trois questions à un infectiologue pour comprendre les hantavirus",
-      "desc": "L'Organisation mondiale de la santé soupçonne une contamination par hantavirus après le décès de trois passagers lors d'une croisière transatlantique. \"Tout un tas de petits rongeurs peuvent les transmettre\", souligne l'infectiologue Gilles Pialoux.",
-      "url": "https://www.franceinfo.fr/sante/maladie/risques-transmission-traitement-trois-questions-a-un-infectiologue-pour-comprendre-les-hantavirus_7982144.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/tAMNLR0XrTVVlNY5bJAAgRQnHEU/0x199:3837x2358/432x243/filters:format(jpg)/2026/05/04/69f877065c1a6104033537.jpg",
-      "date": "2026-05-04T13:28:29+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -300,16 +320,6 @@
       "date": "2026-05-03T18:33:43+00:00",
       "date_formatted": "3 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Aborder le vieillissement de façon positive\" : la ministre déléguée explique pourquoi les Ehpad vont être renommés \"Maisons France autonomie\"",
-      "desc": "\"Les Maisons France autonomie devront être des lieux où les personnes âgées souhaitent habiter et les professionnels travailler\", affirme Camille Galliard-Minier.",
-      "url": "https://www.franceinfo.fr/sante/senior/maltraitance-dans-les-ehpad/aborder-le-vieillissement-de-facon-positive-la-ministre-deleguee-explique-pourquoi-les-ehpad-vont-etre-renommes-maisons-france-autonomie_7980401.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/WJ-ulJ9t0pLtRiQolDzkhlhDWB4/0x53:1024x629/432x243/filters:format(jpg)/2026/05/03/69f72364e44f4168830935.jpg",
-      "date": "2026-05-03T14:02:47+00:00",
-      "date_formatted": "3 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
