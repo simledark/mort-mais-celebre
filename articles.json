@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-05-06T01:28:53.244021+00:00",
-  "count": 80,
+  "generated_at": "2026-05-06T08:03:27.291874+00:00",
+  "count": 77,
   "articles": [
+    {
+      "title": "\"Sur le terrain\" du 5 mai 2026 : faut-il avoir peur des hantavirus, qui auraient fait plusieurs morts sur un bateau de croisière ?",
+      "desc": "Loïc de La Mornais s'intéresse dans cette 3ème partie au navire de croisière néerlandais bloqué au large du Cap-Vert et sur lequel sévit une potentielle épidémie d'hantavirus. Une séquence à retrouver dans l'émission \"Sur le terrain\" diffusée entre 21 h et 23 h sur la chaîne info, canal 16.",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-5-mai-2026-faut-il-avoir-peur-des-hantavirus-qui-auraient-fait-plusieurs-morts-sur-un-bateau-de-croisiere_7986620.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/k5kZVQmNsiZfuAP_1VS3fbDf8iU/160x0:1442x721/432x243/filters:format(jpg)/2026/05/06/69facd4d37a09765021471.jpg",
+      "date": "2026-05-06T07:26:37+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Nos critiques des sorties cinéma de la semaine : «Collapse», «Mortal Kombat II», «Mi Amor»…",
+      "desc": "«Libé» vous guide dans les sorties cinéma de ce mercredi 5 mai avec aussi «Do You Love Me», «Mon Grand Frère et Moi», «The New West», «Cosmos», «L’Entente - la face cachée d’Alexandrie» et «Billie Eilish, le live - Hit Me Hard And Soft». Bandes-annonces à l’appui.",
+      "url": "https://www.liberation.fr/culture/cinema/nos-critiques-des-sorties-cinema-de-la-semaine-collapse-mortal-kombat-ii-mi-amor-20260506_VM3OIJAHARHKDEQ7724EOOLCCU/",
+      "image": null,
+      "date": "2026-05-06T05:34:41+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : l’Espagne va accueillir le navire aux Canaries d’ici «3 à 4 jours»",
+      "desc": "Selon la télévision publique espagnole, c’est le port de Tenerife qui accueillera le bateau. Le président des îles refuse l’accostage. Après examen, les passagers et les membres d’équipage seront transférés vers leurs pays respectifs.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-lespagne-va-accueillir-le-navire-aux-canaries-dici-3-a-4-jours-20260506_3XVHI525W5B3XMTR5QCAH7CY6A/",
+      "image": null,
+      "date": "2026-05-06T05:28:38+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Foyer d'hantavirus : peut-il se propager au monde entier ?",
       "desc": "Le navire de croisière MV Hondius est touché par un foyer d'hantavirus à son bord. Alors qu'il doit débarquer aux îles Canaries (Espagne) d'ici trois à quatre jours, peut-on craindre une nouvelle pandémie ? Franceinfo a interrogé plusieurs experts.",
@@ -63,64 +93,14 @@
       "type": "presse"
     },
     {
-      "title": "«L’Entente, la face cachée d’Alexandrie», un thriller vu et revu",
-      "desc": "Deux jeunes frères enquêtent sur la mort de leur père dans un conte néoréaliste figé aux accents virilistes.",
-      "url": "https://www.liberation.fr/culture/cinema/lentente-la-face-cachee-dalexandrie-un-thriller-vu-et-revu-20260505_OMMHANJ6TBBNRJYQMY6VL4HXYM/",
-      "image": null,
-      "date": "2026-05-05T21:08:00+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Philippe Lazar, ancien directeur général de l’Inserm, est mort",
       "desc": "Figure majeure de la santé publique, il a été l’un des artisans du développement de la recherche et de l’enseignement de l’épidémiologie moderne en France. Il s’est éteint à Paris, le 1er mai, à l’âge de 90 ans.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/05/05/philippe-lazar-ancien-directeur-general-de-l-inserm-est-mort_6685638_3382.html",
       "image": "https://img.lemde.fr/2026/05/05/0/0/4660/2330/644/322/60/0/9f07b46_upload-1-abxne4rtqqzx-grk6607248.jpg",
-      "date": "2026-05-05T19:24:56+00:00",
+      "date": "2026-05-05T19:24:53+00:00",
       "date_formatted": "5 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "«Tous les soirs, je pense à ce qui s’est passé» : à Lille, le procès pour homicide routier sous protoxyde d’azote de Yanis H.",
-      "desc": "Au tribunal correctionnel de Lille, un conducteur de 22 ans, en récidive, était jugé ce mardi 5 mai pour avoir causé la mort de sa passagère de 20 ans dans un accident le 18 mars.",
-      "url": "https://www.liberation.fr/societe/police-justice/tous-les-soirs-je-pense-a-ce-qui-sest-passe-a-lille-le-proces-pour-homicide-routier-sous-protoxyde-dazote-de-yanis-h-20260505_4JYYHF73GVAZ5ESFAHBSE2PNEA/",
-      "image": null,
-      "date": "2026-05-05T19:08:55+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Foyer épidémique sur un navire de croisière : les deux malades seront évacués vers les Pays-Bas",
-      "desc": "Trois passagers du «MV Hondius», parti d’Ushuaia à destination du Cap-Vert sont morts. Deux cas de contamination sont avérés. L’Organisation mondiale de la Santé évoque une «transmission interhumaine».",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-lespagne-accepte-un-accostage-du-bateau-aux-canaries-20260505_LYVENHIKJFEDNICYAEZYF6JYMU/",
-      "image": null,
-      "date": "2026-05-05T19:05:23+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : sur le bateau de croisière «MV Hondius», les passagers sont confinés pendant que l’enquête épidémiologique se poursuit",
-      "desc": "Après trois morts sur le navire et alors que trois personnes doivent être évacuées vers le Cap-Vert, l’OMS privilégie la piste d’une transmission entre humains, tout en écartant le scénario catastrophe d’une nouvelle pandémie.",
-      "url": "https://www.liberation.fr/societe/sante/sur-le-bateau-de-croisiere-mv-hondius-les-passagers-sont-confines-pendant-que-lenquete-epidemiologique-se-poursuit-20260505_WAQJB5FV6FCLRHIZDQTCM3M2WE/",
-      "image": null,
-      "date": "2026-05-05T18:35:29+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Mortal Kombat II», petite frappe",
-      "desc": "Ni assez gore ni assez fun, la nouvelle transposition à l’écran du jeu vidéo culte ne sait que faire de son potentiel jouissif de série B et n’offre qu’une castagne tristement fonctionnelle.",
-      "url": "https://www.liberation.fr/culture/cinema/mortal-kombat-ii-petite-frappe-20260505_HG2QN4WOUVEIXCIWWCRIEE2JX4/",
-      "image": null,
-      "date": "2026-05-05T18:24:00+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Hantavirus sur un bateau de croisière : Victimes, malades, évacuations… Le point sur la situation sur le « MV Hondius »",
@@ -223,11 +203,11 @@
       "type": "science"
     },
     {
-      "title": "Se suicider en buvant de l’eau : trois histoires cliniques",
+      "title": "Quand l’eau devient mortelle : trois histoires cliniques",
       "desc": "Trois publications récentes, dans des contextes différents, convergent vers un constat contre-intuitif : un apport hydrique massif peut être fatal, même en l’absence de pathologie rénale.",
       "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/05/se-suicider-en-buvant-de-l-eau-trois-histoires-cliniques_6685578_6579630.html",
       "image": "https://img.lemde.fr/2026/05/03/316/0/2452/1226/644/322/60/0/8e04016_upload-1-jcb97gsjdqza-se-suicider-en-buvant-de-l-eau.jpg",
-      "date": "2026-05-05T12:18:37+00:00",
+      "date": "2026-05-05T12:18:32+00:00",
       "date_formatted": "5 May 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -244,7 +224,7 @@
     },
     {
       "title": "Hantavirus : l’Espagne va accueillir le MV « Hondius » aux Canaries d’ici « trois à quatre jours »",
-      "desc": "Trois personnes malades se trouvant à bord du navire de croisière devaient être débarquées au port de Praia, au Cap-Vert, dans la nuit de mardi à mercredi, avant d’être évacuées par les airs. Le bateau doit ensuite faire route vers les Canaries, où son port d’arrivée n’est pas encore connu.",
+      "desc": "Trois personnes malades se trouvant à bord du navire de croisière devaient être débarquées à Praia, au Cap-Vert, dans la nuit de mardi à mercredi, avant d’être évacuées par les airs. Le bateau doit ensuite faire route vers les Canaries, où son port d’arrivée n’est pas encore connu.",
       "url": "https://www.lemonde.fr/sante/article/2026/05/05/foyer-de-hantavirus-sur-un-navire-de-croisiere-l-oms-soupconne-une-transmission-interhumaine-l-espagne-accepte-l-accostage-du-bateau-aux-canaries_6685571_1651303.html",
       "image": "https://img.lemde.fr/2026/05/05/374/0/3024/1512/644/322/60/0/5d80895_ftp-1-g1szg5yn4dkc-64d2df8847ef4b35bcce36eebab2c8f7-0-2700b3aef12841ecab50ab25bba32114.jpg",
       "date": "2026-05-05T11:57:31+00:00",
@@ -328,16 +308,6 @@
       "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/pourquoi-le-c-ur-est-presque-totalement-epargne-par-le-cancer-grace-a-ses-battements_7984256.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/s5mKtdc_snr9uCV2WWNVJLqFW1w/0x64:1239x761/432x243/filters:format(jpg)/2026/05/05/69f985364ff22961301721.jpg",
       "date": "2026-05-05T08:00:19+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Risques, transmission, traitement… Trois questions à un infectiologue pour comprendre les hantavirus",
-      "desc": "L'Organisation mondiale de la santé soupçonne une contamination par hantavirus après le décès de trois passagers lors d'une croisière transatlantique. \"Tout un tas de petits rongeurs peuvent les transmettre\", souligne l'infectiologue Gilles Pialoux.",
-      "url": "https://www.franceinfo.fr/sante/maladie/risques-transmission-traitement-trois-questions-a-un-infectiologue-pour-comprendre-les-hantavirus_7982144.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/tAMNLR0XrTVVlNY5bJAAgRQnHEU/0x199:3837x2358/432x243/filters:format(jpg)/2026/05/04/69f877065c1a6104033537.jpg",
-      "date": "2026-05-05T07:49:59+00:00",
       "date_formatted": "5 May 2026",
       "source": "France Info Santé",
       "type": "presse"
