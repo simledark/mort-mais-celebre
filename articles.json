@@ -1,15 +1,205 @@
 {
-  "generated_at": "2026-05-06T13:25:22.325030+00:00",
-  "count": 84,
+  "generated_at": "2026-05-06T19:18:03.098226+00:00",
+  "count": 89,
   "articles": [
     {
-      "title": "DIRECT. Hantavirus sur un navire de croisière : le chef de l'OMS \"ne pense pas\" que la situation soit similaire au début de la pandémie de Covid-19",
-      "desc": "Un bateau de croisière est bloqué depuis dimanche près du port de Praia, au Cap-Vert, en raison de fortes suspicions d'un foyer de hantavirus, une grave infection qui peut provoquer un syndrome respiratoire aigu.",
-      "url": "https://www.franceinfo.fr/sante/direct-hantavirus-sur-un-navire-de-croisiere-une-evacuation-medicale-par-le-cap-vert-est-en-cours-pour-trois-cas-suspects-annonce-l-oms_7986932.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
-      "date": "2026-05-06T15:06:29+00:00",
+      "title": "Hantavirus à bord d'un navire de croisière : \"On n'est pas du tout enfermés\", un passager raconte",
+      "desc": "C’est peut-être la fin du cauchemar pour le navire contaminé à l'hantavirus. Trois passagers malades ont été évacués jeudi 6 mai vers le Cap-Vert puis vers les Pays-Bas. Un Français serait parmi les cas contacts. Le navire de croisière pourrait accoster prochainement aux Canaries. Deux Français à bo",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/hantavirus-a-bord-d-un-navire-de-croisiere-on-n-est-pas-du-tout-enfermes-un-passager-raconte_7987712.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/3iomMJwySvrKVLFDd9xlwGVorQQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/06/69fb8c1cd2429455724437.jpg",
+      "date": "2026-05-06T20:47:42+00:00",
       "date_formatted": "6 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "DIRECT. Foyer d'hantavirus sur un navire de croisière : le \"MV Hondius\" a quitté sa zone de mouillage au large du Cap-Vert et se dirige vers Tenerife",
+      "desc": "Le bateau doit accoster dans les prochains jours dans l'archipel espagnol des Canaries.",
+      "url": "https://www.franceinfo.fr/sante/direct-hantavirus-sur-un-navire-de-croisiere-une-evacuation-medicale-par-le-cap-vert-est-en-cours-pour-trois-cas-suspects-annonce-l-oms_7986932.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
+      "date": "2026-05-06T20:34:26+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le chef de l'OMS \"ne pense pas\" que la situation liée au foyer d'hantavirus sur le \"MV Hondius\" soit similaire au début de la pandémie de Covid-19",
+      "desc": "Le bateau de croisière est bloqué depuis dimanche près du port de Praia, au Cap-Vert, en raison de fortes suspicions d'un foyer d'hantavirus, une grave infection qui peut provoquer un syndrome respiratoire aigu.",
+      "url": "https://www.franceinfo.fr/sante/le-chef-de-l-oms-ne-pense-pas-que-la-situation-liee-au-foyer-d-hantavirus-sur-le-mv-hondius-soit-similaire-au-debut-de-la-pandemie-de-covid-19_7987655.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/oFAvDQ-CZLYNI8Uah6YlDQX4sWI/0x53:1024x629/432x243/filters:format(jpg)/2026/05/06/69fb74b40c9ff066695570.jpg",
+      "date": "2026-05-06T20:31:04+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : faut-il craindre une nouvelle alerte sanitaire ?",
+      "desc": "Un virus rare, transmis par les rongeurs, inquiète après la mort de plusieurs passagers contaminés par un hantavirus sur un bateau de croisière. Très létal mais peu contagieux entre humains, il reste sous surveillance des autorités sanitaires, qui écartent pour l’instant le risque d’une épidémie mon",
+      "url": "https://www.franceinfo.fr/sante/hantavirus-faut-il-craindre-une-nouvelle-alerte-sanitaire_7987700.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ClBzV8PpqAva5xkiCkCeQvqwyFA/0x28:897x533/432x243/filters:format(jpg)/2026/05/06/69fb8810f1117873432938.jpg",
+      "date": "2026-05-06T20:28:58+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le lait contaminé mis hors de cause dans la mort d’un bébé à Angers en décembre",
+      "desc": "Une enquête avait été ouverte en décembre pour rechercher les causes du décès d’une petite fille âgée de 27 jours, morte le 23 décembre 2025 au domicile familial.",
+      "url": "https://www.lemonde.fr/sante/article/2026/05/06/le-lait-contamine-hors-de-cause-dans-la-mort-d-un-bebe-a-angers-en-decembre_6686171_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/06/1000/0/6000/3000/644/322/60/0/a8c6e07_upload-1-voysnwjdcabm-000-94fz9we.jpg",
+      "date": "2026-05-06T20:13:33+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : des chercheurs découvrent comment redonner de la force aux cellules immunitaires épuisées",
+      "desc": "À force de combattre la tumeur, certaines cellules immunitaires finissent par s’encrasser de l’intérieur et par perdre leur puissance. En identifiant l’origine de ce « burn-out » cellulaire, des biologistes américains ouvrent une voie prometteuse pour rendre les traitements contre le cancer plus...",
+      "url": "https://www.futura-sciences.com/sante/actualites/systeme-immunitaire-cancer-chercheurs-decouvrent-redonner-force-cellules-immunitaires-epuisees-134273/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/8/6/286c1577a3_50254777_lymphocytes-cellules-cancer.jpg",
+      "date": "2026-05-06T20:08:50+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT, hantavirus sur un navire de croisière : la première contamination n’a pas pu avoir lieu sur le MV « Hondius » ou lors d’une escale, selon une experte de l’OMS",
+      "desc": "L’avion médicalisé transportant deux personnes touchées par le hantavirus en provenance du Cap-Vert a atterri aux Canaries mercredi après-midi pour « une escale technique » afin de réparer la « bulle de protection défectueuse d’un patient ».",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/06/en-direct-hantavirus-sur-un-navire-de-croisiere-la-premiere-contamination-n-a-pas-pu-avoir-lieu-sur-le-mv-hondius-ou-lors-d-une-escale-selon-une-experte-de-l-oms_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/06/592/0/4394/2197/644/322/60/0/d80028d_ftp-1-0twl8hcedztz-5957798-01-06.jpg",
+      "date": "2026-05-06T19:34:56+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : de la souche Andes au taux de létalité, le lexique pour comprendre les mots qui circulent avec ce virus",
+      "desc": "L’infection de passagers sur un bateau de croisière, le MV « Hondius », révélée début mai, met en lumière les hantavirus. Voici les principaux termes scientifiques à connaître pour comprendre la situation.",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/06/hantavirus-de-la-souche-andres-au-taux-de-letalite-le-lexique-pour-comprendre-les-mots-qui-circulent-avec-ce-virus_6686157_4355770.html",
+      "image": "https://img.lemde.fr/2026/05/06/0/0/3045/1522/644/322/60/0/86241b1_ftp-1-g6opqjpcq8co-5958639-01-06.jpg",
+      "date": "2026-05-06T19:12:28+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’un nourrisson à Angers en décembre : le lait contaminé hors de cause",
+      "desc": "Le parquet a conclu que la petite fille de 27 jours était morte par asphyxie et non pas à cause de la toxine céréulide, présente dans le lait avec lequel avait été fait son biberon.",
+      "url": "https://www.liberation.fr/societe/sante/le-lait-contamine-hors-de-cause-dans-la-mort-dun-bebe-a-angers-en-decembre-20260506_HTKEI673LBDTNMNAWC4TRFMCBQ/",
+      "image": null,
+      "date": "2026-05-06T19:09:33+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : de nombreuses inconnues autour d’un événement sanitaire « inédit et inquiétant » ; l’OMS veut rassurer sur le risque pandémique",
+      "desc": "La souche des Andes, transmissible entre humains par des gouttelettes de salive, a été déterminée, mercredi, par séquençage chez trois malades ayant voyagé à bord du MV « Hondius », qui doit accoster dans les jours qui viennent aux Canaries. Le point sur les principales questions posées par ce foyer",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/06/hantavirus-de-nombreuses-inconnues-autour-d-un-evenement-sanitaire-inedit-et-inquietant-l-oms-veut-rassurer-sur-le-risque-pandemique_6686152_3244.html",
+      "image": "https://img.lemde.fr/2026/05/06/350/0/4200/2100/644/322/60/0/164c58b_ftp-1-h8glu0jronha-5957887-01-06.jpg",
+      "date": "2026-05-06T18:56:36+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus sur le navire «MV Hondius» : un nouvel avion nécessaire pour l’évacuation de deux patients des Canaries",
+      "desc": "Le premier engin avait décollé du Cap Vert ce mercredi et devait atterrir à Amsterdam aux Pays-Bas ce soir avec deux malades à bord. Une «panne technique» a contraint l’équipage à faire escale à Tenerife dans l’archipel espagnol.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-un-passager-de-la-croisiere-est-bien-infecte-par-la-souche-des-andes-transmissible-entre-humains-20260506_ULTWPVNSJ5BONHGAFTYRVEBVLY/",
+      "image": null,
+      "date": "2026-05-06T18:53:27+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : Madrid et les Canaries s’affrontent sur l’arrivée du MV « Hondius » à Tenerife",
+      "desc": "Le gouvernement espagnol défend une opération sanitaire coordonnée avec l’Union européenne, tandis que les autorités de l’archipel dénoncent une décision imposée sans concertation.",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/06/hantavirus-madrid-et-les-canaries-s-affrontent-sur-l-arrivee-du-mv-hondius-a-tenerife_6686151_3244.html",
+      "image": "https://img.lemde.fr/2026/05/06/639/0/7655/3827/644/322/60/0/fe4938f_ftp-1-0cjhfz1u6q9d-5959073-01-06.jpg",
+      "date": "2026-05-06T18:51:10+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Proposition de paix étudiée par Téhéran, l’OMS rassurante sur l’hantavirus, mort de Ted Turner… L’actu de ce mercredi 6 mai",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 6 mai.",
+      "url": "https://www.liberation.fr/international/europe/proposition-de-paix-etudiee-par-teheran-loms-rassurante-sur-lhantavirus-mort-de-ted-turner-lactu-de-ce-mercredi-6-mai-20260506_BRXGDPNXKJARRMDQXZEUIU2ZVM/",
+      "image": null,
+      "date": "2026-05-06T17:19:01+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur un navire de croisière : un Français parmi les cas contact et des mesures de sécurité insuffisantes selon des passagers",
+      "desc": "Trois personnes ont été évacuées dans la matinée, mercredi 6 mai, du bateau de croisière frappé par une présumée épidémie d'hantavirus. Un Français ferait partie des cas contact. Il aurait emprunté le même vol que l'un des malades. Explications.",
+      "url": "https://www.franceinfo.fr/sante/hantavirus-sur-un-navire-de-croisiere-un-francais-parmi-les-cas-contact-et-des-mesures-de-securite-insuffisantes-selon-des-passagers_7987106.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/KVxkJ1ngr9r-4-dT7Y14NCbxnr4/3x0:1387x778/432x243/filters:format(jpg)/2026/05/06/69fb255d0c3fe201345440.jpg",
+      "date": "2026-05-06T16:56:38+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de la journaliste libanaise Amal Khalil : son journal porte plainte contre un expert de BFMTV",
+      "desc": "Al-Akhbar reproche au général Philippe Sidos des propos qu’il a tenus sur le plateau de la chaîne française après la mort de sa reporter le 22 avril sous des frappes israéliennes. Le journal a porté plainte pour «apologie de crime de guerre».",
+      "url": "https://www.liberation.fr/international/moyen-orient/mort-de-la-journaliste-libanaise-amal-khalil-son-journal-porte-plainte-contre-un-expert-de-bfmtv-20260506_Y67PCG7A65A5ZHODWDYJUONU4A/",
+      "image": null,
+      "date": "2026-05-06T16:14:46+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«On ne sert plus qu’à rembourser leurs dettes» : dans les laboratoires de biologie médicale, la colère des salariés face à la «financiarisation»",
+      "desc": "En grève lundi 4 mai, les salariés des laboratoires de ville ont dénoncé la détérioration des services proposés aux patients et de leurs conditions de travail, sous l’effet de la concentration du secteur. En quinze ans, près de 80 % des sites sont passés sous le giron de puissants fonds d’investisse",
+      "url": "https://www.liberation.fr/economie/on-ne-sert-plus-qua-rembourser-leurs-dettes-dans-les-laboratoires-de-biologie-medicale-la-colere-des-salaries-face-a-la-financiarisation-20260506_NWNJEJWYVBGC3FWLPGKTVFPLSQ/",
+      "image": null,
+      "date": "2026-05-06T16:12:47+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mesures sanitaires strictes, confinement des passagers… Face à l'hantavirus, comment s'organise la vie à bord du bateau de croisière \"MV Hondius\" ?",
+      "desc": "Plusieurs passagers témoignent des règles sanitaires strictes et du confinement à bord du navire, qui devrait atteindre les côtes des Canaries dans les prochains jours.",
+      "url": "https://www.franceinfo.fr/sante/maladie/mesures-d-isolement-inquietude-des-passagers-comment-s-organise-la-vie-a-bord-du-bateau-de-croisiere-mv-hondius-face-a-l-hantavirus_7986887.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_gLXt0gfW_-3gUf5gHWKRXeyl8E/0x0:3170x1783/432x243/filters:format(jpg)/2026/05/06/69fb066986dfe299686100.jpg",
+      "date": "2026-05-06T15:57:52+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur un navire de croisière : \"Ce n'est pas très contagieux de personne à personne\", rassure une scientifique en chef à l'OMS",
+      "desc": "\"On a la chance d'arriver au début d'une transmission donc on a beaucoup d'opportunité de la stopper dès maintenant\", ajoute Sylvie Briand, mercredi sur franceinfo. L'OMS avait fait état mardi de sept cas d'hantavirus.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus-sur-un-navire-de-croisiere-ce-n-est-pas-tres-contagieux-de-personne-a-personne-rassure-une-scientifique-en-chef-a-l-oms_7987259.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/BFIzczVl0KRP2r01dt7G09cA-co/0x53:1024x629/432x243/filters:format(jpg)/2026/05/06/69fb455d8bcaa023133674.jpg",
+      "date": "2026-05-06T15:46:55+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer, grippe, diabète : les généralistes incités financièrement à renforcer le suivi des patients",
+      "desc": "L’Assurance maladie veut renforcer la prévention en rémunérant davantage les médecins généralistes lorsqu’un suivi est effectivement réalisé par les patients. Un dispositif simplifié qui promet un meilleur accompagnement, mais qui suscite déjà des réserves chez certains professionnels de santé sur s",
+      "url": "https://www.franceinfo.fr/sante/cancer-grippe-diabete-les-generalistes-incites-financierement-a-renforcer-le-suivi-des-patients_7987253.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/N7c3rvvtfN4h0-q22Ij54O6obHo/0x32:936x559/432x243/filters:format(jpg)/2026/05/06/69fb45ed71e66699393854.jpg",
+      "date": "2026-05-06T15:45:28+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "SNCF : les syndicats déposent un préavis de grève pour le 10 juin",
+      "desc": "Dans un communiqué publié ce mercredi 6 mai, l’intersyndicale dénonce «la multiplication des drames (accidents du travail, arrêts maladie, suicides)» dans le groupe ferroviaire et réclame «l’ouverture de véritables négociations salariales».",
+      "url": "https://www.liberation.fr/economie/social/sncf-les-syndicats-deposent-un-preavis-de-greve-pour-le-10-juin-20260506_BQ7XRIHINJAD7BC6NLE7XIGQEU/",
+      "image": null,
+      "date": "2026-05-06T15:35:49+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -23,24 +213,14 @@
       "type": "science"
     },
     {
-      "title": "TEMOIGNAGE. \"Tout ce que nous voulons, c'est nous sentir en sécurité et rentrer à la maison\" : un passager à bord du \"MV Hondius\", foyer de l'hantavirus, raconte",
-      "desc": "Il n'y a aucune raison de céder à la panique ou d'imposer des restrictions de voyage, a très rapidement affirmé l'OMS alors que trois personnes sont mortes sur le navire.",
-      "url": "https://www.franceinfo.fr/sante/maladie/temoignage-tout-ce-que-nous-voulons-c-est-nous-sentir-en-securite-et-rentrer-a-la-maison-un-passager-a-bord-du-mv-hondus-foyer-de-l-hantavirus-raconte_7986662.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mt45hM-FCRvCFCQdDbgxurxqdNE/0x235:5189x3154/432x243/filters:format(jpg)/2026/05/06/69faea11178f3891364306.jpg",
-      "date": "2026-05-06T15:02:06+00:00",
+      "title": "Canicule et baignades sauvages : alarmante hausse des noyades mortelles en France en 2025",
+      "desc": "À l’été 2025, marqué par des épisodes de chaleur précoce et intense, la France a enregistré 409 décès par noyade. Nombre de ces drames sont survenus fin juin, dans des rivières et plans d’eau non surveillés, où la quête de fraîcheur face à la canicule s’est révélée fatale.",
+      "url": "https://www.sciencesetavenir.fr/sante/canicule-et-baignades-sauvages-alarmante-hausse-des-noyades-mortelles-en-france-en-2025_192344?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/06/cover-r4x3w1200-69fb4d79aacf6-baignade.jpg",
+      "date": "2026-05-06T14:58:21+00:00",
       "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mesures d'isolement, inquiétude des passagers… Comment s'organise la vie à bord du bateau de croisière \"MV Hondius\" face à l'hantavirus ?",
-      "desc": "Plusieurs passagers témoignent des règles sanitaires strictes et du confinement à bord du navire, qui devrait atteindre les côtes des Canaries dans les prochains jours.",
-      "url": "https://www.franceinfo.fr/sante/maladie/mesures-d-isolement-inquietude-des-passagers-comment-s-organise-la-vie-a-bord-du-bateau-de-croisiere-mv-hondius-face-a-l-hantavirus_7986887.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/_gLXt0gfW_-3gUf5gHWKRXeyl8E/0x0:3170x1783/432x243/filters:format(jpg)/2026/05/06/69fb066986dfe299686100.jpg",
-      "date": "2026-05-06T14:55:52+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Un nouveau cas d'hantavirus identifié, trois malades évacués, des passagers confinés... Quelle est la situation à bord du navire de croisière toujours bloqué au Cap-Vert ?",
@@ -50,16 +230,6 @@
       "date": "2026-05-06T14:54:14+00:00",
       "date_formatted": "6 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT, hantavirus sur un navire de croisière : le MV « Hondius » accostera au port de Granadilla, dans les Canaries, selon la ministre de la santé espagnole",
-      "desc": "Deux membres d’équipage malades et un cas contact ont été débarqués au Cap-Vert et « sont en route pour recevoir des soins médicaux aux Pays-Bas », a déclaré le directeur général de l’OMS. La souche dite « des Andes » a été détectée sur un des passagers évacué en Afrique du Sud. Elle est transmissib",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/06/en-direct-hantavirus-sur-un-navire-de-croisiere-le-mv-hondius-accostera-au-port-de-granadilla-dans-les-canaries-selon-la-ministre-de-la-sante-espagnole_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/06/592/0/4394/2197/644/322/60/0/d80028d_ftp-1-0twl8hcedztz-5957798-01-06.jpg",
-      "date": "2026-05-06T14:50:45+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -83,14 +253,34 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus sur un navire de croisière : un Français parmi les cas contact et des mesures de sécurité insuffisantes selon des passagers",
-      "desc": "Trois personnes ont été évacuées dans la matinée, mercredi 6 mai, du bateau de croisière frappé par une présumée épidémie d'hantavirus. Un Français ferait partie des cas contact. Il aurait emprunté le même vol que l'un des malades. Explications.",
-      "url": "https://www.franceinfo.fr/sante/hantavirus-sur-un-navire-de-croisiere-un-francais-parmi-les-cas-contact-et-des-mesures-de-securite-insuffisantes-selon-des-passagers_7987106.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/KVxkJ1ngr9r-4-dT7Y14NCbxnr4/3x0:1387x778/432x243/filters:format(jpg)/2026/05/06/69fb255d0c3fe201345440.jpg",
-      "date": "2026-05-06T13:26:53+00:00",
+      "title": "Hantavirus sur un bateau de croisière : Quel protocole pour la prise en charge des passagers ?",
+      "desc": "Alors que le MV Hondius doit relier Tenerife, dans les Îles Canaries, plusieurs passagers ont déjà été évacués selon des procédures sanitaires",
+      "url": "https://www.20minutes.fr/monde/4222251-20260506-hantavirus-bateau-croisiere-protocole-prise-charge-passagers?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/KiyTZWcYQka9Kc7q2ThflCk/1200x768_des-agents-de-sante-en-equipement-de-protection-evacuent-des-patients-du-navire-de-croisiere-mv-hondius-vers-une-ambulance-dans-un-port-de-praia-au-cap-vert-le-mercredi-6-mai-2026-ap-photo-misper-apawu-xma104-26126409107830-2605061323",
+      "date": "2026-05-06T14:12:48+00:00",
       "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
+      "source": "20 Minutes Santé",
       "type": "presse"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Huit questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Croisières : quelles modalités en cas de risque sanitaire ?",
+      "desc": "Les bateaux de croisières, qui accueillent une clientèle toujours plus nombreuse dans le monde, sont des lieux d'interactions en vase clos. Le protocole sanitaire en cas de maladie infectieuse, comme sur le navire bloqué face au Cap-Vert à la suite de plusieurs cas d'hantavirus, y est strict.",
+      "url": "https://www.sciencesetavenir.fr/sante/croisieres-quelles-modalites-en-cas-de-risque-sanitaire_192342?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/06/cover-r4x3w1200-69fb41f86cb52-hantavirus-urgence.jpg",
+      "date": "2026-05-06T13:45:04+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Ce qu’il faut savoir sur les hantavirus : origine, moyens de transmission, symptômes potentiels…",
@@ -100,26 +290,6 @@
       "date": "2026-05-06T13:11:05+00:00",
       "date_formatted": "6 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Hantavirus sur le navire «MV Hondius» : le chef de l’OMS «ne pense pas» que la situation soit similaire au début de la pandémie de Covid",
-      "desc": "Toujours au large du Cap-Vert ce mercredi, le bateau de croisière a obtenu l’autorisation de l’Espagne de pouvoir débarquer ses passagers aux îles Canaries. Il est attendu dans les prochains jours à Tenerife.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-un-passager-de-la-croisiere-est-bien-infecte-par-la-souche-des-andes-transmissible-entre-humains-20260506_ULTWPVNSJ5BONHGAFTYRVEBVLY/",
-      "image": null,
-      "date": "2026-05-06T12:54:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Chikungunya : l’année 2025 exceptionnelle avec plus de 800 cas transmis en France hexagonale",
-      "desc": "Alors que la surveillance des maladies transmises par les moustiques débute tout juste, les autorités sanitaires rappellent ce mercredi que leur circulation a été particulièrement intense l’année dernière et que le moustique tigre est de plus en plus implanté.",
-      "url": "https://www.liberation.fr/societe/sante/chikungunya-lannee-2025-exceptionnelle-avec-plus-de-800-cas-transmis-en-france-hexagonale-20260506_WCGLRRFY5FD4LBLF4VQ6AJTQS4/",
-      "image": null,
-      "date": "2026-05-06T12:31:42+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -143,26 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "L'Espagne accepte d'accueillir le bateau de croisière frappé par un foyer d'hantavirus, arrivée aux îles Canaries \"d'ici trois à quatre jours\"",
-      "desc": "\"Une fois sur place, l'équipage et les passagers seront dûment examinés, pris en charge et transférés vers leurs pays respectifs\", lit-on dans le communiqué du ministère de la Santé espagnol.",
-      "url": "https://www.franceinfo.fr/sante/maladie/l-espagne-accepte-d-accueillir-le-bateau-de-croisiere-frappe-par-un-foyer-d-hantavirus-arrivee-aux-iles-canaries-d-ici-3-a-4-jours_7985501.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jvz-vpq3mRDrHYpbBMbn42xX96I/0x0:4200x2362/432x243/filters:format(jpg)/2026/05/05/69fa5da34ebb3785981607.jpg",
-      "date": "2026-05-06T11:24:42+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus sur un navire de croisière : un passager a été infecté par la souche des Andes, transmissible entre humains",
-      "desc": "Le bateau de croisière, foyer d'hantavirus, est toujours immobilisé au large du Cap-Vert d'où il doit faire route vers les îles Canaries après l'évacuation médicale de trois cas suspects.",
-      "url": "https://www.franceinfo.fr/sante/hantavirus-sur-un-navire-de-croisiere-un-passager-a-ete-infecte-par-la-souche-des-andes-transmissible-entre-humains_7986833.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/-fUaQCx1OJR6KfIqkSOchQsP6C4/0x123:3402x2035/432x243/filters:format(jpg)/2026/05/06/69fb00af5a793848039272.jpg",
-      "date": "2026-05-06T10:55:31+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : les passagers du navire de croisière attendent d’être fixés au large du Cap-Vert ; l’identification de la souche se précise",
       "desc": "L’évacuation de deux membres d’équipage malades et d’un cas contact est en cours via le Cap-Vert, a indiqué une représentante de l’OMS. La souche de hantavirus détectée sur un des passagers de la croisière évacué en Afrique du Sud est celle des Andes, transmissible entre humains, a par ailleurs décl",
       "url": "https://www.lemonde.fr/planete/article/2026/05/06/hantavirus-les-passagers-du-navire-de-croisiere-attendent-d-etre-fixes-au-large-du-cap-vert-l-identification-de-la-souche-se-precise_6686087_3244.html",
@@ -170,26 +320,6 @@
       "date": "2026-05-06T10:46:38+00:00",
       "date_formatted": "6 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les champignons résistants aux antifongiques causent plus de 3,5 millions de morts par an, selon l'OMS",
-      "desc": "Cinquante spécialistes des infections mycologiques ont publié une tribune dans la revue \"Nature Medicine\" pour alerter de l'apparition de champignons microscopiques résistant aux antifongiques. Un problème lié au développement parallèle des fongicides en agriculture.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/les-champignons-resistants-aux-antifongiques-causent-plus-de-3-5-millions-de-morts-par-an-selon-l-oms_7986560.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/aJ0xWE91qKaDRG5JkBtA49GwxPI/0x115:2203x1355/432x243/filters:format(jpg)/2026/05/06/69fad972f217c409869758.jpg",
-      "date": "2026-05-06T10:25:36+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'Hantavirus c'est pas le Covid, navire français touché en Iran, Arsenal en finale : ça dit quoi ce 6 mai ?",
-      "desc": "Ce mercredi 6 mai, l’OMS tente de rassurer après plusieurs cas d'hantavirus sur un bateau de croisière, un porte-conteneur de CMA CGM a été touché dans le détroit d’Ormuz, et Arsenal retrouve enfin la finale de la Ligue des champions.",
-      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/l-hantavirus-c-est-pas-le-covid-navire-francais-touche-en-iran-arsenal-en-finale-ca-dit-quoi-ce-6-mai_7972685.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/CxNrfyaMBVgriiBD6_w59q3Fl5w/0x218:4197x2579/432x243/filters:format(jpg)/2026/05/05/69f9c425afd37536296034.jpg",
-      "date": "2026-05-06T10:25:26+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -201,46 +331,6 @@
       "date_formatted": "6 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "\"Sur le terrain\" du 5 mai 2026 : faut-il avoir peur des hantavirus, qui auraient fait plusieurs morts sur un bateau de croisière ?",
-      "desc": "Loïc de La Mornais s'intéresse dans cette 3ème partie au navire de croisière néerlandais bloqué au large du Cap-Vert et sur lequel sévit une potentielle épidémie d'hantavirus. Une séquence à retrouver dans l'émission \"Sur le terrain\" diffusée entre 21 h et 23 h sur la chaîne info, canal 16.",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-5-mai-2026-faut-il-avoir-peur-des-hantavirus-qui-auraient-fait-plusieurs-morts-sur-un-bateau-de-croisiere_7986620.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/k5kZVQmNsiZfuAP_1VS3fbDf8iU/160x0:1442x721/432x243/filters:format(jpg)/2026/05/06/69facd4d37a09765021471.jpg",
-      "date": "2026-05-06T07:26:37+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Foyer d'hantavirus : peut-il se propager au monde entier ?",
-      "desc": "Le navire de croisière MV Hondius est touché par un foyer d'hantavirus à son bord. Alors qu'il doit débarquer aux îles Canaries (Espagne) d'ici trois à quatre jours, peut-on craindre une nouvelle pandémie ? Franceinfo a interrogé plusieurs experts.",
-      "url": "https://www.franceinfo.fr/sante/maladie/foyer-d-hantavirus-peut-il-se-propager-au-monde-entier_7986230.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/gbW1DAYBbkzt-lnMTj4YSqmJisY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/06/69fa6b7a7b3bf188262358.jpg",
-      "date": "2026-05-06T00:13:19+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Le risque pour le grand public est faible\" : le foyer d'hantavirus peut-il se propager au-delà du bateau de croisière \"MV Hondius\" ?",
-      "desc": "L'OMS enquête sur l'origine de la contamination à bord du \"MV Hondius\". Pour l'heure, l'organisation se veut rassurante, estimant que ce type de virus ne se propage pas \"comme la grippe ou le Covid-19\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/le-risque-pour-le-grand-public-est-faible-l-epidemie-d-hantavirus-peut-elle-se-propager-au-dela-du-bateau-de-croisiere-mv-hondius_7984511.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/v5dHOJpCAVq9DuDt_AifHBvhBC4/0x93:1024x669/432x243/filters:format(jpg)/2026/05/05/69f9e5de962db669671782.jpg",
-      "date": "2026-05-05T23:35:20+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus sur un bateau de croisière : l'OMS soupçonne une transmission interhumaine",
-      "desc": "L'inquiétude demeure pour les près de 150 passagers du bateau de croisière toujours immobilisé au large du Cap-Vert. Après les trois décès, deux cas d'hantavirus ont été confirmés et cinq sont suspectés. L'OMS soupçonne une transmission interhumaine.",
-      "url": "https://www.franceinfo.fr/sante/hantavirus-sur-un-bateau-de-croisiere-l-oms-soupconne-une-transmission-interhumaine_7985429.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/BTkJMh_108L_cK6GcwuQbJEEiFU/122x0:1479x763/432x243/filters:format(jpg)/2026/05/05/69fa4ae13281b747161445.jpg",
-      "date": "2026-05-05T23:18:57+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "L’Espagne va accueillir le navire touché par un foyer d’hantavirus aux Canaries",
@@ -563,16 +653,6 @@
       "type": "presse"
     },
     {
-      "title": "Un foyer de syndrome respiratoire aigu s’est déclaré à bord du bateau de croisière MV « Hondius », trois personnes sont mortes",
-      "desc": "« A ce jour, un cas d’infection à hantavirus a été confirmé en laboratoire, et cinq autres cas sont suspectés. Sur les six personnes touchées, trois sont mortes et une se trouve actuellement en soins intensifs en Afrique du Sud », a fait savoir l’Organisation mondiale de la santé.",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/03/un-foyer-de-syndrome-respiratoire-aigu-s-est-declare-a-bord-du-bateau-de-croisiere-mv-hondius-deux-personnes-sont-mortes-et-une-troisieme-est-en-soins-intensifs_6685243_3244.html",
-      "image": "https://img.lemde.fr/2026/05/03/85/0/1023/511/644/322/60/0/0943e07_upload-1-tgzwnxe57fi4-january-2020home-hondius-mvhondius-globetrotmatt.jpg",
-      "date": "2026-05-03T18:33:43+00:00",
-      "date_formatted": "3 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Des nanoplastiques jusque dans le cerveau : pourquoi cette étude alarme les scientifiques",
       "desc": "Et si notre cerveau n’était plus aussi protégé qu’on le pensait ? Des chercheurs viennent de mettre en évidence une accumulation inquiétante de microplastiques dans cet organe clé, ouvrant la voie à des interrogations majeures sur leurs liens possibles avec certaines maladies.",
       "url": "https://www.futura-sciences.com/sante/actualites/microplastiques-nanoplastiques-jusque-cerveau-cette-etude-alarme-scientifiques-134161/#xtor%3DRSS-8",
@@ -653,16 +733,6 @@
       "type": "science"
     },
     {
-      "title": "Alzheimer : ce traitement expérimental fait resurgir des souvenirs que l’on croyait perdus",
-      "desc": "Une avancée prometteuse vient de surgir dans la lutte contre la maladie d'Alzheimer. Des chercheurs américains ont découvert une molécule capable de restaurer la mémoire chez des souris présentant des symptômes similaires à ceux de cette pathologie neurodégénérative. Cette percée scientifique...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-traitement-experimental-fait-resurgir-souvenirs-on-croyait-perdus-w2t8-134091/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/2/a/12aabdd898_50254487_alzheimer-souvenirs.jpg",
-      "date": "2026-04-29T08:00:00+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Au Royaume-Uni, baisse de l'espérance de vie en bonne santé",
       "desc": "Le Royaume-Uni a enregistré en une décennie une baisse de plus de deux ans de l'espérance de vie en bonne santé, désormais inférieure à 61 ans, ce qui le place à l'avant-dernier rang parmi les pays riches, selon une étude de l'organisation Health Foundation.",
       "url": "https://www.sciencesetavenir.fr/sante/au-royaume-uni-baisse-de-l-esperance-de-vie-en-bonne-sante_192222?xtor=RSS-16",
@@ -703,16 +773,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer : pourquoi les tumeurs du coeur sont-elles si rares ?",
-      "desc": "Les tumeurs du coeur font partie des tumeurs les plus rares au monde. Pour comprendre ce qui protège cet organe, une équipe a mis le doigt sur un mécanisme clé. Plus qu'un mouvement mécanique, c'est toute une cascade biologique qui entre en jeu.",
-      "url": "https://www.sciencesetavenir.fr/sante/coeur-et-cardio/cancer-pourquoi-les-tumeurs-du-coeur-sont-elles-si-rares_192175?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb6f5dd4a86-afp-20240403-f0423593-v1-highres-humanheartvolumeandbloodsupplyillustration.jpg",
-      "date": "2026-04-24T14:03:46+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
       "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
       "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
@@ -720,16 +780,6 @@
       "date": "2026-04-24T10:30:35+00:00",
       "date_formatted": "24 April 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "L'OMS salue les résultats de sa campagne de \"grand rattrapage\" de vaccination des enfants",
-      "desc": "La pandémie de Covid-19 a profondément ébranlé les systèmes de santé et bouleversé les campagnes de vaccination à travers le monde. Résultat : des maladies contagieuses comme la rougeole ont connu un rebond inquiétant. Face à cette situation, l’OMS, l’Unicef et Gavi — l’alliance internationale pour ",
-      "url": "https://www.sciencesetavenir.fr/sante/l-oms-salue-les-resultats-de-sa-campagne-de-grand-rattrapage-de-vaccination-des-enfants_192164?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb32eea7b28-vaccination.jpg",
-      "date": "2026-04-24T09:26:26+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
