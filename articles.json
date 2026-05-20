@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-05-20T02:01:17.159563+00:00",
-  "count": 78,
+  "generated_at": "2026-05-20T08:50:10.485809+00:00",
+  "count": 75,
   "articles": [
     {
       "title": "Viande rouge : comment la consommer pour limiter les risques de cancer ?",
       "desc": "Manger trop de viande rouge provoque-t-il des maladies ? L'OMS la classe comme un cancérigène probable, mais la viande a aussi des atouts pour notre santé, si on la consomme avec modération.",
       "url": "https://www.franceinfo.fr/sante/alimentation/viande-rouge-comment-la-consommer-pour-limiter-les-risques-de-cancer_8014724.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/D8Qmf_ACD6wIwR8JgcHbHD3I9-A/0x125:1203x802/432x243/filters:format(jpg)/2026/05/19/6a0cd8ab8f111454852208.jpg",
-      "date": "2026-05-19T23:40:07+00:00",
-      "date_formatted": "19 May 2026",
+      "date": "2026-05-20T10:35:00+00:00",
+      "date_formatted": "20 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Deux bactéries intestinales viennent d'être identifiées comme jouant un rôle clé dans Alzheimer",
+      "desc": "Une découverte révolutionnaire bouleverse notre compréhension de la maladie d'Alzheimer. Des chercheurs ont réussi à transférer les symptômes de cette pathologie à des rats en bonne santé via le microbiote intestinal. Cette avancée ouvre de nouvelles perspectives pour le diagnostic précoce et le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-deux-bacteries-intestinales-viennent-etre-identifiees-comme-jouant-role-cle-alzheimer-w2t8-134387/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/4/c/d4c51cd596_50253527_reparer-cerveau-alzheimer.jpg",
+      "date": "2026-05-20T08:00:00+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "\"Sur le terrain\" du 19 mai 2026” : Épidémie : l'humanité en danger ?",
+      "desc": "Loïc de La Mornais poursuit cette édition de Sur le terrain avec une seconde partie consacrée aux nouvelles menaces sanitaires mondiales, alors que l’alerte se renforce autour des virus émergents après plusieurs semaines de vigilance, notamment après l’hantivirus ayant causé trois morts. Le regard s",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-19-mai-2026-epidemie-l-humanite-en-danger_8015894.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_Zj1W40y_9uRxlqsBxmXbtBua8U/28x0:1013x554/432x243/filters:format(jpg)/2026/05/20/6a0d4bb15beec090945090.jpg",
+      "date": "2026-05-20T07:52:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ce que mangent certains enfants chaque jour pourrait multiplier leur risque d'avoir de l'asthme par 4",
+      "desc": "Acariens, pollution, tabagisme passif, génétique… Plusieurs facteurs sont déjà connus pour favoriser l’asthme chez l’enfant. Mais une étude publiée dans Allergy suggère qu’un autre facteur du quotidien pourrait aussi contribuer à l’augmentation des cas.",
+      "url": "https://www.futura-sciences.com/sante/actualites/asthme-ce-mangent-certains-enfants-chaque-jour-pourrait-multiplier-leur-risque-avoir-asthme-4-134642/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/4/9/e49ca89fda_50255434_asthme-enfant.jpg",
+      "date": "2026-05-20T07:03:16+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Vladimir Poutine à Pékin, «l’ampleur et la rapidité» de l’épidémie d’Ebola en RDC, neuvième jour du Festival de Cannes… L’actu de ce mercredi 20 mai au matin",
+      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
+      "url": "https://www.liberation.fr/international/europe/vladimir-poutine-a-pekin-lampleur-et-la-rapidite-de-lepidemie-debola-en-rdc-neuvieme-jour-du-festival-de-cannes-lactu-de-ce-mercredi-20-mai-au-matin-20260520_D6RV3PCXYNCOBIINN4XMCNTSD4/",
+      "image": null,
+      "date": "2026-05-20T05:46:37+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Avec Ebola, les Etats-Unis trouvent une nouvelle raison pour tacler l’OMS",
+      "desc": "Le secrétaire d’Etat américain Marco Rubio reproche à l’OMS d’avoir « un peu tardé » à identifier l’épidémie du virus Ebola qui frappe la République démocratique du Congo",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4224383-20260520-ebola-etats-unis-trouvent-nouvelle-raison-tacler-oms?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/B4xGwV7AT5qjTu4OqHu7UCk/1200x768_credit-obligatoire-photo-de-mauro-scrobogna-la-presse-shutterstock-16865825s-le-secretaire-d-etat-americain-marco-rubio-lors-de-la-reunion-bilaterale-entre-l-italie-et-les-etats-unis-qui-s-est-tenue-au-ministere-des-affaires-etrangeres-rome-vendredi-08-mai-2026-rome-farnesina-visite-du-secretaire-d-etat-americain-rubio-en-italie-08-mai-2026-shutterstock-editorial-rome-farnesina-visit-of-u-s-16865825s-2605081219",
+      "date": "2026-05-20T02:24:49+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -93,16 +143,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : la France prend des mesures de «précaution» à Mayotte, risque «très faible» à ce stade",
-      "desc": "Face à l’épidémie en République démocratique du Congo qui a déjà fait plus de 130 morts, le gouvernement a renforcé ce mardi la surveillance sanitaire dans l’archipel de l’océan indien, qui accueille des migrants de la région touchée par le virus.",
-      "url": "https://www.liberation.fr/societe/sante/ebola-la-france-prend-des-mesures-de-precaution-a-mayotte-risque-tres-faible-a-ce-stade-20260519_LYLZF3YXMNHTLAWAIUV4O4SB6A/",
-      "image": null,
-      "date": "2026-05-19T18:18:55+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Virus Ebola en RDC : « La décision des Occidentaux de réduire leur aide a contribué à l’affaiblissement de la chaîne de surveillance sanitaire »",
       "desc": "Jean Kesaya, le patron d’Africa CDC, l’agence sanitaire de l’Union africaine, dénonce, dans un entretien au « Monde », l’impact de la réduction drastique de l’aide internationale sur la gestion tardive de l’épidémie en cours.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/19/virus-ebola-en-rdc-la-decision-des-occidentaux-de-reduire-leur-aide-a-contribue-a-l-affaiblissement-de-la-chaine-de-surveillance-sanitaire_6691516_3212.html",
@@ -110,36 +150,6 @@
       "date": "2026-05-19T18:01:27+00:00",
       "date_formatted": "19 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Avec cette souche, le taux de létalité peut aller jusqu'à 50%\" : pourquoi l'épidémie d'Ebola en République démocratique du Congo inquiète les autorités sanitaires",
-      "desc": "Compte tenu de l'instabilité de la région où l'épidémie se répand, l'Organisation mondiale de la santé redoute une propagation de la souche Bundibugyo du virus en dehors des frontières de la RDC.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/pourquoi-l-epidemie-d-ebola-en-republique-democratique-du-congo-inquiete-les-autorites-sanitaires_8013755.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/uV663ktoyILaNuapwTO-bGAGNXM/0x185:3600x2210/432x243/filters:format(jpg)/2026/05/19/6a0c216ef1561336404608.jpg",
-      "date": "2026-05-19T17:11:55+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Épidémie d'Ebola en RDC : \"Il faut qu'on rattrape le temps perdu\" alerte Xavier Lescure, infectiologue à l’hôpital Bichat",
-      "desc": "Le médecin rappelle que ce sont \"les premières semaines de la gestion d'une épidémie qui impactent énormément sur la suite.\"",
-      "url": "https://www.franceinfo.fr/sante/epidemie-d-ebola-en-rdc-il-faut-qu-on-rattrape-le-temps-perdu-alerte-xavier-lescure-infectiologue-a-l-hopital-bichat_8014169.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ivZNeE4BFCIem_ag6--wR_7dBrs/0x52:1024x628/432x243/filters:format(jpg)/2026/05/19/6a0c6e2c680d6214950918.jpg",
-      "date": "2026-05-19T16:05:50+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Profils recherchés, anonymat, greffe… Six choses à savoir sur le don de moelle osseuse, après la mobilisation pour sauver Elio, atteint d'un cancer du sang rare",
-      "desc": "Les parents d'Elio, 4 ans et demi, avaient lancé un appel aux dons de moelle osseuse sur les réseaux sociaux et ont finalement trouvé un donneur compatible. En un mois, 70 000 nouvelles personnes se sont inscrites sur les listes de l'Agence de la biomédecine.",
-      "url": "https://www.franceinfo.fr/sante/profils-recherches-anonymat-greffe-six-choses-a-savoir-sur-le-don-de-moelle-osseuse-apres-la-mobilisation-pour-sauver-elio-atteint-d-un-cancer-du-sang-rare_8014025.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/BsC5BxzmL1SDwoAfp818Eic4k94/0x0:4724x2657/432x243/filters:format(jpg)/2026/05/19/6a0c4a7fd5fdf375408927.jpg",
-      "date": "2026-05-19T15:01:36+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -363,16 +373,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : Attention aux applications qui prétendent détecter le virus",
-      "desc": "Certaines applications profitent de l’inquiétude croissante face au hantavirus pour prétendre détecter le virus, malgré l’absence de validation scientifique solide",
-      "url": "https://www.20minutes.fr/high-tech/4223870-20260518-hantavirus-attention-applications-pretendent-detecter-virus?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/XjcQEB7CRLW3XrZ7AeplbSk/1200x768_photos-illustrant-l-hantavirus-une-famille-de-virus-transmise-par-des-rongeurs-11-mai-2025-greuezfrancois-0g4a6834-credit-francois-greuez-sipa-2605111152",
-      "date": "2026-05-18T11:39:20+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Flambée d'Ebola en RDC : ce que l'on sait de l'épidémie",
       "desc": "L’Organisation mondiale de la santé a déclenché une alerte sanitaire internationale face à une nouvelle flambée d’Ebola en République démocratique du Congo. Alors que les autorités tentent de contenir la propagation du virus, cette résurgence suscite de vives inquiétudes et remet en lumière les défi",
       "url": "https://www.sciencesetavenir.fr/sante/alerte-sanitaire-face-a-la-flambee-d-ebola-en-rdc-ce-que-l-on-sait-de-l-epidemie_192486?xtor=RSS-16",
@@ -483,16 +483,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : retrouvez notre direct du 13 au 15 mai",
-      "desc": "La souche de hantavirus détectée chez la passagère française, diagnostiquée positive et actuellement dans un état grave, ne comprend « aucun élément » qui « laisse penser à l’apparition d’un variant susceptible d’être plus transmissible ou plus dangereux », a annoncé la ministre de la santé, Stéphan",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/15/en-direct-hantavirus-les-dernieres-informations_6688609_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/11/630/0/3657/1828/644/322/60/0/91342af_ftp-1-zfiamyyoy7ag-2026-05-11t123428z-430528301-rc2z6laogw1l-rtrmadp-3-cruiseship-hantavirus-france.JPG",
-      "date": "2026-05-15T22:20:17+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Pourquoi le syndrome des ovaires polykystiques change-t-il de nom ?",
       "desc": "Première cause d’infertilité chez les femmes, le SOPK vient d’être rebaptisé syndrome métabolique ovarien polyendocrinien, une étape décisive dans la compréhension et la prise en charge de cette pathologie.",
       "url": "https://www.sciencesetavenir.fr/sante/gyneco/pourquoi-le-syndrome-des-ovaires-polykystiques-change-t-il-de-nom_192467?xtor=RSS-16",
@@ -570,26 +560,6 @@
       "date": "2026-05-14T12:30:03+00:00",
       "date_formatted": "14 May 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Comment l’émail de dents vieilles de 400 000 ans révèle des croisements de populations d’hominines",
-      "desc": "L’analyse de protéines anciennes permet de remonter dans le temps plus loin que l’ADN. Elle fournit pour la première fois une signature spécifique pour distinguer des « Homo erectus » de Chine. Elle suggère des métissages avec des dénisoviens.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/14/comment-l-email-de-dents-vieilles-de-400-000-ans-revele-des-croisements-de-populations-d-hominines_6689053_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/14/333/0/4000/2000/644/322/60/0/23c68be_upload-1-ic0airqbafuk-tooth-1.jpeg",
-      "date": "2026-05-14T10:11:38+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Hantavirus : la barrière naturelle contre certains virus est peut-être en train de céder",
-      "desc": "La mort d’un ornithologue, soupçonné d’être le patient zéro d’une épidémie d’hantavirus à bord d’un navire de croisière, révèle bien plus qu’un simple accident sanitaire : elle raconte les liens fragiles entre biodiversité, activités humaines et émergence des zoonoses.",
-      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-barriere-naturelle-certains-virus-peut-etre-train-ceder-134502/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/2/d/f2dc287ca0_50255223_biodiversite-virus.jpg",
-      "date": "2026-05-13T17:07:09+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
