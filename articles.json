@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-05-20T14:30:06.474474+00:00",
-  "count": 79,
+  "generated_at": "2026-05-20T19:59:48.831571+00:00",
+  "count": 81,
   "articles": [
+    {
+      "title": "Faut-il manger moins de viande ?",
+      "desc": "Manger trop de viande rouge provoque-t-il des maladies ? L'OMS la classe comme un cancérigène probable mais la viande a aussi des atouts pour notre santé, si on la consomme avec modération.",
+      "url": "https://www.franceinfo.fr/sante/faut-il-manger-moins-de-viande_8016785.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_OdIOUAi0bJ4UXFopf8nktn0kT8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/20/6a0dce042c9a7169751461.jpg",
+      "date": "2026-05-20T20:00:01+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Épidémie d'Ebola en RDC : le rôle majeur des réseaux sociaux pour sensibiliser la population",
+      "desc": "En République démocratique du Congo, 71% de la population écoute la radio, mais les réseaux sociaux sont aussi de plus en plus utilisés, un levier majeur pour transmettre des informations sur la maladie.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/epidemie-d-ebola-en-rdc-le-role-majeur-des-reseaux-sociaux-pour-sensibiliser-la-population_8016974.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/14E85nNO1XpSPS2o9tR5jFC7gAU/0x392:6687x4154/432x243/filters:format(jpg)/2026/05/20/6a0debe6b6d46987333126.jpg",
+      "date": "2026-05-20T19:31:34+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une mission scientifique à Ushuaïa pour cartographier l'hantavirus",
+      "desc": "Les rongeurs présents à Ushuaïa sont-ils porteurs de la souche des Andes de l'hantavirus, à l'origine d'un foyer de contamination sur le \"MV Hondius\" ? Des scientifiques argentins tentent de répondre à cette question depuis lundi 18 mai et le lancement d’une mission dans le sud de l'Argentine afin d",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/une-mission-scientifique-a-ushuaia-pour-cartographier-l-hantavirus_8017001.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/RyRZx8Y80B_ps7ZCZvofDbFPFRA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/20/6a0de54b335ac630605623.jpg",
+      "date": "2026-05-20T18:46:21+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. \"Faire arriver le matériel le plus vite possible\" : comment des équipes de Médecins sans frontières se préparent face à l'épidémie d'Ebola en RDC",
+      "desc": "L'aide est en train de s'organiser pour venir en aide aux populations, notamment grâce à MSF France, qui prépare depuis Paris des renforts à envoyer sur place. Une course contre la montre alors que l'épidémie sature les structures sanitaires dans la région.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-faire-arriver-le-materiel-le-plus-vite-possible-comment-des-equipes-de-medecins-sans-frontieres-se-preparent-face-a-l-epidemie-d-ebola-en-rdc_8016674.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/43LNrFNnLu2LmPILCjZ7gkVZUxA/0x78:4200x2440/432x243/filters:format(jpg)/2026/05/20/6a0dd0d684cbf358260889.jpg",
+      "date": "2026-05-20T18:27:28+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Espagne : chez le géant du textile Mango, une guerre de succession et des soupçons de parricide",
+      "desc": "La justice catalane met en cause la thèse de l’accident dans la mort en 2024 d’Isak Andic, le fondateur de l’entreprise. La police soupçonne désormais son propre fils d’avoir tout planifié et a ordonné son arrestation mardi 19 mai.",
+      "url": "https://www.liberation.fr/international/europe/espagne-chez-le-geant-du-textile-mango-une-guerre-de-succession-et-des-soupcons-de-parricide-20260520_PTOT7K67JZCAHORPQG4JSZRVJE/",
+      "image": null,
+      "date": "2026-05-20T18:26:40+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Avec «la Bataille de Gaulle : L’âge de fer», le Festival de Cannes s’offre un moment de képi",
+      "desc": "Redoutablement efficace le premier épisode de la nouvelle épopée ultra-onéreuse de Pathé dresse un portrait flatteur du Général.",
+      "url": "https://www.liberation.fr/culture/avec-la-bataille-de-gaulle-lage-de-fer-le-festival-de-cannes-soffre-un-moment-de-kepi-20260520_PDW5BDRJ6VCPPHXR6E2IRLF6PQ/",
+      "image": null,
+      "date": "2026-05-20T18:23:15+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi cette épidémie inquiète ?",
+      "desc": "Dimanche dernier, l’Organisation Mondiale de la Santé s’est dite préoccupée par l’épidémie d’Ebola qui touche la RDC, un variant pour lequel il n’existe ni vaccin ni traitement. On fait le point sur la situation.",
+      "url": "https://www.franceinfo.fr/sante/pourquoi-cette-epidemie-inquiete_8016893.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/LcHzqQBIMg2RztBTTFd8NP5bR3k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/20/6a0dd906e4dd5730533632.jpg",
+      "date": "2026-05-20T18:01:20+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Malgré des progrès, la France reste loin de son objectif fixé à 80 % d'une couverture vaccinale complète contre le papillomavirus, selon un rapport parlementaire",
+      "desc": "Seule une fille de plus de 12 ans sur deux a reçu deux doses de vaccin tandis que les garçons du même âge ne sont qu'à 32 %, bien loin encore de nos voisins espagnols, portugais ou anglais qui vont au-delà des 80 %.",
+      "url": "https://www.franceinfo.fr/sante/malgre-ses-progres-la-france-reste-loin-de-son-objectif-fixe-a-80-d-une-couverture-vaccinale-complete-contre-le-papillomavirus-selon-un-rapport-parlementaire_8016809.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/h92ugOyUK-74souPecg5PR3LdPI/0x0:1600x899/432x243/filters:format(jpg)/2025/07/04/whatsapp-image-2025-07-04-at-15-02-20-6867d0e966b9e744221883.jpg",
+      "date": "2026-05-20T17:29:27+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Comment des agents d’IA accélèrent la découverte de médicaments",
+      "desc": "Dans deux articles publiés mercredi dans « Nature », les entreprises Google DeepMind et FutureHouse expliquent comment elles ont eu recours à des « robots » pour identifier si des molécules actives contre certaines pathologies pourraient être repositionnées vers d’autres maladies.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/20/comment-des-agents-d-ia-accelerent-la-decouverte-de-medicaments_6691750_1650684.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/374fffb_upload-1-czi5zzhyld8a-frame-404.jpg",
+      "date": "2026-05-20T17:13:09+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "Des patients appelés à se faire dépister après la fermeture d'un cabinet dentaire pour des manquements aux règles d'hygiène et d’asepsie dans la Manche",
       "desc": "Près de 2 800 personnes sont concernées par cette procédure pour laquelle des \"tests de dépistage des virus des hépatites B et C et du VIH\" sont vivement recommandés.",
@@ -11,6 +101,16 @@
       "date_formatted": "20 May 2026",
       "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "Devant le risque d'importation d'Ebola à Mayotte, la députée Estelle Youssouffa dénonce \"l'impuissance\" des autorités qui veulent \"minimiser le problème\"",
@@ -23,16 +123,6 @@
       "type": "presse"
     },
     {
-      "title": "Le pédiatre Aldo Naouri est mort à 88 ans",
-      "desc": "Ce médecin connu grand public était l’une des figures les plus reconnaissables de la pédiatrie française. Dans ses nombreux ouvrages, il s’est intéressé aux relations fille-mère, au rôle du père ou à l’inceste.",
-      "url": "https://www.liberation.fr/societe/familles/le-pediatre-aldo-naouri-est-mort-a-88-ans-20260520_KAPXA37QV5AHPHAKK4RKRTW6E4/",
-      "image": null,
-      "date": "2026-05-20T14:26:37+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "TÉMOIGNAGES. Épidémie d'Ebola en RDC : à Goma, les habitants ont le sentiment \"d'être coupés du monde\" et craignent de ne pas voir arriver l'aide humanitaire",
       "desc": "La ville de Goma, dans l'est de la République démocratique du Congo, craint une nouvelle catastrophe sanitaire. L'épidémie d'Ebola a déjà fait plus de 130 morts, entraînant une alerte internationale de l'OMS.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/temoignages-epidemie-d-ebola-en-rdc-a-goma-les-habitants-ont-le-sentiment-d-etre-coupes-du-monde-et-craignent-de-ne-pas-voir-arriver-l-aide-humanitaire_8016056.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -40,16 +130,6 @@
       "date": "2026-05-20T14:02:15+00:00",
       "date_formatted": "20 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Piste du suicide, symptômes psychiatriques… Ce que l’on sait de la défenestration d’une mère avec trois de ses sept enfants à Toulon",
-      "desc": "Le drame est survenu à l’aube ce mercredi 20 mai dans la cité Pontcarral, à l’ouest de la ville dans le Var. Le corps d’une femme de 38 ans et ceux de ses enfants de 3, 4 et 6 ans ont été retrouvés en bas d’une tour. Elle «se serait jetée d’elle-même du 13e étage», selon le parquet.",
-      "url": "https://www.liberation.fr/societe/police-justice/a-toulon-une-femme-se-suicide-en-se-jetant-par-la-fenetre-avec-ses-trois-enfants-20260520_NZPN4LIRVZAODLHCVM5SNVZODY/",
-      "image": null,
-      "date": "2026-05-20T13:24:51+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -93,16 +173,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola : le risque de propagation «élevé» en Afrique centrale mais «faible» dans le reste du monde, selon l’OMS",
-      "desc": "Si le risque de propagation du virus a été jugé «élevé» pour l’Afrique centrale, le reste du monde n’est exposé qu’à un «faible» risque, a jugé l’organisation. En 50 ans, la maladie a fait plus de 15 000 morts sur le continent africain.",
-      "url": "https://www.liberation.fr/societe/sante/ebola-le-risque-de-propagation-eleve-en-afrique-centrale-mais-faible-dans-le-reste-du-monde-selon-loms-20260520_IQUSIHYIDBHATKFQGQOXXI4SIE/",
-      "image": null,
-      "date": "2026-05-20T12:13:27+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "L’animatrice Laurie Cholewa annonce avoir subi une double mastectomie en raison d’un cancer du sein",
       "desc": "Diagnostiquée d’un cancer du sein en février dernier, l’animatrice a décidé d’avoir recours à une double mastectomie",
       "url": "https://www.20minutes.fr/arts-stars/people/4224449-20260520-animatrice-laurie-cholewa-annonce-avoir-subi-double-mastectomie-raison-cancer-sein?at_medium=display&at_campaign=149",
@@ -120,26 +190,6 @@
       "date": "2026-05-20T10:50:23+00:00",
       "date_formatted": "20 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Viande rouge : comment la consommer pour limiter les risques de cancer ?",
-      "desc": "Manger trop de viande rouge provoque-t-il des maladies ? L'OMS la classe comme un cancérigène probable, mais la viande a aussi des atouts pour notre santé, si on la consomme avec modération.",
-      "url": "https://www.franceinfo.fr/sante/alimentation/viande-rouge-comment-la-consommer-pour-limiter-les-risques-de-cancer_8014724.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/D8Qmf_ACD6wIwR8JgcHbHD3I9-A/0x125:1203x802/432x243/filters:format(jpg)/2026/05/19/6a0cd8ab8f111454852208.jpg",
-      "date": "2026-05-20T10:35:00+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Radicalisés en ligne, fans d’Hitler, incels… Ce que l’on sait des auteurs présumés de l’attaque contre une mosquée à San Diego",
-      "desc": "Les deux suspects de 17 et 18 ans ont été retrouvés morts à bord d’un véhicule stationné à proximité du Centre islamique de la ville californienne visé par l’attaque qui a fait trois morts. Selon la police californienne, ils se seraient suicidés et filmés en direct.",
-      "url": "https://www.liberation.fr/international/amerique/mineur-en-fugue-suicidaire-propos-sur-la-fierte-raciale-ce-que-lon-sait-des-auteurs-presumes-de-lattaque-contre-une-mosquee-a-san-diego-20260519_672FCJFYK5BXDNFDNGV27HNRPM/",
-      "image": null,
-      "date": "2026-05-20T09:41:58+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -193,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "Virus Ebola : le monde en état d'alerte",
-      "desc": "Mais d'abord, l'OMS décrète une urgence de santé internationale, face à l'ampleur et la rapidité de l'épidémie d'Ebola... Le foyer principal se situe en République Démocratique du Congo et a déjà fait plus de 130 morts... mais il se propage au-delà: l'inquiétude grandit à Mayotte.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/virus-ebola-le-monde-en-etat-d-alerte_8014637.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/aRSAWTolsNxwzDQuXYDVfcHNv5E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/19/6a0cb35d55c8c496304025.jpg",
-      "date": "2026-05-19T21:00:58+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Grippe aviaire : Un premier cas détecté en Europe… chez un ours polaire",
       "desc": "Un cas de grippe aviaire H5N5 a été détecté chez un ours polaire retrouvé mort dans l’archipel du Svalbard",
       "url": "https://www.20minutes.fr/sante/4224353-20260519-grippe-aviaire-premier-cas-detecte-europe-chez-ours-polaire?at_medium=display&at_campaign=149",
@@ -210,16 +250,6 @@
       "date": "2026-05-19T20:50:19+00:00",
       "date_formatted": "19 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"On ne sera jamais prêts\" : à Mayotte, l'inquiétude face à l'ampleur de l'épidémie d'Ebola",
-      "desc": "Le territoire français accueille une importante population émigrée originaire d'Afrique centrale, entrée sur l'île souvent clandestinement.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/on-ne-sera-jamais-prets-a-mayotte-l-inquietude-face-a-l-ampleur-de-l-epidemie-d-ebola_8014613.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Vt8LHBTaRUFC-X3laUAnpjoxkpI/0x18:1005x584/432x243/filters:format(jpg)/2026/05/19/6a0caa3e8abe8062035887.jpg",
-      "date": "2026-05-19T20:29:03+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -600,16 +630,6 @@
       "date": "2026-05-15T08:03:54+00:00",
       "date_formatted": "15 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "La recherche sur la genèse des cancers sera la clé d’une meilleure prévention",
-      "desc": "Les innovations technologiques et les progrès de la médecine pour mieux comprendre l’origine des cancers changeront la donne en matière de prévention et de dépistage des 20 millions de nouveaux cas chaque année dans le monde.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/14/la-recherche-sur-la-genese-des-cancers-sera-la-cle-d-une-meilleure-prevention_6689086_3232.html",
-      "image": "https://img.lemde.fr/2026/05/13/295/0/5135/2567/644/322/60/0/b916c4f_upload-1-5wpbis10zhvc-000-a88c99e.jpg",
-      "date": "2026-05-14T14:50:05+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
