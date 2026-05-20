@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-19T19:41:07.920773+00:00",
-  "count": 79,
+  "generated_at": "2026-05-20T02:01:17.159563+00:00",
+  "count": 78,
   "articles": [
+    {
+      "title": "Viande rouge : comment la consommer pour limiter les risques de cancer ?",
+      "desc": "Manger trop de viande rouge provoque-t-il des maladies ? L'OMS la classe comme un cancérigène probable, mais la viande a aussi des atouts pour notre santé, si on la consomme avec modération.",
+      "url": "https://www.franceinfo.fr/sante/alimentation/viande-rouge-comment-la-consommer-pour-limiter-les-risques-de-cancer_8014724.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/D8Qmf_ACD6wIwR8JgcHbHD3I9-A/0x125:1203x802/432x243/filters:format(jpg)/2026/05/19/6a0cd8ab8f111454852208.jpg",
+      "date": "2026-05-19T23:40:07+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Virus Ebola : le monde en état d'alerte",
       "desc": "Mais d'abord, l'OMS décrète une urgence de santé internationale, face à l'ampleur et la rapidité de l'épidémie d'Ebola... Le foyer principal se situe en République Démocratique du Congo et a déjà fait plus de 130 morts... mais il se propage au-delà: l'inquiétude grandit à Mayotte.",
@@ -10,6 +20,16 @@
       "date": "2026-05-19T21:00:58+00:00",
       "date_formatted": "19 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Grippe aviaire : Un premier cas détecté en Europe… chez un ours polaire",
+      "desc": "Un cas de grippe aviaire H5N5 a été détecté chez un ours polaire retrouvé mort dans l’archipel du Svalbard",
+      "url": "https://www.20minutes.fr/sante/4224353-20260519-grippe-aviaire-premier-cas-detecte-europe-chez-ours-polaire?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/kY5iUMYIT9Wtg1hflIqk7yk/1200x768_un-ours-polaire-ursus-maritimus",
+      "date": "2026-05-19T20:50:19+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -423,16 +443,6 @@
       "type": "presse"
     },
     {
-      "title": "Santé, alimentation, eau… L’OMS et l’Europe alertées sur les conséquences sanitaires du changement climatique",
-      "desc": "Selon une commission indépendante paneuropéenne, « la pollution de l’air liée aux énergies fossiles provoque chaque année plus de 600.000 décès dans la région Europe de l’OMS »",
-      "url": "https://www.20minutes.fr/sante/4223835-20260517-sante-alimentation-eau-oms-europe-alertees-consequences-sanitaires-changement-climatique?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/oMQZkRG0RFi-fE49Xyglaik/1200x768_des-gens-se-rafraichissent-dans-une-fontaine-a-boston-dans-le-massachusetts-le-mardi-12-aout-2025-photo-d-aaron-schwartz-sipa-etats-unis-63277373-as-2508132041",
-      "date": "2026-05-17T09:03:37+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Epidémie de fièvre d’Ebola : 88 morts en RDC et un mort en Ouganda, l’OMS déclare une « urgence de santé internationale »",
       "desc": "Selon l’Organisation mondiale de la santé, la situation actuelle ne nécessite pas la déclaration d’une pandémie. Des analyses en laboratoire ont conclu qu’il s’agissait de la souche Bundibugyo du virus, pour laquelle il n’y a ni vaccin ni traitement spécifique.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/16/epidemie-de-fievre-d-ebola-deja-80-morts-suspectes-en-republique-democratique-du-congo-et-un-mort-en-ouganda-selon-les-autorites-sanitaires_6689895_3212.html",
@@ -478,26 +488,6 @@
       "url": "https://www.lemonde.fr/sante/live/2026/05/15/en-direct-hantavirus-les-dernieres-informations_6688609_1651302.html",
       "image": "https://img.lemde.fr/2026/05/11/630/0/3657/1828/644/322/60/0/91342af_ftp-1-zfiamyyoy7ag-2026-05-11t123428z-430528301-rc2z6laogw1l-rtrmadp-3-cruiseship-hantavirus-france.JPG",
       "date": "2026-05-15T22:20:17+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : une nouvelle épidémie s’est déclarée en RDC et touche l’Ouganda ; cinq personnes sont mortes selon un bilan provisoire",
-      "desc": "L’épidémie due à ce virus, souvent mortel malgré les vaccins et traitements, s’est déclarée dans la province de l’Ituri, selon l’agence sanitaire de l’Union africaine, qui a recensé 246 cas suspects dont 65 mortels.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/15/ebola-une-nouvelle-epidemie-s-est-declaree-en-rdc-et-en-ouganda-cinq-personnes-sont-mortes-selon-un-bilan-provisoire_6689415_3213.html",
-      "image": "https://img.lemde.fr/2026/05/15/500/0/6000/3000/644/322/60/0/115f9c2_upload-1-ouozwo6tjbtx-ap25034672987020.jpg",
-      "date": "2026-05-15T20:45:29+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "« Un petit a été tué » : Nantes sous le choc après la mort par balles d’un adolescent",
-      "desc": "Un garçon de 15 ans a été tué à l’arme automatique et deux autres blessés lors d’une scène de violence inouïe, jeudi 14 mai au soir. Dans le quartier de Port-Boyer, le drame sidère et inquiète. En Loire-Atlantique, Nantes est le théâtre de violences armées, avec 54 séquences de tirs recensées entre ",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/15/un-petit-a-ete-tue-nantes-sous-le-choc-apres-la-mort-par-balles-d-un-adolescent_6689469_3224.html",
-      "image": "https://img.lemde.fr/2026/05/15/500/0/6000/3000/644/322/60/0/95a4337_ftp-1-cy3xqkbjkhlh-5038676-01-06.jpg",
-      "date": "2026-05-15T17:35:18+00:00",
       "date_formatted": "15 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
