@@ -1,7 +1,127 @@
 {
-  "generated_at": "2026-05-20T08:50:10.485809+00:00",
-  "count": 75,
+  "generated_at": "2026-05-20T14:30:06.474474+00:00",
+  "count": 79,
   "articles": [
+    {
+      "title": "Des patients appelés à se faire dépister après la fermeture d'un cabinet dentaire pour des manquements aux règles d'hygiène et d’asepsie dans la Manche",
+      "desc": "Près de 2 800 personnes sont concernées par cette procédure pour laquelle des \"tests de dépistage des virus des hépatites B et C et du VIH\" sont vivement recommandés.",
+      "url": "https://www.franceinfo.fr/france/normandie/manche/des-patients-appeles-a-se-faire-depister-apres-la-fermeture-d-un-cabinet-dentaire-pour-des-manquements-aux-regles-d-hygiene-et-d-asepsie-dans-la-manche_8016596.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GJkMsJTP5fwrz0ZtdZgDcOy9Pgg/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/20/6a0dbee56125f367531484.jpg",
+      "date": "2026-05-20T16:02:22+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Devant le risque d'importation d'Ebola à Mayotte, la députée Estelle Youssouffa dénonce \"l'impuissance\" des autorités qui veulent \"minimiser le problème\"",
+      "desc": "L'élue de la première circonscription de Mayotte se dit \"inquiète\" de la circulation du virus devant la \"densité de population dans les bidonvilles\" et les \"coupures d'eau\".",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/devant-le-risque-d-importation-d-ebola-a-mayotte-la-deputee-estelle-youssouffa-denonce-l-impuissance-des-autorites-qui-veulent-minimiser-le-probleme_8016470.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GUbhxKWRxoP9k8zLpyeQBLS9GGc/0x0:1280x720/432x243/filters:format(jpg)/2023/04/25/6447675ed9d6d_whatsapp-image-2023-04-25-at-07-36-08.jpeg",
+      "date": "2026-05-20T15:46:07+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le pédiatre Aldo Naouri est mort à 88 ans",
+      "desc": "Ce médecin connu grand public était l’une des figures les plus reconnaissables de la pédiatrie française. Dans ses nombreux ouvrages, il s’est intéressé aux relations fille-mère, au rôle du père ou à l’inceste.",
+      "url": "https://www.liberation.fr/societe/familles/le-pediatre-aldo-naouri-est-mort-a-88-ans-20260520_KAPXA37QV5AHPHAKK4RKRTW6E4/",
+      "image": null,
+      "date": "2026-05-20T14:26:37+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "TÉMOIGNAGES. Épidémie d'Ebola en RDC : à Goma, les habitants ont le sentiment \"d'être coupés du monde\" et craignent de ne pas voir arriver l'aide humanitaire",
+      "desc": "La ville de Goma, dans l'est de la République démocratique du Congo, craint une nouvelle catastrophe sanitaire. L'épidémie d'Ebola a déjà fait plus de 130 morts, entraînant une alerte internationale de l'OMS.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/temoignages-epidemie-d-ebola-en-rdc-a-goma-les-habitants-ont-le-sentiment-d-etre-coupes-du-monde-et-craignent-de-ne-pas-voir-arriver-l-aide-humanitaire_8016056.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/nnoguS3uZJZZKZODLMFHUpKWsng/0x52:1024x628/432x243/filters:format(jpg)/2026/05/20/6a0d797878136522780099.jpg",
+      "date": "2026-05-20T14:02:15+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Piste du suicide, symptômes psychiatriques… Ce que l’on sait de la défenestration d’une mère avec trois de ses sept enfants à Toulon",
+      "desc": "Le drame est survenu à l’aube ce mercredi 20 mai dans la cité Pontcarral, à l’ouest de la ville dans le Var. Le corps d’une femme de 38 ans et ceux de ses enfants de 3, 4 et 6 ans ont été retrouvés en bas d’une tour. Elle «se serait jetée d’elle-même du 13e étage», selon le parquet.",
+      "url": "https://www.liberation.fr/societe/police-justice/a-toulon-une-femme-se-suicide-en-se-jetant-par-la-fenetre-avec-ses-trois-enfants-20260520_NZPN4LIRVZAODLHCVM5SNVZODY/",
+      "image": null,
+      "date": "2026-05-20T13:24:51+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Le risque d'importation en Europe est nul\", selon l'infectiologue Christophe Rapp, alors que l'épidémie d'Ebola s'étend en RDC",
+      "desc": "L’OMS alerte sur l’épidémie d’Ebola qui prend de l’ampleur en RDC. Le professeur Christophe Rapp, infectiologue hospitalier, appelle à \"une mobilisation\" rapide, tout en voulant rassurer sur le risque d’importation au-delà de l’Afrique.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-risque-d-importation-en-europe-est-nul-selon-l-infectiologue-christophe-rappe-alors-que-l-epidemie-d-ebola-s-etend-en-rdc_8016086.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GGutnvgroHbbntTTGaEy-BaBCjE/0x260:5000x3073/432x243/filters:format(jpg)/2026/05/20/6a0d8bb459fc1965476116.jpg",
+      "date": "2026-05-20T13:16:55+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : l’OMS juge le risque « élevé » en Afrique centrale, mais « faible » à l’échelle mondiale",
+      "desc": "Selon l’Organisation mondiale de la santé, l’épidémie de maladie à virus Ebola, déjà suspectée d’avoir fait 139 morts pour près de 600 cas probables, se propage dans l’est de la RDC et pourrait se prolonger.",
+      "url": "https://www.lemonde.fr/sante/article/2026/05/20/ebola-l-oms-juge-le-risque-eleve-en-afrique-centrale-mais-faible-a-l-echelle-mondiale_6691719_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/20/3409/0/3684/1842/644/322/60/0/19608f6_ftp-1-koh0w2r6atfc-d1036627b3af49a7acad713e1cc95c8a-0-e9d93c2e11b34ba289848016786d2bc6.jpg",
+      "date": "2026-05-20T13:12:56+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Voici ce qui se passe quand vous mâchez vraiment vos aliments, et c’est assez surprenant",
+      "desc": "On sait depuis longtemps que mâcher davantage aide la digestion. Mais des recherches suggèrent que cela pourrait aussi stimuler le cerveau et même contribuer à prévenir certaines maladies neurodégénératives comme Alzheimer. Tour d’horizon.",
+      "url": "https://www.futura-sciences.com/sante/actualites/dents-voici-ce-passe-vous-machez-vraiment-vos-aliments-cest-assez-surprenant-134664/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/e/c/9ec9911ec7_50255472_macher-manger.jpg",
+      "date": "2026-05-20T12:45:28+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cerveau : comment le sexe influence l'expression des gènes",
+      "desc": "Des chercheurs américains révèlent des différences subtiles mais généralisées dans l’expression génétique entre les cerveaux masculins et féminins. Cette disparité pourrait contribuer à expliquer comment le sexe influe sur le risque et le développement de certaines maladies.",
+      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/cerveau-l-expression-genetique-depend-du-sexe-et-peut-influencer-le-risque-de-maladie_192492?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/18/cover-r4x3w1200-6a0aeaedd1200-afp-20200922-f0311116-v1-highres-brainneuralnetworkillustration.jpg",
+      "date": "2026-05-20T12:43:52+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : le risque de propagation «élevé» en Afrique centrale mais «faible» dans le reste du monde, selon l’OMS",
+      "desc": "Si le risque de propagation du virus a été jugé «élevé» pour l’Afrique centrale, le reste du monde n’est exposé qu’à un «faible» risque, a jugé l’organisation. En 50 ans, la maladie a fait plus de 15 000 morts sur le continent africain.",
+      "url": "https://www.liberation.fr/societe/sante/ebola-le-risque-de-propagation-eleve-en-afrique-centrale-mais-faible-dans-le-reste-du-monde-selon-loms-20260520_IQUSIHYIDBHATKFQGQOXXI4SIE/",
+      "image": null,
+      "date": "2026-05-20T12:13:27+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’animatrice Laurie Cholewa annonce avoir subi une double mastectomie en raison d’un cancer du sein",
+      "desc": "Diagnostiquée d’un cancer du sein en février dernier, l’animatrice a décidé d’avoir recours à une double mastectomie",
+      "url": "https://www.20minutes.fr/arts-stars/people/4224449-20260520-animatrice-laurie-cholewa-annonce-avoir-subi-double-mastectomie-raison-cancer-sein?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/HQH6VDOwQy2c9icgzqFK5yk/1200x768_l-animatrice-laurie-cholewa-annonce-avoir-subi-une-double-mastectomie-en-raison-d-un-cancer-du-sein",
+      "date": "2026-05-20T11:36:49+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : l’épidémie s’accélère dans l’est de la RDC, plus de 130 morts",
+      "desc": "Une épidémie d’Ebola progresse dans l’est de la République démocratique du Congo, avec plus de 130 morts et 513 cas recensés. L’OMS a déclenché une alerte maximale et mobilisé des ressources d’urgence. Fièvre hémorragique, panique locale et absence de vaccin alimentent l’inquiétude.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-l-epidemie-s-accelere-dans-l-est-dla-rdc-plus-de-130-morts_8016095.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/R57vf_ql6aXnEAd6gtNUCGr98Bk/0x28:781x468/432x243/filters:format(jpg)/2026/05/20/6a0d75bad4c07301965929.jpg",
+      "date": "2026-05-20T10:50:23+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Viande rouge : comment la consommer pour limiter les risques de cancer ?",
       "desc": "Manger trop de viande rouge provoque-t-il des maladies ? L'OMS la classe comme un cancérigène probable, mais la viande a aussi des atouts pour notre santé, si on la consomme avec modération.",
@@ -11,6 +131,26 @@
       "date_formatted": "20 May 2026",
       "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "Radicalisés en ligne, fans d’Hitler, incels… Ce que l’on sait des auteurs présumés de l’attaque contre une mosquée à San Diego",
+      "desc": "Les deux suspects de 17 et 18 ans ont été retrouvés morts à bord d’un véhicule stationné à proximité du Centre islamique de la ville californienne visé par l’attaque qui a fait trois morts. Selon la police californienne, ils se seraient suicidés et filmés en direct.",
+      "url": "https://www.liberation.fr/international/amerique/mineur-en-fugue-suicidaire-propos-sur-la-fierte-raciale-ce-que-lon-sait-des-auteurs-presumes-de-lattaque-contre-une-mosquee-a-san-diego-20260519_672FCJFYK5BXDNFDNGV27HNRPM/",
+      "image": null,
+      "date": "2026-05-20T09:41:58+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Epidémie d'Ebola : la France prend des mesures de \"précaution\" à Mayotte",
+      "desc": "Le gouvernement français s'est dit le 19 mai 2026 \"très attentif\" à l'épidémie d'Ebola et a annoncé avoir pris des \"premières mesures de précaution\" à Mayotte, bien que \"le risque d’importation en France hexagonale\" et dans l'archipel soit \"très faible\" à ce stade.",
+      "url": "https://www.sciencesetavenir.fr/sante/epidemie-d-ebola-la-france-prend-des-mesures-de-precaution-a-mayotte_192524?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/20/cover-r4x3w1200-6a0d76240b99c-afp-20251031-82l46wf-v1-highres-franceoverseasmayottehealth.jpg",
+      "date": "2026-05-20T08:51:48+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Deux bactéries intestinales viennent d'être identifiées comme jouant un rôle clé dans Alzheimer",
@@ -41,16 +181,6 @@
       "date_formatted": "20 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Vladimir Poutine à Pékin, «l’ampleur et la rapidité» de l’épidémie d’Ebola en RDC, neuvième jour du Festival de Cannes… L’actu de ce mercredi 20 mai au matin",
-      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
-      "url": "https://www.liberation.fr/international/europe/vladimir-poutine-a-pekin-lampleur-et-la-rapidite-de-lepidemie-debola-en-rdc-neuvieme-jour-du-festival-de-cannes-lactu-de-ce-mercredi-20-mai-au-matin-20260520_D6RV3PCXYNCOBIINN4XMCNTSD4/",
-      "image": null,
-      "date": "2026-05-20T05:46:37+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Avec Ebola, les Etats-Unis trouvent une nouvelle raison pour tacler l’OMS",
@@ -100,36 +230,6 @@
       "date": "2026-05-19T19:38:17+00:00",
       "date_formatted": "19 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Épidémie d'Ebola en RDC : des recherches ont déjà commencé pour trouver un traitement en s'appuyant sur l'expertise française",
-      "desc": "Des biologistes français sont déjà partis dans la région d’Ituri, en RDC, pour étudier les anticorps monoclonaux.",
-      "url": "https://www.franceinfo.fr/sante/epidemie-d-ebola-en-rdc-des-recherches-ont-deja-commence-pour-trouver-un-traitement-en-s-appuyant-sur-l-expertise-francaise_8014571.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/fkQJIP-ZMnv2TxKQxJXlfSND5qI/0x52:1024x628/432x243/filters:format(jpg)/2026/05/19/6a0c9fafbb136361287240.jpg",
-      "date": "2026-05-19T19:37:04+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Prothèses mammaires, sous-vêtements adaptés… Une pétition demande l'application de la loi sur le remboursement des soins et dispositifs liés au cancer du sein",
-      "desc": "Le texte a été adopté et promulgué en février 2025 mais les décrets d'application ne sont toujours pas publiés.",
-      "url": "https://www.franceinfo.fr/sante/protheses-mammaires-sous-vetements-adaptes-une-petition-presse-le-gouvernement-d-appliquer-la-loi-prevoyant-le-remboursement-des-soins-et-dispositifs-lies-au-cancer-du-sein_8014436.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zWQkxD2loelyGgyERy2fHcnKaTg/0x53:1024x629/432x243/filters:format(jpg)/2026/05/19/6a0c8d7052193943408072.jpg",
-      "date": "2026-05-19T19:06:30+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le gouvernement se dit \"très attentif\" à l'épidémie d'Ebola et a pris des \"premières mesures de précaution\" pour Mayotte",
-      "desc": "Cependant, le Premier ministre assure, dans un communiqué, que \"le risque d'importation en France hexagonale\" et à Mayotte \"est très faible\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-gouvernement-se-dit-tres-attentif-a-l-epidemie-d-ebola-et-a-pris-des-premieres-mesures-de-precaution-pour-mayotte_8014412.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ZdPnwLuRibiDZ4i3lcvNBIofuLE/0x11:1024x587/432x243/filters:format(jpg)/2026/05/19/6a0c927ea8727375541092.jpg",
-      "date": "2026-05-19T18:41:52+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -383,16 +483,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola : Ce que l’on sait sur l’épidémie en République démocratique du Congo",
-      "desc": "Une alerte sanitaire internationale a été déclenchée par l’OMS face à une épidémie d’Ebola en République démocratique du Congo",
-      "url": "https://www.20minutes.fr/sante/4224023-20260518-ebola-sait-epidemie-republique-democratique-congo?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Pp_wagD-QS6v3FvVtiTh9ik/1200x768_dossier-un-agent-de-sante-pulverise-du-desinfectant-sur-son-collegue-apres-avoir-travaille-dans-un-centre-de-traitement-d-ebola-a-beni-dans-l-est-du-congo-le-9-septembre-2018-photo-ap-al-hadji-kudra-maliro-dossier-tkhk503-26135314889340-photo-d-archive-2605151049",
-      "date": "2026-05-18T08:48:42+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Le QI mondial baisse depuis les années 1980 et la science vient d'identifier les vrais responsables",
       "desc": "Le quotient intellectuel moyen est en chute depuis plusieurs décennies et ce phénomène surprenant serait davantage lié à notre environnement qu’à nos prédispositions génétiques.",
       "url": "https://www.futura-sciences.com/sante/actualites/cerveau-qi-mondial-baisse-depuis-annees-80-science-vient-identifier-vrais-responsables-w2t8-134383/#xtor%3DRSS-8",
@@ -401,26 +491,6 @@
       "date_formatted": "18 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : Le navire MV Hondius accoste ce matin aux Pays-Bas avec 27 personnes à bord et un corps",
-      "desc": "Parmi les 27 derniers passagers du navire MV Hondius qui doit accoster à Rotterdam ce lundi, se trouvent 25 membres d’équipage et deux soignants",
-      "url": "https://www.20minutes.fr/sante/4224019-20260518-hantavirus-navire-mv-hondius-accoste-matin-pays-bas-27-personnes-bord-corps?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/kGbelx7zSz6CmfVFGgaOjyk/1200x768_les-preparatifs-sont-en-cours-avant-l-arrivee-du-navire-de-croisiere-mv-hondius-au-port-de-rotterdam-aux-pays-bas-le-lundi-18-mai-2026-ap-photo-patrick-post-xvm101-26138243784769-2605180848",
-      "date": "2026-05-18T07:26:05+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le Canada confirme un premier cas d’Hantavirus sur son territoire",
-      "desc": "La personne testée positive avait voyagé sur le navire MV Hondius. Les autorités sanitaires jugent le risque « faible » pour la population",
-      "url": "https://www.20minutes.fr/monde/canada/4223884-20260518-canada-confirme-premier-cas-hantavirus-territoire?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/TwpogKKaRBCRt4iTbjTNqCk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8059-credit-mourad-allili-sipa-2605121208",
-      "date": "2026-05-18T00:20:18+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Peste noire : un document exceptionnel du Moyen Âge révèle qui survivait… et combien de temps durait la maladie",
@@ -471,16 +541,6 @@
       "date_formatted": "16 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : récit d’une semaine sous pression en France, entre inconnues scientifiques et à-coups de l’exécutif",
-      "desc": "Confronté à un risque sanitaire inédit, depuis la crise liée au Covid-19, l’exécutif s’est mis en ordre de marche par à-coups, pour définir sa stratégie et prendre en charge les 27 personnes à date exposées au virus. Du rapatriement des croisiéristes français à l’annonce des résultats négatifs des c",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/16/hantavirus-recit-d-une-semaine-sous-pression-en-france-entre-inconnues-scientifiques-et-a-coups-de-l-executif_6689602_3224.html",
-      "image": "https://img.lemde.fr/2026/05/15/622/0/5673/2836/644/322/60/0/c279512_upload-1-hyjph0was0gr-000-b2ep3cg.jpg",
-      "date": "2026-05-16T05:00:01+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Pourquoi le syndrome des ovaires polykystiques change-t-il de nom ?",
@@ -553,16 +613,6 @@
       "type": "science"
     },
     {
-      "title": "« Une histoire de la vie » livre un voyage dans la cellule humaine",
-      "desc": "Dans son ouvrage de vulgarisation, le médecin américain Siddhartha Mukherjee dévoile l’immense complexité de la plus petite unité vivante dans notre organisme.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/14/une-histoire-de-la-vie-livre-un-voyage-dans-la-cellule-humaine_6689066_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/12/160/0/1920/960/644/322/60/0/33d9af6_upload-1-yefhsvk14v40-generated-1778591825843.jpg",
-      "date": "2026-05-14T12:30:03+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Hantavirus : ce qui le différencie vraiment du Covid-19",
       "desc": "Alors que plusieurs cas suscitent l’inquiétude depuis le début de l’épidémie sur le MV Hondius, les autorités sanitaires appellent à la prudence. Moins transmissible que le Covid-19, l’hantavirus des Andes reste toutefois beaucoup plus mortel. Les analyses en cours doivent encore préciser s’il s’agi",
       "url": "https://www.sciencesetavenir.fr/sante/hantavirus-ce-qui-le-differencie-vraiment-du-covid-19_192440?xtor=RSS-16",
@@ -609,16 +659,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/12/cover-r4x3w1200-6a02b8fd4d4a9-73a84f8bbc0eacc78cb0b181f311ff4e96d986cc-jpg.jpg",
       "date": "2026-05-12T10:06:39+00:00",
       "date_formatted": "12 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Une Française rapatriée du MV Hondius positive à l'hantavirus, 22 cas contacts en France",
-      "desc": "La ministre de la Santé, Stéphanie Rist, a annoncé le 11 mai 2026 qu’une passagère rapatriée en France depuis le bateau de croisière *MV Hondius* était atteinte de ce virus rare. Les autorités françaises souhaitent également entrer en contact avec 14 passagers d’un vol Johannesburg-Amsterdam.",
-      "url": "https://www.sciencesetavenir.fr/sante/une-francaise-rapatriee-du-mv-hondius-positive-a-l-hantavirus-22-cas-contacts-en-france_192385?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/11/cover-r4x3w1200-6a01980770318-hantavierus-33.jpg",
-      "date": "2026-05-11T09:06:05+00:00",
-      "date_formatted": "11 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
