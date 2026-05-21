@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-05-21T02:01:05.091884+00:00",
-  "count": 81,
+  "generated_at": "2026-05-21T08:52:37.510964+00:00",
+  "count": 85,
   "articles": [
+    {
+      "title": "TEMOIGNAGE. \"On fait avec les moyens du bord\" : face aux risques d'épidémie d'Ebola en République démocratique du Congo, des soignants démunis et inquiets",
+      "desc": "L'Organisation mondiale de la santé (OMS) a activé dimanche l'alerte sanitaire internationale dans ce pays d'Afrique centrale, qui manque de moyens pour soigner et sensibiliser la population aux gestes barrières.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/temoignage-on-fait-avec-les-moyens-du-bord-face-aux-risques-d-epidemie-d-ebola-en-republique-democratique-du-congo-des-soignants-demunis-et-inquiets_8017046.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_1u8rqG2EpR3Q4tMJeFqsVcf1ek/0x218:4200x2581/432x243/filters:format(jpg)/2026/05/20/6a0e0424b7d61289390666.jpg",
+      "date": "2026-05-21T09:22:07+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : un risque \"élevé\" en Afrique centrale mais \"faible\" au niveau mondial",
+      "desc": "Le risque épidémique d'Ebola en République démocratique du Congo (RDC) est jugé \"élevé\" pour l'Afrique centrale mais \"faible\" au niveau mondial par l'Organisation mondiale de la santé (OMS), selon laquelle l'épidémie est probablement apparue \"il y a plusieurs mois\".",
+      "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-evoque-un-risque-eleve-en-afrique-centrale-mais-faible-au-niveau-mondial_192536?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/20/cover-r4x3w1200-6a0df84a889c1-3dfa5b6abb1146e9691ffc79eb3b68972bec0bcb-jpg.jpg",
+      "date": "2026-05-21T08:45:58+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Hypertension : ce traitement pourrait aussi ralentir le vieillissement, selon une étude",
+      "desc": "Une découverte révolutionnaire vient bouleverser notre compréhension du vieillissement. Des chercheurs ont réussi à prolonger la vie de souris adultes de 33 % en réduisant simplement un acide aminé dans leur alimentation. Cette avancée pourrait-elle ouvrir la voie à une longévité accrue chez...",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-hypertension-ce-traitement-pourrait-aussi-ralentir-vieillissement-selon-etude-w2t8-134389/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/d/1/ed15af6716_50255004_gelules-hypertension-vieillissement.jpg",
+      "date": "2026-05-21T08:00:00+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Les colorants et les conservateurs augmentent le risque de cancer, de diabète et d'hypertension, selon plusieurs études",
+      "desc": "Trois études menées par l’Inserm établissent un lien entre certains additifs alimentaires et un risque accru de cancer, de diabète de type 2 et d’hypertension. Les chercheurs pointent notamment les effets des colorants et conservateurs présents dans de nombreux aliments ultra-transformés.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/les-colorants-et-les-conservateurs-augmentent-le-risque-de-cancer-de-diabete-et-d-hypertension-selon-plusieurs-etudes_8017841.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mbvDLeWk2HdBarLW-A_XnOR7C_s/0x286:5500x3380/432x243/filters:format(jpg)/2026/05/21/6a0e98a3d5426891249185.jpg",
+      "date": "2026-05-21T07:36:23+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : en Argentine, des scientifiques mènent l'enquête sur l'origine de l'épidémie",
+      "desc": "À l'extrême sud de l'Argentine, une équipe de scientifiques vient de commencer une mission très attendue : déterminer l'origine de l'épidémie d'hantavirus, dont le foyer d'infection a été découvert sur un navire de croisière parti du pays. Les experts vont traquer des rongeurs présents sur ce territ",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-en-argentine-des-scientifiques-menent-l-enquete-sur-l-origine-de-l-epidemie_8017946.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ODNuyskv9KsWbI80n3ljnqfx3Gc/197x0:1696x843/432x243/filters:format(jpg)/2026/05/21/6a0e96fe868b6179754298.jpg",
+      "date": "2026-05-21T07:26:16+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alimentation : De nouvelles preuves scientifiques sur le danger des additifs, colorants et conservateurs",
+      "desc": "Des études de l’Inserm montrent qu’une alimentation à base de produits ultratransformés accroît notamment les risques de diabète de type 2 et de cancer",
+      "url": "https://www.20minutes.fr/sante/4224593-20260521-alimentation-nouvelles-preuves-scientifiques-danger-additifs-colorants-conservateurs?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/TljU-MZIRmKB6rv8EP5DSyk/1200x768_client-en-deambulation-dans-les-rayons-illustrations-dans-un-supermarche-intermarche-31-10-2024-viry-chatillon-france-seba-seba299-credit-seba-sipa-2411010838",
+      "date": "2026-05-21T06:45:50+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : un hôpital argentin à la recherche du vaccin",
+      "desc": "Fernando Tortosa l'une des références en Argentine sur l'hantavirus, directeur du laboratoire de recherche de l'université de Rio Negro, teste en ce moment même un nouveau traitement sur des malades. Mais depuis l'accession au pouvoir de l'ultralibéral et antivax Javier Milei, la recherche médicale ",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-hopital-argentin-a-la-recherche-du-vaccin_8016938.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/4wl-hM0pDRjdM4geJAYBmhW6ASs/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/20/6a0dddfc584df776492043.jpg",
+      "date": "2026-05-21T06:00:16+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Diabète, hypertension, cancer, maladies cardiovasculaire... Trois études confirment le danger des aliments ultratransformés",
+      "desc": "Ces travaux d’envergure ne prouvent pas formellement les effets de la consommation sur certaines pathologies. Mais «le faisceau d’arguments est désormais assez fort pour dire qu’il faut agir au plan de la santé publique».",
+      "url": "https://www.liberation.fr/societe/sante/diabete-hypertension-cancer-maladies-cardiovasculaire-trois-etudes-confirment-le-danger-des-aliments-ultratransformes-20260521_GGWNK7LNQZDDLOZROUHMDXHAIU/",
+      "image": null,
+      "date": "2026-05-21T05:54:57+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Une forte exposition aux colorants alimentaires liée à un risque accru de diabète de type 2 et de cancers",
+      "desc": "Une équipe française a réalisé la première étude épidémiologique d’ampleur qui documente le lien entre additifs colorants et risques de maladies chroniques.",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/21/une-forte-exposition-aux-colorants-alimentaires-liee-a-un-risque-accru-de-diabete-de-type-2-et-de-cancers_6691803_3244.html",
+      "image": "https://img.lemde.fr/2026/05/20/433/0/5196/2598/644/322/60/0/2adb61a_upload-1-yanzeor6pqes-gettyimages-2262161932-1.jpg",
+      "date": "2026-05-21T05:00:02+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
       "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
@@ -50,26 +140,6 @@
       "date": "2026-05-20T18:27:28+00:00",
       "date_formatted": "20 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Espagne : chez le géant du textile Mango, une guerre de succession et des soupçons de parricide",
-      "desc": "La justice catalane met en cause la thèse de l’accident dans la mort en 2024 d’Isak Andic, le fondateur de l’entreprise. La police soupçonne désormais son propre fils d’avoir tout planifié et a ordonné son arrestation mardi 19 mai.",
-      "url": "https://www.liberation.fr/international/europe/espagne-chez-le-geant-du-textile-mango-une-guerre-de-succession-et-des-soupcons-de-parricide-20260520_PTOT7K67JZCAHORPQG4JSZRVJE/",
-      "image": null,
-      "date": "2026-05-20T18:26:40+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Avec «la Bataille de Gaulle : L’âge de fer», le Festival de Cannes s’offre un moment de képi",
-      "desc": "Redoutablement efficace le premier épisode de la nouvelle épopée ultra-onéreuse de Pathé dresse un portrait flatteur du Général.",
-      "url": "https://www.liberation.fr/culture/avec-la-bataille-de-gaulle-lage-de-fer-le-festival-de-cannes-soffre-un-moment-de-kepi-20260520_PDW5BDRJ6VCPPHXR6E2IRLF6PQ/",
-      "image": null,
-      "date": "2026-05-20T18:23:15+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -193,16 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : l’épidémie s’accélère dans l’est de la RDC, plus de 130 morts",
-      "desc": "Une épidémie d’Ebola progresse dans l’est de la République démocratique du Congo, avec plus de 130 morts et 513 cas recensés. L’OMS a déclenché une alerte maximale et mobilisé des ressources d’urgence. Fièvre hémorragique, panique locale et absence de vaccin alimentent l’inquiétude.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-l-epidemie-s-accelere-dans-l-est-dla-rdc-plus-de-130-morts_8016095.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/R57vf_ql6aXnEAd6gtNUCGr98Bk/0x28:781x468/432x243/filters:format(jpg)/2026/05/20/6a0d75bad4c07301965929.jpg",
-      "date": "2026-05-20T10:50:23+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Epidémie d'Ebola : la France prend des mesures de \"précaution\" à Mayotte",
       "desc": "Le gouvernement français s'est dit le 19 mai 2026 \"très attentif\" à l'épidémie d'Ebola et a annoncé avoir pris des \"premières mesures de précaution\" à Mayotte, bien que \"le risque d’importation en France hexagonale\" et dans l'archipel soit \"très faible\" à ce stade.",
       "url": "https://www.sciencesetavenir.fr/sante/epidemie-d-ebola-la-france-prend-des-mesures-de-precaution-a-mayotte_192524?xtor=RSS-16",
@@ -221,16 +281,6 @@
       "date_formatted": "20 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "\"Sur le terrain\" du 19 mai 2026” : Épidémie : l'humanité en danger ?",
-      "desc": "Loïc de La Mornais poursuit cette édition de Sur le terrain avec une seconde partie consacrée aux nouvelles menaces sanitaires mondiales, alors que l’alerte se renforce autour des virus émergents après plusieurs semaines de vigilance, notamment après l’hantivirus ayant causé trois morts. Le regard s",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-19-mai-2026-epidemie-l-humanite-en-danger_8015894.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/_Zj1W40y_9uRxlqsBxmXbtBua8U/28x0:1013x554/432x243/filters:format(jpg)/2026/05/20/6a0d4bb15beec090945090.jpg",
-      "date": "2026-05-20T07:52:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ce que mangent certains enfants chaque jour pourrait multiplier leur risque d'avoir de l'asthme par 4",
@@ -549,16 +599,6 @@
       "image": "https://img.lemde.fr/2026/05/16/313/0/5472/2736/644/322/60/0/e868c02_ftp-1-lhzw77zobh3s-17a3be1885ce46b797af9345e9b2e314-0-bf5a7cda9756405b97a7c84ef7175ed7.jpg",
       "date": "2026-05-17T11:47:19+00:00",
       "date_formatted": "17 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Epidémie de fièvre d’Ebola : 88 morts en RDC et un mort en Ouganda, l’OMS déclare une « urgence de santé internationale »",
-      "desc": "Selon l’Organisation mondiale de la santé, la situation actuelle ne nécessite pas la déclaration d’une pandémie. Des analyses en laboratoire ont conclu qu’il s’agissait de la souche Bundibugyo du virus, pour laquelle il n’y a ni vaccin ni traitement spécifique.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/16/epidemie-de-fievre-d-ebola-deja-80-morts-suspectes-en-republique-democratique-du-congo-et-un-mort-en-ouganda-selon-les-autorites-sanitaires_6689895_3212.html",
-      "image": "https://img.lemde.fr/2026/05/16/456/0/5472/2736/644/322/60/0/4f091ee_ftp-1-xedaop9pqmvd-7981ba5812d6415aaa4069d3d8ef289a-0-fea395b0ca864e4abf3bdae13e91448e.jpg",
-      "date": "2026-05-16T16:54:59+00:00",
-      "date_formatted": "16 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
