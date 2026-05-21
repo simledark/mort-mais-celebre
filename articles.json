@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-20T19:59:48.831571+00:00",
+  "generated_at": "2026-05-21T02:01:05.091884+00:00",
   "count": 81,
   "articles": [
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
     {
       "title": "Faut-il manger moins de viande ?",
       "desc": "Manger trop de viande rouge provoque-t-il des maladies ? L'OMS la classe comme un cancérigène probable mais la viande a aussi des atouts pour notre santé, si on la consomme avec modération.",
@@ -799,16 +809,6 @@
       "image": null,
       "date": "2026-03-23T07:00:00+00:00",
       "date_formatted": "23 March 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une nouvelle piste thérapeutique contre l’hépatoblastome, principal cancer du foie chez l’enfant",
-      "desc": "Une équipe de l’Institut d’oncologie de Bordeaux (Inserm/université de Bordeaux) a mis au point un protocole associant un inhibiteur chimique d’EZH2, une protéine impliquée dans de nombreux cancers, et des statines (des médicaments anti-cholestérol) dans le but de cibler les cellules tumorales résis",
-      "url": "https://presse.inserm.fr/une-nouvelle-piste-therapeutique-contre-lhepatoblastome-principal-cancer-du-foie-chez-lenfant/72352/",
-      "image": null,
-      "date": "2026-03-19T08:30:45+00:00",
-      "date_formatted": "19 March 2026",
       "source": "Inserm",
       "type": "science"
     }
