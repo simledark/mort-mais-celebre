@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-05-21T08:52:37.510964+00:00",
-  "count": 85,
+  "generated_at": "2026-05-21T14:34:09.103322+00:00",
+  "count": 84,
   "articles": [
+    {
+      "title": "Epidémie d'Ebola en RDC : un vol Paris-Détroit s'arrête à Montréal pour débarquer un passager congolais, interdit d'entrée aux Etats-Unis",
+      "desc": "Ce ressortissant de la République démocratique du Congo a été privé d'entrée sur le territoire américain en raison des précautions des Etats-Unis face à l'épidémie d'Ebola.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/epidemie-d-ebola-en-rdc-un-vol-paris-detroit-s-arrete-a-montreal-pour-debarquer-un-passager-congolais_8018510.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/CwE9TSS6m2kP_VgVeW4JP3GJpdk/0x39:1024x615/432x243/filters:format(jpg)/2026/05/21/6a0efc95aec10662398332.jpg",
+      "date": "2026-05-21T14:42:22+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Ebola : un premier cas confirmé dans le Sud-Kivu, en République démocratique du Congo",
+      "desc": "Le foyer de l’épidémie se trouve dans la province de l’Ituri et des cas ont également été décelés dans celle du Nord-Kivu (Est), mais aucun n’avait encore été confirmé dans celle du Sud-Kivu. Le diagnostic a été établi dans une zone aux mains des rebelles du M23.",
+      "url": "https://www.lemonde.fr/international/article/2026/05/21/virus-ebola-un-premier-cas-confirme-dans-le-sud-kivu-en-republique-democratique-du-congo_6691881_3210.html",
+      "image": "https://img.lemde.fr/2026/05/21/501/0/2031/1015/644/322/60/0/ef93fd7_ftp-1-wefkd5tkoas9-2026-05-21t065143z-400364620-rc22dlamm9hf-rtrmadp-3-health-ebola-goma.JPG",
+      "date": "2026-05-21T14:28:05+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un premier cas d'Ebola confirmé dans une zone contrôlée par le M23 en République démocratique du Congo",
+      "desc": "La flambée épidémique du virus a déjà fait 139 morts sur près de 600 cas probables, selon l'OMS.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-premier-cas-d-ebola-confirme-dans-une-zone-controlee-par-le-m23-en-republique-democratique-du-congo_8018393.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/xHIYDuMC6seHLeirf3YyXLMCYQU/0x0:1024x576/432x243/filters:format(jpg)/2026/05/21/6a0ee5c0dddd9523265762.jpg",
+      "date": "2026-05-21T13:46:28+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Ebola : L’épidémie s’élargit, le risque jugé « élevé » en Afrique centrale",
+      "desc": "Le risque épidémique d’Ebola est jugé « élevé » pour l’Afrique centrale mais « faible » au niveau mondial par l’Organisation mondiale de la santé (OMS), selon laquelle l’épidémie est probablement apparue « il y a plusieurs mois »",
+      "url": "https://www.20minutes.fr/monde/4224724-20260521-virus-ebola-epidemie-elargit-risque-juge-eleve-afrique-centrale?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Bds2e6buQdmlXa3jTahsJSk/1200x768_un-agent-de-sante-desinfecte-une-personne-apres-avoir-transporte-un-cas-suspect-d-ebola-a-l-hopital-general-de-bunia-au-congo-le-jeudi-21-mai-2026",
+      "date": "2026-05-21T13:36:43+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Les lobbies, il y en a marre\" : une nutritionniste alerte sur les dangers des additifs alimentaires pour la santé",
+      "desc": "Trois études françaises confirment qu'il existe un lien entre la consommation de certains colorants et conservateurs, présents dans les aliments ultra-transformés, et un risque accru de développer certaines maladies chroniques. \"Les consommateurs doivent être informés des risques qu'ils prennent\", e",
+      "url": "https://www.franceinfo.fr/sante/alimentation/les-lobbies-il-y-en-a-marre-une-nutritionniste-alerte-sur-les-dangers-des-additifs-alimentaires-pour-la-sante_8018105.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/iqDWWoPnTqwKwVZIDqIhBV6XY0w/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/21/6a0edc9324b2b840659448.jpg",
+      "date": "2026-05-21T13:03:25+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : un hôpital argentin à la recherche du vaccin",
+      "desc": "C'est à Bariloche, en Patagonie agentine, que les malades de l'hantavirus des Andes sont soignés. Fernando Tortosa, directeur du laboratoire de recherche de l'université de Rio Negro, teste en ce moment même un nouveau traitement sur des malades. Mais depuis l'accession au pouvoir de l'ultralibéral ",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-hopital-argentin-a-la-recherche-du-vaccin_8016938.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/4wl-hM0pDRjdM4geJAYBmhW6ASs/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/20/6a0dddfc584df776492043.jpg",
+      "date": "2026-05-21T12:43:17+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : en Patagonie, « toutes les conditions semblent réunies pour une augmentation du risque épidémiologique »",
+      "desc": "Les populations du rongeur à l’origine de la souche des Andes ont connu des changements démographiques spectaculaires avec la modification des écosystèmes, observe dans une tribune au « Monde » le chercheur argentin en zoologie Ulyses Pardiñas.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/21/hantavirus-en-patagonie-toutes-les-conditions-semblent-reunies-pour-une-augmentation-du-risque-epidemiologique_6691869_1650684.html",
+      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+      "date": "2026-05-21T12:30:09+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Coupe du monde 2026 : en pleine épidémie d'Ebola, la sélection congolaise annule son stage de préparation en République démocratique du Congo",
+      "desc": "Le stage de préparation de l'équipe congolaise a finalement été \"délocalisé\" en Belgique.",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-en-pleine-epidemie-d-ebola-la-selection-congolaise-annule-son-stage-de-preparation-en-republique-democratique-du-congo_8018291.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ZJjoDswmJ8QTYjJ9uq0ZCATB7fo/0x0:1024x576/432x243/filters:format(jpg)/2026/05/21/6a0ed8228cfd5961639140.jpg",
+      "date": "2026-05-21T12:10:39+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Ebola : Un avion Air France Paris-Détroit s’arrête à Montréal pour débarquer un passager congolais",
+      "desc": "Un passager congolais d’un vol Air France Paris-Détroit qui ne présentait pourtant pas de symptôme du virus Ebola a été débarqué à Montréal, car les États-Unis restreignent fortement l’arrivée des ressortissants de la République démocratique du Congo",
+      "url": "https://www.20minutes.fr/sante/4224701-20260521-virus-ebola-avion-air-france-paris-detroit-arrete-montreal-debarquer-congolais?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/H8f5ybBpSdGkXaUFP6-Nmik/1200x768_airbus-a320-air-france-f-hbnj-avion-a-destination-de-l-aeroport-de-fiumicino-fiumicino-italie-le-1er-mai-2026-photo-d-allshot-live-sipa-usa-69816193-2605020506",
+      "date": "2026-05-21T12:00:37+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une étude révèle combien de temps il faut dormir pour être en bonne santé, vous allez être surpris",
+      "desc": "D’après une récente étude, dormir moins de six heures et plus de huit heures par nuit peut avoir un impact négatif sur la santé et le vieillissement du corps. Alors, combien de temps faut-il dormir exactement ?",
+      "url": "https://www.20minutes.fr/sante/4224686-20260521-etude-revele-combien-temps-faut-dormir-etre-bonne-sante-allez-etre-surpris?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/L1PTP7-hRW6maOSXBbEh8ik/1200x768_une-recente-etude-internationale-revele-combien-de-temps-il-faut-dormir-chaque-nuit-pour-etre-en-bonne-sante-illustration",
+      "date": "2026-05-21T11:47:39+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au Mali, la spirale mortifère de l’«économie de la suspicion»",
+      "desc": "Les scènes de lynchage consécutives aux offensives simultanées des jihadistes et des indépendantistes, le 25 avril, éclairent une suspicion généralisée et une implication croissante des civils dans l’agenda sécuritaire.",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/au-mali-la-spirale-mortifere-de-leconomie-de-la-suspicion-20260521_2UCM5YOBIVFFXMFY35VJAGZCWM/",
+      "image": null,
+      "date": "2026-05-21T11:25:00+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ces personnes sont touchées par Alzheimer, mais leur cerveau fonctionne bien : quel est leur secret ?",
+      "desc": "Une étude menée sur des centaines de seniors révèle pourquoi certaines personnes conservent une mémoire intacte malgré des lésions cérébrales typiques de la maladie. Les chercheurs identifient plusieurs habitudes capables de protéger durablement le cerveau – et il n’est jamais trop tard pour s’y...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-ces-personnes-sont-touchees-alzheimer-mais-leur-cerveau-fonctionne-bien-leur-secret-134679/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/b/d/6bdb2679c7_50255518_senior-femme-age.jpg",
+      "date": "2026-05-21T11:23:37+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs… le coût sanitaire des produits industriels",
+      "desc": "Les produits ultra-transformés sont de plus en plus pointés du doigt pour leurs effets sur la santé. Colorants, conservateurs et additifs inquiètent chercheurs et associations, alors que de nouvelles études de l’INSERM relient leur consommation à un risque accru de maladies chroniques.",
+      "url": "https://www.franceinfo.fr/sante/alimentation/colorants-conservateurs-le-cout-sanitaire-des-produits-industriels_8018222.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/N7g_oIEnLB-CmVOUHGwX7dfbkyw/0x39:797x488/432x243/filters:format(jpg)/2026/05/21/6a0ecd7b609c6087188991.jpg",
+      "date": "2026-05-21T11:17:11+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "TEMOIGNAGE. \"On fait avec les moyens du bord\" : face aux risques d'épidémie d'Ebola en République démocratique du Congo, des soignants démunis et inquiets",
       "desc": "L'Organisation mondiale de la santé (OMS) a activé dimanche l'alerte sanitaire internationale dans ce pays d'Afrique centrale, qui manque de moyens pour soigner et sensibiliser la population aux gestes barrières.",
@@ -54,32 +184,12 @@
     },
     {
       "title": "Alimentation : De nouvelles preuves scientifiques sur le danger des additifs, colorants et conservateurs",
-      "desc": "Des études de l’Inserm montrent qu’une alimentation à base de produits ultratransformés accroît notamment les risques de diabète de type 2 et de cancer",
+      "desc": "Des études de l’Inserm montrent qu’une alimentation à base de produits ultratransformés accroît les risques de diabète de type 2 et de cancer",
       "url": "https://www.20minutes.fr/sante/4224593-20260521-alimentation-nouvelles-preuves-scientifiques-danger-additifs-colorants-conservateurs?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/TljU-MZIRmKB6rv8EP5DSyk/1200x768_client-en-deambulation-dans-les-rayons-illustrations-dans-un-supermarche-intermarche-31-10-2024-viry-chatillon-france-seba-seba299-credit-seba-sipa-2411010838",
       "date": "2026-05-21T06:45:50+00:00",
       "date_formatted": "21 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : un hôpital argentin à la recherche du vaccin",
-      "desc": "Fernando Tortosa l'une des références en Argentine sur l'hantavirus, directeur du laboratoire de recherche de l'université de Rio Negro, teste en ce moment même un nouveau traitement sur des malades. Mais depuis l'accession au pouvoir de l'ultralibéral et antivax Javier Milei, la recherche médicale ",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-hopital-argentin-a-la-recherche-du-vaccin_8016938.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/4wl-hM0pDRjdM4geJAYBmhW6ASs/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/20/6a0dddfc584df776492043.jpg",
-      "date": "2026-05-21T06:00:16+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Diabète, hypertension, cancer, maladies cardiovasculaire... Trois études confirment le danger des aliments ultratransformés",
-      "desc": "Ces travaux d’envergure ne prouvent pas formellement les effets de la consommation sur certaines pathologies. Mais «le faisceau d’arguments est désormais assez fort pour dire qu’il faut agir au plan de la santé publique».",
-      "url": "https://www.liberation.fr/societe/sante/diabete-hypertension-cancer-maladies-cardiovasculaire-trois-etudes-confirment-le-danger-des-aliments-ultratransformes-20260521_GGWNK7LNQZDDLOZROUHMDXHAIU/",
-      "image": null,
-      "date": "2026-05-21T05:54:57+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -153,16 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "Malgré des progrès, la France reste loin de son objectif fixé à 80 % d'une couverture vaccinale complète contre le papillomavirus, selon un rapport parlementaire",
-      "desc": "Seule une fille de plus de 12 ans sur deux a reçu deux doses de vaccin tandis que les garçons du même âge ne sont qu'à 32 %, bien loin encore de nos voisins espagnols, portugais ou anglais qui vont au-delà des 80 %.",
-      "url": "https://www.franceinfo.fr/sante/malgre-ses-progres-la-france-reste-loin-de-son-objectif-fixe-a-80-d-une-couverture-vaccinale-complete-contre-le-papillomavirus-selon-un-rapport-parlementaire_8016809.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/h92ugOyUK-74souPecg5PR3LdPI/0x0:1600x899/432x243/filters:format(jpg)/2025/07/04/whatsapp-image-2025-07-04-at-15-02-20-6867d0e966b9e744221883.jpg",
-      "date": "2026-05-20T17:29:27+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Comment des agents d’IA accélèrent la découverte de médicaments",
       "desc": "Dans deux articles publiés mercredi dans « Nature », les entreprises Google DeepMind et FutureHouse expliquent comment elles ont eu recours à des « robots » pour identifier si des molécules actives contre certaines pathologies pourraient être repositionnées vers d’autres maladies.",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/20/comment-des-agents-d-ia-accelerent-la-decouverte-de-medicaments_6691750_1650684.html",
@@ -173,16 +273,6 @@
       "type": "science"
     },
     {
-      "title": "Des patients appelés à se faire dépister après la fermeture d'un cabinet dentaire pour des manquements aux règles d'hygiène et d’asepsie dans la Manche",
-      "desc": "Près de 2 800 personnes sont concernées par cette procédure pour laquelle des \"tests de dépistage des virus des hépatites B et C et du VIH\" sont vivement recommandés.",
-      "url": "https://www.franceinfo.fr/france/normandie/manche/des-patients-appeles-a-se-faire-depister-apres-la-fermeture-d-un-cabinet-dentaire-pour-des-manquements-aux-regles-d-hygiene-et-d-asepsie-dans-la-manche_8016596.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/GJkMsJTP5fwrz0ZtdZgDcOy9Pgg/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/20/6a0dbee56125f367531484.jpg",
-      "date": "2026-05-20T16:02:22+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
       "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
       "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
@@ -191,36 +281,6 @@
       "date_formatted": "20 May 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Devant le risque d'importation d'Ebola à Mayotte, la députée Estelle Youssouffa dénonce \"l'impuissance\" des autorités qui veulent \"minimiser le problème\"",
-      "desc": "L'élue de la première circonscription de Mayotte se dit \"inquiète\" de la circulation du virus devant la \"densité de population dans les bidonvilles\" et les \"coupures d'eau\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/devant-le-risque-d-importation-d-ebola-a-mayotte-la-deputee-estelle-youssouffa-denonce-l-impuissance-des-autorites-qui-veulent-minimiser-le-probleme_8016470.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/GUbhxKWRxoP9k8zLpyeQBLS9GGc/0x0:1280x720/432x243/filters:format(jpg)/2023/04/25/6447675ed9d6d_whatsapp-image-2023-04-25-at-07-36-08.jpeg",
-      "date": "2026-05-20T15:46:07+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "TÉMOIGNAGES. Épidémie d'Ebola en RDC : à Goma, les habitants ont le sentiment \"d'être coupés du monde\" et craignent de ne pas voir arriver l'aide humanitaire",
-      "desc": "La ville de Goma, dans l'est de la République démocratique du Congo, craint une nouvelle catastrophe sanitaire. L'épidémie d'Ebola a déjà fait plus de 130 morts, entraînant une alerte internationale de l'OMS.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/temoignages-epidemie-d-ebola-en-rdc-a-goma-les-habitants-ont-le-sentiment-d-etre-coupes-du-monde-et-craignent-de-ne-pas-voir-arriver-l-aide-humanitaire_8016056.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/nnoguS3uZJZZKZODLMFHUpKWsng/0x52:1024x628/432x243/filters:format(jpg)/2026/05/20/6a0d797878136522780099.jpg",
-      "date": "2026-05-20T14:02:15+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Le risque d'importation en Europe est nul\", selon l'infectiologue Christophe Rapp, alors que l'épidémie d'Ebola s'étend en RDC",
-      "desc": "L’OMS alerte sur l’épidémie d’Ebola qui prend de l’ampleur en RDC. Le professeur Christophe Rapp, infectiologue hospitalier, appelle à \"une mobilisation\" rapide, tout en voulant rassurer sur le risque d’importation au-delà de l’Afrique.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-risque-d-importation-en-europe-est-nul-selon-l-infectiologue-christophe-rappe-alors-que-l-epidemie-d-ebola-s-etend-en-rdc_8016086.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/GGutnvgroHbbntTTGaEy-BaBCjE/0x260:5000x3073/432x243/filters:format(jpg)/2026/05/20/6a0d8bb459fc1965476116.jpg",
-      "date": "2026-05-20T13:16:55+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola : l’OMS juge le risque « élevé » en Afrique centrale, mais « faible » à l’échelle mondiale",
@@ -463,16 +523,6 @@
       "type": "presse"
     },
     {
-      "title": "Virus Ebola : Un Américain testé positif en République démocratique du Congo",
-      "desc": "Un organisme américain a annoncé qu’un ressortissant américain avait contracté Ebola en République démocratique du Congo",
-      "url": "https://www.20minutes.fr/monde/4224160-20260518-virus-ebola-americain-teste-positif-republique-democratique-congo?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Pp_wagD-QS6v3FvVtiTh9ik/1200x768_dossier-un-agent-de-sante-pulverise-du-desinfectant-sur-son-collegue-apres-avoir-travaille-dans-un-centre-de-traitement-d-ebola-a-beni-dans-l-est-du-congo-le-9-septembre-2018-photo-ap-al-hadji-kudra-maliro-dossier-tkhk503-26135314889340-photo-d-archive-2605151049",
-      "date": "2026-05-18T19:05:41+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : c’est quoi ce virus rare qui peut tuer jusqu’à 50 %, et pourquoi n’existe-t-il toujours pas de vaccin ?",
       "desc": "Le virus qui circule actuellement en République démocratique du Congo (RDC) et qui a provoqué 90 morts de fièvre hémorragique depuis le début du mois de mai inquiète l’OMS. Et il y a de bonnes raisons pour ça. Explications.",
       "url": "https://www.futura-sciences.com/sante/actualites/ebola-ebola-cest-ce-virus-rare-peut-tuer-jusqua-50-nexiste-t-il-toujours-pas-vaccin-134619/#xtor%3DRSS-8",
@@ -493,26 +543,6 @@
       "type": "science"
     },
     {
-      "title": "Les cas de rougeole ont bondi en France, provoquant sept décès en 2025",
-      "desc": "La France a enregistré 873 cas de rougeole en 2025, soit une « augmentation de 80 % par rapport à 2024 », avec plus de 300 hospitalisations et sept décès",
-      "url": "https://www.20minutes.fr/sante/4224152-20260518-cas-rougeole-bondi-france-provoquant-sept-deces-2025?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/J3-BnAZtRYSFirbphaMrFyk/1200x768_virus-mpox-variole-du-singe-premier-cas-en-europe-d-une-nouvelle-souche-plus-contagieuse-detecte-en-suede-le-15-aout-2024-l-oms-a-declenche-son-plus-haut-niveau-d-alerte-vaccin-imvanex-antivariolique-de-troisieme-generation-mva-bn-archives-vaccination-nice-france-15-08-2024-syspeo-sys-a006-credit-syspeo-sipa-2408161748",
-      "date": "2026-05-18T17:39:59+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer du poumon : Un programme pilote de « dépistage » démarre dans cinq régions",
-      "desc": "Le programme « Impulsion » va permettre à plus de 20.000 fumeurs de se faire dépister du cancer du poumon, dans l’objectif de le généraliser partout en France",
-      "url": "https://www.20minutes.fr/sante/4224151-20260518-cancer-poumon-programme-pilote-depistage-demarre-cinq-regions?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/C6choj3YRn6nac_HnhwbACk/1200x768_a-health-insurance-envelope-with-the-words-cancer-screening-written-on-it-is-placed-on-a-colorectal-cancer-screening-campaign-leaflet-every-2-years-organized-screening-for-colorectal-cancer-is-sent-to-women-and-men-aged-50-to-74-by-health-insurance-assurance-maladie-in-french-in-france-it-is-based-on-an-immunological-test-to-search-for-occult-bleeding-in-the-stool-gerard-bottino-sopa-images-sopaimages-2024-08-01-cancer-screening-dsc-1864-r-credit-sopa-images-sipa-2408011309",
-      "date": "2026-05-18T17:33:09+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Odile Launay, infectiologue : « L’obstacle au développement d’un vaccin n’est pas scientifique, il est avant tout financier »",
       "desc": "La vaccinologue décrit, dans un entretien au « Monde », la difficulté à élaborer un vaccin contre une pathologie rare telle que les hantavirus. Elle observe que la solution peut venir des anticorps monoclonaux.",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/18/odile-launay-infectiologue-l-obstacle-au-developpement-d-un-vaccin-n-est-pas-scientifique-il-est-avant-tout-financier_6691000_1650684.html",
@@ -521,26 +551,6 @@
       "date_formatted": "18 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : La patiente française malade est dans un « état stationnaire » mais son pronostic vital demeure engagé",
-      "desc": "La sexagénaire hospitalisée à l’hôpital Bichat après avoir contracté le hantavirus sur le navire de croisière MV Hondius, reste « en réanimation » dans un état stationnaire et son « pronostic vital est toujours engagé »",
-      "url": "https://www.20minutes.fr/sante/4224129-20260518-hantavirus-patiente-francaise-malade-etat-stationnaire-pronostic-vital-demeure-engage?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/-wcoGyujSyedpSUShzn9bik/1200x768_un-patient-rapatrie-se-trouve-actuellement-a-l-hopital-de-bichat-les-cas-contacts-identifies-ont-donne-des-resultats-negatifs-a-ce-jour-les-autorites-ne-signalent-aucune-circulation-du-virus-dans-la-population-le-14-mai-2026-a-paris-04sipa-r1875-credit-martin-rodier-sipa-2605151002",
-      "date": "2026-05-18T15:25:58+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Elio, 4 ans et atteint d’un cancer rare, trouve enfin un donneur de moelle osseuse après une mobilisation massive",
-      "desc": "Elio, 4 ans et atteint d’un cancer rare, trouve enfin un donneur de moelle osseuse après une mobilisation massive",
-      "url": "https://www.20minutes.fr/tv/videos/4224116-20260518-elio-4-ans-atteint-cancer-rare-trouve-enfin-donneur-moelle-osseuse-apres-mobilisation-massive?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/i9Y85C62Q0KqRJq3HUBbMCk/1200x768_premiere-victoire-apres-plusieurs-semaines-mobilisation-vaste-appel-dons-relaye-reseaux-sociaux-elio-4-ans-atteint-forme-rare-tres-agressive-cancer-sa",
-      "date": "2026-05-18T15:19:58+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola : l’OMS déclenche le second niveau le plus élevé avant l’alerte maximale, que se passe-t-il ?",
@@ -591,16 +601,6 @@
       "date_formatted": "17 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Ebola : un premier cas confirmé à Goma, en RDC, où l’OMS a déclaré une « urgence de santé internationale »",
-      "desc": "A ce stade, 91 morts signalés ont vraisemblablement été causés par Ebola, selon les derniers chiffres donnés dimanche par le ministre de la santé congolais, Samuel-Roger Kamba.",
-      "url": "https://www.lemonde.fr/sante/article/2026/05/17/ebola-un-premier-cas-confirme-a-goma-en-rdc-ou-l-oms-a-declare-une-urgence-de-sante-internationale_6690188_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/16/313/0/5472/2736/644/322/60/0/e868c02_ftp-1-lhzw77zobh3s-17a3be1885ce46b797af9345e9b2e314-0-bf5a7cda9756405b97a7c84ef7175ed7.jpg",
-      "date": "2026-05-17T11:47:19+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Ce n’est pas votre excès de poids qui menace votre cerveau, mais ce bourrelet précis, révèle une étude inédite",
@@ -719,16 +719,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/13/cover-r4x3w1200-6a043b3ef0d26-afp-20260512-dpa-pa-260512-99-397462-dpai-v1-highres-hantavirusoutbreakeindhove.jpg",
       "date": "2026-05-13T08:50:07+00:00",
       "date_formatted": "13 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "En Indonésie, une flambée de rougeole... et de désinformation",
-      "desc": "La recrudescence des cas de rougeole en Indonésie inquiète Fitri Fransiskha, une mère au foyer, mais pas suffisamment pour la convaincre de faire vacciner ses quatre enfants contre ce virus hautement contagieux et mortel.",
-      "url": "https://www.sciencesetavenir.fr/sante/en-indonesie-une-flambee-de-rougeole-et-de-desinformation_192399?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/12/cover-r4x3w1200-6a02b8fd4d4a9-73a84f8bbc0eacc78cb0b181f311ff4e96d986cc-jpg.jpg",
-      "date": "2026-05-12T10:06:39+00:00",
-      "date_formatted": "12 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
