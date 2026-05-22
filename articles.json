@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-05-22T14:10:49.490886+00:00",
-  "count": 71,
+  "generated_at": "2026-05-22T19:20:20.837139+00:00",
+  "count": 87,
   "articles": [
+    {
+      "title": "Tulsi Gabbard, directrice du renseignement national, annonce sa démission de l’administration Trump",
+      "desc": "Dans sa lettre de démission, elle invoque l’état de santé de son mari, atteint d’un cancer des os.",
+      "url": "https://www.liberation.fr/international/amerique/tulsi-gabbard-directrice-du-renseignement-national-annonce-sa-demission-de-ladministration-trump-20260522_N55WGVRKCFB5NDCGH5LZA46GHY/",
+      "image": null,
+      "date": "2026-05-22T19:03:45+00:00",
+      "date_formatted": "22 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola en RDC : pourquoi cette épidémie est-elle si inquiétante ?",
+      "desc": "Le bilan officiel est passé de 139 à 177 morts probables, pour près de 750 cas suspects, selon l’Organisation mondiale de la santé.",
+      "url": "https://www.lemonde.fr/videos/video/2026/05/22/ebola-en-rdc-pourquoi-cette-epidemie-est-elle-si-inquietante_6692328_1669088.html",
+      "image": "https://img.lemde.fr/2026/05/21/502/0/5391/2695/644/322/60/0/3185174_ftp-1-ln9rpv2euqk0-2026-05-21t173317z-2128550983-rc2odlamqttf-rtrmadp-3-health-ebola-vaccines.JPG",
+      "date": "2026-05-22T18:30:10+00:00",
+      "date_formatted": "22 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Ebola en RDC : le risque pour la santé publique est maximal, alerte l’OMS",
+      "desc": "«L’épidémie se propage rapidement», s’inquiète l’Organisation mondiale de la santé. La situation est aggravée par la guerre civile. La riposte sanitaire peine à s’organiser et a donné lieu à des scènes de chaos dans la province de l’Ituri, foyer de l’épidémie.",
+      "url": "https://www.liberation.fr/international/afrique/virus-ebola-en-rdc-le-risque-pour-la-sante-publique-est-maximal-alerte-loms-20260522_YNTQTV5ZQ5HHBPUNJUJE3GB77E/",
+      "image": null,
+      "date": "2026-05-22T18:00:28+00:00",
+      "date_formatted": "22 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cannes 2026 : «Merci d’être venu», les éclats de souvenirs d’Alain Cavalier",
+      "desc": "Le documentariste met en ordre quinze ans de mémoires dans l’émouvant dernier volet de son journal vidéo, autoportrait dédié à la joie qui conjure la mort.",
+      "url": "https://www.liberation.fr/culture/cinema/cannes-2026-merci-detre-venu-les-eclats-de-souvenirs-dalain-cavalier-20260522_JYJXVIZAX5BG5LT5FWL24GUTM4/",
+      "image": null,
+      "date": "2026-05-22T17:57:02+00:00",
+      "date_formatted": "22 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "En images | Hôpital vandalisé, convoi funéraire sous escorte militaire... Ebola se propage en RDC, où l’épidémie suscite colère et désarroi parmi les proches des victimes",
+      "desc": "Alors que l’épidémie d’Ebola représente désormais un risque « très élévé » pour la santé publique en République démocratique du Congo, selon l’OMS. La riposte à l’épidémie bouscule les coutumes et provoque l’incompréhension des habitants.",
+      "url": "https://www.lemonde.fr/international/article/2026/05/22/en-images-hopital-vandalise-convoi-funeraire-sous-escorte-militaire-ebola-se-propage-en-rdc-ou-l-epidemie-suscite-colere-et-desarroi-parmi-les-proches-des-victimes_6692320_3210.html",
+      "image": "https://img.lemde.fr/2026/05/21/158/0/5391/2695/644/322/60/0/3185174_ftp-1-ln9rpv2euqk0-2026-05-21t173317z-2128550983-rc2odlamqttf-rtrmadp-3-health-ebola-vaccines.JPG",
+      "date": "2026-05-22T17:53:55+00:00",
+      "date_formatted": "22 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Ebola en RDC : un premier cas signalé dans la province du Sud-Kivu",
+      "desc": "Un cas positif a été confirmé, jeudi 21 mai, dans le territoire de Kabare, au Sud-Kivu, par le groupe rebelle M23 qui contrôle la zone, signe d’une propagation depuis le foyer de l’épidémie dans la province de l’Ituri. L’OMS parle désormais d’un risque «très élevé» dans le pays.",
+      "url": "https://www.liberation.fr/societe/sante/virus-ebola-en-rdc-un-premier-cas-signale-dans-la-province-du-sud-kivu-20260522_PPGGBLUH6FDJXG5FKQDQ3YBYZM/",
+      "image": null,
+      "date": "2026-05-22T17:15:26+00:00",
+      "date_formatted": "22 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Lilou est morte de ces coups, pas de la folie» : perpétuité requise pour Emmanuelle M., jugée pour l’assassinat de sa fille dans l’Allier",
+      "desc": "Plusieurs experts psychiatres ont débattu ce vendredi 22 mai devant la cour d’assises de Moulins, dans l’Allier, au sujet d’une éventuelle abolition du discernement de l’accusée, jugée pour avoir assassiné Lilou, sa fille de 7 ans, en 2023.",
+      "url": "https://www.liberation.fr/societe/police-justice/lilou-est-morte-de-ces-coups-pas-de-la-folie-perpetuite-requise-pour-emmanuelle-m-jugee-pour-lassassinat-de-sa-fille-dans-lallier-20260522_U3W2QWXWD5AB5HNLJ75PRGW4XI/",
+      "image": null,
+      "date": "2026-05-22T17:13:06+00:00",
+      "date_formatted": "22 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus, Ebola, Covid-19 : enrayer les maladies infectieuses implique de changer notre rapport au vivant",
+      "desc": "Nos sociétés disposent de capacités à produire des réponses techniques immédiates à des crises complexes. Mais elles éprouvent plus de difficultés à s’interroger sur leurs causes structurelles, relève le professeur en immunologie Jean-Daniel Lelièvre.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/hantavirus-ebola-covid-19-enrayer-les-maladies-infectieuses-implique-de-changer-notre-rapport-au-vivant-20260522_K3XDLLQEMZAF5FZ2RUOWOME3IE/",
+      "image": null,
+      "date": "2026-05-22T17:03:56+00:00",
+      "date_formatted": "22 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ebola : en RDC, le risque pour la santé publique passe d’« élevé » à « très élevé », annonce le chef de l’OMS",
       "desc": "Il s’agit de la 17ᵉ épidémie déclarée en République démocratique du Congo. Elle aurait déjà fait 177 morts, sur près de 750 cas probables, selon l’Organisation mondiale de la santé.",
@@ -27,20 +107,10 @@
       "desc": "Décédé le 18 mai à l’âge de 88 ans, ce partisan de la « verticalité » de l’éducation s’était, par ses positions contre « l’enfant-roi » et l’éducation positive, retrouvé au centre de plusieurs controverses.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/05/22/la-mort-du-pediatre-aldo-naouri-auteur-de-nombreux-livres-sur-les-enfants-et-les-relations-familiales_6692281_3382.html",
       "image": "https://img.lemde.fr/2026/05/22/128/0/1414/707/644/322/60/0/7ec8ca0_upload-1-xw5u5scs2fdu-000-b3gp9cq.jpg",
-      "date": "2026-05-22T14:00:12+00:00",
+      "date": "2026-05-22T14:00:09+00:00",
       "date_formatted": "22 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : un nouveau cas confirmé chez un membre de l’équipage du «MV Hondius» rapatrié aux Pays-Bas",
-      "desc": "L’information a été donnée par le directeur de l’Organisation mondiale de la santé. Il y a désormais au total 12 cas suspects et confirmés, dont trois décès.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-un-nouveau-cas-confirme-chez-un-membre-de-lequipage-du-mv-hondius-rapatrie-aux-pays-bas-20260522_V6F2Q5ARSNBHRDHTEBVFEB4P5Q/",
-      "image": null,
-      "date": "2026-05-22T13:36:36+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Hantavirus : Un membre d’équipage du « MV Hondius » testé positif après son rapatriement aux Pays-Bas",
@@ -90,16 +160,6 @@
       "date": "2026-05-22T10:54:53+00:00",
       "date_formatted": "22 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Virus Ebola en RDC : un premier cas signalé dans la province du Sud-Kivu",
-      "desc": "Un cas positif a été confirmé, jeudi 21 mai, dans le territoire de Kabare, au Sud-Kivu, par le groupe rebelle M23 qui contrôle la zone, signe d’une propagation depuis le foyer de l’épidémie dans la province de l’Ituri.",
-      "url": "https://www.liberation.fr/societe/sante/virus-ebola-en-rdc-un-premier-cas-signale-dans-la-province-du-sud-kivu-20260522_PPGGBLUH6FDJXG5FKQDQ3YBYZM/",
-      "image": null,
-      "date": "2026-05-22T10:44:25+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -193,14 +253,14 @@
       "type": "science"
     },
     {
-      "title": "Epidémie d'Ebola en RDC : un vol Paris-Détroit s'arrête à Montréal pour débarquer un passager congolais, interdit d'entrée aux Etats-Unis",
-      "desc": "Ce ressortissant de la République démocratique du Congo a été privé d'entrée sur le territoire américain en raison des précautions des Etats-Unis face à l'épidémie d'Ebola.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/epidemie-d-ebola-en-rdc-un-vol-paris-detroit-s-arrete-a-montreal-pour-debarquer-un-passager-congolais_8018510.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/CwE9TSS6m2kP_VgVeW4JP3GJpdk/0x39:1024x615/432x243/filters:format(jpg)/2026/05/21/6a0efc95aec10662398332.jpg",
-      "date": "2026-05-21T14:42:22+00:00",
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
       "date_formatted": "21 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "Virus Ebola : un premier cas confirmé dans le Sud-Kivu, en République démocratique du Congo",
@@ -213,16 +273,6 @@
       "type": "presse"
     },
     {
-      "title": "Un premier cas d'Ebola confirmé dans une zone contrôlée par le M23 en République démocratique du Congo",
-      "desc": "La flambée épidémique du virus a déjà fait 139 morts sur près de 600 cas probables, selon l'OMS.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-premier-cas-d-ebola-confirme-dans-une-zone-controlee-par-le-m23-en-republique-democratique-du-congo_8018393.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/xHIYDuMC6seHLeirf3YyXLMCYQU/0x0:1024x576/432x243/filters:format(jpg)/2026/05/21/6a0ee5c0dddd9523265762.jpg",
-      "date": "2026-05-21T13:46:28+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Virus Ebola : L’épidémie s’élargit, le risque jugé « élevé » en Afrique centrale",
       "desc": "Le risque épidémique d’Ebola est jugé « élevé » pour l’Afrique centrale mais « faible » au niveau mondial par l’Organisation mondiale de la santé (OMS)",
       "url": "https://www.20minutes.fr/monde/4224724-20260521-virus-ebola-epidemie-elargit-risque-juge-eleve-afrique-centrale?at_medium=display&at_campaign=149",
@@ -230,16 +280,6 @@
       "date": "2026-05-21T13:36:43+00:00",
       "date_formatted": "21 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Les lobbies, il y en a marre\" : une nutritionniste alerte sur les dangers des additifs alimentaires pour la santé",
-      "desc": "Trois études françaises confirment qu'il existe un lien entre la consommation de certains colorants et conservateurs, présents dans les aliments ultra-transformés, et un risque accru de développer certaines maladies chroniques. \"Les consommateurs doivent être informés des risques qu'ils prennent\", e",
-      "url": "https://www.franceinfo.fr/sante/alimentation/les-lobbies-il-y-en-a-marre-une-nutritionniste-alerte-sur-les-dangers-des-additifs-alimentaires-pour-la-sante_8018105.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/iqDWWoPnTqwKwVZIDqIhBV6XY0w/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/21/6a0edc9324b2b840659448.jpg",
-      "date": "2026-05-21T13:03:25+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -323,6 +363,16 @@
       "type": "presse"
     },
     {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Comment des agents d’IA accélèrent la découverte de médicaments",
       "desc": "Dans deux articles publiés mercredi dans « Nature », les entreprises Google DeepMind et FutureHouse expliquent comment elles ont eu recours à des « robots » pour identifier si des molécules actives contre certaines pathologies pourraient être repositionnées vers d’autres maladies.",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/20/comment-des-agents-d-ia-accelerent-la-decouverte-de-medicaments_6691750_1650684.html",
@@ -330,6 +380,16 @@
       "date": "2026-05-20T17:13:09+00:00",
       "date_formatted": "20 May 2026",
       "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
       "type": "science"
     },
     {
@@ -543,16 +603,6 @@
       "type": "science"
     },
     {
-      "title": "Dépistage du cancer du poumon : un programme pilote gratuit lancé dans cinq régions",
-      "desc": "Vingt mille fumeurs ou ex-fumeurs, identifiés par leur médecin ou volontaires, vont pouvoir bénéficier d’un scanner à faible dose remboursé à 100 % par l’Assurance-maladie.",
-      "url": "https://www.lemonde.fr/sante/article/2026/05/18/depistage-du-cancer-du-poumon-un-programme-pilote-gratuit-lance-dans-cinq-regions_6691031_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/18/432/0/5184/2592/644/322/60/0/2c3853d_upload-1-qtvxtliocsuo-000-9ut2ml.jpg",
-      "date": "2026-05-18T20:00:35+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : c’est quoi ce virus rare qui peut tuer jusqu’à 50 %, et pourquoi n’existe-t-il toujours pas de vaccin ?",
       "desc": "Le virus qui circule actuellement en République démocratique du Congo (RDC) et qui a provoqué 90 morts de fièvre hémorragique depuis le début du mois de mai inquiète l’OMS. Et il y a de bonnes raisons pour ça. Explications.",
       "url": "https://www.futura-sciences.com/sante/actualites/ebola-ebola-cest-ce-virus-rare-peut-tuer-jusqua-50-nexiste-t-il-toujours-pas-vaccin-134619/#xtor%3DRSS-8",
@@ -710,6 +760,116 @@
       "date": "2026-05-13T09:45:58+00:00",
       "date_formatted": "13 May 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
+      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
+      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
+      "image": null,
+      "date": "2026-04-21T15:30:59+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
+      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
+      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
+      "image": null,
+      "date": "2026-04-21T08:00:54+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
+      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
+      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
+      "image": null,
+      "date": "2026-04-21T00:00:17+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
+      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
+      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
+      "image": null,
+      "date": "2026-04-16T18:00:00+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
+      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
+      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
+      "image": null,
+      "date": "2026-04-14T13:00:00+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
+      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
+      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
+      "image": null,
+      "date": "2026-04-03T09:21:47+00:00",
+      "date_formatted": "3 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
+      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
+      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
+      "image": null,
+      "date": "2026-03-26T16:00:46+00:00",
+      "date_formatted": "26 March 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
