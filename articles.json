@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-23T01:52:38.084071+00:00",
-  "count": 82,
+  "generated_at": "2026-05-23T08:03:05.530200+00:00",
+  "count": 80,
   "articles": [
     {
-      "title": "Huguette Bouchardeau, 90 ans dans la vie d’une femme engagée, par François Sureau",
-      "desc": "Avec une carrière politique ancrée à gauche et marquée par le féminisme, il y avait dans la vie de la candidate à l’élection présidentielle de 1981 quelque chose de profondément estimable. L’ancienne secrétaire nationale du Parti socialiste unifié est morte lundi.",
-      "url": "https://www.liberation.fr/culture/livres/huguette-bouchardeau-90-ans-dans-la-vie-dune-femme-engagee-par-francois-sureau-20260522_JG3DQDG67BBGHOTPXWMJQIFP3I/",
-      "image": null,
-      "date": "2026-05-22T20:54:00+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Libération",
+      "title": "Ebola : à l’origine de l’épidémie, la chauve-souris, suspect idéal",
+      "desc": "La quête de la source des épidémies de fièvre hémorragique n’a pas encore livré de coupable. Faute de preuve ultime, les chauves-souris frugivores font figure de principales suspectes.",
+      "url": "https://www.lemonde.fr/international/article/2026/05/23/ebola-a-l-origine-de-l-epidemie-la-chauve-souris-suspect-ideal_6692716_3210.html",
+      "image": "https://img.lemde.fr/2026/05/22/244/0/2824/1412/644/322/60/0/214422b_upload-1-8qek5bksc9cs-bios-2479716.jpg",
+      "date": "2026-05-23T08:48:00+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "Rixe de Nice, récit alternatif par François Sureau",
-      "desc": "Entre le virus Ebola en Seine-et-Marne et l’enquêteur-lycéen Isidore Beautrelet dans le bar Zaharoff, l’écrivain retrace, dans un récit fictif, l’origine de la violente bagarre entre supporteurs de foot jeudi soir dans Paris.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/rixe-de-nice-recit-alternatif-par-francois-sureau-20260522_ZIWI7OBNBFEY5MHYYHNIG4NKKM/",
-      "image": null,
-      "date": "2026-05-22T20:05:27+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Libération",
+      "title": "Hantavirus et Ebola, un double avertissement pour le système sanitaire mondial",
+      "desc": "Face aux deux foyers viraux, l’Organisation mondiale de la santé a joué et joue correctement son rôle. Les mesures erratiques des Etats-Unis, qui ont quitté l’OMS en 2025, et la baisse drastique de l’aide internationale représentent toutefois deux grands écueils si le monde doit affronter une nouvel",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/23/hantavirus-et-ebola-un-double-avertissement-pour-le-systeme-sanitaire-mondial_6692713_3244.html",
+      "image": "https://img.lemde.fr/2026/05/20/500/0/6000/3000/644/322/60/0/43c5914_ftp-1-xy9vh4qtdbgl-c3b7d585c25940d3bd91bd0a95847c13-0-e4a88d7000ff4924a28d3d719d4bfe8e.jpg",
+      "date": "2026-05-23T08:00:11+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "Tulsi Gabbard, directrice du renseignement national, annonce sa démission de l’administration Trump",
-      "desc": "Dans sa lettre de démission, elle invoque l’état de santé de son mari, atteint d’un cancer des os.",
-      "url": "https://www.liberation.fr/international/amerique/tulsi-gabbard-directrice-du-renseignement-national-annonce-sa-demission-de-ladministration-trump-20260522_N55WGVRKCFB5NDCGH5LZA46GHY/",
+      "title": "Chine : une explosion dans une mine de charbon fait au moins 82 morts",
+      "desc": "Neuf personnes restent portées disparues sur le site de Liushenyu, dans le nord-est du pays. Xi Jinping a exhorté à mobiliser «tous les moyens» pour soigner les blessés et appelé à des investigations approfondies.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/chine-une-explosion-dans-une-mine-de-charbon-fait-au-moins-82-morts-20260523_KSAJHZBVCBE7FKC5ZMXOLNAEUU/",
       "image": null,
-      "date": "2026-05-22T19:03:45+00:00",
-      "date_formatted": "22 May 2026",
+      "date": "2026-05-23T06:14:32+00:00",
+      "date_formatted": "23 May 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -560,26 +560,6 @@
       "date": "2026-05-18T18:27:37+00:00",
       "date_formatted": "18 May 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Hantavirus : comment la recherche se mobilise face à la souche des Andes",
-      "desc": "Après l’apparition de cas mortels à bord du bateau de croisière « Hondius », des programmes ont été lancés par l’OMS et des Etats pour mettre au point des traitements et des vaccins contre ce virus. Si sa létalité est de 40 %, le nombre limité de cas suggère une faible transmission interhumaine. A c",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/18/hantavirus-comment-la-recherche-se-mobilise-face-a-la-souche-des-andes_6691009_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/18/2639/0/6810/3405/644/322/60/0/227e144_upload-1-cspd5z9ixwdn-hantavirus-def.JPG",
-      "date": "2026-05-18T18:00:04+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Odile Launay, infectiologue : « L’obstacle au développement d’un vaccin n’est pas scientifique, il est avant tout financier »",
-      "desc": "La vaccinologue décrit, dans un entretien au « Monde », la difficulté à élaborer un vaccin contre une pathologie rare telle que les hantavirus. Elle observe que la solution peut venir des anticorps monoclonaux.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/18/odile-launay-infectiologue-l-obstacle-au-developpement-d-un-vaccin-n-est-pas-scientifique-il-est-avant-tout-financier_6691000_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/14/7/0/5568/2784/644/322/60/0/bb94701_upload-1-ow1xgpxwh1hp-000-9lp6ep.jpg",
-      "date": "2026-05-18T17:30:09+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
