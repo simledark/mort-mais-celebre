@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-05-23T12:55:05.415394+00:00",
-  "count": 82,
+  "generated_at": "2026-05-23T18:52:22.746057+00:00",
+  "count": 84,
   "articles": [
+    {
+      "title": "Ma vie d’ado : « Face à la maladie, on est toujours seul à lutter, même en étant très entouré »",
+      "desc": "« Le Monde » donne la parole à des jeunes gens qui évoquent leurs états d’âme, leurs envies, leurs difficultés. Priam, 15 ans, vient de livrer trois ans de combat contre le cancer. Une épreuve qui l’a fait mûrir et lui a permis de réaliser plusieurs rêves",
+      "url": "https://www.lemonde.fr/intimites/article/2026/05/23/ma-vie-d-ado-face-a-la-maladie-on-est-toujours-seul-a-lutter-meme-en-etant-tres-entoure_6692771_6190330.html",
+      "image": "https://img.lemde.fr/2026/05/22/250/0/3000/1500/644/322/60/0/b87ba4f_upload-1-7gojv3i4wwdw-illu-finale-mai-2026-zoevadim.jpg",
+      "date": "2026-05-23T18:00:08+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L'épidémie d'Ebola risque de s'étendre à dix nouveaux pays africains, selon les autorités sanitaires régionales",
+      "desc": "A ce stade, le virus a touché la République démocratique du Congo, épicentre de l'épidémie, et l'Ouganda, faisant près de 200 morts.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-risque-de-s-etendre-a-dix-nouveaux-pays-africains-selon-les-autorites-sanitaires-regionales_8023451.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/IkpqMfJ_6lJe3apfIWypJQ0Bzo0/0x53:1024x629/432x243/filters:format(jpg)/2026/05/23/6a11c3ffa9188925136470.jpg",
+      "date": "2026-05-23T17:24:26+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«On voyait les gens mourir en masse sans pouvoir rien faire» : à Al-Hilaliya, le venin mortel de la guerre civile soudanaise",
+      "desc": "En novembre 2024, les paramilitaires des Forces de soutien rapide ont mené une campagne de représailles contre la ville : en quelques jours, près de 2 000 personnes ont succombé à une mystérieuse maladie. Les habitants affirment avoir été empoisonnés.",
+      "url": "https://www.liberation.fr/international/afrique/on-voyait-les-gens-mourir-en-masse-sans-pouvoir-rien-faire-a-al-hilaliya-le-venin-mortel-de-la-guerre-civile-soudanaise-20260523_BL6FA5J45JGIXI2ESG45EH2QH4/",
+      "image": null,
+      "date": "2026-05-23T16:00:00+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un accord en cours de négociations entre Washington et Téhéran, le Pakistan reprend sa médiation, dix morts au Liban... l’actu au Moyen-Orient ce samedi 23 mai",
+      "desc": "L’essentiel des informations du jour sur la guerre qui implique Israël, les Etats-Unis, l’Iran et le Liban.",
+      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-prepareraient-des-frappes-liran-accuse-washington-de-saboter-les-negociations-dix-morts-au-liban-lactu-au-moyen-orient-ce-samedi-23-mai-20260523_3LJEYKAVJ5D2XKGLUTIVW7PV6M/",
+      "image": null,
+      "date": "2026-05-23T15:40:30+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : L’épidémie risque de toucher dix pays africains, estime l’Agence sanitaire de l’Union africaine",
+      "desc": "Le Soudan du Sud, le Rwanda, le Kenya, la Tanzanie, l’Ethiopie, le Congo, le Burundi, l’Angola, la Centrafrique et la Zambie sont à risque d’une épidémie d’Ebola, qui se propage en RDC",
+      "url": "https://www.20minutes.fr/monde/4225083-20260523-ebola-epidemie-risque-toucher-dix-pays-africains-estime-agence-sanitaire-union-africaine?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/TgqlrBDBTDqNfInTj2LVISk/1200x768_le-personnel-medical-transporte-un-patient-atteint-d-ebola-vers-un-centre-de-traitement-a-rwampara-au-congo-le-jeudi-21-mai-2026-photo-ap-moses-sawasawa-xma133-26141608173064-2605212244",
+      "date": "2026-05-23T15:09:08+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. En RDC, les laboratoires de biologie en pleine \"course contre la montre\" pour détecter le virus Ebola",
+      "desc": "Alors que l'épidémie d'Ebola est à son risque maximal selon l'Organisation mondiale de la santé, la République démocratique du Congo (RDC) doit faire face à l'enjeu du dépistage. Les quelques laboratoires de RDC tournent à plein régime.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-en-rdc-les-laboratoires-de-biologie-en-pleine-course-contre-la-montre-pour-detecter-le-virus-ebola_8023091.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/6wyB8TJSLUVeCNp-zoRtgeBt5NI/0x364:6997x4300/432x243/filters:format(jpg)/2026/05/23/6a1185e16a01a027546923.jpg",
+      "date": "2026-05-23T15:08:17+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quinze ans après avoir tué sa précédente compagne, un homme soupçonné du meurtre de sa conjointe placé en détention",
+      "desc": "Les circonstances de la mort, mercredi à Antibes, de la concubine du sexagénaire intriguent les enquêteurs. Une information judiciaire a été ouverte pour homicide volontaire en état de récidive.",
+      "url": "https://www.liberation.fr/societe/police-justice/quinze-ans-apres-avoir-tue-sa-precedente-compagne-un-homme-soupconne-du-meurtre-de-sa-conjointe-place-en-detention-20260523_3UZOHCNASFF4NBO5KQ45EWPF4Y/",
+      "image": null,
+      "date": "2026-05-23T13:33:44+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Pollution de l’air : les IRM révèlent des lésions inquiétantes dans le cerveau",
       "desc": "Troubles de l'apprentissage, déclin de la mémoire et même démence : la pollution de l'air a des conséquences bien plus vastes sur la santé que ce que les scientifiques pensaient jusqu'à maintenant. Une nouvelle étude montre les effets dramatiques sur le cerveau d'une pollution atmosphérique même...",
@@ -11,26 +81,6 @@
       "date_formatted": "23 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Washington préparerait des frappes, Téhéran accuse la Maison Blanche de saboter les négociations, dix morts au Liban… l’actu au Moyen-Orient ce samedi 23 mai",
-      "desc": "L’essentiel des informations du jour sur la guerre qui implique Israël, les Etats-Unis, l’Iran et le Liban.",
-      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-prepareraient-des-frappes-liran-accuse-washington-de-saboter-les-negociations-dix-morts-au-liban-lactu-au-moyen-orient-ce-samedi-23-mai-20260523_3LJEYKAVJ5D2XKGLUTIVW7PV6M/",
-      "image": null,
-      "date": "2026-05-23T12:02:33+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Chine : une explosion dans une mine de charbon fait au moins 90 morts",
-      "desc": "Neuf personnes restent portées disparues sur le site de Liushenyu, dans le nord-est du pays. Xi Jinping a exhorté à mobiliser «tous les moyens» pour soigner les blessés et appelé à des investigations approfondies.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/chine-une-explosion-dans-une-mine-de-charbon-fait-au-moins-82-morts-20260523_KSAJHZBVCBE7FKC5ZMXOLNAEUU/",
-      "image": null,
-      "date": "2026-05-23T11:46:44+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Ebola : trois nouveaux cas confirmés en Ouganda, annonce le ministère de la santé",
@@ -50,16 +100,6 @@
       "date": "2026-05-23T11:12:35+00:00",
       "date_formatted": "23 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Epidémie d’Ebola : trois nouveaux cas confirmés en Ouganda",
-      "desc": "Au total, cinq cas ont été recensés dans ce pays voisin de la république démocratique du Congo, épicentre de l’épidémie. Les autorités ougandaises assurent que les personnes contaminées sont sous traitement et que les cas contacts ont été identifiés.",
-      "url": "https://www.liberation.fr/international/afrique/epidemie-debola-trois-nouveaux-cas-confirmes-en-ouganda-20260523_M7DO7IGRUVE7TJEDWFGGDJNHUI/",
-      "image": null,
-      "date": "2026-05-23T10:01:53+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -178,16 +218,6 @@
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-la-francaise-testee-positive-est-toujours-en-reanimation-indique-la-ministre-stephanie-rist_8020604.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/cgcub8YOJ95IddSnQ8d59WKWy2Q/0x0:1280x720/432x243/filters:format(jpg)/2026/05/22/6a1018c8ca5f5469483109.jpg",
       "date": "2026-05-22T11:09:30+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Vrai ou faux. Des désinformateurs prorusses essaient de faire croire que la France est submergée par l'hantavirus",
-      "desc": "Newsguard, une entreprise spécialisée dans la lutte contre la désinformation, a détecté une tentative d'ingérence étrangère prorusse qui instrumentalise la flambée de l'hantavirus sur un bateau de croisière.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-des-desinformateurs-prorusses-essaient-de-faire-croire-que-la-france-est-submergee-par-l-hantavirus_7991090.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/c31Bx_eaWTFck0nEMshe4Akrnyw/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/22/6a0fef4f085cb920752115.jpg",
-      "date": "2026-05-22T10:54:53+00:00",
       "date_formatted": "22 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -498,16 +528,6 @@
       "url": "https://www.20minutes.fr/sante/4224353-20260519-grippe-aviaire-premier-cas-detecte-europe-chez-ours-polaire?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/kY5iUMYIT9Wtg1hflIqk7yk/1200x768_un-ours-polaire-ursus-maritimus",
       "date": "2026-05-19T20:50:19+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : Les chercheurs ont capturé des premiers rats en Terre de Feu pour confirmer (ou pas) l’origine du foyer",
-      "desc": "Les scientifiques vont examiner plus de 70 rats capturés en Terre de feu pour confirmer qu’ils sont bien responsables du foyer d’hantavirus",
-      "url": "https://www.20minutes.fr/sante/4224348-20260519-hantavirus-chercheurs-capture-premiers-rats-terre-feu-confirmer-origine-foyer?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/XjcQEB7CRLW3XrZ7AeplbSk/1200x768_photos-illustrant-l-hantavirus-une-famille-de-virus-transmise-par-des-rongeurs-11-mai-2025-greuezfrancois-0g4a6834-credit-francois-greuez-sipa-2605111152",
-      "date": "2026-05-19T19:38:17+00:00",
       "date_formatted": "19 May 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
