@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-05-23T08:03:05.530200+00:00",
-  "count": 80,
+  "generated_at": "2026-05-23T12:55:05.415394+00:00",
+  "count": 82,
   "articles": [
+    {
+      "title": "Pollution de l’air : les IRM révèlent des lésions inquiétantes dans le cerveau",
+      "desc": "Troubles de l'apprentissage, déclin de la mémoire et même démence : la pollution de l'air a des conséquences bien plus vastes sur la santé que ce que les scientifiques pensaient jusqu'à maintenant. Une nouvelle étude montre les effets dramatiques sur le cerveau d'une pollution atmosphérique même...",
+      "url": "https://www.futura-sciences.com/sante/actualites/pollution-air-pollution-air-irm-revelent-lesions-inquietantes-cerveau-134716/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/0/7/d07297456c_50255597_pollution-cerveau.jpg",
+      "date": "2026-05-23T12:07:25+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Washington préparerait des frappes, Téhéran accuse la Maison Blanche de saboter les négociations, dix morts au Liban… l’actu au Moyen-Orient ce samedi 23 mai",
+      "desc": "L’essentiel des informations du jour sur la guerre qui implique Israël, les Etats-Unis, l’Iran et le Liban.",
+      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-prepareraient-des-frappes-liran-accuse-washington-de-saboter-les-negociations-dix-morts-au-liban-lactu-au-moyen-orient-ce-samedi-23-mai-20260523_3LJEYKAVJ5D2XKGLUTIVW7PV6M/",
+      "image": null,
+      "date": "2026-05-23T12:02:33+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Chine : une explosion dans une mine de charbon fait au moins 90 morts",
+      "desc": "Neuf personnes restent portées disparues sur le site de Liushenyu, dans le nord-est du pays. Xi Jinping a exhorté à mobiliser «tous les moyens» pour soigner les blessés et appelé à des investigations approfondies.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/chine-une-explosion-dans-une-mine-de-charbon-fait-au-moins-82-morts-20260523_KSAJHZBVCBE7FKC5ZMXOLNAEUU/",
+      "image": null,
+      "date": "2026-05-23T11:46:44+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : trois nouveaux cas confirmés en Ouganda, annonce le ministère de la santé",
+      "desc": "L’Ouganda, qui a suspendu, jeudi, tous les transports publics à destination de la RDC, avait confirmé le 15 mai la présence d’Ebola sur son territoire après la découverte de deux cas, dont un est mort.",
+      "url": "https://www.lemonde.fr/sante/article/2026/05/23/ebola-trois-nouveaux-cas-confirmes-en-ouganda-annonce-le-ministere-de-la-sante_6692735_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/18/456/0/5472/2736/644/322/60/0/78eddb4_ftp-1-gpg1kroqkn86-17a3be1885ce46b797af9345e9b2e314-1-8b08e17d619f4f08966e0dc919507ee4.jpg",
+      "date": "2026-05-23T11:20:43+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Epidémie d'Ebola : trois nouveaux cas confirmés en Ouganda, annonce le ministère de la Santé",
+      "desc": "Le pays est voisin de la République démocratique du Congo, où l'épidémie représente désormais un risque \"très élevé\" pour la santé publique, selon l'OMS.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/epidemie-d-ebola-trois-nouveaux-cas-confirmes-en-ouganda-annonce-le-ministere-de-la-sante_8023094.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/E3g16Z3EypTmMSsaxLxl8rqQXLo/0x0:6161x3465/432x243/filters:format(jpg)/2026/05/23/6a116d3926bd5088282739.jpg",
+      "date": "2026-05-23T11:12:35+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Epidémie d’Ebola : trois nouveaux cas confirmés en Ouganda",
+      "desc": "Au total, cinq cas ont été recensés dans ce pays voisin de la république démocratique du Congo, épicentre de l’épidémie. Les autorités ougandaises assurent que les personnes contaminées sont sous traitement et que les cas contacts ont été identifiés.",
+      "url": "https://www.liberation.fr/international/afrique/epidemie-debola-trois-nouveaux-cas-confirmes-en-ouganda-20260523_M7DO7IGRUVE7TJEDWFGGDJNHUI/",
+      "image": null,
+      "date": "2026-05-23T10:01:53+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : De nouveaux cas confirmés en Ouganda, voisin de l’épicentre de l’épidémie",
+      "desc": "Ces nouveaux cas portent à cinq le nombre de personnes contaminées dans le pays, voisin de la RDC où l’épidémie représente désormais un risque « très élevé » pour la santé publique, selon l’OMS",
+      "url": "https://www.20minutes.fr/monde/4225062-20260523-ebola-nouveaux-cas-confirmes-ouganda-voisin-epicentre-epidemie?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/IdFnCu3iTo61sN1Q9XvSaSk/1200x768_260521-bunia-21-mai-2026-xinhua-le-personnel-medical-desinfecte-le-materiel-avant-l-enterrement-d-une-victime-presumee-d-ebola-a-bunia-dans-la-province-de-l-ituri-en-republique-democratique-du-congo-le-21-mai-2026-l-epidemie-initialement-signalee-dans-la-province-de-l-ituri-touche-desormais-le-nord-kivu-et-le-sud-kivu-tandis-que-deux-cas-confirmes-ont-egalement-ete-signales-dans-le-pays-voisin-de-l-ouganda-str-xinhua-str-chine-nouvelle-cmxztpe000035-20260522-pepfn0a001-credit-chine-nouvelle-sipa-2605220815",
+      "date": "2026-05-23T09:49:28+00:00",
+      "date_formatted": "23 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Ebola : à l’origine de l’épidémie, la chauve-souris, suspect idéal",
       "desc": "La quête de la source des épidémies de fièvre hémorragique n’a pas encore livré de coupable. Faute de preuve ultime, les chauves-souris frugivores font figure de principales suspectes.",
@@ -20,16 +90,6 @@
       "date": "2026-05-23T08:00:11+00:00",
       "date_formatted": "23 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Chine : une explosion dans une mine de charbon fait au moins 82 morts",
-      "desc": "Neuf personnes restent portées disparues sur le site de Liushenyu, dans le nord-est du pays. Xi Jinping a exhorté à mobiliser «tous les moyens» pour soigner les blessés et appelé à des investigations approfondies.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/chine-une-explosion-dans-une-mine-de-charbon-fait-au-moins-82-morts-20260523_KSAJHZBVCBE7FKC5ZMXOLNAEUU/",
-      "image": null,
-      "date": "2026-05-23T06:14:32+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -170,16 +230,6 @@
       "date": "2026-05-22T07:00:10+00:00",
       "date_formatted": "22 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "TEMOIGNAGE. \"Un isolement profond\" : une infirmière française contaminée lors de l'épidémie d'Ebola en 2014 raconte son combat contre le virus",
-      "desc": "Culpabilité, solitude, épuisement... Lucie, envoyée au Libéria lors de l'épidémie la plus mortelle du virus, fait le récit de sa contamination. De son rapatriement à son désir d'aider à nouveau.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/temoignage-un-isolement-profond-une-infirmiere-francaise-contaminee-lors-de-l-epidemie-d-ebola-en-2014-raconte-son-combat-contre-le-virus_8019104.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/0QvTSVPpKoO0jglQt_HDiDkLNLM/0x320:6161x3786/432x243/filters:format(jpg)/2026/05/22/6a0fddb4cadf7862008751.jpg",
-      "date": "2026-05-22T06:42:55+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -503,16 +553,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola : 131 morts et 513 cas suspects recensés en RDC ; l’Allemagne va « accueillir et soigner » un patient américain",
-      "desc": "Le directeur général de l’Organisation mondiale de la santé s’est dit « profondément préoccupé par l’ampleur et la rapidité » de l’épidémie qui frappe la République démocratique du Congo. Washington « recommande fortement » aux Américains de ne pas se rendre dans trois pays africains.",
-      "url": "https://www.lemonde.fr/international/article/2026/05/19/ebola-131-morts-et-513-cas-suspects-recenses-en-rdc-l-allemagne-va-accueillir-et-soigner-un-patient-americain_6691452_3210.html",
-      "image": "https://img.lemde.fr/2026/05/19/468/0/3600/1800/644/322/60/0/852be1f_ftp-1-4yfcebczpjv6-5077386-01-06.jpg",
-      "date": "2026-05-19T10:12:10+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : alerte internationale face à la flambée en RDC",
       "desc": "L’Organisation mondiale de la santé a alerté sur la progression rapide de l’épidémie d’Ebola qui frappe la République démocratique du Congo. Avec 131 décès recensés et plus de 500 cas suspects, la flambée épidémique s’étend déjà au-delà des frontières du pays, poussant l’OMS et l’Union africaine à d",
       "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-declenche-une-alerte-internationale-face-a-la-flambee-en-rdc_192505?xtor=RSS-16",
@@ -590,26 +630,6 @@
       "date": "2026-05-18T09:34:18+00:00",
       "date_formatted": "18 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Le QI mondial baisse depuis les années 1980 et la science vient d'identifier les vrais responsables",
-      "desc": "Le quotient intellectuel moyen est en chute depuis plusieurs décennies et ce phénomène surprenant serait davantage lié à notre environnement qu’à nos prédispositions génétiques.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-qi-mondial-baisse-depuis-annees-80-science-vient-identifier-vrais-responsables-w2t8-134383/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/7/8/d786714fa6_50255003_baisse-qi.jpg",
-      "date": "2026-05-18T08:00:00+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Peste noire : un document exceptionnel du Moyen Âge révèle qui survivait… et combien de temps durait la maladie",
-      "desc": "Aussi improbable que cela puisse paraître, certains ont survécu à la peste noire qui a ravagé l’Europe médiévale au Moyen Âge. Qui étaient ces survivants ? En combien de temps étaient-ils remis sur pieds ? Retrouvé dans les archives d’une abbaye anglaise, un parchemin raconte la maladie des...",
-      "url": "https://www.futura-sciences.com/sante/actualites/peste-noire-peste-noire-document-exceptionnel-moyen-age-revele-survivait-temps-durait-maladie-134548/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/4/7/a479765ef6_50255299_peste-moyen-age-danse-mort.jpg",
-      "date": "2026-05-17T14:08:08+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
