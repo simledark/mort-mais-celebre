@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T08:13:32.455968+00:00",
-  "count": 82,
+  "generated_at": "2026-05-24T12:55:13.000387+00:00",
+  "count": 83,
   "articles": [
     {
       "title": "Syndrome du cœur brisé : comment un chagrin d'amour peut-il nous rendre physiquement malade ?",
@@ -10,6 +10,46 @@
       "date": "2026-05-24T10:00:03+00:00",
       "date_formatted": "24 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pour fortifier le statut des autrices et auteurs, suivons Hugo ! par Julien Delmaire",
+      "desc": "L’auteur des «Châtiments», défenseur du domaine public, en appelait également à la solidarité des vivants et des morts : il proposait de taxer les éditeurs des écrivaines et écrivains défunts pour abonder un fonds de soutien aux jeunes auteurs. Une source d’inspiration pour les combats d’aujourd’hui",
+      "url": "https://www.liberation.fr/culture/livres/pour-fortifier-le-statut-des-autrices-et-auteurs-suivons-hugo-par-julien-delmaire-20260524_CIB72WVHPNDP7CVHHZPL5SAVRA/",
+      "image": null,
+      "date": "2026-05-24T09:33:00+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un système immunitaire malade remis à zéro",
+      "desc": "Des cellules immunitaires modifiées génétiquement ont permis la rémission d'une patiente atteinte de trois maladies auto-immunes.",
+      "url": "https://www.sciencesetavenir.fr/sante/un-systeme-immunitaire-malade-remis-a-zero_192591?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/21/cover-r4x3w1200-6a0efaec44fb3-afp-20241023-f0433164-v1-highres-tcellreceptortherapyillustration.jpg",
+      "date": "2026-05-24T09:00:00+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : le cap des 200 morts franchi en république démocratique du Congo",
+      "desc": "Un précédent bilan de l’Organisation mondiale de la Santé faisait état vendredi de 177 décès probablement liés l’épidémie. Dix pays africains sont directement menacés par le virus.",
+      "url": "https://www.liberation.fr/international/afrique/ebola-le-cap-des-200-morts-franchi-en-republique-democratique-du-congo-20260524_Y6U46MSTIVCDJIPIUYCDZV44OQ/",
+      "image": null,
+      "date": "2026-05-24T08:56:13+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des bombardements massifs menés par l’armée russe sur Kyiv font au moins quatre morts",
+      "desc": "La Russie a lancé une importante vague de frappes de missiles balistiques et de drones sur la capitale ukrainienne ce dimanche. Plusieurs civils ont été tués et blessés.",
+      "url": "https://www.liberation.fr/international/des-bombardements-massifs-menee-par-larmee-russe-sur-kyiv-font-au-moins-quatre-morts-20260524_7M3PPX4H7NAOBCEBJ4VHLJMALY/",
+      "image": null,
+      "date": "2026-05-24T08:32:55+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -53,20 +93,10 @@
       "type": "presse"
     },
     {
-      "title": "«Nous voulions une vie confortable» : la fuite silencieuse des retraités hongkongais vers la Chine",
-      "desc": "La ville est l’un des marchés immobiliers les plus chers au monde où les seniors glissent rapidement dans la précarité à l’âge de la retraite. Ils sont de plus en plus nombreux à migrer au nord, de l’autre côté de la frontière, pour mieux vivre leurs vieux jours.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/nous-voulions-une-vie-confortable-la-fuite-silencieuse-des-retraites-hongkongais-vers-la-chine-20260524_R2K6UDY6BRD3JKFMJUUFZ4YMVY/",
-      "image": null,
-      "date": "2026-05-24T06:00:00+00:00",
-      "date_formatted": "24 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : avec plus de 200 morts suspectés en RDC, l’épidémie s’étend et menace d’autres pays",
+      "title": "Ebola : avec plus de 200 morts probables en RDC, l’épidémie s’étend et menace d’autres pays",
       "desc": "Selon les autorités sanitaires, dix pays africains risquent d’être touchés par le virus Ebola, en plus de la République démocratique du Congo, épicentre de l’épidémie, et de l’Ouganda qui recense un mort.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/24/ebola-avec-plus-de-200-morts-suspectes-en-rdc-l-epidemie-s-etend-et-menace-d-autres-pays_6692953_3212.html",
-      "image": "https://img.lemde.fr/2026/05/23/477/0/5500/2750/644/322/60/0/6d880d3_ftp-1-rjolvvp24umf-2026-05-23t184257z-1941979002-rc2sdla6hc74-rtrmadp-3-health-ebola-congo.JPG",
+      "image": "https://img.lemde.fr/2026/05/23/0/0/7540/3770/644/322/60/0/f7cc1d9_ftp-1-4tuq7ncalf0s-ecb30f5f38c9494e87a4c5b9c4b7d0d0-0-a235dba153014092a7261a59bbae3f65.jpg",
       "date": "2026-05-24T02:49:51+00:00",
       "date_formatted": "24 May 2026",
       "source": "Le Monde Santé",
@@ -241,16 +271,6 @@
       "date_formatted": "22 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Les infections sexuellement transmissibles atteignent des niveaux records en Europe",
-      "desc": "Les infections sexuellement transmissibles (IST) se propagent en Europe à une vitesse record, selon plusieurs rapports publiés jeudi 21 mai par le Centre européen de prévention et de contrôle des maladies (ECDC). Dans cet article, le média public portugais RTP revient sur cette hausse inquiétante.",
-      "url": "https://www.franceinfo.fr/sante/les-infections-sexuellement-transmissibles-atteignent-des-niveaux-records-en-europe_8020607.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/qervsFWUxmWRaIViEWlP4Sm-NsA/0x99:1920x1179/432x243/filters:format(jpg)/2026/05/22/6a10175b46527192965839.jpg",
-      "date": "2026-05-22T11:33:46+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "25 millions de personnes touchées par Parkinson en 2050 : voici la piste qui change la donne",
@@ -698,16 +718,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/hantavirus-les-22-francais-cas-contacts-sont-actuellement-hospitalises_192434?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/13/cover-r4x3w1200-6a04a9dd77d11-8eed7963b648b0ea8d8da8cf22b1bf1a10ea77f1-jpg.jpg",
       "date": "2026-05-13T12:43:53+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, transmission, incubation : que sait-on vraiment du hantavirus ?",
-      "desc": "Comment se transmet l'hantavirus ? Peut-on contaminer d'autres personnes sans le savoir ? Au bout de combien de temps les premiers symptômes apparaissent-ils ? Sciences et Avenir fait le point sur l'état des connaissances scientifiques concernant ce virus avec le Pr Antoine Flahault, épidémiologiste",
-      "url": "https://www.sciencesetavenir.fr/sante/symptomes-transmission-incubation-que-sait-on-vraiment-du-hantavirus-le-point-avec-un-epidemiologiste_192429?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/13/cover-r4x3w1200-6a04390570129-afp-20260512-hl-quentindegroeve-3156954-v1-highres-francehealthhantavirusmask.jpg",
-      "date": "2026-05-13T09:45:58+00:00",
       "date_formatted": "13 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
