@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-23T18:52:22.746057+00:00",
-  "count": 84,
+  "generated_at": "2026-05-24T01:59:21.584762+00:00",
+  "count": 83,
   "articles": [
+    {
+      "title": "Ebola : avec plus de 200 morts suspectés en RDC, l’épidémie s’étend et menace d’autres pays",
+      "desc": "Selon les autorités sanitaires, dix pays africains risquent d’être touchés par le virus Ebola, en plus de la République démocratique du Congo, épicentre de l’épidémie, et de l’Ouganda qui recense un mort.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/24/ebola-avec-plus-de-200-morts-suspectes-en-rdc-l-epidemie-s-etend-et-menace-d-autres-pays_6692953_3212.html",
+      "image": "https://img.lemde.fr/2026/05/23/477/0/5500/2750/644/322/60/0/6d880d3_ftp-1-rjolvvp24umf-2026-05-23t184257z-1941979002-rc2sdla6hc74-rtrmadp-3-health-ebola-congo.JPG",
+      "date": "2026-05-24T02:49:53+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Ma vie d’ado : « Face à la maladie, on est toujours seul à lutter, même en étant très entouré »",
       "desc": "« Le Monde » donne la parole à des jeunes gens qui évoquent leurs états d’âme, leurs envies, leurs difficultés. Priam, 15 ans, vient de livrer trois ans de combat contre le cancer. Une épreuve qui l’a fait mûrir et lui a permis de réaliser plusieurs rêves",
@@ -28,16 +38,6 @@
       "url": "https://www.liberation.fr/international/afrique/on-voyait-les-gens-mourir-en-masse-sans-pouvoir-rien-faire-a-al-hilaliya-le-venin-mortel-de-la-guerre-civile-soudanaise-20260523_BL6FA5J45JGIXI2ESG45EH2QH4/",
       "image": null,
       "date": "2026-05-23T16:00:00+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un accord en cours de négociations entre Washington et Téhéran, le Pakistan reprend sa médiation, dix morts au Liban... l’actu au Moyen-Orient ce samedi 23 mai",
-      "desc": "L’essentiel des informations du jour sur la guerre qui implique Israël, les Etats-Unis, l’Iran et le Liban.",
-      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-prepareraient-des-frappes-liran-accuse-washington-de-saboter-les-negociations-dix-morts-au-liban-lactu-au-moyen-orient-ce-samedi-23-mai-20260523_3LJEYKAVJ5D2XKGLUTIVW7PV6M/",
-      "image": null,
-      "date": "2026-05-23T15:40:30+00:00",
       "date_formatted": "23 May 2026",
       "source": "Libération",
       "type": "presse"
@@ -538,16 +538,6 @@
       "url": "https://www.lemonde.fr/politique/article/2026/05/19/virus-ebola-la-france-va-prendre-de-premieres-mesures-de-precaution-a-mayotte_6691521_823448.html",
       "image": "https://img.lemde.fr/2026/05/18/513/0/6161/3080/644/322/60/0/7bb5a83_ftp-1-xxvvxvvz16ul-5071739-01-06.jpg",
       "date": "2026-05-19T18:33:12+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Virus Ebola en RDC : « La décision des Occidentaux de réduire leur aide a contribué à l’affaiblissement de la chaîne de surveillance sanitaire »",
-      "desc": "Jean Kesaya, le patron d’Africa CDC, l’agence sanitaire de l’Union africaine, dénonce, dans un entretien au « Monde », l’impact de la réduction drastique de l’aide internationale sur la gestion tardive de l’épidémie en cours.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/19/virus-ebola-en-rdc-la-decision-des-occidentaux-de-reduire-leur-aide-a-contribue-a-l-affaiblissement-de-la-chaine-de-surveillance-sanitaire_6691516_3212.html",
-      "image": "https://img.lemde.fr/2026/05/18/677/0/5690/2845/644/322/60/0/c746d30_ftp-1-hzrbvr6aje2r-5071737-01-06.jpg",
-      "date": "2026-05-19T18:01:27+00:00",
       "date_formatted": "19 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
