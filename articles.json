@@ -1,13 +1,73 @@
 {
-  "generated_at": "2026-05-24T01:59:21.584762+00:00",
-  "count": 83,
+  "generated_at": "2026-05-24T08:13:32.455968+00:00",
+  "count": 82,
   "articles": [
+    {
+      "title": "Syndrome du cœur brisé : comment un chagrin d'amour peut-il nous rendre physiquement malade ?",
+      "desc": "Popularisée dans les chansons de rupture, l'idée de \"mourir d’amour\" n'est pas qu'une métaphore. Après un choc émotionnel intense, comme une séparation, certaines personnes peuvent développer un syndrome du cœur brisé, une maladie cardiaque rare, mais bien réelle, appelée Tako-Tsubo.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/syndrome-du-c-ur-brise-comment-un-chagrin-d-amour-peut-il-nous-rendre-physiquement-malade_7956851.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/9JH8PvmWaRSyY9uJJR8kVRrasXk/0x142:2070x1307/432x243/filters:format(jpg)/2026/05/21/6a0ee492b92be475528698.jpg",
+      "date": "2026-05-24T10:00:03+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au Pakistan, l’attaque à l’explosif d’un train militaire fait au moins 24 morts",
+      "desc": "L’explosion est survenue dans la capitale de la province instable du Baloutchistan, lieu d’affrontements réguliers avec les séparatistes.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/au-pakistan-lattaque-a-lexplosif-dun-train-militaire-fait-au-moins-24-morts-20260524_7U4IDH6HGRA23MPFIXDBW2XSF4/",
+      "image": null,
+      "date": "2026-05-24T08:06:29+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Pas une envie claire d’adhérer à ce projet inclusif» : en Bretagne, un projet de «village Alzheimer» forcé de déménager",
+      "desc": "Ce dispositif inclusif, fondé sur une gestion ouverte de maisons peuplées de sept colocataires, s’est heurté à des difficultés pour s’implanter dans un village des Côtes-d’Armor, avant de trouver un meilleur accueil non loin de là.",
+      "url": "https://www.liberation.fr/societe/pas-une-envie-claire-dadherer-a-ce-projet-inclusif-en-bretagne-un-projet-de-village-alzheimer-force-de-demenager-20260524_TU4Z7X2CI5AZLJSEFUZXU6HYHQ/",
+      "image": null,
+      "date": "2026-05-24T07:57:00+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Chine : 82 morts lors de l’explosion dans une mine de charbon, deux disparus recherchés",
+      "desc": "Les secouristes espèrent toujours ce dimanche matin retrouver deux personnes coincées dans les décombres. Parallèlement, les autorités pointent de «graves» infractions de la part de l’exploitant du site.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/chine-une-explosion-dans-une-mine-de-charbon-fait-au-moins-82-morts-20260523_KSAJHZBVCBE7FKC5ZMXOLNAEUU/",
+      "image": null,
+      "date": "2026-05-24T07:38:20+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Seine-et-Marne : un adolescent de 17 ans mortellement poignardé dans un camping",
+      "desc": "Un jeune homme a été pris pour cible par un autre du même âge, dans la nuit de samedi à dimanche à Villevaudé, au nord-est de Paris. Le suspect a été interpellé en Seine-Saint-Denis. Les enquêteurs évoquent une rivalité amoureuse.",
+      "url": "https://www.liberation.fr/societe/police-justice/rivalite-amoureuse-un-adolescent-de-17-ans-mortellement-poignarde-dans-un-camping-20260524_2YVDKJYTFRGPZC6SB3SNFH4PRU/",
+      "image": null,
+      "date": "2026-05-24T06:27:49+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Nous voulions une vie confortable» : la fuite silencieuse des retraités hongkongais vers la Chine",
+      "desc": "La ville est l’un des marchés immobiliers les plus chers au monde où les seniors glissent rapidement dans la précarité à l’âge de la retraite. Ils sont de plus en plus nombreux à migrer au nord, de l’autre côté de la frontière, pour mieux vivre leurs vieux jours.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/nous-voulions-une-vie-confortable-la-fuite-silencieuse-des-retraites-hongkongais-vers-la-chine-20260524_R2K6UDY6BRD3JKFMJUUFZ4YMVY/",
+      "image": null,
+      "date": "2026-05-24T06:00:00+00:00",
+      "date_formatted": "24 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ebola : avec plus de 200 morts suspectés en RDC, l’épidémie s’étend et menace d’autres pays",
       "desc": "Selon les autorités sanitaires, dix pays africains risquent d’être touchés par le virus Ebola, en plus de la République démocratique du Congo, épicentre de l’épidémie, et de l’Ouganda qui recense un mort.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/24/ebola-avec-plus-de-200-morts-suspectes-en-rdc-l-epidemie-s-etend-et-menace-d-autres-pays_6692953_3212.html",
       "image": "https://img.lemde.fr/2026/05/23/477/0/5500/2750/644/322/60/0/6d880d3_ftp-1-rjolvvp24umf-2026-05-23t184257z-1941979002-rc2sdla6hc74-rtrmadp-3-health-ebola-congo.JPG",
-      "date": "2026-05-24T02:49:53+00:00",
+      "date": "2026-05-24T02:49:51+00:00",
       "date_formatted": "24 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -33,16 +93,6 @@
       "type": "presse"
     },
     {
-      "title": "«On voyait les gens mourir en masse sans pouvoir rien faire» : à Al-Hilaliya, le venin mortel de la guerre civile soudanaise",
-      "desc": "En novembre 2024, les paramilitaires des Forces de soutien rapide ont mené une campagne de représailles contre la ville : en quelques jours, près de 2 000 personnes ont succombé à une mystérieuse maladie. Les habitants affirment avoir été empoisonnés.",
-      "url": "https://www.liberation.fr/international/afrique/on-voyait-les-gens-mourir-en-masse-sans-pouvoir-rien-faire-a-al-hilaliya-le-venin-mortel-de-la-guerre-civile-soudanaise-20260523_BL6FA5J45JGIXI2ESG45EH2QH4/",
-      "image": null,
-      "date": "2026-05-23T16:00:00+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : L’épidémie risque de toucher dix pays africains, estime l’Agence sanitaire de l’Union africaine",
       "desc": "Le Soudan du Sud, le Rwanda, le Kenya, la Tanzanie, l’Ethiopie, le Congo, le Burundi, l’Angola, la Centrafrique et la Zambie sont à risque d’une épidémie d’Ebola, qui se propage en RDC",
       "url": "https://www.20minutes.fr/monde/4225083-20260523-ebola-epidemie-risque-toucher-dix-pays-africains-estime-agence-sanitaire-union-africaine?at_medium=display&at_campaign=149",
@@ -60,16 +110,6 @@
       "date": "2026-05-23T15:08:17+00:00",
       "date_formatted": "23 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Quinze ans après avoir tué sa précédente compagne, un homme soupçonné du meurtre de sa conjointe placé en détention",
-      "desc": "Les circonstances de la mort, mercredi à Antibes, de la concubine du sexagénaire intriguent les enquêteurs. Une information judiciaire a été ouverte pour homicide volontaire en état de récidive.",
-      "url": "https://www.liberation.fr/societe/police-justice/quinze-ans-apres-avoir-tue-sa-precedente-compagne-un-homme-soupconne-du-meurtre-de-sa-conjointe-place-en-detention-20260523_3UZOHCNASFF4NBO5KQ45EWPF4Y/",
-      "image": null,
-      "date": "2026-05-23T13:33:44+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -208,16 +248,6 @@
       "url": "https://www.franceinfo.fr/sante/les-infections-sexuellement-transmissibles-atteignent-des-niveaux-records-en-europe_8020607.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/qervsFWUxmWRaIViEWlP4Sm-NsA/0x99:1920x1179/432x243/filters:format(jpg)/2026/05/22/6a10175b46527192965839.jpg",
       "date": "2026-05-22T11:33:46+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : la Française testée positive \"est toujours en réanimation\", indique la ministre Stéphanie Rist",
-      "desc": "\"Les tests des autres personnes sont toujours négatifs\", ajoute la ministre de la Santé mais ils restent hospitalisés. \"L'incubation étant de 42 jours, l'isolement est de 42 jours\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-la-francaise-testee-positive-est-toujours-en-reanimation-indique-la-ministre-stephanie-rist_8020604.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cgcub8YOJ95IddSnQ8d59WKWy2Q/0x0:1280x720/432x243/filters:format(jpg)/2026/05/22/6a1018c8ca5f5469483109.jpg",
-      "date": "2026-05-22T11:09:30+00:00",
       "date_formatted": "22 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -513,26 +543,6 @@
       "type": "science"
     },
     {
-      "title": "Avec Ebola, les Etats-Unis trouvent une nouvelle raison pour tacler l’OMS",
-      "desc": "Le secrétaire d’Etat américain Marco Rubio reproche à l’OMS d’avoir « un peu tardé » à identifier l’épidémie du virus Ebola qui frappe la République démocratique du Congo",
-      "url": "https://www.20minutes.fr/monde/etats-unis/4224383-20260520-ebola-etats-unis-trouvent-nouvelle-raison-tacler-oms?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/B4xGwV7AT5qjTu4OqHu7UCk/1200x768_credit-obligatoire-photo-de-mauro-scrobogna-la-presse-shutterstock-16865825s-le-secretaire-d-etat-americain-marco-rubio-lors-de-la-reunion-bilaterale-entre-l-italie-et-les-etats-unis-qui-s-est-tenue-au-ministere-des-affaires-etrangeres-rome-vendredi-08-mai-2026-rome-farnesina-visite-du-secretaire-d-etat-americain-rubio-en-italie-08-mai-2026-shutterstock-editorial-rome-farnesina-visit-of-u-s-16865825s-2605081219",
-      "date": "2026-05-20T02:24:49+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Grippe aviaire : Un premier cas détecté en Europe… chez un ours polaire",
-      "desc": "Un cas de grippe aviaire H5N5 a été détecté chez un ours polaire retrouvé mort dans l’archipel du Svalbard",
-      "url": "https://www.20minutes.fr/sante/4224353-20260519-grippe-aviaire-premier-cas-detecte-europe-chez-ours-polaire?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/kY5iUMYIT9Wtg1hflIqk7yk/1200x768_un-ours-polaire-ursus-maritimus",
-      "date": "2026-05-19T20:50:19+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Virus Ebola : la France va prendre « de premières mesures de précaution » à Mayotte",
       "desc": "Le gouvernement français estime « très faible » le risque d’importation de l’épidémie en France hexagonale et à Mayotte. La République démocratique du Congo a recensé 131 morts et 513 cas suspects.",
       "url": "https://www.lemonde.fr/politique/article/2026/05/19/virus-ebola-la-france-va-prendre-de-premieres-mesures-de-precaution-a-mayotte_6691521_823448.html",
@@ -580,26 +590,6 @@
       "date": "2026-05-19T08:34:18+00:00",
       "date_formatted": "19 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "La RDC face à une nouvelle épidémie d’Ebola : « L’alerte a été donnée trop tard, et la situation évolue très rapidement »",
-      "desc": "Plus de 100 morts liées au virus et 395 cas suspects étaient recensés en République démocratique du Congo lundi soir. Le 16 mai, l’Organisation mondiale de la santé a déclaré une « urgence de santé publique de portée internationale », son deuxième niveau d’alerte le plus élevé.",
-      "url": "https://www.lemonde.fr/international/article/2026/05/18/la-rdc-face-a-une-nouvelle-epidemie-d-ebola-l-alerte-a-ete-donnee-trop-tard-et-la-situation-evolue-tres-rapidement_6691069_3210.html",
-      "image": "https://img.lemde.fr/2026/05/16/88/0/1786/893/644/322/60/0/1c526fe_ftp-1-r1iwwjhf4def-2026-05-16t190534z-442527065-rc2ialaq6azr-rtrmadp-3-health-ebola-africa-drc.JPG",
-      "date": "2026-05-18T20:55:34+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "L’immunologiste Claude Griscelli, pionnier de la greffe de moelle osseuse sur les « bébés bulles » et ex-directeur de l’Inserm, est mort",
-      "desc": "Le médecin chercheur est décédé le 7 mai, à l’âge de 90 ans. A la fin de sa vie, il avait été radié de l’ordre des médecins pour avoir omis de déclarer ses liens d’intérêt avec le laboratoire Servier.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/05/18/l-immunologiste-claude-griscelli-pionnier-de-la-greffe-de-moelle-osseuse-sur-les-bebes-bulles-et-ex-directeur-de-l-inserm-est-mort_6691065_3382.html",
-      "image": "https://img.lemde.fr/2026/05/18/1079/0/2085/1042/644/322/60/0/a8a54c4_upload-1-9qkt5gsptrcf-000-par544263.jpg",
-      "date": "2026-05-18T20:15:04+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
