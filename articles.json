@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-05-25T09:44:15.932978+00:00",
-  "count": 82,
+  "generated_at": "2026-05-25T14:29:28.954866+00:00",
+  "count": 85,
   "articles": [
     {
-      "title": "La députée de Vendée Béatrice Bellamy est décédée d'un cancer à 59 ans",
+      "title": "Aluminium dans les vaccins : fin de la polémique ?",
+      "desc": "L’aluminium dans les vaccins est un sujet qui ne cesse d’alimenter les polémiques, et ce, d’autant plus avec les décisions controversées de l’actuel ministre de la santé américain, qui attisent les suspicions de lien avec des maladies graves. Va-t-on y voir plus clair avec cette méta-analyse...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vaccin-aluminium-vaccins-fin-polemique-134420/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/6/a/46a67c74bd_50255051_vaccins-aluminium.jpg",
+      "date": "2026-05-25T14:50:20+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Stéphanie Rist, la science incluse",
+      "desc": "Médecin rhumatologue, la ministre de la Santé s’est fait connaître au moment de l’émergence d’un foyer d’hantavirus.",
+      "url": "https://www.liberation.fr/portraits/stephanie-rist-la-science-incluse-20260525_OAOHIOBWT5CLLPHV5V2OIINB34/",
+      "image": null,
+      "date": "2026-05-25T14:02:59+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Découverte d’un enfant mort à Rennes, une serviette «nouée très serrée» autour du cou : deux adolescents placés en garde à vue",
+      "desc": "La police a retrouvé le corps sans vie sur les rives de la Vilaine dimanche, après avoir été alertée par un pêcheur. Selon le parquet de Rennes, deux adolescents de 15 ans et 16 ans ont été placés en garde à vue pour «meurtre sur mineur de moins de 15 ans» ce lundi 25 mai.",
+      "url": "https://www.liberation.fr/societe/police-justice/rennes-un-enfant-retrouve-mort-dans-un-buisson-avec-un-linge-autour-du-cou-20260524_L3SD7FQ32VAVZMXWOJZWZ45BH4/",
+      "image": null,
+      "date": "2026-05-25T13:50:27+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vendée : sept blessés, dont un grave, dans l’explosion d’un immeuble",
+      "desc": "Les faits ont eu lieu ce lundi dans la commune de Vix. Selon les premiers éléments réunis par les enquêteurs, un homme a tenté de se suicider et a provoqué une explosion au gaz dans une ancienne caserne de gendarmerie transformée en logements sociaux.",
+      "url": "https://www.liberation.fr/societe/police-justice/vendee-sept-blesses-dont-un-grave-dans-lexplosion-dun-immeuble-20260525_SB3NCXAFRZHTPAQKFZ35O5AWG4/",
+      "image": null,
+      "date": "2026-05-25T13:45:47+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Un jeune qui fait un jogging à midi risque lui aussi un coup de chaleur» : la chaleur, un risque pour la santé de tous",
+      "desc": "Les personnes âgées sont certes les plus à risques face aux températures élevées, mais tout le monde est concerné par les dangers de l’hyperthermie, qu’importe son âge. Même les plus jeunes doivent adapter leur comportement.",
+      "url": "https://www.liberation.fr/societe/sante/un-jeune-qui-fait-un-jogging-a-midi-risque-lui-aussi-un-coup-de-chaleur-la-canicule-un-risque-pour-la-sante-de-tous-20250628_FL6V7GR3FBBPPPHO434TTUABDA/",
+      "image": null,
+      "date": "2026-05-25T13:44:04+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : deux nouveaux cas confirmés en Ouganda, selon le ministère de la santé",
+      "desc": "Cela porte à sept le nombre de cas recensés en Ouganda depuis le début de l’actuelle épidémie de fièvre hémorragique à virus Ebola, déclarée le 15 mai en République démocratique du Congo voisine.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/25/ebola-deux-nouveaux-cas-confirmes-en-ouganda-selon-le-ministere-de-la-sante_6693645_3212.html",
+      "image": "https://img.lemde.fr/2026/05/21/267/0/4180/2090/644/322/60/0/71cfa83_ftp-1-zi3ucxe94uw0-2026-05-21t131151z-406720059-rc2hdlawwewx-rtrmadp-3-health-ebola-uganda.JPG",
+      "date": "2026-05-25T13:22:50+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Chaleur : deux morts et plusieurs hospitalisations après des épreuves sportives en Ile-de-France et à Lyon",
+      "desc": "Une pratiquante d’hyrox à Lyon et un coureur à Paris sont morts après avoir participé à des compétitions, dimanche 24 mai. A Maisons-Alfort, dans le Val-de-Marne, une autre course à pied a enregistré quatorze coureurs hospitalisés.",
+      "url": "https://www.liberation.fr/societe/chaleur-un-mort-et-plusieurs-hospitalisations-apres-le-maintien-depreuves-sportives-en-ile-de-france-20260524_LD5KQH3KKJEN5LTQOCR2MX4OH4/",
+      "image": null,
+      "date": "2026-05-25T12:38:49+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La députée de Vendée Béatrice Bellamy est morte d'un cancer à 59 ans",
       "desc": "Membre du groupe Horizons à l'Assemblée nationale, Béatrice Bellamy était députée à la Roche-sur-Yon, la 2e circonscription de Vendée.",
       "url": "https://www.franceinfo.fr/sante/cancer/la-deputee-de-vendee-beatrice-bellamy-est-decedee-d-un-cancer-a-59-ans_8026829.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/bYGp-dGOA8UYEXcG95B8fHwFfnI/0x185:3541x2177/432x243/filters:format(jpg)/2026/05/25/6a1412313063b964193647.jpg",
-      "date": "2026-05-25T11:11:42+00:00",
+      "date": "2026-05-25T11:40:05+00:00",
       "date_formatted": "25 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -23,6 +93,16 @@
       "type": "presse"
     },
     {
+      "title": "La députée de Vendée Béatrice Bellamy meurt d’un cancer, à 59 ans",
+      "desc": "La secrétaire nationale du parti Horizons a succombé dimanche à la maladie, annonce ce lundi son équipe parlementaire.",
+      "url": "https://www.liberation.fr/politique/la-deputee-de-vendee-beatrice-bellamy-meurt-dun-cancer-a-59-ans-20260525_UOVWXZHOWBG6PE6ZLMZBOPHNW4/",
+      "image": null,
+      "date": "2026-05-25T09:45:19+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Vieillissement : ce jumeau numérique pourrait prédire les moments où votre corps décroche",
       "desc": "En Chine, des chercheurs du Centre national de bio-informatique ont développé un jumeau numérique qui mesure le rythme de vieillissement des organes à l'âge adulte et renseigne sur leur déclin physiologique.",
       "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillissement-ce-jumeau-numerique-pourrait-predire-moments-votre-corps-decroche-134591/#xtor%3DRSS-8",
@@ -31,26 +111,6 @@
       "date_formatted": "25 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Une enquête ouverte à Rennes après la découverte d’un enfant mort, une serviette «nouée très serrée» autour du cou",
-      "desc": "La police a retrouvé le corps sans vie sur les rives de la Vilaine dimanche, après avoir été alertée par un pêcheur. La division de la criminalité organisée et spécialisée a été saisie.",
-      "url": "https://www.liberation.fr/societe/police-justice/rennes-un-enfant-retrouve-mort-dans-un-buisson-avec-un-linge-autour-du-cou-20260524_L3SD7FQ32VAVZMXWOJZWZ45BH4/",
-      "image": null,
-      "date": "2026-05-25T06:34:31+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Chaleur : un mort et plusieurs hospitalisations après le maintien d’épreuves sportives en Ile-de-France",
-      "desc": "Un homme de 50 ans a succombé à un malaise cardiaque après avoir couru 10 km dans le nord de la capitale. A Maisons-Alfort, dans le Val-de-Marne, une autre course à pied enregistre quatorze coureurs hospitalisés.",
-      "url": "https://www.liberation.fr/societe/chaleur-un-mort-et-plusieurs-hospitalisations-apres-le-maintien-depreuves-sportives-en-ile-de-france-20260524_LD5KQH3KKJEN5LTQOCR2MX4OH4/",
-      "image": null,
-      "date": "2026-05-24T18:17:46+00:00",
-      "date_formatted": "24 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "CARTE. Pays touchés ou menacés... Où en est l'épidémie d'Ebola qui se \"propage rapidement\" en Afrique, selon l'Organisation mondiale de la santé ?",
@@ -71,26 +131,6 @@
       "date_formatted": "24 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Seine-et-Marne : un adolescent de 17 ans meurt noyé dans la Seine",
-      "desc": "Le jeune homme a été retrouvé mort quelques heures après avoir été aspiré par le courant, samedi à Boissise-la-Bertrand, près de Melun. En Alsace, c’est une trentenaire qui a perdu la vie après s’être baignée dans un étang.",
-      "url": "https://www.liberation.fr/societe/police-justice/seine-et-marne-un-adolescent-de-17-ans-meurt-noye-dans-la-seine-20260524_E2VQBQNMDFGCNMGYYGJFVWV6FA/",
-      "image": null,
-      "date": "2026-05-24T17:19:23+00:00",
-      "date_formatted": "24 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Les missiles russes sèment la désolation à Podil, le cœur bohème de Kyiv",
-      "desc": "Dimanche, la Russie a bombardé Kyiv avec une rare brutalité. Plusieurs missiles ont ravagé le centre historique de la capitale, faisant quatre morts et une centaine de blessés. L’armée russe a utilisé pour la troisième fois un missile de portée intermédiaire Oreshnik, histoire d’intimider les Europé",
-      "url": "https://www.liberation.fr/international/europe/les-missiles-russes-sement-la-desolation-a-podil-le-coeur-boheme-de-kyiv-20260524_XAJXSVHP3RHV7ASLMKSZVLRW7M/",
-      "image": null,
-      "date": "2026-05-24T17:18:50+00:00",
-      "date_formatted": "24 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Peut-on mourir d'un chagrin d'amour ?",
@@ -610,16 +650,6 @@
       "date": "2026-05-19T08:34:18+00:00",
       "date_formatted": "19 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : c’est quoi ce virus rare qui peut tuer jusqu’à 50 %, et pourquoi n’existe-t-il toujours pas de vaccin ?",
-      "desc": "Le virus qui circule actuellement en République démocratique du Congo (RDC) et qui a provoqué 90 morts de fièvre hémorragique depuis le début du mois de mai inquiète l’OMS. Et il y a de bonnes raisons pour ça. Explications.",
-      "url": "https://www.futura-sciences.com/sante/actualites/ebola-ebola-cest-ce-virus-rare-peut-tuer-jusqua-50-nexiste-t-il-toujours-pas-vaccin-134619/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/1/3/c13e4f7c05_50255406_ebola-virus-rare.jpg",
-      "date": "2026-05-18T18:27:37+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
