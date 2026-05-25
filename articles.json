@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-05-25T02:06:29.377201+00:00",
-  "count": 80,
+  "generated_at": "2026-05-25T09:44:15.932978+00:00",
+  "count": 82,
   "articles": [
     {
-      "title": "Rennes : un enfant retrouvé mort dans un buisson avec un linge autour du cou",
-      "desc": "Alarmé par des cris, un pêcheur a appelé la police, qui a ensuite retrouvé le corps sans vie, ce dimanche. Une enquête pour meurtre a été ouverte.",
+      "title": "La députée de Vendée Béatrice Bellamy est décédée d'un cancer à 59 ans",
+      "desc": "Membre du groupe Horizons à l'Assemblée nationale, Béatrice Bellamy était députée à la Roche-sur-Yon, la 2e circonscription de Vendée.",
+      "url": "https://www.franceinfo.fr/sante/cancer/la-deputee-de-vendee-beatrice-bellamy-est-decedee-d-un-cancer-a-59-ans_8026829.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/bYGp-dGOA8UYEXcG95B8fHwFfnI/0x185:3541x2177/432x243/filters:format(jpg)/2026/05/25/6a1412313063b964193647.jpg",
+      "date": "2026-05-25T11:11:42+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : plus de 200 morts en République démocratique du Congo, dix pays à risque",
+      "desc": "Le virus Ebola continue sa propagation. Après plus de 200 morts probables en République démocratique du Congo, l'épidémie menace directement dix autres pays africains. Alors chacun tente tant bien que mal de limiter la propagation.",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/ebola-plus-de-200-morts-en-republique-democratique-du-congo-dix-pays-a-risque_8026742.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/hQqQZ6XeQ2qUPjhFvHyV9pg2AUY/77x0:1096x573/432x243/filters:format(jpg)/2026/05/25/6a13ffda6795c052659825.jpg",
+      "date": "2026-05-25T10:16:13+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Vieillissement : ce jumeau numérique pourrait prédire les moments où votre corps décroche",
+      "desc": "En Chine, des chercheurs du Centre national de bio-informatique ont développé un jumeau numérique qui mesure le rythme de vieillissement des organes à l'âge adulte et renseigne sur leur déclin physiologique.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillissement-ce-jumeau-numerique-pourrait-predire-moments-votre-corps-decroche-134591/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/9/0/a902ae7cd5_50255353_jumeau-nume-rique-vieillissementjpg.jpg",
+      "date": "2026-05-25T08:27:28+00:00",
+      "date_formatted": "25 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Une enquête ouverte à Rennes après la découverte d’un enfant mort, une serviette «nouée très serrée» autour du cou",
+      "desc": "La police a retrouvé le corps sans vie sur les rives de la Vilaine dimanche, après avoir été alertée par un pêcheur. La division de la criminalité organisée et spécialisée a été saisie.",
       "url": "https://www.liberation.fr/societe/police-justice/rennes-un-enfant-retrouve-mort-dans-un-buisson-avec-un-linge-autour-du-cou-20260524_L3SD7FQ32VAVZMXWOJZWZ45BH4/",
       "image": null,
-      "date": "2026-05-24T18:51:48+00:00",
-      "date_formatted": "24 May 2026",
+      "date": "2026-05-25T06:34:31+00:00",
+      "date_formatted": "25 May 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -157,7 +187,7 @@
       "desc": "L’Ouganda, qui a suspendu, jeudi, tous les transports publics à destination de la RDC, avait confirmé le 15 mai la présence d’Ebola sur son territoire après la découverte de deux cas, dont un est mort.",
       "url": "https://www.lemonde.fr/sante/article/2026/05/23/ebola-trois-nouveaux-cas-confirmes-en-ouganda-annonce-le-ministere-de-la-sante_6692735_1651302.html",
       "image": "https://img.lemde.fr/2026/05/18/456/0/5472/2736/644/322/60/0/78eddb4_ftp-1-gpg1kroqkn86-17a3be1885ce46b797af9345e9b2e314-1-8b08e17d619f4f08966e0dc919507ee4.jpg",
-      "date": "2026-05-23T11:20:43+00:00",
+      "date": "2026-05-23T11:20:42+00:00",
       "date_formatted": "23 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -187,7 +217,7 @@
       "desc": "La quête de la source des épidémies de fièvre hémorragique n’a pas encore livré de coupable. Faute de preuve ultime, les chauves-souris frugivores font figure de principales suspectes.",
       "url": "https://www.lemonde.fr/international/article/2026/05/23/ebola-a-l-origine-de-l-epidemie-la-chauve-souris-suspect-ideal_6692716_3210.html",
       "image": "https://img.lemde.fr/2026/05/22/244/0/2824/1412/644/322/60/0/214422b_upload-1-8qek5bksc9cs-bios-2479716.jpg",
-      "date": "2026-05-23T08:48:00+00:00",
+      "date": "2026-05-23T08:47:59+00:00",
       "date_formatted": "23 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -588,16 +618,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/ebola-ebola-cest-ce-virus-rare-peut-tuer-jusqua-50-nexiste-t-il-toujours-pas-vaccin-134619/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/1/3/c13e4f7c05_50255406_ebola-virus-rare.jpg",
       "date": "2026-05-18T18:27:37+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : l’OMS déclenche le second niveau le plus élevé avant l’alerte maximale, que se passe-t-il ?",
-      "desc": "Une nouvelle flambée d’Ebola secoue l’Afrique centrale. Apparue dans l’est de la République démocratique du Congo avant de franchir la frontière ougandaise, cette épidémie liée à une souche rare et mal connue a poussé l’OMS à déclarer une urgence sanitaire mondiale. Cas suspects en hausse, décès...",
-      "url": "https://www.futura-sciences.com/sante/actualites/ebola-ebola-oms-declenche-second-niveau-plus-eleve-avant-alerte-maximale-passe-t-il-134604/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/c/8/1c816b27d0_50255380_epidemie-fievre-ebola.jpg",
-      "date": "2026-05-18T14:45:02+00:00",
       "date_formatted": "18 May 2026",
       "source": "Futura Santé",
       "type": "science"
