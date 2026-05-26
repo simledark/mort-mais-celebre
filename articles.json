@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-05-26T01:57:36.443734+00:00",
-  "count": 84,
+  "generated_at": "2026-05-26T09:31:34.720374+00:00",
+  "count": 82,
   "articles": [
+    {
+      "title": "« Si la population ne croit pas qu’Ebola existe, nous risquons de tous mourir » : en RDC, la riposte contre l’épidémie se heurte à la méfiance des populations",
+      "desc": "Des centres de santé et des soignants ont été pris pour cible par des proches de victimes du virus, dans plusieurs localités de l'est du pays. L’Organisation mondiale de la santé a activé son niveau d’alerte le plus élevé face à la propagation de la maladie.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/26/si-la-population-ne-croit-pas-qu-ebola-existe-nous-risquons-de-tous-mourir-en-rdc-la-riposte-contre-l-epidemie-se-heurte-a-la-mefiance-des-populations_6693869_3212.html",
+      "image": "https://img.lemde.fr/2026/05/22/658/0/5500/2750/644/322/60/0/d5c19c7_ftp-1-lbobjzsugxqk-2026-05-22t121434z-332073173-rc2qdlal84we-rtrmadp-3-health-ebola-ifrc.JPG",
+      "date": "2026-05-26T10:46:13+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. \"Si on peut guérir, il ne faut pas attendre qu'il soit trop tard\" : un programme pilote de dépistage du cancer du poumon recherche 20 000 volontaires",
+      "desc": "Ce nouveau dépistage permettrait de sauver des vies en détectant très tôt ce cancer, avant même l’apparition des premiers symptômes.",
+      "url": "https://www.franceinfo.fr/sante/cancer/reportage-si-on-peut-guerir-il-ne-faut-pas-attendre-qu-il-soit-trop-tard-un-programme-pilote-de-depistage-du-cancer-du-poumon-recherche-20-000-volontaires_8027510.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/V2-6Aya1469BCYASTdAcNtCNeBg/0x398:4624x2999/432x243/filters:format(jpg)/2026/05/25/6a14b08df31a8467334486.jpg",
+      "date": "2026-05-26T09:28:06+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Maladie de l’homme de pierre : quand le corps fabrique un second squelette",
+      "desc": "Maladie génétique ultra-rare, la fibrodysplasie ossifiante progressive transforme progressivement muscles et tissus conjonctifs en os. Fascinante par ses mécanismes, dramatique par ses conséquences.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/26/maladie-de-l-homme-de-pierre-quand-le-corps-fabrique-un-second-squelette_6693859_6579630.html",
+      "image": "https://img.lemde.fr/2026/03/20/167/0/333/166/644/322/60/0/4627cb4_upload-1-vyfsvzxvp7ap-fibrodysplasie-ossifiante-progressive-maladie-de-l-homme-de-pierre.jpg",
+      "date": "2026-05-26T09:16:42+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Canicule : le gouvernement recense «sept décès liés à la chaleur», dont cinq noyades",
+      "desc": "Les températures maximales attendues ce mardi 26 mai après-midi, de 33 à 36 °C dans les départements en vigilance orange «canicule», s’annoncent inédites pour un mois de mai.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-sept-deces-lies-a-la-chaleur-selon-la-porte-parole-du-gouvernement-20260526_LSCX2ZLH2NAYZMJ6DSAVPV7SU4/",
+      "image": null,
+      "date": "2026-05-26T08:49:01+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pierre Deny, acteur de séries télévisées, est mort à 69 ans des suites de la maladie de Charcot",
+      "desc": "Le comédien a disparu lundi, ont annoncé ses filles dans un communiqué. Il était connu du grand public pour ses rôles dans «Julie Lescaut», «Emily in Paris» ou «Demain nous appartient».",
+      "url": "https://www.liberation.fr/economie/medias/pierre-deny-acteur-de-series-televisees-est-mort-a-69-ans-des-suites-de-la-maladie-de-charcot-20260526_NWZYYJ7HM5APFNPU3KJTPRT3JA/",
+      "image": null,
+      "date": "2026-05-26T08:02:58+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vos nuits cachent une mine d'informations sur votre santé future et une IA vient de l'exploiter",
+      "desc": "Longtemps relégué au second plan derrière l’alimentation et l’activité physique, le sommeil est pourtant l’un des piliers majeurs de la santé. Une étude récente montre qu’il pourrait aussi devenir un outil clé pour anticiper certaines maladies, bien au-delà de la simple qualité des nuits.",
+      "url": "https://www.futura-sciences.com/sante/actualites/sommeil-vos-nuits-cachent-informations-votre-sante-future-ia-vient-exploiter-w2t8-134397/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/b/7/8b7e4d02a3_50255009_sommeil-indicateurs-sante-maladies.jpg",
+      "date": "2026-05-26T08:00:00+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Canicule, mort de Sonny Rollins, frappes en Iran... L’actu de ce mardi 26 mai au matin",
+      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
+      "url": "https://www.liberation.fr/international/europe/canicule-mort-de-sonny-rollins-frappes-en-iran-lactu-de-ce-mardi-26-mai-au-matin-20260526_UQS2J3MNERFQREJ5QTWPOPT3S4/",
+      "image": null,
+      "date": "2026-05-26T05:45:30+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Sonny Rollins, saxo colossal",
+      "desc": "Dernier des géants, le saxophoniste mort lundi 25 mai à l’âge de 95 ans a marqué de son empreinte plus de soixante ans de jazz. En perpétuelle recherche, il a quitté deux fois la scène pour revenir encore plus haut, se forgeant un statut de légende aux côtés de Miles Davis ou John Coltrane.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-sonny-rollins-saxo-colossal-20260526_DVQY3O2UORHFVBH3GI4HDIRE4Q/",
+      "image": null,
+      "date": "2026-05-26T05:16:37+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : l'un des Espagnols en quarantaine à Madrid testé positif",
       "desc": "Le patient a été transféré dans une unité d'isolement de haut niveau, a précisé lundi le ministère de la Santé espagnol dans un communiqué.",
@@ -23,16 +103,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : l’un des croisiéristes espagnols en quarantaine testé positif",
-      "desc": "Cet ancien passager du «MV Hondius» a été transféré dans l’unité d’isolement de haut niveau d’un hôpital de Madrid, a fait savoir ce lundi 25 mai le ministère espagnol de la Santé.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-lun-des-croisieristes-espagnols-en-quarantaine-teste-positif-20260525_4IJNDMJSM5BR3HJL5U2VDLQTTA/",
-      "image": null,
-      "date": "2026-05-25T19:09:19+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : Un passager espagnol du « MV Hondius » placé en quarantaine à Madrid testé positif",
       "desc": "Un deuxième cas d’hantavirus lié à la croisière du « MV Hondius » a été confirmé en Espagne. Plusieurs passagers rapatriés sont toujours en quarantaine après les décès survenus à bord",
       "url": "https://www.20minutes.fr/sante/4225359-20260525-hantavirus-passager-espagnol-mv-hondius-place-quarantaine-madrid-teste-positif?at_medium=display&at_campaign=149",
@@ -40,16 +110,6 @@
       "date": "2026-05-25T19:07:02+00:00",
       "date_formatted": "25 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Noyades : trois personnes sont mortes ce week-end, en Seine-et-Marne et en Alsace",
-      "desc": "Un deuxième adolescent est mort, alors qu’il se baignait dans une zone interdite à la baignade, à Noisiel. Dans le même département, un jeune homme de 17 ans a été retrouvé mort quelques heures après avoir été aspiré par le courant, samedi. En Alsace, c’est une trentenaire qui a perdu la vie après s",
-      "url": "https://www.liberation.fr/societe/police-justice/seine-et-marne-un-adolescent-de-17-ans-meurt-noye-dans-la-seine-20260524_E2VQBQNMDFGCNMGYYGJFVWV6FA/",
-      "image": null,
-      "date": "2026-05-25T19:06:39+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -70,36 +130,6 @@
       "date": "2026-05-25T17:04:04+00:00",
       "date_formatted": "25 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Dôme de chaleur en France, clôture du Festival de Cannes, un enfant mort retrouvé à Rennes… L’actu de ce week-end de la Pentecôte",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités du 23 au 25 mai.",
-      "url": "https://www.liberation.fr/international/europe/dome-de-chaleur-en-france-cloture-du-festival-de-cannes-un-enfant-mort-retrouve-a-rennes-lactu-de-ce-week-end-prolonge-20260525_6Z4X5I2KGJD7VFYO24RO6K5DZQ/",
-      "image": null,
-      "date": "2026-05-25T16:40:28+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola en RDC : les funérailles, un point de tension particulièrement sensible",
-      "desc": "Plusieurs attaques contre des hôpitaux ou des centres de santé ont été signalées ces derniers jours, signe de «beaucoup de défiance» de la population, tandis que l’OMS met en garde contre une aggravation de l’épidémie.",
-      "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-les-funerailles-un-point-de-tension-particulierement-sensible-20260525_C7FP2VYW6NHOZE6WLCQOP2E6G4/",
-      "image": null,
-      "date": "2026-05-25T16:39:28+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Adolescents en garde à vue, serviette de bain «très serrée» autour du cou… Ce que l’on sait après la découverte du corps d’un enfant de 11 ans à Rennes",
-      "desc": "Des témoins ont donné l’alerte après avoir entendu des cris, mais la victime était déjà morte quand les secours sont arrivés. Deux adolescents qui, selon le parquet, avaient été vus en compagnie de l’enfant avant les faits ont été placés en garde à vue ce lundi 25 mai.",
-      "url": "https://www.liberation.fr/societe/police-justice/adolescents-en-garde-a-vue-serviette-de-bain-tres-serree-autour-du-cou-ce-que-lon-sait-apres-la-decouverte-du-corps-dun-enfant-de-11-ans-a-rennes-20260525_SJGNZMO3N5B4TOCVR2MTINSHCA/",
-      "image": null,
-      "date": "2026-05-25T15:05:26+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -171,26 +201,6 @@
       "date_formatted": "24 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Peut-on mourir d'un chagrin d'amour ?",
-      "desc": "Julien Ménielle nous parle du syndrome du cœur brisé, découvert au Japon dans les années 1990, une maladie qui s'apparente aux cardiomyopathies.",
-      "url": "https://www.franceinfo.fr/sante/peut-on-mourir-d-un-chagrin-d-amour_8021279.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cE-TEuCtlLxPn1BmVT_hSKGHoso/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/22/6a106e50d9d5c801777378.jpg",
-      "date": "2026-05-24T16:00:01+00:00",
-      "date_formatted": "24 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Syndrome du cœur brisé : comment un chagrin d'amour peut-il nous rendre physiquement malade ?",
-      "desc": "Popularisée dans les chansons de rupture, l'idée de \"mourir d’amour\" n'est pas qu'une métaphore. Après un choc émotionnel intense, comme une séparation, certaines personnes peuvent développer un syndrome du cœur brisé, une maladie cardiaque rare, mais bien réelle, appelée Tako-Tsubo.",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/syndrome-du-c-ur-brise-comment-un-chagrin-d-amour-peut-il-nous-rendre-physiquement-malade_7956851.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/9JH8PvmWaRSyY9uJJR8kVRrasXk/0x142:2070x1307/432x243/filters:format(jpg)/2026/05/21/6a0ee492b92be475528698.jpg",
-      "date": "2026-05-24T10:00:03+00:00",
-      "date_formatted": "24 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Un système immunitaire malade remis à zéro",
@@ -383,16 +393,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus, Covid-19… Hors pandémie, qui achète encore des masques chirurgicaux ?",
-      "desc": "Plus précautionneux qu’en 2020, l’Etat a sollicité l’entreprise Medicom pour connaître sa capacité de production de masques chirurgicaux et FFP. L’usine implantée près d’Angers en produit déjà près d’un million par jour hors pandémie",
-      "url": "https://www.20minutes.fr/sante/4224461-20260522-hantavirus-covid-19-hors-pandemie-achete-encore-masques-chirurgicaux?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/fCsVsTogQcO0cPltl1kOoSk/1200x768_francia-hautes-alpes-briancon-04-12-2014-un-masque-chirurgical-utilise-pour-se-proteger-contre-le-coronavirus-et-d-autres-virus-tels-que-la-grippe-se-trouve-sur-le-tarmac-d-une-rue-de-la-ville-photographie-de-thibaut-durand-hans-lucas-francia-hautes-alpes-briancon-04-12-2014-un-masque-chirurgical-qui-sert-a-se-proteger-du-coronavirus-et-d-autres-virus-comme-celui-de-la-grippe-git-sur-le-goudron-d-une-route-dans-une-rue-de-la-ville-photographie-par-thibaut-durand-et-hans-lucas-photo-de-thibaut-durand-hans-lucas-via-afp",
-      "date": "2026-05-22T06:02:36+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : quel est le risque de propagation du virus au-delà de la RDC ?",
       "desc": "L’estimation de la taille réelle de l’étendue de l’épidémie, tout comme le risque de dispersion dans la région et au-delà, met les chercheurs au défi d’une flambée épidémique aux multiples inconnues.",
       "url": "https://www.lemonde.fr/planete/article/2026/05/22/ebola-quel-est-le-risque-de-propagation-du-virus-au-dela-de-la-rdc_6692119_3244.html",
@@ -451,16 +451,6 @@
       "date_formatted": "21 May 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Hantavirus : en Patagonie, « toutes les conditions semblent réunies pour une augmentation du risque épidémiologique »",
-      "desc": "Les populations du rongeur à l’origine de la souche des Andes ont connu des changements démographiques spectaculaires avec la modification des écosystèmes, observe dans une tribune au « Monde » le chercheur argentin en zoologie Ulyses Pardiñas.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/21/hantavirus-en-patagonie-toutes-les-conditions-semblent-reunies-pour-une-augmentation-du-risque-epidemiologique_6691869_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
-      "date": "2026-05-21T12:30:09+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Virus Ebola : Un avion Air France Paris-Détroit s’arrête à Montréal pour débarquer un passager congolais",
@@ -551,16 +541,6 @@
       "date_formatted": "20 May 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Ebola : l’OMS juge le risque « élevé » en Afrique centrale, mais « faible » à l’échelle mondiale",
-      "desc": "Selon l’Organisation mondiale de la santé, l’épidémie de maladie à virus Ebola, déjà suspectée d’avoir fait 139 morts pour près de 600 cas probables, se propage dans l’est de la RDC et pourrait se prolonger.",
-      "url": "https://www.lemonde.fr/sante/article/2026/05/20/ebola-l-oms-juge-le-risque-eleve-en-afrique-centrale-mais-faible-a-l-echelle-mondiale_6691719_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/20/3409/0/3684/1842/644/322/60/0/19608f6_ftp-1-koh0w2r6atfc-d1036627b3af49a7acad713e1cc95c8a-0-e9d93c2e11b34ba289848016786d2bc6.jpg",
-      "date": "2026-05-20T13:12:56+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Voici ce qui se passe quand vous mâchez vraiment vos aliments, et c’est assez surprenant",
