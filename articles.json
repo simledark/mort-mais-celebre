@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-05-26T09:31:34.720374+00:00",
-  "count": 82,
+  "generated_at": "2026-05-26T14:34:14.704591+00:00",
+  "count": 80,
   "articles": [
     {
-      "title": "« Si la population ne croit pas qu’Ebola existe, nous risquons de tous mourir » : en RDC, la riposte contre l’épidémie se heurte à la méfiance des populations",
-      "desc": "Des centres de santé et des soignants ont été pris pour cible par des proches de victimes du virus, dans plusieurs localités de l'est du pays. L’Organisation mondiale de la santé a activé son niveau d’alerte le plus élevé face à la propagation de la maladie.",
+      "title": "Mort du fondateur de Mango : soupçonné de meurtre, son fils se retire du groupe et critique l’enquête",
+      "desc": "Dans une lettre ouverte à l’AFP mardi 26 mai, Jonathan Andic a réaffirmé son innocence dans la mort de son père, mort d’une chute en décembre 2024 sur un sentier de Montserrat, dans les hauteurs de Barcelone.",
+      "url": "https://www.liberation.fr/international/europe/mort-du-fondateur-de-mango-soupconne-de-meurtre-son-fils-se-retire-du-groupe-et-critique-lenquete-20260526_ESQY3ODIBJGTRG5VT3ANQ7ZA3U/",
+      "image": null,
+      "date": "2026-05-26T14:08:25+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Belgique : au moins quatre morts, passage à niveau… Ce que l’on sait de l’accident entre un car scolaire et un train",
+      "desc": "Les faits ont eu lieu ce mardi 26 mai vers 8 heures du matin sur un passage à niveau dans le nord du pays, en Flandres, sur la commune de Buggenhout. «Libé» fait le point.",
+      "url": "https://www.liberation.fr/societe/police-justice/belgique-un-car-scolaire-percute-un-train-plusieurs-victimes-selon-les-autorites-20260526_D44P2WMCMJBWVN7RKFTZHJYOMU/",
+      "image": null,
+      "date": "2026-05-26T12:35:26+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Certains Congolais pensent que les Occidentaux ont créé cette maladie » : en RDC, la riposte contre l’épidémie du virus Ebola se heurte à la méfiance des populations",
+      "desc": "Des centres de santé et des soignants ont été pris pour cible par des proches de victimes du virus, dans plusieurs localités de l’est du pays. L’Organisation mondiale de la santé a activé son niveau d’alerte le plus élevé face à la propagation de la maladie.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/26/si-la-population-ne-croit-pas-qu-ebola-existe-nous-risquons-de-tous-mourir-en-rdc-la-riposte-contre-l-epidemie-se-heurte-a-la-mefiance-des-populations_6693869_3212.html",
       "image": "https://img.lemde.fr/2026/05/22/658/0/5500/2750/644/322/60/0/d5c19c7_ftp-1-lbobjzsugxqk-2026-05-22t121434z-332073173-rc2qdlal84we-rtrmadp-3-health-ebola-ifrc.JPG",
-      "date": "2026-05-26T10:46:13+00:00",
+      "date": "2026-05-26T10:46:11+00:00",
       "date_formatted": "26 May 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le réchauffement climatique expose davantage les humains aux espèces les plus dangereuses de serpents",
+      "desc": "Cobras et vipères, responsables de 138 000 morts par an à travers le monde, vont migrer vers le Nord ou vers des zones plus peuplées, du fait de la hausse des températures, alerte une étude. Ce phénomène va accentuer le risque de morsures potentiellement mortelles pour les populations.",
+      "url": "https://www.liberation.fr/environnement/biodiversite/le-rechauffement-climatique-expose-davantage-les-humains-aux-especes-les-plus-dangereuses-de-serpents-20260526_JECQHYRAE5FSDKNZNKPXF6OAB4/",
+      "image": null,
+      "date": "2026-05-26T10:28:50+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -27,30 +57,10 @@
       "desc": "Maladie génétique ultra-rare, la fibrodysplasie ossifiante progressive transforme progressivement muscles et tissus conjonctifs en os. Fascinante par ses mécanismes, dramatique par ses conséquences.",
       "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/26/maladie-de-l-homme-de-pierre-quand-le-corps-fabrique-un-second-squelette_6693859_6579630.html",
       "image": "https://img.lemde.fr/2026/03/20/167/0/333/166/644/322/60/0/4627cb4_upload-1-vyfsvzxvp7ap-fibrodysplasie-ossifiante-progressive-maladie-de-l-homme-de-pierre.jpg",
-      "date": "2026-05-26T09:16:42+00:00",
+      "date": "2026-05-26T09:16:39+00:00",
       "date_formatted": "26 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Canicule : le gouvernement recense «sept décès liés à la chaleur», dont cinq noyades",
-      "desc": "Les températures maximales attendues ce mardi 26 mai après-midi, de 33 à 36 °C dans les départements en vigilance orange «canicule», s’annoncent inédites pour un mois de mai.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-sept-deces-lies-a-la-chaleur-selon-la-porte-parole-du-gouvernement-20260526_LSCX2ZLH2NAYZMJ6DSAVPV7SU4/",
-      "image": null,
-      "date": "2026-05-26T08:49:01+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Pierre Deny, acteur de séries télévisées, est mort à 69 ans des suites de la maladie de Charcot",
-      "desc": "Le comédien a disparu lundi, ont annoncé ses filles dans un communiqué. Il était connu du grand public pour ses rôles dans «Julie Lescaut», «Emily in Paris» ou «Demain nous appartient».",
-      "url": "https://www.liberation.fr/economie/medias/pierre-deny-acteur-de-series-televisees-est-mort-a-69-ans-des-suites-de-la-maladie-de-charcot-20260526_NWZYYJ7HM5APFNPU3KJTPRT3JA/",
-      "image": null,
-      "date": "2026-05-26T08:02:58+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Vos nuits cachent une mine d'informations sur votre santé future et une IA vient de l'exploiter",
@@ -61,26 +71,6 @@
       "date_formatted": "26 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Canicule, mort de Sonny Rollins, frappes en Iran... L’actu de ce mardi 26 mai au matin",
-      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
-      "url": "https://www.liberation.fr/international/europe/canicule-mort-de-sonny-rollins-frappes-en-iran-lactu-de-ce-mardi-26-mai-au-matin-20260526_UQS2J3MNERFQREJ5QTWPOPT3S4/",
-      "image": null,
-      "date": "2026-05-26T05:45:30+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Sonny Rollins, saxo colossal",
-      "desc": "Dernier des géants, le saxophoniste mort lundi 25 mai à l’âge de 95 ans a marqué de son empreinte plus de soixante ans de jazz. En perpétuelle recherche, il a quitté deux fois la scène pour revenir encore plus haut, se forgeant un statut de légende aux côtés de Miles Davis ou John Coltrane.",
-      "url": "https://www.liberation.fr/culture/musique/mort-de-sonny-rollins-saxo-colossal-20260526_DVQY3O2UORHFVBH3GI4HDIRE4Q/",
-      "image": null,
-      "date": "2026-05-26T05:16:37+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Hantavirus : l'un des Espagnols en quarantaine à Madrid testé positif",
@@ -181,16 +171,6 @@
       "date_formatted": "25 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "CARTE. Pays touchés ou menacés... Où en est l'épidémie d'Ebola qui se \"propage rapidement\" en Afrique, selon l'Organisation mondiale de la santé ?",
-      "desc": "Après la République démocratique du Congo et l'Ouganda, les autorités sanitaires mettent en garde contre un risque de propagation dans dix pays africains.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/carte-pays-touches-ou-menaces-ou-en-est-l-epidemie-d-ebola-qui-se-propage-rapidement-en-afrique-selon-l-organisation-mondiale-de-la-sante_8024966.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/QkX8QuW87ZpXqgB9A0WfSbDjXac/0x53:1024x629/432x243/filters:format(jpg)/2026/05/24/6a1305fc18846079044713.jpg",
-      "date": "2026-05-24T17:53:12+00:00",
-      "date_formatted": "24 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Jocelyn Raude, professeur en psychologie de la santé : « Ce n’est pas le taux de mortalité élevé d’un virus qui crée une panique, mais la méconnaissance qui l’entoure »",
