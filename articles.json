@@ -1,25 +1,75 @@
 {
-  "generated_at": "2026-05-26T14:34:14.704591+00:00",
-  "count": 80,
+  "generated_at": "2026-05-26T19:52:07.397268+00:00",
+  "count": 79,
   "articles": [
     {
-      "title": "Mort du fondateur de Mango : soupçonné de meurtre, son fils se retire du groupe et critique l’enquête",
-      "desc": "Dans une lettre ouverte à l’AFP mardi 26 mai, Jonathan Andic a réaffirmé son innocence dans la mort de son père, mort d’une chute en décembre 2024 sur un sentier de Montserrat, dans les hauteurs de Barcelone.",
-      "url": "https://www.liberation.fr/international/europe/mort-du-fondateur-de-mango-soupconne-de-meurtre-son-fils-se-retire-du-groupe-et-critique-lenquete-20260526_ESQY3ODIBJGTRG5VT3ANQ7ZA3U/",
+      "title": "Au CHU de Rennes, les secours débordés d'appels liés à la chaleur en France",
+      "desc": "On dénombre désormais huit décès en France liés à la canicule, selon le gouvernement, dont six par noyade. Dans les zones classées vigilance orange canicule, les appels au Samu sont en très forte hausse et les hôpitaux commencent à être en tension. Reportage en Ille-et-Vilaine.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/au-chu-de-rennes-les-secours-debordes-d-appels-lies-a-la-chaleur-en-france_8029973.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/WUszM5-xIGQBy0Gz3-CRm5nevxg/28x0:1310x721/432x243/filters:format(jpg)/2026/05/26/6a15ea935409f926503320.jpg",
+      "date": "2026-05-26T20:48:13+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Ebola : la difficile voie vers la mise au point d’un vaccin contre la souche Bundibugyo",
+      "desc": "Aucun essai clinique n’est en cours contre la souche à l’origine de la nouvelle épidémie du virus Ebola, en RDC. Les chercheurs sont partagés entre deux options : adapter des produits voisins ou développer en urgence du sur-mesure. Avec peu d’espoir de réussite avant un an.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/26/virus-ebola-la-difficile-voie-vers-la-mise-au-point-d-un-vaccin-contre-la-souche-bundibugyo_6693920_3212.html",
+      "image": "https://img.lemde.fr/2026/05/25/517/0/6202/3101/644/322/60/0/7cc84e5_ftp-1-z7zs6agc0obo-822dbcc8faf745c9b642b0f66b3536a0-0-826183af27034646b5693bd67c150027.jpg",
+      "date": "2026-05-26T17:30:09+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Aux Etats-Unis, le débat sur les origines du Covid-19 secoue la recherche en virologie",
+      "desc": "Ralph Baric, spécialiste des coronavirus, se voit reprocher d’avoir conduit en 2014 des travaux soumis à un moratoire, mais aussi sa collaboration avec un laboratoire chinois de Wuhan. L’administration Trump cible les expériences de « gains de fonction », susceptibles de renforcer la dangerosité de ",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/26/aux-etats-unis-les-repliques-de-la-pandemie-de-covid-19-secouent-la-recherche-en-virologie_6693918_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/22/233/0/2795/1397/644/322/60/0/248a5e2_upload-1-o6eecsvjngpr-gettyimages-1205092917.jpg",
+      "date": "2026-05-26T17:28:44+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Enfant de 11 ans mort à Rennes : deux ados reconnaissent avoir tué Théo, pour se venger d’un vol de matériel de pêche",
+      "desc": "Le corps de la jeune victime avait été retrouvé dimanche sur les bords de la Vilaine, avec une serviette de bain serrée autour du cou. Les deux auteurs présumés sont une jeune fille de 15 ans et un jeune homme de 16 ans.",
+      "url": "https://www.liberation.fr/societe/police-justice/enfant-de-11-ans-mort-a-rennes-deux-ados-reconnaissent-avoir-tue-theo-pour-se-venger-dun-vol-de-materiel-de-peche-20260526_Q56DGDWIIVCPDPQRY2ZL32KE6M/",
       "image": null,
-      "date": "2026-05-26T14:08:25+00:00",
+      "date": "2026-05-26T16:27:50+00:00",
       "date_formatted": "26 May 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Belgique : au moins quatre morts, passage à niveau… Ce que l’on sait de l’accident entre un car scolaire et un train",
-      "desc": "Les faits ont eu lieu ce mardi 26 mai vers 8 heures du matin sur un passage à niveau dans le nord du pays, en Flandres, sur la commune de Buggenhout. «Libé» fait le point.",
-      "url": "https://www.liberation.fr/societe/police-justice/belgique-un-car-scolaire-percute-un-train-plusieurs-victimes-selon-les-autorites-20260526_D44P2WMCMJBWVN7RKFTZHJYOMU/",
+      "title": "En Italie, les élections municipales partielles apportent de l’oxygène à Giorgia Meloni",
+      "desc": "La gauche pensait renouveler son succès du référendum sur la réforme de la justice, mais l’union droite-extrême droite, au pouvoir au niveau national, résiste et remporte les villes de Venise et Reggio de Calabre, lundi 25 mai.",
+      "url": "https://www.liberation.fr/international/europe/en-italie-les-elections-municipales-partielles-apportent-de-loxygene-a-giorgia-meloni-20260526_QOXWO5GW2BAO5EYWBPPSSWOXIQ/",
       "image": null,
-      "date": "2026-05-26T12:35:26+00:00",
+      "date": "2026-05-26T16:22:33+00:00",
       "date_formatted": "26 May 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola, hantavirus : «Les systèmes de santé animale sont l’une des premières lignes de défense contre les pandémies»",
+      "desc": "En pleine épidémie d’Ebola en RDC, la directrice de l’Organisation mondiale de la santé animale appelle à un renforcement de la surveillance vétérinaire pour prévenir la transmission de maladies à l’humain.",
+      "url": "https://www.liberation.fr/societe/sante/ebola-hantavirus-les-systemes-de-sante-animale-sont-lune-des-premieres-lignes-de-defense-contre-les-pandemies-20260526_JBTE35WR6ZCFFA7NX4NB7E2K3A/",
+      "image": null,
+      "date": "2026-05-26T16:16:06+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Anne Hathaway révèle avoir souffert d’une maladie très handicapante pendant dix ans",
+      "desc": "L’actrice n’a pas réalisé à l’époque les répercussions sur son système nerveux",
+      "url": "https://www.20minutes.fr/arts-stars/people/4225495-20260526-anne-hathaway-revele-avoir-souffert-maladie-tres-handicapante-pendant-dix-ans?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/2iUQdE90TWOgN34Sw2UEfyk/1200x768_anne-hathaway-actrice",
+      "date": "2026-05-26T15:12:36+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -30,16 +80,6 @@
       "date": "2026-05-26T10:46:11+00:00",
       "date_formatted": "26 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le réchauffement climatique expose davantage les humains aux espèces les plus dangereuses de serpents",
-      "desc": "Cobras et vipères, responsables de 138 000 morts par an à travers le monde, vont migrer vers le Nord ou vers des zones plus peuplées, du fait de la hausse des températures, alerte une étude. Ce phénomène va accentuer le risque de morsures potentiellement mortelles pour les populations.",
-      "url": "https://www.liberation.fr/environnement/biodiversite/le-rechauffement-climatique-expose-davantage-les-humains-aux-especes-les-plus-dangereuses-de-serpents-20260526_JECQHYRAE5FSDKNZNKPXF6OAB4/",
-      "image": null,
-      "date": "2026-05-26T10:28:50+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -304,7 +344,7 @@
     },
     {
       "title": "La mort du pédiatre Aldo Naouri, auteur de nombreux livres sur les enfants et les relations familiales",
-      "desc": "Décédé le 18 mai à l’âge de 88 ans, ce partisan de la « verticalité » de l’éducation s’était, par ses positions contre « l’enfant-roi » et l’éducation positive, retrouvé au centre de plusieurs controverses.",
+      "desc": "Disparu le 18 mai à l’âge de 88 ans, ce partisan de la « verticalité » de l’éducation s’était, par ses positions contre « l’enfant-roi » et l’éducation positive, retrouvé au centre de plusieurs controverses.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/05/22/la-mort-du-pediatre-aldo-naouri-auteur-de-nombreux-livres-sur-les-enfants-et-les-relations-familiales_6692281_3382.html",
       "image": "https://img.lemde.fr/2026/05/22/128/0/1414/707/644/322/60/0/7ec8ca0_upload-1-xw5u5scs2fdu-000-b3gp9cq.jpg",
       "date": "2026-05-22T14:00:09+00:00",
@@ -373,26 +413,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : quel est le risque de propagation du virus au-delà de la RDC ?",
-      "desc": "L’estimation de la taille réelle de l’étendue de l’épidémie, tout comme le risque de dispersion dans la région et au-delà, met les chercheurs au défi d’une flambée épidémique aux multiples inconnues.",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/22/ebola-quel-est-le-risque-de-propagation-du-virus-au-dela-de-la-rdc_6692119_3244.html",
-      "image": "https://img.lemde.fr/2026/05/20/313/0/3771/1885/644/322/60/0/7684afc_ftp-1-14nbhqo74u8m-21c7f6afcf214f13a8ee0bffa3ab5833-1-92ef2204fc3f4b45bca205f3fcc9f2b4.jpg",
-      "date": "2026-05-22T05:30:01+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Dix livres de science à découvrir : loi Duplomb et fake news, cellule humaine, cétacés, cosmologie…",
-      "desc": "Le service Sciences & médecine du « Monde » propose régulièrement aux lecteurs de La Matinale une sélection de ses ouvrages préférés. Au programme cette fois-ci, la loi Duplomb, la santé mentale ou encore de la cosmologie moderne.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/22/dix-livres-de-science-a-decouvrir-loi-duplomb-et-fake-news-cellule-humaine-cetaces-cosmologie_6692083_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/23/376/23/552/276/644/322/60/0/2fb6e8d_upload-1-jzz9znvguo0z-9791030106176-1-75.jpg",
-      "date": "2026-05-22T05:15:02+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cancer : ce nanomatériau détruit les tumeurs de l’intérieur sans abîmer les cellules saines",
       "desc": "Des chercheurs viennent de concevoir un nanomatériau à base de fer capable de détruire les cellules cancéreuses de l'intérieur. Sans toucher aux tissus sains. Dans des expériences sur la souris, la tumeur a disparu complètement. Zéro récidive. Zéro effet secondaire observé.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-ce-nanomateriau-detruit-tumeurs-interieur-abimer-cellules-saines-k2m6-134539/#xtor%3DRSS-8",
@@ -411,16 +431,6 @@
       "date_formatted": "21 May 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Virus Ebola : un premier cas confirmé dans le Sud-Kivu, en République démocratique du Congo",
-      "desc": "Le foyer de l’épidémie se trouve dans la province de l’Ituri et des cas ont également été décelés dans celle du Nord-Kivu (Est), mais aucun n’avait encore été confirmé dans celle du Sud-Kivu. Le diagnostic a été établi dans une zone aux mains des rebelles du M23.",
-      "url": "https://www.lemonde.fr/international/article/2026/05/21/virus-ebola-un-premier-cas-confirme-dans-le-sud-kivu-en-republique-democratique-du-congo_6691881_3210.html",
-      "image": "https://img.lemde.fr/2026/05/21/501/0/2031/1015/644/322/60/0/ef93fd7_ftp-1-wefkd5tkoas9-2026-05-21t065143z-400364620-rc22dlamm9hf-rtrmadp-3-health-ebola-goma.JPG",
-      "date": "2026-05-21T14:28:05+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Virus Ebola : L’épidémie s’élargit, le risque jugé « élevé » en Afrique centrale",
@@ -481,26 +491,6 @@
       "date_formatted": "21 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Alimentation : De nouvelles preuves scientifiques sur le danger des additifs, colorants et conservateurs",
-      "desc": "Des études de l’Inserm montrent qu’une alimentation à base de produits ultratransformés accroît les risques de diabète de type 2 et de cancer",
-      "url": "https://www.20minutes.fr/sante/4224593-20260521-alimentation-nouvelles-preuves-scientifiques-danger-additifs-colorants-conservateurs?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/TljU-MZIRmKB6rv8EP5DSyk/1200x768_client-en-deambulation-dans-les-rayons-illustrations-dans-un-supermarche-intermarche-31-10-2024-viry-chatillon-france-seba-seba299-credit-seba-sipa-2411010838",
-      "date": "2026-05-21T06:45:50+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une forte exposition aux colorants alimentaires liée à un risque accru de diabète de type 2 et de cancers",
-      "desc": "Une équipe française a réalisé la première étude épidémiologique d’ampleur qui documente le lien entre additifs colorants et risques de maladies chroniques.",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/21/une-forte-exposition-aux-colorants-alimentaires-liee-a-un-risque-accru-de-diabete-de-type-2-et-de-cancers_6691803_3244.html",
-      "image": "https://img.lemde.fr/2026/05/20/433/0/5196/2598/644/322/60/0/2adb61a_upload-1-yanzeor6pqes-gettyimages-2262161932-1.jpg",
-      "date": "2026-05-21T05:00:02+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
