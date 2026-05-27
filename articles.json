@@ -1,14 +1,64 @@
 {
-  "generated_at": "2026-05-27T02:05:58.655438+00:00",
-  "count": 78,
+  "generated_at": "2026-05-27T08:57:12.974890+00:00",
+  "count": 73,
   "articles": [
     {
-      "title": "«Holy Destructors», la beauté du spore",
-      "desc": "La cinéaste lituanienne Aiste Zegulyte filme le passage du temps en utilisant le champignon comme métaphore et dévoile un monde où la mort n’est pas une fin, mais une transformation.",
-      "url": "https://www.liberation.fr/culture/cinema/holy-destructors-la-beaute-du-spore-20260526_A5LR5A4M25AVXE2T6XIQYQCGJQ/",
+      "title": "La guerre au Moyen-Orient va largement creuser le déficit de la Sécurité sociale en 2026, selon la Cour des comptes",
+      "desc": "Dans un rapport, la Cour des comptes estime que le déficit de l'Assurance-maladie va s'aggraver d'au moins \"3 milliards\" en 2026 et \"5 milliards\" en 2027 du fait du conflit en Iran qui a commencé fin février.",
+      "url": "https://www.franceinfo.fr/economie/la-guerre-au-moyen-orient-va-largement-creuser-le-deficit-de-la-securite-sociale-en-2026-selon-la-cour-des-comptes_8028974.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/oUvbqgEEMkhV8PL9T0JXKmcj-Dw/30x121:1024x680/432x243/filters:format(jpg)/2026/05/26/6a15c49ad5c78474014984.jpg",
+      "date": "2026-05-27T10:07:07+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : Certains cas contacts ont contesté (en vain) en justice les mesures d’isolement",
+      "desc": "Quelques-uns des 22 cas contacts français des passagers du bateau de croisière « MV Hondius » ont contesté devant la justice les mesures d’isolement préventif imposées par le gouvernement, mais « la justice a validé la légalité de ces décisions »",
+      "url": "https://www.20minutes.fr/sante/4225595-20260527-hantavirus-certains-cas-contacts-conteste-vain-justice-mesures-isolement?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/qXT91700SFe6mwVb6rlTlik/1200x768_19-mai-2026-rotterdam-hollande-meridionale-pays-bas-19-mai-2026-rotterdam-pays-bas-le-m-v-hondius-amarre-dans-le-port-de-rotterdam-fait-actuellement-l-objet-d-un-processus-de-desinfection-complet-cela-devrait-etre-termine-le-vendredi-22-mai-une-fois-cette-operation-terminee-le-navire-sera-remis-en-service-image-de-credit-james-petermeier-zuma-press-wire-20260519-zip-p202-007-zeus-2605191519",
+      "date": "2026-05-27T07:12:53+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "ENQUETE. Scandale des eaux minérales : près de trois millions de bouteilles Perrier détruites ou bloquées après des contaminations",
+      "desc": "Près de trois millions de bouteilles et canettes Perrier ont été détruites ou restent bloquées après des contaminations bactériennes, selon la cellule investigation de Radio France. Un concurrent a saisi la justice pour contester les autorisations accordées à Nestlé Waters pour produire de l’eau min",
+      "url": "https://www.franceinfo.fr/sante/alimentation/scandale-des-eaux-en-bouteille/enquete-perrier-pres-de-trois-millions-de-bouteilles-detruites-ou-bloquees-apres-des-contaminations_8030147.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/OmuDCps7DItfrzOfs7d1HzSMUmc/0x25:4811x2732/432x243/filters:format(jpg)/2026/05/26/6a16147785c89282508316.jpg",
+      "date": "2026-05-27T06:33:22+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "En Méditerranée, les « migrations de refuge » des daurades royales face à la surchauffe des lagunes",
+      "desc": "Au-delà d’un seuil d’alarme de 29 °C, la fréquence cardiaque de ces poissons atteint un plateau, avec un cœur qui n’est plus en mesure de répondre à la hausse de leurs besoins en oxygène.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/27/en-mediterranee-les-migrations-de-refuge-des-daurades-royales-face-a-la-surchauffe-des-lagunes_6694145_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/21/255/0/3073/1536/644/322/60/0/10587d2_upload-1-cneike2xr6lq-media-dappelmedia-appel.png",
+      "date": "2026-05-27T06:00:02+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Dépression, anxiété : l’explosion mondiale des troubles mentaux depuis 1990",
+      "desc": "Avec une hausse de 95,5 % en une trentaine d’années, les maladies mentales ont presque doublé dans le monde, quel que soit le niveau de revenus des pays, selon une récente étude publiée dans The Lancet.",
+      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/depression-anxiete-schizophrenie-tdah-l-explosion-mondiale-des-troubles-mentaux-depuis-1990_192714?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/25/cover-r4x3w1200-6a1460eab83cf-afp-20240506-hl-mthomasset-2375721-v1-highres-francehealthdepressionillustratio.jpg",
+      "date": "2026-05-27T06:00:00+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Liban : 31 morts dans des frappes de l’armée israélienne, qui étend ses opérations terrestres au-delà de la «ligne jaune»",
+      "desc": "Tsahal a lancé pour la première fois ce mardi un ordre d’évacuation à destination des habitants de la ville de Nabatiyé, dans le sud du Liban, où d’intenses bombardements ont de nouveau eu lieu.",
+      "url": "https://www.liberation.fr/international/moyen-orient/liban-larmee-israelienne-affirme-etendre-ses-operations-terrestres-au-dela-de-la-ligne-jaune-20260526_IRLM6UUZERHP3OKHGSUNVE6JME/",
       "image": null,
-      "date": "2026-05-26T21:30:00+00:00",
-      "date_formatted": "26 May 2026",
+      "date": "2026-05-27T05:32:19+00:00",
+      "date_formatted": "27 May 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -41,16 +91,6 @@
       "date_formatted": "26 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Enfant de 11 ans mort à Rennes : deux ados reconnaissent avoir tué Théo, pour se venger d’un vol de matériel de pêche",
-      "desc": "Le corps de la jeune victime avait été retrouvé dimanche sur les bords de la Vilaine, avec une serviette de bain serrée autour du cou. Les deux auteurs présumés sont une jeune fille de 15 ans et un jeune homme de 16 ans.",
-      "url": "https://www.liberation.fr/societe/police-justice/enfant-de-11-ans-mort-a-rennes-deux-ados-reconnaissent-avoir-tue-theo-pour-se-venger-dun-vol-de-materiel-de-peche-20260526_Q56DGDWIIVCPDPQRY2ZL32KE6M/",
-      "image": null,
-      "date": "2026-05-26T16:27:50+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Anne Hathaway révèle avoir souffert d’une maladie très handicapante pendant dix ans",
@@ -133,16 +173,6 @@
       "type": "presse"
     },
     {
-      "title": "L'épidémie d'Ebola en République démocratique du Congo est \"extrêmement grave et difficile\" à gérer, selon le chef de l'OMS",
-      "desc": "Tedros Adhanom Ghebreyesus a déclaré lundi que \"l'épidémie progressait très rapidement\" malgré les efforts des autorités sanitaires.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-est-extremement-grave-et-difficile-selon-le-chef-de-l-oms_8027348.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/92FXBG5lvikeYKr4x_Th5sHP120/0x0:6975x3923/432x243/filters:format(jpg)/2026/05/25/6a1478371983b102111351.jpg",
-      "date": "2026-05-25T18:47:40+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : L’OMS alerte sur une épidémie « extrêmement grave » qui progresse rapidement",
       "desc": "L’OMS a alerté, lundi, sur la progression rapide de l’épidémie d’Ebola en RDC, liée au virus Bundibugyo, sans vaccin ni traitement spécifique. Plus de 900 cas suspects inquiètent les autorités sanitaires",
       "url": "https://www.20minutes.fr/monde/4225352-20260525-ebola-oms-alerte-epidemie-extremement-grave-progresse-rapidement?at_medium=display&at_campaign=149",
@@ -170,26 +200,6 @@
       "date": "2026-05-25T13:22:45+00:00",
       "date_formatted": "25 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La députée de Vendée Béatrice Bellamy est morte d'un cancer à 59 ans",
-      "desc": "Membre du groupe Horizons à l'Assemblée nationale, Béatrice Bellamy était députée à la Roche-sur-Yon, la 2e circonscription de Vendée.",
-      "url": "https://www.franceinfo.fr/sante/cancer/la-deputee-de-vendee-beatrice-bellamy-est-decedee-d-un-cancer-a-59-ans_8026829.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/bYGp-dGOA8UYEXcG95B8fHwFfnI/0x185:3541x2177/432x243/filters:format(jpg)/2026/05/25/6a1412313063b964193647.jpg",
-      "date": "2026-05-25T11:40:05+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : plus de 200 morts en République démocratique du Congo, dix pays à risque",
-      "desc": "Le virus Ebola continue sa propagation. Après plus de 200 morts probables en République démocratique du Congo, l'épidémie menace directement dix autres pays africains. Alors chacun tente tant bien que mal de limiter la propagation.",
-      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/ebola-plus-de-200-morts-en-republique-democratique-du-congo-dix-pays-a-risque_8026742.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/hQqQZ6XeQ2qUPjhFvHyV9pg2AUY/77x0:1096x573/432x243/filters:format(jpg)/2026/05/25/6a13ffda6795c052659825.jpg",
-      "date": "2026-05-25T10:16:13+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -333,16 +343,6 @@
       "type": "presse"
     },
     {
-      "title": "La mort du pédiatre Aldo Naouri, auteur de nombreux livres sur les enfants et les relations familiales",
-      "desc": "Disparu le 18 mai à l’âge de 88 ans, ce partisan de la « verticalité » de l’éducation s’était, par ses positions contre « l’enfant-roi » et l’éducation positive, retrouvé au centre de plusieurs controverses.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/05/22/la-mort-du-pediatre-aldo-naouri-auteur-de-nombreux-livres-sur-les-enfants-et-les-relations-familiales_6692281_3382.html",
-      "image": "https://img.lemde.fr/2026/05/22/128/0/1414/707/644/322/60/0/7ec8ca0_upload-1-xw5u5scs2fdu-000-b3gp9cq.jpg",
-      "date": "2026-05-22T14:00:09+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Hantavirus : Un membre d’équipage du « MV Hondius » testé positif après son rapatriement aux Pays-Bas",
       "desc": "Un douzième cas de hantavirus a été confirmé aux Pays-Bas concernant un membre d’équipage du navire « MV Hondius » qui avait débarqué à Tenerife avant d’être rapatrié, annonce le chef de l’OMS ce vendredi",
       "url": "https://www.20minutes.fr/sante/4224938-20260522-hantavirus-membre-equipage-mv-hondius-teste-positif-apres-rapatriement-pays-bas?at_medium=display&at_campaign=149",
@@ -393,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "RDC : la nouvelle épidémie d’Ebola met à l’épreuve la solidarité internationale",
-      "desc": "Six ans après la pandémie de Covid-19, la réponse aux crises sanitaires de grande ampleur est fragilisée par l’effondrement de l’aide internationale.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/22/rdc-la-nouvelle-epidemie-d-ebola-met-a-l-epreuve-la-solidarite-internationale_6692233_3212.html",
-      "image": "https://img.lemde.fr/2026/05/20/128/0/4200/2100/644/322/60/0/1b89b92_ftp-1-lxgn84g3ebol-5090902-01-06.jpg",
-      "date": "2026-05-22T07:00:10+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer : ce nanomatériau détruit les tumeurs de l’intérieur sans abîmer les cellules saines",
       "desc": "Des chercheurs viennent de concevoir un nanomatériau à base de fer capable de détruire les cellules cancéreuses de l'intérieur. Sans toucher aux tissus sains. Dans des expériences sur la souris, la tumeur a disparu complètement. Zéro récidive. Zéro effet secondaire observé.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-ce-nanomateriau-detruit-tumeurs-interieur-abimer-cellules-saines-k2m6-134539/#xtor%3DRSS-8",
@@ -428,26 +418,6 @@
       "url": "https://www.20minutes.fr/monde/4224724-20260521-virus-ebola-epidemie-elargit-risque-juge-eleve-afrique-centrale?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/Bds2e6buQdmlXa3jTahsJSk/1200x768_un-agent-de-sante-desinfecte-une-personne-apres-avoir-transporte-un-cas-suspect-d-ebola-a-l-hopital-general-de-bunia-au-congo-le-jeudi-21-mai-2026",
       "date": "2026-05-21T13:36:43+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Virus Ebola : Un avion Air France Paris-Détroit s’arrête à Montréal pour débarquer un passager congolais",
-      "desc": "Un passager congolais d’un vol Air France Paris-Détroit qui ne présentait pourtant pas de symptôme du virus Ebola a été débarqué à Montréal, car les États-Unis restreignent fortement l’arrivée des ressortissants de la République démocratique du Congo",
-      "url": "https://www.20minutes.fr/sante/4224701-20260521-virus-ebola-avion-air-france-paris-detroit-arrete-montreal-debarquer-congolais?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/H8f5ybBpSdGkXaUFP6-Nmik/1200x768_airbus-a320-air-france-f-hbnj-avion-a-destination-de-l-aeroport-de-fiumicino-fiumicino-italie-le-1er-mai-2026-photo-d-allshot-live-sipa-usa-69816193-2605020506",
-      "date": "2026-05-21T12:00:37+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une étude révèle combien de temps il faut dormir pour être en bonne santé, vous allez être surpris",
-      "desc": "D’après une récente étude, dormir moins de six heures et plus de huit heures par nuit peut avoir un impact négatif sur la santé et le vieillissement du corps. Alors, combien de temps faut-il dormir exactement ?",
-      "url": "https://www.20minutes.fr/sante/4224686-20260521-etude-revele-combien-temps-faut-dormir-etre-bonne-sante-allez-etre-surpris?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/L1PTP7-hRW6maOSXBbEh8ik/1200x768_une-recente-etude-internationale-revele-combien-de-temps-il-faut-dormir-chaque-nuit-pour-etre-en-bonne-sante-illustration",
-      "date": "2026-05-21T11:47:39+00:00",
       "date_formatted": "21 May 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
@@ -553,16 +523,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : le virus Andes du MV Hondius était-il devenu mutant ? Le verdict vient de tomber",
-      "desc": "Mutant redouté ou simple souche déjà connue ? Après l’alerte mondiale déclenchée par le foyer d’hantavirus à bord du MV Hondius, les résultats du séquençage mené par l’Institut Pasteur apportent enfin des réponses décisives. Et elles pourraient bien changer la perception de cette épidémie qui a...",
-      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-virus-andes-mv-hondius-etait-il-devenu-mutant-verdict-vient-tomber-134634/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/e/a/5ea0e9ee41_50255418_4-hantavirus.jpg",
-      "date": "2026-05-19T13:08:11+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ebola : alerte internationale face à la flambée en RDC",
       "desc": "L’Organisation mondiale de la santé a alerté sur la progression rapide de l’épidémie d’Ebola qui frappe la République démocratique du Congo. Avec 131 décès recensés et plus de 500 cas suspects, la flambée épidémique s’étend déjà au-delà des frontières du pays, poussant l’OMS et l’Union africaine à d",
       "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-declenche-une-alerte-internationale-face-a-la-flambee-en-rdc_192505?xtor=RSS-16",
@@ -658,16 +618,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/hantavirus-ce-qui-le-differencie-vraiment-du-covid-19_192440?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/13/cover-r4x3w1200-6a0489556bea8-afp-20260512-b2ka3ke-v2-highres-topshotspainhealthhantavirusillnesstourism.jpg",
       "date": "2026-05-13T14:25:14+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Hantavirus : les 22 Français cas contacts sont \"actuellement hospitalisés\"",
-      "desc": "Ces cas contacts devraient être testés le 13 mai afin de savoir s'ils ont été infectés par l'hantavirus.",
-      "url": "https://www.sciencesetavenir.fr/sante/hantavirus-les-22-francais-cas-contacts-sont-actuellement-hospitalises_192434?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/13/cover-r4x3w1200-6a04a9dd77d11-8eed7963b648b0ea8d8da8cf22b1bf1a10ea77f1-jpg.jpg",
-      "date": "2026-05-13T12:43:53+00:00",
       "date_formatted": "13 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
