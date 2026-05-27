@@ -1,15 +1,105 @@
 {
-  "generated_at": "2026-05-27T14:50:24.696749+00:00",
-  "count": 66,
+  "generated_at": "2026-05-27T19:56:18.957755+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title": "Narcotrafic : à Nantes, un troisième mort par balles en moins d’un mois",
+      "desc": "Depuis fin avril, trois jeunes gens ont été tués par balles dans différents quartiers, à Nantes. La maire socialiste de la ville, Johanna Rolland, attend une réponse de l’Etat « à la hauteur ». Les habitants, tristes et inquiets, redoutent de nouveaux drames.",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/27/narcotrafic-a-nantes-un-troisieme-mort-par-balles-en-moins-d-un-mois_6694257_3224.html",
+      "image": "https://img.lemde.fr/2026/05/27/516/0/6192/3096/644/322/60/0/efca4ed_upload-1-p8adgg8odrlv-maxnewsspecialtwo613332.jpg",
+      "date": "2026-05-27T20:57:16+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : la branche armée du Hamas confirme la mort de son chef dans une frappe israélienne",
+      "desc": "Après les espoirs du week-end, l’Iran accuse les Etats-Unis d’avoir violé le cessez-le-feu, tandis que l’armée israélienne poursuit ses bombardements au Liban et étend ses opérations terrestres.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-cessez-le-feu-en-iran-et-au-liban-menaces-20260527_A5EZDHUNPRHZ5FGYA3CP2KN6LA/",
+      "image": null,
+      "date": "2026-05-27T18:50:05+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Serviette autour du cou, aveux des ados, vol de matériel de pêche… Ce que l’on sait après la découverte du corps d’un enfant de 11 ans à Rennes",
+      "desc": "Un garçon de 11 ans a été retrouvé mort dimanche, une serviette serrée autour du cou. Deux adolescents vus en compagnie de l’enfant ont fini par expliquer leur geste par une querelle bénigne. Ils ont été mis en examen ce mercredi 27 mai.",
+      "url": "https://www.liberation.fr/societe/police-justice/adolescents-en-garde-a-vue-serviette-de-bain-tres-serree-autour-du-cou-ce-que-lon-sait-apres-la-decouverte-du-corps-dun-enfant-de-11-ans-a-rennes-20260525_SJGNZMO3N5B4TOCVR2MTINSHCA/",
+      "image": null,
+      "date": "2026-05-27T18:46:26+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Robert Vautard, coprésident du Giec : «La chaleur est un “tueur silencieux” qui cause plus de décès que les inondations»",
+      "desc": "Alors que le pays est assommé par de fortes températures, le climatologue et coprésident du Giec, Robert Vautard, alerte sur l’impréparation du pays à des épisodes caniculaires qui deviennent de plus en plus précoces.",
+      "url": "https://www.liberation.fr/environnement/climat/robert-vautard-copresident-du-giec-la-chaleur-est-un-tueur-silencieux-qui-cause-plus-de-deces-que-les-inondations-20260527_DJ6Q6SPTC5F55DZJPH3IGLU254/",
+      "image": null,
+      "date": "2026-05-27T18:42:10+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Enfant de 11 ans mort à Rennes : les deux adolescents qui ont avoué avoir tué Théo mis en examen",
+      "desc": "Les deux suspects de 15 ans et 16 ans ont été placés en détention provisoire par le juge des libertés et de la détention. Ils sont mis en examen pour «meurtre sur mineur de moins de 15 ans», un crime puni de la réclusion criminelle à perpétuité.",
+      "url": "https://www.liberation.fr/societe/police-justice/enfant-de-11-ans-mort-a-rennes-les-deux-adolescents-qui-ont-avoue-avoir-tue-theo-mis-en-examen-20260527_FV3IXK4IRFFH5IR3TXVIE6RIDI/",
+      "image": null,
+      "date": "2026-05-27T18:36:01+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Notre société, déjà fragilisée par les conflits mondiaux et la crise environnementale, est désormais à la limite de la rupture »",
+      "desc": "Dans un entretien au « Monde », le président de la Société savante française de psychotraumatologie, Wissam El-Hage, revient sur la fébrilité liée au hantavirus, déplorant qu’« aucune leçon ne semble avoir été tirée » après le Covid-19.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/27/notre-societe-deja-fragilisee-par-les-conflits-mondiaux-et-la-crise-environnementale-est-desormais-a-la-limite-de-la-rupture_6694245_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/7601e26_upload-1-9t3udvp5ynyl-frame-634.jpg",
+      "date": "2026-05-27T18:30:06+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Nuisibles : des lâchers de moustiques stériles contre la prolifération",
+      "desc": "Pour freiner la prolifération des moustiques tigres, porteurs de maladies, un laboratoire du sud de la France élève des moustiques tigres mâles stérilisés. Lorsque ces derniers s'accoupleront, les œufs pondus par les femelles seront vides.",
+      "url": "https://www.franceinfo.fr/sante/nuisibles-des-lachers-de-moustiques-steriles-contre-la-proliferation_8031647.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/h5jAT8HfxOU7IpyGzMU767lOfEc/0x78:1071x681/432x243/filters:format(jpg)/2026/05/27/6a170ffdef0b8035987009.jpg",
+      "date": "2026-05-27T17:44:03+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Ebola : l'Ouganda ferme temporairement ses frontières avec la République démocratique du Congo",
       "desc": "Plus de 900 cas suspects et 220 décès suspects liés à Ebola ont déjà été recensés. Mais l'ampleur réelle de l'épidémie reste inconnue.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-l-ouganda-ferme-temporairement-ses-frontieres-avec-la-republique-democratique-du-congo_8031548.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/cavy9J8Oa5wwrv80Up41MYHuzkI/0x0:1024x576/432x243/filters:format(jpg)/2026/05/27/6a16ffe44f8dd155325836.jpg",
-      "date": "2026-05-27T16:30:50+00:00",
+      "date": "2026-05-27T17:43:04+00:00",
       "date_formatted": "27 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les médicaments anti-obésité Wegovy et Mounjaro seront bientôt remboursés par la Sécurité sociale",
+      "desc": "Ces nouveaux traitements anti-obésité, Wegovy et Mounjaro, devenus des phénomènes planétaires, doivent être remboursés bientôt en France par l'Assurance maladie.",
+      "url": "https://www.franceinfo.fr/sante/medicament/les-medicaments-anti-obesite-wegovy-et-mounjaro-seront-bientot-rembourses-par-la-securite-sociale_8031692.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/wDMhwuMee7Yk9Ehs5eBk4l7z_OU/0x240:4998x3049/432x243/filters:format(jpg)/2025/06/21/maxstockworld476262-6855dc314c14e104126418.jpg",
+      "date": "2026-05-27T17:38:02+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Tout reste un mystère» : en Belgique, le choc et l’incompréhension après une collision mortelle sur un passage à niveau",
+      "desc": "Dans la petite ville de Buggenhout, quatre personnes sont mortes lors d’un accident entre un bus scolaire et un train, mardi 26 mai. Sur place, les questions autour des circonstances du drame sont nombreuses.",
+      "url": "https://www.liberation.fr/international/europe/tout-reste-un-mystere-en-belgique-le-choc-et-lincomprehension-apres-une-collision-mortelle-sur-un-passage-a-niveau-20260527_NZDV33COKRHR7KNST2RUSKBIFY/",
+      "image": null,
+      "date": "2026-05-27T17:05:10+00:00",
+      "date_formatted": "27 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -53,16 +143,6 @@
       "type": "presse"
     },
     {
-      "title": "Deux morts et trois blessés par balles à Nantes et Grenoble",
-      "desc": "Des fusillades ont éclaté mardi 26 mai dans la soirée dans deux quartiers de ces deux villes, marquées par les conséquences du narcotrafic. Leurs auteurs ont pris la fuite et n’ont toujours pas été identifiés.",
-      "url": "https://www.liberation.fr/societe/deux-morts-et-trois-blesses-par-balles-a-nantes-et-grenoble-20260527_FZDAIZE25JDIXJKKOWOSGTKX3E/",
-      "image": null,
-      "date": "2026-05-27T09:36:31+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : Certains cas contacts ont contesté (en vain) en justice les mesures d’isolement",
       "desc": "Quelques-uns des 22 cas contacts français des passagers du bateau de croisière « MV Hondius » ont contesté devant la justice les mesures d’isolement préventif imposées par le gouvernement, mais « la justice a validé la légalité de ces décisions »",
       "url": "https://www.20minutes.fr/sante/4225595-20260527-hantavirus-certains-cas-contacts-conteste-vain-justice-mesures-isolement?at_medium=display&at_campaign=149",
@@ -103,18 +183,8 @@
       "type": "science"
     },
     {
-      "title": "Au CHU de Rennes, les secours débordés d'appels liés à la chaleur en France",
-      "desc": "On dénombre désormais huit décès en France liés à la canicule, selon le gouvernement, dont six par noyade. Dans les zones classées vigilance orange canicule, les appels au Samu sont en très forte hausse et les hôpitaux commencent à être en tension. Reportage en Ille-et-Vilaine.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/au-chu-de-rennes-les-secours-debordes-d-appels-lies-a-la-chaleur-en-france_8029973.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/WUszM5-xIGQBy0Gz3-CRm5nevxg/28x0:1310x721/432x243/filters:format(jpg)/2026/05/26/6a15ea935409f926503320.jpg",
-      "date": "2026-05-26T20:48:13+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Virus Ebola : la difficile voie vers la mise au point d’un vaccin contre la souche Bundibugyo",
-      "desc": "Aucun essai clinique n’est en cours contre la souche à l’origine de la nouvelle épidémie du virus Ebola, en RDC. Les chercheurs sont partagés entre deux options : adapter des produits voisins ou développer en urgence du sur-mesure. Avec peu d’espoir de réussite avant un an",
+      "desc": "Aucun essai clinique n’est en cours contre la souche à l’origine de la nouvelle épidémie du virus Ebola, en RDC. Les chercheurs sont partagés entre deux options : adapter des produits voisins ou développer en urgence du sur-mesure. Avec peu d’espoir de réussite avant un an.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/26/virus-ebola-la-difficile-voie-vers-la-mise-au-point-d-un-vaccin-contre-la-souche-bundibugyo_6693920_3212.html",
       "image": "https://img.lemde.fr/2026/05/25/517/0/6202/3101/644/322/60/0/7cc84e5_ftp-1-z7zs6agc0obo-822dbcc8faf745c9b642b0f66b3536a0-0-826183af27034646b5693bd67c150027.jpg",
       "date": "2026-05-26T17:30:04+00:00",
@@ -293,16 +363,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : De nouveaux cas confirmés en Ouganda, voisin de l’épicentre de l’épidémie",
-      "desc": "Ces nouveaux cas portent à cinq le nombre de personnes contaminées dans le pays, voisin de la RDC où l’épidémie représente désormais un risque « très élevé » pour la santé publique, selon l’OMS",
-      "url": "https://www.20minutes.fr/monde/4225062-20260523-ebola-nouveaux-cas-confirmes-ouganda-voisin-epicentre-epidemie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/IdFnCu3iTo61sN1Q9XvSaSk/1200x768_260521-bunia-21-mai-2026-xinhua-le-personnel-medical-desinfecte-le-materiel-avant-l-enterrement-d-une-victime-presumee-d-ebola-a-bunia-dans-la-province-de-l-ituri-en-republique-democratique-du-congo-le-21-mai-2026-l-epidemie-initialement-signalee-dans-la-province-de-l-ituri-touche-desormais-le-nord-kivu-et-le-sud-kivu-tandis-que-deux-cas-confirmes-ont-egalement-ete-signales-dans-le-pays-voisin-de-l-ouganda-str-xinhua-str-chine-nouvelle-cmxztpe000035-20260522-pepfn0a001-credit-chine-nouvelle-sipa-2605220815",
-      "date": "2026-05-23T09:49:28+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : à l’origine de l’épidémie, la chauve-souris, suspect idéal",
       "desc": "La quête de la source des épidémies de fièvre hémorragique n’a pas encore livré de coupable. Faute de preuve ultime, les chauves-souris frugivores font figure de principales suspectes.",
       "url": "https://www.lemonde.fr/international/article/2026/05/23/ebola-a-l-origine-de-l-epidemie-la-chauve-souris-suspect-ideal_6692716_3210.html",
@@ -320,26 +380,6 @@
       "date": "2026-05-23T08:00:05+00:00",
       "date_formatted": "23 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola en RDC : pourquoi cette épidémie est-elle si inquiétante ?",
-      "desc": "Le bilan officiel est passé de 139 à 177 morts probables, pour près de 750 cas suspects, selon l’Organisation mondiale de la santé.",
-      "url": "https://www.lemonde.fr/videos/video/2026/05/22/ebola-en-rdc-pourquoi-cette-epidemie-est-elle-si-inquietante_6692328_1669088.html",
-      "image": "https://img.lemde.fr/2026/05/21/502/0/5391/2695/644/322/60/0/3185174_ftp-1-ln9rpv2euqk0-2026-05-21t173317z-2128550983-rc2odlamqttf-rtrmadp-3-health-ebola-vaccines.JPG",
-      "date": "2026-05-22T18:30:10+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : Un membre d’équipage du « MV Hondius » testé positif après son rapatriement aux Pays-Bas",
-      "desc": "Un douzième cas de hantavirus a été confirmé aux Pays-Bas concernant un membre d’équipage du navire « MV Hondius » qui avait débarqué à Tenerife avant d’être rapatrié, annonce le chef de l’OMS ce vendredi",
-      "url": "https://www.20minutes.fr/sante/4224938-20260522-hantavirus-membre-equipage-mv-hondius-teste-positif-apres-rapatriement-pays-bas?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/k818Vf7NSriClG6VO_qwxyk/1200x768_19-mai-2026-rotterdam-hollande-meridionale-pays-bas-19-mai-2026-rotterdam-pays-bas-une-equipe-de-nettoyage-des-matieres-dangereuses-portant-tous-les-equipements-de-protection-individuelle-discute-et-planifie-avant-d-entrer-dans-le-m-v-hondius-le-m-v-hondius-amarre-dans-le-port-de-rotterdam-fait-actuellement-l-objet-d-un-processus-de-desinfection-complet-cela-devrait-etre-termine-le-vendredi-22-mai-une-fois-cette-operation-terminee-le-navire-sera-remis-en-service-image-de-credit-james-petermeier-zuma-press-wire-20260519-zip-p202-015-zeus-2605191521",
-      "date": "2026-05-22T13:05:25+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -470,16 +510,6 @@
       "date": "2026-05-20T08:51:48+00:00",
       "date_formatted": "20 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Deux bactéries intestinales viennent d'être identifiées comme jouant un rôle clé dans Alzheimer",
-      "desc": "Une découverte révolutionnaire bouleverse notre compréhension de la maladie d'Alzheimer. Des chercheurs ont réussi à transférer les symptômes de cette pathologie à des rats en bonne santé via le microbiote intestinal. Cette avancée ouvre de nouvelles perspectives pour le diagnostic précoce et le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-deux-bacteries-intestinales-viennent-etre-identifiees-comme-jouant-role-cle-alzheimer-w2t8-134387/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/4/c/d4c51cd596_50253527_reparer-cerveau-alzheimer.jpg",
-      "date": "2026-05-20T08:00:00+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
