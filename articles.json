@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-26T19:52:07.397268+00:00",
-  "count": 79,
+  "generated_at": "2026-05-27T02:05:58.655438+00:00",
+  "count": 78,
   "articles": [
+    {
+      "title": "«Holy Destructors», la beauté du spore",
+      "desc": "La cinéaste lituanienne Aiste Zegulyte filme le passage du temps en utilisant le champignon comme métaphore et dévoile un monde où la mort n’est pas une fin, mais une transformation.",
+      "url": "https://www.liberation.fr/culture/cinema/holy-destructors-la-beaute-du-spore-20260526_A5LR5A4M25AVXE2T6XIQYQCGJQ/",
+      "image": null,
+      "date": "2026-05-26T21:30:00+00:00",
+      "date_formatted": "26 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Au CHU de Rennes, les secours débordés d'appels liés à la chaleur en France",
       "desc": "On dénombre désormais huit décès en France liés à la canicule, selon le gouvernement, dont six par noyade. Dans les zones classées vigilance orange canicule, les appels au Samu sont en très forte hausse et les hôpitaux commencent à être en tension. Reportage en Ille-et-Vilaine.",
@@ -17,7 +27,7 @@
       "desc": "Aucun essai clinique n’est en cours contre la souche à l’origine de la nouvelle épidémie du virus Ebola, en RDC. Les chercheurs sont partagés entre deux options : adapter des produits voisins ou développer en urgence du sur-mesure. Avec peu d’espoir de réussite avant un an.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/26/virus-ebola-la-difficile-voie-vers-la-mise-au-point-d-un-vaccin-contre-la-souche-bundibugyo_6693920_3212.html",
       "image": "https://img.lemde.fr/2026/05/25/517/0/6202/3101/644/322/60/0/7cc84e5_ftp-1-z7zs6agc0obo-822dbcc8faf745c9b642b0f66b3536a0-0-826183af27034646b5693bd67c150027.jpg",
-      "date": "2026-05-26T17:30:09+00:00",
+      "date": "2026-05-26T17:30:04+00:00",
       "date_formatted": "26 May 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -38,26 +48,6 @@
       "url": "https://www.liberation.fr/societe/police-justice/enfant-de-11-ans-mort-a-rennes-deux-ados-reconnaissent-avoir-tue-theo-pour-se-venger-dun-vol-de-materiel-de-peche-20260526_Q56DGDWIIVCPDPQRY2ZL32KE6M/",
       "image": null,
       "date": "2026-05-26T16:27:50+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "En Italie, les élections municipales partielles apportent de l’oxygène à Giorgia Meloni",
-      "desc": "La gauche pensait renouveler son succès du référendum sur la réforme de la justice, mais l’union droite-extrême droite, au pouvoir au niveau national, résiste et remporte les villes de Venise et Reggio de Calabre, lundi 25 mai.",
-      "url": "https://www.liberation.fr/international/europe/en-italie-les-elections-municipales-partielles-apportent-de-loxygene-a-giorgia-meloni-20260526_QOXWO5GW2BAO5EYWBPPSSWOXIQ/",
-      "image": null,
-      "date": "2026-05-26T16:22:33+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola, hantavirus : «Les systèmes de santé animale sont l’une des premières lignes de défense contre les pandémies»",
-      "desc": "En pleine épidémie d’Ebola en RDC, la directrice de l’Organisation mondiale de la santé animale appelle à un renforcement de la surveillance vétérinaire pour prévenir la transmission de maladies à l’humain.",
-      "url": "https://www.liberation.fr/societe/sante/ebola-hantavirus-les-systemes-de-sante-animale-sont-lune-des-premieres-lignes-de-defense-contre-les-pandemies-20260526_JBTE35WR6ZCFFA7NX4NB7E2K3A/",
-      "image": null,
-      "date": "2026-05-26T16:16:06+00:00",
       "date_formatted": "26 May 2026",
       "source": "Libération",
       "type": "presse"
