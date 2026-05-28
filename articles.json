@@ -1,55 +1,75 @@
 {
-  "generated_at": "2026-05-28T01:49:57.149870+00:00",
-  "count": 69,
+  "generated_at": "2026-05-28T09:41:09.774574+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "REPORTAGE. \"On a besoin d'une intervention collective\" : à Vitrolles, dans les Bouches-du-Rhône, mobilisation générale contre la prolifération du moustique tigre",
+      "desc": "Alors qu'une épidémie de chikungunya s'est déclarée l'été dernier, les autorités appellent les habitants à tout faire pour ne pas laisser les moustiques élire domicile dans leurs jardins.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/reportage-on-a-besoin-d-une-intervention-collective-a-vitrolles-dans-les-bouches-du-rhone-mobilisation-generale-contre-la-proliferation-du-moustique-tigre_8033372.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/lCF5yWBzHqDk781w4GdN9iwIBBs/0x41:1600x942/432x243/filters:format(jpg)/2026/05/28/6a17fef560f08870869038.jpg",
+      "date": "2026-05-28T11:33:32+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les traitements contre l’obésité Wegovy et Mounjaro remboursés dès la mi-juin en France, dans un cadre contrôlé",
+      "desc": "Cette mesure, qui ne concernera que les patients atteints d’obésité massive sans comorbidité ou sévère avec comorbidité, devrait coûter « une centaine de millions d’euros » à l’Assurance-maladie en année pleine, selon la ministre de la santé, Stéphanie Rist.",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/28/les-traitements-contre-l-obesite-wegovy-et-mounjaro-rembourses-des-la-mi-juin-en-france-dans-un-cadre-controle_6694430_3224.html",
+      "image": "https://img.lemde.fr/2026/05/28/331/0/4000/2000/644/322/60/0/179a3d1_ftp-1-jo4bgj74p7wu-5161394-01-06.jpg",
+      "date": "2026-05-28T09:47:23+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : \"les risques concernent en particulier les personnes âgées, qui ont des pathologies chroniques\", prévient le médecin urgentiste Rafik Masmoudi",
+      "desc": "Rafik Masmoudi, médecin urgentiste à l'hôpital européen Georges Pompidou, à Paris, était l'invité de franceinfo jeudi 28 mai. Il a détaillé les conséquences de l'épisode de chaleur sur la santé des Français.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-les-risques-concernent-en-particulier-les-personnes-agees-qui-ont-des-pathologies-chroniques-previent-le-medecin-urgentiste-rafik-masmoudi_8032109.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/2Rlm9IPDiyOmmDPuZbLcGXJlKMw/156x0:1671x852/432x243/filters:format(jpg)/2026/05/28/6a17e76b4f169901361957.jpg",
+      "date": "2026-05-28T09:21:54+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Médicaments anti-obésité : le Wegovy et le Mounjaro seront remboursés à compter de la mi-juin",
+      "desc": "La ministre de la Santé l’a annoncé jeudi 28 mai. L’Assurance maladie remboursera, pour un nombre restreint de malades, 65 % du prix fixé entre les laboratoires et les autorités sanitaires.",
+      "url": "https://www.liberation.fr/societe/sante/medicaments-anti-obesite-le-wegovy-et-le-mounjaro-en-passe-detre-rembourses-20260527_OPTBN6TTDVGTPOUURKDMCTCFOM/",
+      "image": null,
+      "date": "2026-05-28T08:00:06+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Voici le marqueur biologique qui pourrait réduire le risque de démence et d'Alzheimer selon une vaste étude",
+      "desc": "Une étude sud-coréenne montre qu’un faible taux de « mauvais cholestérol » (LDL) pourrait réduire le risque de démence, notamment de maladie d’Alzheimer. Les statines, qui font baisser ce cholestérol, renforceraient même cet effet protecteur. Toutefois : un taux trop bas n’apporte pas de...",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-voici-marqueur-biologique-pourrait-reduire-risque-demence-alzheimer-selon-vaste-etude-w2t8-134441/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/0/d/a0dc0d5199_50255081_mauvais-cholesterol-demence.jpg",
+      "date": "2026-05-28T08:00:00+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Retour du virus Ebola : le point sur l’épidémie",
+      "desc": "Avec plus de 200 morts probables en RDC, l’épidémie due au virus Ebola s’étend et menace les pays voisins. Hôpitaux saturés, vaccin inexistant et conflits armés… Dans ce podcast, Delphine Roucaute et Morgane Le Cam, journalistes au « Monde », aux services Planète et Afrique, nous racontent la crise ",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/05/28/retour-du-virus-ebola-le-point-sur-l-epidemie_6694307_5463015.html",
+      "image": "https://img.lemde.fr/2026/05/27/0/0/1800/900/644/322/60/0/738d853_upload-1-yapnrlqlx70l-ebola-2.JPEG",
+      "date": "2026-05-28T05:00:01+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Narcotrafic : à Nantes, un troisième mort par balles en moins d’un mois",
       "desc": "Depuis fin avril, trois jeunes gens ont été tués par balles dans différents quartiers, à Nantes. La maire socialiste de la ville, Johanna Rolland, attend une réponse de l’Etat « à la hauteur ». Les habitants, tristes et inquiets, redoutent de nouveaux drames.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/27/narcotrafic-a-nantes-un-troisieme-mort-par-balles-en-moins-d-un-mois_6694257_3224.html",
       "image": "https://img.lemde.fr/2026/05/27/516/0/6192/3096/644/322/60/0/efca4ed_upload-1-p8adgg8odrlv-maxnewsspecialtwo613332.jpg",
-      "date": "2026-05-27T20:57:16+00:00",
+      "date": "2026-05-27T20:57:12+00:00",
       "date_formatted": "27 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : la branche armée du Hamas confirme la mort de son chef dans une frappe israélienne",
-      "desc": "Après les espoirs du week-end, l’Iran accuse les Etats-Unis d’avoir violé le cessez-le-feu, tandis que l’armée israélienne poursuit ses bombardements au Liban et étend ses opérations terrestres.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-cessez-le-feu-en-iran-et-au-liban-menaces-20260527_A5EZDHUNPRHZ5FGYA3CP2KN6LA/",
-      "image": null,
-      "date": "2026-05-27T18:50:05+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Serviette autour du cou, aveux des ados, vol de matériel de pêche… Ce que l’on sait après la découverte du corps d’un enfant de 11 ans à Rennes",
-      "desc": "Un garçon de 11 ans a été retrouvé mort dimanche, une serviette serrée autour du cou. Deux adolescents vus en compagnie de l’enfant ont fini par expliquer leur geste par une querelle bénigne. Ils ont été mis en examen ce mercredi 27 mai.",
-      "url": "https://www.liberation.fr/societe/police-justice/adolescents-en-garde-a-vue-serviette-de-bain-tres-serree-autour-du-cou-ce-que-lon-sait-apres-la-decouverte-du-corps-dun-enfant-de-11-ans-a-rennes-20260525_SJGNZMO3N5B4TOCVR2MTINSHCA/",
-      "image": null,
-      "date": "2026-05-27T18:46:26+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Robert Vautard, coprésident du Giec : «La chaleur est un “tueur silencieux” qui cause plus de décès que les inondations»",
-      "desc": "Alors que le pays est assommé par de fortes températures, le climatologue et coprésident du Giec, Robert Vautard, alerte sur l’impréparation du pays à des épisodes caniculaires qui deviennent de plus en plus précoces.",
-      "url": "https://www.liberation.fr/environnement/climat/robert-vautard-copresident-du-giec-la-chaleur-est-un-tueur-silencieux-qui-cause-plus-de-deces-que-les-inondations-20260527_DJ6Q6SPTC5F55DZJPH3IGLU254/",
-      "image": null,
-      "date": "2026-05-27T18:42:10+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Enfant de 11 ans mort à Rennes : les deux adolescents qui ont avoué avoir tué Théo mis en examen",
-      "desc": "Les deux suspects de 15 ans et 16 ans ont été placés en détention provisoire par le juge des libertés et de la détention. Ils sont mis en examen pour «meurtre sur mineur de moins de 15 ans», un crime puni de la réclusion criminelle à perpétuité.",
-      "url": "https://www.liberation.fr/societe/police-justice/enfant-de-11-ans-mort-a-rennes-les-deux-adolescents-qui-ont-avoue-avoir-tue-theo-mis-en-examen-20260527_FV3IXK4IRFFH5IR3TXVIE6RIDI/",
-      "image": null,
-      "date": "2026-05-27T18:36:01+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -93,16 +113,6 @@
       "type": "presse"
     },
     {
-      "title": "«Tout reste un mystère» : en Belgique, le choc et l’incompréhension après une collision mortelle sur un passage à niveau",
-      "desc": "Dans la petite ville de Buggenhout, quatre personnes sont mortes lors d’un accident entre un bus scolaire et un train, mardi 26 mai. Sur place, les questions autour des circonstances du drame sont nombreuses.",
-      "url": "https://www.liberation.fr/international/europe/tout-reste-un-mystere-en-belgique-le-choc-et-lincomprehension-apres-une-collision-mortelle-sur-un-passage-a-niveau-20260527_NZDV33COKRHR7KNST2RUSKBIFY/",
-      "image": null,
-      "date": "2026-05-27T17:05:10+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "La loi fin de vie pour améliorer l'accès aux soins palliatifs est promulguée",
       "desc": "La proposition de loi \"visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs\" a été promulguée par Emmanuel Macron, mercredi 27 mai. Il s'agit du volet le plus consensuel de la réforme de la fin de vie.",
       "url": "https://www.franceinfo.fr/societe/euthanasie/la-loi-fin-de-vie-pour-ameliorer-l-acces-aux-soins-palliatifs-est-promulguee_8031410.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -133,16 +143,6 @@
       "type": "presse"
     },
     {
-      "title": "La guerre au Moyen-Orient va largement creuser le déficit de la Sécurité sociale en 2026, selon la Cour des comptes",
-      "desc": "Dans un rapport, la Cour des comptes estime que le déficit de l'Assurance-maladie va s'aggraver d'au moins \"3 milliards\" en 2026 et \"5 milliards\" en 2027 du fait du conflit en Iran qui a commencé fin février.",
-      "url": "https://www.franceinfo.fr/economie/la-guerre-au-moyen-orient-va-largement-creuser-le-deficit-de-la-securite-sociale-en-2026-selon-la-cour-des-comptes_8028974.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/oUvbqgEEMkhV8PL9T0JXKmcj-Dw/30x121:1024x680/432x243/filters:format(jpg)/2026/05/26/6a15c49ad5c78474014984.jpg",
-      "date": "2026-05-27T10:07:07+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : Certains cas contacts ont contesté (en vain) en justice les mesures d’isolement",
       "desc": "Quelques-uns des 22 cas contacts français des passagers du bateau de croisière « MV Hondius » ont contesté devant la justice les mesures d’isolement préventif imposées par le gouvernement, mais « la justice a validé la légalité de ces décisions »",
       "url": "https://www.20minutes.fr/sante/4225595-20260527-hantavirus-certains-cas-contacts-conteste-vain-justice-mesures-isolement?at_medium=display&at_campaign=149",
@@ -150,16 +150,6 @@
       "date": "2026-05-27T07:12:53+00:00",
       "date_formatted": "27 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "ENQUETE. Scandale des eaux minérales : près de trois millions de bouteilles Perrier détruites ou bloquées après des contaminations",
-      "desc": "Près de trois millions de bouteilles et canettes Perrier ont été détruites ou restent bloquées après des contaminations bactériennes, selon la cellule investigation de Radio France. Un concurrent a saisi la justice pour contester les autorisations accordées à Nestlé Waters pour produire de l’eau min",
-      "url": "https://www.franceinfo.fr/sante/alimentation/scandale-des-eaux-en-bouteille/enquete-perrier-pres-de-trois-millions-de-bouteilles-detruites-ou-bloquees-apres-des-contaminations_8030147.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/OmuDCps7DItfrzOfs7d1HzSMUmc/0x25:4811x2732/432x243/filters:format(jpg)/2026/05/26/6a16147785c89282508316.jpg",
-      "date": "2026-05-27T06:33:22+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -333,16 +323,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : L’épidémie risque de toucher dix pays africains, estime l’Agence sanitaire de l’Union africaine",
-      "desc": "Le Soudan du Sud, le Rwanda, le Kenya, la Tanzanie, l’Ethiopie, le Congo, le Burundi, l’Angola, la Centrafrique et la Zambie sont à risque d’une épidémie d’Ebola, qui se propage en RDC",
-      "url": "https://www.20minutes.fr/monde/4225083-20260523-ebola-epidemie-risque-toucher-dix-pays-africains-estime-agence-sanitaire-union-africaine?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/TgqlrBDBTDqNfInTj2LVISk/1200x768_le-personnel-medical-transporte-un-patient-atteint-d-ebola-vers-un-centre-de-traitement-a-rwampara-au-congo-le-jeudi-21-mai-2026-photo-ap-moses-sawasawa-xma133-26141608173064-2605212244",
-      "date": "2026-05-23T15:09:08+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Pollution de l’air : les IRM révèlent des lésions inquiétantes dans le cerveau",
       "desc": "Troubles de l'apprentissage, déclin de la mémoire et même démence : la pollution de l'air a des conséquences bien plus vastes sur la santé que ce que les scientifiques pensaient jusqu'à maintenant. Une nouvelle étude montre les effets dramatiques sur le cerveau d'une pollution atmosphérique même...",
       "url": "https://www.futura-sciences.com/sante/actualites/pollution-air-pollution-air-irm-revelent-lesions-inquietantes-cerveau-134716/#xtor%3DRSS-8",
@@ -351,36 +331,6 @@
       "date_formatted": "23 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Ebola : trois nouveaux cas confirmés en Ouganda, annonce le ministère de la santé",
-      "desc": "L’Ouganda, qui a suspendu, jeudi, tous les transports publics à destination de la RDC, avait confirmé le 15 mai la présence d’Ebola sur son territoire après la découverte de deux cas, dont un est mort.",
-      "url": "https://www.lemonde.fr/sante/article/2026/05/23/ebola-trois-nouveaux-cas-confirmes-en-ouganda-annonce-le-ministere-de-la-sante_6692735_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/18/456/0/5472/2736/644/322/60/0/78eddb4_ftp-1-gpg1kroqkn86-17a3be1885ce46b797af9345e9b2e314-1-8b08e17d619f4f08966e0dc919507ee4.jpg",
-      "date": "2026-05-23T11:20:42+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : à l’origine de l’épidémie, la chauve-souris, suspect idéal",
-      "desc": "La quête de la source des épidémies de fièvre hémorragique n’a pas encore livré de coupable. Faute de preuve ultime, les chauves-souris frugivores font figure de principales suspectes.",
-      "url": "https://www.lemonde.fr/international/article/2026/05/23/ebola-a-l-origine-de-l-epidemie-la-chauve-souris-suspect-ideal_6692716_3210.html",
-      "image": "https://img.lemde.fr/2026/05/22/244/0/2824/1412/644/322/60/0/214422b_upload-1-8qek5bksc9cs-bios-2479716.jpg",
-      "date": "2026-05-23T08:47:59+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus et Ebola, un double avertissement pour le système sanitaire mondial",
-      "desc": "Face aux deux foyers viraux, l’Organisation mondiale de la santé a joué et joue correctement son rôle. Les mesures erratiques des Etats-Unis, qui ont quitté l’OMS en 2025, et la baisse drastique de l’aide internationale représentent toutefois deux grands écueils si le monde doit affronter une nouvel",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/23/hantavirus-et-ebola-un-double-avertissement-pour-le-systeme-sanitaire-mondial_6692713_3244.html",
-      "image": "https://img.lemde.fr/2026/05/20/500/0/6000/3000/644/322/60/0/43c5914_ftp-1-xy9vh4qtdbgl-c3b7d585c25940d3bd91bd0a95847c13-0-e4a88d7000ff4924a28d3d719d4bfe8e.jpg",
-      "date": "2026-05-23T08:00:05+00:00",
-      "date_formatted": "23 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Alzheimer : cet aliment très courant est associé à un risque réduit de 27 % de la maladie dans une vaste étude",
@@ -480,16 +430,6 @@
       "date": "2026-05-20T15:49:59+00:00",
       "date_formatted": "20 May 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Voici ce qui se passe quand vous mâchez vraiment vos aliments, et c’est assez surprenant",
-      "desc": "On sait depuis longtemps que mâcher davantage aide la digestion. Mais des recherches suggèrent que cela pourrait aussi stimuler le cerveau et même contribuer à prévenir certaines maladies neurodégénératives comme Alzheimer. Tour d’horizon.",
-      "url": "https://www.futura-sciences.com/sante/actualites/dents-voici-ce-passe-vous-machez-vraiment-vos-aliments-cest-assez-surprenant-134664/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/e/c/9ec9911ec7_50255472_macher-manger.jpg",
-      "date": "2026-05-20T12:45:28+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
