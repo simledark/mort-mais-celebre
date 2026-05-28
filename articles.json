@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-05-28T15:01:17.442270+00:00",
+  "generated_at": "2026-05-28T20:02:12.685305+00:00",
   "count": 56,
   "articles": [
     {
-      "title": "Nuisibles : des lâchers de moustiques stériles contre la prolifération",
-      "desc": "Pour freiner la prolifération des moustiques tigres, porteurs de maladies, un laboratoire du sud de la France élève des moustiques tigres mâles stérilisés. Lorsque ces derniers s'accoupleront, les œufs pondus par les femelles seront vides.",
-      "url": "https://www.franceinfo.fr/sante/nuisibles-des-lachers-de-moustiques-steriles-contre-la-proliferation_8031647.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/h5jAT8HfxOU7IpyGzMU767lOfEc/0x78:1071x681/432x243/filters:format(jpg)/2026/05/27/6a170ffdef0b8035987009.jpg",
-      "date": "2026-05-28T13:57:43+00:00",
+      "title": "Deux médicaments anti-obésité seront bientôt remboursés par l'assurance maladie selon des critères stricts",
+      "desc": "Ce sont les traitements les plus populaires du moment: les médicaments anti obésité Wegovy et Mounjaro seront désormais remboursés par l’Assurance-maladie. Seuls les patients souffrant d’obésité sévère sont concernés.",
+      "url": "https://www.franceinfo.fr/sante/deux-medicaments-anti-obesite-seront-bientot-rembourses-par-l-assurance-maladie-selon-des-criteres-stricts_8034527.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ZYI2rKSNr32bYvpIN3v4QVpzLmg/0x58:1310x795/432x243/filters:format(jpg)/2026/05/28/6a1899448fdc4753297505.png",
+      "date": "2026-05-28T21:51:52+00:00",
       "date_formatted": "28 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola Bundibugyo : un vaccin attendu d’ici fin 2026 pour stopper l’épidémie",
+      "desc": "Le Centre africain de contrôle et de prévention des maladies mise sur la recherche et la coopération internationale pour accélérer la mise au point d’un vaccin efficace. La Somalie a rejoint la liste de désormais onze pays à risque d’être touchés par le virus, en plus de la RDC et de l’Ouganda.",
+      "url": "https://www.lemonde.fr/sante/article/2026/05/28/ebola-bundibugyo-un-vaccin-attendu-d-ici-fin-2026-pour-stopper-l-epidemie_6694525_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/21/414/0/5500/2750/644/322/60/0/488a22c_ftp-1-nri7o8tltj7e-2026-05-21t160854z-1350932930-rc2pdla6cvn2-rtrmadp-3-health-ebola-drc.JPG",
+      "date": "2026-05-28T20:28:50+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La rougeole, le retour inquiétant d’une maladie qu’on croyait appartenir au passé",
+      "desc": "Après des années de faible circulation, la rougeole fait un retour notable en France",
+      "url": "https://www.20minutes.fr/sante/4225938-20260528-rougeole-retour-inquietant-maladie-croyait-appartenir-passe?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/DxXiIt1TTuWVuxneWpwJSik/1200x768_la-rougeole-se-caracterise-notamment-par-une-eruption-cutanee",
+      "date": "2026-05-28T19:32:37+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -101,16 +121,6 @@
       "date_formatted": "27 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Les médicaments anti-obésité Wegovy et Mounjaro seront bientôt remboursés par la Sécurité sociale",
-      "desc": "Ces nouveaux traitements anti-obésité, Wegovy et Mounjaro, devenus des phénomènes planétaires, doivent être remboursés bientôt en France par l'Assurance maladie.",
-      "url": "https://www.franceinfo.fr/sante/medicament/les-medicaments-anti-obesite-wegovy-et-mounjaro-seront-bientot-rembourses-par-la-securite-sociale_8031692.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/wDMhwuMee7Yk9Ehs5eBk4l7z_OU/0x240:4998x3049/432x243/filters:format(jpg)/2025/06/21/maxstockworld476262-6855dc314c14e104126418.jpg",
-      "date": "2026-05-27T17:38:02+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Pourquoi certains cancers sont pires que d’autres ?",
@@ -271,16 +281,6 @@
       "date_formatted": "24 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Ebola : avec plus de 200 morts probables en RDC, l’épidémie s’étend et menace d’autres pays",
-      "desc": "Selon les autorités sanitaires, dix pays africains risquent d’être touchés par le virus Ebola, en plus de la République démocratique du Congo, épicentre de l’épidémie, et de l’Ouganda qui recense un mort.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/24/ebola-avec-plus-de-200-morts-suspectes-en-rdc-l-epidemie-s-etend-et-menace-d-autres-pays_6692953_3212.html",
-      "image": "https://img.lemde.fr/2026/05/23/0/0/7540/3770/644/322/60/0/f7cc1d9_ftp-1-4tuq7ncalf0s-ecb30f5f38c9494e87a4c5b9c4b7d0d0-0-a235dba153014092a7261a59bbae3f65.jpg",
-      "date": "2026-05-24T02:49:51+00:00",
-      "date_formatted": "24 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Pollution de l’air : les IRM révèlent des lésions inquiétantes dans le cerveau",
