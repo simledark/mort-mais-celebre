@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-05-28T09:41:09.774574+00:00",
-  "count": 63,
+  "generated_at": "2026-05-28T15:01:17.442270+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Nuisibles : des lâchers de moustiques stériles contre la prolifération",
+      "desc": "Pour freiner la prolifération des moustiques tigres, porteurs de maladies, un laboratoire du sud de la France élève des moustiques tigres mâles stérilisés. Lorsque ces derniers s'accoupleront, les œufs pondus par les femelles seront vides.",
+      "url": "https://www.franceinfo.fr/sante/nuisibles-des-lachers-de-moustiques-steriles-contre-la-proliferation_8031647.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/h5jAT8HfxOU7IpyGzMU767lOfEc/0x78:1071x681/432x243/filters:format(jpg)/2026/05/27/6a170ffdef0b8035987009.jpg",
+      "date": "2026-05-28T13:57:43+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Chikungunya, dengue, Zika : 92 cas importés dans l'Hexagone depuis début mai",
+      "desc": "Un peu plus de 90 cas importés de chikungunya, dengue et Zika, trois maladies transmises par des moustiques tigres, ont été recensés en France hexagonale depuis début mai.",
+      "url": "https://www.sciencesetavenir.fr/sante/chikungunya-dengue-zika-92-cas-importes-dans-l-hexagone-depuis-debut-mai_192766?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/28/cover-r4x3w1200-6a18369fce7eb-afp-20260526-hl-pbatard-3174394-v1-highres-francemosquitopreventiondisease-1.jpg",
+      "date": "2026-05-28T13:05:51+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Le chikungunya pourrait se propager en Europe : le scénario épidémique qui inquiète les chercheurs",
+      "desc": "Longtemps cantonné aux zones tropicales, le chikungunya pourrait bientôt s’installer durablement dans les pays du Nord, notamment en Europe. Porté par l’expansion fulgurante du moustique-tigre et accéléré par le réchauffement climatique, le virus inquiète désormais les scientifiques, qui...",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-chikungunya-pourrait-propager-europe-scenario-epidemique-inquiete-chercheurs-134828/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/0/a/a0a56b68bb_50255764_3-moustique-tigre.jpg",
+      "date": "2026-05-28T13:02:10+00:00",
+      "date_formatted": "28 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "REPORTAGE. \"On a besoin d'une intervention collective\" : à Vitrolles, dans les Bouches-du-Rhône, mobilisation générale contre la prolifération du moustique tigre",
       "desc": "Alors qu'une épidémie de chikungunya s'est déclarée l'été dernier, les autorités appellent les habitants à tout faire pour ne pas laisser les moustiques élire domicile dans leurs jardins.",
       "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/reportage-on-a-besoin-d-une-intervention-collective-a-vitrolles-dans-les-bouches-du-rhone-mobilisation-generale-contre-la-proliferation-du-moustique-tigre_8033372.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/lCF5yWBzHqDk781w4GdN9iwIBBs/0x41:1600x942/432x243/filters:format(jpg)/2026/05/28/6a17fef560f08870869038.jpg",
-      "date": "2026-05-28T11:33:32+00:00",
+      "date": "2026-05-28T11:41:45+00:00",
       "date_formatted": "28 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -30,16 +60,6 @@
       "date": "2026-05-28T09:21:54+00:00",
       "date_formatted": "28 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Médicaments anti-obésité : le Wegovy et le Mounjaro seront remboursés à compter de la mi-juin",
-      "desc": "La ministre de la Santé l’a annoncé jeudi 28 mai. L’Assurance maladie remboursera, pour un nombre restreint de malades, 65 % du prix fixé entre les laboratoires et les autorités sanitaires.",
-      "url": "https://www.liberation.fr/societe/sante/medicaments-anti-obesite-le-wegovy-et-le-mounjaro-en-passe-detre-rembourses-20260527_OPTBN6TTDVGTPOUURKDMCTCFOM/",
-      "image": null,
-      "date": "2026-05-28T08:00:06+00:00",
-      "date_formatted": "28 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -83,41 +103,11 @@
       "type": "science"
     },
     {
-      "title": "Nuisibles : des lâchers de moustiques stériles contre la prolifération",
-      "desc": "Pour freiner la prolifération des moustiques tigres, porteurs de maladies, un laboratoire du sud de la France élève des moustiques tigres mâles stérilisés. Lorsque ces derniers s'accoupleront, les œufs pondus par les femelles seront vides.",
-      "url": "https://www.franceinfo.fr/sante/nuisibles-des-lachers-de-moustiques-steriles-contre-la-proliferation_8031647.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/h5jAT8HfxOU7IpyGzMU767lOfEc/0x78:1071x681/432x243/filters:format(jpg)/2026/05/27/6a170ffdef0b8035987009.jpg",
-      "date": "2026-05-27T17:44:03+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : l'Ouganda ferme temporairement ses frontières avec la République démocratique du Congo",
-      "desc": "Plus de 900 cas suspects et 220 décès suspects liés à Ebola ont déjà été recensés. Mais l'ampleur réelle de l'épidémie reste inconnue.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-l-ouganda-ferme-temporairement-ses-frontieres-avec-la-republique-democratique-du-congo_8031548.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cavy9J8Oa5wwrv80Up41MYHuzkI/0x0:1024x576/432x243/filters:format(jpg)/2026/05/27/6a16ffe44f8dd155325836.jpg",
-      "date": "2026-05-27T17:43:04+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Les médicaments anti-obésité Wegovy et Mounjaro seront bientôt remboursés par la Sécurité sociale",
       "desc": "Ces nouveaux traitements anti-obésité, Wegovy et Mounjaro, devenus des phénomènes planétaires, doivent être remboursés bientôt en France par l'Assurance maladie.",
       "url": "https://www.franceinfo.fr/sante/medicament/les-medicaments-anti-obesite-wegovy-et-mounjaro-seront-bientot-rembourses-par-la-securite-sociale_8031692.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/wDMhwuMee7Yk9Ehs5eBk4l7z_OU/0x240:4998x3049/432x243/filters:format(jpg)/2025/06/21/maxstockworld476262-6855dc314c14e104126418.jpg",
       "date": "2026-05-27T17:38:02+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La loi fin de vie pour améliorer l'accès aux soins palliatifs est promulguée",
-      "desc": "La proposition de loi \"visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs\" a été promulguée par Emmanuel Macron, mercredi 27 mai. Il s'agit du volet le plus consensuel de la réforme de la fin de vie.",
-      "url": "https://www.franceinfo.fr/societe/euthanasie/la-loi-fin-de-vie-pour-ameliorer-l-acces-aux-soins-palliatifs-est-promulguee_8031410.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zOvz8vRHnMHk-mYBOdNOWLXshOY/0x0:1024x576/432x243/filters:format(jpg)/2026/05/27/6a16f453b769a696512984.jpg",
-      "date": "2026-05-27T16:23:25+00:00",
       "date_formatted": "27 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -233,26 +223,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : Un passager espagnol du « MV Hondius » placé en quarantaine à Madrid testé positif",
-      "desc": "Un deuxième cas d’hantavirus lié à la croisière du « MV Hondius » a été confirmé en Espagne. Plusieurs passagers rapatriés sont toujours en quarantaine après les décès survenus à bord",
-      "url": "https://www.20minutes.fr/sante/4225359-20260525-hantavirus-passager-espagnol-mv-hondius-place-quarantaine-madrid-teste-positif?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/SQk10g88RFmeBINJEp8ptSk/1200x768_cette-photo-distribuee-par-les-forces-de-defense-australiennes-prise-le-15-mai-2026-et-publiee-le-19-mai-montre-des-responsables-de-l-equipe-d-assistance-medicale-australienne-et-des-forces-frontalieres-australiennes-debout-a-proximite-d-un-avion-transportant-des-passagers-infectes-par-l-epidemie-d-hantavirus-mv-hondius-sur-la-base-pearce-de-la-royal-australian-air-force-raaf-au-nord-de-la-ville-de-perth-en-australie-occidentale-photo-de-handout-australian-defence-force-afp-note-de-la-redaction-reserve-a-un-usage-editorial-credit-obligatoire-photo-afp-australian-defence-force-pas-de-marketing-pas-de-campagnes-publicitaires-distribue-en-tant-que-service-aux-clients",
-      "date": "2026-05-25T19:07:02+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : L’OMS alerte sur une épidémie « extrêmement grave » qui progresse rapidement",
-      "desc": "L’OMS a alerté, lundi, sur la progression rapide de l’épidémie d’Ebola en RDC, liée au virus Bundibugyo, sans vaccin ni traitement spécifique. Plus de 900 cas suspects inquiètent les autorités sanitaires",
-      "url": "https://www.20minutes.fr/monde/4225352-20260525-ebola-oms-alerte-epidemie-extremement-grave-progresse-rapidement?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ocxqSwHBRy63D44NBHZddik/1200x768_vanny-birungi-une-volontaire-de-la-croix-rouge-s-adresse-a-des-personnes-lors-d-une-campagne-de-sensibilisation-du-public-au-milieu-de-l-epidemie-d-ebola-a-bunia-au-congo-le-lundi-25-mai-2026-ap-photo-moses-sawasawa-xma105-26145503678910-2605251602",
-      "date": "2026-05-25T17:04:04+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Aluminium dans les vaccins : fin de la polémique ?",
       "desc": "L’aluminium dans les vaccins est un sujet qui ne cesse d’alimenter les polémiques, et ce, d’autant plus avec les décisions controversées de l’actuel ministre de la santé américain, qui attisent les suspicions de lien avec des maladies graves. Va-t-on y voir plus clair avec cette méta-analyse...",
       "url": "https://www.futura-sciences.com/sante/actualites/vaccin-aluminium-vaccins-fin-polemique-134420/#xtor%3DRSS-8",
@@ -309,16 +279,6 @@
       "image": "https://img.lemde.fr/2026/05/23/0/0/7540/3770/644/322/60/0/f7cc1d9_ftp-1-4tuq7ncalf0s-ecb30f5f38c9494e87a4c5b9c4b7d0d0-0-a235dba153014092a7261a59bbae3f65.jpg",
       "date": "2026-05-24T02:49:51+00:00",
       "date_formatted": "24 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ma vie d’ado : « Face à la maladie, on est toujours seul à lutter, même en étant très entouré »",
-      "desc": "« Le Monde » donne la parole à des jeunes gens qui évoquent leurs états d’âme, leurs envies, leurs difficultés. Priam, 15 ans, vient de livrer trois ans de combat contre le cancer. Une épreuve qui l’a fait mûrir et lui a permis de réaliser plusieurs rêves",
-      "url": "https://www.lemonde.fr/intimites/article/2026/05/23/ma-vie-d-ado-face-a-la-maladie-on-est-toujours-seul-a-lutter-meme-en-etant-tres-entoure_6692771_6190330.html",
-      "image": "https://img.lemde.fr/2026/05/22/250/0/3000/1500/644/322/60/0/b87ba4f_upload-1-7gojv3i4wwdw-illu-finale-mai-2026-zoevadim.jpg",
-      "date": "2026-05-23T18:00:08+00:00",
-      "date_formatted": "23 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
@@ -383,16 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Ces personnes sont touchées par Alzheimer, mais leur cerveau fonctionne bien : quel est leur secret ?",
-      "desc": "Une étude menée sur des centaines de seniors révèle pourquoi certaines personnes conservent une mémoire intacte malgré des lésions cérébrales typiques de la maladie. Les chercheurs identifient plusieurs habitudes capables de protéger durablement le cerveau – et il n’est jamais trop tard pour s’y...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-ces-personnes-sont-touchees-alzheimer-mais-leur-cerveau-fonctionne-bien-leur-secret-134679/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/b/d/6bdb2679c7_50255518_senior-femme-age.jpg",
-      "date": "2026-05-21T11:23:37+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ebola : un risque \"élevé\" en Afrique centrale mais \"faible\" au niveau mondial",
       "desc": "Le risque épidémique d'Ebola en République démocratique du Congo (RDC) est jugé \"élevé\" pour l'Afrique centrale mais \"faible\" au niveau mondial par l'Organisation mondiale de la santé (OMS), selon laquelle l'épidémie est probablement apparue \"il y a plusieurs mois\".",
       "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-evoque-un-risque-eleve-en-afrique-centrale-mais-faible-au-niveau-mondial_192536?xtor=RSS-16",
@@ -400,16 +350,6 @@
       "date": "2026-05-21T08:45:58+00:00",
       "date_formatted": "21 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Hypertension : ce traitement pourrait aussi ralentir le vieillissement, selon une étude",
-      "desc": "Une découverte révolutionnaire vient bouleverser notre compréhension du vieillissement. Des chercheurs ont réussi à prolonger la vie de souris adultes de 33 % en réduisant simplement un acide aminé dans leur alimentation. Cette avancée pourrait-elle ouvrir la voie à une longévité accrue chez...",
-      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-hypertension-ce-traitement-pourrait-aussi-ralentir-vieillissement-selon-etude-w2t8-134389/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/d/1/ed15af6716_50255004_gelules-hypertension-vieillissement.jpg",
-      "date": "2026-05-21T08:00:00+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -508,16 +448,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/gyneco/pourquoi-le-syndrome-des-ovaires-polykystiques-change-t-il-de-nom_192467?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/15/cover-r4x3w1200-6a073154c5010-afp-20260513-f0347723-v1-highres-polycysticovarysyndromeillustration.jpg",
       "date": "2026-05-15T14:54:21+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Hantavirus : une mission à Ushuaïa pour peut-être trouver l'origine de la contamination",
-      "desc": "La ville d'Ushuaïa se défend désespérément d'avoir été l'origine de la contagion du passager cas zéro, un Néerlandais qui avait séjourné 48 heures en ville avant d'embarquer.",
-      "url": "https://www.sciencesetavenir.fr/sante/hantavirus-une-mission-scientifique-a-ushuaia-pour-peut-etre-trouver-l-origine-de-la-contamination_192454?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/16/cover-r4x3w1200-6a08aa19dc39a-265c4fc0e9413ebefbc1484b225c8da649ff9558-jpg.jpg",
-      "date": "2026-05-15T13:28:37+00:00",
       "date_formatted": "15 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
