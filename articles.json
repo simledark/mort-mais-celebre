@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-05-29T09:30:28.058811+00:00",
-  "count": 57,
+  "generated_at": "2026-05-29T14:34:45.630988+00:00",
+  "count": 48,
   "articles": [
+    {
+      "title": "Hantavirus : à l'Institut Pasteur, les chercheurs ont mis au point un traitement pour empêcher les symptômes de la maladie",
+      "desc": "Alors qu'un 12e cas de hantavirus a été détecté parmi les passagers du MV Hondius cette semaine, les chercheurs s'activent pour trouver un traitement contre ces virus dont certains, comme la souche des Andes, sont extrêmement mortels.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-a-l-institut-pasteur-les-chercheurs-ont-mis-au-point-un-traitement-pour-empecher-les-symptomes-de-la-maladie_8035022.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/-Sgzml3sRXnDB-wffeIny25_KGo/0x0:1024x576/432x243/filters:format(jpg)/2026/05/15/6a06acb93d792138735022.jpg",
+      "date": "2026-05-29T16:27:07+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Epidémie d'Ebola : une première guérison enregistrée en République démocratique du Congo, annonce l'OMS",
+      "desc": "Il s'agit de \"la première personne admise dans un centre de soins à avoir été renvoyée chez elle après deux tests négatifs\" depuis le début de l'épidémie, a affirmé Anaïs Legand, experte à l'Organisation mondiale de la santé.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/epidemie-d-ebola-une-premiere-guerison-enregistree-en-republique-democratique-du-congo-annonce-l-oms_8035607.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/2yMSUNYh16G0ny_2ya4sy2VUzpc/0x106:1024x682/432x243/filters:format(jpg)/2026/05/29/6a19856756ee3192875291.jpg",
+      "date": "2026-05-29T14:50:05+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«L’urgence est de reculer ou d’annuler» : face aux chaleurs, le modèle des événements sportifs amateurs à rude épreuve",
+      "desc": "Les morts et hospitalisations de participants à des courses lors des très fortes chaleurs commencées ce week-end relance la question de la prévention des risques, moins contrôlés médicalement, pour le moment essentiellement laissée à la responsabilisation individuelle.",
+      "url": "https://www.liberation.fr/sports/lurgence-est-de-reculer-ou-dannuler-face-aux-chaleurs-le-modele-des-evenements-sportifs-amateurs-a-rude-epreuve-20260529_RNQK7QFLYVCJLOZM64JPWJHGZU/",
+      "image": null,
+      "date": "2026-05-29T14:25:36+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fernando Pessoa, retour à la malle",
+      "desc": "Le coffre plein de manuscrits découvert après la mort de l’écrivain portugais fait partie des mythes de la littérature. Puisant en partie dans ce legs de papier, l’auteur américano-portugais Richard Zenith a écrit une colossale biographie, aujourd’hui traduite en français.",
+      "url": "https://www.liberation.fr/culture/livres/fernando-pessoa-retour-a-la-malle-20260529_CYE77Q5XNBBGJAQ3TSKMJ2J3I4/",
+      "image": null,
+      "date": "2026-05-29T14:25:00+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Drancy-Sobibór, les évadés du train de la mort",
+      "desc": "Dans «Les évadés du convoi 53», Benjamin Fogel raconte la fuite en 1943 de treize personnes dont son grand-père, d’un train qui transportait plus de mille Juifs déportés.",
+      "url": "https://www.liberation.fr/culture/drancy-sobibor-les-evades-du-train-de-la-mort-20260529_LYLI6MVCRZCLPAGPGKKGSKLETY/",
+      "image": null,
+      "date": "2026-05-29T13:48:00+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Un patient a quitté l’hôpital» : la RDC enregistre sa première guérison depuis la nouvelle épidémie d’Ebola",
+      "desc": "Parmi les pays plus pauvres au monde, la République démocratique du Congo subit depuis le 15 mai une nouvelle épidémie. Il n’existe ni vaccin, ni traitement spécifique contre la souche Bundibugyo, qui aurait déjà causé plus de 200 morts.",
+      "url": "https://www.liberation.fr/international/afrique/un-patient-a-quitte-lhopital-la-rdc-enregistre-sa-premiere-guerison-depuis-la-nouvelle-epidemie-debola-20260529_NU6F2JBKIZECHJTVGH77NO7WBY/",
+      "image": null,
+      "date": "2026-05-29T13:19:33+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : premier cas de guérison confirmé",
+      "desc": "L'OMS confirme la première guérison depuis le début de l'épidémie d'Ebola en RDC. Plus de 1.000 cas suspects et 246 décès ont déjà été recensés, tandis que le virus Bundibugyo continue de se propager.",
+      "url": "https://www.sciencesetavenir.fr/sante/ebola-le-patron-de-l-oms-a-kinshasa-avant-une-visite-a-l-epicentre-de-l-epidemie_192789?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/29/cover-r4x3w1200-6a19561337cfa-9338df0e328ae6d32a1de2feae731b28f7434c81-jpg.jpg",
+      "date": "2026-05-29T12:53:17+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Epidémie d’Ebola : une première guérison enregistrée en RDC, annonce l’OMS",
+      "desc": "La République démocratique du Congo a déclaré à la mi-mai sa 17ᵉ épidémie de maladie à virus Ebola. Dans ce vaste pays de 100 millions d’habitants, le virus est présent dans trois provinces, ainsi qu’en Ouganda, où sept infections confirmées ont été recensées.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/29/epidemie-d-ebola-une-premiere-guerison-enregistree-en-rdc-annonce-l-oms_6694734_3212.html",
+      "image": "https://img.lemde.fr/2026/05/29/526/0/6320/3160/644/322/60/0/7bdb5f3_ftp-1-4zqt7ruvaoxn-5170717-01-06.jpg",
+      "date": "2026-05-29T12:44:47+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Face à la circulation d'Ebola en Afrique centrale, l'Italie réclame que l'UE renforce la surveillance de ses frontières",
+      "desc": "Depuis la déclaration d'une épidémie d'Ebola le 15 mai, plus de 1 000 cas suspects et 246 morts ont été enregistrés en République démocratique du Congo. Une situation qui nécessite de renforcer la surveillance aux frontières, selon la Première ministre italienne, Giorgia Meloni.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/face-a-la-circulation-d-ebola-en-afrique-centrale-l-italie-reclame-que-l-ue-renforce-la-surveillance-de-ses-frontieres_8035418.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/-VoR2UBpbQcf3sl9_Z6yo1yOuaM/0x53:1024x629/432x243/filters:format(jpg)/2026/05/29/6a19624e2c271213078447.jpg",
+      "date": "2026-05-29T11:55:54+00:00",
+      "date_formatted": "29 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Démence : ces changements dans votre sommeil pourraient être des signaux d’alerte précoces",
       "desc": "Une étude sur 700 femmes suivies durant cinq ans suggère que, quand on vieillit, la sensation de fatigue et l’envie de dormir durant la journée sont des signes précoces de démence.",
@@ -100,16 +190,6 @@
       "date": "2026-05-28T09:47:23+00:00",
       "date_formatted": "28 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule : \"les risques concernent en particulier les personnes âgées, qui ont des pathologies chroniques\", prévient le médecin urgentiste Rafik Masmoudi",
-      "desc": "Rafik Masmoudi, médecin urgentiste à l'hôpital européen Georges Pompidou, à Paris, était l'invité de franceinfo jeudi 28 mai. Il a détaillé les conséquences de l'épisode de chaleur sur la santé des Français.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-les-risques-concernent-en-particulier-les-personnes-agees-qui-ont-des-pathologies-chroniques-previent-le-medecin-urgentiste-rafik-masmoudi_8032109.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/2Rlm9IPDiyOmmDPuZbLcGXJlKMw/156x0:1671x852/432x243/filters:format(jpg)/2026/05/28/6a17e76b4f169901361957.jpg",
-      "date": "2026-05-28T09:21:54+00:00",
-      "date_formatted": "28 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -273,16 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola : l’épidémie est « extrêmement grave et difficile » à gérer, selon le directeur de l’OMS",
-      "desc": "L’actuelle épidémie de fièvre hémorragique à virus Ebola s’est déclarée le 15 mai en République démocratique du Congo. Tedros Adhanom Ghebreyesus, le directeur général l’Organisation mondiale de la santé, a appelé les pays voisins à agir « immédiatement ».",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/25/ebola-deux-nouveaux-cas-confirmes-en-ouganda-selon-le-ministere-de-la-sante_6693645_3212.html",
-      "image": "https://img.lemde.fr/2026/05/25/620/0/5418/2709/644/322/60/0/064800b_ftp-1-mirfmae6jqzl-5140817-01-06.jpg",
-      "date": "2026-05-25T13:22:45+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Vieillissement : ce jumeau numérique pourrait prédire les moments où votre corps décroche",
       "desc": "En Chine, des chercheurs du Centre national de bio-informatique ont développé un jumeau numérique qui mesure le rythme de vieillissement des organes à l'âge adulte et renseigne sur leur déclin physiologique.",
       "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillissement-ce-jumeau-numerique-pourrait-predire-moments-votre-corps-decroche-134591/#xtor%3DRSS-8",
@@ -353,16 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Ebola : un risque \"élevé\" en Afrique centrale mais \"faible\" au niveau mondial",
       "desc": "Le risque épidémique d'Ebola en République démocratique du Congo (RDC) est jugé \"élevé\" pour l'Afrique centrale mais \"faible\" au niveau mondial par l'Organisation mondiale de la santé (OMS), selon laquelle l'épidémie est probablement apparue \"il y a plusieurs mois\".",
       "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-evoque-un-risque-eleve-en-afrique-centrale-mais-faible-au-niveau-mondial_192536?xtor=RSS-16",
@@ -370,26 +430,6 @@
       "date": "2026-05-21T08:45:58+00:00",
       "date_formatted": "21 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
       "type": "science"
     },
     {
@@ -440,136 +480,6 @@
       "date": "2026-05-18T13:49:48+00:00",
       "date_formatted": "18 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Flambée d'Ebola en RDC : ce que l'on sait de l'épidémie",
-      "desc": "L’Organisation mondiale de la santé a déclenché une alerte sanitaire internationale face à une nouvelle flambée d’Ebola en République démocratique du Congo. Alors que les autorités tentent de contenir la propagation du virus, cette résurgence suscite de vives inquiétudes et remet en lumière les défi",
-      "url": "https://www.sciencesetavenir.fr/sante/alerte-sanitaire-face-a-la-flambee-d-ebola-en-rdc-ce-que-l-on-sait-de-l-epidemie_192486?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/18/cover-r4x3w1200-6a0acd28e144e-ebola.jpg",
-      "date": "2026-05-18T09:34:18+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Le dépistage du cancer du poumon testé en France",
-      "desc": "Prises à un stade précoce, les tumeurs sont encore opérables. Ce constat a conduit au lancement du premier programme pilote de dépistage national de ce cancer diagnostiqué trop tardivement.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/le-depistage-du-cancer-du-poumon-teste-en-france_192127?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/23/cover-r4x3w1200-69ea1104afce4-12390-694736-k2-k1-1654981-jpg.jpg",
-      "date": "2026-05-16T06:00:00+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
-      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
-      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
-      "image": null,
-      "date": "2026-04-21T15:30:59+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
-      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
-      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
-      "image": null,
-      "date": "2026-04-21T08:00:54+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
-      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
-      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
-      "image": null,
-      "date": "2026-04-21T00:00:17+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
-      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
-      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
-      "image": null,
-      "date": "2026-04-16T18:00:00+00:00",
-      "date_formatted": "16 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
-      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
-      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
-      "image": null,
-      "date": "2026-04-14T13:00:00+00:00",
-      "date_formatted": "14 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
-      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
-      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
-      "image": null,
-      "date": "2026-04-03T09:21:47+00:00",
-      "date_formatted": "3 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
-      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
-      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
-      "image": null,
-      "date": "2026-03-26T16:00:46+00:00",
-      "date_formatted": "26 March 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
