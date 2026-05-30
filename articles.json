@@ -1,10 +1,80 @@
 {
-  "generated_at": "2026-05-30T01:53:26.510375+00:00",
-  "count": 59,
+  "generated_at": "2026-05-30T08:13:28.965485+00:00",
+  "count": 62,
   "articles": [
     {
-      "title": "Obésité : le remboursement sous conditions des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants",
-      "desc": "A partir du 15 juin, ces deux médicaments qui coûtent environ 300 euros par mois seront remboursés en France à hauteur de 65 % par l’Assurance maladie. Un million de personnes devraient être concernées, selon la ministre de la santé, Stéphanie Rist.",
+      "title": "Alzheimer : ce coupable caché dans le cerveau intrigue de plus en plus les chercheurs",
+      "desc": "Une avancée prometteuse dans la lutte contre Alzheimer vient d'être réalisée. Des scientifiques ont identifié un nouveau « coupable » potentiel : certaines cellules immunitaires du cerveau. Cette découverte pourrait ouvrir la voie à de nouvelles approches thérapeutiques. Quelles sont les...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-coupable-cache-cerveau-intrigue-plus-plus-chercheurs-w2t8-134833/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/6/6/e66c4c9f7c_50225963_alzheimer-cerveau.jpg",
+      "date": "2026-05-30T09:00:00+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Mort d’Edgar Morin, éternel résistant",
+      "desc": "Le philosophe, mort vendredi à l’âge de 104 ans, a tout au long de sa vie gardé sa fraîcheur et ses enthousiasmes, prêchant la fraternité contre toutes les formes de violences.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/mort-dedgar-morin-eternel-resistant-20260530_I6BIKF3QSZHANMDF6YYIOG4CYE/",
+      "image": null,
+      "date": "2026-05-30T07:36:11+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"C'est une révolution\" : pourquoi le daraxonrasib, un nouveau traitement contre le cancer du pancréas, suscite de grands espoirs",
+      "desc": "Cet anticancéreux multiplie par deux l'espérance de vie des patients atteints du cancer du pancréas, l'un des plus mortels et contre lequel peu de solutions existent. Les résultats d'une étude vont être présentés dimanche au congré annuel de cancérologie, qui se tient jusqu'à mardi.",
+      "url": "https://www.franceinfo.fr/sante/cancer/c-est-une-revolution-pourquoi-le-daraxonrasib-un-nouveau-traitement-contre-le-cancer-du-pancreas-suscite-de-grands-espoirs_8014325.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/7tjsmPyYSJHZICfsIiSxKgkxAR8/0x0:1024x576/432x243/filters:format(jpg)/2026/05/19/6a0c8111de202923912982.jpg",
+      "date": "2026-05-30T07:02:48+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "En bateau avec les gardiens du banc d’Arguin : «Protéger la biodiversité de ce lieu magique est dans notre ADN»",
+      "desc": "A l’entrée du bassin d’Arcachon, le site naturel emblématique s’efface, grignoté sous l’effet des tempêtes et de la montée des eaux. Une métamorphose qui bouscule les oiseaux et végétaux marins mais aussi le tourisme et l’ostréiculture.",
+      "url": "https://www.liberation.fr/environnement/proteger-la-biodiversite-de-ce-lieu-magique-est-dans-notre-adn-en-bateau-avec-les-gardiens-du-banc-darguin-20260530_OQHDNVTKDJBVDF65JDTO2W5KV4/",
+      "image": null,
+      "date": "2026-05-30T06:53:00+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Edgar Morin : «Adieu vieux maître», par Jean Viard",
+      "desc": "Le sociologue rend hommage à son confrère, mort à l’âge de 104 ans, qui fut son directeur de thèse et compagnon de route tout au long de sa carrière.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/mort-dedgar-morin-adieu-vieux-maitre-par-jean-viard-20260530_G26RY62635ACREEW5PR6EKJDSQ/",
+      "image": null,
+      "date": "2026-05-30T06:34:24+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Traitements contre le cancer : «La Chine est en train de devenir le leader mondial du médicament»",
+      "desc": "Ce week-end, la recherche biomédicale chinoise sera représentée parmi les cinq études les plus en vue au grand sommet de cancérologie de Chicago. Logique au vu des investissements colossaux du pays dans l’innovation et l’industrie pharmaceutique, explique Steven Le Gouill, hématologue et directeur d",
+      "url": "https://www.liberation.fr/societe/sante/traitements-contre-le-cancer-la-chine-est-en-train-de-devenir-le-leader-mondial-du-medicament-20260530_AIG46JYQVRD4RCEFEBY53FHWTI/",
+      "image": null,
+      "date": "2026-05-30T06:21:00+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Edgar Morin, 104 ans de sollicitude",
+      "desc": "L’auteur de «la Méthode», œuvre de toute une vie pour une «pensée complexe», est mort vendredi 29 mai à 104 ans. Sociologue, philosophe et homme de sciences, l’ancien résistant s’était évertué à construire des ponts entre les disciplines, passant outre les doutes et les moqueries de ses pairs, pour ",
+      "url": "https://www.liberation.fr/culture/livres/mort-dedgar-morin-104-ans-de-sollicitude-20260530_FTCMIPVQXRBWXEKZBHROWNH6UI/",
+      "image": null,
+      "date": "2026-05-30T06:04:23+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Obésité : le remboursement sous condition des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants",
+      "desc": "A partir du 15 juin, ces deux médicaments qui coûtent environ 300 euros par mois seront remboursés en France à hauteur de 65 % par l’Assurance-maladie. Un million de personnes devraient être concernées, selon la ministre de la santé, Stéphanie Rist.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/29/obesite-le-remboursement-sous-conditions-des-medicaments-wegovy-et-mounjaro-des-la-mi-juin-saluee-par-patients-et-soignants_6694818_3224.html",
       "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/030abad_upload-1-zsvnzqe57z3f-frame-459.jpg",
       "date": "2026-05-29T21:13:00+00:00",
@@ -283,16 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Anne Hathaway révèle avoir souffert d’une maladie très handicapante pendant dix ans",
-      "desc": "L’actrice n’a pas réalisé à l’époque les répercussions sur son système nerveux",
-      "url": "https://www.20minutes.fr/arts-stars/people/4225495-20260526-anne-hathaway-revele-avoir-souffert-maladie-tres-handicapante-pendant-dix-ans?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/2iUQdE90TWOgN34Sw2UEfyk/1200x768_anne-hathaway-actrice",
-      "date": "2026-05-26T15:12:36+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Maladie de l’homme de pierre : quand le corps fabrique un second squelette",
       "desc": "Maladie génétique ultra-rare, la fibrodysplasie ossifiante progressive transforme progressivement muscles et tissus conjonctifs en os. Fascinante par ses mécanismes, dramatique par ses conséquences.",
       "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/26/maladie-de-l-homme-de-pierre-quand-le-corps-fabrique-un-second-squelette_6693859_6579630.html",
@@ -373,26 +433,6 @@
       "type": "science"
     },
     {
-      "title": "Des chercheurs découvrent qu’un petit fruit riche en antioxydants pourrait renforcer les défenses naturelles de la peau",
-      "desc": "Et si la protection de notre peau passait aussi par ce que nous mangeons ? Une nouvelle étude publiée dans ACS Nutrition Science suggère qu’un petit fruit de l'automne pourrait modifier l’activité de certains gènes impliqués dans les défenses cutanées.",
-      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-chercheurs-decouvrent-quun-petit-fruit-riche-antioxydants-pourrait-renforcer-defenses-naturelles-peau-134692/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/e/d/2ed62e1ef3_50255558_peau-soleil.jpg",
-      "date": "2026-05-22T07:01:21+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cancer : ce nanomatériau détruit les tumeurs de l’intérieur sans abîmer les cellules saines",
-      "desc": "Des chercheurs viennent de concevoir un nanomatériau à base de fer capable de détruire les cellules cancéreuses de l'intérieur. Sans toucher aux tissus sains. Dans des expériences sur la souris, la tumeur a disparu complètement. Zéro récidive. Zéro effet secondaire observé.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-ce-nanomateriau-detruit-tumeurs-interieur-abimer-cellules-saines-k2m6-134539/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/d/1/3d1918553d_50255274_nanomateriau-cancer.jpg",
-      "date": "2026-05-21T18:00:00+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
       "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
       "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
@@ -469,16 +509,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/18/cover-r4x3w1200-6a0a78f95bc1c-6a6f5da597731ea67077f0895d3c8f71be31f7ad-jpg.jpg",
       "date": "2026-05-19T08:34:18+00:00",
       "date_formatted": "19 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "VIDEO. Pandémies : la menace des zoonoses",
-      "desc": "Ebola, Covid-19, Nipah… La majorité des maladies émergentes sont des zoonoses, transmises de l’animal à l’humain. Déforestation, réchauffement climatique et mondialisation favorisent leur propagation, tandis que les experts alertent sur une préparation encore insuffisante face au risque de nouvelle ",
-      "url": "https://www.sciencesetavenir.fr/sante/video-zoonoses-pourquoi-le-risque-de-pandemie-augmente-dans-le-monde_192494?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/18/cover-r4x3w1200-6a0b0f83cc659-afp-20250621-roy-notitle250621-npwof-v1-highres-indianroundleafbaturbanencounte.jpg",
-      "date": "2026-05-18T13:49:48+00:00",
-      "date_formatted": "18 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
