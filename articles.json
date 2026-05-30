@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-05-30T12:58:59.979055+00:00",
-  "count": 59,
+  "generated_at": "2026-05-30T18:56:31.029654+00:00",
+  "count": 56,
   "articles": [
     {
-      "title": "«Humanisme fait personne», «penseur», «résistant»… Les politiques unanimes après la mort d’Edgar Morin",
-      "desc": "Figure intellectuelle majeure, le long parcours de celui qui est mort à 104 ans vendredi 29 mai a été salué par de nombreux responsables politiques de tous bords.",
-      "url": "https://www.liberation.fr/societe/humanisme-fait-personne-penseur-resistant-les-politiques-unanimes-apres-la-mort-dedgar-morin-20260530_Q7REK4ABWJBV7K6UYSYL3XTHWY/",
+      "title": "\"Vous n'êtes pas seuls\" : le directeur général de l'Organisation mondiale de la santé apporte son soutien à la population congolaise affectée par le virus Ebola",
+      "desc": "Tedros Adhanom Ghebreyesu s'est rendu samedi à Bunia en République démocratique du Congo, pour manifester son soutien aux habitants de la capitale de la province de l'Ituri, épicentre de la grave épidémie d'Ebola qui y progresse. \"Nous sommes là, à vos côtés, et nous surmonterons cette situation ens",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/vous-n-etes-pas-seuls-le-directeur-general-de-l-organisation-mondiale-de-la-sante-apporte-son-soutien-a-la-population-congolaise-affectee-par-le-virus-ebola_8037512.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ZlEV1IPPVGlUKWDMcYOL4QxE-Ko/0x178:4200x2540/432x243/filters:format(jpg)/2026/05/30/6a1b1c9242936860079621.jpg",
+      "date": "2026-05-30T19:42:48+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : « Nous surmonterons cette situation ensemble », dit le chef de l’OMS, en visite dans l’épicentre de l’épidémie",
+      "desc": "L’Organisation mondiale de la santé a annoncé, samedi, que ses groupes consultatifs avaient recommandé des essais cliniques pour plusieurs vaccins et traitements potentiellement efficaces contre l’espèce Bundibugyo, responsable de la nouvelle épidémie en République démocratique du Congo.",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/30/ebola-nous-surmonterons-cette-situation-ensemble-dit-le-chef-de-l-oms-en-visite-dans-l-epicentre-de-l-epidemie_6695282_3224.html",
+      "image": "https://img.lemde.fr/2026/05/30/534/0/6977/3488/644/322/60/0/3773804_ftp-1-f9nawgcba8mc-5181160-01-06.jpg",
+      "date": "2026-05-30T19:07:14+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Edgar Morin : «Jusqu’au bout, il a gardé une urgence à vivre», par Cyril Dion",
+      "desc": "Ecrivain et cinéaste, le militant écologiste rend hommage au sociologue et philosophe, mort samedi à 104 ans.",
+      "url": "https://www.liberation.fr/idees-et-debats/mort-dedgar-morin-jusquau-bout-il-a-garde-une-urgence-a-vivre-par-cyril-dion-20260530_2HHSRMMSJVCOTBVLZIGQTLTAUY/",
       "image": null,
-      "date": "2026-05-30T12:54:18+00:00",
+      "date": "2026-05-30T15:20:19+00:00",
       "date_formatted": "30 May 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "«Son ciel de cendres» de Valérie Cibot, l’inconnu du lac",
-      "desc": "Le deuil et l’effondrement dans un conte presque voltairien.",
-      "url": "https://www.liberation.fr/culture/livres/son-ciel-de-cendres-de-valerie-cibot-linconnu-du-lac-20260530_NRRTRHBEYJC3RCSP4LHQCAIMUE/",
-      "image": null,
-      "date": "2026-05-30T10:51:00+00:00",
+      "title": "A Mayotte, la recrudescence de cas de paludisme et la crainte d’une réinstallation durable de la maladie",
+      "desc": "Depuis le début de l’année, le département a enregistré 171 cas de cette maladie transmise par les moustiques du genre « Anopheles », dont 29 ont nécessité une hospitalisation, avec une nette accélération depuis fin avril.",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/30/a-mayotte-la-recrudescence-de-cas-de-paludisme-et-la-crainte-d-une-reinstallation-durable-de-la-maladie_6695261_3244.html",
+      "image": "https://img.lemde.fr/2026/05/29/552/0/6620/3310/644/322/60/0/c3d25ca_upload-1-iwjq2fdnwtt4-000-33ex7re.jpg",
+      "date": "2026-05-30T15:00:04+00:00",
       "date_formatted": "30 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Au Canada, un homme accusé d’avoir vendu des centaines de «kits de suicide» en ligne plaide coupable",
-      "desc": "L’ex-cuisinier âgé de 60 ans est accusé d’avoir fourni aux victimes du nitrite de sodium, une substance légale pouvant être létale à partir d’une certaine dose mais n’est pas poursuivi pour meurtre, au grand dam des familles de victimes. Il aurait envoyé ses colis dans plusieurs pays, dont le Canada",
-      "url": "https://www.liberation.fr/societe/police-justice/au-canada-un-homme-accuse-davoir-vendu-des-centaines-de-kits-de-suicide-en-ligne-plaide-coupable-20260530_HHR4XEHPWJDSTOIBCQOJFEP25M/",
-      "image": null,
-      "date": "2026-05-30T10:34:32+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Timmy, la baleine échouée retrouvée morte au Danemark, est déplacée pour être autopsiée",
-      "desc": "Le mammifère s’était échoué plusieurs semaines en Allemagne avant d’être retrouvé mort le 16 mai. Son déplacement a eu lieu ce samedi 30 mai au matin, selon le quotidien «Bild».",
-      "url": "https://www.liberation.fr/environnement/biodiversite/timmy-la-baleine-echouee-retrouvee-morte-au-danemark-est-deplacee-pour-etre-autopsiee-20260530_HXEKT5SKFZEYVPIWYZ3ESGQKY4/",
-      "image": null,
-      "date": "2026-05-30T09:30:27+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Libération",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -161,16 +161,6 @@
       "date_formatted": "29 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "\"Cela coûte des vies\" : en République démocratique du Congo, la lutte contre Ebola pâtit des coupes budgétaires dans l'aide internationale",
-      "desc": "Dans le pays touché par l'épidémie actuelle, l'assistance humanitaire américaine est passée de 881 millions à 115 millions de dollars sous l'impulsion de Donald Trump.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/cela-coute-des-vies-en-republique-democratique-du-congo-la-lutte-contre-ebola-patit-des-coupes-budgetaires-dans-l-aide-internationale_8031455.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/c7CBc7s98mcWkdDMOiW7Zs-rHPw/0x80:1024x656/432x243/filters:format(jpg)/2026/05/28/6a184f3e1a31b101328870.jpg",
-      "date": "2026-05-29T05:59:54+00:00",
-      "date_formatted": "29 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola Bundibugyo : un vaccin attendu d’ici fin 2026 pour stopper l’épidémie",
@@ -379,26 +369,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/0/7/d07297456c_50255597_pollution-cerveau.jpg",
       "date": "2026-05-23T12:07:25+00:00",
       "date_formatted": "23 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Alzheimer : cet aliment très courant est associé à un risque réduit de 27 % de la maladie dans une vaste étude",
-      "desc": "Et si prévenir la maladie d’Alzheimer passait aussi par l’assiette ? Des chercheurs ont observé des résultats étonnants chez des milliers de seniors suivis pendant plus de quinze ans.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-cet-aliment-tres-courant-associe-risque-reduit-27-maladie-vaste-etude-134593/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/4/3/f43bd0f860_50255367_nutrition-cerveau-alzheimer.jpg",
-      "date": "2026-05-22T12:08:29+00:00",
-      "date_formatted": "22 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "25 millions de personnes touchées par Parkinson en 2050 : voici la piste qui change la donne",
-      "desc": "25 millions : c'est le nombre de personnes que la maladie de Parkinson pourrait toucher dans le monde d'ici 2050, contre 11,8 millions en 2021. Aucun traitement ne guérit encore cette pathologie. Mais une découverte récente sur le comportement d'une protéine clé change la donne et pourrait...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-25-millions-personnes-touchees-parkinson-2050-voici-piste-change-donne-134542/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/d/1/dd16b29bf5_50255280_maladie-parkinson-dopamine-proteines.jpg",
-      "date": "2026-05-22T10:00:00+00:00",
-      "date_formatted": "22 May 2026",
       "source": "Futura Santé",
       "type": "science"
     },
