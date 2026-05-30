@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-05-30T08:13:28.965485+00:00",
-  "count": 62,
+  "generated_at": "2026-05-30T12:58:59.979055+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "«Humanisme fait personne», «penseur», «résistant»… Les politiques unanimes après la mort d’Edgar Morin",
+      "desc": "Figure intellectuelle majeure, le long parcours de celui qui est mort à 104 ans vendredi 29 mai a été salué par de nombreux responsables politiques de tous bords.",
+      "url": "https://www.liberation.fr/societe/humanisme-fait-personne-penseur-resistant-les-politiques-unanimes-apres-la-mort-dedgar-morin-20260530_Q7REK4ABWJBV7K6UYSYL3XTHWY/",
+      "image": null,
+      "date": "2026-05-30T12:54:18+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Son ciel de cendres» de Valérie Cibot, l’inconnu du lac",
+      "desc": "Le deuil et l’effondrement dans un conte presque voltairien.",
+      "url": "https://www.liberation.fr/culture/livres/son-ciel-de-cendres-de-valerie-cibot-linconnu-du-lac-20260530_NRRTRHBEYJC3RCSP4LHQCAIMUE/",
+      "image": null,
+      "date": "2026-05-30T10:51:00+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au Canada, un homme accusé d’avoir vendu des centaines de «kits de suicide» en ligne plaide coupable",
+      "desc": "L’ex-cuisinier âgé de 60 ans est accusé d’avoir fourni aux victimes du nitrite de sodium, une substance légale pouvant être létale à partir d’une certaine dose mais n’est pas poursuivi pour meurtre, au grand dam des familles de victimes. Il aurait envoyé ses colis dans plusieurs pays, dont le Canada",
+      "url": "https://www.liberation.fr/societe/police-justice/au-canada-un-homme-accuse-davoir-vendu-des-centaines-de-kits-de-suicide-en-ligne-plaide-coupable-20260530_HHR4XEHPWJDSTOIBCQOJFEP25M/",
+      "image": null,
+      "date": "2026-05-30T10:34:32+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Timmy, la baleine échouée retrouvée morte au Danemark, est déplacée pour être autopsiée",
+      "desc": "Le mammifère s’était échoué plusieurs semaines en Allemagne avant d’être retrouvé mort le 16 mai. Son déplacement a eu lieu ce samedi 30 mai au matin, selon le quotidien «Bild».",
+      "url": "https://www.liberation.fr/environnement/biodiversite/timmy-la-baleine-echouee-retrouvee-morte-au-danemark-est-deplacee-pour-etre-autopsiee-20260530_HXEKT5SKFZEYVPIWYZ3ESGQKY4/",
+      "image": null,
+      "date": "2026-05-30T09:30:27+00:00",
+      "date_formatted": "30 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Alzheimer : ce coupable caché dans le cerveau intrigue de plus en plus les chercheurs",
       "desc": "Une avancée prometteuse dans la lutte contre Alzheimer vient d'être réalisée. Des scientifiques ont identifié un nouveau « coupable » potentiel : certaines cellules immunitaires du cerveau. Cette découverte pourrait ouvrir la voie à de nouvelles approches thérapeutiques. Quelles sont les...",
@@ -13,16 +53,6 @@
       "type": "science"
     },
     {
-      "title": "Mort d’Edgar Morin, éternel résistant",
-      "desc": "Le philosophe, mort vendredi à l’âge de 104 ans, a tout au long de sa vie gardé sa fraîcheur et ses enthousiasmes, prêchant la fraternité contre toutes les formes de violences.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/mort-dedgar-morin-eternel-resistant-20260530_I6BIKF3QSZHANMDF6YYIOG4CYE/",
-      "image": null,
-      "date": "2026-05-30T07:36:11+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "\"C'est une révolution\" : pourquoi le daraxonrasib, un nouveau traitement contre le cancer du pancréas, suscite de grands espoirs",
       "desc": "Cet anticancéreux multiplie par deux l'espérance de vie des patients atteints du cancer du pancréas, l'un des plus mortels et contre lequel peu de solutions existent. Les résultats d'une étude vont être présentés dimanche au congré annuel de cancérologie, qui se tient jusqu'à mardi.",
       "url": "https://www.franceinfo.fr/sante/cancer/c-est-une-revolution-pourquoi-le-daraxonrasib-un-nouveau-traitement-contre-le-cancer-du-pancreas-suscite-de-grands-espoirs_8014325.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -30,46 +60,6 @@
       "date": "2026-05-30T07:02:48+00:00",
       "date_formatted": "30 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En bateau avec les gardiens du banc d’Arguin : «Protéger la biodiversité de ce lieu magique est dans notre ADN»",
-      "desc": "A l’entrée du bassin d’Arcachon, le site naturel emblématique s’efface, grignoté sous l’effet des tempêtes et de la montée des eaux. Une métamorphose qui bouscule les oiseaux et végétaux marins mais aussi le tourisme et l’ostréiculture.",
-      "url": "https://www.liberation.fr/environnement/proteger-la-biodiversite-de-ce-lieu-magique-est-dans-notre-adn-en-bateau-avec-les-gardiens-du-banc-darguin-20260530_OQHDNVTKDJBVDF65JDTO2W5KV4/",
-      "image": null,
-      "date": "2026-05-30T06:53:00+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’Edgar Morin : «Adieu vieux maître», par Jean Viard",
-      "desc": "Le sociologue rend hommage à son confrère, mort à l’âge de 104 ans, qui fut son directeur de thèse et compagnon de route tout au long de sa carrière.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/mort-dedgar-morin-adieu-vieux-maitre-par-jean-viard-20260530_G26RY62635ACREEW5PR6EKJDSQ/",
-      "image": null,
-      "date": "2026-05-30T06:34:24+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Traitements contre le cancer : «La Chine est en train de devenir le leader mondial du médicament»",
-      "desc": "Ce week-end, la recherche biomédicale chinoise sera représentée parmi les cinq études les plus en vue au grand sommet de cancérologie de Chicago. Logique au vu des investissements colossaux du pays dans l’innovation et l’industrie pharmaceutique, explique Steven Le Gouill, hématologue et directeur d",
-      "url": "https://www.liberation.fr/societe/sante/traitements-contre-le-cancer-la-chine-est-en-train-de-devenir-le-leader-mondial-du-medicament-20260530_AIG46JYQVRD4RCEFEBY53FHWTI/",
-      "image": null,
-      "date": "2026-05-30T06:21:00+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’Edgar Morin, 104 ans de sollicitude",
-      "desc": "L’auteur de «la Méthode», œuvre de toute une vie pour une «pensée complexe», est mort vendredi 29 mai à 104 ans. Sociologue, philosophe et homme de sciences, l’ancien résistant s’était évertué à construire des ponts entre les disciplines, passant outre les doutes et les moqueries de ses pairs, pour ",
-      "url": "https://www.liberation.fr/culture/livres/mort-dedgar-morin-104-ans-de-sollicitude-20260530_FTCMIPVQXRBWXEKZBHROWNH6UI/",
-      "image": null,
-      "date": "2026-05-30T06:04:23+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -183,16 +173,6 @@
       "type": "presse"
     },
     {
-      "title": "Deux médicaments anti-obésité seront bientôt remboursés par l'assurance maladie selon des critères stricts",
-      "desc": "Ce sont les traitements les plus populaires du moment: les médicaments anti obésité Wegovy et Mounjaro seront désormais remboursés par l’Assurance-maladie. Seuls les patients souffrant d’obésité sévère sont concernés.",
-      "url": "https://www.franceinfo.fr/sante/deux-medicaments-anti-obesite-seront-bientot-rembourses-par-l-assurance-maladie-selon-des-criteres-stricts_8034527.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ZYI2rKSNr32bYvpIN3v4QVpzLmg/0x58:1310x795/432x243/filters:format(jpg)/2026/05/28/6a1899448fdc4753297505.png",
-      "date": "2026-05-28T23:07:00+00:00",
-      "date_formatted": "28 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola Bundibugyo : un vaccin attendu d’ici fin 2026 pour stopper l’épidémie",
       "desc": "Le Centre africain de contrôle et de prévention des maladies mise sur la recherche et la coopération internationale pour accélérer la mise au point d’un vaccin efficace. La Somalie a rejoint la liste de désormais onze pays à risque d’être touchés par le virus, en plus de la RDC et de l’Ouganda.",
       "url": "https://www.lemonde.fr/sante/article/2026/05/28/ebola-bundibugyo-un-vaccin-attendu-d-ici-fin-2026-pour-stopper-l-epidemie_6694525_1651302.html",
@@ -298,16 +278,6 @@
       "url": "https://www.20minutes.fr/sante/4225655-20260527-chauffeur-taxi-suit-conseil-passager-cancer-detecte-temps-aujourd-hui-gueri?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/1KwSHxlTSTGPeZLIkefnlyk/1200x768_le-chauffeur-de-taxi-a-pu-etre-soigne-a-temps-illustration",
       "date": "2026-05-27T11:32:36+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : Certains cas contacts ont contesté (en vain) en justice les mesures d’isolement",
-      "desc": "Quelques-uns des 22 cas contacts français des passagers du bateau de croisière « MV Hondius » ont contesté devant la justice les mesures d’isolement préventif imposées par le gouvernement, mais « la justice a validé la légalité de ces décisions »",
-      "url": "https://www.20minutes.fr/sante/4225595-20260527-hantavirus-certains-cas-contacts-conteste-vain-justice-mesures-isolement?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/qXT91700SFe6mwVb6rlTlik/1200x768_19-mai-2026-rotterdam-hollande-meridionale-pays-bas-19-mai-2026-rotterdam-pays-bas-le-m-v-hondius-amarre-dans-le-port-de-rotterdam-fait-actuellement-l-objet-d-un-processus-de-desinfection-complet-cela-devrait-etre-termine-le-vendredi-22-mai-une-fois-cette-operation-terminee-le-navire-sera-remis-en-service-image-de-credit-james-petermeier-zuma-press-wire-20260519-zip-p202-007-zeus-2605191519",
-      "date": "2026-05-27T07:12:53+00:00",
       "date_formatted": "27 May 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
