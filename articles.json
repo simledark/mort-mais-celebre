@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-05-31T08:32:13.276687+00:00",
-  "count": 58,
+  "generated_at": "2026-05-31T13:08:01.583207+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "Cancers du pancréas : l’efficacité d’un traitement innovant présenté à Chicago, alors qu’un programme de prévention se déploie en France",
+      "desc": "En cas de tumeur métastatique du pancréas, une nouvelle molécule, le daraxonrasib, double la survie, a montré un essai international présenté au congrès de la Société américaine d’oncologie clinique, dimanche. En France, un programme de dépistage et de prévention personnalisé, lancé par l’Institut G",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/31/cancers-du-pancreas-l-efficacite-d-un-traitement-innovant-presente-a-chicago-alors-qu-un-programme-de-prevention-se-deploie-en-france_6695584_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/29/500/0/6000/3000/644/322/60/0/1202424_upload-1-jrgco4lftoal-000-1he19i-1.jpg",
+      "date": "2026-05-31T15:04:32+00:00",
+      "date_formatted": "31 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Les médicaments anti-obésité ont aussi un effet contre le cancer, selon des chercheurs américains",
+      "desc": "Alors que le Mounjaro et le Wegovy, des traitements coupe-faim, seront bientôt remboursés en France, des chercheurs viennent d'exposer au Congrès annuel contre le cancer, qu’ils ont aussi un effet sur le développement des métastases. Reste à démontrer s’il est direct ou indirect.",
+      "url": "https://www.franceinfo.fr/sante/cancer/les-medicaments-anti-obesite-ont-aussi-un-effet-contre-le-cancer-selon-des-chercheurs-americains_8038076.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ZYDKpGQaf3-o21PTODvxf-y2Sjw/0x230:5372x3252/432x243/filters:format(jpg)/2026/05/31/6a1bfe4db1698734325048.jpg",
+      "date": "2026-05-31T11:45:11+00:00",
+      "date_formatted": "31 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : l’OMS publie ses recommandations sur les traitements et les vaccins contre le virus Bundibugyo",
+      "desc": "Alors que son directeur général se rendait ce week-end dans la province congolaise d’Ituri, épicentre de l’épidémie, l’Organisation mondiale de la santé a fait le point sur les traitements et les vaccins candidats, dont l’évaluation prendra encore plusieurs mois.",
+      "url": "https://www.liberation.fr/societe/sante/ebola-loms-publie-ses-recommandations-sur-les-traitements-et-les-vaccins-contre-le-virus-bundibugyo-20260531_PLFLER6VXBH7ZPRNFWXH77NLN4/",
+      "image": null,
+      "date": "2026-05-31T10:05:12+00:00",
+      "date_formatted": "31 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cynthia Fleury : «Edgar Morin était un camarade, quelqu’un qui élargit votre monde sans jamais l’occuper à votre place»",
+      "desc": "La philosophe et psychanalyste rend hommage au sociologue et philosophe, mort samedi à 104 ans. Elle décrit un arpenteur de la complexité qui savait faire dialoguer ce qui semblait incompatible et maintenir ensemble des mondes qui s’ignorent.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/cynthia-fleury-edgar-morin-etait-un-camarade-quelquun-qui-elargit-votre-monde-sans-jamais-loccuper-a-votre-place-20260531_JK62OQSOSZE6JE6QHKN7KUDECQ/",
+      "image": null,
+      "date": "2026-05-31T08:30:35+00:00",
+      "date_formatted": "31 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Cet acide aminé essentiel pourrait avoir des effets surprenants sur le vieillissement selon des chercheurs",
       "desc": "Le secret de la longévité était-il sous nos yeux depuis le début ? C'est ce que suggère une équipe de chercheurs de l'université du Wisconsin (États-Unis) qui a mis au jour le rôle phare que jouerait un acide aminé sur notre état de santé et notre durée de vie.",
@@ -40,16 +80,6 @@
       "date": "2026-05-31T05:30:08+00:00",
       "date_formatted": "31 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Victoire du PSG en Ligue des champions : «Paris est magique, fallait être confiants jusqu’au bout»",
-      "desc": "Sous 35 degrés et entre pintes tièdes, fumigènes et écrans bricolés, le quartier des Rigoles, dans le XXe arrondissement, a vécu la deuxième ligue consécutive de la Ligue des champions du PSG au rythme des klaxons, des tirs au but et des cris de soulagement.",
-      "url": "https://www.liberation.fr/sports/football/victoire-du-psg-paris-est-magique-fallait-etre-confiants-jusquau-bout-20260530_5UFN4GKGSRD25BNM6OROWYDMRI/",
-      "image": null,
-      "date": "2026-05-30T20:24:35+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -138,16 +168,6 @@
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-a-l-institut-pasteur-les-chercheurs-ont-mis-au-point-un-traitement-pour-empecher-les-symptomes-de-la-maladie_8035022.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/-Sgzml3sRXnDB-wffeIny25_KGo/0x0:1024x576/432x243/filters:format(jpg)/2026/05/15/6a06acb93d792138735022.jpg",
       "date": "2026-05-29T16:27:07+00:00",
-      "date_formatted": "29 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Epidémie d'Ebola : une première guérison enregistrée en République démocratique du Congo, annonce l'OMS",
-      "desc": "Il s'agit de \"la première personne admise dans un centre de soins à avoir été renvoyée chez elle après deux tests négatifs\" depuis le début de l'épidémie, a affirmé Anaïs Legand, experte à l'Organisation mondiale de la santé.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/epidemie-d-ebola-une-premiere-guerison-enregistree-en-republique-democratique-du-congo-annonce-l-oms_8035607.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/2yMSUNYh16G0ny_2ya4sy2VUzpc/0x106:1024x682/432x243/filters:format(jpg)/2026/05/29/6a19856756ee3192875291.jpg",
-      "date": "2026-05-29T14:50:05+00:00",
       "date_formatted": "29 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -338,16 +358,6 @@
       "url": "https://www.lemonde.fr/sciences/article/2026/05/26/aux-etats-unis-les-repliques-de-la-pandemie-de-covid-19-secouent-la-recherche-en-virologie_6693918_1650684.html",
       "image": "https://img.lemde.fr/2026/05/22/233/0/2795/1397/644/322/60/0/248a5e2_upload-1-o6eecsvjngpr-gettyimages-1205092917.jpg",
       "date": "2026-05-26T17:28:44+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Maladie de l’homme de pierre : quand le corps fabrique un second squelette",
-      "desc": "Maladie génétique ultra-rare, la fibrodysplasie ossifiante progressive transforme progressivement muscles et tissus conjonctifs en os. Fascinante par ses mécanismes, dramatique par ses conséquences.",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/26/maladie-de-l-homme-de-pierre-quand-le-corps-fabrique-un-second-squelette_6693859_6579630.html",
-      "image": "https://img.lemde.fr/2026/03/20/167/0/333/166/644/322/60/0/4627cb4_upload-1-vyfsvzxvp7ap-fibrodysplasie-ossifiante-progressive-maladie-de-l-homme-de-pierre.jpg",
-      "date": "2026-05-26T09:16:39+00:00",
       "date_formatted": "26 May 2026",
       "source": "Le Monde Science",
       "type": "science"
