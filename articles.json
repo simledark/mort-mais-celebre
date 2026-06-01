@@ -1,23 +1,133 @@
 {
-  "generated_at": "2026-06-01T11:05:04.109506+00:00",
-  "count": 62,
+  "generated_at": "2026-06-01T17:13:00.953367+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title": "« On a eu peur de perdre le bébé. Un jour ça allait, un jour ça n’allait plus » : au chevet des nouveau-nés prématurés, au CHU de Rouen",
+      "desc": "Soins visant à favoriser le développement, accent mis sur l’implication parentale : dans les services de néonatalogie français, la prise en charge des bébés nés bien trop tôt s’est considérablement améliorée. Pourtant, les indicateurs de mortalité se dégradent.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/01/on-a-eu-peur-de-perdre-le-bebe-un-jour-ca-allait-un-jour-ca-n-allait-plus-au-chevet-des-nouveau-nes-prematures-au-chu-de-rouen_6695993_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/28/504/0/6016/3008/644/322/60/0/a37bc04_upload-1-wcwmvqkcdz9n-neonatalogiechurouen054.jpg",
+      "date": "2026-06-01T17:46:45+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "VIDEO Ebola : le directeur de l’OMS en République démocratique du Congo",
+      "desc": "Les groupes consultatifs de l’OMS ont recommandé des essais cliniques pour plusieurs vaccins et traitements potentiellement efficaces contre l’espèce Bundibugyo, responsable de l’épidémie qui sévit depuis la mi-mai.",
+      "url": "https://www.lemonde.fr/sante/video/2026/06/01/ebola-les-images-du-directeur-de-l-oms-en-republique-democratique-du-congo_6695991_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/31/433/0/5500/2750/644/322/60/0/0bb8f69_ftp-1-ydvfehxgqea1-2026-05-31t141839z-549929558-rc2eklamnh22-rtrmadp-3-health-ebola-who.JPG",
+      "date": "2026-06-01T17:45:21+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la prostate : deux études présentées au Congrès annuel de Chicago révèlent des résultats très prometteurs",
+      "desc": "De nouveaux traitements se concentrent sur des formes agressives de ce cancer, et permettent notamment de réduire le risque de décès ou d'apparition de métastases.",
+      "url": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-deux-etudes-presentees-au-congres-annuel-de-chicago-revelent-des-resultats-tres-prometteurs_8039621.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/9lZ1OY4eE72SLXn3nzL71wXzdb0/0x572:4624x3173/432x243/filters:format(jpg)/2026/06/01/6a1d977ce2257313117039.jpg",
+      "date": "2026-06-01T17:19:22+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Transformer l’ADN en produit de consommation serait une erreur aux conséquences durables »",
+      "desc": "Dans une tribune au « Monde », les généticiens François Petit et Sandra Mercier évoquent la possible autorisation en France des tests ADN en accès libre. Sans y être catégoriquement opposés, ils soulignent toutefois l’absence d’accompagnement après la réception des résultats, qui peuvent être déstab",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/01/transformer-l-adn-en-produit-de-consommation-serait-une-erreur-aux-consequences-durables_6695985_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/eaef2a1_upload-1-rxhw2li2wx3u-frame-911.jpg",
+      "date": "2026-06-01T17:00:11+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Cinéma : Nastassja Kinski souffre des images d’elle nue adolescente, à quand un droit à l’oubli ?",
+      "desc": "L’actrice allemande bataille pour faire couper une scène à connotation sexuelle d’un film de Wim Wenders, dans lequel elle a joué à l’âge de 13 ans. Si l’enjeu de la liberté de création est capital, quid de la protection des mineurs ?",
+      "url": "https://www.liberation.fr/culture/cinema/cinema-nastassja-kinski-souffre-des-images-delle-nue-adolescente-a-quand-un-droit-a-loubli-20260601_PMWDVILQ4FGSHHDXJOOOEFVBV4/",
+      "image": null,
+      "date": "2026-06-01T16:55:44+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Victoire du PSG : un mort, deux blessés graves et de premières audiences en comparution immédiate",
+      "desc": "Plusieurs enquêtes sont en cours à la suite des événements survenus après la victoire du club de football parisien. Deux personnes gravement blessées sont hospitalisées, tandis que de premières audiences ont débuté ce lundi 1er juin au tribunal judiciaire de Paris.",
+      "url": "https://www.liberation.fr/societe/police-justice/victoire-du-psg-un-mort-deux-blesses-graves-et-de-premieres-audiences-en-comparution-immediate-20260601_KE422ONDN5FUXAMMSOVQFBJTY4/",
+      "image": null,
+      "date": "2026-06-01T16:50:13+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Victoire du PSG : les images de LCI de la porte Maillot ne montrent pas l’accident mortel mais un premier choc qui a fait deux blessés",
+      "desc": "Largement diffusée, la séquence a été présentée comme celle de l’accident qui a coûté, dans la nuit de samedi 30 à dimanche 31 mai, la vie à un jeune de 24 ans. Il s’agit en réalité d’un premier accident non mortel, intervenu une heure et demie plus tôt au même endroit.",
+      "url": "https://www.liberation.fr/checknews/victoire-du-psg-les-images-de-lci-de-la-porte-maillot-ne-montrent-pas-laccident-mortel-mais-un-premier-choc-qui-a-fait-deux-blesses-20260601_6RF2GOXSKZG4NAMPW255Y6QRNA/",
+      "image": null,
+      "date": "2026-06-01T16:44:36+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’André Santini, investissements records à Choose France, Duralex en redressement judiciaire… l’actu de ce lundi 1er juin",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+      "url": "https://www.liberation.fr/international/europe/mort-dandre-santini-investissements-records-a-choose-france-duralex-en-redressement-judiciaire-lactu-de-ce-lundi-1er-juin-20260601_PFWIRY3VDZGH3I4PXRFEAUILUQ/",
+      "image": null,
+      "date": "2026-06-01T16:32:13+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le laboratoire Servier mise 1,33 milliard d’euros sur des traitements contre les dystrophies musculaires",
+      "desc": "Le groupe pharmaceutique français rachète l’activité dystrophie musculaire de l’américain Edgewise Therapeutics, incluant un traitement expérimental contre les maladies de Duchenne et de Becker.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/01/le-laboratoire-servier-mise-1-33-milliard-d-euros-sur-des-traitements-contre-les-dystrophies-musculaires_6695980_3234.html",
+      "image": "https://img.lemde.fr/2026/06/01/408/0/4928/2464/644/322/60/0/51d284f_upload-1-q7wkxc8jzqho-000-s38gc.jpg",
+      "date": "2026-06-01T16:21:55+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : Des vermifuges présentés à tort comme des remèdes miracles sur les réseaux sociaux",
+      "desc": "Une nouvelle tendance consistant à prendre des vermifuges (parfois vétérinaires) pour lutter contre le cancer se répand sur les réseaux sociaux, avec de nombreux risques de santé à la clé",
+      "url": "https://www.20minutes.fr/sante/4226597-20260601-cancer-vermifuges-presentes-tort-comme-remedes-miracles-reseaux-sociaux?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/msn2VJlqQAqVNRS9K4Monyk/1200x768_l-efficacite-de-ces-pretendus-traitements-contre-les-cancers-n-a-pas-ete-prouvee",
+      "date": "2026-06-01T15:02:37+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La PrEP, outil de première ligne dans la prévention du Sida, encore trop peu connue",
+      "desc": "La PrEP, destinée à des personnes qui n'ont pas le VIH, est devenue cruciale dans la lutte contre l'épidémie de Sida. Problème : elle est encore peu connue et peu accessible pour les populations les plus vulnérables.",
+      "url": "https://www.sciencesetavenir.fr/sante/la-prep-outil-de-premiere-ligne-dans-la-prevention-du-sida-encore-trop-peu-connue_192834?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/01/cover-r4x3w1200-6a1d70bda5bc7-afp-20220414-f0356175-v1-highres-prepdrugsillustration.jpg",
+      "date": "2026-06-01T14:05:55+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "REPORTAGE. A la frontière entre le Rwanda et la République démocratique du Congo, vigilance et résilience face au risque Ebola",
+      "desc": "L’épidémie du virus sévit depuis plusieurs semaines à l’est de la RDC, tandis que les pays frontaliers tentent de se protéger des risques de propagation sur leur territoire. Au Rwanda, l'inquiétude plane malgré les restrictions annoncées par les autorités.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-c-est-complique-ca-m-inquiete-trop-par-crainte-d-une-epidemie-d-ebola-des-familles-desormais-separees-par-la-frontiere-entre-le-rwanda-et-la-republique-democratique-du-congo_8038448.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/vd0gNQeO7N-TS65-5ZcGksZCTbA/0x0:2560x1440/432x243/filters:format(jpg)/2026/05/31/6a1c637f55f97166330197.jpg",
+      "date": "2026-06-01T13:24:28+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Qu'est-ce la PrEP, ce traitement préventif efficace contre le VIH, qui devrait être proposé à \"toutes et tous\", selon le Conseil national du sida ?",
       "desc": "Si cette méthode est disponible en France depuis 2016, intégralement prise en charge par l'assurance maladie, son recours \"reste insuffisant\", alerte le Conseil national du sida et des hépatites virales.",
       "url": "https://www.franceinfo.fr/sante/qu-est-ce-la-prep-ce-traitement-preventif-efficace-contre-le-vih-qui-devrait-etre-propose-a-toutes-et-tous-selon-le-conseil-national-du-sida_8039330.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/99PoI_UWv1T5nbaiZEZIujcg4zw/0x564:3000x2250/432x243/filters:format(jpg)/2024/03/22/maxnewsfrthree430920-65fd5b10795c3080363301.jpg",
       "date": "2026-06-01T12:56:22+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "REPORTAGE. \"C'est compliqué, ça m'inquiète trop\" : par crainte d'une épidémie d'Ebola, des familles désormais séparées par la frontière entre le Rwanda et la République démocratique du Congo",
-      "desc": "L’épidémie du virus sévit depuis plusieurs semaines à l’est de la RDC, tandis que les pays frontaliers tentent de se protéger des risques de propagation sur leur territoire. Au Rwanda, l'inquiétude plane malgré les restrictions annoncées par les autorités.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-c-est-complique-ca-m-inquiete-trop-par-crainte-d-une-epidemie-d-ebola-des-familles-desormais-separees-par-la-frontiere-entre-le-rwanda-et-la-republique-democratique-du-congo_8038448.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/vd0gNQeO7N-TS65-5ZcGksZCTbA/0x0:2560x1440/432x243/filters:format(jpg)/2026/05/31/6a1c637f55f97166330197.jpg",
-      "date": "2026-06-01T12:01:15+00:00",
       "date_formatted": "1 June 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -33,18 +143,8 @@
       "type": "presse"
     },
     {
-      "title": "Médicaments anti-obésité : le Wegovy et le Mounjaro seront remboursés à compter de la mi-juin",
-      "desc": "La ministre de la Santé l’a annoncé jeudi 28 mai. L’Assurance maladie remboursera, pour un nombre restreint de malades, 65 % du prix fixé entre les laboratoires et les autorités sanitaires. Il variera de 146,91 à 433,80 euros, en fonction de la dose et de la molécule.",
-      "url": "https://www.liberation.fr/societe/sante/medicaments-anti-obesite-le-wegovy-et-le-mounjaro-en-passe-detre-rembourses-20260527_OPTBN6TTDVGTPOUURKDMCTCFOM/",
-      "image": null,
-      "date": "2026-06-01T10:48:51+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un nouveau médicament contre le cancer du pancréas double le taux de survie",
-      "desc": "Le daraxonrasib, un nouveau médicament qui bloque une protéine responsable du cancer du pancréas, permet d'améliorer le taux de survie de ce cancer très agressif.",
+      "title": "Un nouveau médicament contre le cancer du pancréas double l'espérance de vie, une révolution pour les spécialistes",
+      "desc": "Le daraxonrasib, un nouveau médicament qui bloque une protéine responsable du cancer du pancréas, permet d'allonger la durée de survie de ce cancer très agressif tout en ouvrant une porte pleine d'espoir dans la recherche.",
       "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/une-vague-de-biotechnologies-porteuse-d-espoir-les-nouvelles-techniques-contre-le-cancer-ouvrent-la-voie-a-de-nouveaux-medicaments_8038940.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/qLm8SFNqYBohCh2kFGiQTQGRjqg/0x48:4000x2297/432x243/filters:format(jpg)/2024/08/28/maxstockworld468150-66cf953eda023015766353.jpg",
       "date": "2026-06-01T10:34:52+00:00",
@@ -70,26 +170,6 @@
       "date": "2026-06-01T09:25:20+00:00",
       "date_formatted": "1 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le maire historique et controversé d’Issy-les-Moulineaux, André Santini, est mort à 85 ans",
-      "desc": "A la tête de la ville des Hauts-de-Seine depuis 1980, l’ancien ministre et député a été le bâtisseur de sa ville avant d’être mis en cause dans plusieurs affaires, notamment d’agression et de harcèlement sexuel.",
-      "url": "https://www.liberation.fr/politique/le-maire-historique-et-controverse-dissy-les-moulineaux-andre-santini-est-mort-a-85-ans-20260601_UZ3O4VBIYNAONEUSV3FGVPP374/",
-      "image": null,
-      "date": "2026-06-01T09:04:09+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Alain Juppé voulait un gouvernement ramassé, il n’est pas loin de l’avoir» : 12 «petites phrases» d’André Santini",
-      "desc": "L’ex-ministre et maire d’Issy-les-Moulineaux depuis 1980, mort à 85 ans dans la nuit de dimanche à lundi, était connu pour son tempérament tempétueux et ses bons mots qui étaient sa marque de fabrique.",
-      "url": "https://www.liberation.fr/politique/alain-juppe-voulait-un-gouvernement-ramasse-il-nest-pas-loin-de-lavoir-les-petites-phrases-dandre-santini-20260601_KBXOECXBQZFDDM43MUTCDYJAXI/",
-      "image": null,
-      "date": "2026-06-01T09:01:27+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -313,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola Bundibugyo : un vaccin attendu d’ici fin 2026 pour stopper l’épidémie",
-      "desc": "Le Centre africain de contrôle et de prévention des maladies mise sur la recherche et la coopération internationale pour accélérer la mise au point d’un vaccin efficace. La Somalie a rejoint la liste de désormais onze pays à risque d’être touchés par le virus, en plus de la RDC et de l’Ouganda.",
-      "url": "https://www.lemonde.fr/sante/article/2026/05/28/ebola-bundibugyo-un-vaccin-attendu-d-ici-fin-2026-pour-stopper-l-epidemie_6694525_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/21/414/0/5500/2750/644/322/60/0/488a22c_ftp-1-nri7o8tltj7e-2026-05-21t160854z-1350932930-rc2pdla6cvn2-rtrmadp-3-health-ebola-drc.JPG",
-      "date": "2026-05-28T20:28:50+00:00",
-      "date_formatted": "28 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "La rougeole, le retour inquiétant d’une maladie qu’on croyait appartenir au passé",
       "desc": "Après des années de faible circulation, la rougeole fait un retour notable en France",
       "url": "https://www.20minutes.fr/sante/4225938-20260528-rougeole-retour-inquietant-maladie-croyait-appartenir-passe?at_medium=display&at_campaign=149",
@@ -353,16 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Les traitements contre l’obésité Wegovy et Mounjaro remboursés dès la mi-juin en France, dans un cadre contrôlé",
-      "desc": "Cette mesure, qui ne concernera que les patients atteints d’obésité massive sans comorbidité ou sévère avec comorbidité, devrait coûter « une centaine de millions d’euros » à l’Assurance-maladie en année pleine, selon la ministre de la santé, Stéphanie Rist.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/28/les-traitements-contre-l-obesite-wegovy-et-mounjaro-rembourses-des-la-mi-juin-en-france-dans-un-cadre-controle_6694430_3224.html",
-      "image": "https://img.lemde.fr/2026/05/28/331/0/4000/2000/644/322/60/0/179a3d1_ftp-1-jo4bgj74p7wu-5161394-01-06.jpg",
-      "date": "2026-05-28T09:47:23+00:00",
-      "date_formatted": "28 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Voici le marqueur biologique qui pourrait réduire le risque de démence et d'Alzheimer selon une vaste étude",
       "desc": "Une étude sud-coréenne montre qu’un faible taux de « mauvais cholestérol » (LDL) pourrait réduire le risque de démence, notamment de maladie d’Alzheimer. Les statines, qui font baisser ce cholestérol, renforceraient même cet effet protecteur. Toutefois : un taux trop bas n’apporte pas de...",
       "url": "https://www.futura-sciences.com/sante/actualites/demence-voici-marqueur-biologique-pourrait-reduire-risque-demence-alzheimer-selon-vaste-etude-w2t8-134441/#xtor%3DRSS-8",
@@ -390,26 +450,6 @@
       "date": "2026-05-27T13:03:15+00:00",
       "date_formatted": "27 May 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Ecosse : Un chauffeur de taxi suit le conseil d’un passager et détecte son cancer à temps, il est sauvé",
-      "desc": "À Glasgow, en Écosse, un chauffeur de taxi de 66 ans affirme avoir été sauvé d’un cancer de la prostate grâce à une conversation avec un passager engagé dans une association de prévention contre cette maladie",
-      "url": "https://www.20minutes.fr/sante/4225655-20260527-chauffeur-taxi-suit-conseil-passager-cancer-detecte-temps-aujourd-hui-gueri?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/1KwSHxlTSTGPeZLIkefnlyk/1200x768_le-chauffeur-de-taxi-a-pu-etre-soigne-a-temps-illustration",
-      "date": "2026-05-27T11:32:36+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En Méditerranée, les « migrations de refuge » des daurades royales face à la surchauffe des lagunes",
-      "desc": "Au-delà d’un seuil d’alarme de 29 °C, la fréquence cardiaque de ces poissons atteint un plateau, avec un cœur qui n’est plus en mesure de répondre à la hausse de leurs besoins en oxygène.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/27/en-mediterranee-les-migrations-de-refuge-des-daurades-royales-face-a-la-surchauffe-des-lagunes_6694145_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/21/255/0/3073/1536/644/322/60/0/10587d2_upload-1-cneike2xr6lq-media-dappelmedia-appel.png",
-      "date": "2026-05-27T06:00:02+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
@@ -489,26 +529,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/20/cover-r4x3w1200-6a0d76240b99c-afp-20251031-82l46wf-v1-highres-franceoverseasmayottehealth.jpg",
       "date": "2026-05-20T08:51:48+00:00",
       "date_formatted": "20 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : alerte internationale face à la flambée en RDC",
-      "desc": "L’Organisation mondiale de la santé a alerté sur la progression rapide de l’épidémie d’Ebola qui frappe la République démocratique du Congo. Avec 131 décès recensés et plus de 500 cas suspects, la flambée épidémique s’étend déjà au-delà des frontières du pays, poussant l’OMS et l’Union africaine à d",
-      "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-declenche-une-alerte-internationale-face-a-la-flambee-en-rdc_192505?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/19/cover-r4x3w1200-6a0c225dc3b9d-90d272e112c594cc1bfaf3e937f381a32adcdb08-jpg.jpg",
-      "date": "2026-05-19T09:46:04+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ebola et hantavirus : le monde vit une époque \"dangereuse\"",
-      "desc": "L'hantavirus et Ebola ne sont que les dernières crises en date d'une époque \"dangereuse et source de divisions\", a alerté le 18 mai 2026 le chef de l'Organisation mondiale de la santé à l'ouverture de l'assemblée annuelle de cette institution de l'ONU.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-oms-ouvre-son-assemblee-annuelle-sur-fond-d-hantavirus-et-d-ebola_192480?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/18/cover-r4x3w1200-6a0a78f95bc1c-6a6f5da597731ea67077f0895d3c8f71be31f7ad-jpg.jpg",
-      "date": "2026-05-19T08:34:18+00:00",
-      "date_formatted": "19 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
