@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-05-31T18:59:55.848143+00:00",
-  "count": 60,
+  "generated_at": "2026-06-01T02:16:07.067017+00:00",
+  "count": 61,
   "articles": [
     {
+      "title": "Comment Edgar Morin a imprimé sa pensée en une de «Libé»",
+      "desc": "Après la mort, vendredi, de l’intellectuel du siècle puis la victoire du PSG, samedi, en Ligue des champions, la rédaction a achoppé sur un dilemme : que mettre en première page de l’édition de ce lundi 1er juin ? La réponse, c’est Edgar Morin qui nous l’a suggérée dans un texte écrit… dans nos page",
+      "url": "https://www.liberation.fr/idees-et-debats/comment-edgar-morin-a-imprime-sa-pensee-en-une-de-libe-20260531_ZLTHHHGI2JEXHMHUE3ZW3HSKJU/",
+      "image": null,
+      "date": "2026-05-31T18:59:13+00:00",
+      "date_formatted": "31 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Cadmium : « Les Français sont trois à quatre fois plus contaminés que leurs voisins européens »",
-      "desc": "Une proposition de loi pour limiter les risques d’exposition au cadmium sera discutée mardi 2 juin à l’Assemblée. Un collectif de malades du cancer du pancréas et de proches de victimes appelle, dans une tribune au « Monde », les autorités à mettre fin à l’anomalie française : les taux de cadmium et",
+      "desc": "Une proposition de loi pour limiter les risques d’exposition au cadmium sera discutée mardi 2 juin, à l’Assemblée. Un collectif de malades du cancer du pancréas et de proches de victimes appelle, dans une tribune au « Monde », les autorités à mettre fin à l’anomalie française : les taux de cadmium e",
       "url": "https://www.lemonde.fr/idees/article/2026/05/31/cadmium-les-francais-sont-trois-a-quatre-fois-plus-contamines-que-leurs-voisins-europeens_6695601_3232.html",
       "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dcc4d92_upload-1-sq3xxr8hw6j2-frame-920.jpg",
-      "date": "2026-05-31T18:50:26+00:00",
+      "date": "2026-05-31T18:50:19+00:00",
       "date_formatted": "31 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -37,13 +47,13 @@
       "desc": "Une équipe canadienne vient de montrer que des fragments de l’animal peuvent survivre et croître plusieurs années dans l’eau de mer.",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/31/et-le-concombre-de-mer-inventa-les-tissus-immortels_6695585_1650684.html",
       "image": "https://img.lemde.fr/2026/05/29/413/0/5484/2742/644/322/60/0/2dc7d3c_upload-1-lcfcrdfgbn2u-gettyimages-549403047.jpg",
-      "date": "2026-05-31T15:30:13+00:00",
+      "date": "2026-05-31T15:30:09+00:00",
       "date_formatted": "31 May 2026",
       "source": "Le Monde Science",
       "type": "science"
     },
     {
-      "title": "Cancers du pancréas : l’efficacité d’un traitement innovant présenté à Chicago, alors qu’un programme de prévention se déploie en France",
+      "title": "Cancers du pancréas : l’efficacité d’un traitement innovant présenté à Chicago, alors qu’un programme de prévention se déploie en France",
       "desc": "En cas de tumeur métastatique du pancréas, une nouvelle molécule, le daraxonrasib, double la survie, a montré un essai international présenté au congrès de la Société américaine d’oncologie clinique, dimanche. En France, un programme de dépistage et de prévention personnalisé, lancé par l’Institut G",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/31/cancers-du-pancreas-l-efficacite-d-un-traitement-innovant-presente-a-chicago-alors-qu-un-programme-de-prevention-se-deploie-en-france_6695584_1650684.html",
       "image": "https://img.lemde.fr/2026/05/29/500/0/6000/3000/644/322/60/0/1202424_upload-1-jrgco4lftoal-000-1he19i-1.jpg",
