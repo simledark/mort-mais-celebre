@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-06-01T17:13:00.953367+00:00",
-  "count": 64,
+  "generated_at": "2026-06-01T21:19:28.090821+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "Mort d’Areski, musicien bohème un peu, beaucoup, à la folie",
+      "desc": "Compositeur indépendant et libertaire aussi brillant que discret, compagnon indissociable de Brigitte Fontaine, le chanteur d’origine kabyle est mort ce lundi 1er juin à l’âge de 86 ans.",
+      "url": "https://www.liberation.fr/culture/musique/mort-dareski-musicien-boheme-un-peu-beaucoup-a-la-folie-20260601_3BLI2EBV6VCZVCOO7424RNXT34/",
+      "image": null,
+      "date": "2026-06-01T19:39:21+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un hommage national sera rendu à Edgar Morin mercredi aux Invalides, annonce l’Élysée",
+      "desc": "Trois jours après la mort de l’intellectuel, cette cérémonie viendra «saluer le parcours d’un philosophe, écrivain, résistant et sociologue du temps présent», précise un communiqué de la présidence.",
+      "url": "https://www.liberation.fr/politique/un-hommage-national-sera-rendu-a-edgar-morin-mercredi-aux-invalides-annonce-lelysee-20260601_EJHJZEYDQVBBZCTSRMH2BSYEAQ/",
+      "image": null,
+      "date": "2026-06-01T19:12:52+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "ChatGPT : la Floride attaque OpenAI et son patron Sam Altman pour mise en danger de jeunes utilisateurs",
+      "desc": "Le procureur reproche à la société de ne pas avoir mis en place de règles plus contraignantes pour vérifier l’âge des utilisateurs.",
+      "url": "https://www.liberation.fr/economie/economie-numerique/chatgpt-la-floride-attaque-openai-et-son-patron-sam-altman-pour-mise-en-danger-de-jeunes-utilisateurs-20260601_V7PUEP6IFRDPHDHATDJXPP4IBE/",
+      "image": null,
+      "date": "2026-06-01T18:45:35+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "« On a eu peur de perdre le bébé. Un jour ça allait, un jour ça n’allait plus » : au chevet des nouveau-nés prématurés, au CHU de Rouen",
       "desc": "Soins visant à favoriser le développement, accent mis sur l’implication parentale : dans les services de néonatalogie français, la prise en charge des bébés nés bien trop tôt s’est considérablement améliorée. Pourtant, les indicateurs de mortalité se dégradent.",
@@ -23,6 +53,16 @@
       "type": "presse"
     },
     {
+      "title": "«C’est un progrès majeur, même si on ne parle pas du tout de guérison» : contre le cancer du pancréas, un médicament donne enfin de l’espoir",
+      "desc": "Selon une étude présentée dimanche 31 mai au congrès international d’oncologie à Chicago, le daraxonrasib double la durée de survie de patients atteints d’une forme métastatique de la maladie.",
+      "url": "https://www.liberation.fr/societe/sante/cest-un-progres-majeur-meme-si-on-ne-parle-pas-du-tout-de-guerison-contre-le-cancer-du-pancreas-un-medicament-donne-enfin-de-lespoir-20260601_KOZRQHHTIZCUHF7NNS7APJWYPU/",
+      "image": null,
+      "date": "2026-06-01T17:32:35+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Cancer de la prostate : deux études présentées au Congrès annuel de Chicago révèlent des résultats très prometteurs",
       "desc": "De nouveaux traitements se concentrent sur des formes agressives de ce cancer, et permettent notamment de réduire le risque de décès ou d'apparition de métastases.",
       "url": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-deux-etudes-presentees-au-congres-annuel-de-chicago-revelent-des-resultats-tres-prometteurs_8039621.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -30,6 +70,16 @@
       "date": "2026-06-01T17:19:22+00:00",
       "date_formatted": "1 June 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du plasticien Julio Le Parc, maître de la cinétique, à 97 ans",
+      "desc": "L’artiste argentin est décédé à Paris, samedi 30 mai. Engagé, refusant de s’enfermer dans les institutions du monde de l’art, il n’a cessé de penser la relation entre le spectateur et ses œuvres.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-du-plasticien-julio-le-parc-maitre-de-la-cinetique-a-97-ans-20260601_QQ6MOCJR5VDEVMEEHJFMTDB634/",
+      "image": null,
+      "date": "2026-06-01T17:08:53+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -41,46 +91,6 @@
       "date_formatted": "1 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Cinéma : Nastassja Kinski souffre des images d’elle nue adolescente, à quand un droit à l’oubli ?",
-      "desc": "L’actrice allemande bataille pour faire couper une scène à connotation sexuelle d’un film de Wim Wenders, dans lequel elle a joué à l’âge de 13 ans. Si l’enjeu de la liberté de création est capital, quid de la protection des mineurs ?",
-      "url": "https://www.liberation.fr/culture/cinema/cinema-nastassja-kinski-souffre-des-images-delle-nue-adolescente-a-quand-un-droit-a-loubli-20260601_PMWDVILQ4FGSHHDXJOOOEFVBV4/",
-      "image": null,
-      "date": "2026-06-01T16:55:44+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Victoire du PSG : un mort, deux blessés graves et de premières audiences en comparution immédiate",
-      "desc": "Plusieurs enquêtes sont en cours à la suite des événements survenus après la victoire du club de football parisien. Deux personnes gravement blessées sont hospitalisées, tandis que de premières audiences ont débuté ce lundi 1er juin au tribunal judiciaire de Paris.",
-      "url": "https://www.liberation.fr/societe/police-justice/victoire-du-psg-un-mort-deux-blesses-graves-et-de-premieres-audiences-en-comparution-immediate-20260601_KE422ONDN5FUXAMMSOVQFBJTY4/",
-      "image": null,
-      "date": "2026-06-01T16:50:13+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Victoire du PSG : les images de LCI de la porte Maillot ne montrent pas l’accident mortel mais un premier choc qui a fait deux blessés",
-      "desc": "Largement diffusée, la séquence a été présentée comme celle de l’accident qui a coûté, dans la nuit de samedi 30 à dimanche 31 mai, la vie à un jeune de 24 ans. Il s’agit en réalité d’un premier accident non mortel, intervenu une heure et demie plus tôt au même endroit.",
-      "url": "https://www.liberation.fr/checknews/victoire-du-psg-les-images-de-lci-de-la-porte-maillot-ne-montrent-pas-laccident-mortel-mais-un-premier-choc-qui-a-fait-deux-blesses-20260601_6RF2GOXSKZG4NAMPW255Y6QRNA/",
-      "image": null,
-      "date": "2026-06-01T16:44:36+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’André Santini, investissements records à Choose France, Duralex en redressement judiciaire… l’actu de ce lundi 1er juin",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "url": "https://www.liberation.fr/international/europe/mort-dandre-santini-investissements-records-a-choose-france-duralex-en-redressement-judiciaire-lactu-de-ce-lundi-1er-juin-20260601_PFWIRY3VDZGH3I4PXRFEAUILUQ/",
-      "image": null,
-      "date": "2026-06-01T16:32:13+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Le laboratoire Servier mise 1,33 milliard d’euros sur des traitements contre les dystrophies musculaires",
@@ -293,16 +303,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Vous n'êtes pas seuls\" : le directeur général de l'Organisation mondiale de la santé apporte son soutien à la population congolaise affectée par le virus Ebola",
-      "desc": "Tedros Adhanom Ghebreyesu s'est rendu samedi à Bunia en République démocratique du Congo, pour manifester son soutien aux habitants de la capitale de la province de l'Ituri, épicentre de la grave épidémie d'Ebola qui y progresse. \"Nous sommes là, à vos côtés, et nous surmonterons cette situation ens",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/vous-n-etes-pas-seuls-le-directeur-general-de-l-organisation-mondiale-de-la-sante-apporte-son-soutien-a-la-population-congolaise-affectee-par-le-virus-ebola_8037512.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ZlEV1IPPVGlUKWDMcYOL4QxE-Ko/0x178:4200x2540/432x243/filters:format(jpg)/2026/05/30/6a1b1c9242936860079621.jpg",
-      "date": "2026-05-30T19:42:48+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : « Nous surmonterons cette situation ensemble », dit le chef de l’OMS, en visite dans l’épicentre de l’épidémie",
       "desc": "L’Organisation mondiale de la santé a annoncé, samedi, que ses groupes consultatifs avaient recommandé des essais cliniques pour plusieurs vaccins et traitements potentiellement efficaces contre l’espèce Bundibugyo, responsable de la nouvelle épidémie en République démocratique du Congo.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/30/ebola-nous-surmonterons-cette-situation-ensemble-dit-le-chef-de-l-oms-en-visite-dans-l-epicentre-de-l-epidemie_6695282_3224.html",
@@ -361,16 +361,6 @@
       "date_formatted": "29 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Epidémie d’Ebola : une première guérison enregistrée en RDC, annonce l’OMS",
-      "desc": "La République démocratique du Congo a déclaré à la mi-mai sa 17ᵉ épidémie de maladie à virus Ebola. Dans ce vaste pays de 100 millions d’habitants, le virus est présent dans trois provinces, ainsi qu’en Ouganda, où sept infections confirmées ont été recensées.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/29/epidemie-d-ebola-une-premiere-guerison-enregistree-en-rdc-annonce-l-oms_6694734_3212.html",
-      "image": "https://img.lemde.fr/2026/05/29/526/0/6320/3160/644/322/60/0/7bdb5f3_ftp-1-4zqt7ruvaoxn-5170717-01-06.jpg",
-      "date": "2026-05-29T12:44:47+00:00",
-      "date_formatted": "29 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Démence : ces changements dans votre sommeil pourraient être des signaux d’alerte précoces",
