@@ -1,16 +1,126 @@
 {
-  "generated_at": "2026-06-01T02:16:07.067017+00:00",
-  "count": 61,
+  "generated_at": "2026-06-01T11:05:04.109506+00:00",
+  "count": 62,
   "articles": [
     {
-      "title": "Comment Edgar Morin a imprimé sa pensée en une de «Libé»",
-      "desc": "Après la mort, vendredi, de l’intellectuel du siècle puis la victoire du PSG, samedi, en Ligue des champions, la rédaction a achoppé sur un dilemme : que mettre en première page de l’édition de ce lundi 1er juin ? La réponse, c’est Edgar Morin qui nous l’a suggérée dans un texte écrit… dans nos page",
-      "url": "https://www.liberation.fr/idees-et-debats/comment-edgar-morin-a-imprime-sa-pensee-en-une-de-libe-20260531_ZLTHHHGI2JEXHMHUE3ZW3HSKJU/",
+      "title": "Qu'est-ce la PrEP, ce traitement préventif efficace contre le VIH, qui devrait être proposé à \"toutes et tous\", selon le Conseil national du sida ?",
+      "desc": "Si cette méthode est disponible en France depuis 2016, intégralement prise en charge par l'assurance maladie, son recours \"reste insuffisant\", alerte le Conseil national du sida et des hépatites virales.",
+      "url": "https://www.franceinfo.fr/sante/qu-est-ce-la-prep-ce-traitement-preventif-efficace-contre-le-vih-qui-devrait-etre-propose-a-toutes-et-tous-selon-le-conseil-national-du-sida_8039330.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/99PoI_UWv1T5nbaiZEZIujcg4zw/0x564:3000x2250/432x243/filters:format(jpg)/2024/03/22/maxnewsfrthree430920-65fd5b10795c3080363301.jpg",
+      "date": "2026-06-01T12:56:22+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. \"C'est compliqué, ça m'inquiète trop\" : par crainte d'une épidémie d'Ebola, des familles désormais séparées par la frontière entre le Rwanda et la République démocratique du Congo",
+      "desc": "L’épidémie du virus sévit depuis plusieurs semaines à l’est de la RDC, tandis que les pays frontaliers tentent de se protéger des risques de propagation sur leur territoire. Au Rwanda, l'inquiétude plane malgré les restrictions annoncées par les autorités.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-c-est-complique-ca-m-inquiete-trop-par-crainte-d-une-epidemie-d-ebola-des-familles-desormais-separees-par-la-frontiere-entre-le-rwanda-et-la-republique-democratique-du-congo_8038448.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/vd0gNQeO7N-TS65-5ZcGksZCTbA/0x0:2560x1440/432x243/filters:format(jpg)/2026/05/31/6a1c637f55f97166330197.jpg",
+      "date": "2026-06-01T12:01:15+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alors que l’épidémie de virus Ebola continue de s’amplifier, plusieurs traitements vont être expérimentés sur le terrain",
+      "desc": "Aucun traitement n’a encore fait ses preuves contre la souche Bundibugyo, qui sévit en en Afrique centrale et a provoqué près de 250 décès. Plusieurs molécules vont être testées, seules ou en association.",
+      "url": "https://www.lemonde.fr/planete/article/2026/06/01/alors-que-l-epidemie-de-virus-ebola-continue-de-s-amplifier-plusieurs-traitements-vont-etre-experimentes-sur-le-terrain_6695954_3244.html",
+      "image": "https://img.lemde.fr/2026/05/31/0/0/5500/2750/644/322/60/0/3a916cb_ftp-1-7ou5fydm8nvh-2026-05-31t110637z-1387592531-rc29klam0okd-rtrmadp-3-health-ebola-who.JPG",
+      "date": "2026-06-01T11:30:08+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Médicaments anti-obésité : le Wegovy et le Mounjaro seront remboursés à compter de la mi-juin",
+      "desc": "La ministre de la Santé l’a annoncé jeudi 28 mai. L’Assurance maladie remboursera, pour un nombre restreint de malades, 65 % du prix fixé entre les laboratoires et les autorités sanitaires. Il variera de 146,91 à 433,80 euros, en fonction de la dose et de la molécule.",
+      "url": "https://www.liberation.fr/societe/sante/medicaments-anti-obesite-le-wegovy-et-le-mounjaro-en-passe-detre-rembourses-20260527_OPTBN6TTDVGTPOUURKDMCTCFOM/",
       "image": null,
-      "date": "2026-05-31T18:59:13+00:00",
-      "date_formatted": "31 May 2026",
+      "date": "2026-06-01T10:48:51+00:00",
+      "date_formatted": "1 June 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Un nouveau médicament contre le cancer du pancréas double le taux de survie",
+      "desc": "Le daraxonrasib, un nouveau médicament qui bloque une protéine responsable du cancer du pancréas, permet d'améliorer le taux de survie de ce cancer très agressif.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/une-vague-de-biotechnologies-porteuse-d-espoir-les-nouvelles-techniques-contre-le-cancer-ouvrent-la-voie-a-de-nouveaux-medicaments_8038940.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/qLm8SFNqYBohCh2kFGiQTQGRjqg/0x48:4000x2297/432x243/filters:format(jpg)/2024/08/28/maxstockworld468150-66cf953eda023015766353.jpg",
+      "date": "2026-06-01T10:34:52+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Voici pourquoi l'endométriose touche en réalité presque tous les organes du corps selon des études récentes",
+      "desc": "Deux millions de femmes touchées en France, un délai de diagnostic qui dépasse fréquemment dix ans. L'endométriose reste l'une des maladies les plus sous-estimées de notre système de santé. Mais la science commence enfin à mettre des mots sur ce que les patientes vivent depuis des années. Ce que...",
+      "url": "https://www.futura-sciences.com/sante/actualites/endometriose-voici-endometriose-touche-realite-presque-tous-organes-corps-selon-etudes-recentes-k2m6-134873/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/4/a/c4a3742592_50255867_endometriose-organes.jpg",
+      "date": "2026-06-01T10:00:00+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Epidémie d'Ebola : deux hommes ont été placés à l'isolement au Brésil après avoir présenté des symptômes du virus",
+      "desc": "L'un des deux patients, arrivé d'Ouganda, a été testé négativement à Ebola. L'autre, venu de République démocratique du Congo, souffrirait d'une forme grave de méningite.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/virus-ebola-deux-hommes-ont-ete-places-a-l-isolement-au-bresil-apres-avoir-presente-des-symptomes-possibles-d-ebola_8039015.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/rGMVbXd_o6wdKd8TbVQNaUqBqNY/0x53:1024x629/432x243/filters:format(jpg)/2026/06/01/6a1d1f7247410453520939.jpg",
+      "date": "2026-06-01T09:25:20+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le maire historique et controversé d’Issy-les-Moulineaux, André Santini, est mort à 85 ans",
+      "desc": "A la tête de la ville des Hauts-de-Seine depuis 1980, l’ancien ministre et député a été le bâtisseur de sa ville avant d’être mis en cause dans plusieurs affaires, notamment d’agression et de harcèlement sexuel.",
+      "url": "https://www.liberation.fr/politique/le-maire-historique-et-controverse-dissy-les-moulineaux-andre-santini-est-mort-a-85-ans-20260601_UZ3O4VBIYNAONEUSV3FGVPP374/",
+      "image": null,
+      "date": "2026-06-01T09:04:09+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Alain Juppé voulait un gouvernement ramassé, il n’est pas loin de l’avoir» : 12 «petites phrases» d’André Santini",
+      "desc": "L’ex-ministre et maire d’Issy-les-Moulineaux depuis 1980, mort à 85 ans dans la nuit de dimanche à lundi, était connu pour son tempérament tempétueux et ses bons mots qui étaient sa marque de fabrique.",
+      "url": "https://www.liberation.fr/politique/alain-juppe-voulait-un-gouvernement-ramasse-il-nest-pas-loin-de-lavoir-les-petites-phrases-dandre-santini-20260601_KBXOECXBQZFDDM43MUTCDYJAXI/",
+      "image": null,
+      "date": "2026-06-01T09:01:27+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du pancréas : \"On a ouvert une porte\" avec ce nouveau médicament, salue l'oncologue Fabrice André",
+      "desc": "Les résultats prometteurs du daraxonrasib, un nouveau médicament contre le cancer du pancréas, ont été présenté dimanche au Congrès annuel du Cancer de Chicago.",
+      "url": "https://www.franceinfo.fr/sante/cancer/cancer-du-pancreas-on-a-ouvert-une-porte-avec-ce-nouveau-medicament-salue-l-oncologue-fabrice-andre_8039081.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/-qTxQ-F9I9auIoNYpPGgVP_Km1g/0x0:6016x3384/432x243/filters:format(jpg)/2026/06/01/6a1d2a02adadf236726270.jpg",
+      "date": "2026-06-01T08:44:21+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : « L’est de la RDC n’a pas seulement besoin d’interventions d’urgence, mais d’un engagement durable »",
+      "desc": "Alors que l’épidémie fait rage et que les combats s’intensifient, le médecin épidémiologiste humanitaire Didier Cannet alerte, dans une tribune au « Monde », sur l’urgence d’apporter une aide sanitaire et financière viable aux populations de la République démocratique du Congo.",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/01/ebola-l-est-de-la-rdc-n-a-pas-seulement-besoin-d-interventions-d-urgence-mais-d-un-engagement-durable_6695928_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/4d32378_upload-1-wrjnm62jtwcz-frame-907.jpg",
+      "date": "2026-06-01T08:00:12+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Diagnostiquer les troubles moteurs du nourrisson grâce à une caméra et à l’IA : l’exemple de l’amyotrophie spinale",
+      "desc": "Une simple caméra pourrait révolutionner le diagnostic des maladies du nourrisson, notamment l’amyotrophie spinale. Cette maladie neuromusculaire génétique rare, autrefois létale, se manifeste dès la naissance par une hypotonie sévère. Grâce à l’intelligence artificielle couplée à une caméra...",
+      "url": "https://www.futura-sciences.com/sante/actualites/bebe-diagnostiquer-troubles-moteurs-nourrisson-grace-camera-ia-exemple-amyotrophie-spinale-134891/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/2/7a29e6f80f_50255910_bebe-amytrophie-spinale.jpg",
+      "date": "2026-06-01T07:00:00+00:00",
+      "date_formatted": "1 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Cadmium : « Les Français sont trois à quatre fois plus contaminés que leurs voisins européens »",
@@ -20,16 +130,6 @@
       "date": "2026-05-31T18:50:19+00:00",
       "date_formatted": "31 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le PSG fait le doublé, Israël intensifie sa guerre au Liban, mort d’Edgar Morin… L’actu de ce week-end des 30 et 31 mai",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de ces samedi 30 et dimanche 31 mai.",
-      "url": "https://www.liberation.fr/international/europe/le-psg-fait-le-double-israel-intensifie-sa-guerre-au-liban-mort-dedgar-morin-lactu-de-ce-week-end-des-30-et-31-mai-20260531_C3QZ3E7UVFGD5FDU375V3HINAU/",
-      "image": null,
-      "date": "2026-05-31T16:26:13+00:00",
-      "date_formatted": "31 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -56,7 +156,7 @@
       "title": "Cancers du pancréas : l’efficacité d’un traitement innovant présenté à Chicago, alors qu’un programme de prévention se déploie en France",
       "desc": "En cas de tumeur métastatique du pancréas, une nouvelle molécule, le daraxonrasib, double la survie, a montré un essai international présenté au congrès de la Société américaine d’oncologie clinique, dimanche. En France, un programme de dépistage et de prévention personnalisé, lancé par l’Institut G",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/31/cancers-du-pancreas-l-efficacite-d-un-traitement-innovant-presente-a-chicago-alors-qu-un-programme-de-prevention-se-deploie-en-france_6695584_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/29/500/0/6000/3000/644/322/60/0/1202424_upload-1-jrgco4lftoal-000-1he19i-1.jpg",
+      "image": "https://img.lemde.fr/2026/05/29/199/0/3436/1718/644/322/60/0/95f9864_upload-1-p16jylzwwjys-pudlarz-2.jpg",
       "date": "2026-05-31T15:04:31+00:00",
       "date_formatted": "31 May 2026",
       "source": "Le Monde Science",
@@ -153,16 +253,6 @@
       "type": "science"
     },
     {
-      "title": "\"C'est une révolution\" : pourquoi le daraxonrasib, un nouveau traitement contre le cancer du pancréas, suscite de grands espoirs",
-      "desc": "Cet anticancéreux multiplie par deux l'espérance de vie des patients atteints du cancer du pancréas, l'un des plus mortels et contre lequel peu de solutions existent. Les résultats d'une étude vont être présentés dimanche au congré annuel de cancérologie, qui se tient jusqu'à mardi.",
-      "url": "https://www.franceinfo.fr/sante/cancer/c-est-une-revolution-pourquoi-le-daraxonrasib-un-nouveau-traitement-contre-le-cancer-du-pancreas-suscite-de-grands-espoirs_8014325.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/7tjsmPyYSJHZICfsIiSxKgkxAR8/0x0:1024x576/432x243/filters:format(jpg)/2026/05/19/6a0c8111de202923912982.jpg",
-      "date": "2026-05-30T07:02:48+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Obésité : le remboursement sous condition des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants",
       "desc": "A partir du 15 juin, ces deux médicaments qui coûtent environ 300 euros par mois seront remboursés en France à hauteur de 65 % par l’Assurance-maladie. Un million de personnes devraient être concernées, selon la ministre de la santé, Stéphanie Rist.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/29/obesite-le-remboursement-sous-conditions-des-medicaments-wegovy-et-mounjaro-des-la-mi-juin-saluee-par-patients-et-soignants_6694818_3224.html",
@@ -180,16 +270,6 @@
       "date": "2026-05-29T19:54:36+00:00",
       "date_formatted": "29 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Après un appel aux dons de moelle osseuse, les parents d'Elio, 4 ans, atteint d'un cancer du sang rare, annoncent qu'il a été greffé",
-      "desc": "La famille avait lancé un appel au don pour trouver un donneur compatible, rapporte France Inter. Il avait été massivement relayé sur les réseaux sociaux.",
-      "url": "https://www.franceinfo.fr/sante/enfant-ado/apres-un-appel-aux-dons-de-moelle-osseuse-les-parents-d-elio-4-ans-atteint-d-un-cancer-du-sang-rare-annoncent-qu-il-a-ete-greffe_8035928.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/omlulqm8r1lCGjPWQWej9qN31dY/33x0:793x427/432x243/filters:format(jpg)/2026/05/29/6a19b54499b46512012630.jpg",
-      "date": "2026-05-29T17:49:19+00:00",
-      "date_formatted": "29 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -293,26 +373,6 @@
       "type": "science"
     },
     {
-      "title": "Retour du virus Ebola : le point sur l’épidémie",
-      "desc": "Avec plus de 200 morts probables en RDC, l’épidémie due au virus Ebola s’étend et menace les pays voisins. Hôpitaux saturés, vaccin inexistant et conflits armés… Dans ce podcast, Delphine Roucaute et Morgane Le Cam, journalistes au « Monde », aux services Planète et Afrique, nous racontent la crise ",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/05/28/retour-du-virus-ebola-le-point-sur-l-epidemie_6694307_5463015.html",
-      "image": "https://img.lemde.fr/2026/05/27/0/0/1800/900/644/322/60/0/738d853_upload-1-yapnrlqlx70l-ebola-2.JPEG",
-      "date": "2026-05-28T05:00:01+00:00",
-      "date_formatted": "28 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Narcotrafic : à Nantes, un troisième mort par balles en moins d’un mois",
-      "desc": "Depuis fin avril, trois jeunes gens ont été tués par balles dans différents quartiers, à Nantes. La maire socialiste de la ville, Johanna Rolland, attend une réponse de l’Etat « à la hauteur ». Les habitants, tristes et inquiets, redoutent de nouveaux drames.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/27/narcotrafic-a-nantes-un-troisieme-mort-par-balles-en-moins-d-un-mois_6694257_3224.html",
-      "image": "https://img.lemde.fr/2026/05/27/516/0/6192/3096/644/322/60/0/efca4ed_upload-1-p8adgg8odrlv-maxnewsspecialtwo613332.jpg",
-      "date": "2026-05-27T20:57:12+00:00",
-      "date_formatted": "27 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Notre société, déjà fragilisée par les conflits mondiaux et la crise environnementale, est désormais à la limite de la rupture »",
       "desc": "Dans un entretien au « Monde », le président de la Société savante française de psychotraumatologie, Wissam El-Hage, revient sur la fébrilité liée au hantavirus, déplorant qu’« aucune leçon ne semble avoir été tirée » après le Covid-19.",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/27/notre-societe-deja-fragilisee-par-les-conflits-mondiaux-et-la-crise-environnementale-est-desormais-a-la-limite-de-la-rupture_6694245_1650684.html",
@@ -360,56 +420,6 @@
       "date": "2026-05-27T06:00:00+00:00",
       "date_formatted": "27 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Virus Ebola : la difficile voie vers la mise au point d’un vaccin contre la souche Bundibugyo",
-      "desc": "Aucun essai clinique n’est en cours contre la souche à l’origine de la nouvelle épidémie du virus Ebola, en RDC. Les chercheurs sont partagés entre deux options : adapter des produits voisins ou développer en urgence du sur-mesure. Avec peu d’espoir de réussite avant un an.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/05/26/virus-ebola-la-difficile-voie-vers-la-mise-au-point-d-un-vaccin-contre-la-souche-bundibugyo_6693920_3212.html",
-      "image": "https://img.lemde.fr/2026/05/25/517/0/6202/3101/644/322/60/0/7cc84e5_ftp-1-z7zs6agc0obo-822dbcc8faf745c9b642b0f66b3536a0-0-826183af27034646b5693bd67c150027.jpg",
-      "date": "2026-05-26T17:30:04+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Aux Etats-Unis, le débat sur les origines du Covid-19 secoue la recherche en virologie",
-      "desc": "Ralph Baric, spécialiste des coronavirus, se voit reprocher d’avoir conduit en 2014 des travaux soumis à un moratoire, mais aussi sa collaboration avec un laboratoire chinois de Wuhan. L’administration Trump cible les expériences de « gains de fonction », susceptibles de renforcer la dangerosité de ",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/26/aux-etats-unis-les-repliques-de-la-pandemie-de-covid-19-secouent-la-recherche-en-virologie_6693918_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/22/233/0/2795/1397/644/322/60/0/248a5e2_upload-1-o6eecsvjngpr-gettyimages-1205092917.jpg",
-      "date": "2026-05-26T17:28:44+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Vos nuits cachent une mine d'informations sur votre santé future et une IA vient de l'exploiter",
-      "desc": "Longtemps relégué au second plan derrière l’alimentation et l’activité physique, le sommeil est pourtant l’un des piliers majeurs de la santé. Une étude récente montre qu’il pourrait aussi devenir un outil clé pour anticiper certaines maladies, bien au-delà de la simple qualité des nuits.",
-      "url": "https://www.futura-sciences.com/sante/actualites/sommeil-vos-nuits-cachent-informations-votre-sante-future-ia-vient-exploiter-w2t8-134397/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/b/7/8b7e4d02a3_50255009_sommeil-indicateurs-sante-maladies.jpg",
-      "date": "2026-05-26T08:00:00+00:00",
-      "date_formatted": "26 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Aluminium dans les vaccins : fin de la polémique ?",
-      "desc": "L’aluminium dans les vaccins est un sujet qui ne cesse d’alimenter les polémiques, et ce, d’autant plus avec les décisions controversées de l’actuel ministre de la santé américain, qui attisent les suspicions de lien avec des maladies graves. Va-t-on y voir plus clair avec cette méta-analyse...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vaccin-aluminium-vaccins-fin-polemique-134420/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/6/a/46a67c74bd_50255051_vaccins-aluminium.jpg",
-      "date": "2026-05-25T14:50:20+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Vieillissement : ce jumeau numérique pourrait prédire les moments où votre corps décroche",
-      "desc": "En Chine, des chercheurs du Centre national de bio-informatique ont développé un jumeau numérique qui mesure le rythme de vieillissement des organes à l'âge adulte et renseigne sur leur déclin physiologique.",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillissement-ce-jumeau-numerique-pourrait-predire-moments-votre-corps-decroche-134591/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/9/0/a902ae7cd5_50255353_jumeau-nume-rique-vieillissementjpg.jpg",
-      "date": "2026-05-25T08:27:28+00:00",
-      "date_formatted": "25 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
