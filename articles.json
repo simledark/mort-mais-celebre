@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-06-02T15:54:07.514811+00:00",
-  "count": 60,
+  "generated_at": "2026-06-02T20:32:45.334870+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Foot : un maire espagnol interdit un match amical de préparation à la Coupe du monde entre la RD Congo et le Chili en raison de l'épidémie d'Ebola",
+      "desc": "La rencontre devait se tenir mardi 9 juin à La Linea de la Concepcion, près de Gibraltar.",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/foot-un-maire-espagnol-interdit-un-match-amical-de-preparation-a-la-coupe-du-monde-entre-la-rd-congo-et-le-chili-en-raison-de-l-epidemie-d-ebola_8041769.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mvbc0TQJ0-zRMKo9nurSnEW09h8/0x0:4096x2304/432x243/filters:format(jpg)/2026/06/02/6a1f217654e01957573978.jpg",
+      "date": "2026-06-02T20:43:44+00:00",
+      "date_formatted": "2 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Nouvelle génération d'immunothérapie, thérapie ciblée contre la rechute… Deux traitements affichent de bons résultats contre le cancer du poumon",
+      "desc": "Deux études présentées au Congrès annuel du cancer de Chicaco, aux Etats-Unis, présentent des traitements efficaces contre le cancer du poumon le plus répandu, le cancer non à petites cellules (CPNPC). L'enjeu est désormais de pouvoir dépister plus tôt les patients.",
+      "url": "https://www.franceinfo.fr/sante/cancer/nouvelle-generation-d-immunotherapie-therapie-ciblee-contre-la-rechute-deux-traitements-affichent-de-bons-resultats-contre-le-cancer-du-poumon_8041403.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/RegDizDhbBiR_LTjzaUIL2s--bI/0x39:1024x615/432x243/filters:format(jpg)/2026/06/02/6a1ef40db58d8581800877.jpg",
+      "date": "2026-06-02T19:24:13+00:00",
+      "date_formatted": "2 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Vivre à la rue, on en crève» : le cri d’alerte des Morts de la rue qui recensent 929 décès de sans-abri en 2025",
+      "desc": "Le nombre de décès constatés de personnes «sans chez-soi» a de nouveau augmenté l’année passée. L’association réclame «plus de logements accompagnés, pour sortir de l’hébergement d’urgence».",
+      "url": "https://www.liberation.fr/societe/vivre-a-la-rue-on-en-creve-le-cri-dalerte-des-morts-de-la-rue-qui-recensent-929-deces-de-sans-abri-en-2025-20260602_DEXQ2LF4YRDSTOIVBQQDJ2TLDA/",
+      "image": null,
+      "date": "2026-06-02T18:35:18+00:00",
+      "date_formatted": "2 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les fruits et légumes bio associés à une baisse du risque de cancer du sein post-ménopause",
+      "desc": "Selon des travaux français, pour chaque portion de 100 grammes de fruits et légumes conventionnels remplacés quotidiennement par leurs équivalents issus de l’agriculture biologique, le risque de développer un cancer du sein post-ménopausique est réduit de 10 %.",
+      "url": "https://www.lemonde.fr/planete/article/2026/06/02/les-fruits-et-legumes-bio-associes-a-une-baisse-du-risque-de-cancer-du-sein-post-menopause_6696417_3244.html",
+      "image": "https://img.lemde.fr/2026/06/02/165/0/1984/992/644/322/60/0/d5122c5_upload-1-moxd2fqg5bvy-escolano-277-6320-ce-mammobile-050526-11.jpg",
+      "date": "2026-06-02T18:00:23+00:00",
+      "date_formatted": "2 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Quand peut-on arrêter les immunothérapies des cancers ?",
       "desc": "Des immunothérapies administrées contre certains cancers colorectaux pourraient être arrêtées au bout de deux ans chez certains patients, sans augmenter le risque de récidive, révèle une étude chinoise présentée dimanche 31 mai au congrès de la Société américaine d’oncologie.",
@@ -123,16 +163,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancer de la prostate : deux études présentées au Congrès annuel de Chicago révèlent des résultats très prometteurs",
-      "desc": "De nouveaux traitements se concentrent sur des formes agressives de ce cancer, et permettent notamment de réduire le risque de décès ou d'apparition de métastases.",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-deux-etudes-presentees-au-congres-annuel-de-chicago-revelent-des-resultats-tres-prometteurs_8039621.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/9lZ1OY4eE72SLXn3nzL71wXzdb0/0x572:4624x3173/432x243/filters:format(jpg)/2026/06/01/6a1d977ce2257313117039.jpg",
-      "date": "2026-06-01T17:19:22+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Transformer l’ADN en produit de consommation serait une erreur aux conséquences durables »",
       "desc": "Dans une tribune au « Monde », les généticiens François Petit et Sandra Mercier évoquent la possible autorisation en France des tests ADN en accès libre. Sans y être catégoriquement opposés, ils soulignent toutefois l’absence d’accompagnement après la réception des résultats, qui peuvent être déstab",
       "url": "https://www.lemonde.fr/idees/article/2026/06/01/transformer-l-adn-en-produit-de-consommation-serait-une-erreur-aux-consequences-durables_6695985_3232.html",
@@ -173,26 +203,6 @@
       "type": "science"
     },
     {
-      "title": "REPORTAGE. A la frontière entre le Rwanda et la République démocratique du Congo, vigilance et résilience face au risque Ebola",
-      "desc": "L’épidémie du virus sévit depuis plusieurs semaines à l’est de la RDC, tandis que les pays frontaliers tentent de se protéger des risques de propagation sur leur territoire. Au Rwanda, l'inquiétude plane malgré les restrictions annoncées par les autorités.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-c-est-complique-ca-m-inquiete-trop-par-crainte-d-une-epidemie-d-ebola-des-familles-desormais-separees-par-la-frontiere-entre-le-rwanda-et-la-republique-democratique-du-congo_8038448.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/vd0gNQeO7N-TS65-5ZcGksZCTbA/0x0:2560x1440/432x243/filters:format(jpg)/2026/05/31/6a1c637f55f97166330197.jpg",
-      "date": "2026-06-01T13:24:28+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Qu'est-ce la PrEP, ce traitement préventif efficace contre le VIH, qui devrait être proposé à \"toutes et tous\", selon le Conseil national du sida ?",
-      "desc": "Si cette méthode est disponible en France depuis 2016, intégralement prise en charge par l'assurance maladie, son recours \"reste insuffisant\", alerte le Conseil national du sida et des hépatites virales.",
-      "url": "https://www.franceinfo.fr/sante/qu-est-ce-la-prep-ce-traitement-preventif-efficace-contre-le-vih-qui-devrait-etre-propose-a-toutes-et-tous-selon-le-conseil-national-du-sida_8039330.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/99PoI_UWv1T5nbaiZEZIujcg4zw/0x564:3000x2250/432x243/filters:format(jpg)/2024/03/22/maxnewsfrthree430920-65fd5b10795c3080363301.jpg",
-      "date": "2026-06-01T12:56:22+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Alors que l’épidémie de virus Ebola continue de s’amplifier, plusieurs traitements vont être expérimentés sur le terrain",
       "desc": "Aucun traitement n’a encore fait ses preuves contre la souche Bundibugyo, qui sévit en Afrique centrale et a provoqué près de 250 décès. Plusieurs molécules vont être testées, seules ou en association.",
       "url": "https://www.lemonde.fr/planete/article/2026/06/01/alors-que-l-epidemie-de-virus-ebola-continue-de-s-amplifier-plusieurs-traitements-vont-etre-experimentes-sur-le-terrain_6695954_3244.html",
@@ -200,16 +210,6 @@
       "date": "2026-06-01T11:30:08+00:00",
       "date_formatted": "1 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un nouveau médicament contre le cancer du pancréas double l'espérance de vie, une révolution pour les spécialistes",
-      "desc": "Le daraxonrasib, un nouveau médicament qui bloque une protéine responsable du cancer du pancréas, permet d'allonger la durée de survie de ce cancer très agressif tout en ouvrant une porte pleine d'espoir dans la recherche.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/une-vague-de-biotechnologies-porteuse-d-espoir-les-nouvelles-techniques-contre-le-cancer-ouvrent-la-voie-a-de-nouveaux-medicaments_8038940.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/qLm8SFNqYBohCh2kFGiQTQGRjqg/0x48:4000x2297/432x243/filters:format(jpg)/2024/08/28/maxstockworld468150-66cf953eda023015766353.jpg",
-      "date": "2026-06-01T10:34:52+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -303,36 +303,6 @@
       "type": "science"
     },
     {
-      "title": "« Soixante ans après sa création, le Centre international de recherche sur le cancer apparaît plus nécessaire que jamais »",
-      "desc": "L’indépendance de cette institution scientifique, dont la naissance a été encouragée par le général de Gaulle, est particulièrement précieuse dans un contexte de recul général de la liberté académique, estime Stéphane Foucart, journaliste au service Planète, dans sa chronique.",
-      "url": "https://www.lemonde.fr/idees/article/2026/05/31/soixante-ans-apres-sa-creation-le-centre-international-de-recherche-sur-le-cancer-apparait-plus-necessaire-que-jamais_6695434_3232.html",
-      "image": "https://img.lemde.fr/2026/05/30/0/0/4646/2323/644/322/60/0/77fa9e8_upload-1-fnlvj86oo7x3-maxnewsworldfive960469.jpg",
-      "date": "2026-05-31T05:30:08+00:00",
-      "date_formatted": "31 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : « Nous surmonterons cette situation ensemble », dit le chef de l’OMS, en visite dans l’épicentre de l’épidémie",
-      "desc": "L’Organisation mondiale de la santé a annoncé, samedi, que ses groupes consultatifs avaient recommandé des essais cliniques pour plusieurs vaccins et traitements potentiellement efficaces contre l’espèce Bundibugyo, responsable de la nouvelle épidémie en République démocratique du Congo.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/30/ebola-nous-surmonterons-cette-situation-ensemble-dit-le-chef-de-l-oms-en-visite-dans-l-epicentre-de-l-epidemie_6695282_3224.html",
-      "image": "https://img.lemde.fr/2026/05/30/534/0/6977/3488/644/322/60/0/3773804_ftp-1-f9nawgcba8mc-5181160-01-06.jpg",
-      "date": "2026-05-30T19:07:14+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "A Mayotte, la recrudescence de cas de paludisme et la crainte d’une réinstallation durable de la maladie",
-      "desc": "Depuis le début de l’année, le département a enregistré 171 cas de cette maladie transmise par les moustiques du genre « Anopheles », dont 29 ont nécessité une hospitalisation, avec une nette accélération depuis fin avril.",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/30/a-mayotte-la-recrudescence-de-cas-de-paludisme-et-la-crainte-d-une-reinstallation-durable-de-la-maladie_6695261_3244.html",
-      "image": "https://img.lemde.fr/2026/05/29/552/0/6620/3310/644/322/60/0/c3d25ca_upload-1-iwjq2fdnwtt4-000-33ex7re.jpg",
-      "date": "2026-05-30T15:00:04+00:00",
-      "date_formatted": "30 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Alzheimer : ce coupable caché dans le cerveau intrigue de plus en plus les chercheurs",
       "desc": "Une avancée prometteuse dans la lutte contre Alzheimer vient d'être réalisée. Des scientifiques ont identifié un nouveau « coupable » potentiel : certaines cellules immunitaires du cerveau. Cette découverte pourrait ouvrir la voie à de nouvelles approches thérapeutiques. Quelles sont les...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-coupable-cache-cerveau-intrigue-plus-plus-chercheurs-w2t8-134833/#xtor%3DRSS-8",
@@ -398,16 +368,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/moustique-chikungunya-pourrait-propager-europe-scenario-epidemique-inquiete-chercheurs-134828/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/0/a/a0a56b68bb_50255764_3-moustique-tigre.jpg",
       "date": "2026-05-28T13:02:10+00:00",
-      "date_formatted": "28 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Voici le marqueur biologique qui pourrait réduire le risque de démence et d'Alzheimer selon une vaste étude",
-      "desc": "Une étude sud-coréenne montre qu’un faible taux de « mauvais cholestérol » (LDL) pourrait réduire le risque de démence, notamment de maladie d’Alzheimer. Les statines, qui font baisser ce cholestérol, renforceraient même cet effet protecteur. Toutefois : un taux trop bas n’apporte pas de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-voici-marqueur-biologique-pourrait-reduire-risque-demence-alzheimer-selon-vaste-etude-w2t8-134441/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/0/d/a0dc0d5199_50255081_mauvais-cholesterol-demence.jpg",
-      "date": "2026-05-28T08:00:00+00:00",
       "date_formatted": "28 May 2026",
       "source": "Futura Santé",
       "type": "science"
