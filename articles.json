@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-06-03T10:29:40.180404+00:00",
-  "count": 61,
+  "generated_at": "2026-06-03T16:11:25.462732+00:00",
+  "count": 46,
   "articles": [
     {
+      "title": "Au Royaume-Uni, l’extrême droite s’enflamme après la condamnation du meurtrier d’origine sikh d’un étudiant blanc",
+      "desc": "Des violences ont éclaté, mardi 2 juin, entre policiers et manifestants, à Southampton, moins d’une semaine après la condamnation à la prison à vie de Vickrum Digwa, qui avait mortellement poignardé Henry Nowak, 18 ans, en décembre 2025.",
+      "url": "https://www.liberation.fr/international/europe/au-royaume-uni-lextreme-droite-senflamme-apres-la-condamnation-du-meurtrier-dorigine-sikh-dun-etudiant-britannique-20260603_N53A46B3ABC6RKVB2MT7YXZTBA/",
+      "image": null,
+      "date": "2026-06-03T15:37:34+00:00",
+      "date_formatted": "3 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«L’honneur des morts commanderait d’annuler» : un village de Normandie s’oppose à la venue du ministre de la Guerre des États-Unis",
+      "desc": "Un collectif d’habitants de la commune de Langrune-sur-Mer demande l’annulation de la visite du trumpiste Pete Hegseth pour les célébrations du 82e anniversaire du Débarquement, ce samedi 6 juin. Il doit représenter le président américain.",
+      "url": "https://www.liberation.fr/international/lhonneur-des-morts-commanderait-dannuler-un-village-de-normandie-soppose-a-la-venue-du-ministre-de-la-guerre-des-etats-unis-20260603_N764NQKXMNCHDN5QYEXIGEUERU/",
+      "image": null,
+      "date": "2026-06-03T13:39:56+00:00",
+      "date_formatted": "3 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Un collectif rend hommage aux 929 morts de la rue qu’il a pu décompter pour 2025",
-      "desc": "Une cérémonie, mardi 2 juin, à Paris, a célébré la mémoire des personnes décédées « sans chez-soi ». Le Collectif des morts de la rue l’organise chaque année pour rappeler combien « la rue tue » et exhorter à l’action.",
+      "desc": "Une cérémonie, mardi 2 juin, à Paris, a célébré la mémoire des personnes décédées « sans chez-soi ». Le Collectif les morts de la rue l’organise chaque année pour rappeler combien « la rue tue » et exhorter à l’action.",
       "url": "https://www.lemonde.fr/societe/article/2026/06/03/un-collectif-rend-hommage-aux-929-morts-de-la-rue-qu-il-a-pu-decompter-pour-2025_6696584_3224.html",
       "image": "https://img.lemde.fr/2026/06/03/579/0/7488/3744/644/322/60/0/693d200_upload-1-eqr7kgktldoe-000-a2k69c3.jpg",
-      "date": "2026-06-03T12:24:54+00:00",
+      "date": "2026-06-03T12:24:53+00:00",
       "date_formatted": "3 June 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mpox : Deux virologues inculpés aux Etats-Unis pour avoir tenté d’importer le virus depuis l’Afrique",
+      "desc": "Deux chercheurs d’un prestigieux institut médical américain ont été inculpés par la justice fédérale après avoir été interpellés avec plus d’une centaine de fioles contenant le virus mpox dans leurs valises à l’aéroport",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4226990-20260603-mpox-deux-virologues-inculpes-etats-unis-avoir-tente-importer-virus-depuis-afrique?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/hQ5XN4dGRS-webEnNEZ7FCk/1200x768_cette-vue-montre-des-flacons-vides-contenant-des-doses-du-vaccin-antirougeoleux-pendant-le-premier-des-trois-jours-d-une-campagne-de-vaccination-contre-la-rougeole-lancee-par-le-ministere-de-la-sante-a-mexico-le-17-septembre-2025-photo-de-yuri-cortez-afp",
+      "date": "2026-06-03T12:15:51+00:00",
+      "date_formatted": "3 June 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -33,16 +63,6 @@
       "type": "presse"
     },
     {
-      "title": "Hommage national à Edgar Morin : une «conscience politique forgée devant la montée des fascismes», salue Emmanuel Macron",
-      "desc": "Le chef de l’Etat a présidé, ce mercredi 3 juin aux Invalides, une cérémonie d’hommage de la nation au sociologue et philosophe, mort le 29 mai à l’âge de 104 ans.",
-      "url": "https://www.liberation.fr/societe/un-hommage-national-a-edgar-morin-rendu-ce-mercredi-aux-invalides-20260603_RVPCUEF6ERCVLKZZSKYELH5UII/",
-      "image": null,
-      "date": "2026-06-03T10:21:37+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Deux virologues inculpés pour avoir tenté d'importer le virus Mpox d'Afrique",
       "desc": "Deux virologues travaillant pour un prestigieux institut américain de recherche ont été inculpés le 2 juin 2026 par la justice américaine, accusé d'avoir tenté de ramener aux Etats-Unis le Mpox, anciennement appelé variole du singe.",
       "url": "https://www.sciencesetavenir.fr/sante/deux-virologues-inculpes-pour-avoir-tente-d-importer-le-virus-mpox-d-afrique_192888?xtor=RSS-16",
@@ -51,26 +71,6 @@
       "date_formatted": "3 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : un mort au Koweït après une attaque attribuée à l’Iran",
-      "desc": "Plusieurs drones ont visé l’aéroport international du pays ce mercredi à l’aube, faisant une victime, selon le ministère des Affaires étrangères koweïtien.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-affirment-avoir-repousse-une-attaque-de-missiles-iraniens-dans-le-golfe-20260603_45XL2BE6ANHAXPK7NLZNJ5LGDA/",
-      "image": null,
-      "date": "2026-06-03T09:15:09+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le CNRS pointe les angles morts de l’expérimentation «Territoires zéro chômeur de longue durée»",
-      "desc": "Alors qu’il est en passe d’être pérennisé, selon un rapport du centre de recherche publié ce mercredi 3 juin, le dispositif qui veut offrir un emploi à ceux qui en sont privées depuis trop longtemps doit encore se perfectionner.",
-      "url": "https://www.liberation.fr/economie/social/le-cnrs-pointe-les-angles-morts-de-lexperimentation-territoires-zero-chomeur-de-longue-duree-20260603_5RAZAVJUK5GWDA7WYUEEOHYIR4/",
-      "image": null,
-      "date": "2026-06-03T08:30:00+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Fin de vie : Députés et sénateurs actent leur désaccord, vers une adoption définitive de la loi mi-juillet",
@@ -230,16 +230,6 @@
       "date": "2026-06-02T06:00:07+00:00",
       "date_formatted": "2 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des ultrasons pour combattre des virus",
-      "desc": "Des chercheurs brésiliens viennent de publier des résultats prometteurs obtenus en laboratoire. Leur idée : utiliser des ultrasons pour fragiliser physiquement certains virus, comme ceux du Covid-19 et de la grippe. Pour l’instant, aucun test n’a encore été réalisé sur des animaux ou des humains.",
-      "url": "https://www.franceinfo.fr/sante/des-ultrasons-pour-combattre-des-virus_8039831.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/fBaQqTeRS-wlY5qfabLLIAGK350/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/01/6a1da98ec691b850992594.jpg",
-      "date": "2026-06-02T06:00:03+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -453,16 +443,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Ebola : un risque \"élevé\" en Afrique centrale mais \"faible\" au niveau mondial",
       "desc": "Le risque épidémique d'Ebola en République démocratique du Congo (RDC) est jugé \"élevé\" pour l'Afrique centrale mais \"faible\" au niveau mondial par l'Organisation mondiale de la santé (OMS), selon laquelle l'épidémie est probablement apparue \"il y a plusieurs mois\".",
       "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-evoque-un-risque-eleve-en-afrique-centrale-mais-faible-au-niveau-mondial_192536?xtor=RSS-16",
@@ -473,26 +453,6 @@
       "type": "science"
     },
     {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Cerveau : comment le sexe influence l'expression des gènes",
       "desc": "Des chercheurs américains révèlent des différences subtiles mais généralisées dans l’expression génétique entre les cerveaux masculins et féminins. Cette disparité pourrait contribuer à expliquer comment le sexe influe sur le risque et le développement de certaines maladies.",
       "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/cerveau-l-expression-genetique-depend-du-sexe-et-peut-influencer-le-risque-de-maladie_192492?xtor=RSS-16",
@@ -500,116 +460,6 @@
       "date": "2026-05-20T12:43:52+00:00",
       "date_formatted": "20 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
-      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
-      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
-      "image": null,
-      "date": "2026-04-21T15:30:59+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
-      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
-      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
-      "image": null,
-      "date": "2026-04-21T08:00:54+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
-      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
-      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
-      "image": null,
-      "date": "2026-04-21T00:00:17+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
-      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
-      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
-      "image": null,
-      "date": "2026-04-16T18:00:00+00:00",
-      "date_formatted": "16 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
-      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
-      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
-      "image": null,
-      "date": "2026-04-14T13:00:00+00:00",
-      "date_formatted": "14 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
-      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
-      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
-      "image": null,
-      "date": "2026-04-03T09:21:47+00:00",
-      "date_formatted": "3 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
-      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
-      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
-      "image": null,
-      "date": "2026-03-26T16:00:46+00:00",
-      "date_formatted": "26 March 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
