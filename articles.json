@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-06-03T16:11:25.462732+00:00",
-  "count": 46,
+  "generated_at": "2026-06-03T20:44:46.497056+00:00",
+  "count": 62,
   "articles": [
     {
-      "title": "Au Royaume-Uni, l’extrême droite s’enflamme après la condamnation du meurtrier d’origine sikh d’un étudiant blanc",
-      "desc": "Des violences ont éclaté, mardi 2 juin, entre policiers et manifestants, à Southampton, moins d’une semaine après la condamnation à la prison à vie de Vickrum Digwa, qui avait mortellement poignardé Henry Nowak, 18 ans, en décembre 2025.",
-      "url": "https://www.liberation.fr/international/europe/au-royaume-uni-lextreme-droite-senflamme-apres-la-condamnation-du-meurtrier-dorigine-sikh-dun-etudiant-britannique-20260603_N53A46B3ABC6RKVB2MT7YXZTBA/",
+      "title": "Fin de vie : la stratégie de l’exécutif pour faire adopter le texte de loi cet été",
+      "desc": "Résolu à voir au plus vite voté ce texte souhaité par Emmanuel Macron, le gouvernement souhaite supprimer les délits d’entrave et d’incitation à l’aide à mourir – deux ajouts issus des débats parlementaires, qui concentrent les crispations.",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/03/fin-de-vie-la-strategie-de-l-executif-pour-faire-adopter-le-texte-de-loi-cet-ete_6696659_823448.html",
+      "image": "https://img.lemde.fr/2026/06/03/664/0/8000/4000/644/322/60/0/be1eba3_upload-1-dg8lp1dubkqd-jmug260519006.jpg",
+      "date": "2026-06-03T20:02:02+00:00",
+      "date_formatted": "3 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancers, insuffisance rénale et fractures des os… Quels sont les effets toxiques avérés du cadmium sur la santé ?",
+      "desc": "Alors que l’Assemblée nationale examine ce mercredi 3 juin une proposition de loi pour réduire le seuil autorisé de ce métal lourd dans les engrais, «Libé» fait le point sur les risques liés à l’exposition massive via l’alimentation.",
+      "url": "https://www.liberation.fr/societe/sante/cancers-insuffisance-renale-et-fractures-des-os-quels-sont-les-effets-toxiques-averes-du-cadmium-sur-la-sante-20260603_YFDY74WUX5H6FMJYNHK2ZBXFNY/",
       "image": null,
-      "date": "2026-06-03T15:37:34+00:00",
+      "date": "2026-06-03T18:23:10+00:00",
       "date_formatted": "3 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "«L’honneur des morts commanderait d’annuler» : un village de Normandie s’oppose à la venue du ministre de la Guerre des États-Unis",
-      "desc": "Un collectif d’habitants de la commune de Langrune-sur-Mer demande l’annulation de la visite du trumpiste Pete Hegseth pour les célébrations du 82e anniversaire du Débarquement, ce samedi 6 juin. Il doit représenter le président américain.",
-      "url": "https://www.liberation.fr/international/lhonneur-des-morts-commanderait-dannuler-un-village-de-normandie-soppose-a-la-venue-du-ministre-de-la-guerre-des-etats-unis-20260603_N764NQKXMNCHDN5QYEXIGEUERU/",
+      "title": "Krzysztof Warlikowski et Wajdi Mouawad : «Les morts et une mythologie nous réunissent»",
+      "desc": "Le metteur en scène polonais signe «Europa», adaptation du «Serment d’Europe», de son confrère et ami franco-libanais. Actuellement en tournée, la pièce sonde les traces que laissent les massacres dans les sociétés contemporaines. Rencontre avec les deux auteurs.",
+      "url": "https://www.liberation.fr/culture/krzysztof-warlikowski-et-wajdi-mouawad-les-morts-et-une-mythologie-nous-reunissent-20260603_UVRRP4ZPOBHTRDIDAW6MUCMT3U/",
       "image": null,
-      "date": "2026-06-03T13:39:56+00:00",
+      "date": "2026-06-03T17:52:05+00:00",
+      "date_formatted": "3 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Procès de Martin Ney : les avocates de la famille de Jonathan Coulom reconstituent l’immense «puzzle d’un professionnel du crime»",
+      "desc": "Alors que le procès du pédocriminel allemand touche à sa fin aux assises de Nantes, les avocates des parties civiles ont pris la parole, ce mercredi 3 juin, tentant de faire concorder le vaste faisceau d’indices dans le dossier de la mort de l’enfant de 10 ans.",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-de-martin-ney-les-avocates-de-la-famille-de-jonathan-coulom-reconstituent-limmense-puzzle-dun-professionnel-du-crime-20260603_L4337RP5BFE4ZAWWFDQWDPHL5I/",
+      "image": null,
+      "date": "2026-06-03T17:46:23+00:00",
+      "date_formatted": "3 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pollution au cadmium : Les tests de dépistages remboursés dès la mi-juin pour les patients à risque",
+      "desc": "Dès le 16 juin, l’Assurance maladie prendra en charge le dépistage de l’exposition au cadmium pour les patients à risque ou résidant sur un sol reconnu pollué par ce métal lourd hautement toxique",
+      "url": "https://www.20minutes.fr/sante/4227082-20260603-pollution-cadmium-tests-depistages-rembourses-mi-juin-patients-risque?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/oNumlOGKRMy4gbm3b_mX2yk/1200x768_contenant-de-cadmium-cd-ce-metal-lourd-toxique-naturellement-present-dans-l-environnement-peut-s-accumuler-dans-le-sol-et-les-cultures-et-est-nocif-pour-la-sante-humaine-photo-de-wladimir-bulgar-science-photo-li-wbu-bibliotheque-de-photos-scientifiques-via-afp",
+      "date": "2026-06-03T17:12:48+00:00",
+      "date_formatted": "3 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La longue histoire des «Dernières Folies», ou comment notre regard sur la «sénilité» a évolué au fil des siècles",
+      "desc": "Dans une enquête fouillée, Marie Derrien et Mathilde Rossigneux-Méheust décrivent la manière dont notre société a envisagé, aux XIXe et XXe siècles, la perte des capacités mentales liée à l’âge. Si les mots évoluent, des questionnements perdurent.",
+      "url": "https://www.liberation.fr/culture/livres/la-longue-histoire-des-dernieres-folies-ou-comment-notre-regard-sur-la-senilite-a-evolue-au-fil-des-siecles-20260603_HZI5FOC6L5CUPOMUV4PTMN4AY4/",
+      "image": null,
+      "date": "2026-06-03T17:00:00+00:00",
       "date_formatted": "3 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -293,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Alors que l’épidémie de virus Ebola continue de s’amplifier, plusieurs traitements vont être expérimentés sur le terrain",
-      "desc": "Aucun traitement n’a encore fait ses preuves contre la souche Bundibugyo, qui sévit en Afrique centrale et a provoqué près de 250 décès. Plusieurs molécules vont être testées, seules ou en association.",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/01/alors-que-l-epidemie-de-virus-ebola-continue-de-s-amplifier-plusieurs-traitements-vont-etre-experimentes-sur-le-terrain_6695954_3244.html",
-      "image": "https://img.lemde.fr/2026/05/31/0/0/5500/2750/644/322/60/0/3a916cb_ftp-1-7ou5fydm8nvh-2026-05-31t110637z-1387592531-rc29klam0okd-rtrmadp-3-health-ebola-who.JPG",
-      "date": "2026-06-01T11:30:08+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Voici pourquoi l'endométriose touche en réalité presque tous les organes du corps selon des études récentes",
       "desc": "Deux millions de femmes touchées en France, un délai de diagnostic qui dépasse fréquemment dix ans. L'endométriose reste l'une des maladies les plus sous-estimées de notre système de santé. Mais la science commence enfin à mettre des mots sur ce que les patientes vivent depuis des années. Ce que...",
       "url": "https://www.futura-sciences.com/sante/actualites/endometriose-voici-endometriose-touche-realite-presque-tous-organes-corps-selon-etudes-recentes-k2m6-134873/#xtor%3DRSS-8",
@@ -403,16 +433,6 @@
       "type": "science"
     },
     {
-      "title": "La rougeole, le retour inquiétant d’une maladie qu’on croyait appartenir au passé",
-      "desc": "Après des années de faible circulation, la rougeole fait un retour notable en France",
-      "url": "https://www.20minutes.fr/sante/4225938-20260528-rougeole-retour-inquietant-maladie-croyait-appartenir-passe?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/DxXiIt1TTuWVuxneWpwJSik/1200x768_la-rougeole-se-caracterise-notamment-par-une-eruption-cutanee",
-      "date": "2026-05-28T19:32:37+00:00",
-      "date_formatted": "28 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Chikungunya, dengue, Zika : 92 cas importés dans l'Hexagone depuis début mai",
       "desc": "Un peu plus de 90 cas importés de chikungunya, dengue et Zika, trois maladies transmises par des moustiques tigres, ont été recensés en France hexagonale depuis début mai.",
       "url": "https://www.sciencesetavenir.fr/sante/chikungunya-dengue-zika-92-cas-importes-dans-l-hexagone-depuis-debut-mai_192766?xtor=RSS-16",
@@ -443,6 +463,16 @@
       "type": "science"
     },
     {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Ebola : un risque \"élevé\" en Afrique centrale mais \"faible\" au niveau mondial",
       "desc": "Le risque épidémique d'Ebola en République démocratique du Congo (RDC) est jugé \"élevé\" pour l'Afrique centrale mais \"faible\" au niveau mondial par l'Organisation mondiale de la santé (OMS), selon laquelle l'épidémie est probablement apparue \"il y a plusieurs mois\".",
       "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-evoque-un-risque-eleve-en-afrique-centrale-mais-faible-au-niveau-mondial_192536?xtor=RSS-16",
@@ -453,6 +483,26 @@
       "type": "science"
     },
     {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Cerveau : comment le sexe influence l'expression des gènes",
       "desc": "Des chercheurs américains révèlent des différences subtiles mais généralisées dans l’expression génétique entre les cerveaux masculins et féminins. Cette disparité pourrait contribuer à expliquer comment le sexe influe sur le risque et le développement de certaines maladies.",
       "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/cerveau-l-expression-genetique-depend-du-sexe-et-peut-influencer-le-risque-de-maladie_192492?xtor=RSS-16",
@@ -460,6 +510,116 @@
       "date": "2026-05-20T12:43:52+00:00",
       "date_formatted": "20 May 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
+      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
+      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
+      "image": null,
+      "date": "2026-04-21T15:30:59+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
+      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
+      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
+      "image": null,
+      "date": "2026-04-21T08:00:54+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
+      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
+      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
+      "image": null,
+      "date": "2026-04-21T00:00:17+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
+      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
+      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
+      "image": null,
+      "date": "2026-04-16T18:00:00+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
+      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
+      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
+      "image": null,
+      "date": "2026-04-14T13:00:00+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
+      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
+      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
+      "image": null,
+      "date": "2026-04-03T09:21:47+00:00",
+      "date_formatted": "3 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
+      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
+      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
+      "image": null,
+      "date": "2026-03-26T16:00:46+00:00",
+      "date_formatted": "26 March 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
