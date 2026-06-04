@@ -1,15 +1,95 @@
 {
-  "generated_at": "2026-06-04T02:31:08.921512+00:00",
-  "count": 62,
+  "generated_at": "2026-06-04T09:39:59.026154+00:00",
+  "count": 63,
   "articles": [
     {
-      "title": "L'Assemblée nationale adopte en première lecture  un texte pour limiter l'exposition au cadmium, un métal lourd toxique",
-      "desc": "Cette proposition de loi écologiste vise à limiter l'exposition de la population au cadmium, classé cancérogène, mutagène et toxique pour la reproduction, auquel les Français sont particulièrement exposés.",
-      "url": "https://www.franceinfo.fr/sante/l-assemblee-nationale-adopte-en-premiere-lecture-un-texte-pour-limiter-l-exposition-au-cadmium-un-metal-lourd-toxique_8043767.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/hM4y-GAUs-ZfR-Dclv8AwzSckFc/0x285:5472x3363/432x243/filters:format(jpg)/2026/06/04/6a20a9815b6cc046357815.jpg",
-      "date": "2026-06-04T00:32:00+00:00",
+      "title": "Selon une étude, les Français les plus modestes sont davantage exposés aux formes de cancers les plus graves",
+      "desc": "La Direction de la recherche, des études, de l'évaluation et des statistiques montre notamment des inégalités sociales au moment du diagnostic. Or la détection précoce d'un cancer permet de le soigner plus facilement.",
+      "url": "https://www.franceinfo.fr/sante/les-francais-les-plus-modestes-davantage-exposes-aux-formes-de-cancers-les-plus-graves-pointe-une-etude_8044178.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/NGJmTdCKoBaG6bYdw4kHqcmzs2c/0x94:1024x670/432x243/filters:format(jpg)/2026/06/04/6a211ac441c7f969990703.jpg",
+      "date": "2026-06-04T08:57:03+00:00",
       "date_formatted": "4 June 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : le type de tumeur varie fortement selon le niveau de vie, selon une étude",
+      "desc": "D'après une étude de la Direction de la recherche, des études, de l’évaluation et des statistiques (DRESS), les personnes les plus modestes développent plus souvent des formes graves de cancer, plus jeunes, et sur certains organes en particulier.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/cancer-le-type-de-tumeur-varie-fortement-selon-le-niveau-de-vie-selon-une-etude_8044097.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/BK8ZckJ1H_3kn1eVc_OVAAf6CLU/0x208:4000x2458/432x243/filters:format(jpg)/2026/06/04/6a210cf0af8bc194968737.jpg",
+      "date": "2026-06-04T08:06:31+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Marjane Satrapi, autrice franco-iranienne de «Persepolis», est morte à 56 ans",
+      "desc": "Selon le communiqué de son entourage, l’artiste franco-iranienne est «morte de tristesse un peu plus d’un an après le décès de Mattias Ripa, son mari et l’amour de sa vie».",
+      "url": "https://www.liberation.fr/culture/marjane-satrapi-autrice-de-persepolis-est-morte-a-56-ans-20260604_JWCYP3RG7BC7JEQ2GA2WBZCPIA/",
+      "image": null,
+      "date": "2026-06-04T08:02:55+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le cancer frappe les riches comme les pauvres, mais plus durement les pauvres",
+      "desc": "Il existe un lien «extrêmement fort» entre sociodémographie et maladie, selon une étude publiée ce jeudi 4 juin par la Drees. Le cancer est la première cause de mortalité en France avec plus de 160 000 morts chaque année et celui du poumon est surreprésenté chez les plus modestes.",
+      "url": "https://www.liberation.fr/societe/sante/les-inegalites-sociales-face-au-cancer-se-construisent-a-plusieurs-etapes-les-francais-les-plus-modestes-sont-les-plus-a-risque-de-developper-des-formes-graves-20260604_TJI6YZUI6BDO3CPIX72HQH7OVA/",
+      "image": null,
+      "date": "2026-06-04T07:57:19+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancers, insuffisance rénale et fractures des os… Quels sont les effets toxiques avérés du cadmium sur la santé ?",
+      "desc": "Alors que l’Assemblée nationale a adopté dans la nuit de mercredi à jeudi la proposition de loi écologiste pour réduire le seuil autorisé de ce métal lourd dans les engrais, «Libé» fait le point sur les risques liés à l’exposition massive via l’alimentation.",
+      "url": "https://www.liberation.fr/societe/sante/cancers-insuffisance-renale-et-fractures-des-os-quels-sont-les-effets-toxiques-averes-du-cadmium-sur-la-sante-20260603_YFDY74WUX5H6FMJYNHK2ZBXFNY/",
+      "image": null,
+      "date": "2026-06-04T07:44:28+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Il rampait vers le camp de base» : au Népal, un guide porté disparu dans l’Everest retrouvé vivant six jours après",
+      "desc": "Hillary Dawa Sherpa, grimpeur expérimenté de 30 ans, a été hospitalisé à Katmandou ce mercredi 4 juin après avoir été considéré comme mort sur le plus haut sommet du monde.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/il-rampait-vers-le-camp-de-base-au-nepal-un-guide-nepalais-porte-disparu-dans-leverest-retrouve-vivant-six-jours-apres-20260604_YB3L24XTDBBS7HF6IK3WQ3NN5Q/",
+      "image": null,
+      "date": "2026-06-04T07:33:06+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancers : Plus on est pauvre, plus on est exposé à une forme grave, c’est ce que révèle une étude",
+      "desc": "Publiée ce jeudi, une étude de la Drees montre que le cancer frappe plus durement certaines catégories de la population du fait des écarts d’exposition à des facteurs de risque et des différences de recours au dépistage",
+      "url": "https://www.20minutes.fr/sante/4227124-20260604-cancers-plus-pauvre-plus-expose-forme-grave-revele-etude?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/9RDy7T0DS_OMq7zX7ytxZyk/1200x768_scanner-ct-tomographie-assistee-par-ordinateur-dans-un-laboratoire-hospitalier-07allil-images-allili5558-credit-mourad-allili-sipa-2507090940",
+      "date": "2026-06-04T06:45:54+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les enfants, premières victimes des aliments insalubres dans le monde",
+      "desc": "Contenant des bactéries, des virus ou des parasites, ces aliments causent 1,5 million de décès dans le monde par an",
+      "url": "https://www.20minutes.fr/monde/4227120-20260604-enfants-premieres-victimes-aliments-insalubres-monde?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/SpSTQ-6RQHmzUMxShHF2eCk/1200x768_30-decembre-2025-phnom-penh-phnom-penh-cambodge-beung-kok-phnom-penh-cambodge-les-centres-de-collecte-d-aide-de-phnom-penh-mettent-fin-a-leurs-activites-alors-que-le-cessez-le-feu-entre-dans-son-quatrieme-jour-les-enfants-aident-a-trier-et-a-charger-les-provisions-dans-des-camions-a-destination-des-camps-de-personnes-deplacees-situes-le-long-de-la-frontiere-entre-le-cambodge-et-la-thailande-des-vehicules-prives-sont-arrives-charges-de-dons-qui-ont-ensuite-ete-traites-dans-des-tentes-de-chapiteau-avant-d-etre-charges-dans-des-camions-humanitaires-ce-centre-gere-par-le-restaurant-eat-morea-tm-est-l-un-des-rares-encore-en-activite-dans-la-capitale-a-collecter-de-l-aide-image-de-credit-rod-harbinson-zuma-press-wire-20251230-zip-r169-028-zeus-2512301244",
+      "date": "2026-06-04T05:38:41+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les députés approuvent une proposition de loi limitant l’exposition au cadmium",
+      "desc": "L’alimentation est la première source d’exposition au cadmium, via notamment les céréales (blé, riz), alors que cela augmente les risques de cancers",
+      "url": "https://www.20minutes.fr/sante/4227116-20260604-deputes-approuvent-proposition-loi-limitant-exposition-cadmium?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/yEjlhya_QJWfU8FnQYBrJCk/1200x768_les-clients-decouvrent-des-pates-et-d-autres-produits-alimentaires-importes-d-italie-au-magasin-specialise-eataly-a-new-york-le-jeudi-13-novembre-2025-le-departement-du-commerce-de-l-administration-trump-a-propose-un-droit-de-douane-de-107-sur-les-pates-italiennes-y-compris-un-droit-d-importation-antidumping-de-92-richard-b-levine-photo-via-newscom-lr-photos150037-jpg-richard-b-levine-newscom-sipa-2511141630",
+      "date": "2026-06-04T03:57:09+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -17,39 +97,9 @@
       "desc": "Résolu à voir au plus vite voté ce texte souhaité par Emmanuel Macron, le gouvernement souhaite supprimer les délits d’entrave et d’incitation à l’aide à mourir – deux ajouts issus des débats parlementaires, qui concentrent les crispations.",
       "url": "https://www.lemonde.fr/politique/article/2026/06/03/fin-de-vie-la-strategie-de-l-executif-pour-faire-adopter-le-texte-de-loi-cet-ete_6696659_823448.html",
       "image": "https://img.lemde.fr/2026/06/03/664/0/8000/4000/644/322/60/0/be1eba3_upload-1-dg8lp1dubkqd-jmug260519006.jpg",
-      "date": "2026-06-03T20:02:02+00:00",
+      "date": "2026-06-03T20:01:59+00:00",
       "date_formatted": "3 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancers, insuffisance rénale et fractures des os… Quels sont les effets toxiques avérés du cadmium sur la santé ?",
-      "desc": "Alors que l’Assemblée nationale examine ce mercredi 3 juin une proposition de loi pour réduire le seuil autorisé de ce métal lourd dans les engrais, «Libé» fait le point sur les risques liés à l’exposition massive via l’alimentation.",
-      "url": "https://www.liberation.fr/societe/sante/cancers-insuffisance-renale-et-fractures-des-os-quels-sont-les-effets-toxiques-averes-du-cadmium-sur-la-sante-20260603_YFDY74WUX5H6FMJYNHK2ZBXFNY/",
-      "image": null,
-      "date": "2026-06-03T18:23:10+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Krzysztof Warlikowski et Wajdi Mouawad : «Les morts et une mythologie nous réunissent»",
-      "desc": "Le metteur en scène polonais signe «Europa», adaptation du «Serment d’Europe», de son confrère et ami franco-libanais. Actuellement en tournée, la pièce sonde les traces que laissent les massacres dans les sociétés contemporaines. Rencontre avec les deux auteurs.",
-      "url": "https://www.liberation.fr/culture/krzysztof-warlikowski-et-wajdi-mouawad-les-morts-et-une-mythologie-nous-reunissent-20260603_UVRRP4ZPOBHTRDIDAW6MUCMT3U/",
-      "image": null,
-      "date": "2026-06-03T17:52:05+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Procès de Martin Ney : les avocates de la famille de Jonathan Coulom reconstituent l’immense «puzzle d’un professionnel du crime»",
-      "desc": "Alors que le procès du pédocriminel allemand touche à sa fin aux assises de Nantes, les avocates des parties civiles ont pris la parole, ce mercredi 3 juin, tentant de faire concorder le vaste faisceau d’indices dans le dossier de la mort de l’enfant de 10 ans.",
-      "url": "https://www.liberation.fr/societe/police-justice/proces-de-martin-ney-les-avocates-de-la-famille-de-jonathan-coulom-reconstituent-limmense-puzzle-dun-professionnel-du-crime-20260603_L4337RP5BFE4ZAWWFDQWDPHL5I/",
-      "image": null,
-      "date": "2026-06-03T17:46:23+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -193,16 +243,6 @@
       "type": "science"
     },
     {
-      "title": "L'OMS confirme 330 cas d'Ebola en RDC et en Ouganda, le nombre de cas suspects revu très largement à la baisse",
-      "desc": "L'actuelle épidémie de maladie à virus Ebola, fièvre hémorragique extrêmement contagieuse, a été déclarée le 15 mai dans le nord-est de la République démocratique du Congo.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-en-rdc-et-en-ouganda-le-nombre-de-cas-suspects-tombe-de-906-a-116-et-le-nombre-de-cas-confirme-a-augmente-de-134-a-330-selon-l-oms_8041169.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/g8PpTpA273Sgbolz97dmoHeKs4Q/0x417:4895x3171/432x243/filters:format(jpg)/2026/06/02/6a1ed2abe6887023905549.jpg",
-      "date": "2026-06-02T15:15:19+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Virus Ebola : Bonne nouvelle, le nombre de cas régresse nettement en RDC",
       "desc": "Alors que l’aéroport menant à l’épicentre de la maladie vient de rouvrir en République démocratique du Congo, les autorités sanitaires constatent une diminution des cas suspects de contamination",
       "url": "https://www.20minutes.fr/monde/4226790-20260602-virus-ebola-bonne-nouvelle-nombre-cas-regresse-nettement-rdc?at_medium=display&at_campaign=149",
@@ -303,16 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Le laboratoire Servier mise 1,33 milliard d’euros sur des traitements contre les dystrophies musculaires",
-      "desc": "Le groupe pharmaceutique français rachète l’activité dystrophie musculaire de l’américain Edgewise Therapeutics, incluant un traitement expérimental contre les maladies de Duchenne et de Becker.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/01/le-laboratoire-servier-mise-1-33-milliard-d-euros-sur-des-traitements-contre-les-dystrophies-musculaires_6695980_3234.html",
-      "image": "https://img.lemde.fr/2026/06/01/408/0/4928/2464/644/322/60/0/51d284f_upload-1-q7wkxc8jzqho-000-s38gc.jpg",
-      "date": "2026-06-01T16:21:55+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer : Des vermifuges présentés à tort comme des remèdes miracles sur les réseaux sociaux",
       "desc": "Une nouvelle tendance consistant à prendre des vermifuges (parfois vétérinaires) pour lutter contre le cancer se répand sur les réseaux sociaux, avec de nombreux risques de santé à la clé",
       "url": "https://www.20minutes.fr/sante/4226597-20260601-cancer-vermifuges-presentes-tort-comme-remedes-miracles-reseaux-sociaux?at_medium=display&at_campaign=149",
@@ -363,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Cancers du pancréas : l’efficacité d’un traitement innovant présenté à Chicago, alors qu’un programme de prévention se déploie en France",
-      "desc": "En cas de tumeur métastatique du pancréas, une nouvelle molécule, le daraxonrasib, double la survie, a montré un essai international présenté au congrès de la Société américaine d’oncologie clinique, dimanche. En France, un programme de dépistage et de prévention personnalisé, lancé par l’Institut G",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/31/cancers-du-pancreas-l-efficacite-d-un-traitement-innovant-presente-a-chicago-alors-qu-un-programme-de-prevention-se-deploie-en-france_6695584_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/29/199/0/3436/1718/644/322/60/0/95f9864_upload-1-p16jylzwwjys-pudlarz-2.jpg",
-      "date": "2026-05-31T15:04:31+00:00",
-      "date_formatted": "31 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cet acide aminé essentiel pourrait avoir des effets surprenants sur le vieillissement selon des chercheurs",
       "desc": "Le secret de la longévité était-il sous nos yeux depuis le début ? C'est ce que suggère une équipe de chercheurs de l'université du Wisconsin (États-Unis) qui a mis au jour le rôle phare que jouerait un acide aminé sur notre état de santé et notre durée de vie.",
       "url": "https://www.futura-sciences.com/sante/actualites/esperance-vie-cet-acide-amine-essentiel-pourrait-avoir-effets-surprenants-vieillissement-selon-chercheurs-w2t8-134835/#xtor%3DRSS-8",
@@ -381,16 +401,6 @@
       "date_formatted": "31 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "La crise du hantavirus « assez bien maîtrisée », selon des experts argentins de la maladie",
-      "desc": "Réunis en congrès à Buenos Aires, des experts argentins du hantavirus estiment que l’épidémie qui a fait trois morts à bord du MV Hondius « s’arrête là »",
-      "url": "https://www.20minutes.fr/sante/4226298-20260531-crise-hantavirus-assez-bien-maitrisee-selon-experts-argentins-maladie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/QZzW1CH1TeO3fv95eOKX7yk/1200x768_19-mai-2026-rotterdam-hollande-meridionale-pays-bas-19-mai-2026-rotterdam-pays-bas-une-equipe-de-nettoyage-des-matieres-dangereuses-portant-tous-les-equipements-de-protection-individuelle-discute-et-planifie-avant-d-entrer-dans-le-m-v-hondius-le-m-v-hondius-amarre-dans-le-port-de-rotterdam-fait-actuellement-l-objet-d-un-processus-de-desinfection-complet-cela-devrait-etre-termine-le-vendredi-22-mai-une-fois-cette-operation-terminee-le-navire-sera-remis-en-service-image-de-credit-james-petermeier-zuma-press-wire-20260519-zip-p202-002-zeus-2605191517",
-      "date": "2026-05-31T07:53:19+00:00",
-      "date_formatted": "31 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "L’incontinence urinaire féminine : un trouble sous-estimé aux répercussions majeures sur la qualité de vie des femmes",
