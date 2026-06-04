@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-06-04T14:29:31.351348+00:00",
-  "count": 65,
+  "generated_at": "2026-06-04T19:52:23.716475+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "La PrEP, efficace contre le VIH mais trop peu connue",
+      "desc": "Alors qu’elle est efficace et remboursée à 100% par l’Assurance maladie, la PrEP, traitement préventif contre le VIH, est sous-utilisée, selon le Conseil national du sida et des hépatites virales.",
+      "url": "https://www.franceinfo.fr/sante/sida/la-prep-efficace-contre-le-vih-mais-trop-peu-connue_8044940.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/XofVvvKtG3CwoxuqZA184_Nqm-Q/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/04/6a2191083fec2562869176.jpg",
+      "date": "2026-06-04T20:00:01+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Moyen-Orient : le Hezbollah refuse l’accord de cessez-le-feu avec Israël",
+      "desc": "Israël et le Liban ont convenu dans la nuit de la création de «zones pilotes» sous contrôle de l’armée libanaise. En parallèle, des tirs ont causé la mort d’un Casque bleu, et en ont blessé deux autres.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-israel-et-le-liban-conditionnent-un-cessez-le-feu-a-larret-des-tirs-du-hezbollah-20260604_756SANZIRVBZPCXJ6FIVMMLGQA/",
+      "image": null,
+      "date": "2026-06-04T19:29:00+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : pour l’avocat des parents de la collégienne, «le temps est maintenant au recueillement et au deuil, dans l’attente de l’autopsie»",
+      "desc": "Le procureur d’Agen Olivier Naboulet a annoncé ce jeudi que «le corps paraissant être celui d’un enfant a été retrouvé» dans une exploitation agricole du Gers. La fillette de 11 ans a disparu vendredi à Fleurance, à une quinzaine de kilomètres de là.",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-un-corps-decouvert-pres-du-lieu-de-la-disparition-de-la-collegienne-de-11-ans-20260604_LJQH6QZT3VEOTGGJQCYNFCPRSA/",
+      "image": null,
+      "date": "2026-06-04T19:21:20+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Marjane Satrapi : les mille et une vies de l’artiste",
+      "desc": "La dessinatrice et réalisatrice, symbole de la résistance iranienne, est morte à 56 ans. Après l’énorme succès de «Persepolis», elle aura su se diversifier et tracer sa voie, revendiquant toujours une grande indépendance d’esprit, ne cessant jamais de soutenir les mouvements de révolte de son pays d",
+      "url": "https://www.liberation.fr/culture/bd/mort-de-marjane-satrapi-les-mille-et-une-vies-de-lartiste-20260604_FCWQKNHQD5FLHOBDOWYVZV6GN4/",
+      "image": null,
+      "date": "2026-06-04T19:14:30+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Nantes : une fusillade fait un mort dans un quartier sensible, le quatrième en un mois",
+      "desc": "Le corps d’un jeune majeur a été retrouvé ce jeudi 4 juin par les policiers, dans le quartier de la Bottière. Les tireurs, qui auraient «rafalé» un groupe de jeunes, sont en fuite.",
+      "url": "https://www.liberation.fr/societe/police-justice/nantes-une-fusillade-fait-un-mort-dans-un-quartier-sensible-le-quatrieme-en-un-mois-20260604_MUZLKGGBPRDQRBAR5JIDQIPLVE/",
+      "image": null,
+      "date": "2026-06-04T19:11:22+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : après trois semaines de quarantaine, 22 Français retrouveront une vie normale samedi",
+      "desc": "Le ministère de la Santé annonce par ailleurs que la période d’isolement pour les quatre croisiéristes, présents sur le bateau, s’achèvera le 21 juin et que la femme de 65 ans, gravement atteinte, est toujours en réanimation «dans un état stable».",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-apres-trois-semaines-de-quarantaine-22-francais-retrouveront-une-vie-normale-samedi-20260604_DFQLZKLAHRH6NFQEJZGLMUD7ZM/",
+      "image": null,
+      "date": "2026-06-04T18:36:33+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Marjane Satrapi : Deneuve, Sfar, Mastroianni… les hommages en dessins et en mots après la mort de l’artiste franco-iranienne",
+      "desc": "La dessinatrice et réalisatrice est morte à l’âge de 56 ans, ont annoncé ses proches ce jeudi 4 juin. De Coco à l’Elysée, «Libé» rassemble les différents hommages à l’autrice de «Persepolis».",
+      "url": "https://www.liberation.fr/culture/bd/en-direct-mort-de-marjane-satrapi-lelysee-salue-la-memoire-dune-artiste-eprise-de-liberte-20260604_P4JPW7MK6RHSZBJQ4IZDJFJKEY/",
+      "image": null,
+      "date": "2026-06-04T18:03:02+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"L'un est non-jugeant, l'autre se pose plein de questions\" : quand le cheval aide les femmes à se relever après un cancer",
+      "desc": "Avec l'association \"Hope\", Annabel Brourhant offre aux femmes ayant vécu un cancer l'opportunité de se retrouver entre elles, autour de l'équithérapie et de l'art. Des séjours complètement gratuits qui aident ces femmes à se reconstruire après une telle épreuve.",
+      "url": "https://www.franceinfo.fr/sante/l-un-est-non-jugeant-l-autre-se-pose-plein-de-questions-quand-le-cheval-aide-les-femmes-a-se-relever-apres-un-cancer_8044928.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/DGiACzvl8x8oAtxLHYAqs9RGOPQ/0x29:1315x769/432x243/filters:format(jpg)/2026/06/04/6a2194836f09a203097822.jpg",
+      "date": "2026-06-04T17:53:56+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Santé : quels aliments contiennent le plus de cadmium, un métal toxique pour la santé ?",
       "desc": "Présent dans de très nombreux aliments tels que les pommes de terre, le pain ou les céréales, le cadmium peut, en cas de taux trop élevé dans l'organisme, avoir des conséquences pour la santé et provoquer des maladies. Mais comment l'éviter ?",
@@ -27,7 +107,7 @@
       "desc": "Une étude menée à partir d’une cohorte de Singapour montre que le temps passé devant les écrans à partir de l’âge de 1 an est associé à de moins bonnes performances en primaire, à 9 ans. De nouveaux résultats qui confortent des travaux précédents.",
       "url": "https://www.lemonde.fr/sciences/article/2026/06/04/plus-le-temps-d-ecran-est-long-dans-la-petite-enfance-moins-bons-sont-les-resultats-scolaires_6697437_1650684.html",
       "image": "https://img.lemde.fr/2026/06/03/560/0/6720/3360/644/322/60/0/d339e96_upload-1-87tl0udjjusa-rea8415802.jpg",
-      "date": "2026-06-04T16:00:09+00:00",
+      "date": "2026-06-04T16:00:06+00:00",
       "date_formatted": "4 June 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -40,46 +120,6 @@
       "date": "2026-06-04T15:08:25+00:00",
       "date_formatted": "4 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Moyen-Orient : le Hezbollah refuse l’accord de cessez-le-feu avec Israël",
-      "desc": "Israël et le Liban ont convenu dans la nuit de la création de «zones pilotes» sous contrôle de l’armée libanaise. En parallèle des tirs ont causé la mort d’un Casque bleu, et en ont blessé deux autres.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-israel-et-le-liban-conditionnent-un-cessez-le-feu-a-larret-des-tirs-du-hezbollah-20260604_756SANZIRVBZPCXJ6FIVMMLGQA/",
-      "image": null,
-      "date": "2026-06-04T14:24:48+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Marjane Satrapi : Deneuve, Sfar, Macron... tristesse et hommages après la mort de l’artiste franco-iranienne",
-      "desc": "La dessinatrice et réalisatrice est morte à l’âge de 56 ans, ont annoncé ses proches jeudi 4 juin. De Coco à l’Elysée, «Libé» rassemble les différents hommages à l’autrice de «Persepolis».",
-      "url": "https://www.liberation.fr/culture/bd/en-direct-mort-de-marjane-satrapi-lelysee-salue-la-memoire-dune-artiste-eprise-de-liberte-20260604_P4JPW7MK6RHSZBJQ4IZDJFJKEY/",
-      "image": null,
-      "date": "2026-06-04T14:19:26+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Incendie mortel de Crans-Montana : Jacques Moretti, accusé de «bullshit» par des parties civiles, réagit auprès de «Libé»",
-      "desc": "Rencontré dans l’un de ses établissements, le gérant du Constellation, qui doit faire face aux enquêteurs suisses vendredi 5 juin, a déclaré à notre envoyée spéciale vivre depuis six mois «une campagne médiatique immonde» et être la cible de fausses rumeurs. Les familles des victimes entendent, elle",
-      "url": "https://www.liberation.fr/societe/police-justice/incendie-de-crans-montana-a-la-veille-de-son-audition-jacques-moretti-entend-faire-eclater-toute-la-verite-20260604_BQPAZADJVVB65OBHJBP4ZAQH5I/",
-      "image": null,
-      "date": "2026-06-04T13:36:57+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Nantes : une fusillade fait un mort dans un quartier sensible, le quatrième en un mois",
-      "desc": "Le corps d’un jeune majeur a été retrouvé ce jeudi 4 juin par les policiers, dans le quartier de la Bottière. Les tireurs, qui auraient «rafalé» un groupe de jeunes, sont en fuite.",
-      "url": "https://www.liberation.fr/societe/police-justice/nantes-une-fusillade-fait-un-mort-dans-un-quartier-sensible-le-quatrieme-en-un-mois-20260604_MUZLKGGBPRDQRBAR5JIDQIPLVE/",
-      "image": null,
-      "date": "2026-06-04T13:09:23+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -144,7 +184,7 @@
     },
     {
       "title": "Fin de vie : la stratégie de l’exécutif pour faire adopter le texte de loi cet été",
-      "desc": "Résolu à voir au plus vite voté ce texte souhaité par Emmanuel Macron, le gouvernement souhaite supprimer les délits d’entrave et d’incitation à l’aide à mourir – deux ajouts issus des débats parlementaires, qui concentrent les crispations.",
+      "desc": "Résolu à voir ce texte souhaité par Emmanuel Macron voté au plus vite, le gouvernement souhaite supprimer les délits d’entrave et d’incitation à l’aide à mourir – deux ajouts issus des débats parlementaires, qui concentrent les crispations.",
       "url": "https://www.lemonde.fr/politique/article/2026/06/03/fin-de-vie-la-strategie-de-l-executif-pour-faire-adopter-le-texte-de-loi-cet-ete_6696659_823448.html",
       "image": "https://img.lemde.fr/2026/06/03/664/0/8000/4000/644/322/60/0/be1eba3_upload-1-dg8lp1dubkqd-jmug260519006.jpg",
       "date": "2026-06-03T20:01:59+00:00",
@@ -250,16 +290,6 @@
       "date": "2026-06-03T06:09:59+00:00",
       "date_formatted": "3 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Foot : un maire espagnol interdit un match amical de préparation à la Coupe du monde entre la RD Congo et le Chili en raison de l'épidémie d'Ebola",
-      "desc": "La rencontre devait se tenir mardi 9 juin à La Linea de la Concepcion, près de Gibraltar.",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/foot-un-maire-espagnol-interdit-un-match-amical-de-preparation-a-la-coupe-du-monde-entre-la-rd-congo-et-le-chili-en-raison-de-l-epidemie-d-ebola_8041769.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mvbc0TQJ0-zRMKo9nurSnEW09h8/0x0:4096x2304/432x243/filters:format(jpg)/2026/06/02/6a1f217654e01957573978.jpg",
-      "date": "2026-06-02T20:43:44+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -493,16 +523,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Ebola : un risque \"élevé\" en Afrique centrale mais \"faible\" au niveau mondial",
       "desc": "Le risque épidémique d'Ebola en République démocratique du Congo (RDC) est jugé \"élevé\" pour l'Afrique centrale mais \"faible\" au niveau mondial par l'Organisation mondiale de la santé (OMS), selon laquelle l'épidémie est probablement apparue \"il y a plusieurs mois\".",
       "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-evoque-un-risque-eleve-en-afrique-centrale-mais-faible-au-niveau-mondial_192536?xtor=RSS-16",
@@ -513,26 +533,6 @@
       "type": "science"
     },
     {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Cerveau : comment le sexe influence l'expression des gènes",
       "desc": "Des chercheurs américains révèlent des différences subtiles mais généralisées dans l’expression génétique entre les cerveaux masculins et féminins. Cette disparité pourrait contribuer à expliquer comment le sexe influe sur le risque et le développement de certaines maladies.",
       "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/cerveau-l-expression-genetique-depend-du-sexe-et-peut-influencer-le-risque-de-maladie_192492?xtor=RSS-16",
@@ -540,116 +540,6 @@
       "date": "2026-05-20T12:43:52+00:00",
       "date_formatted": "20 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
-      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
-      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
-      "image": null,
-      "date": "2026-04-21T15:30:59+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
-      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
-      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
-      "image": null,
-      "date": "2026-04-21T08:00:54+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
-      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
-      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
-      "image": null,
-      "date": "2026-04-21T00:00:17+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
-      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
-      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
-      "image": null,
-      "date": "2026-04-16T18:00:00+00:00",
-      "date_formatted": "16 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
-      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
-      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
-      "image": null,
-      "date": "2026-04-14T13:00:00+00:00",
-      "date_formatted": "14 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
-      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
-      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
-      "image": null,
-      "date": "2026-04-03T09:21:47+00:00",
-      "date_formatted": "3 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
-      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
-      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
-      "image": null,
-      "date": "2026-03-26T16:00:46+00:00",
-      "date_formatted": "26 March 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
