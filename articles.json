@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-06-04T09:39:59.026154+00:00",
-  "count": 63,
+  "generated_at": "2026-06-04T14:29:31.351348+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "Santé : quels aliments contiennent le plus de cadmium, un métal toxique pour la santé ?",
+      "desc": "Présent dans de très nombreux aliments tels que les pommes de terre, le pain ou les céréales, le cadmium peut, en cas de taux trop élevé dans l'organisme, avoir des conséquences pour la santé et provoquer des maladies. Mais comment l'éviter ?",
+      "url": "https://www.franceinfo.fr/sante/sante-quels-aliments-contiennent-le-plus-de-cadmium-un-metal-toxique-pour-la-sante_8044838.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/E84YK9c_z8_5AQ1L15XtvIMzKag/0x35:1436x843/432x243/filters:format(jpg)/2026/06/04/6a2185f118b78008496419.jpg",
+      "date": "2026-06-04T16:05:18+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Inégalités sociales face au cancer : il y a \"un travail d’éducation à mener\" sur le dépistage, explique un oncologue",
+      "desc": "Nous ne sommes pas tous égaux face au cancer, révèle une étude publiée ce jeudi par la DREES, et qui permet de mieux comprendre les mécanismes à l’origine des inégalités entre catégories sociales face à la maladie. Selon Jean-Yves Blay, oncologue et président d'Unicancer, \"le dépistage est très inég",
+      "url": "https://www.franceinfo.fr/sante/cancer/inegalites-sociales-face-au-cancer-il-y-a-un-travail-d-education-a-mener-sur-le-depistage-explique-un-oncologue_8044517.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/fL7MLPKAx48aQE1o_iaS8w3wxCU/0x378:4032x2646/432x243/filters:format(jpg)/2026/06/04/6a217fb6c8210856437616.jpg",
+      "date": "2026-06-04T16:04:17+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Plus le temps d’écran est long dans la petite enfance, moins bons sont les résultats scolaires",
+      "desc": "Une étude menée à partir d’une cohorte de Singapour montre que le temps passé devant les écrans à partir de l’âge de 1 an est associé à de moins bonnes performances en primaire, à 9 ans. De nouveaux résultats qui confortent des travaux précédents.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/04/plus-le-temps-d-ecran-est-long-dans-la-petite-enfance-moins-bons-sont-les-resultats-scolaires_6697437_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/03/560/0/6720/3360/644/322/60/0/d339e96_upload-1-87tl0udjjusa-rea8415802.jpg",
+      "date": "2026-06-04T16:00:09+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Un quatrième mort par balles à Nantes en près d’un mois, annonce la maire, Johanna Rolland",
+      "desc": "Un jeune homme d’une vingtaine d’années a été tué par de multiples tirs, selon une source proche du dossier. « Tous les moyens doivent être mis en œuvre pour mettre un terme à cette série de règlements de comptes », a affirmé l’édile nantaise.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/04/un-quatrieme-mort-par-balles-a-nantes-en-pres-d-un-mois-annonce-la-maire-johanna-rolland_6697395_3224.html",
+      "image": "https://img.lemde.fr/2026/06/04/299/0/4032/2016/644/322/60/0/d787138_upload-1-j1ileckob7ca-20260604ofr3084.jpg",
+      "date": "2026-06-04T15:08:25+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Moyen-Orient : le Hezbollah refuse l’accord de cessez-le-feu avec Israël",
+      "desc": "Israël et le Liban ont convenu dans la nuit de la création de «zones pilotes» sous contrôle de l’armée libanaise. En parallèle des tirs ont causé la mort d’un Casque bleu, et en ont blessé deux autres.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-israel-et-le-liban-conditionnent-un-cessez-le-feu-a-larret-des-tirs-du-hezbollah-20260604_756SANZIRVBZPCXJ6FIVMMLGQA/",
+      "image": null,
+      "date": "2026-06-04T14:24:48+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Marjane Satrapi : Deneuve, Sfar, Macron... tristesse et hommages après la mort de l’artiste franco-iranienne",
+      "desc": "La dessinatrice et réalisatrice est morte à l’âge de 56 ans, ont annoncé ses proches jeudi 4 juin. De Coco à l’Elysée, «Libé» rassemble les différents hommages à l’autrice de «Persepolis».",
+      "url": "https://www.liberation.fr/culture/bd/en-direct-mort-de-marjane-satrapi-lelysee-salue-la-memoire-dune-artiste-eprise-de-liberte-20260604_P4JPW7MK6RHSZBJQ4IZDJFJKEY/",
+      "image": null,
+      "date": "2026-06-04T14:19:26+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Incendie mortel de Crans-Montana : Jacques Moretti, accusé de «bullshit» par des parties civiles, réagit auprès de «Libé»",
+      "desc": "Rencontré dans l’un de ses établissements, le gérant du Constellation, qui doit faire face aux enquêteurs suisses vendredi 5 juin, a déclaré à notre envoyée spéciale vivre depuis six mois «une campagne médiatique immonde» et être la cible de fausses rumeurs. Les familles des victimes entendent, elle",
+      "url": "https://www.liberation.fr/societe/police-justice/incendie-de-crans-montana-a-la-veille-de-son-audition-jacques-moretti-entend-faire-eclater-toute-la-verite-20260604_BQPAZADJVVB65OBHJBP4ZAQH5I/",
+      "image": null,
+      "date": "2026-06-04T13:36:57+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Nantes : une fusillade fait un mort dans un quartier sensible, le quatrième en un mois",
+      "desc": "Le corps d’un jeune majeur a été retrouvé ce jeudi 4 juin par les policiers, dans le quartier de la Bottière. Les tireurs, qui auraient «rafalé» un groupe de jeunes, sont en fuite.",
+      "url": "https://www.liberation.fr/societe/police-justice/nantes-une-fusillade-fait-un-mort-dans-un-quartier-sensible-le-quatrieme-en-un-mois-20260604_MUZLKGGBPRDQRBAR5JIDQIPLVE/",
+      "image": null,
+      "date": "2026-06-04T13:09:23+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Pourquoi avons-nous peur ? », la plus ancienne de nos émotions décortiquée par la science",
+      "desc": "Le docteur en neurobiologie et journaliste Sébastien Bohler convoque plusieurs disciplines scientifiques pour retracer les mécanismes de la peur, ainsi que son évolution. Et propose des pistes pour la chasser.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/04/pourquoi-avons-nous-peur-la-plus-ancienne-de-nos-emotions-decortiquee-par-la-science_6697345_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/01/160/0/1920/960/644/322/60/0/460fd65_upload-1-nxz6ehuykcjh-generated-1780320827132.jpg",
+      "date": "2026-06-04T12:30:09+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "Selon une étude, les Français les plus modestes sont davantage exposés aux formes de cancers les plus graves",
       "desc": "La Direction de la recherche, des études, de l'évaluation et des statistiques montre notamment des inégalités sociales au moment du diagnostic. Or la détection précoce d'un cancer permet de le soigner plus facilement.",
@@ -20,46 +110,6 @@
       "date": "2026-06-04T08:06:31+00:00",
       "date_formatted": "4 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Marjane Satrapi, autrice franco-iranienne de «Persepolis», est morte à 56 ans",
-      "desc": "Selon le communiqué de son entourage, l’artiste franco-iranienne est «morte de tristesse un peu plus d’un an après le décès de Mattias Ripa, son mari et l’amour de sa vie».",
-      "url": "https://www.liberation.fr/culture/marjane-satrapi-autrice-de-persepolis-est-morte-a-56-ans-20260604_JWCYP3RG7BC7JEQ2GA2WBZCPIA/",
-      "image": null,
-      "date": "2026-06-04T08:02:55+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le cancer frappe les riches comme les pauvres, mais plus durement les pauvres",
-      "desc": "Il existe un lien «extrêmement fort» entre sociodémographie et maladie, selon une étude publiée ce jeudi 4 juin par la Drees. Le cancer est la première cause de mortalité en France avec plus de 160 000 morts chaque année et celui du poumon est surreprésenté chez les plus modestes.",
-      "url": "https://www.liberation.fr/societe/sante/les-inegalites-sociales-face-au-cancer-se-construisent-a-plusieurs-etapes-les-francais-les-plus-modestes-sont-les-plus-a-risque-de-developper-des-formes-graves-20260604_TJI6YZUI6BDO3CPIX72HQH7OVA/",
-      "image": null,
-      "date": "2026-06-04T07:57:19+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cancers, insuffisance rénale et fractures des os… Quels sont les effets toxiques avérés du cadmium sur la santé ?",
-      "desc": "Alors que l’Assemblée nationale a adopté dans la nuit de mercredi à jeudi la proposition de loi écologiste pour réduire le seuil autorisé de ce métal lourd dans les engrais, «Libé» fait le point sur les risques liés à l’exposition massive via l’alimentation.",
-      "url": "https://www.liberation.fr/societe/sante/cancers-insuffisance-renale-et-fractures-des-os-quels-sont-les-effets-toxiques-averes-du-cadmium-sur-la-sante-20260603_YFDY74WUX5H6FMJYNHK2ZBXFNY/",
-      "image": null,
-      "date": "2026-06-04T07:44:28+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Il rampait vers le camp de base» : au Népal, un guide porté disparu dans l’Everest retrouvé vivant six jours après",
-      "desc": "Hillary Dawa Sherpa, grimpeur expérimenté de 30 ans, a été hospitalisé à Katmandou ce mercredi 4 juin après avoir été considéré comme mort sur le plus haut sommet du monde.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/il-rampait-vers-le-camp-de-base-au-nepal-un-guide-nepalais-porte-disparu-dans-leverest-retrouve-vivant-six-jours-apres-20260604_YB3L24XTDBBS7HF6IK3WQ3NN5Q/",
-      "image": null,
-      "date": "2026-06-04T07:33:06+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -208,16 +258,6 @@
       "url": "https://www.franceinfo.fr/coupe-du-monde/foot-un-maire-espagnol-interdit-un-match-amical-de-preparation-a-la-coupe-du-monde-entre-la-rd-congo-et-le-chili-en-raison-de-l-epidemie-d-ebola_8041769.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/mvbc0TQJ0-zRMKo9nurSnEW09h8/0x0:4096x2304/432x243/filters:format(jpg)/2026/06/02/6a1f217654e01957573978.jpg",
       "date": "2026-06-02T20:43:44+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Nouvelle génération d'immunothérapie, thérapie ciblée contre la rechute… Deux traitements affichent de bons résultats contre le cancer du poumon",
-      "desc": "Deux études présentées au Congrès annuel du cancer de Chicaco, aux Etats-Unis, présentent des traitements efficaces contre le cancer du poumon le plus répandu, le cancer non à petites cellules (CPNPC). L'enjeu est désormais de pouvoir dépister plus tôt les patients.",
-      "url": "https://www.franceinfo.fr/sante/cancer/nouvelle-generation-d-immunotherapie-therapie-ciblee-contre-la-rechute-deux-traitements-affichent-de-bons-resultats-contre-le-cancer-du-poumon_8041403.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/RegDizDhbBiR_LTjzaUIL2s--bI/0x39:1024x615/432x243/filters:format(jpg)/2026/06/02/6a1ef40db58d8581800877.jpg",
-      "date": "2026-06-02T19:24:13+00:00",
       "date_formatted": "2 June 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -383,16 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Et le concombre de mer inventa les tissus immortels",
-      "desc": "Une équipe canadienne vient de montrer que des fragments de l’animal peuvent survivre et croître plusieurs années dans l’eau de mer.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/31/et-le-concombre-de-mer-inventa-les-tissus-immortels_6695585_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/29/413/0/5484/2742/644/322/60/0/2dc7d3c_upload-1-lcfcrdfgbn2u-gettyimages-549403047.jpg",
-      "date": "2026-05-31T15:30:09+00:00",
-      "date_formatted": "31 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cet acide aminé essentiel pourrait avoir des effets surprenants sur le vieillissement selon des chercheurs",
       "desc": "Le secret de la longévité était-il sous nos yeux depuis le début ? C'est ce que suggère une équipe de chercheurs de l'université du Wisconsin (États-Unis) qui a mis au jour le rôle phare que jouerait un acide aminé sur notre état de santé et notre durée de vie.",
       "url": "https://www.futura-sciences.com/sante/actualites/esperance-vie-cet-acide-amine-essentiel-pourrait-avoir-effets-surprenants-vieillissement-selon-chercheurs-w2t8-134835/#xtor%3DRSS-8",
@@ -409,16 +439,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/3/e/93eff14c2e_50255879_incontinence-urinaire.jpg",
       "date": "2026-05-31T07:00:00+00:00",
       "date_formatted": "31 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Alzheimer : ce coupable caché dans le cerveau intrigue de plus en plus les chercheurs",
-      "desc": "Une avancée prometteuse dans la lutte contre Alzheimer vient d'être réalisée. Des scientifiques ont identifié un nouveau « coupable » potentiel : certaines cellules immunitaires du cerveau. Cette découverte pourrait ouvrir la voie à de nouvelles approches thérapeutiques. Quelles sont les...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-coupable-cache-cerveau-intrigue-plus-plus-chercheurs-w2t8-134833/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/6/6/e66c4c9f7c_50225963_alzheimer-cerveau.jpg",
-      "date": "2026-05-30T09:00:00+00:00",
-      "date_formatted": "30 May 2026",
       "source": "Futura Santé",
       "type": "science"
     },
