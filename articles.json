@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-06-04T19:52:23.716475+00:00",
-  "count": 54,
+  "generated_at": "2026-06-05T02:05:15.338138+00:00",
+  "count": 71,
   "articles": [
+    {
+      "title": "Sao Tomé-et-Principe, l'île verdoyante au café d'exception",
+      "desc": "Sur l'île de Sao Tomé-et-Principe, la culture du café est une tradition centenaire, arrivée en même temps que les colons portugais il y a 200 ans. Depuis, l'île produit un café très prisé en petites quantités, quelques dizaines de tonnes par an.",
+      "url": "https://www.franceinfo.fr/decouverte/sao-tome-et-principe-l-ile-verdoyante-au-cafe-d-exception_8045438.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Ff6b68a1St1qBmfCGGz95iSG168/0x99:1013x669/432x243/filters:format(jpg)/2026/06/04/6a21e48bdcf85774840827.jpg",
+      "date": "2026-06-04T23:44:03+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un espoir inédit pour les personnes atteintes du cancer du pancréas",
+      "desc": "Grâce à un traitement expérimental américain à prendre tous les jours, Lise, 49, atteinte d'un cancer du pancréas métastasique, va beaucoup mieux. Des résultats inespérés pour une maladie au pronostic aussi mauvais, et un médicament qui devrait arriver en France l'an prochain.",
+      "url": "https://www.franceinfo.fr/sante/un-espoir-inedit-pour-les-personnes-atteintes-du-cancer-du-pancreas_8045417.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/nENMVGmHtrlyLDImc8pDIbEfRmg/0x0:1319x742/432x243/filters:format(jpg)/2026/06/04/6a21db8c553f9914320574.jpg",
+      "date": "2026-06-04T22:18:01+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Moyen-Orient : le Hezbollah refuse l’accord de cessez-le-feu avec Israël",
+      "desc": "Israël et le Liban ont convenu dans la nuit de la création de «zones pilotes» sous contrôle de l’armée libanaise. En parallèle, des tirs ont causé la mort d’un Casque bleu, et en ont blessé deux autres.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-israel-et-le-liban-conditionnent-un-cessez-le-feu-a-larret-des-tirs-du-hezbollah-20260604_756SANZIRVBZPCXJ6FIVMMLGQA/",
+      "image": null,
+      "date": "2026-06-04T20:24:25+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Marjane Satrapi : Deneuve, Sfar, Mastroianni… les hommages en dessins et en mots après la mort de l’artiste franco-iranienne",
+      "desc": "La dessinatrice et réalisatrice est morte à l’âge de 56 ans, ont annoncé ses proches ce jeudi 4 juin. De Coco à l’Elysée, «Libé» rassemble les différents hommages à l’autrice de «Persepolis».",
+      "url": "https://www.liberation.fr/culture/bd/en-direct-mort-de-marjane-satrapi-lelysee-salue-la-memoire-dune-artiste-eprise-de-liberte-20260604_P4JPW7MK6RHSZBJQ4IZDJFJKEY/",
+      "image": null,
+      "date": "2026-06-04T20:01:12+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "La PrEP, efficace contre le VIH mais trop peu connue",
       "desc": "Alors qu’elle est efficace et remboursée à 100% par l’Assurance maladie, la PrEP, traitement préventif contre le VIH, est sous-utilisée, selon le Conseil national du sida et des hépatites virales.",
@@ -13,21 +53,11 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Moyen-Orient : le Hezbollah refuse l’accord de cessez-le-feu avec Israël",
-      "desc": "Israël et le Liban ont convenu dans la nuit de la création de «zones pilotes» sous contrôle de l’armée libanaise. En parallèle, des tirs ont causé la mort d’un Casque bleu, et en ont blessé deux autres.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-israel-et-le-liban-conditionnent-un-cessez-le-feu-a-larret-des-tirs-du-hezbollah-20260604_756SANZIRVBZPCXJ6FIVMMLGQA/",
-      "image": null,
-      "date": "2026-06-04T19:29:00+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Affaire Lyhanna : pour l’avocat des parents de la collégienne, «le temps est maintenant au recueillement et au deuil, dans l’attente de l’autopsie»",
       "desc": "Le procureur d’Agen Olivier Naboulet a annoncé ce jeudi que «le corps paraissant être celui d’un enfant a été retrouvé» dans une exploitation agricole du Gers. La fillette de 11 ans a disparu vendredi à Fleurance, à une quinzaine de kilomètres de là.",
       "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-un-corps-decouvert-pres-du-lieu-de-la-disparition-de-la-collegienne-de-11-ans-20260604_LJQH6QZT3VEOTGGJQCYNFCPRSA/",
       "image": null,
-      "date": "2026-06-04T19:21:20+00:00",
+      "date": "2026-06-04T19:52:36+00:00",
       "date_formatted": "4 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -58,16 +88,6 @@
       "url": "https://www.liberation.fr/societe/sante/hantavirus-apres-trois-semaines-de-quarantaine-22-francais-retrouveront-une-vie-normale-samedi-20260604_DFQLZKLAHRH6NFQEJZGLMUD7ZM/",
       "image": null,
       "date": "2026-06-04T18:36:33+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Marjane Satrapi : Deneuve, Sfar, Mastroianni… les hommages en dessins et en mots après la mort de l’artiste franco-iranienne",
-      "desc": "La dessinatrice et réalisatrice est morte à l’âge de 56 ans, ont annoncé ses proches ce jeudi 4 juin. De Coco à l’Elysée, «Libé» rassemble les différents hommages à l’autrice de «Persepolis».",
-      "url": "https://www.liberation.fr/culture/bd/en-direct-mort-de-marjane-satrapi-lelysee-salue-la-memoire-dune-artiste-eprise-de-liberte-20260604_P4JPW7MK6RHSZBJQ4IZDJFJKEY/",
-      "image": null,
-      "date": "2026-06-04T18:03:02+00:00",
       "date_formatted": "4 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -121,6 +141,16 @@
       "date_formatted": "4 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "« Pourquoi avons-nous peur ? », la plus ancienne de nos émotions décortiquée par la science",
@@ -523,6 +553,16 @@
       "type": "science"
     },
     {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Ebola : un risque \"élevé\" en Afrique centrale mais \"faible\" au niveau mondial",
       "desc": "Le risque épidémique d'Ebola en République démocratique du Congo (RDC) est jugé \"élevé\" pour l'Afrique centrale mais \"faible\" au niveau mondial par l'Organisation mondiale de la santé (OMS), selon laquelle l'épidémie est probablement apparue \"il y a plusieurs mois\".",
       "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-evoque-un-risque-eleve-en-afrique-centrale-mais-faible-au-niveau-mondial_192536?xtor=RSS-16",
@@ -533,6 +573,26 @@
       "type": "science"
     },
     {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Cerveau : comment le sexe influence l'expression des gènes",
       "desc": "Des chercheurs américains révèlent des différences subtiles mais généralisées dans l’expression génétique entre les cerveaux masculins et féminins. Cette disparité pourrait contribuer à expliquer comment le sexe influe sur le risque et le développement de certaines maladies.",
       "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/cerveau-l-expression-genetique-depend-du-sexe-et-peut-influencer-le-risque-de-maladie_192492?xtor=RSS-16",
@@ -540,6 +600,116 @@
       "date": "2026-05-20T12:43:52+00:00",
       "date_formatted": "20 May 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
+      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
+      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
+      "image": null,
+      "date": "2026-04-21T15:30:59+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
+      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
+      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
+      "image": null,
+      "date": "2026-04-21T08:00:54+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
+      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
+      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
+      "image": null,
+      "date": "2026-04-21T00:00:17+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
+      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
+      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
+      "image": null,
+      "date": "2026-04-16T18:00:00+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
+      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
+      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
+      "image": null,
+      "date": "2026-04-14T13:00:00+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
+      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
+      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
+      "image": null,
+      "date": "2026-04-03T09:21:47+00:00",
+      "date_formatted": "3 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
+      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
+      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
+      "image": null,
+      "date": "2026-03-26T16:00:46+00:00",
+      "date_formatted": "26 March 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
