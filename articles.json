@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-06-05T02:05:15.338138+00:00",
-  "count": 71,
+  "generated_at": "2026-06-05T09:24:56.933290+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title": "Hantavirus : Hospitalisés depuis trois semaines, 22 Français cas contact vont pouvoir rentrer chez eux samedi",
+      "desc": "Hospitalisés et placés à l’isolement après avoir été identifiés comme cas contact dans un avion d’une voyageuse néerlandaise décédée depuis de l’hantavirus, 22 Français vont pouvoir rentrer chez eux",
+      "url": "https://www.20minutes.fr/sante/4227351-20260605-hantavirus-hospitalises-depuis-trois-semaines-22-francais-cas-contact-vont-pouvoir-rentrer-chez-samedi?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/wvfDlOEwS-ej1sJoev0Jlyk/1200x768_cette-photo-d-illustration-prise-en-studio-a-paris-le-11-mai-2026-montre-un-flacon-avec-un-autocollant-mentionnant-hantivirus-une-epidemie-mortelle-d-hantavirus-sur-un-bateau-de-croisiere-a-suscite-des-inquietudes-dans-le-monde-entier-quant-a-la-propagation-potentielle-du-virus-parmi-et-par-les-personnes-evacuees-alors-qu-elles-rentraient-dans-leur-pays-d-origine-voici-les-principales-recommandations-de-l-organisation-mondiale-de-la-sante-pour-limiter-les-risques-de-transmission-et-mieux-proteger-les-personnes-exposees-a-ce-virus-rare-qui-se-propage-generalement-chez-les-rongeurs-et-pour-lequel-il-n-existe-ni-vaccin-ni-traitement-photo-de-joel-saget-afp",
+      "date": "2026-06-05T09:17:00+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Affaire Lyhanna : les résultats de l’autopsie attendus, le ministère de la Justice fait un «constat d’échec»",
+      "desc": "Un corps pouvant être celui de la collégienne de 11 ans disparue à Fleurance (Gers) a été retrouvé jeudi. Jérôme B., père de 41 ans d’une amie de Lyhanna, est mis en examen. Une réunion a lieu ce vendredi à Matignon.",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
+      "image": null,
+      "date": "2026-06-05T08:34:38+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Plus de 3 000 gènes modifiés chez des vapoteurs : ces arômes seraient au cœur du problème",
+      "desc": "Mangue, fruits rouges, menthe glaciale… Derrière les saveurs qui séduisent les utilisateurs de cigarettes électroniques se cachent peut-être des effets biologiques encore mal connus. Une nouvelle étude met en lumière l'impact potentiel des arômes sur l'expression de milliers de gènes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cigarette-electronique-plus-3-000-genes-modifies-chez-vapoteurs-ces-aromes-seraient-coeur-probleme-135031/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/4/2/042e12ac61_50256174_vapotage-arome-fruites.jpg",
+      "date": "2026-06-05T07:03:52+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "La laine de mouton peut favoriser la régénération des os",
+      "desc": "Une équipe londonienne a mis en évidence que la kératine naturellement contenue dans la toison de l’herbivore aide les cellules osseuses de rats à « fabriquer » de l’os, selon une architecture très organisée. Prometteur pour la dentisterie et l’orthopédie.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/05/la-laine-de-mouton-peut-favoriser-la-regeneration-des-os_6697900_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/29/87/0/3072/1536/644/322/60/0/9a8e534_upload-1-7brt3rznpv4e-media-appel.png",
+      "date": "2026-06-05T06:30:12+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Ukraine : Zelensky propose une rencontre à Poutine, trois morts dans des frappes russes sur plusieurs régions",
+      "desc": "Les frappes russes mortelles interviennent alors que le président Volodymyr Zelensky, dans une lettre ouverte publiée jeudi soir, a assuré que l’Ukraine était «prête à un cessez-le-feu complet pour la durée des négociations».",
+      "url": "https://www.liberation.fr/international/europe/ukraine-trois-morts-dans-des-frappes-russes-sur-plusieurs-regions-20260605_PJU5KJY2KNBLHNWQE7NB2SZUJM/",
+      "image": null,
+      "date": "2026-06-05T05:46:04+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Décrochage scolaire : «On ne cherche plus à raccrocher les jeunes mais à les insérer ailleurs»",
+      "desc": "Dispositifs hétérogènes, logique d’orientation externe, jeunes laissés de côté : le système de raccrochage vacille. Le chercheur Pierre-Yves Bernard décrypte cette évolution.",
+      "url": "https://www.liberation.fr/societe/education/decrochage-scolaire-on-ne-cherche-plus-a-raccrocher-les-jeunes-mais-a-les-inserer-ailleurs-20260605_N7UWP7Q7LZHWXMX5NS3RARPDCU/",
+      "image": null,
+      "date": "2026-06-05T05:10:00+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : un médicament qui pourrait «réduire de moitié le nombre de contacts contaminés» bientôt en phase d’essai",
+      "desc": "Un traitement pour échapper à Ebola. La chercheuse française Marie Jaspard lance un essai clinique novateur pour éviter le déclenchement de la maladie chez les personnes exposées au virus Bundibugyo, responsable de l’épidémie en république démocratique du Congo.",
+      "url": "https://www.liberation.fr/societe/sante/ebola-un-medicament-qui-pourrait-reduire-de-moitie-le-nombre-de-contacts-contamines-bientot-en-phase-dessai-20260605_QPZGKGTTAFH3NJVZQ6SKFC7TY4/",
+      "image": null,
+      "date": "2026-06-05T04:49:00+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Sao Tomé-et-Principe, l'île verdoyante au café d'exception",
       "desc": "Sur l'île de Sao Tomé-et-Principe, la culture du café est une tradition centenaire, arrivée en même temps que les colons portugais il y a 200 ans. Depuis, l'île produit un café très prisé en petites quantités, quelques dizaines de tonnes par an.",
@@ -23,26 +93,6 @@
       "type": "presse"
     },
     {
-      "title": "Moyen-Orient : le Hezbollah refuse l’accord de cessez-le-feu avec Israël",
-      "desc": "Israël et le Liban ont convenu dans la nuit de la création de «zones pilotes» sous contrôle de l’armée libanaise. En parallèle, des tirs ont causé la mort d’un Casque bleu, et en ont blessé deux autres.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-israel-et-le-liban-conditionnent-un-cessez-le-feu-a-larret-des-tirs-du-hezbollah-20260604_756SANZIRVBZPCXJ6FIVMMLGQA/",
-      "image": null,
-      "date": "2026-06-04T20:24:25+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Marjane Satrapi : Deneuve, Sfar, Mastroianni… les hommages en dessins et en mots après la mort de l’artiste franco-iranienne",
-      "desc": "La dessinatrice et réalisatrice est morte à l’âge de 56 ans, ont annoncé ses proches ce jeudi 4 juin. De Coco à l’Elysée, «Libé» rassemble les différents hommages à l’autrice de «Persepolis».",
-      "url": "https://www.liberation.fr/culture/bd/en-direct-mort-de-marjane-satrapi-lelysee-salue-la-memoire-dune-artiste-eprise-de-liberte-20260604_P4JPW7MK6RHSZBJQ4IZDJFJKEY/",
-      "image": null,
-      "date": "2026-06-04T20:01:12+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "La PrEP, efficace contre le VIH mais trop peu connue",
       "desc": "Alors qu’elle est efficace et remboursée à 100% par l’Assurance maladie, la PrEP, traitement préventif contre le VIH, est sous-utilisée, selon le Conseil national du sida et des hépatites virales.",
       "url": "https://www.franceinfo.fr/sante/sida/la-prep-efficace-contre-le-vih-mais-trop-peu-connue_8044940.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -50,46 +100,6 @@
       "date": "2026-06-04T20:00:01+00:00",
       "date_formatted": "4 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Affaire Lyhanna : pour l’avocat des parents de la collégienne, «le temps est maintenant au recueillement et au deuil, dans l’attente de l’autopsie»",
-      "desc": "Le procureur d’Agen Olivier Naboulet a annoncé ce jeudi que «le corps paraissant être celui d’un enfant a été retrouvé» dans une exploitation agricole du Gers. La fillette de 11 ans a disparu vendredi à Fleurance, à une quinzaine de kilomètres de là.",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-un-corps-decouvert-pres-du-lieu-de-la-disparition-de-la-collegienne-de-11-ans-20260604_LJQH6QZT3VEOTGGJQCYNFCPRSA/",
-      "image": null,
-      "date": "2026-06-04T19:52:36+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Marjane Satrapi : les mille et une vies de l’artiste",
-      "desc": "La dessinatrice et réalisatrice, symbole de la résistance iranienne, est morte à 56 ans. Après l’énorme succès de «Persepolis», elle aura su se diversifier et tracer sa voie, revendiquant toujours une grande indépendance d’esprit, ne cessant jamais de soutenir les mouvements de révolte de son pays d",
-      "url": "https://www.liberation.fr/culture/bd/mort-de-marjane-satrapi-les-mille-et-une-vies-de-lartiste-20260604_FCWQKNHQD5FLHOBDOWYVZV6GN4/",
-      "image": null,
-      "date": "2026-06-04T19:14:30+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Nantes : une fusillade fait un mort dans un quartier sensible, le quatrième en un mois",
-      "desc": "Le corps d’un jeune majeur a été retrouvé ce jeudi 4 juin par les policiers, dans le quartier de la Bottière. Les tireurs, qui auraient «rafalé» un groupe de jeunes, sont en fuite.",
-      "url": "https://www.liberation.fr/societe/police-justice/nantes-une-fusillade-fait-un-mort-dans-un-quartier-sensible-le-quatrieme-en-un-mois-20260604_MUZLKGGBPRDQRBAR5JIDQIPLVE/",
-      "image": null,
-      "date": "2026-06-04T19:11:22+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : après trois semaines de quarantaine, 22 Français retrouveront une vie normale samedi",
-      "desc": "Le ministère de la Santé annonce par ailleurs que la période d’isolement pour les quatre croisiéristes, présents sur le bateau, s’achèvera le 21 juin et que la femme de 65 ans, gravement atteinte, est toujours en réanimation «dans un état stable».",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-apres-trois-semaines-de-quarantaine-22-francais-retrouveront-une-vie-normale-samedi-20260604_DFQLZKLAHRH6NFQEJZGLMUD7ZM/",
-      "image": null,
-      "date": "2026-06-04T18:36:33+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -353,16 +363,6 @@
       "type": "presse"
     },
     {
-      "title": "« Gagner six mois de vie »... Un médicament contre le cancer du pancréas donne de l’espoir pour d’autres cancers",
-      "desc": "Un nouveau médicament pourrait transformer la prise en charge du cancer du pancréas métastasique en doublant l’espérance de vie des malades, tout en ouvrant des perspectives pour d’autres cancers",
-      "url": "https://www.20minutes.fr/sante/4226535-20260602-nouveau-medicament-contre-cancer-pancreas-donne-espoir-autres-cancers?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/_VkXeB50QGWXCB5xESTBBik/1200x768_le-daraxonrasib-permet-de-doubler-l-esperance-de-vie-des-malades-deja-traites-par-chimiotherapie",
-      "date": "2026-06-02T08:24:18+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Urgences : le temps de passage s'est-il allongé pour tous en dix ans ?",
       "desc": "Les passages aux urgences sont-ils plus longs qu'il y a dix ans, que le malade soit ausculté une seule fois, examiné à l'aide de radiologie et biologie médicale, ou hospitalisé à la fin ? Réponse avec l'étude de la Drees publiée le 1er juin 2026.",
       "url": "https://www.sciencesetavenir.fr/sante/urgences-le-temps-de-passage-s-est-ils-allonge-pour-tous-en-dix-ans_192843?xtor=RSS-16",
@@ -413,36 +413,6 @@
       "type": "presse"
     },
     {
-      "title": "« On a eu peur de perdre le bébé. Un jour ça allait, un jour ça n’allait plus » : au chevet des nouveau-nés prématurés, au CHU de Rouen",
-      "desc": "Soins visant à favoriser le développement, accent mis sur l’implication parentale : dans les services de néonatalogie français, la prise en charge des bébés nés bien trop tôt s’est considérablement améliorée. Pourtant, les indicateurs de mortalité se dégradent.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/01/on-a-eu-peur-de-perdre-le-bebe-un-jour-ca-allait-un-jour-ca-n-allait-plus-au-chevet-des-nouveau-nes-prematures-au-chu-de-rouen_6695993_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/28/804/0/6016/3008/644/322/60/0/a37bc04_upload-1-wcwmvqkcdz9n-neonatalogiechurouen054.jpg",
-      "date": "2026-06-01T17:46:45+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "VIDEO Ebola : le directeur de l’OMS en République démocratique du Congo",
-      "desc": "Les groupes consultatifs de l’OMS ont recommandé des essais cliniques pour plusieurs vaccins et traitements potentiellement efficaces contre l’espèce Bundibugyo, responsable de l’épidémie qui sévit depuis la mi-mai.",
-      "url": "https://www.lemonde.fr/sante/video/2026/06/01/ebola-les-images-du-directeur-de-l-oms-en-republique-democratique-du-congo_6695991_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/31/433/0/5500/2750/644/322/60/0/0bb8f69_ftp-1-ydvfehxgqea1-2026-05-31t141839z-549929558-rc2eklamnh22-rtrmadp-3-health-ebola-who.JPG",
-      "date": "2026-06-01T17:45:21+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "« Transformer l’ADN en produit de consommation serait une erreur aux conséquences durables »",
-      "desc": "Dans une tribune au « Monde », les généticiens François Petit et Sandra Mercier évoquent la possible autorisation en France des tests ADN en accès libre. Sans y être catégoriquement opposés, ils soulignent toutefois l’absence d’accompagnement après la réception des résultats, qui peuvent être déstab",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/01/transformer-l-adn-en-produit-de-consommation-serait-une-erreur-aux-consequences-durables_6695985_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/eaef2a1_upload-1-rxhw2li2wx3u-frame-911.jpg",
-      "date": "2026-06-01T17:00:02+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cancer : Des vermifuges présentés à tort comme des remèdes miracles sur les réseaux sociaux",
       "desc": "Une nouvelle tendance consistant à prendre des vermifuges (parfois vétérinaires) pour lutter contre le cancer se répand sur les réseaux sociaux, avec de nombreux risques de santé à la clé",
       "url": "https://www.20minutes.fr/sante/4226597-20260601-cancer-vermifuges-presentes-tort-comme-remedes-miracles-reseaux-sociaux?at_medium=display&at_campaign=149",
@@ -488,16 +458,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/esperance-vie-cet-acide-amine-essentiel-pourrait-avoir-effets-surprenants-vieillissement-selon-chercheurs-w2t8-134835/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/c/b/5cb0ea384e_50255768_longevite-acide-amine.jpg",
       "date": "2026-05-31T08:00:00+00:00",
-      "date_formatted": "31 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "L’incontinence urinaire féminine : un trouble sous-estimé aux répercussions majeures sur la qualité de vie des femmes",
-      "desc": "L’incontinence urinaire est une pathologie aux répercussions profondes, qui suscite la honte, l’angoisse et pousse à l’isolement. Pour des millions de femmes, ce trouble, aussi fréquent que tabou, transforme des gestes anodins en défis quotidiens. Quelles sont les causes de ce dysfonctionnement...",
-      "url": "https://www.futura-sciences.com/sante/actualites/gynecologie-incontinence-urinaire-feminine-trouble-sous-estime-repercussions-majeures-qualite-vie-femmes-134877/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/3/e/93eff14c2e_50255879_incontinence-urinaire.jpg",
-      "date": "2026-05-31T07:00:00+00:00",
       "date_formatted": "31 May 2026",
       "source": "Futura Santé",
       "type": "science"
