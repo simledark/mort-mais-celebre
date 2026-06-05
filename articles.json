@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-05T09:24:56.933290+00:00",
-  "count": 67,
+  "generated_at": "2026-06-05T14:19:32.783519+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title": "La majorité des Français ayant croisé une malade de l'hantavirus vont sortir de l'isolement samedi",
+      "desc": "Quatre Français doivent, toutefois, rester à l'isolement jusqu'au 21 juin. Il s'agit des personnes ayant participé à la croisière sur le navire \"Hondius\", et ayant donc été en contact avec une passagère néerlandaise décédée fin avril.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-majorite-des-cas-contacts-francais-d-hantavirus-vont-sortir-de-l-isolement-samedi_8046518.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/sK9nRcX9TxCE10EwKgc9-1M2eFM/0x275:5300x3257/432x243/filters:format(jpg)/2026/06/05/6a22ccd388125814762444.jpg",
+      "date": "2026-06-05T15:59:42+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Ghost Stories» de Siri Hustvedt : «Je ne pouvais pas revenir au quotidien sans avoir écrit sur nous»",
+      "desc": "Composé après la mort de Paul Auster, «Ghost Stories» est autant un tombeau littéraire qu’une ode au couple que l’autrice américaine formait avec lui. Rencontre.",
+      "url": "https://www.liberation.fr/culture/ghost-stories-de-siri-hustvedt-je-ne-pouvais-pas-revenir-au-quotidien-sans-avoir-ecrit-sur-nous-20260605_EM7HFU5FQRDW7FJ3A3WDGVESCM/",
+      "image": null,
+      "date": "2026-06-05T14:04:00+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Présidentielle 2027 : le PS et la gauche non mélenchoniste aux frontières du ridicule",
+      "desc": "Est-ce encore de la politique ou un suicide collectif ? Les atermoiements de ces partis autrefois majeurs sur la primaire à gauche ont de quoi désespérer leurs électeurs.",
+      "url": "https://www.liberation.fr/politique/presidentielle-le-ps-et-la-gauche-non-melenchoniste-aux-frontieres-du-ridicule-20260605_KB3G5D5W2BCFZDCCJXDT6IRKYA/",
+      "image": null,
+      "date": "2026-06-05T13:27:39+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"13h15 le samedi\". Une maison partagée",
+      "desc": "Dans le Vaucluse, \"13h15 le samedi\" a visité une colocation pas comme les autres, où la moyenne d'âge tourne autour de 90 ans. Un projet imaginé par Chloé Richard pour que vieillesse rime avec autonomie, amitié, activités et joie de vivre.",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-une-maison-partagee_8015633.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/KPY9s1TPGhp2Sy4KpM1_ps8IJqk/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/05/6a2291ab345e6572589060.png",
+      "date": "2026-06-05T11:56:58+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Morts au travail : une stratégie gouvernementale peu ambitieuse pour empêcher les accidents",
+      "desc": "Face à des chiffres qui ne parviennent pas à baisser et l’émergence de nouveaux risques liés à la santé mentale ou aux vagues de chaleur, le nouveau plan Santé au travail 2026-2030 se cantonne à des mesures de prévention.",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/05/morts-au-travail-une-strategie-gouvernementale-peu-ambitieuse-pour-empecher-les-accidents_6697931_823448.html",
+      "image": "https://img.lemde.fr/2026/04/22/456/0/5472/2736/644/322/60/0/741c4bd_upload-1-l6ofqh5nxde4-jlusseau-260420-le-monde-politique-farandou-52.jpg",
+      "date": "2026-06-05T11:22:07+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : Hospitalisés depuis trois semaines, 22 Français cas contact vont pouvoir rentrer chez eux samedi",
       "desc": "Hospitalisés et placés à l’isolement après avoir été identifiés comme cas contact dans un avion d’une voyageuse néerlandaise décédée depuis de l’hantavirus, 22 Français vont pouvoir rentrer chez eux",
@@ -10,16 +60,6 @@
       "date": "2026-06-05T09:17:00+00:00",
       "date_formatted": "5 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Affaire Lyhanna : les résultats de l’autopsie attendus, le ministère de la Justice fait un «constat d’échec»",
-      "desc": "Un corps pouvant être celui de la collégienne de 11 ans disparue à Fleurance (Gers) a été retrouvé jeudi. Jérôme B., père de 41 ans d’une amie de Lyhanna, est mis en examen. Une réunion a lieu ce vendredi à Matignon.",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
-      "image": null,
-      "date": "2026-06-05T08:34:38+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -33,44 +73,14 @@
       "type": "science"
     },
     {
-      "title": "La laine de mouton peut favoriser la régénération des os",
+      "title": "La laine de mouton mieux que le collagène pour favoriser la régénération des os",
       "desc": "Une équipe londonienne a mis en évidence que la kératine naturellement contenue dans la toison de l’herbivore aide les cellules osseuses de rats à « fabriquer » de l’os, selon une architecture très organisée. Prometteur pour la dentisterie et l’orthopédie.",
       "url": "https://www.lemonde.fr/sciences/article/2026/06/05/la-laine-de-mouton-peut-favoriser-la-regeneration-des-os_6697900_1650684.html",
       "image": "https://img.lemde.fr/2026/05/29/87/0/3072/1536/644/322/60/0/9a8e534_upload-1-7brt3rznpv4e-media-appel.png",
-      "date": "2026-06-05T06:30:12+00:00",
+      "date": "2026-06-05T06:30:05+00:00",
       "date_formatted": "5 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Ukraine : Zelensky propose une rencontre à Poutine, trois morts dans des frappes russes sur plusieurs régions",
-      "desc": "Les frappes russes mortelles interviennent alors que le président Volodymyr Zelensky, dans une lettre ouverte publiée jeudi soir, a assuré que l’Ukraine était «prête à un cessez-le-feu complet pour la durée des négociations».",
-      "url": "https://www.liberation.fr/international/europe/ukraine-trois-morts-dans-des-frappes-russes-sur-plusieurs-regions-20260605_PJU5KJY2KNBLHNWQE7NB2SZUJM/",
-      "image": null,
-      "date": "2026-06-05T05:46:04+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Décrochage scolaire : «On ne cherche plus à raccrocher les jeunes mais à les insérer ailleurs»",
-      "desc": "Dispositifs hétérogènes, logique d’orientation externe, jeunes laissés de côté : le système de raccrochage vacille. Le chercheur Pierre-Yves Bernard décrypte cette évolution.",
-      "url": "https://www.liberation.fr/societe/education/decrochage-scolaire-on-ne-cherche-plus-a-raccrocher-les-jeunes-mais-a-les-inserer-ailleurs-20260605_N7UWP7Q7LZHWXMX5NS3RARPDCU/",
-      "image": null,
-      "date": "2026-06-05T05:10:00+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : un médicament qui pourrait «réduire de moitié le nombre de contacts contaminés» bientôt en phase d’essai",
-      "desc": "Un traitement pour échapper à Ebola. La chercheuse française Marie Jaspard lance un essai clinique novateur pour éviter le déclenchement de la maladie chez les personnes exposées au virus Bundibugyo, responsable de l’épidémie en république démocratique du Congo.",
-      "url": "https://www.liberation.fr/societe/sante/ebola-un-medicament-qui-pourrait-reduire-de-moitie-le-nombre-de-contacts-contamines-bientot-en-phase-dessai-20260605_QPZGKGTTAFH3NJVZQ6SKFC7TY4/",
-      "image": null,
-      "date": "2026-06-05T04:49:00+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Sao Tomé-et-Principe, l'île verdoyante au café d'exception",
@@ -171,26 +181,6 @@
       "date_formatted": "4 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Selon une étude, les Français les plus modestes sont davantage exposés aux formes de cancers les plus graves",
-      "desc": "La Direction de la recherche, des études, de l'évaluation et des statistiques montre notamment des inégalités sociales au moment du diagnostic. Or la détection précoce d'un cancer permet de le soigner plus facilement.",
-      "url": "https://www.franceinfo.fr/sante/les-francais-les-plus-modestes-davantage-exposes-aux-formes-de-cancers-les-plus-graves-pointe-une-etude_8044178.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/NGJmTdCKoBaG6bYdw4kHqcmzs2c/0x94:1024x670/432x243/filters:format(jpg)/2026/06/04/6a211ac441c7f969990703.jpg",
-      "date": "2026-06-04T08:57:03+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer : le type de tumeur varie fortement selon le niveau de vie, selon une étude",
-      "desc": "D'après une étude de la Direction de la recherche, des études, de l’évaluation et des statistiques (DRESS), les personnes les plus modestes développent plus souvent des formes graves de cancer, plus jeunes, et sur certains organes en particulier.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/cancer-le-type-de-tumeur-varie-fortement-selon-le-niveau-de-vie-selon-une-etude_8044097.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/BK8ZckJ1H_3kn1eVc_OVAAf6CLU/0x208:4000x2458/432x243/filters:format(jpg)/2026/06/04/6a210cf0af8bc194968737.jpg",
-      "date": "2026-06-04T08:06:31+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Cancers : Plus on est pauvre, plus on est exposé à une forme grave, c’est ce que révèle une étude",
@@ -403,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Epidémie d’Ebola : l’ouverture d’un centre de quarantaine pour les malades américains fait polémique au Kenya",
-      "desc": "Nairobi et Washington envisagent d’ouvrir, dans le centre du Kenya, une structure médicale afin d’accueillir des ressortissants américains exposés au virus Ebola en République démocratique du Congo. Le projet fait l’objet d’une vive opposition dans le pays et a été suspendu par la justice.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/02/epidemie-d-ebola-l-ouverture-d-un-centre-de-quarantaine-pour-les-malades-americains-fait-polemique-au-kenya_6696332_3212.html",
-      "image": "https://img.lemde.fr/2026/06/01/355/0/4258/2129/644/322/60/0/01fb002_ftp-1-rxcgbjaddtmr-ec7f4b047dd64430b943fde262655712-0-0657338e21d24be8a0eafef17cf40877.jpg",
-      "date": "2026-06-02T06:00:07+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer : Des vermifuges présentés à tort comme des remèdes miracles sur les réseaux sociaux",
       "desc": "Une nouvelle tendance consistant à prendre des vermifuges (parfois vétérinaires) pour lutter contre le cancer se répand sur les réseaux sociaux, avec de nombreux risques de santé à la clé",
       "url": "https://www.20minutes.fr/sante/4226597-20260601-cancer-vermifuges-presentes-tort-comme-remedes-miracles-reseaux-sociaux?at_medium=display&at_campaign=149",
@@ -550,16 +530,6 @@
       "date": "2026-05-20T15:49:59+00:00",
       "date_formatted": "20 May 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cerveau : comment le sexe influence l'expression des gènes",
-      "desc": "Des chercheurs américains révèlent des différences subtiles mais généralisées dans l’expression génétique entre les cerveaux masculins et féminins. Cette disparité pourrait contribuer à expliquer comment le sexe influe sur le risque et le développement de certaines maladies.",
-      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/cerveau-l-expression-genetique-depend-du-sexe-et-peut-influencer-le-risque-de-maladie_192492?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/18/cover-r4x3w1200-6a0aeaedd1200-afp-20200922-f0311116-v1-highres-brainneuralnetworkillustration.jpg",
-      "date": "2026-05-20T12:43:52+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
