@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-06-05T14:19:32.783519+00:00",
-  "count": 64,
+  "generated_at": "2026-06-05T19:28:07.734052+00:00",
+  "count": 71,
   "articles": [
+    {
+      "title": "Chikungunya : comment la Guyane française veut éviter un scénario réunionnais",
+      "desc": "La Guyane est touchée par la première épidémie de chikungunya sur le territoire français depuis celle de La Réunion. En tirant parti de ce qui fut observé dans l’île de l’océan Indien, les autorités sanitaires prennent les devants et offrent gratuitement la vaccination pour aplanir la courbe.",
+      "url": "https://www.lemonde.fr/planete/article/2026/06/05/chikungunya-comment-la-guyane-francaise-veut-eviter-un-scenario-reunionnais_6698017_3244.html",
+      "image": "https://img.lemde.fr/2026/06/02/475/0/5702/2851/644/322/60/0/963b2cd_ftp-1-7k1vh2gbeci8-5201948-01-06.jpg",
+      "date": "2026-06-05T19:39:05+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une technique plus ciblée d’édition du génome appliquée à des embryons humains",
+      "desc": "Des résultats préliminaires montrent que des modifications génétiques ponctuelles peuvent réparer des mutations délétères, mais une partie des cellules embryonnaires n’en bénéficient pas. Ces développements soulèvent des questions éthiques sur les risques d’eugénisme.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/05/une-technique-plus-ciblee-d-edition-du-genome-appliquee-a-des-embryons-humains_6698016_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/05/738/0/4134/2067/644/322/60/0/78fb00c_upload-1-hy7xe6rtgkum-sciencephoto-fr-m8020233.jpg",
+      "date": "2026-06-05T19:28:50+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Affaire Lyhanna : Gérald Darmanin «présente ses excuses à la famille de la victime au nom de la Justice»",
+      "desc": "Le ministre de la Justice était l’invité du 20 heures de TF1 ce vendredi, après que l’autopsie a confirmé que le corps de l’enfant retrouvé jeudi était bien celui de la collégienne disparue.",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
+      "image": null,
+      "date": "2026-06-05T19:17:27+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : les leçons d’une tragédie",
+      "desc": "La mort de l’enfant de 11 ans n’est malheureusement pas la première du genre. Mais cette affaire où les dysfonctionnements sont légion doit permettre une prise de conscience globale sur la protection de l’enfance.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/affaire-lyhanna-les-lecons-dune-tragedie-20260605_JQN54PRSXFDFRADTVECRIR2VDA/",
+      "image": null,
+      "date": "2026-06-05T19:07:48+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Lyhanna : malgré les «condoléances» de Lecornu et les «excuses» de Darmanin, l’exécutif accable l’institution judiciaire",
+      "desc": "Depuis la disparition de la collégienne de 11 ans, le gouvernement pointe des responsabilités individuelles et défend le budget alloué à la justice pour mieux se couvrir.",
+      "url": "https://www.liberation.fr/politique/mort-de-lyhanna-malgre-les-condoleances-de-lecornu-et-les-excuses-de-darmanin-lexecutif-accable-linstitution-judiciaire-20260605_ALNN76WJG5HCXCWMAYFHDODZRE/",
+      "image": null,
+      "date": "2026-06-05T19:03:56+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Dans le Gers, un territoire à vif après la confirmation de la mort de Lyhanna : «Je suis hors de moi, j’en ai chialé en l’apprenant»",
+      "desc": "Ce vendredi 5 juin, les médecins légistes ont confirmé que le corps retrouvé dans un silo agricole était bien celui de l’enfant de 11 ans. A Montestruc-sur-Gers, où vivait le principal suspect, et à Fleurance, les habitants sont partagés entre sidération et colère contre l’institution judiciaire.",
+      "url": "https://www.liberation.fr/societe/police-justice/dans-le-gers-un-territoire-a-vif-apres-la-confirmation-de-la-mort-de-lyhanna-je-suis-hors-de-moi-jen-ai-chiale-en-lapprenant-20260605_SI2KDXJAYBGANNSVSH5OA2W5SI/",
+      "image": null,
+      "date": "2026-06-05T18:19:23+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : un plan de 518 millions de dollars pour lutter contre l’épidémie annoncé par l’OMS et l’agence de santé africaine",
+      "desc": "L’épidémie a été déclarée le 15 mai dans le nord-est de la République démocratique du Congo et plusieurs cas ont été confirmés en Ouganda, un pays limitrophe.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/05/ebola-l-oms-et-l-agence-de-sante-africaine-annoncent-un-plan-de-518-millions-de-dollars-pour-lutter-contre-l-epidemie-de-juin-a-novembre_6697997_3212.html",
+      "image": "https://img.lemde.fr/2026/06/05/285/0/5204/2602/644/322/60/0/cf2e962_ftp-1-ml1pmcgdcihm-2026-06-05t133027z-1463223370-rc2cklacorkj-rtrmadp-3-health-ebola-who.JPG",
+      "date": "2026-06-05T17:54:14+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du pancréas : un espoir inédit pour les malades",
+      "desc": "Un nouvel espoir dans la lutte contre le cancer du pancréas, l'un des plus agressifs et des plus meurtriers. Présentés lors du congrès mondial d'oncologie de Chicago, les résultats d'un essai clinique sont particulièrement prometteurs.",
+      "url": "https://www.franceinfo.fr/sante/cancer-du-pancreas-un-espoir-inedit-pour-les-malades_8046464.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/9HKK5Gh-ByfIIezUp6_cpczD_v4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/05/6a22b8c5b4ee1359474767.jpg",
+      "date": "2026-06-05T17:00:02+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Roland-Garros 2026 : Alexander Zverev tient enfin sa finale, Flavio Cobolli aussi après le forfait de Matteo Arnaldi",
+      "desc": "Le numéro 3 mondial est venu à bout du jeune tchèque en demi-finale ce vendredi 5 juin, et s’offre, à 29 ans, le droit d’empocher un premier Grand Chelem en carrière. Ce sera contre l’Italien Flavio Cobolli (14e), après le retrait de Matteo Arnaldi, touché par un virus.",
+      "url": "https://www.liberation.fr/sports/tennis/roland-garros-2026-alexander-zverev-tient-enfin-sa-finale-apres-sa-victoire-contre-jakub-mensik-20260605_2PAK5X6ASJDORKRPQZJ6COR6JI/",
+      "image": null,
+      "date": "2026-06-05T16:49:14+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : l’autopsie confirme que le corps retrouvé dans une exploitation agricole est bien celui de l’enfant disparue",
+      "desc": "La collégienne de 11 ans avait disparu le 29 mai à Fleurance, dans le Gers. Le principal suspect, en détention provisoire, avait travaillé dans l’usine où a été retrouvé le corps. Des critiques s’élèvent sur d’éventuelles failles judiciaires, alors que plusieurs pour violences sexuelles sur mineures",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-lautopsie-confirme-que-le-corps-retrouve-dans-une-exploitation-agricole-est-bien-celui-de-la-collegienne-20260605_W3WOY7XN6JBALGCHNDZD3AMDPE/",
+      "image": null,
+      "date": "2026-06-05T16:44:53+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mentor paternel dans «Buffy contre les vampires» et milliardaire insupportable dans «Ted Lasso», Anthony Head est mort",
+      "desc": "Le comédien britannique âgé de 72 ans est décédé des suites d’une pneumonie, a annoncé sa famille ce vendredi 5 juin.",
+      "url": "https://www.liberation.fr/economie/medias/mentor-paternel-dans-buffy-contre-les-vampires-et-milliardaire-insupportable-dans-ted-lasso-anthony-head-est-mort-20260605_OZW5NY4HQ5AG7NLKSNNGM7B2RI/",
+      "image": null,
+      "date": "2026-06-05T16:25:18+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "La majorité des Français ayant croisé une malade de l'hantavirus vont sortir de l'isolement samedi",
       "desc": "Quatre Français doivent, toutefois, rester à l'isolement jusqu'au 21 juin. Il s'agit des personnes ayant participé à la croisière sur le navire \"Hondius\", et ayant donc été en contact avec une passagère néerlandaise décédée fin avril.",
@@ -10,26 +120,6 @@
       "date": "2026-06-05T15:59:42+00:00",
       "date_formatted": "5 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Ghost Stories» de Siri Hustvedt : «Je ne pouvais pas revenir au quotidien sans avoir écrit sur nous»",
-      "desc": "Composé après la mort de Paul Auster, «Ghost Stories» est autant un tombeau littéraire qu’une ode au couple que l’autrice américaine formait avec lui. Rencontre.",
-      "url": "https://www.liberation.fr/culture/ghost-stories-de-siri-hustvedt-je-ne-pouvais-pas-revenir-au-quotidien-sans-avoir-ecrit-sur-nous-20260605_EM7HFU5FQRDW7FJ3A3WDGVESCM/",
-      "image": null,
-      "date": "2026-06-05T14:04:00+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Présidentielle 2027 : le PS et la gauche non mélenchoniste aux frontières du ridicule",
-      "desc": "Est-ce encore de la politique ou un suicide collectif ? Les atermoiements de ces partis autrefois majeurs sur la primaire à gauche ont de quoi désespérer leurs électeurs.",
-      "url": "https://www.liberation.fr/politique/presidentielle-le-ps-et-la-gauche-non-melenchoniste-aux-frontieres-du-ridicule-20260605_KB3G5D5W2BCFZDCCJXDT6IRKYA/",
-      "image": null,
-      "date": "2026-06-05T13:27:39+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -128,16 +218,6 @@
       "url": "https://www.franceinfo.fr/sante/sante-quels-aliments-contiennent-le-plus-de-cadmium-un-metal-toxique-pour-la-sante_8044838.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/E84YK9c_z8_5AQ1L15XtvIMzKag/0x35:1436x843/432x243/filters:format(jpg)/2026/06/04/6a2185f118b78008496419.jpg",
       "date": "2026-06-04T16:05:18+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Inégalités sociales face au cancer : il y a \"un travail d’éducation à mener\" sur le dépistage, explique un oncologue",
-      "desc": "Nous ne sommes pas tous égaux face au cancer, révèle une étude publiée ce jeudi par la DREES, et qui permet de mieux comprendre les mécanismes à l’origine des inégalités entre catégories sociales face à la maladie. Selon Jean-Yves Blay, oncologue et président d'Unicancer, \"le dépistage est très inég",
-      "url": "https://www.franceinfo.fr/sante/cancer/inegalites-sociales-face-au-cancer-il-y-a-un-travail-d-education-a-mener-sur-le-depistage-explique-un-oncologue_8044517.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/fL7MLPKAx48aQE1o_iaS8w3wxCU/0x378:4032x2646/432x243/filters:format(jpg)/2026/06/04/6a217fb6c8210856437616.jpg",
-      "date": "2026-06-04T16:04:17+00:00",
       "date_formatted": "4 June 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -320,16 +400,6 @@
       "date": "2026-06-03T06:09:59+00:00",
       "date_formatted": "3 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer du sein post-ménopause : les fruits et légumes bio associés à une baisse du risque",
-      "desc": "Selon des travaux français, pour chaque portion de 100 grammes de fruits et légumes conventionnels remplacés quotidiennement par leurs équivalents issus de l’agriculture biologique, le risque de développer un cancer du sein post-ménopausique est réduit de 10 %.",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/02/les-fruits-et-legumes-bio-associes-a-une-baisse-du-risque-de-cancer-du-sein-post-menopause_6696417_3244.html",
-      "image": "https://img.lemde.fr/2026/06/02/165/0/1984/992/644/322/60/0/d5122c5_upload-1-moxd2fqg5bvy-escolano-277-6320-ce-mammobile-050526-11.jpg",
-      "date": "2026-06-02T18:00:19+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
