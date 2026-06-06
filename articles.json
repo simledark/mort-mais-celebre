@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-06-06T13:03:12.460608+00:00",
-  "count": 68,
+  "generated_at": "2026-06-06T19:01:58.775815+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title": "Patient bizarre : les médecins découvrent qu’il a reçu bien plus qu’un rein lors de sa greffe",
+      "desc": "Aux États-Unis, un homme est mort de la rage quelques semaines après avoir reçu une greffe de rein. Il s’avère que son donneur avait été contaminé par un animal, mais n’avait pas été diagnostiqué.",
+      "url": "https://www.futura-sciences.com/sante/actualites/greffe-patient-bizarre-medecins-decouvrent-quil-recu-bien-plus-quun-rein-lors-greffe-135071/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/3/d/a3dd23d86a_50256205_patient-hopital.jpg",
+      "date": "2026-06-06T20:01:03+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Bana Jabri, l’immunologiste qui veut protéger les bébés des maladies génétiques en testant les futurs parents",
+      "desc": "A la tête de l’Institut Imagine, à Paris, depuis janvier 2025, la médecin chercheuse, qui a longtemps enseigné aux Etats-Unis, se mobilise pour que la prochaine loi sur la bioéthique autorise le dépistage préconceptionnel en population générale.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/06/bana-jabri-l-immunologiste-qui-veut-proteger-les-bebes-des-maladies-genetiques-en-testant-les-futurs-parents_6698143_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/03/246/0/2953/1476/644/322/60/0/a284918_upload-1-803gid1zl6bp-photo-bana-jabri.jpeg",
+      "date": "2026-06-06T18:00:07+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Affaire Lyhanna : Retailleau dénonce un «naufrage de la justice»",
+      "desc": "Le corps retrouvé dans le Gers jeudi est bien celui de la collégienne disparue, a annoncé le procureur d’Agen vendredi, sans que les causes de la mort ne soient connues. Le ministre de la Justice a déploré un «immense échec».",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-reactions-se-multiplient-pour-pointer-les-dysfonctionnements-de-la-justice-20260606_V73LCVVTAZA5FG5NAMXJUOPJKQ/",
+      "image": null,
+      "date": "2026-06-06T17:45:31+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : le patient américain soigné en Allemagne est guéri et sorti de l’hôpital",
+      "desc": "Peter Stafford, un médecin missionnaire de l’ONG chrétienne américaine Serge, avait été admis le 20 mai dans le quartier d’isolement pour les maladies infectieuses d’un hôpital de Berlin, après avoir été exposé au virus en soignant des patients à l’hôpital Nyankunde, dans l’est de la République démo",
+      "url": "https://www.lemonde.fr/sante/article/2026/06/06/ebola-le-patient-americain-soigne-en-allemagne-est-gueri-et-sorti-de-l-hopital_6698140_1651302.html",
+      "image": "https://img.lemde.fr/2026/06/06/500/0/6000/3000/644/322/60/0/e9597bc_ftp-1-nsdoj1sd1i39-5241769-01-06.jpg",
+      "date": "2026-06-06T17:18:12+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le patient américain atteint d'Ebola, soigné en Allemagne, est guéri et a quitté l'hôpital",
+      "desc": "Peter Stafford, un médecin missionnaire de l'ONG chrétienne américaine Serge, avait avait été exposé au virus en traitant des patients à l'hôpital Nyankunde, dans l'est de la RDC.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-patient-americain-atteint-d-ebola-soigne-en-allemagne-est-gueri-et-a-quitte-l-hopital_8048117.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ZF7msmCtZEueq9RrGgI62cN4C1k/0x0:1024x576/432x243/filters:format(jpg)/2026/06/06/6a2435948b008900009136.jpg",
+      "date": "2026-06-06T17:04:17+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Du plastique transformé en source d'énergie ?",
+      "desc": "Une chercheuse australienne et son équipe viennent de découvrir comment transformer des déchets plastiques en hydrogène et autres molécules utiles, grâce aux rayons solaires et à la photocatalyse.",
+      "url": "https://www.franceinfo.fr/sciences/du-plastique-transforme-en-source-d-energie_8046536.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/2L3yIEnzaIuKlnjIufa_97lNOXI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/05/6a22c579d441c557342790.jpg",
+      "date": "2026-06-06T16:00:02+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un homme reconnaît avoir étranglé son ex-conjointe, retrouvée morte à Laval",
+      "desc": "Interpellé jeudi à Paris, l’homme de 32 ans s’en est pris à son ancienne compagne, une femme de 39 ans retrouvée morte le 4 juin dans son appartement de la ville de Mayenne.",
+      "url": "https://www.liberation.fr/societe/police-justice/un-homme-reconnait-avoir-etrangle-son-ex-conjointe-retrouvee-morte-a-laval-20260606_LRNE4YIPHBAETOUD2KLG2ETZKE/",
+      "image": null,
+      "date": "2026-06-06T15:59:30+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "L'OMS annonce 500 cas d'infection au virus Ebola en Afrique centrale",
       "desc": "Dans son point quotidien, l'Organisation mondiale de la santé a recensé 452 cas confirmés, dont 82 décès, en République démocratique du Congo (RDC), où l'épidémie a été déclarée il y a trois semaines.",
@@ -10,6 +80,26 @@
       "date": "2026-06-06T14:09:56+00:00",
       "date_formatted": "6 June 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Tout au bout de la mer» : Lalla Romano, l’amour et la mort",
+      "desc": "Réédition du récit fragmentaire et autobiographique de l’autrice italienne morte en 2001, à travers lequel elle rend hommage à l’homme qui a partagé sa vie.",
+      "url": "https://www.liberation.fr/culture/livres/tout-au-bout-de-la-mer-lalla-romano-lamour-et-la-mort-20260606_R6IA4227YNHILCAXCZJT3G4JVI/",
+      "image": null,
+      "date": "2026-06-06T13:40:00+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Ebola : Près de 500 cas confirmés en Afrique centrale, l’OMS lance un vaste plan",
+      "desc": "L’épidémie du virus Ebola continue de flamber avec désormais près de 500 cas d’infection confirmés, principalement en République démocratique du Congo",
+      "url": "https://www.20minutes.fr/sante/4227569-20260606-virus-ebola-pres-500-cas-confirmes-afrique-centrale-oms-lance-vaste-plan?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/n9-wpdriSrGX8Oj08TK7Oik/1200x768_260605-goma-5-juin-2026-xinhua-le-personnel-medical-a-enfile-des-combinaisons-de-protection-a-goma-en-republique-democratique-du-congo-rdc-le-4-juin-2026-les-cas-confirmes-d-ebola-en-republique-democratique-du-congo-rdc-sont-passes-a-381-dont-63-deces-a-declare-jeudi-soir-le-ministre-de-la-sante-roger-kamba-le-ministre-a-indique-que-la-capacite-de-depistage-du-pays-s-etait-considerablement-amelioree-suite-a-l-arrivee-de-plus-de-4-000-kits-de-depistage-des-centres-africains-pour-le-controle-et-la-prevention-des-maladies-et-a-un-soutien-international-supplementaire-permettant-aux-autorites-sanitaires-de-tester-presque-tous-les-echantillons-recus-et-de-fournir-des-resultats-dans-les-24-heures-xinhua-xinhua-chine-nouvelle-xxjp-bee000367-20260605-pepfn0a001-credit-chine-nouvelle-sipa-2606051149",
+      "date": "2026-06-06T13:19:06+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -31,66 +121,6 @@
       "date_formatted": "6 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Affaire Lyhanna : les réactions se multiplient pour pointer les dysfonctionnements de la justice",
-      "desc": "Le corps retrouvé dans le Gers jeudi est bien celui de la collégienne disparue, a annoncé le procureur d’Agen vendredi, sans que les causes de la mort ne soient connues. Le ministre de la Justice a déploré un «immense échec».",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-reactions-se-multiplient-pour-pointer-les-dysfonctionnements-de-la-justice-20260606_V73LCVVTAZA5FG5NAMXJUOPJKQ/",
-      "image": null,
-      "date": "2026-06-06T10:17:52+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Je pensais que j’allais mourir» : le rescapé de l’Everest raconte son calvaire",
-      "desc": "Dawa Sherpa, 57 ans, rescapé après six jours seul sur la plus haute montagne du monde, a survécu en rongeant de la glace et grâce à quelques encas. Il a été retrouvé épuisé, avec une jambe fracturée, jeudi 4 juin.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/je-pensais-que-jallais-mourir-le-rescape-de-leverest-raconte-son-calvaire-20260606_NG7ENXA67NGYZCQMRT6T6SCPOA/",
-      "image": null,
-      "date": "2026-06-06T09:50:59+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mana Neyestani, dessinateur : «Marjane Satrapi a ouvert la voie à de nombreux artistes d’Iran et d’ailleurs»",
-      "desc": "Le dessinateur exilé en France revient pour «Libération» sur l’impact qu’a eu l’autrice de «Persepolis», morte le 4 juin à 56 ans, sur le monde de la BD et sur les artistes.",
-      "url": "https://www.liberation.fr/culture/bd/mana-neyestani-dessinateur-marjane-satrapi-a-ouvert-la-voie-a-de-nombreux-artistes-diran-et-dailleurs-20260606_GPLWVAFECBBIZHIPWOFVGFZ6KQ/",
-      "image": null,
-      "date": "2026-06-06T09:44:46+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Le regard des gens doit changer» : le combat quotidien d’Eléonore Laloux, seule élue de France porteuse de la trisomie 21",
-      "desc": "La conseillère municipale d’Arras (Pas-de-Calais), régulièrement la cible de propos haineux, a rencontré lundi 1er juin la ministre déléguée au Handicap, décidée à ouvrir la voie en politique aux autres personnes porteuses de la maladie génétique.",
-      "url": "https://www.liberation.fr/societe/le-regard-des-gens-doit-changer-le-combat-quotidien-deleonore-laloux-seule-elue-de-france-porteuse-de-la-trisomie-21-20260606_5ZKEEVZXPNC2XK6CURAHHCKTQA/",
-      "image": null,
-      "date": "2026-06-06T09:30:00+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Australie : un plongeur tué par un requin sur la côte ouest, la quatrième attaque mortelle de l’année",
-      "desc": "L’homme, qui pratiquait la chasse sous-marine, a été attaqué ce samedi 6 juin par un squale de 4,5 mètres au sud-est de Perth, deux semaines seulement après une autre accident mortel dans le pays.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/australie-un-plongeur-tue-par-un-requin-sur-la-cote-ouest-la-quatrieme-attaque-mortelle-de-lannee-20260606_RTSZCY5STVDIBONEHKTJULAVLE/",
-      "image": null,
-      "date": "2026-06-06T09:02:01+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Bernadette Chirac, première dame de piques",
-      "desc": "Morte le 5 juin 2026 à 93 ans, l’épouse de l’ancien président de la République s’était d’abord entièrement dévouée à la carrière de son mari avant de se réinventer en personnage populaire au sens politique aiguisé, entre pièces jaunes, engagement local et critiques à son époux.",
-      "url": "https://www.liberation.fr/politique/mort-de-bernadette-chirac-premiere-dame-de-piques-20260606_JYZ4AJFP55APZII5DH5LMFUPVU/",
-      "image": null,
-      "date": "2026-06-06T08:51:15+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Eczéma : « Des progrès thérapeutiques formidables »… La révolution discrète des nouveaux traitements",
@@ -233,26 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "Un espoir inédit pour les personnes atteintes du cancer du pancréas",
-      "desc": "Grâce à un traitement expérimental américain à prendre tous les jours, Lise, 49, atteinte d'un cancer du pancréas métastasique, va beaucoup mieux. Des résultats inespérés pour une maladie au pronostic aussi mauvais, et un médicament qui devrait arriver en France l'an prochain.",
-      "url": "https://www.franceinfo.fr/sante/un-espoir-inedit-pour-les-personnes-atteintes-du-cancer-du-pancreas_8045417.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/nENMVGmHtrlyLDImc8pDIbEfRmg/0x0:1319x742/432x243/filters:format(jpg)/2026/06/04/6a21db8c553f9914320574.jpg",
-      "date": "2026-06-04T22:18:01+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La PrEP, efficace contre le VIH mais trop peu connue",
-      "desc": "Alors qu’elle est efficace et remboursée à 100% par l’Assurance maladie, la PrEP, traitement préventif contre le VIH, est sous-utilisée, selon le Conseil national du sida et des hépatites virales.",
-      "url": "https://www.franceinfo.fr/sante/sida/la-prep-efficace-contre-le-vih-mais-trop-peu-connue_8044940.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/XofVvvKtG3CwoxuqZA184_Nqm-Q/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/04/6a2191083fec2562869176.jpg",
-      "date": "2026-06-04T20:00:01+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Plus le temps d’écran est long dans la petite enfance, moins bons sont les résultats scolaires",
       "desc": "Une étude menée à partir d’une cohorte de Singapour montre que le temps passé devant les écrans à partir de l’âge de 1 an est associé à de moins bonnes performances en primaire, à 9 ans. De nouveaux résultats qui confortent des travaux précédents.",
       "url": "https://www.lemonde.fr/sciences/article/2026/06/04/plus-le-temps-d-ecran-est-long-dans-la-petite-enfance-moins-bons-sont-les-resultats-scolaires_6697437_1650684.html",
@@ -343,16 +353,6 @@
       "type": "presse"
     },
     {
-      "title": "Un collectif rend hommage aux 929 morts de la rue qu’il a pu décompter pour 2025",
-      "desc": "Une cérémonie, mardi 2 juin, à Paris, a célébré la mémoire des personnes décédées « sans chez-soi ». Le Collectif les morts de la rue l’organise chaque année pour rappeler combien « la rue tue » et exhorter à l’action.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/03/un-collectif-rend-hommage-aux-929-morts-de-la-rue-qu-il-a-pu-decompter-pour-2025_6696584_3224.html",
-      "image": "https://img.lemde.fr/2026/06/03/579/0/7488/3744/644/322/60/0/693d200_upload-1-eqr7kgktldoe-000-a2k69c3.jpg",
-      "date": "2026-06-03T12:24:53+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Mpox : Deux virologues inculpés aux Etats-Unis pour avoir tenté d’importer le virus depuis l’Afrique",
       "desc": "Deux chercheurs d’un prestigieux institut médical américain ont été inculpés par la justice fédérale après avoir été interpellés avec plus d’une centaine de fioles contenant le virus mpox dans leurs valises à l’aéroport",
       "url": "https://www.20minutes.fr/monde/etats-unis/4226990-20260603-mpox-deux-virologues-inculpes-etats-unis-avoir-tente-importer-virus-depuis-afrique?at_medium=display&at_campaign=149",
@@ -371,16 +371,6 @@
       "date_formatted": "3 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Ebola : pourquoi le seul vaccin disponible n’est pas utilisé sur le terrain en RDC",
-      "desc": "L’épidémie qui sévit en République démocratique du Congo est liée à la souche Bundibugyo de la maladie, or le seul vaccin disponible est adapté à la souche Zaïre. Les spécialistes sont partagés sur l’utilité que ce produit pourrait néanmoins offrir.",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/03/ebola-pourquoi-le-seul-vaccin-disponible-n-est-pas-utilise-sur-le-terrain-en-rdc_6696562_3244.html",
-      "image": "https://img.lemde.fr/2026/06/02/297/0/3600/1800/644/322/60/0/af8fd38_ftp-1-dwmde1ehlfsd-5205208-01-06.jpg",
-      "date": "2026-06-03T10:30:07+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Deux virologues inculpés pour avoir tenté d'importer le virus Mpox d'Afrique",
@@ -421,16 +411,6 @@
       "date_formatted": "3 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Quand peut-on arrêter les immunothérapies des cancers ?",
-      "desc": "Des immunothérapies administrées contre certains cancers colorectaux pourraient être arrêtées au bout de deux ans chez certains patients, sans augmenter le risque de récidive, révèle une étude chinoise présentée dimanche 31 mai au congrès de la Société américaine d’oncologie.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/02/quand-peut-on-arreter-les-immunotherapies-des-cancers_6696397_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/13ec101_upload-1-b6bx1rpa5wux-frame-648.jpg",
-      "date": "2026-06-02T16:00:08+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Virus Ebola : Bonne nouvelle, le nombre de cas régresse nettement en RDC",
