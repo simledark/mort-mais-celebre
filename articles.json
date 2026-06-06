@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-06-06T01:56:39.694246+00:00",
-  "count": 69,
+  "generated_at": "2026-06-06T08:21:15.175572+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée libanaise annonce la mort de plusieurs militaires dans une frappe israélienne",
+      "desc": "Les Etats-Unis ont annoncé de nouvelles frappes contre l’Iran, malgré le cessez-le-feu théoriquement en vigueur depuis le 8 avril.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-footballeurs-iraniens-ont-leurs-visas-americains-pour-la-coupe-du-monde-20260606_OHH7FX4PBNANHO3YALSA2SU2G4/",
+      "image": null,
+      "date": "2026-06-06T07:44:19+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Eczéma : « Des progrès thérapeutiques formidables »… La révolution discrète des nouveaux traitements",
+      "desc": "Ces dernières années, l’arrivée de biothérapies et d’anti-JAK a profondément transformé la prise en charge de l’eczéma en ciblant spécifiquement les mécanismes de la maladie",
+      "url": "https://www.20minutes.fr/sante/4227031-20260606-eczema-progres-therapeutiques-formidables-revolution-discrete-nouveaux-traitements?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/C8LOckVZRfqWaF5c4yNS-yk/1200x768_l-arrivee-de-biotherapies-et-d-anti-jak-a-profondement-transforme-la-prise-en-charge-des-personnes-atteintes-d-eczema",
+      "date": "2026-06-06T06:02:36+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Notre Eldorado à nous» : pour le parc d’attractions OK Corral, 60 ans à la conquête du Sud",
+      "desc": "Dans les Bouches-du-Rhône, le parc familial dédié à l’univers du Far West accueille le public depuis 1966. Une longévité qui s’explique par le lien affectif tissé avec son public, qui se transmet de génération en génération.",
+      "url": "https://www.liberation.fr/societe/notre-eldorado-a-nous-pour-le-parc-dattractions-ok-corral-60-ans-a-la-conquete-du-sud-20260606_DEJN6TAKRJHVXJB4QHFHLNYAVM/",
+      "image": null,
+      "date": "2026-06-06T06:00:00+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les derniers cas contact à l’hantavirus en France veulent sortir : «Après des semaines face à l’océan infini, une chambre, c’est étroit»",
+      "desc": "Alors que 22 des 26 Français placés en quarantaine peuvent rentrer chez eux ce samedi 6 juin, un couple considéré à haut risque pour avoir voyagé sur le navire à l’origine du foyer épidémique raconte à «Libé» son quotidien «carcéral» à l’hôpital Bichat, où il doit encore rester à l’isolement.",
+      "url": "https://www.liberation.fr/societe/sante/apres-des-semaines-face-a-locean-infini-une-chambre-cest-etroit-les-derniers-cas-contact-a-lhantavirus-veulent-sortir-20260606_63GUKBAONFBW7HCUPO43BOOXM4/",
+      "image": null,
+      "date": "2026-06-06T05:00:00+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : les dysfonctionnements judiciaires en pleine lumière",
+      "desc": "Comment Jérôme B., principal suspect et déjà visé par plusieurs plaintes, dont plusieurs pour viol sur mineure, n’a-t-il jamais été inquiété jusque-là ? La mort de la collégienne révèle l’ampleur des carences d’un système défaillant, en sous-effectif chronique et à la communication interne inefficac",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-les-dysfonctionnements-judiciaires-en-pleine-lumiere-20260606_KQUNQTB7Q5FDTJVD4M4GISGY5A/",
+      "image": null,
+      "date": "2026-06-06T04:30:00+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« La vérité, on ne l’a pas » : un homme condamné à trente ans de réclusion pour le meurtre d’Alicia Faye, piégée dans un trafic de cocaïne",
+      "desc": "La jeune Bordelaise avait été entraînée dans un réseau de narcotrafic entre la Gironde et la Guyane avant d’être abattue, d’une balle dans la tête, en mars 2021, à l’âge de 25 ans.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/06/la-verite-on-ne-l-a-pas-un-homme-condamne-a-trente-ans-de-reclusion-pour-le-meurtre-d-alicia-faye-piegee-dans-un-trafic-de-cocaine_6698066_3224.html",
+      "image": "https://img.lemde.fr/2025/04/10/69/0/3000/1500/644/322/60/0/21f6bc3_sirius-fs-upload-1-rz8drg0atq4z-1744297402354-frame-10.jpg",
+      "date": "2026-06-06T04:08:16+00:00",
+      "date_formatted": "6 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : l'Argentine étend à une autre province la recherche sur de potentiels rongeurs vecteurs",
       "desc": "Avant d'embarquer sur le \"Hondius\", ce navire de croisière où un foyer d'hantavirus était apparu début mai, le \"patient zéro\" avait sillonné pendant quatre mois l'Argentine.",
@@ -10,26 +70,6 @@
       "date": "2026-06-05T23:43:44+00:00",
       "date_formatted": "5 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canal + : un syndicat s’insurge contre la diffusion fin juin de l’adaptation du «Suicide français» d’Eric Zemmour sur une chaîne du groupe",
-      "desc": "Les quatre épisodes adaptés du best-seller du président de Reconquête, sont au menu les 23 et 30 juin de la chaîne Planète +, propriété de Vincent Bolloré. + Libres, organisation syndicale autonome accuse sa direction de faire la campagne du probable candidat à la présidentielle.",
-      "url": "https://www.liberation.fr/economie/medias/canal-un-syndicat-sinsurge-contre-la-diffusion-fin-juin-de-ladaptation-du-suicide-francais-deric-zemmour-sur-une-chaine-du-groupe-20260605_LEP5YPLEKREQBGYWEPYHPPYSUQ/",
-      "image": null,
-      "date": "2026-06-05T20:01:14+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Affaire Lyhanna : Gérald Darmanin «présente ses excuses à la famille de la victime au nom de la Justice»",
-      "desc": "Le ministre de la Justice était l’invité du 20 heures de TF1 ce vendredi, après que l’autopsie a confirmé que le corps de l’enfant retrouvé jeudi était bien celui de la collégienne disparue.",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
-      "image": null,
-      "date": "2026-06-05T20:01:09+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -47,40 +87,10 @@
       "desc": "Des résultats préliminaires montrent que des modifications génétiques ponctuelles peuvent réparer des mutations délétères, mais une partie des cellules embryonnaires n’en bénéficient pas. Ces développements soulèvent des questions éthiques sur les risques d’eugénisme.",
       "url": "https://www.lemonde.fr/sciences/article/2026/06/05/une-technique-plus-ciblee-d-edition-du-genome-appliquee-a-des-embryons-humains_6698016_1650684.html",
       "image": "https://img.lemde.fr/2026/06/05/738/0/4134/2067/644/322/60/0/78fb00c_upload-1-hy7xe6rtgkum-sciencephoto-fr-m8020233.jpg",
-      "date": "2026-06-05T19:28:50+00:00",
+      "date": "2026-06-05T19:28:49+00:00",
       "date_formatted": "5 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Affaire Lyhanna : les leçons d’une tragédie",
-      "desc": "La mort de l’enfant de 11 ans n’est malheureusement pas la première du genre. Mais cette affaire où les dysfonctionnements sont légion doit permettre une prise de conscience globale sur la protection de l’enfance.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/affaire-lyhanna-les-lecons-dune-tragedie-20260605_JQN54PRSXFDFRADTVECRIR2VDA/",
-      "image": null,
-      "date": "2026-06-05T19:07:48+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Lyhanna : malgré les «condoléances» de Lecornu et les «excuses» de Darmanin, l’exécutif accable l’institution judiciaire",
-      "desc": "Depuis la disparition de la collégienne de 11 ans, le gouvernement pointe des responsabilités individuelles et défend le budget alloué à la justice pour mieux se couvrir.",
-      "url": "https://www.liberation.fr/politique/mort-de-lyhanna-malgre-les-condoleances-de-lecornu-et-les-excuses-de-darmanin-lexecutif-accable-linstitution-judiciaire-20260605_ALNN76WJG5HCXCWMAYFHDODZRE/",
-      "image": null,
-      "date": "2026-06-05T19:03:56+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le Gers, territoire à vif après la confirmation de la mort de Lyhanna : «Je suis hors de moi, j’en ai chialé en l’apprenant»",
-      "desc": "Ce vendredi 5 juin, les médecins légistes ont confirmé que le corps retrouvé dans un silo agricole était bien celui de l’enfant de 11 ans. A Montestruc-sur-Gers, où vivait le principal suspect, et à Fleurance, les habitants sont partagés entre sidération et colère contre l’institution judiciaire.",
-      "url": "https://www.liberation.fr/societe/police-justice/dans-le-gers-un-territoire-a-vif-apres-la-confirmation-de-la-mort-de-lyhanna-je-suis-hors-de-moi-jen-ai-chiale-en-lapprenant-20260605_SI2KDXJAYBGANNSVSH5OA2W5SI/",
-      "image": null,
-      "date": "2026-06-05T18:19:23+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Ebola : un plan de 518 millions de dollars pour lutter contre l’épidémie annoncé par l’OMS et l’agence de santé africaine",
@@ -188,16 +198,6 @@
       "url": "https://www.franceinfo.fr/sante/sida/la-prep-efficace-contre-le-vih-mais-trop-peu-connue_8044940.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/XofVvvKtG3CwoxuqZA184_Nqm-Q/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/04/6a2191083fec2562869176.jpg",
       "date": "2026-06-04T20:00:01+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"L'un est non-jugeant, l'autre se pose plein de questions\" : quand le cheval aide les femmes à se relever après un cancer",
-      "desc": "Avec l'association \"Hope\", Annabel Brourhant offre aux femmes ayant vécu un cancer l'opportunité de se retrouver entre elles, autour de l'équithérapie et de l'art. Des séjours complètement gratuits qui aident ces femmes à se reconstruire après une telle épreuve.",
-      "url": "https://www.franceinfo.fr/sante/l-un-est-non-jugeant-l-autre-se-pose-plein-de-questions-quand-le-cheval-aide-les-femmes-a-se-relever-apres-un-cancer_8044928.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/DGiACzvl8x8oAtxLHYAqs9RGOPQ/0x29:1315x769/432x243/filters:format(jpg)/2026/06/04/6a2194836f09a203097822.jpg",
-      "date": "2026-06-04T17:53:56+00:00",
       "date_formatted": "4 June 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -363,16 +363,6 @@
       "type": "science"
     },
     {
-      "title": "Denis Mukwege, Prix Nobel de la paix : « Cette nouvelle épidémie d’Ebola pourrait devenir la plus meurtrière jamais enregistrée »",
-      "desc": "En République démocratique du Congo, le virus Ebola se propage sur les ruines de la guerre, alerte le médecin qui, dans une tribune au « Monde », exhorte toutes les parties belligérantes à accepter un cessez-le-feu immédiat afin de contenir l’épidémie.",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/03/denis-mukwege-prix-nobel-de-la-paix-cette-nouvelle-epidemie-d-ebola-pourrait-devenir-la-plus-meurtriere-jamais-enregistree_6696542_3232.html",
-      "image": "https://img.lemde.fr/2026/06/03/653/0/7838/3919/644/322/60/0/33f62eb_upload-1-c4uun6rnlsrc-000-86r86zq.jpg",
-      "date": "2026-06-03T06:30:03+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Un meilleur accompagnement de parents d’enfants gravement malades adopté",
       "desc": "Le Parlement a définitivement adopté mardi une proposition de loi pour mieux protéger et accompagner les parents d’enfants atteints d’un cancer, d’une maladie grave ou d’un handicap",
       "url": "https://www.20minutes.fr/societe/4226905-20260603-meilleur-accompagnement-parents-enfants-gravement-malades-adopte?at_medium=display&at_campaign=149",
@@ -433,16 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Le secret du GPS des pigeons voyageurs se situerait aussi dans le foie",
-      "desc": "Plusieurs mécanismes ont déjà été présentés pour expliquer le sens de l’orientation de ces volatiles, qui passe notamment par la détection du champ magnétique terrestre. Le dernier en date se penche sur le rôle possible des macrophages, des cellules qui piègent les particules d’ions ferriques de l’o",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/02/le-secret-du-gps-des-pigeons-voyageurs-se-situerait-aussi-dans-le-foie_6696331_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/01/0/0/7864/3932/644/322/60/0/a3c69a5_upload-1-oa90itwtpocc-000-9vr39e.jpg",
-      "date": "2026-06-02T06:00:09+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cancer : Des vermifuges présentés à tort comme des remèdes miracles sur les réseaux sociaux",
       "desc": "Une nouvelle tendance consistant à prendre des vermifuges (parfois vétérinaires) pour lutter contre le cancer se répand sur les réseaux sociaux, avec de nombreux risques de santé à la clé",
       "url": "https://www.20minutes.fr/sante/4226597-20260601-cancer-vermifuges-presentes-tort-comme-remedes-miracles-reseaux-sociaux?at_medium=display&at_campaign=149",
@@ -479,16 +459,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/2/7a29e6f80f_50255910_bebe-amytrophie-spinale.jpg",
       "date": "2026-06-01T07:00:00+00:00",
       "date_formatted": "1 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cet acide aminé essentiel pourrait avoir des effets surprenants sur le vieillissement selon des chercheurs",
-      "desc": "Le secret de la longévité était-il sous nos yeux depuis le début ? C'est ce que suggère une équipe de chercheurs de l'université du Wisconsin (États-Unis) qui a mis au jour le rôle phare que jouerait un acide aminé sur notre état de santé et notre durée de vie.",
-      "url": "https://www.futura-sciences.com/sante/actualites/esperance-vie-cet-acide-amine-essentiel-pourrait-avoir-effets-surprenants-vieillissement-selon-chercheurs-w2t8-134835/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/c/b/5cb0ea384e_50255768_longevite-acide-amine.jpg",
-      "date": "2026-05-31T08:00:00+00:00",
-      "date_formatted": "31 May 2026",
       "source": "Futura Santé",
       "type": "science"
     },
