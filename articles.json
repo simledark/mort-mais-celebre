@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-06-05T19:28:07.734052+00:00",
-  "count": 71,
+  "generated_at": "2026-06-06T01:56:39.694246+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title": "Hantavirus : l'Argentine étend à une autre province la recherche sur de potentiels rongeurs vecteurs",
+      "desc": "Avant d'embarquer sur le \"Hondius\", ce navire de croisière où un foyer d'hantavirus était apparu début mai, le \"patient zéro\" avait sillonné pendant quatre mois l'Argentine.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-l-argentine-etend-a-une-autre-province-la-recherche-sur-de-potentiels-rongeurs-vecteurs_8047280.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1DdB2EjrIHg-we2jcKXqskJjheo/0x53:1024x629/432x243/filters:format(jpg)/2026/06/05/6a2342ca66842856123056.jpg",
+      "date": "2026-06-05T23:43:44+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Canal + : un syndicat s’insurge contre la diffusion fin juin de l’adaptation du «Suicide français» d’Eric Zemmour sur une chaîne du groupe",
+      "desc": "Les quatre épisodes adaptés du best-seller du président de Reconquête, sont au menu les 23 et 30 juin de la chaîne Planète +, propriété de Vincent Bolloré. + Libres, organisation syndicale autonome accuse sa direction de faire la campagne du probable candidat à la présidentielle.",
+      "url": "https://www.liberation.fr/economie/medias/canal-un-syndicat-sinsurge-contre-la-diffusion-fin-juin-de-ladaptation-du-suicide-francais-deric-zemmour-sur-une-chaine-du-groupe-20260605_LEP5YPLEKREQBGYWEPYHPPYSUQ/",
+      "image": null,
+      "date": "2026-06-05T20:01:14+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : Gérald Darmanin «présente ses excuses à la famille de la victime au nom de la Justice»",
+      "desc": "Le ministre de la Justice était l’invité du 20 heures de TF1 ce vendredi, après que l’autopsie a confirmé que le corps de l’enfant retrouvé jeudi était bien celui de la collégienne disparue.",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
+      "image": null,
+      "date": "2026-06-05T20:01:09+00:00",
+      "date_formatted": "5 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Chikungunya : comment la Guyane française veut éviter un scénario réunionnais",
       "desc": "La Guyane est touchée par la première épidémie de chikungunya sur le territoire français depuis celle de La Réunion. En tirant parti de ce qui fut observé dans l’île de l’océan Indien, les autorités sanitaires prennent les devants et offrent gratuitement la vaccination pour aplanir la courbe.",
       "url": "https://www.lemonde.fr/planete/article/2026/06/05/chikungunya-comment-la-guyane-francaise-veut-eviter-un-scenario-reunionnais_6698017_3244.html",
       "image": "https://img.lemde.fr/2026/06/02/475/0/5702/2851/644/322/60/0/963b2cd_ftp-1-7k1vh2gbeci8-5201948-01-06.jpg",
-      "date": "2026-06-05T19:39:05+00:00",
+      "date": "2026-06-05T19:39:03+00:00",
       "date_formatted": "5 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -21,16 +51,6 @@
       "date_formatted": "5 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Affaire Lyhanna : Gérald Darmanin «présente ses excuses à la famille de la victime au nom de la Justice»",
-      "desc": "Le ministre de la Justice était l’invité du 20 heures de TF1 ce vendredi, après que l’autopsie a confirmé que le corps de l’enfant retrouvé jeudi était bien celui de la collégienne disparue.",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-resultats-de-lautopsie-attendus-le-ministere-de-la-justice-fait-un-constat-dechec-20260605_3V4GBSKTWFCFHG2YMIT3MPKOXI/",
-      "image": null,
-      "date": "2026-06-05T19:17:27+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Affaire Lyhanna : les leçons d’une tragédie",
@@ -53,7 +73,7 @@
       "type": "presse"
     },
     {
-      "title": "Dans le Gers, un territoire à vif après la confirmation de la mort de Lyhanna : «Je suis hors de moi, j’en ai chialé en l’apprenant»",
+      "title": "Le Gers, territoire à vif après la confirmation de la mort de Lyhanna : «Je suis hors de moi, j’en ai chialé en l’apprenant»",
       "desc": "Ce vendredi 5 juin, les médecins légistes ont confirmé que le corps retrouvé dans un silo agricole était bien celui de l’enfant de 11 ans. A Montestruc-sur-Gers, où vivait le principal suspect, et à Fleurance, les habitants sont partagés entre sidération et colère contre l’institution judiciaire.",
       "url": "https://www.liberation.fr/societe/police-justice/dans-le-gers-un-territoire-a-vif-apres-la-confirmation-de-la-mort-de-lyhanna-je-suis-hors-de-moi-jen-ai-chiale-en-lapprenant-20260605_SI2KDXJAYBGANNSVSH5OA2W5SI/",
       "image": null,
@@ -80,36 +100,6 @@
       "date": "2026-06-05T17:00:02+00:00",
       "date_formatted": "5 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Roland-Garros 2026 : Alexander Zverev tient enfin sa finale, Flavio Cobolli aussi après le forfait de Matteo Arnaldi",
-      "desc": "Le numéro 3 mondial est venu à bout du jeune tchèque en demi-finale ce vendredi 5 juin, et s’offre, à 29 ans, le droit d’empocher un premier Grand Chelem en carrière. Ce sera contre l’Italien Flavio Cobolli (14e), après le retrait de Matteo Arnaldi, touché par un virus.",
-      "url": "https://www.liberation.fr/sports/tennis/roland-garros-2026-alexander-zverev-tient-enfin-sa-finale-apres-sa-victoire-contre-jakub-mensik-20260605_2PAK5X6ASJDORKRPQZJ6COR6JI/",
-      "image": null,
-      "date": "2026-06-05T16:49:14+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Affaire Lyhanna : l’autopsie confirme que le corps retrouvé dans une exploitation agricole est bien celui de l’enfant disparue",
-      "desc": "La collégienne de 11 ans avait disparu le 29 mai à Fleurance, dans le Gers. Le principal suspect, en détention provisoire, avait travaillé dans l’usine où a été retrouvé le corps. Des critiques s’élèvent sur d’éventuelles failles judiciaires, alors que plusieurs pour violences sexuelles sur mineures",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-lautopsie-confirme-que-le-corps-retrouve-dans-une-exploitation-agricole-est-bien-celui-de-la-collegienne-20260605_W3WOY7XN6JBALGCHNDZD3AMDPE/",
-      "image": null,
-      "date": "2026-06-05T16:44:53+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mentor paternel dans «Buffy contre les vampires» et milliardaire insupportable dans «Ted Lasso», Anthony Head est mort",
-      "desc": "Le comédien britannique âgé de 72 ans est décédé des suites d’une pneumonie, a annoncé sa famille ce vendredi 5 juin.",
-      "url": "https://www.liberation.fr/economie/medias/mentor-paternel-dans-buffy-contre-les-vampires-et-milliardaire-insupportable-dans-ted-lasso-anthony-head-est-mort-20260605_OZW5NY4HQ5AG7NLKSNNGM7B2RI/",
-      "image": null,
-      "date": "2026-06-05T16:25:18+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -208,16 +198,6 @@
       "url": "https://www.franceinfo.fr/sante/l-un-est-non-jugeant-l-autre-se-pose-plein-de-questions-quand-le-cheval-aide-les-femmes-a-se-relever-apres-un-cancer_8044928.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/DGiACzvl8x8oAtxLHYAqs9RGOPQ/0x29:1315x769/432x243/filters:format(jpg)/2026/06/04/6a2194836f09a203097822.jpg",
       "date": "2026-06-04T17:53:56+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Santé : quels aliments contiennent le plus de cadmium, un métal toxique pour la santé ?",
-      "desc": "Présent dans de très nombreux aliments tels que les pommes de terre, le pain ou les céréales, le cadmium peut, en cas de taux trop élevé dans l'organisme, avoir des conséquences pour la santé et provoquer des maladies. Mais comment l'éviter ?",
-      "url": "https://www.franceinfo.fr/sante/sante-quels-aliments-contiennent-le-plus-de-cadmium-un-metal-toxique-pour-la-sante_8044838.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/E84YK9c_z8_5AQ1L15XtvIMzKag/0x35:1436x843/432x243/filters:format(jpg)/2026/06/04/6a2185f118b78008496419.jpg",
-      "date": "2026-06-04T16:05:18+00:00",
       "date_formatted": "4 June 2026",
       "source": "France Info Santé",
       "type": "presse"
