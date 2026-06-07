@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-07T08:42:11.966751+00:00",
-  "count": 49,
+  "generated_at": "2026-06-07T13:15:43.732334+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël frappe la banlieue sud de Beyrouth",
+      "desc": "Au Liban, trois militaires ont été tués par des frappes israéliennes. L’Etat hébreu a annoncé la mort de deux soldats.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/",
+      "image": null,
+      "date": "2026-06-07T13:04:37+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Gaza : 5 morts dans une frappe israélienne",
+      "desc": "Le bombardement a visé un poste de police près de Khan Younès. Samedi 6 juin, les frappes de l’Etat hébreu ont tué 12 personnes.",
+      "url": "https://www.liberation.fr/international/moyen-orient/gaza-5-morts-dans-une-frappe-israelienne-20260607_3W72GGSB2NFS5LZANU27RXHOLQ/",
+      "image": null,
+      "date": "2026-06-07T12:58:21+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Dans le centre d’Israël, des fusillades font un mort et cinq blessés",
+      "desc": "Le Magen David Adom, équivalent israélien de la Croix-Rouge, dit être intervenu dans trois localités situées près de la Cisjordanie occupée. L’assaillant, connu des services de police, a été tué.",
+      "url": "https://www.liberation.fr/international/moyen-orient/dans-le-centre-disrael-des-fusillades-font-un-mort-et-cinq-blesses-20260607_IFVNOOI6XNFT7M2MBGU7X2HYEY/",
+      "image": null,
+      "date": "2026-06-07T12:10:39+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Je ne pouvais pas enterrer mon père ici et ma mère là-bas» : pour les proches d’immigrés, le dilemme du lieu de la sépulture",
+      "desc": "Lorsqu’on est immigré ou enfant d’immigrés, la question se pose inévitablement : se faire enterrer au pays, ou en France ? La question, délicate, charrie de multiples interrogations, au point de, parfois, déchirer les familles en deuil.",
+      "url": "https://www.liberation.fr/societe/immigration/je-ne-pouvais-pas-enterrer-mon-pere-ici-et-ma-mere-la-bas-pour-les-proches-dimmigres-le-dilemme-du-lieu-de-la-sepulture-20260607_4CA7GUDB5RDPRK7B5WB6LCSOTQ/",
+      "image": null,
+      "date": "2026-06-07T12:02:00+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : on compte nos mortes, ils tombent de l’armoire, par Giulia Foïs",
+      "desc": "Nos responsables politiques sont tous «choqués» et s’interrogent : y aurait-il eu des dysfonctionnements dans cette affaire ? Ils veulent des coupables, mais n’ont rien fait, ou si peu, pour que les féminicides cessent.",
+      "url": "https://www.liberation.fr/idees-et-debats/affaire-lyhanna-on-compte-nos-mortes-ils-tombent-de-larmoire-par-giulia-fois-20260607_35QMFJTLPRB5RIC7N6W4XSA4EE/",
+      "image": null,
+      "date": "2026-06-07T11:44:39+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ursula von der Leyen (2/4) : immortelle malgré les casseroles qui s'accumulent",
       "desc": "Considérée comme l'une des femmes les plus puissantes du monde, Ursula von der Leyen influence directement la vie des Européens par ses décisions. Sa personnalité et son parcours restent pourtant méconnus. Qui est vraiment Ursula von der Leyen ? Retour sur le parcours et les zones d'ombre d'une figu",
@@ -41,16 +91,6 @@
       "date_formatted": "7 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : les États-Unis abattent des drones iraniens, Israël frappé par des tirs venus du Liban",
-      "desc": "Au Liban, trois militaires ont été tués par des frappes israéliennes. L’Etat hébreu a annoncé la mort de deux soldats.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/",
-      "image": null,
-      "date": "2026-06-07T07:42:28+00:00",
-      "date_formatted": "7 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Ces aliments pourraient davantage vous protéger du cancer du sein si vous les choisissez bio",
@@ -218,16 +258,6 @@
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-majorite-des-cas-contacts-francais-d-hantavirus-vont-sortir-de-l-isolement-samedi_8046518.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/sK9nRcX9TxCE10EwKgc9-1M2eFM/0x275:5300x3257/432x243/filters:format(jpg)/2026/06/05/6a22ccd388125814762444.jpg",
       "date": "2026-06-05T15:59:42+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"13h15 le samedi\". Une maison partagée",
-      "desc": "Dans le Vaucluse, \"13h15 le samedi\" a visité une colocation pas comme les autres, où la moyenne d'âge tourne autour de 90 ans. Un projet imaginé par Chloé Richard pour que vieillesse rime avec autonomie, amitié, activités et joie de vivre.",
-      "url": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-samedi-une-maison-partagee_8015633.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/KPY9s1TPGhp2Sy4KpM1_ps8IJqk/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/05/6a2291ab345e6572589060.png",
-      "date": "2026-06-05T11:56:58+00:00",
       "date_formatted": "5 June 2026",
       "source": "France Info Santé",
       "type": "presse"
