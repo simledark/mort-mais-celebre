@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-06-07T02:12:16.167778+00:00",
-  "count": 50,
+  "generated_at": "2026-06-07T08:42:11.966751+00:00",
+  "count": 49,
   "articles": [
+    {
+      "title": "Ursula von der Leyen (2/4) : immortelle malgré les casseroles qui s'accumulent",
+      "desc": "Considérée comme l'une des femmes les plus puissantes du monde, Ursula von der Leyen influence directement la vie des Européens par ses décisions. Sa personnalité et son parcours restent pourtant méconnus. Qui est vraiment Ursula von der Leyen ? Retour sur le parcours et les zones d'ombre d'une figu",
+      "url": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/ursula-von-der-leyen-2-4-immortelle-malgre-les-casseroles-qui-s-accumulent_8044898.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/8luevKl_bSkx3e8_iUrUyh12SUQ/0x297:5706x3507/432x243/filters:format(jpg)/2026/06/05/6a229b11e5063324969122.jpg",
+      "date": "2026-06-07T10:05:02+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des chercheurs parviennent à faire repousser partiellement une patte de souris en s'inspirant de axolotl",
+      "desc": "L’axolotl, connu pour sa remarquable capacité à régénérer des parties de son corps, a fait l'objet d'une étude qui a permis d'identifier un gène, que les chercheurs ont ensuite réussi à mimer chez une souris.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/des-chercheurs-parviennent-a-faire-repousser-partiellement-une-patte-de-souris-en-s-inspirant-de-axolotl_8009663.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/htrPB1SBPJ2pMgcrLAtdQWGsEy4/0x53:1024x629/432x243/filters:format(jpg)/2026/06/03/6a202c46a9c28341364392.jpg",
+      "date": "2026-06-07T10:00:04+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cette gêne très courante en milieu bruyant cacherait un lien étonnant avec le risque de démence",
+      "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-cette-gene-tres-courante-milieu-bruyant-cacherait-lien-etonnant-risque-demence-w2t8-135089/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/a/f/bafcbedc43_50232560_audition-demence-alzheimer.jpg",
+      "date": "2026-06-07T09:00:00+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Voici comment des chercheurs ont réussi à produire un médicament anticancer essentiel grâce à de la levure",
+      "desc": "Une avancée majeure dans la production de traitements contre le cancer pourrait bientôt changer la vie de millions de patients à travers le monde, en rendant ces médicaments plus accessibles, abordables et respectueux de l’environnement.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-voici-chercheurs-ont-reussi-produire-medicament-anticancer-essentiel-grace-levure-w2t8-135085/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/6/b/d6b69ef6a7_50256228_cancer-therapie-medicament.jpg",
+      "date": "2026-06-07T08:00:00+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : les États-Unis abattent des drones iraniens, Israël frappé par des tirs venus du Liban",
+      "desc": "Au Liban, trois militaires ont été tués par des frappes israéliennes. L’Etat hébreu a annoncé la mort de deux soldats.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/",
+      "image": null,
+      "date": "2026-06-07T07:42:28+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ces aliments pourraient davantage vous protéger du cancer du sein si vous les choisissez bio",
+      "desc": "Une nouvelle étude française menée auprès de plus de 30 000 personnes suggère qu’un simple changement dans vos habitudes alimentaires pourrait être associé à une réduction significative du risque de cancer du sein après la ménopause. Voici ce que les chercheurs ont découvert.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-ces-aliments-pourraient-davantage-vous-proteger-cancer-sein-si-vous-choisissez-bio-135042/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/1/0/c109012d45_50256144_2-menopause.jpg",
+      "date": "2026-06-07T07:01:54+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Patient bizarre : les médecins découvrent qu’il a reçu bien plus qu’un rein lors de sa greffe",
       "desc": "Aux États-Unis, un homme est mort de la rage quelques semaines après avoir reçu une greffe de rein. Il s’avère que son donneur avait été contaminé par un animal, mais n’avait pas été diagnostiqué.",
@@ -21,16 +81,6 @@
       "date_formatted": "6 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Affaire Lyhanna : Retailleau dénonce un «naufrage de la justice»",
-      "desc": "Le corps retrouvé dans le Gers jeudi est bien celui de la collégienne disparue, a annoncé le procureur d’Agen vendredi, sans que les causes de la mort ne soient connues. Le ministre de la Justice a déploré un «immense échec».",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-affaire-lyhanna-les-reactions-se-multiplient-pour-pointer-les-dysfonctionnements-de-la-justice-20260606_V73LCVVTAZA5FG5NAMXJUOPJKQ/",
-      "image": null,
-      "date": "2026-06-06T17:45:31+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Ebola : le patient américain soigné en Allemagne est guéri et sorti de l’hôpital",
@@ -63,16 +113,6 @@
       "type": "presse"
     },
     {
-      "title": "Un homme reconnaît avoir étranglé son ex-conjointe, retrouvée morte à Laval",
-      "desc": "Interpellé jeudi à Paris, l’homme de 32 ans s’en est pris à son ancienne compagne, une femme de 39 ans retrouvée morte le 4 juin dans son appartement de la ville de Mayenne.",
-      "url": "https://www.liberation.fr/societe/police-justice/un-homme-reconnait-avoir-etrangle-son-ex-conjointe-retrouvee-morte-a-laval-20260606_LRNE4YIPHBAETOUD2KLG2ETZKE/",
-      "image": null,
-      "date": "2026-06-06T15:59:30+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "L'OMS annonce 500 cas d'infection au virus Ebola en Afrique centrale",
       "desc": "Dans son point quotidien, l'Organisation mondiale de la santé a recensé 452 cas confirmés, dont 82 décès, en République démocratique du Congo (RDC), où l'épidémie a été déclarée il y a trois semaines.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-annonce-500-cas-d-infection-au-virus-ebola-en-afrique-centrale_8048030.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -80,16 +120,6 @@
       "date": "2026-06-06T14:09:56+00:00",
       "date_formatted": "6 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Tout au bout de la mer» : Lalla Romano, l’amour et la mort",
-      "desc": "Réédition du récit fragmentaire et autobiographique de l’autrice italienne morte en 2001, à travers lequel elle rend hommage à l’homme qui a partagé sa vie.",
-      "url": "https://www.liberation.fr/culture/livres/tout-au-bout-de-la-mer-lalla-romano-lamour-et-la-mort-20260606_R6IA4227YNHILCAXCZJT3G4JVI/",
-      "image": null,
-      "date": "2026-06-06T13:40:00+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -243,16 +273,6 @@
       "type": "science"
     },
     {
-      "title": "Sao Tomé-et-Principe, l'île verdoyante au café d'exception",
-      "desc": "Sur l'île de Sao Tomé-et-Principe, la culture du café est une tradition centenaire, arrivée en même temps que les colons portugais il y a 200 ans. Depuis, l'île produit un café très prisé en petites quantités, quelques dizaines de tonnes par an.",
-      "url": "https://www.franceinfo.fr/decouverte/sao-tome-et-principe-l-ile-verdoyante-au-cafe-d-exception_8045438.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Ff6b68a1St1qBmfCGGz95iSG168/0x99:1013x669/432x243/filters:format(jpg)/2026/06/04/6a21e48bdcf85774840827.jpg",
-      "date": "2026-06-04T23:44:03+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Plus le temps d’écran est long dans la petite enfance, moins bons sont les résultats scolaires",
       "desc": "Une étude menée à partir d’une cohorte de Singapour montre que le temps passé devant les écrans à partir de l’âge de 1 an est associé à de moins bonnes performances en primaire, à 9 ans. De nouveaux résultats qui confortent des travaux précédents.",
       "url": "https://www.lemonde.fr/sciences/article/2026/06/04/plus-le-temps-d-ecran-est-long-dans-la-petite-enfance-moins-bons-sont-les-resultats-scolaires_6697437_1650684.html",
@@ -373,16 +393,6 @@
       "type": "presse"
     },
     {
-      "title": "Une maladie à prions des cervidés peut se transmettre à des primates non humains",
-      "desc": "Le franchissement de la barrière d’espèce par la maladie du dépérissement chronique a été constaté après des années d’incubation. Cela plaide pour une surveillance continue du risque de passage à l’humain. Parallèlement, une autre équipe explore une piste originale de vaccination contre les prions p",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/03/une-maladie-a-prions-des-cervides-peut-se-transmettre-a-des-primates-non-humains_6696543_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/29/132/0/5000/2500/644/322/60/0/bdbfb1b_upload-1-ldxzqsp0so5u-rea11754770.jpg",
-      "date": "2026-06-03T06:30:06+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Un meilleur accompagnement de parents d’enfants gravement malades adopté",
       "desc": "Le Parlement a définitivement adopté mardi une proposition de loi pour mieux protéger et accompagner les parents d’enfants atteints d’un cancer, d’une maladie grave ou d’un handicap",
       "url": "https://www.20minutes.fr/societe/4226905-20260603-meilleur-accompagnement-parents-enfants-gravement-malades-adopte?at_medium=display&at_campaign=149",
@@ -430,26 +440,6 @@
       "date": "2026-06-01T14:05:55+00:00",
       "date_formatted": "1 June 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Voici pourquoi l'endométriose touche en réalité presque tous les organes du corps selon des études récentes",
-      "desc": "Deux millions de femmes touchées en France, un délai de diagnostic qui dépasse fréquemment dix ans. L'endométriose reste l'une des maladies les plus sous-estimées de notre système de santé. Mais la science commence enfin à mettre des mots sur ce que les patientes vivent depuis des années. Ce que...",
-      "url": "https://www.futura-sciences.com/sante/actualites/endometriose-voici-endometriose-touche-realite-presque-tous-organes-corps-selon-etudes-recentes-k2m6-134873/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/4/a/c4a3742592_50255867_endometriose-organes.jpg",
-      "date": "2026-06-01T10:00:00+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Diagnostiquer les troubles moteurs du nourrisson grâce à une caméra et à l’IA : l’exemple de l’amyotrophie spinale",
-      "desc": "Une simple caméra pourrait révolutionner le diagnostic des maladies du nourrisson, notamment l’amyotrophie spinale. Cette maladie neuromusculaire génétique rare, autrefois létale, se manifeste dès la naissance par une hypotonie sévère. Grâce à l’intelligence artificielle couplée à une caméra...",
-      "url": "https://www.futura-sciences.com/sante/actualites/bebe-diagnostiquer-troubles-moteurs-nourrisson-grace-camera-ia-exemple-amyotrophie-spinale-134891/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/2/7a29e6f80f_50255910_bebe-amytrophie-spinale.jpg",
-      "date": "2026-06-01T07:00:00+00:00",
-      "date_formatted": "1 June 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
