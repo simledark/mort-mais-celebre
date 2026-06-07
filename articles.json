@@ -1,55 +1,65 @@
 {
-  "generated_at": "2026-06-07T13:15:43.732334+00:00",
-  "count": 52,
+  "generated_at": "2026-06-07T19:02:56.286958+00:00",
+  "count": 67,
   "articles": [
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël frappe la banlieue sud de Beyrouth",
-      "desc": "Au Liban, trois militaires ont été tués par des frappes israéliennes. L’Etat hébreu a annoncé la mort de deux soldats.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/",
+      "title": "Naufrage au large de Malte : au moins dix migrants retrouvés morts",
+      "desc": "Les garde-côtes italiens ont annoncé ce dimanche avoir découvert les corps de dix personnes qui tentaient de traverser la Méditerranée, alors que l’ONU alerte sur une augmentation dramatique des morts en Méditerranée depuis le début de l’année.",
+      "url": "https://www.liberation.fr/international/europe/naufrage-au-large-de-malte-au-moins-dix-migrants-retrouves-morts-20260607_GQB4CWBBDVBCLFHTQTZRI56TIA/",
       "image": null,
-      "date": "2026-06-07T13:04:37+00:00",
+      "date": "2026-06-07T18:47:38+00:00",
       "date_formatted": "7 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Gaza : 5 morts dans une frappe israélienne",
-      "desc": "Le bombardement a visé un poste de police près de Khan Younès. Samedi 6 juin, les frappes de l’Etat hébreu ont tué 12 personnes.",
-      "url": "https://www.liberation.fr/international/moyen-orient/gaza-5-morts-dans-une-frappe-israelienne-20260607_3W72GGSB2NFS5LZANU27RXHOLQ/",
+      "title": "Après la mort de Lyhanna, Darmanin ordonne aux procureurs de reprendre «l’intégralité des plaintes qui touchent les enfants», soit 70 000 dossiers",
+      "desc": "Dans le sillage du meurtre de l’enfant de 11 ans, le ministre de la Justice a annoncé ce dimanche 7 juin qu’environ 70 000 dossiers judiciaires concernant des mineurs seraient passés en revue d’ici au 14 juillet.",
+      "url": "https://www.liberation.fr/societe/police-justice/apres-la-mort-de-lyhanna-darmanin-ordonne-aux-procureurs-de-reprendre-lintegralite-des-plaintes-qui-touchent-les-enfants-20260607_6XEHDOSHWFG3DMOSCJOXMRQKLY/",
       "image": null,
-      "date": "2026-06-07T12:58:21+00:00",
+      "date": "2026-06-07T17:34:18+00:00",
       "date_formatted": "7 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Dans le centre d’Israël, des fusillades font un mort et cinq blessés",
-      "desc": "Le Magen David Adom, équivalent israélien de la Croix-Rouge, dit être intervenu dans trois localités situées près de la Cisjordanie occupée. L’assaillant, connu des services de police, a été tué.",
-      "url": "https://www.liberation.fr/international/moyen-orient/dans-le-centre-disrael-des-fusillades-font-un-mort-et-cinq-blesses-20260607_IFVNOOI6XNFT7M2MBGU7X2HYEY/",
+      "title": "Mort de Lyhanna : pour un parquet national consacré aux violences sexuelles et à la pédocriminalité",
+      "desc": "Alors que des institutions nationales ont été créées pour répondre au narcotrafic, à la délinquance financière et au terrorisme, les violences sexuelles et la pédocriminalité justifient un même niveau de compétence, d’action et de coordination, plaide l’avocate Rachel-Flore Pardo.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/mort-de-lyhanna-pour-un-parquet-national-consacre-aux-violences-sexuelles-et-a-la-pedocriminalite-20260607_WDTMBTLC75BQJIKH7Y6LS5GHPY/",
       "image": null,
-      "date": "2026-06-07T12:10:39+00:00",
+      "date": "2026-06-07T15:34:47+00:00",
       "date_formatted": "7 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "«Je ne pouvais pas enterrer mon père ici et ma mère là-bas» : pour les proches d’immigrés, le dilemme du lieu de la sépulture",
-      "desc": "Lorsqu’on est immigré ou enfant d’immigrés, la question se pose inévitablement : se faire enterrer au pays, ou en France ? La question, délicate, charrie de multiples interrogations, au point de, parfois, déchirer les familles en deuil.",
-      "url": "https://www.liberation.fr/societe/immigration/je-ne-pouvais-pas-enterrer-mon-pere-ici-et-ma-mere-la-bas-pour-les-proches-dimmigres-le-dilemme-du-lieu-de-la-sepulture-20260607_4CA7GUDB5RDPRK7B5WB6LCSOTQ/",
+      "title": "\"Des soins de tout premier ordre\" : comment un patient américain ayant contracté le virus Ebola a été soigné",
+      "desc": "Ce médecin missionnaire a été guéri après avoir été placé dans l'unité d'un hôpital allemand, combinant isolement et soins intensifs.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/epidemie-d-ebola-comment-un-patient-americain-a-ete-soigne-du-virus_8048162.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/a3VqEJidCVpY9Jp6q01xvHMR15w/0x0:1024x576/432x243/filters:format(jpg)/2026/06/07/6a254b3ad2adc532202938.jpg",
+      "date": "2026-06-07T15:30:49+00:00",
+      "date_formatted": "7 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«L’expérience la plus effrayante de ma vie» : la gymnaste américaine Simone Biles révèle qu’elle a frôlé la mort",
+      "desc": "La superstar mondiale a publié sur Instagram des posts la montrant à l’hôpital, mais ne précise pas ce qui lui est arrivé.",
+      "url": "https://www.liberation.fr/sports/lexperience-la-plus-effrayante-de-ma-vie-la-gymnaste-americaine-simone-biles-revele-quelle-a-frole-la-mort-20260607_I3LHSBMYYBF33CMA6C74LHCGDY/",
       "image": null,
-      "date": "2026-06-07T12:02:00+00:00",
+      "date": "2026-06-07T15:21:08+00:00",
       "date_formatted": "7 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Affaire Lyhanna : on compte nos mortes, ils tombent de l’armoire, par Giulia Foïs",
-      "desc": "Nos responsables politiques sont tous «choqués» et s’interrogent : y aurait-il eu des dysfonctionnements dans cette affaire ? Ils veulent des coupables, mais n’ont rien fait, ou si peu, pour que les féminicides cessent.",
-      "url": "https://www.liberation.fr/idees-et-debats/affaire-lyhanna-on-compte-nos-mortes-ils-tombent-de-larmoire-par-giulia-fois-20260607_35QMFJTLPRB5RIC7N6W4XSA4EE/",
-      "image": null,
-      "date": "2026-06-07T11:44:39+00:00",
+      "title": "Ebola : L’UE a acheminé 100 tonnes de matériel d’urgence dans l’est de la RDC",
+      "desc": "Des médicaments, des tentes et des équipements de protection ont été acheminés vers l’épicentre de l’épidémie, une région difficile d’accès, alors que 452 cas ont été confirmés dans le pays",
+      "url": "https://www.20minutes.fr/monde/4227627-20260607-ebola-ue-achemine-100-tonnes-materiel-urgence-rdc?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-8-TK6WGRoeG4ff0hYJhOik/1200x768_un-agent-de-sante-se-prepare-a-prendre-ses-fonctions-au-centre-de-traitement-de-mongbwalu-a-mongbwalu-au-congo-le-vendredi-5-juin-2026-ap-photo-moses-sawasawa-xma113-26156655603260-2606052035",
+      "date": "2026-06-07T13:25:08+00:00",
       "date_formatted": "7 June 2026",
-      "source": "Libération",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -253,16 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "La majorité des Français ayant croisé une malade de l'hantavirus vont sortir de l'isolement samedi",
-      "desc": "Quatre Français doivent, toutefois, rester à l'isolement jusqu'au 21 juin. Il s'agit des personnes ayant participé à la croisière sur le navire \"Hondius\", et ayant donc été en contact avec une passagère néerlandaise décédée fin avril.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-majorite-des-cas-contacts-francais-d-hantavirus-vont-sortir-de-l-isolement-samedi_8046518.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/sK9nRcX9TxCE10EwKgc9-1M2eFM/0x275:5300x3257/432x243/filters:format(jpg)/2026/06/05/6a22ccd388125814762444.jpg",
-      "date": "2026-06-05T15:59:42+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Morts au travail : une stratégie gouvernementale peu ambitieuse pour empêcher les accidents",
       "desc": "Face à des chiffres qui ne parviennent pas à baisser et l’émergence de nouveaux risques liés à la santé mentale ou aux vagues de chaleur, le nouveau plan Santé au travail 2026-2030 se cantonne à des mesures de prévention.",
       "url": "https://www.lemonde.fr/politique/article/2026/06/05/morts-au-travail-une-strategie-gouvernementale-peu-ambitieuse-pour-empecher-les-accidents_6697931_823448.html",
@@ -321,6 +321,16 @@
       "date_formatted": "4 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "« Pourquoi avons-nous peur ? », la plus ancienne de nos émotions décortiquée par la science",
@@ -520,6 +530,146 @@
       "date": "2026-05-24T09:00:00+00:00",
       "date_formatted": "24 May 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
+      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
+      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
+      "image": null,
+      "date": "2026-04-21T15:30:59+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
+      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
+      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
+      "image": null,
+      "date": "2026-04-21T08:00:54+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
+      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
+      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
+      "image": null,
+      "date": "2026-04-21T00:00:17+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
+      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
+      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
+      "image": null,
+      "date": "2026-04-16T18:00:00+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
+      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
+      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
+      "image": null,
+      "date": "2026-04-14T13:00:00+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
+      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
+      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
+      "image": null,
+      "date": "2026-04-03T09:21:47+00:00",
+      "date_formatted": "3 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
+      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
+      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
+      "image": null,
+      "date": "2026-03-26T16:00:46+00:00",
+      "date_formatted": "26 March 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
