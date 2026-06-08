@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-06-08T15:22:44.596346+00:00",
-  "count": 68,
+  "generated_at": "2026-06-08T19:58:11.392893+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title": "\"On a droit à une heure de sortie par jour\" : un couple de retraités présent sur le Hondius raconte son isolement",
+      "desc": "Julia et Roland Seitre, deux retraités présents sur le MV Hondius, navire où s'est déclaré le foyer d'hantavirus, sont confinés dans leur chambre de l'hôpital Bichat. Ils nous racontent leur quotidien à l'isolement et espèrent pouvoir être renvoyés chez eux le plus vite possible.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/on-a-droit-a-une-heure-de-sortie-par-jour-un-couple-de-retraites-present-sur-le-hondius-raconte-son-isolement_8051045.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/rzVSt1Ycryd-YdqdsDBuDVvRGok/0x23:1277x742/432x243/filters:format(jpg)/2026/06/08/6a2717208e16f002992722.jpg",
+      "date": "2026-06-08T21:26:41+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quand Darwin arrive en ville : comment la jungle urbaine bouleverse la sélection naturelle des animaux",
+      "desc": "Des mésanges plus agressives, des escargots qui s’éclaircissent, un plumage antipollution pour les pigeons… La faune des villes s’adapte au contexte citadin. Plasticité comportementale ou véritable évolution génétique ? Depuis dix ans, des chercheurs mènent l’enquête.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/08/quand-darwin-arrive-en-ville-comment-la-jungle-urbaine-bouleverse-la-selection-naturelle-des-animaux_6699624_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/05/448/0/5379/2689/644/322/60/0/825a94c_upload-1-xuhgumiwuw1g-sipa-sipahub60000171-000001.jpg",
+      "date": "2026-06-08T18:00:12+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Voici pourquoi la lutte contre Alzheimer pourrait passer par les muscles plutôt que par le cerveau selon une étude",
+      "desc": "Et si le secret pour préserver la mémoire se cachait dans nos biceps plutôt que dans nos neurones ? Une étude publiée en 2025 dans la revue Aging Cell bouscule les certitudes sur Alzheimer. Les muscles pourraient envoyer au cerveau des signaux protecteurs capables de ralentir le déclin cognitif.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-voici-lutte-alzheimer-pourrait-passer-muscles-plutot-cerveau-selon-etude-k2m6-135146/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/5/c/d5c04e9363_50256271_alzheimer-muscles.jpg",
+      "date": "2026-06-08T18:00:00+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire",
       "desc": "Fini les vaccins à reformuler chaque année ? Une équipe de Cambridge teste une technologie révolutionnaire capable d’anticiper les mutations virales grâce à l’IA. Une avancée qui pourrait changer durablement notre réponse aux épidémies.",
@@ -13,31 +43,11 @@
       "type": "science"
     },
     {
-      "title": "EN DIRECT - Affaire Lyhanna : le frère de Jérôme B. en garde à vue pour viol sur mineur de plus de 15 ans et viol par conjoint",
-      "desc": "Il est également soupçonné de séquestration et menace de mort réitérée par conjoint. Les faits auraient été commis entre 2007 et 2017 selon un communiqué du parquet d’Auch consulté par «Libération».",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-disparition-de-lyhanna-les-procureurs-generaux-attendus-a-la-chancellerie-pour-une-reunion-de-travail-20260608_FRWPRFJTTRCZFI4II7EC3T7GWA/",
+      "title": "«Il faut que ça cesse» : l’émoi suscité par la mort de Lyhanna remet la loi-cadre contre les violences à l’ordre du jour parlementaire",
+      "desc": "Sept députés, soutenus par la présidente de l’Assemblée nationale, ont appelé à l’inscription urgente de ce texte de 79 mesures visant à lutter contre les violences faites aux femmes et aux enfants, déposé en décembre dernier.",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/il-faut-que-ca-cesse-lemoi-suscite-par-la-mort-de-lyhanna-remet-la-loi-cadre-contre-les-violences-a-lordre-du-jour-parlementaire-20260608_6VTYYFB6ZJHHJE22BETP4W6XJA/",
       "image": null,
-      "date": "2026-06-08T15:10:42+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un séisme fait au moins 35 morts aux Philippines",
-      "desc": "Le sud du pays a été frappé ce lundi par un phénomène de magnitude 7,8, causant l’effondrement de plusieurs bâtiments. Les autorités ont appelé les habitants des régions côtières à évacuer vers des zones plus en hauteur dans l’archipel.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/un-seisme-fait-au-moins-15-morts-aux-philippines-20260608_JUEUQOFCGJF5LLDPI74YWS2QX4/",
-      "image": null,
-      "date": "2026-06-08T15:00:09+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Bernadette Chirac : ses obsèques auront lieu vendredi à Paris, avant un hommage dimanche en Corrèze",
-      "desc": "Les funérailles se tiendront le 12 juin dans une basilique parisienne, conformément aux souhaits de l’ancienne première dame, a annoncé ce lundi la cadette de la famille Chirac.",
-      "url": "https://www.liberation.fr/politique/mort-de-bernadette-chirac-ses-obseques-auront-lieu-vendredi-a-paris-avant-un-hommage-dimanche-en-correze-20260608_VCQKDTGFXFAULORTBFT43HYRW4/",
-      "image": null,
-      "date": "2026-06-08T14:30:17+00:00",
+      "date": "2026-06-08T16:44:11+00:00",
       "date_formatted": "8 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -51,16 +61,6 @@
       "date_formatted": "8 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Quand Mbappé fait son âge, par Luc Le Vaillant",
-      "desc": "Le capitaine des Bleus est l’éclaireur d’une jeune génération de sportifs français qui affichent leur confiance, parlent politique et font de l’argent.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/quand-mbappe-fait-son-age-par-luc-le-vaillant-20260608_TKP3PKUFUVG6XIAADZJFR7S5T4/",
-      "image": null,
-      "date": "2026-06-08T11:15:00+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Quand des symptômes psychiatriques ne relèvent pas de la psychiatrie",
@@ -459,16 +459,6 @@
       "image": "https://img.20mn.fr/JV0ZhlqeRzSBwTEY0FjCESk/1200x768_vincent-thiebaut-lors-de-la-session-hebdomadaire-des-questions-au-gouvernement-a-l-assemblee-nationale-a-paris-paris-france-10-04-2018-jacques-witt-choixan017-credit-jacques-witt-sipa-sipa-1804101940",
       "date": "2026-06-03T06:09:59+00:00",
       "date_formatted": "3 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Virus Ebola : Bonne nouvelle, le nombre de cas régresse nettement en RDC",
-      "desc": "Alors que l’aéroport menant à l’épicentre de la maladie vient de rouvrir en République démocratique du Congo, les autorités sanitaires constatent une diminution des cas suspects de contamination",
-      "url": "https://www.20minutes.fr/monde/4226790-20260602-virus-ebola-bonne-nouvelle-nombre-cas-regresse-nettement-rdc?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/QQqEht-STfu-YcdoaZpxbCk/1200x768_manza-pantience-a-gauche-sage-femme-a-karibuni-wa-mama-supervise-les-agents-de-sante-qui-collectent-les-echantillons-des-patients-pour-les-tests-d-ebola-a-l-hopital-sofepadi-de-bunia-au-congo-le-vendredi-29-mai-2026-ap-photo-moses-sawasawa-xma128-26149679601564-2605292102",
-      "date": "2026-06-02T14:05:03+00:00",
-      "date_formatted": "2 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
     },
