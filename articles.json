@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-06-08T10:12:44.725642+00:00",
-  "count": 67,
+  "generated_at": "2026-06-08T15:22:44.596346+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title": "Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire",
+      "desc": "Fini les vaccins à reformuler chaque année ? Une équipe de Cambridge teste une technologie révolutionnaire capable d’anticiper les mutations virales grâce à l’IA. Une avancée qui pourrait changer durablement notre réponse aux épidémies.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vaccin-virus-mutants-ebola-covid-grippe-aviaire-chercheurs-ont-concu-ia-super-vaccin-revolutionnaire-135162/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/7/9/b79038b5ab_50256318_super-vaccin.jpg",
+      "date": "2026-06-08T17:08:00+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Affaire Lyhanna : le frère de Jérôme B. en garde à vue pour viol sur mineur de plus de 15 ans et viol par conjoint",
+      "desc": "Il est également soupçonné de séquestration et menace de mort réitérée par conjoint. Les faits auraient été commis entre 2007 et 2017 selon un communiqué du parquet d’Auch consulté par «Libération».",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-disparition-de-lyhanna-les-procureurs-generaux-attendus-a-la-chancellerie-pour-une-reunion-de-travail-20260608_FRWPRFJTTRCZFI4II7EC3T7GWA/",
+      "image": null,
+      "date": "2026-06-08T15:10:42+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un séisme fait au moins 35 morts aux Philippines",
+      "desc": "Le sud du pays a été frappé ce lundi par un phénomène de magnitude 7,8, causant l’effondrement de plusieurs bâtiments. Les autorités ont appelé les habitants des régions côtières à évacuer vers des zones plus en hauteur dans l’archipel.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/un-seisme-fait-au-moins-15-morts-aux-philippines-20260608_JUEUQOFCGJF5LLDPI74YWS2QX4/",
+      "image": null,
+      "date": "2026-06-08T15:00:09+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Bernadette Chirac : ses obsèques auront lieu vendredi à Paris, avant un hommage dimanche en Corrèze",
+      "desc": "Les funérailles se tiendront le 12 juin dans une basilique parisienne, conformément aux souhaits de l’ancienne première dame, a annoncé ce lundi la cadette de la famille Chirac.",
+      "url": "https://www.liberation.fr/politique/mort-de-bernadette-chirac-ses-obseques-auront-lieu-vendredi-a-paris-avant-un-hommage-dimanche-en-correze-20260608_VCQKDTGFXFAULORTBFT43HYRW4/",
+      "image": null,
+      "date": "2026-06-08T14:30:17+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : les « anticorps conjugués » vont-ils bientôt remplacer la chimiothérapie classique ?",
+      "desc": "Et si l’avenir du traitement du cancer passait par des médicaments capables de frapper uniquement les cellules malades ? Plus ciblés, souvent mieux tolérés et porteurs d’espoir face à des tumeurs résistantes, les anticorps conjugués pourraient bouleverser la prise en charge de nombreux cancers.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-anticorps-conjugues-vont-ils-bientot-remplacer-chimiotherapie-classique-135004/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/c/2/ac2a112504_50256091_hopital-perfusion-medecin.jpg",
+      "date": "2026-06-08T12:48:46+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Quand Mbappé fait son âge, par Luc Le Vaillant",
+      "desc": "Le capitaine des Bleus est l’éclaireur d’une jeune génération de sportifs français qui affichent leur confiance, parlent politique et font de l’argent.",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/quand-mbappe-fait-son-age-par-luc-le-vaillant-20260608_TKP3PKUFUVG6XIAADZJFR7S5T4/",
+      "image": null,
+      "date": "2026-06-08T11:15:00+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Quand des symptômes psychiatriques ne relèvent pas de la psychiatrie",
       "desc": "Une pathologie auto-immune aux manifestations d’allure psychotique, touchant principalement les jeunes femmes, conduit encore souvent à une longue errance diagnostique.",
@@ -13,26 +73,6 @@
       "type": "science"
     },
     {
-      "title": "Un séisme fait au moins 15 morts aux Philippines",
-      "desc": "Le sud du pays a été frappé ce lundi par un phénomène de magnitude 7,8, causant l’effondrement de plusieurs bâtiments. Les autorités ont appelé les habitants des régions côtières à évacuer vers des zones plus en hauteur dans l’archipel.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/un-seisme-fait-au-moins-15-morts-aux-philippines-20260608_JUEUQOFCGJF5LLDPI74YWS2QX4/",
-      "image": null,
-      "date": "2026-06-08T08:55:59+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "New York : six personnes poignardées mais aucun mort dans une attaque à Penn Station",
-      "desc": "Les pompiers ont annoncé cinq blessés dont un grave, avant que le maire Zohran Mamdani n’évoque une sixième personne touchée. Un fonctionnaire de la ville regrette l’attaque d’un «sans-abri souffrant de troubles mentaux».",
-      "url": "https://www.liberation.fr/international/new-york-six-personnes-poignardees-mais-aucun-mort-dans-une-attaque-a-penn-station-20260608_56WQTPVJNZHZVC2UTNHLXZOGHY/",
-      "image": null,
-      "date": "2026-06-08T08:19:42+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Des hausses de cotisations de mutuelles malgré le gel imposé par la loi",
       "desc": "Depuis le début de l’année, les organismes complémentaires de l’Assurance-maladie sont censés avoir bloqué leurs tarifs. Mais de nombreux assurés constatent des augmentations.",
       "url": "https://www.lemonde.fr/argent/article/2026/06/08/des-hausses-de-cotisations-de-mutuelles-malgre-le-gel-impose-par-la-loi_6699467_1657007.html",
@@ -40,16 +80,6 @@
       "date": "2026-06-08T08:16:57+00:00",
       "date_formatted": "8 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Bernadette Chirac dans l’œil des photographes de Libération",
-      "desc": "Morte ce vendredi 5 juin à 93 ans, l’épouse de l’ancien président de la République a été largement photographiée pour le journal. D’épouse dévouée, ces photographies montrent également son émancipation et son caractère qui s’affirment au fil des années.",
-      "url": "https://www.liberation.fr/culture/photographie/bernadette-chirac-dans-loeil-des-photographes-de-liberation-20260608_LVFJMTJGAZBPHLVNQ3ESMTNVLQ/",
-      "image": null,
-      "date": "2026-06-08T07:43:48+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -263,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancer du pancréas : un espoir inédit pour les malades",
-      "desc": "Un nouvel espoir dans la lutte contre le cancer du pancréas, l'un des plus agressifs et des plus meurtriers. Présentés lors du congrès mondial d'oncologie de Chicago, les résultats d'un essai clinique sont particulièrement prometteurs.",
-      "url": "https://www.franceinfo.fr/sante/cancer-du-pancreas-un-espoir-inedit-pour-les-malades_8046464.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/9HKK5Gh-ByfIIezUp6_cpczD_v4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/06/05/6a22b8c5b4ee1359474767.jpg",
-      "date": "2026-06-05T17:00:02+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Morts au travail : une stratégie gouvernementale peu ambitieuse pour empêcher les accidents",
       "desc": "Face à des chiffres qui ne parviennent pas à baisser et l’émergence de nouveaux risques liés à la santé mentale ou aux vagues de chaleur, le nouveau plan Santé au travail 2026-2030 se cantonne à des mesures de prévention.",
       "url": "https://www.lemonde.fr/politique/article/2026/06/05/morts-au-travail-une-strategie-gouvernementale-peu-ambitieuse-pour-empecher-les-accidents_6697931_823448.html",
@@ -460,16 +480,6 @@
       "date": "2026-06-02T08:14:40+00:00",
       "date_formatted": "2 June 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : la vitamine D pourrait aider la chimiothérapie à franchir la barrière des tumeurs",
-      "desc": "La chimiothérapie ne manque pas toujours de puissance : parfois, elle peine simplement à atteindre sa cible. Dans le cancer du pancréas, une épaisse barrière fibreuse protège les tumeurs et limite l'efficacité des traitements. Une étude suggère qu'un dérivé de la vitamine D pourrait contribuer à...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-pancreas-cancer-pancreas-vitamine-d-pourrait-aider-chimiotherapie-franchir-barriere-tumeurs-134928/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/1/4/714d8b3cdc_50255978_vitamine-d-cancer-pancre-as.jpg",
-      "date": "2026-06-02T07:03:04+00:00",
-      "date_formatted": "2 June 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
