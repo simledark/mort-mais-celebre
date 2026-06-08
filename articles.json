@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-06-08T02:29:24.008051+00:00",
+  "generated_at": "2026-06-08T10:12:44.725642+00:00",
   "count": 67,
   "articles": [
     {
-      "title": "Naufrage au large de Malte : au moins dix migrants retrouvés morts",
-      "desc": "Les garde-côtes italiens ont annoncé ce dimanche avoir découvert les corps de dix personnes qui tentaient de traverser la Méditerranée, alors que l’ONU alerte sur une augmentation dramatique des morts en Méditerranée depuis le début de l’année.",
-      "url": "https://www.liberation.fr/international/europe/naufrage-au-large-de-malte-au-moins-dix-migrants-retrouves-morts-20260607_GQB4CWBBDVBCLFHTQTZRI56TIA/",
+      "title": "Quand des symptômes psychiatriques ne relèvent pas de la psychiatrie",
+      "desc": "Une pathologie auto-immune aux manifestations d’allure psychotique, touchant principalement les jeunes femmes, conduit encore souvent à une longue errance diagnostique.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/08/quand-des-symptomes-psychiatriques-ne-relevent-pas-de-la-psychiatrie_6699471_6579630.html",
+      "image": "https://img.lemde.fr/2026/06/02/480/0/1920/960/644/322/60/0/bcaba38_upload-1-z0ngmi7tghbl-mri-brain-on-fire-encephalite-anti-re-cepteurs-nmda.jpg",
+      "date": "2026-06-08T09:32:05+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Un séisme fait au moins 15 morts aux Philippines",
+      "desc": "Le sud du pays a été frappé ce lundi par un phénomène de magnitude 7,8, causant l’effondrement de plusieurs bâtiments. Les autorités ont appelé les habitants des régions côtières à évacuer vers des zones plus en hauteur dans l’archipel.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/un-seisme-fait-au-moins-15-morts-aux-philippines-20260608_JUEUQOFCGJF5LLDPI74YWS2QX4/",
       "image": null,
-      "date": "2026-06-07T18:47:38+00:00",
-      "date_formatted": "7 June 2026",
+      "date": "2026-06-08T08:55:59+00:00",
+      "date_formatted": "8 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Après la mort de Lyhanna, Darmanin ordonne aux procureurs de reprendre «l’intégralité des plaintes qui touchent les enfants», soit 70 000 dossiers",
-      "desc": "Dans le sillage du meurtre de l’enfant de 11 ans, le ministre de la Justice a annoncé ce dimanche 7 juin qu’environ 70 000 dossiers judiciaires concernant des mineurs seraient passés en revue d’ici au 14 juillet.",
-      "url": "https://www.liberation.fr/societe/police-justice/apres-la-mort-de-lyhanna-darmanin-ordonne-aux-procureurs-de-reprendre-lintegralite-des-plaintes-qui-touchent-les-enfants-20260607_6XEHDOSHWFG3DMOSCJOXMRQKLY/",
+      "title": "New York : six personnes poignardées mais aucun mort dans une attaque à Penn Station",
+      "desc": "Les pompiers ont annoncé cinq blessés dont un grave, avant que le maire Zohran Mamdani n’évoque une sixième personne touchée. Un fonctionnaire de la ville regrette l’attaque d’un «sans-abri souffrant de troubles mentaux».",
+      "url": "https://www.liberation.fr/international/new-york-six-personnes-poignardees-mais-aucun-mort-dans-une-attaque-a-penn-station-20260608_56WQTPVJNZHZVC2UTNHLXZOGHY/",
       "image": null,
-      "date": "2026-06-07T17:34:18+00:00",
-      "date_formatted": "7 June 2026",
+      "date": "2026-06-08T08:19:42+00:00",
+      "date_formatted": "8 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Mort de Lyhanna : pour un parquet national consacré aux violences sexuelles et à la pédocriminalité",
-      "desc": "Alors que des institutions nationales ont été créées pour répondre au narcotrafic, à la délinquance financière et au terrorisme, les violences sexuelles et la pédocriminalité justifient un même niveau de compétence, d’action et de coordination, plaide l’avocate Rachel-Flore Pardo.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/mort-de-lyhanna-pour-un-parquet-national-consacre-aux-violences-sexuelles-et-a-la-pedocriminalite-20260607_WDTMBTLC75BQJIKH7Y6LS5GHPY/",
+      "title": "Des hausses de cotisations de mutuelles malgré le gel imposé par la loi",
+      "desc": "Depuis le début de l’année, les organismes complémentaires de l’Assurance-maladie sont censés avoir bloqué leurs tarifs. Mais de nombreux assurés constatent des augmentations.",
+      "url": "https://www.lemonde.fr/argent/article/2026/06/08/des-hausses-de-cotisations-de-mutuelles-malgre-le-gel-impose-par-la-loi_6699467_1657007.html",
+      "image": "https://img.lemde.fr/2025/09/19/125/0/1500/750/644/322/60/0/2caf481_upload-1-poqu3qyhcird-mei-dia-35.png",
+      "date": "2026-06-08T08:16:57+00:00",
+      "date_formatted": "8 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Bernadette Chirac dans l’œil des photographes de Libération",
+      "desc": "Morte ce vendredi 5 juin à 93 ans, l’épouse de l’ancien président de la République a été largement photographiée pour le journal. D’épouse dévouée, ces photographies montrent également son émancipation et son caractère qui s’affirment au fil des années.",
+      "url": "https://www.liberation.fr/culture/photographie/bernadette-chirac-dans-loeil-des-photographes-de-liberation-20260608_LVFJMTJGAZBPHLVNQ3ESMTNVLQ/",
       "image": null,
-      "date": "2026-06-07T15:34:47+00:00",
-      "date_formatted": "7 June 2026",
+      "date": "2026-06-08T07:43:48+00:00",
+      "date_formatted": "8 June 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -40,16 +60,6 @@
       "date": "2026-06-07T15:30:49+00:00",
       "date_formatted": "7 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«L’expérience la plus effrayante de ma vie» : la gymnaste américaine Simone Biles révèle qu’elle a frôlé la mort",
-      "desc": "La superstar mondiale a publié sur Instagram des posts la montrant à l’hôpital, mais ne précise pas ce qui lui est arrivé.",
-      "url": "https://www.liberation.fr/sports/lexperience-la-plus-effrayante-de-ma-vie-la-gymnaste-americaine-simone-biles-revele-quelle-a-frole-la-mort-20260607_I3LHSBMYYBF33CMA6C74LHCGDY/",
-      "image": null,
-      "date": "2026-06-07T15:21:08+00:00",
-      "date_formatted": "7 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -127,7 +137,7 @@
       "desc": "A la tête de l’Institut Imagine, à Paris, depuis janvier 2025, la médecin chercheuse, qui a longtemps enseigné aux Etats-Unis, se mobilise pour que la prochaine loi sur la bioéthique autorise le dépistage préconceptionnel en population générale.",
       "url": "https://www.lemonde.fr/sciences/article/2026/06/06/bana-jabri-l-immunologiste-qui-veut-proteger-les-bebes-des-maladies-genetiques-en-testant-les-futurs-parents_6698143_1650684.html",
       "image": "https://img.lemde.fr/2026/06/03/246/0/2953/1476/644/322/60/0/a284918_upload-1-803gid1zl6bp-photo-bana-jabri.jpeg",
-      "date": "2026-06-06T18:00:07+00:00",
+      "date": "2026-06-06T18:00:04+00:00",
       "date_formatted": "6 June 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -370,16 +380,6 @@
       "date": "2026-06-04T03:57:09+00:00",
       "date_formatted": "4 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : la stratégie de l’exécutif pour faire adopter le texte de loi cet été",
-      "desc": "Résolu à voir ce texte souhaité par Emmanuel Macron voté au plus vite, le gouvernement souhaite supprimer les délits d’entrave et d’incitation à l’aide à mourir – deux ajouts issus des débats parlementaires, qui concentrent les crispations.",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/03/fin-de-vie-la-strategie-de-l-executif-pour-faire-adopter-le-texte-de-loi-cet-ete_6696659_823448.html",
-      "image": "https://img.lemde.fr/2026/06/03/664/0/8000/4000/644/322/60/0/be1eba3_upload-1-dg8lp1dubkqd-jmug260519006.jpg",
-      "date": "2026-06-03T20:01:59+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
