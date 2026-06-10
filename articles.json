@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-06-10T09:36:53.613036+00:00",
-  "count": 47,
+  "generated_at": "2026-06-10T14:47:14.292695+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "Ebola : ce que l’on sait de la nouvelle épidémie qui frappe l’Afrique centrale",
+      "desc": "La flambée qui touche la République démocratique du Congo et l’Ouganda est déjà l’une des plus importantes jamais enregistrées. Malgré d’importantes avancées médicales ces dernières années, le virus Ebola reste particulièrement difficile à contenir.",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/10/ebola-ce-que-l-on-sait-de-la-nouvelle-epidemie-qui-frappe-l-afrique-centrale_6700480_4355770.html",
+      "image": "https://img.lemde.fr/2026/06/09/297/0/3600/1800/644/322/60/0/fa221c3_ftp-1-lg5gj6xdjerw-5266104-01-06.jpg",
+      "date": "2026-06-10T15:30:08+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Lecornu annonce un décret pour justifier les classements sans suite pour crimes sexuels sur mineurs",
+      "desc": "Tandis que l’onde de choc continue de se propager après la mort de la collégienne de 11 ans, le président de la République a reconnu les dysfonctionnements dans cette affaire, tout en reprochant leur «démagogie» aux critiques faites aux pouvoirs publics.",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-le-meurtre-de-lyhanna-pose-la-question-de-la-confiance-en-nos-institutions-reconnait-macron-20260610_64F7HTXEZNF5RGBPBSD5SOOHMA/",
+      "image": null,
+      "date": "2026-06-10T14:30:31+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Laure Miller, la députée qui dit sa «honte» de l’Assemblée après la mort de Lyhanna",
+      "desc": "L’intervention de l’élue Renaissance de la Marne mardi 9 juin dans l’hémicycle a été remarquée au-delà de son camp et de la sphère politique. Investie sur le sujet de la protection de l’enfance, elle plaide pour un «plan global» regroupant les différentes initiatives parlementaires.",
+      "url": "https://www.liberation.fr/politique/laure-miller-la-deputee-qui-dit-sa-honte-de-lassemblee-apres-la-mort-de-lyhanna-20260610_AQ23JM62WFEBNFTGX7KURTN7IU/",
+      "image": null,
+      "date": "2026-06-10T14:14:01+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Afghanistan : de nouveaux bombardements pakistanais font au moins 26 morts",
+      "desc": "Après plusieurs semaines d’accalmie, Islamabad a repris les frappes sur son voisin ce mercredi 10 juin. Près de 400 afghans ont été tués entre début janvier et fin mars, selon l’ONU.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/afghanistan-de-nouveaux-bombardements-pakistanais-font-au-moins-26-morts-20260610_YQSCIZGCWRGZDINYCZWXYOQIJM/",
+      "image": null,
+      "date": "2026-06-10T14:00:30+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Dépassements d'honoraires : le Haut Conseil pour l'avenir de l'assurance maladie alerte sur l'explosion des tarifs des médecins d'ici 2040 et propose des solutions",
+      "desc": "Le \"13 Heures\" se penche ce mardi sur l'inquiétante hausse des dépassements d'honoraires des médecins. Vous l'avez sans doute remarqué, les consultations et les examens coûtent de plus en plus cher. Le Haut conseil pour l'avenir de l'assurance maladie parle d'une situation préoccupante. Que se cache",
+      "url": "https://www.franceinfo.fr/sante/soigner/depassement-d-honoraires-le-haut-conseil-pour-l-avenir-de-l-assurance-maladie-alerte-sur-l-explosion-des-tarifs-des-medecins-d-ici-2040-et-propose-des-solutions_8052272.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/iXL0ZnO8vRuEzlDTAjkiO2vFkAw/66x0:1259x671/432x243/filters:format(jpg)/2026/06/09/6a281d93d212a681638038.jpg",
+      "date": "2026-06-10T12:30:47+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ballons tueurs, citrouilles écrasées et chutes mortelles : avant JR et sa «Caverne» déchirée, six désastres de l’art contemporain",
+      "desc": "Des sculptures explosées de Yayoi Kusama aux chiens brisés de Jeff Koons, en passant par les plaques mortelles de Richard Serra, l’histoire de l’art regorge de ratages et accidents plus ou moins dangereux.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/avant-jr-et-sa-caverne-dechiree-six-autres-catastrophes-de-lart-contemporain-20260610_HUFQAC7SKVB6DEOT62BWHX2JJI/",
+      "image": null,
+      "date": "2026-06-10T12:23:21+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tryptamine : sept dérivés synthétiques de cette substance hallucinogène interdits en France",
+      "desc": "A cause de leurs effets indésirables graves et à des risques potentiellement mortels, sept dérivés synthétiques de la tryptamyne, une substance hallucinogène, seront interdits en France à compter du 10 juin 2026.",
+      "url": "https://www.sciencesetavenir.fr/sante/tryptamine-sept-derives-synthetiques-de-cette-substance-hallucinogene-interdits-en-france_193012?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/10/cover-r4x3w1200-6a293959009cb-afp-20250709-f0455712-v1-highres-tryptamines.jpg",
+      "date": "2026-06-10T10:37:26+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Pour prévenir les suicides des jeunes, la Corée du Sud confie un nouveau rôle à l'IA",
       "desc": "La Corée du Sud vient d’annoncer un grand plan de prévention des suicides d'enfants, dont le taux est deux fois plus élevé qu'en France. Le gouvernement veut placer des conseillers spécialisés dans toutes les écoles du pays et va même faire appel à l’intelligence artificielle.",
@@ -10,16 +80,6 @@
       "date": "2026-06-10T09:44:57+00:00",
       "date_formatted": "10 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Je ne pouvais quasi plus marcher» : des femmes atteintes de lipœdème, la maladie des jambes poteaux, racontent leur difficulté à être soignées",
-      "desc": "Douleurs, mollets gonflés et prise de poids… Reconnue par l’OMS et évoquée sur les réseaux sociaux par l’ancienne Miss France Camille Cerf ou la youtubeuse EmmyMakeupPro, cette pathologie toucherait une femme sur dix. Pourtant, faute de recommandations officielles et de médecins formés, le diagnosti",
-      "url": "https://www.liberation.fr/societe/sante/je-ne-pouvais-quasi-plus-marcher-des-femmes-atteintes-de-lipoedeme-la-maladie-des-jambes-poteaux-racontent-leur-difficulte-a-etre-soignees-20260610_2ABGJD4Y4ZF4RKE75KP6POLG3U/",
-      "image": null,
-      "date": "2026-06-10T07:25:28+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -61,16 +121,6 @@
       "date_formatted": "9 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Dépassements d'honoraires : le Haut Conseil pour l'avenir de l'assurance maladie alerte sur l'explosion des tarifs des médecins d'ici 2040 et propose des solutions",
-      "desc": "Le \"13 Heures\" se penche ce mardi sur l'inquiétante hausse des dépassements d'honoraires des médecins. Vous l'avez sans doute remarqué, les consultations et les examens coûtent de plus en plus cher. Le Haut conseil pour l'avenir de l'assurance maladie parle d'une situation préoccupante. Que se cache",
-      "url": "https://www.franceinfo.fr/sante/soigner/depassement-d-honoraires-le-haut-conseil-pour-l-avenir-de-l-assurance-maladie-alerte-sur-l-explosion-des-tarifs-des-medecins-d-ici-2040-et-propose-des-solutions_8052272.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/iXL0ZnO8vRuEzlDTAjkiO2vFkAw/66x0:1259x671/432x243/filters:format(jpg)/2026/06/09/6a281d93d212a681638038.jpg",
-      "date": "2026-06-09T16:06:06+00:00",
-      "date_formatted": "9 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "\"On espère tout simplement être renvoyés chez nous\" : des retraités présents sur le bateau contaminé à l'hantavirus racontent leur isolement \"assez carcéral\"",
@@ -323,16 +373,6 @@
       "type": "presse"
     },
     {
-      "title": "Une technique plus ciblée d’édition du génome appliquée à des embryons humains",
-      "desc": "Des résultats préliminaires montrent que des modifications génétiques ponctuelles peuvent réparer des mutations délétères, mais une partie des cellules embryonnaires n’en bénéficient pas. Ces développements soulèvent des questions éthiques sur les risques d’eugénisme.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/05/une-technique-plus-ciblee-d-edition-du-genome-appliquee-a-des-embryons-humains_6698016_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/05/738/0/4134/2067/644/322/60/0/78fb00c_upload-1-hy7xe6rtgkum-sciencephoto-fr-m8020233.jpg",
-      "date": "2026-06-05T19:28:49+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Ebola : un plan de 518 millions de dollars pour lutter contre l’épidémie annoncé par l’OMS et l’agence de santé africaine",
       "desc": "L’épidémie a été déclarée le 15 mai dans le nord-est de la République démocratique du Congo et plusieurs cas ont été confirmés en Ouganda, un pays limitrophe.",
       "url": "https://www.lemonde.fr/afrique/article/2026/06/05/ebola-l-oms-et-l-agence-de-sante-africaine-annoncent-un-plan-de-518-millions-de-dollars-pour-lutter-contre-l-epidemie-de-juin-a-novembre_6697997_3212.html",
@@ -360,6 +400,16 @@
       "date": "2026-06-05T07:03:52+00:00",
       "date_formatted": "5 June 2026",
       "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
       "type": "science"
     },
     {
@@ -401,16 +451,6 @@
       "date_formatted": "3 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Ces épices cachent des effets étonnants sur votre glycémie, votre microbiote et vos cellules, révèle une étude",
-      "desc": "Et si votre placard à épices cachait de véritables alliées santé ? Cannelle, curcuma, piment, poivre ou origan renferment des molécules capables d’agir sur le microbiote, le métabolisme, l’inflammation et même les fonctions cérébrales. Une revue scientifique fait le point sur leurs promesses,...",
-      "url": "https://www.futura-sciences.com/sante/actualites/nutrition-ces-epices-cachent-effets-etonnants-votre-glycemie-votre-microbiote-vos-cellules-revele-etude-134979/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/8/e/e8e4f5a8f2_50256033_2-epices.jpg",
-      "date": "2026-06-03T11:45:30+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Deux virologues inculpés pour avoir tenté d'importer le virus Mpox d'Afrique",
@@ -470,6 +510,146 @@
       "date": "2026-05-28T13:05:51+00:00",
       "date_formatted": "28 May 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
+      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
+      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
+      "image": null,
+      "date": "2026-04-21T15:30:59+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
+      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
+      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
+      "image": null,
+      "date": "2026-04-21T08:00:54+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
+      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
+      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
+      "image": null,
+      "date": "2026-04-21T00:00:17+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
+      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
+      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
+      "image": null,
+      "date": "2026-04-16T18:00:00+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
+      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
+      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
+      "image": null,
+      "date": "2026-04-14T13:00:00+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
+      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
+      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
+      "image": null,
+      "date": "2026-04-03T09:21:47+00:00",
+      "date_formatted": "3 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
+      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
+      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
+      "image": null,
+      "date": "2026-03-26T16:00:46+00:00",
+      "date_formatted": "26 March 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
