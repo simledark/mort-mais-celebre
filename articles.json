@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-06-10T14:47:14.292695+00:00",
-  "count": 65,
+  "generated_at": "2026-06-10T20:06:21.419233+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "Un nouveau cas de contamination à l'hantavirus sur l'île Tristan da Cunha a été signalé par le Royaume-Uni",
+      "desc": "Selon l'Organisation mondiale de la santé, ce cas a été confirmé chez une personne auparavant \"considérée comme un cas probable ayant été exposée à bord du 'MV Hondius'\".",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/epidemie-d-hantavirus-un-nouveau-cas-de-contamination-sur-l-ile-tristan-da-cunha-a-ete-signale-par-le-royaume-uni_8054552.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1tmQ-C6531CMp-U-2qHhIZFlp0Q/0x347:5300x3328/432x243/filters:format(jpg)/2026/06/10/6a29a496632de148102646.jpg",
+      "date": "2026-06-10T20:10:30+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : les obsèques de la collégienne se dérouleront vendredi «dans la plus stricte intimité»",
+      "desc": "Tandis que l’onde de choc continue de se propager après la mort de l’enfant de 11 ans, le président de la République a reconnu les dysfonctionnements dans cette affaire, tout en reprochant leur «démagogie» aux critiques faites aux pouvoirs publics.",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-le-meurtre-de-lyhanna-pose-la-question-de-la-confiance-en-nos-institutions-reconnait-macron-20260610_64F7HTXEZNF5RGBPBSD5SOOHMA/",
+      "image": null,
+      "date": "2026-06-10T19:31:09+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Sociologue, homme de gauche et critique du capitalisme, le suisse Jean Ziegler est mort à 92 ans",
+      "desc": "L’universitaire, ancien rapporteur des Nations Unies, s’était illustré par sa dénonciation du capitalisme «cannibale», des inégalités et du rôle parfois controversé de la place financière suisse. Il est décédé des suites de la maladie de Parkinson, annonce sa famille ce 10 juin.",
+      "url": "https://www.liberation.fr/politique/sociologue-homme-de-gauche-et-critique-du-capitalisme-le-suisse-jean-ziegler-est-mort-a-92-ans-20260610_4EVP6DJM5FEARACWXFOMPO7GYU/",
+      "image": null,
+      "date": "2026-06-10T19:17:15+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
     {
       "title": "Ebola : ce que l’on sait de la nouvelle épidémie qui frappe l’Afrique centrale",
       "desc": "La flambée qui touche la République démocratique du Congo et l’Ouganda est déjà l’une des plus importantes jamais enregistrées. Malgré d’importantes avancées médicales ces dernières années, le virus Ebola reste particulièrement difficile à contenir.",
@@ -13,34 +53,14 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Lecornu annonce un décret pour justifier les classements sans suite pour crimes sexuels sur mineurs",
-      "desc": "Tandis que l’onde de choc continue de se propager après la mort de la collégienne de 11 ans, le président de la République a reconnu les dysfonctionnements dans cette affaire, tout en reprochant leur «démagogie» aux critiques faites aux pouvoirs publics.",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-le-meurtre-de-lyhanna-pose-la-question-de-la-confiance-en-nos-institutions-reconnait-macron-20260610_64F7HTXEZNF5RGBPBSD5SOOHMA/",
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "Malgré les inquiétudes suscitées par la multiplication des antennes 5G, les données scientifiques disponibles ne permettent pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers ou de troubles neurologiques. L’article Les antennes 5G sont-elles dangereus",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
       "image": null,
-      "date": "2026-06-10T14:30:31+00:00",
+      "date": "2026-06-10T14:51:02+00:00",
       "date_formatted": "10 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Laure Miller, la députée qui dit sa «honte» de l’Assemblée après la mort de Lyhanna",
-      "desc": "L’intervention de l’élue Renaissance de la Marne mardi 9 juin dans l’hémicycle a été remarquée au-delà de son camp et de la sphère politique. Investie sur le sujet de la protection de l’enfance, elle plaide pour un «plan global» regroupant les différentes initiatives parlementaires.",
-      "url": "https://www.liberation.fr/politique/laure-miller-la-deputee-qui-dit-sa-honte-de-lassemblee-apres-la-mort-de-lyhanna-20260610_AQ23JM62WFEBNFTGX7KURTN7IU/",
-      "image": null,
-      "date": "2026-06-10T14:14:01+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Afghanistan : de nouveaux bombardements pakistanais font au moins 26 morts",
-      "desc": "Après plusieurs semaines d’accalmie, Islamabad a repris les frappes sur son voisin ce mercredi 10 juin. Près de 400 afghans ont été tués entre début janvier et fin mars, selon l’ONU.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/afghanistan-de-nouveaux-bombardements-pakistanais-font-au-moins-26-morts-20260610_YQSCIZGCWRGZDINYCZWXYOQIJM/",
-      "image": null,
-      "date": "2026-06-10T14:00:30+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "Dépassements d'honoraires : le Haut Conseil pour l'avenir de l'assurance maladie alerte sur l'explosion des tarifs des médecins d'ici 2040 et propose des solutions",
@@ -50,16 +70,6 @@
       "date": "2026-06-10T12:30:47+00:00",
       "date_formatted": "10 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ballons tueurs, citrouilles écrasées et chutes mortelles : avant JR et sa «Caverne» déchirée, six désastres de l’art contemporain",
-      "desc": "Des sculptures explosées de Yayoi Kusama aux chiens brisés de Jeff Koons, en passant par les plaques mortelles de Richard Serra, l’histoire de l’art regorge de ratages et accidents plus ou moins dangereux.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/avant-jr-et-sa-caverne-dechiree-six-autres-catastrophes-de-lart-contemporain-20260610_HUFQAC7SKVB6DEOT62BWHX2JJI/",
-      "image": null,
-      "date": "2026-06-10T12:23:21+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -373,16 +383,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : un plan de 518 millions de dollars pour lutter contre l’épidémie annoncé par l’OMS et l’agence de santé africaine",
-      "desc": "L’épidémie a été déclarée le 15 mai dans le nord-est de la République démocratique du Congo et plusieurs cas ont été confirmés en Ouganda, un pays limitrophe.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/05/ebola-l-oms-et-l-agence-de-sante-africaine-annoncent-un-plan-de-518-millions-de-dollars-pour-lutter-contre-l-epidemie-de-juin-a-novembre_6697997_3212.html",
-      "image": "https://img.lemde.fr/2026/06/05/285/0/5204/2602/644/322/60/0/cf2e962_ftp-1-ml1pmcgdcihm-2026-06-05t133027z-1463223370-rc2cklacorkj-rtrmadp-3-health-ebola-who.JPG",
-      "date": "2026-06-05T17:54:14+00:00",
-      "date_formatted": "5 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : Hospitalisés depuis trois semaines, 22 Français cas contact vont pouvoir rentrer chez eux samedi",
       "desc": "Hospitalisés et placés à l’isolement après avoir été identifiés comme cas contact dans un avion d’une voyageuse néerlandaise décédée depuis de l’hantavirus, 22 Français vont pouvoir rentrer chez eux",
       "url": "https://www.20minutes.fr/sante/4227351-20260605-hantavirus-hospitalises-depuis-trois-semaines-22-francais-cas-contact-vont-pouvoir-rentrer-chez-samedi?at_medium=display&at_campaign=149",
@@ -629,26 +629,6 @@
       "image": null,
       "date": "2026-04-14T13:00:00+00:00",
       "date_formatted": "14 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
-      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
-      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
-      "image": null,
-      "date": "2026-04-03T09:21:47+00:00",
-      "date_formatted": "3 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
-      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
-      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
-      "image": null,
-      "date": "2026-03-26T16:00:46+00:00",
-      "date_formatted": "26 March 2026",
       "source": "Inserm",
       "type": "science"
     }
