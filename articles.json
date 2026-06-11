@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-11T15:29:38.476910+00:00",
-  "count": 62,
+  "generated_at": "2026-06-11T20:07:24.604405+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Selon le Conseil d’orientation des retraites, l’immigration a des effets positifs sur l’équilibre du régime",
+      "desc": "Aidées par le doublement du solde migratoire en 2026, les prévisions décrivent un déficit du système stabilisé jusqu’en 2045. Avec l’évolution plus lente de l’espérance de vie, la hausse du nombre d’immigrés devrait même compenser le coût du décalage de la réforme des retraites de 2023.",
+      "url": "https://www.liberation.fr/economie/social/selon-le-conseil-dorientation-des-retraites-limmigration-a-des-effets-positifs-sur-lequilibre-du-regime-20260611_US64CIQBQZAU7LCBSTC46OO66Y/",
+      "image": null,
+      "date": "2026-06-11T18:25:20+00:00",
+      "date_formatted": "11 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Cancer du sein : un maillot de bain spécifiquement adapté aux femmes développé à Hendaye",
       "desc": "Le maillot de bain intègre des poches pour prothèses, des coques rigides et des finitions sans couture pour favoriser le confort et la dissimulation des cicatrices, explique jeudi ICI Pays Basque.",
@@ -13,21 +23,11 @@
       "type": "presse"
     },
     {
-      "title": "Mort d’Elisa Pilarski : quatre ans de prison avec sursis pour son compagnon Christophe Ellul, le chien Curtis doit être euthanasié",
-      "desc": "L’homme de 51 ans a été condamné par le tribunal correctionnel de Soissons pour homicide involontaire. Lors du procès, il avait fini par reconnaître que Curtis était à l’origine de la mort de sa compagne en 2019.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-delisa-pilarski-quatre-ans-de-prison-avec-sursis-pour-son-compagnon-christophe-ellul-le-chien-curtis-doit-etre-euthanasie-20260611_UJUEJTFWZBDC7OBOHTMEMAZXYI/",
+      "title": "Radio France épinglée par l’Arcom, mort du skipper Charlie Dalin, coup d’envoi de la Coupe du monde de foot… L’actu de ce jeudi 11 juin",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du jeudi 11 juin 2026.",
+      "url": "https://www.liberation.fr/international/europe/radio-france-epinglee-par-larcom-mort-du-skipper-charlie-dalin-coup-denvoi-de-la-coupe-du-monde-de-foot-lactu-de-ce-jeudi-11-juin-20260611_6S2VLVINYFG7HFPLZ6R6QKSCBE/",
       "image": null,
-      "date": "2026-06-11T13:17:57+00:00",
-      "date_formatted": "11 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Meurtre de Noahm à Metz : la justice ouvre la piste homophobe",
-      "desc": "Après la mort du jeune homme début juin, le parquet avait tout d’abord estimé que les premiers éléments ne permettaient pas de dire que l’agression avait été commise à raison de l’orientation sexuelle. Le procureur a décidé ce jeudi d’élargir l’enquête.",
-      "url": "https://www.liberation.fr/societe/police-justice/meurtre-de-noahm-a-metz-la-justice-ouvre-la-piste-homophobe-20260611_GOKHJSB3WNDXNMSEX32IU2XMMA/",
-      "image": null,
-      "date": "2026-06-11T10:58:10+00:00",
+      "date": "2026-06-11T17:20:49+00:00",
       "date_formatted": "11 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -333,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Bana Jabri, l’immunologiste qui veut protéger les bébés des maladies génétiques en testant les futurs parents",
-      "desc": "A la tête de l’Institut Imagine, à Paris, depuis janvier 2025, la médecin chercheuse, qui a longtemps enseigné aux Etats-Unis, se mobilise pour que la prochaine loi sur la bioéthique autorise le dépistage préconceptionnel en population générale.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/06/bana-jabri-l-immunologiste-qui-veut-proteger-les-bebes-des-maladies-genetiques-en-testant-les-futurs-parents_6698143_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/03/246/0/2953/1476/644/322/60/0/a284918_upload-1-803gid1zl6bp-photo-bana-jabri.jpeg",
-      "date": "2026-06-06T18:00:04+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Ebola : le patient américain soigné en Allemagne est guéri et sorti de l’hôpital",
       "desc": "Peter Stafford, un médecin missionnaire de l’ONG chrétienne américaine Serge, avait été admis le 20 mai dans le quartier d’isolement pour les maladies infectieuses d’un hôpital de Berlin, après avoir été exposé au virus en soignant des patients à l’hôpital Nyankunde, dans l’est de la République démo",
       "url": "https://www.lemonde.fr/sante/article/2026/06/06/ebola-le-patient-americain-soigne-en-allemagne-est-gueri-et-sorti-de-l-hopital_6698140_1651302.html",
@@ -609,16 +599,6 @@
       "image": null,
       "date": "2026-04-16T18:00:00+00:00",
       "date_formatted": "16 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
-      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
-      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
-      "image": null,
-      "date": "2026-04-14T13:00:00+00:00",
-      "date_formatted": "14 April 2026",
       "source": "Inserm",
       "type": "science"
     }
