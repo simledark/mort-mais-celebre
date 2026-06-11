@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-06-11T02:29:16.736190+00:00",
-  "count": 62,
+  "generated_at": "2026-06-11T10:00:37.128998+00:00",
+  "count": 65,
   "articles": [
     {
-      "title": "Affaire Lyhanna : une enquête pour «agression sexuelle» sur mineure visant le père de Jérôme B. rouverte par le parquet de Béziers",
-      "desc": "Tandis que l’onde de choc continue de se propager après la mort de l’enfant de 11 ans, le président de la République a reconnu les dysfonctionnements dans cette affaire, tout en reprochant leur «démagogie» aux critiques faites aux pouvoirs publics.",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-le-meurtre-de-lyhanna-pose-la-question-de-la-confiance-en-nos-institutions-reconnait-macron-20260610_64F7HTXEZNF5RGBPBSD5SOOHMA/",
+      "title": "Après la mort de Lyhanna dans le Gers, Puycasquier se rassemble pour «exorciser la douleur»",
+      "desc": "La découverte du corps de la collégienne dans ce village du département a fait irruption dans un quotidien sans histoire. Entre sidération, tristesse et colère, les habitants cherchent encore à faire face. Le maire a organisé un temps de recueillement mercredi 10 juin.",
+      "url": "https://www.liberation.fr/societe/familles/apres-la-mort-de-lyhanna-dans-le-gers-puycasquier-se-rassemble-pour-exorciser-la-douleur-20260611_QCEXDNNBOFBU5GW5TD26THEARA/",
       "image": null,
-      "date": "2026-06-10T20:14:24+00:00",
-      "date_formatted": "10 June 2026",
+      "date": "2026-06-11T09:57:40+00:00",
+      "date_formatted": "11 June 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du skipper Charlie Dalin, un prodige prend le large",
+      "desc": "Vainqueur du Vendée Globe 2024, le Havrais avait révélé quelques mois plus tard avoir navigué alors qu’il était atteint par le cancer de l’intestin qui aura fini par l’emporter. Il est mort ce jeudi 11 juin, à 42 ans.",
+      "url": "https://www.liberation.fr/portraits/mort-du-skipper-charlie-dalin-un-prodige-prend-le-large-20260611_3ROPG4LYURCGRIQM5Q4V54M6HI/",
+      "image": null,
+      "date": "2026-06-11T09:36:35+00:00",
+      "date_formatted": "11 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Elias, 14 ans, tué d’un coup de machette : les agresseurs présumés renvoyés aux assises des mineurs",
+      "desc": "Les deux jeunes désormais âgés de 17 et 18 ans vont être jugés pour «crime d’extorsion avec violence ayant entraîné la mort». Ils sont maintenus en détention en attendant leur procès.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-delias-14-ans-tue-dun-coup-de-machette-les-agresseurs-presumes-renvoyes-aux-assises-des-mineurs-20260611_AA2F2FUQNZAJVOREQKQJAJQ4HU/",
+      "image": null,
+      "date": "2026-06-11T07:57:13+00:00",
+      "date_formatted": "11 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Après deux décennies de recherche, un traitement prometteur ralentit enfin Alzheimer",
+      "desc": "Une chercheuse suisse et son équipe ont mis au point un médicament capable de ralentir l’évolution de la maladie d’Alzheimer. Il a été testé sur des souris et les résultats obtenus sont prometteurs, laissant penser que ce nouveau traitement pourrait un jour améliorer la qualité de vie des...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-apres-deux-decennies-recherche-traitement-prometteur-ralentit-enfin-alzheimer-135205/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/2/4/52455e6b4e_50256394_medicament-demence.jpg",
+      "date": "2026-06-11T07:03:00+00:00",
+      "date_formatted": "11 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Mort du cinéaste et écrivain Mehdi Charef, à 73 ans",
+      "desc": "L’auteur du «Thé au harem d’Archi Ahmed», notamment récompensé par un césar et le prix Jean-Vigo, a consacré sa vie à raconter l’exil, le racisme, les banlieues et les bidonvilles.",
+      "url": "https://www.liberation.fr/culture/livres/mort-du-cineaste-et-ecrivain-mehdi-charef-a-73-ans-20260611_MRYZQRKP4NGHHG57I4NTQAVAR4/",
+      "image": null,
+      "date": "2026-06-11T06:20:30+00:00",
+      "date_formatted": "11 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Scandales sanitaires et préjudice d’anxiété : davantage de temps pour demander réparation",
+      "desc": "La crainte de développer une pathologie grave doit bénéficier du régime de la prescription réservé aux dommages corporels.",
+      "url": "https://www.lemonde.fr/argent/article/2026/06/11/scandales-sanitaires-et-prejudice-d-anxiete-davantage-de-temps-pour-demander-reparation_6700671_1657007.html",
+      "image": "https://img.lemde.fr/2025/09/19/125/0/1500/750/644/322/60/0/9fbccee_upload-1-aqnvfpbkjzkt-mei-dia-33.png",
+      "date": "2026-06-11T06:00:30+00:00",
+      "date_formatted": "11 June 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -20,16 +70,6 @@
       "date": "2026-06-10T20:10:30+00:00",
       "date_formatted": "10 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Sociologue, homme de gauche et critique du capitalisme, le suisse Jean Ziegler est mort à 92 ans",
-      "desc": "L’universitaire, ancien rapporteur des Nations Unies, s’était illustré par sa dénonciation du capitalisme «cannibale», des inégalités et du rôle parfois controversé de la place financière suisse. Il est décédé des suites de la maladie de Parkinson, annonce sa famille ce 10 juin.",
-      "url": "https://www.liberation.fr/politique/sociologue-homme-de-gauche-et-critique-du-capitalisme-le-suisse-jean-ziegler-est-mort-a-92-ans-20260610_4EVP6DJM5FEARACWXFOMPO7GYU/",
-      "image": null,
-      "date": "2026-06-10T19:17:15+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -359,16 +399,6 @@
       "image": "https://img.lemde.fr/2025/04/10/69/0/3000/1500/644/322/60/0/21f6bc3_sirius-fs-upload-1-rz8drg0atq4z-1744297402354-frame-10.jpg",
       "date": "2026-06-06T04:08:16+00:00",
       "date_formatted": "6 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Chikungunya : comment la Guyane française veut éviter un scénario réunionnais",
-      "desc": "La Guyane est touchée par la première épidémie de chikungunya sur le territoire français depuis celle de La Réunion. En tirant parti de ce qui fut observé dans l’île de l’océan Indien, les autorités sanitaires prennent les devants et offrent gratuitement la vaccination pour aplanir la courbe.",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/05/chikungunya-comment-la-guyane-francaise-veut-eviter-un-scenario-reunionnais_6698017_3244.html",
-      "image": "https://img.lemde.fr/2026/06/02/475/0/5702/2851/644/322/60/0/963b2cd_ftp-1-7k1vh2gbeci8-5201948-01-06.jpg",
-      "date": "2026-06-05T19:39:03+00:00",
-      "date_formatted": "5 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
