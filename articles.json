@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-10T20:06:21.419233+00:00",
-  "count": 63,
+  "generated_at": "2026-06-11T02:29:16.736190+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title": "Affaire Lyhanna : une enquête pour «agression sexuelle» sur mineure visant le père de Jérôme B. rouverte par le parquet de Béziers",
+      "desc": "Tandis que l’onde de choc continue de se propager après la mort de l’enfant de 11 ans, le président de la République a reconnu les dysfonctionnements dans cette affaire, tout en reprochant leur «démagogie» aux critiques faites aux pouvoirs publics.",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-le-meurtre-de-lyhanna-pose-la-question-de-la-confiance-en-nos-institutions-reconnait-macron-20260610_64F7HTXEZNF5RGBPBSD5SOOHMA/",
+      "image": null,
+      "date": "2026-06-10T20:14:24+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Un nouveau cas de contamination à l'hantavirus sur l'île Tristan da Cunha a été signalé par le Royaume-Uni",
       "desc": "Selon l'Organisation mondiale de la santé, ce cas a été confirmé chez une personne auparavant \"considérée comme un cas probable ayant été exposée à bord du 'MV Hondius'\".",
@@ -10,16 +20,6 @@
       "date": "2026-06-10T20:10:30+00:00",
       "date_formatted": "10 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Affaire Lyhanna : les obsèques de la collégienne se dérouleront vendredi «dans la plus stricte intimité»",
-      "desc": "Tandis que l’onde de choc continue de se propager après la mort de l’enfant de 11 ans, le président de la République a reconnu les dysfonctionnements dans cette affaire, tout en reprochant leur «démagogie» aux critiques faites aux pouvoirs publics.",
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-le-meurtre-de-lyhanna-pose-la-question-de-la-confiance-en-nos-institutions-reconnait-macron-20260610_64F7HTXEZNF5RGBPBSD5SOOHMA/",
-      "image": null,
-      "date": "2026-06-10T19:31:09+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "Malgré les inquiétudes suscitées par la multiplication des antennes 5G, les données scientifiques disponibles ne permettent pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers ou de troubles neurologiques. L’article Les antennes 5G sont-elles dangereus",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
       "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
       "image": null,
       "date": "2026-06-10T14:51:02+00:00",
@@ -260,16 +260,6 @@
       "date": "2026-06-08T08:16:57+00:00",
       "date_formatted": "8 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Des soins de tout premier ordre\" : comment un patient américain ayant contracté le virus Ebola a été soigné",
-      "desc": "Ce médecin missionnaire a été guéri après avoir été placé dans l'unité d'un hôpital allemand, combinant isolement et soins intensifs.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/epidemie-d-ebola-comment-un-patient-americain-a-ete-soigne-du-virus_8048162.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/a3VqEJidCVpY9Jp6q01xvHMR15w/0x0:1024x576/432x243/filters:format(jpg)/2026/06/07/6a254b3ad2adc532202938.jpg",
-      "date": "2026-06-07T15:30:49+00:00",
-      "date_formatted": "7 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
