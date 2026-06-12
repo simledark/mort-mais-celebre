@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-06-12T02:12:13.760790+00:00",
-  "count": 60,
+  "generated_at": "2026-06-12T09:53:13.087540+00:00",
+  "count": 58,
   "articles": [
     {
-      "title": "Selon le Conseil d’orientation des retraites, l’immigration a des effets positifs sur l’équilibre du régime",
-      "desc": "Aidées par le doublement du solde migratoire en 2026, les prévisions décrivent un déficit du système stabilisé jusqu’en 2045. Avec l’évolution plus lente de l’espérance de vie, la hausse du nombre d’immigrés devrait même compenser le coût du décalage de la réforme des retraites de 2023.",
-      "url": "https://www.liberation.fr/economie/social/selon-le-conseil-dorientation-des-retraites-limmigration-a-des-effets-positifs-sur-lequilibre-du-regime-20260611_US64CIQBQZAU7LCBSTC46OO66Y/",
+      "title": "Le crooneur italo-belge Frank Michael est mort, à 79 ans",
+      "desc": "Le chanteur de variété est décédé des suites d’un cancer du poumon, affirme la «RTBF» ce vendredi 12 juin.",
+      "url": "https://www.liberation.fr/international/europe/le-crooneur-italo-belge-frank-michael-est-mort-a-79-ans-20260612_UTNTEMPUMVCDFLJP2LS3LTN7Z4/",
       "image": null,
-      "date": "2026-06-11T18:25:20+00:00",
-      "date_formatted": "11 June 2026",
+      "date": "2026-06-12T09:21:11+00:00",
+      "date_formatted": "12 June 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du peintre britannique David Hockney, le dernier plongeon",
+      "desc": "Son «Bigger Splash» a imposé l’univers chloré qu’affectionnait l’artiste dans les années 1960 au sommet de l’art contemporain : le Britannique, chantre d’une peinture figurative virtuose, immédiate et sensuelle, lorgnant un pop art empreint de gigantisme, est mort jeudi 11 juin à 88 ans.",
+      "url": "https://www.liberation.fr/culture/arts/mort-du-peintre-britannique-david-hockney-le-dernier-plongeon-20260612_FJF42CCBURGFXGFZVMDRUZZKBE/",
+      "image": null,
+      "date": "2026-06-12T09:18:35+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Si on donnait aux policiers et aux magistrats les moyens de travailler, Lyhanna n’aurait pas été tuée» : l’actrice Andréa Bescond s’exprime après sa garde à vue",
+      "desc": "La réalisatrice, interpellée après une manifestation devant le ministère de la Justice lundi 8 juin après la mort de la collégienne, était l’invitée de France Info ce vendredi.",
+      "url": "https://www.liberation.fr/societe/police-justice/si-on-donnait-aux-policiers-et-aux-magistrats-les-moyens-de-travailler-lyhanna-naurait-pas-ete-tuee-lactrice-andrea-bescond-sexprime-apres-sa-garde-a-vue-20260612_VT6F2ZTVVFBUREMLI2J5VLMYLQ/",
+      "image": null,
+      "date": "2026-06-12T07:19:57+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Quand je gagne, c'est une double victoire\" : le combat de Charlie Dalin contre la maladie, vainqueur du Vendée Globe malgré un cancer",
+      "desc": "Le skipper normand, dont on a appris jeudi la mort, avait remporté haut la main le Vendée Globe en 2025. Quelques mois plus tard, il expliquait dans un livre avoir réalisé cet exploit en étant atteint d’un cancer.",
+      "url": "https://www.franceinfo.fr/sports/voile/charlie-dalin/quand-je-gagne-c-est-une-double-victoire-le-combat-de-charlie-dalin-contre-la-maladie-vainqueur-du-vendee-globe-malgre-un-cancer_8056247.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/9i4gVC70kxmMuLR0iP-mODKJbeg/0x275:3500x2244/432x243/filters:format(jpg)/2026/06/11/6a2ae5eb38321194675129.jpg",
+      "date": "2026-06-12T07:08:22+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Lionel Collet, président de la Haute Autorité de santé, dénonce des pressions dans « des proportions jamais vues » de l’industrie pharmaceutique",
+      "desc": "Les tentatives d’influence de certaines entreprises du médicament en vue d’obtenir le remboursement de leurs traitements par l’Assurance-maladie se multiplient auprès de l’institution, « avec une accélération très nette depuis la fin de l’année 2025 », signale au « Monde » son dirigeant.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/12/lionel-collet-president-de-la-haute-autorite-de-sante-denonce-des-pressions-dans-des-proportions-jamais-vues-de-l-industrie-pharmaceutique_6701053_3234.html",
+      "image": "https://img.lemde.fr/2026/06/11/6/0/5247/2623/644/322/60/0/40d2190_upload-1-aoqnezlccpdi-rea11772478.jpg",
+      "date": "2026-06-12T06:30:07+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "PMA : « On nous transfère des embryons à l’aveugle »… Pourquoi la France ne fait pas de dépistage génétique ?",
+      "desc": "Interdit en France, le diagnostic préimplantatoire des aneuploïdies (DPI-A) est réclamé par des femmes en parcours de PMA et une partie des médecins",
+      "url": "https://www.20minutes.fr/sante/4227818-20260612-pma-transfere-embryons-aveugle-pourquoi-france-fait-depistage-genetique?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/KAgczUoGTE27oc39bVMiFCk/1200x768_de-nombreuses-femmes-en-parcours-pma-demandent-l-autorisation-du-dpi-a-un-diagnostic-permettant-de-detecter-des-anomalies-chromosomiques-avant-le-transfert-des-embryons",
+      "date": "2026-06-12T04:32:37+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -20,16 +70,6 @@
       "date": "2026-06-11T17:25:40+00:00",
       "date_formatted": "11 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Radio France épinglée par l’Arcom, mort du skipper Charlie Dalin, coup d’envoi de la Coupe du monde de foot… L’actu de ce jeudi 11 juin",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du jeudi 11 juin 2026.",
-      "url": "https://www.liberation.fr/international/europe/radio-france-epinglee-par-larcom-mort-du-skipper-charlie-dalin-coup-denvoi-de-la-coupe-du-monde-de-foot-lactu-de-ce-jeudi-11-juin-20260611_6S2VLVINYFG7HFPLZ6R6QKSCBE/",
-      "image": null,
-      "date": "2026-06-11T17:20:49+00:00",
-      "date_formatted": "11 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -47,7 +87,7 @@
       "desc": "La crainte de développer une pathologie grave doit bénéficier du régime de la prescription réservé aux dommages corporels.",
       "url": "https://www.lemonde.fr/argent/article/2026/06/11/scandales-sanitaires-et-prejudice-d-anxiete-davantage-de-temps-pour-demander-reparation_6700671_1657007.html",
       "image": "https://img.lemde.fr/2025/09/19/125/0/1500/750/644/322/60/0/9fbccee_upload-1-aqnvfpbkjzkt-mei-dia-33.png",
-      "date": "2026-06-11T06:00:30+00:00",
+      "date": "2026-06-11T06:00:25+00:00",
       "date_formatted": "11 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -163,16 +203,6 @@
       "type": "science"
     },
     {
-      "title": "Santé : \"Si rien ne change, en 2040, 90% des spécialistes feront des dépassements d'honoraires\", prévient le HCAAM",
-      "desc": "Le Haut conseil pour l'avenir de l'assurance maladie parle d'une situation préoccupante et estime que le montant des dépassements fera \"plus que doubler\".",
-      "url": "https://www.franceinfo.fr/sante/sante-si-rien-ne-change-en-2040-90-des-specialistes-feront-des-depassements-d-honoraires-previent-le-hcaam_8051570.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/P8TOVUtVUEUCMnBfuQRgfxZfA8U/0x202:3888x2389/432x243/filters:format(jpg)/2026/06/09/6a27a56eb1c43819623428.jpg",
-      "date": "2026-06-09T13:37:06+00:00",
-      "date_formatted": "9 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Plus de 7 000 décès liés à une \"surdose\" de drogues en 2024 en Europe",
       "desc": "\"Les consommateurs peuvent prendre des drogues très puissantes, souvent sans en avoir conscience\", en raison de la \"diversification\" des substances présentes à l'achat, s'inquiètent les autorités.",
       "url": "https://www.franceinfo.fr/societe/drogue/plus-de-7-000-deces-lies-a-une-surdose-de-drogues-en-2024-dans-l-union-europeenne_8052035.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -263,16 +293,6 @@
       "type": "science"
     },
     {
-      "title": "Quand des symptômes psychiatriques ne relèvent pas de la psychiatrie",
-      "desc": "Une pathologie auto-immune aux manifestations d’allure psychotique, touchant principalement les jeunes femmes, conduit encore souvent à une longue errance diagnostique.",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/08/quand-des-symptomes-psychiatriques-ne-relevent-pas-de-la-psychiatrie_6699471_6579630.html",
-      "image": "https://img.lemde.fr/2026/06/02/480/0/1920/960/644/322/60/0/bcaba38_upload-1-z0ngmi7tghbl-mri-brain-on-fire-encephalite-anti-re-cepteurs-nmda.jpg",
-      "date": "2026-06-08T09:32:05+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Des hausses de cotisations de mutuelles malgré le gel imposé par la loi",
       "desc": "Depuis le début de l’année, les organismes complémentaires de l’Assurance-maladie sont censés avoir bloqué leurs tarifs. Mais de nombreux assurés constatent des augmentations.",
       "url": "https://www.lemonde.fr/argent/article/2026/06/08/des-hausses-de-cotisations-de-mutuelles-malgre-le-gel-impose-par-la-loi_6699467_1657007.html",
@@ -353,26 +373,6 @@
       "type": "presse"
     },
     {
-      "title": "Ce médicament contre l'asthme pourrait réactiver les défenses immunitaires contre le cancer",
-      "desc": "Des scientifiques ont découvert qu'un médicament bien connu contre l'asthme pourrait transformer des cellules immunitaires favorables aux tumeurs en alliées de la lutte contre le cancer. Une approche prometteuse qui pourrait, à terme, renforcer l'efficacité de l'immunothérapie.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-ce-medicament-asthme-pourrait-reactiver-defenses-immunitaires-cancer-135062/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/4/3/1435800ba2_50256185_2-cellules-cancer.jpg",
-      "date": "2026-06-06T12:08:58+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "« La vérité, on ne l’a pas » : un homme condamné à trente ans de réclusion pour le meurtre d’Alicia Faye, piégée dans un trafic de cocaïne",
-      "desc": "La jeune Bordelaise avait été entraînée dans un réseau de narcotrafic entre la Gironde et la Guyane avant d’être abattue, d’une balle dans la tête, en mars 2021, à l’âge de 25 ans.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/06/la-verite-on-ne-l-a-pas-un-homme-condamne-a-trente-ans-de-reclusion-pour-le-meurtre-d-alicia-faye-piegee-dans-un-trafic-de-cocaine_6698066_3224.html",
-      "image": "https://img.lemde.fr/2025/04/10/69/0/3000/1500/644/322/60/0/21f6bc3_sirius-fs-upload-1-rz8drg0atq4z-1744297402354-frame-10.jpg",
-      "date": "2026-06-06T04:08:16+00:00",
-      "date_formatted": "6 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : Hospitalisés depuis trois semaines, 22 Français cas contact vont pouvoir rentrer chez eux samedi",
       "desc": "Hospitalisés et placés à l’isolement après avoir été identifiés comme cas contact dans un avion d’une voyageuse néerlandaise décédée depuis de l’hantavirus, 22 Français vont pouvoir rentrer chez eux",
       "url": "https://www.20minutes.fr/sante/4227351-20260605-hantavirus-hospitalises-depuis-trois-semaines-22-francais-cas-contact-vont-pouvoir-rentrer-chez-samedi?at_medium=display&at_campaign=149",
@@ -409,26 +409,6 @@
       "image": "https://img.20mn.fr/SpSTQ-6RQHmzUMxShHF2eCk/1200x768_30-decembre-2025-phnom-penh-phnom-penh-cambodge-beung-kok-phnom-penh-cambodge-les-centres-de-collecte-d-aide-de-phnom-penh-mettent-fin-a-leurs-activites-alors-que-le-cessez-le-feu-entre-dans-son-quatrieme-jour-les-enfants-aident-a-trier-et-a-charger-les-provisions-dans-des-camions-a-destination-des-camps-de-personnes-deplacees-situes-le-long-de-la-frontiere-entre-le-cambodge-et-la-thailande-des-vehicules-prives-sont-arrives-charges-de-dons-qui-ont-ensuite-ete-traites-dans-des-tentes-de-chapiteau-avant-d-etre-charges-dans-des-camions-humanitaires-ce-centre-gere-par-le-restaurant-eat-morea-tm-est-l-un-des-rares-encore-en-activite-dans-la-capitale-a-collecter-de-l-aide-image-de-credit-rod-harbinson-zuma-press-wire-20251230-zip-r169-028-zeus-2512301244",
       "date": "2026-06-04T05:38:41+00:00",
       "date_formatted": "4 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les députés approuvent une proposition de loi limitant l’exposition au cadmium",
-      "desc": "L’alimentation est la première source d’exposition au cadmium, via notamment les céréales (blé, riz), alors que cela augmente les risques de cancers",
-      "url": "https://www.20minutes.fr/sante/4227116-20260604-deputes-approuvent-proposition-loi-limitant-exposition-cadmium?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/yEjlhya_QJWfU8FnQYBrJCk/1200x768_les-clients-decouvrent-des-pates-et-d-autres-produits-alimentaires-importes-d-italie-au-magasin-specialise-eataly-a-new-york-le-jeudi-13-novembre-2025-le-departement-du-commerce-de-l-administration-trump-a-propose-un-droit-de-douane-de-107-sur-les-pates-italiennes-y-compris-un-droit-d-importation-antidumping-de-92-richard-b-levine-photo-via-newscom-lr-photos150037-jpg-richard-b-levine-newscom-sipa-2511141630",
-      "date": "2026-06-04T03:57:09+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Pollution au cadmium : Les tests de dépistages remboursés dès la mi-juin pour les patients à risque",
-      "desc": "Dès le 16 juin, l’Assurance maladie prendra en charge le dépistage de l’exposition au cadmium pour les patients à risque ou résidant sur un sol reconnu pollué par ce métal lourd hautement toxique",
-      "url": "https://www.20minutes.fr/sante/4227082-20260603-pollution-cadmium-tests-depistages-rembourses-mi-juin-patients-risque?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/oNumlOGKRMy4gbm3b_mX2yk/1200x768_contenant-de-cadmium-cd-ce-metal-lourd-toxique-naturellement-present-dans-l-environnement-peut-s-accumuler-dans-le-sol-et-les-cultures-et-est-nocif-pour-la-sante-humaine-photo-de-wladimir-bulgar-science-photo-li-wbu-bibliotheque-de-photos-scientifiques-via-afp",
-      "date": "2026-06-03T17:12:48+00:00",
-      "date_formatted": "3 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
     },
