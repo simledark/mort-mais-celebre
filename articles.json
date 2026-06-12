@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-12T14:28:37.907143+00:00",
-  "count": 58,
+  "generated_at": "2026-06-12T19:49:27.997417+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "La prise en charge de la maladie rénale chronique jugée préoccupante par l’IGAS",
+      "desc": "Dans son rapport sur cette pathologie rendu public jeudi 11 juin, l’inspection générale des affaires sociales déplore un manque de prévention et un accès à la greffe insuffisant.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/12/la-prise-en-charge-de-la-maladie-renale-chronique-jugee-preoccupante-par-l-igas_6701155_1650684.html",
+      "image": "https://img.lemde.fr/2025/07/17/493/0/3000/1500/644/322/60/0/5071529_upload-1-wzjz910obsw0-frame-276.jpg",
+      "date": "2026-06-12T20:00:03+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "David Hockney, le don simple d’émerveiller",
+      "desc": "L’insatiable peintre britannique, mort jeudi à 88 ans, laisse derrière lui une œuvre qui marche à l’optimisme, à la joie de vivre, à l’ivresse de peindre, sans cesse, à profusion.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/david-hockney-le-don-simple-demerveiller-20260612_H7PRVCDFTRAJRCZJCYBL5INY3U/",
+      "image": null,
+      "date": "2026-06-12T18:15:37+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du photographe Duane Michals, «storyteller» malicieux et subversif",
+      "desc": "«Ecrivain de la photographie» autoproclamé, l’artiste américain aimait raconter des histoires avec des séquences d’images noir et blanc, en petit format, qu’il annotait de courts textes écrits à la main. Il est mort le 9 juin, à 94 ans.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-du-photographe-duane-michals-storyteller-malicieux-et-subversif-20260612_YUUP2ZNHEFEI7F2VTUPQNLMVQA/",
+      "image": null,
+      "date": "2026-06-12T17:45:07+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Dominique Bernard : les avocats du frère de l’assaillant d’Arras demandent de suspendre son expulsion vers la Russie",
+      "desc": "Soupçonné d’avoir montré à Mohammed Mogouchkov, le jeune homme de 16 ans a éte écroué deux ans et demi. Sous le coup d’un obligation de quitter le territoire français, il pourrait être expulsé vers la Russie.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-de-dominique-bernard-les-avocats-du-frere-de-lassaillant-darras-demandent-de-suspendre-son-expulsion-vers-la-russie-20260612_UAGY4G5EMBAZ5F7B7NKZKMVS2M/",
+      "image": null,
+      "date": "2026-06-12T16:54:29+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au Kenya, le projet américain de centre de quarantaine anti-Ebola ne passe pas",
+      "desc": "Situé en périphérie de Nanyuki, au nord de la capitale, le futur dispositif, réservé aux ressortissants américains exposés au virus, a été la cause de manifestations qui ont été réprimées et ont fait trois morts.",
+      "url": "https://www.liberation.fr/international/afrique/au-kenya-le-projet-americain-de-centre-de-quarantaine-anti-ebola-ne-passe-pas-20260612_PKO6SXT7NFHTBPJSCLFN4KXJBA/",
+      "image": null,
+      "date": "2026-06-12T16:41:09+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "VIH : la lutte contre la maladie est « mise en danger » par la chute de l’aide internationale, prévient l’ONU",
       "desc": "Dans un nouveau rapport, l’Onusida liste plusieurs effets concrets et mesurables des coupes drastiques récentes de plusieurs pays dans l’aide internationale, notamment celles des Etats-Unis.",
@@ -31,36 +81,6 @@
       "date_formatted": "12 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mort de Thomas à Crépol : le parquet requiert le renvoi de onze personnes pour «homicide»",
-      "desc": "En tout, quatorze suspects avaient été mis en examen après la mort de l’adolescent de 16 ans, poignardé en novembre 2023 lors du bal d’hiver du village.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-de-thomas-a-crepol-le-parquet-requiert-le-renvoi-de-onze-personnes-pour-homicide-20260612_2WYGNVMBNRGJ5JBAL7HOWXQDI4/",
-      "image": null,
-      "date": "2026-06-12T13:21:31+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "La place de Christophe Gleizes n’est pas dans une cellule en Algérie, mais au Mondial de football, par Nadir Dendoune",
-      "desc": "Le journaliste franco-algérien, qui a lui-même été emprisonné injustement en Israël et en Irak, demande au président Tebboune la grâce du journaliste Christophe Gleizes toujours détenu en Algérie.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-place-de-christophe-gleizes-nest-plus-dans-une-cellule-a-tizi-ouzou-mais-au-mondial-de-football-par-nadir-dendoune-20260612_D4UVMERYAJE4XDFKY7JJHAFEBU/",
-      "image": null,
-      "date": "2026-06-12T13:10:47+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Nahel Merzouk : la Cour de cassation annule la requalification des faits en «violences» au lieu de «meurtre»",
-      "desc": "La plus haute instance de l’ordre judiciaire a rendu sa décision sur les demandes émanant des parties civiles et du parquet général, contraignant la cour d’appel de Versailles à statuer de nouveau sur le chef pour lequel est renvoyé le policier.",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-nahel-la-cour-de-cassation-examine-des-pourvois-apres-la-requalification-des-faits-en-violences-au-lieu-de-meurtre-20260610_7I36YNNTFBHNVO7LCHB2NYGPDQ/",
-      "image": null,
-      "date": "2026-06-12T12:06:53+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Un pacemaker externe qui régule les anomalies du rythme cardiaque grâce aux ultrasons",
@@ -183,16 +203,6 @@
       "type": "science"
     },
     {
-      "title": "Dépassements d'honoraires : le Haut Conseil pour l'avenir de l'assurance maladie alerte sur l'explosion des tarifs des médecins d'ici 2040 et propose des solutions",
-      "desc": "Le \"13 Heures\" se penche ce mardi sur l'inquiétante hausse des dépassements d'honoraires des médecins. Vous l'avez sans doute remarqué, les consultations et les examens coûtent de plus en plus cher. Le Haut conseil pour l'avenir de l'assurance maladie parle d'une situation préoccupante. Que se cache",
-      "url": "https://www.franceinfo.fr/sante/soigner/depassement-d-honoraires-le-haut-conseil-pour-l-avenir-de-l-assurance-maladie-alerte-sur-l-explosion-des-tarifs-des-medecins-d-ici-2040-et-propose-des-solutions_8052272.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/iXL0ZnO8vRuEzlDTAjkiO2vFkAw/66x0:1259x671/432x243/filters:format(jpg)/2026/06/09/6a281d93d212a681638038.jpg",
-      "date": "2026-06-10T12:30:47+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Tryptamine : sept dérivés synthétiques de cette substance hallucinogène interdits en France",
       "desc": "A cause de leurs effets indésirables graves et à des risques potentiellement mortels, sept dérivés synthétiques de la tryptamyne, une substance hallucinogène, seront interdits en France à compter du 10 juin 2026.",
       "url": "https://www.sciencesetavenir.fr/sante/tryptamine-sept-derives-synthetiques-de-cette-substance-hallucinogene-interdits-en-france_193012?xtor=RSS-16",
@@ -209,26 +219,6 @@
       "image": "https://www.franceinfo.fr/pictures/drpwQdu6mTeJa_w8gcEsK0cXidQ/0x23:7001x3962/432x243/filters:format(jpg)/2026/06/10/6a2909f9e972d743131946.jpg",
       "date": "2026-06-10T09:44:57+00:00",
       "date_formatted": "10 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le nombre d'arrêts-maladies est en forte hausse depuis la pandémie de Covid-19, notamment chez les cadres",
-      "desc": "Selon une étude de Malakoff Humanis, les arrêts de travail sont plus longs et souvent liés à la santé mentale. Plus largement, l'absentéisme a augmenté entre 2019 et 2025.",
-      "url": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/sante-au-travail/le-nombre-d-arrets-maladies-est-en-forte-hausse-depuis-la-pandemie-de-covid-19-notamment-chez-les-cadres_8052617.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/b21IV55BWIhqbFwt1eOs4C1jiCY/0x0:5145x2894/432x243/filters:format(jpg)/2026/06/09/6a284235e01a0201716701.jpg",
-      "date": "2026-06-09T19:39:00+00:00",
-      "date_formatted": "9 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le Sénat vote pour garantir la gratuité du don d'organes avec un statut protecteur du \"donneur vivant\"",
-      "desc": "Transmise à l'Assemblée nationale, la proposition de loi prévoit d'établir que les donneurs seront exonérés de participation forfaitaire, de franchise médicale, de dépassements d'honoraires et de délais de carence relatifs aux arrêts maladie.",
-      "url": "https://www.franceinfo.fr/sante/soigner/don-d-organes/le-senat-vote-pour-garantir-la-gratuite-du-don-d-organes-avec-un-statut-protecteur-du-donneur-vivant_8052602.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/PfSbEpIewZoI3EQNnxyx4sNMQec/0x369:3543x2362/432x243/filters:format(jpg)/2026/06/09/6a283cf5d9720223662361.jpg",
-      "date": "2026-06-09T18:53:59+00:00",
-      "date_formatted": "9 June 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
@@ -279,18 +269,8 @@
       "image": "https://img.lemde.fr/2026/06/05/774/0/5100/2550/644/322/60/0/8194e0a_upload-1-krslsihfavvc-gettyimages-2238303615.jpg",
       "date": "2026-06-09T06:00:10+00:00",
       "date_formatted": "9 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Quand Darwin arrive en ville : comment la jungle urbaine bouleverse la sélection naturelle des animaux",
-      "desc": "Des mésanges plus agressives, des escargots qui s’éclaircissent, un plumage antipollution pour les pigeons… La faune des villes s’adapte au contexte citadin. Plasticité comportementale ou véritable évolution génétique ? Depuis dix ans, des chercheurs mènent l’enquête.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/08/quand-darwin-arrive-en-ville-comment-la-jungle-urbaine-bouleverse-la-selection-naturelle-des-animaux_6699624_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/05/448/0/5379/2689/644/322/60/0/825a94c_upload-1-xuhgumiwuw1g-sipa-sipahub60000171-000001.jpg",
-      "date": "2026-06-08T18:00:12+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Voici pourquoi la lutte contre Alzheimer pourrait passer par les muscles plutôt que par le cerveau selon une étude",
@@ -353,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Voici comment des chercheurs ont réussi à produire un médicament anticancer essentiel grâce à de la levure",
-      "desc": "Une avancée majeure dans la production de traitements contre le cancer pourrait bientôt changer la vie de millions de patients à travers le monde, en rendant ces médicaments plus accessibles, abordables et respectueux de l’environnement.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-voici-chercheurs-ont-reussi-produire-medicament-anticancer-essentiel-grace-levure-w2t8-135085/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/6/b/d6b69ef6a7_50256228_cancer-therapie-medicament.jpg",
-      "date": "2026-06-07T08:00:00+00:00",
-      "date_formatted": "7 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ebola : le patient américain soigné en Allemagne est guéri et sorti de l’hôpital",
       "desc": "Peter Stafford, un médecin missionnaire de l’ONG chrétienne américaine Serge, avait été admis le 20 mai dans le quartier d’isolement pour les maladies infectieuses d’un hôpital de Berlin, après avoir été exposé au virus en soignant des patients à l’hôpital Nyankunde, dans l’est de la République démo",
       "url": "https://www.lemonde.fr/sante/article/2026/06/06/ebola-le-patient-americain-soigne-en-allemagne-est-gueri-et-sorti-de-l-hopital_6698140_1651302.html",
@@ -401,16 +371,6 @@
       "date_formatted": "4 June 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Cancers : Plus on est pauvre, plus on est exposé à une forme grave, c’est ce que révèle une étude",
-      "desc": "Publiée ce jeudi, une étude de la Drees montre que le cancer frappe plus durement certaines catégories de la population du fait des écarts d’exposition à des facteurs de risque et des différences de recours au dépistage",
-      "url": "https://www.20minutes.fr/sante/4227124-20260604-cancers-plus-pauvre-plus-expose-forme-grave-revele-etude?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/9RDy7T0DS_OMq7zX7ytxZyk/1200x768_scanner-ct-tomographie-assistee-par-ordinateur-dans-un-laboratoire-hospitalier-07allil-images-allili5558-credit-mourad-allili-sipa-2507090940",
-      "date": "2026-06-04T06:45:54+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Deux virologues inculpés pour avoir tenté d'importer le virus Mpox d'Afrique",
