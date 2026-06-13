@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-13T02:05:03.579304+00:00",
-  "count": 54,
+  "generated_at": "2026-06-13T08:44:22.115810+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Pourquoi devient-on un bec sucré en vieillissant ?",
+      "desc": "Avec l'âge, le goût évolue sous l'effet de la baisse de l'odorat, du renouvellement des papilles et de l'adaptation du cerveau. Résultat : les saveurs sucrées ont davantage de goût, sans répondre pour autant à un besoin du corps.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/pourquoi-devient-on-un-bec-sucre-en-vieillissant_8036582.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/nw9322TTrtJIMOZEmMf89553-R8/0x111:2119x1303/432x243/filters:format(jpg)/2026/06/10/6a29497e29881976962722.jpg",
+      "date": "2026-06-13T10:00:04+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Une frappe rapide et létale» : le chef du gang vénézuélien Tren de Aragua tué dans un assaut américain",
+      "desc": "Hector Rusthenford Guerrero Flores, alias El Niño Guerrero, est mort au cours d’une opération conjointe menée par les Etats-Unis et le Venezuela, ont annoncé tard vendredi soir les deux pays.",
+      "url": "https://www.liberation.fr/international/amerique/une-frappe-rapide-et-letale-le-chef-du-gang-venezuelien-tren-de-aragua-tue-dans-un-assaut-americain-20260613_LCEZ66LZQZFCPH4WZNMVSPT6UQ/",
+      "image": null,
+      "date": "2026-06-13T08:11:15+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Après 25 ans de recherche, voici la thérapie prometteuse qui suscite l'espoir des chercheurs sur Parkinson",
+      "desc": "Une avancée médicale spectaculaire redonne espoir aux patients atteints de Parkinson. Des greffes de cellules souches dans le cerveau montrent des résultats prometteurs, avec une amélioration durable des symptômes moteurs chez les premiers patients traités. Cette thérapie cellulaire, après...",
+      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-apres-25-ans-recherche-voici-therapie-prometteuse-suscite-espoir-chercheurs-parkinson-w2t8-135127/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/7/8/a78809cf6e_50256262_parkinson-therapie-espoir.jpg",
+      "date": "2026-06-13T08:00:00+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Décalage avec les autres, maturité, études supérieures… que deviennent les candidats qui passent le baccalauréat très jeunes ?",
+      "desc": "Ces dernières années, les records de précocité au bac ne cessent d’être battus, poussant le gouvernement à vouloir instaurer un âge minimum. A la veille de la traditionnelle épreuve de philo qui se tiendra lundi matin, trois ex-très jeunes bacheliers racontent pour «Libé» leur parcours atypique, hor",
+      "url": "https://www.liberation.fr/societe/decalage-avec-les-autres-maturite-etudes-superieures-que-deviennent-les-candidats-qui-passent-le-baccalaureat-tres-jeunes-20260613_L5NOVCCD75AMNNZ2GKN6JHGZFU/",
+      "image": null,
+      "date": "2026-06-13T07:30:00+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Coronavirus : Comment la mort d’une figure du mouvement antivax en France a relancé le complot « Big Pharma »",
+      "desc": "Plusieurs internautes affirment que la mort de Christine Cotton, principale figure du mouvement antivax, n’est pas un hasard, et que ses théories autour du vaccin anti-covid gênaient. Sauf que ses conclusions n’ont jamais été validées par la science",
+      "url": "https://www.20minutes.fr/sante/4228222-20260613-coronavirus-comment-mort-figure-mouvement-antivax-france-relance-complot-big-pharma?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/AI9YXi-TQhaQ0mc3g3BsuCk/1200x768_251112-mexico-12-novembre-2025-xinhua-un-agent-de-sante-administre-un-vaccin-a-un-citoyen-dans-un-centre-de-vaccination-de-mexico-capitale-du-mexique-le-12-novembre-2025-la-ville-de-mexico-a-mis-en-place-un-centre-de-vaccination-proposant-au-public-des-vaccins-contre-la-grippe-la-covid-19-le-pneumocoque-et-la-rougeole-dans-le-cadre-des-efforts-visant-a-ameliorer-la-couverture-vaccinale-communautaire-pendant-la-saison-hivernale-photo-de-francisco-canedo-xinhua-fu-langxisike-kanie-duo-chine-nouvelle-cmxztpe000056-20251113-pepfn0a001-credit-chine-nouvelle-sipa-2511130810",
+      "date": "2026-06-13T06:17:36+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : les rongeurs capturés dans la province de Mendoza n'appartiennent pas à l'espèce potentiellement porteuse de la souche",
       "desc": "La province de Mendoza n'a pas de circulation avérée de la souche \"Andes\" de l'hantavirus impliquée sur le \"MV Hondius\".",
@@ -21,46 +71,6 @@
       "date_formatted": "12 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "David Hockney, le don simple d’émerveiller",
-      "desc": "L’insatiable peintre britannique, mort jeudi à 88 ans, laisse derrière lui une œuvre qui marche à l’optimisme, à la joie de vivre, à l’ivresse de peindre, sans cesse, à profusion.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/david-hockney-le-don-simple-demerveiller-20260612_H7PRVCDFTRAJRCZJCYBL5INY3U/",
-      "image": null,
-      "date": "2026-06-12T18:15:37+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort du photographe Duane Michals, «storyteller» malicieux et subversif",
-      "desc": "«Ecrivain de la photographie» autoproclamé, l’artiste américain aimait raconter des histoires avec des séquences d’images noir et blanc, en petit format, qu’il annotait de courts textes écrits à la main. Il est mort le 9 juin, à 94 ans.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-du-photographe-duane-michals-storyteller-malicieux-et-subversif-20260612_YUUP2ZNHEFEI7F2VTUPQNLMVQA/",
-      "image": null,
-      "date": "2026-06-12T17:45:07+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Dominique Bernard : les avocats du frère de l’assaillant d’Arras demandent de suspendre son expulsion vers la Russie",
-      "desc": "Soupçonné d’avoir montré à Mohammed Mogouchkov, le jeune homme de 16 ans a éte écroué deux ans et demi. Sous le coup d’un obligation de quitter le territoire français, il pourrait être expulsé vers la Russie.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-de-dominique-bernard-les-avocats-du-frere-de-lassaillant-darras-demandent-de-suspendre-son-expulsion-vers-la-russie-20260612_UAGY4G5EMBAZ5F7B7NKZKMVS2M/",
-      "image": null,
-      "date": "2026-06-12T16:54:29+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Au Kenya, le projet américain de centre de quarantaine anti-Ebola ne passe pas",
-      "desc": "Situé en périphérie de Nanyuki, au nord de la capitale, le futur dispositif, réservé aux ressortissants américains exposés au virus, a été la cause de manifestations qui ont été réprimées et ont fait trois morts.",
-      "url": "https://www.liberation.fr/international/afrique/au-kenya-le-projet-americain-de-centre-de-quarantaine-anti-ebola-ne-passe-pas-20260612_PKO6SXT7NFHTBPJSCLFN4KXJBA/",
-      "image": null,
-      "date": "2026-06-12T16:41:09+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "VIH : la lutte contre la maladie est « mise en danger » par la chute de l’aide internationale, prévient l’ONU",
@@ -170,16 +180,6 @@
       "date": "2026-06-11T06:00:25+00:00",
       "date_formatted": "11 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un nouveau cas de contamination à l'hantavirus sur l'île Tristan da Cunha a été signalé par le Royaume-Uni",
-      "desc": "Selon l'Organisation mondiale de la santé, ce cas a été confirmé chez une personne auparavant \"considérée comme un cas probable ayant été exposée à bord du 'MV Hondius'\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/epidemie-d-hantavirus-un-nouveau-cas-de-contamination-sur-l-ile-tristan-da-cunha-a-ete-signale-par-le-royaume-uni_8054552.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/1tmQ-C6531CMp-U-2qHhIZFlp0Q/0x347:5300x3328/432x243/filters:format(jpg)/2026/06/10/6a29a496632de148102646.jpg",
-      "date": "2026-06-10T20:10:30+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -321,16 +321,6 @@
       "date_formatted": "7 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Cette gêne très courante en milieu bruyant cacherait un lien étonnant avec le risque de démence",
-      "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-cette-gene-tres-courante-milieu-bruyant-cacherait-lien-etonnant-risque-demence-w2t8-135089/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/a/f/bafcbedc43_50232560_audition-demence-alzheimer.jpg",
-      "date": "2026-06-07T09:00:00+00:00",
-      "date_formatted": "7 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Ebola : le patient américain soigné en Allemagne est guéri et sorti de l’hôpital",
