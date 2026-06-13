@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-13T13:20:00.159910+00:00",
-  "count": 52,
+  "generated_at": "2026-06-13T19:04:24.863124+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "«Les cœurs sont lourds» : à Metz, dans le sillage du meurtre de Noahm, une Pride aux airs de marche blanche",
+      "desc": "La 22e Marche des fiertés s’est tenue à Metz ce samedi, dans un contexte alourdi par la mort de Noahm. L’histoire de ce jeune homme gay de 19 ans, battu à mort le 30 mai, était dans toutes les têtes. Beaucoup dénoncent un climat politique hostile aux luttes LGBT+.",
+      "url": "https://www.liberation.fr/societe/sexualite-et-genres/les-coeurs-sont-lourds-a-metz-dans-le-sillage-du-meurtre-de-noahm-une-pride-aux-airs-de-marche-blanche-20260613_DAUF3BZAGRFE7KDP7MAWDDCHSU/",
+      "image": null,
+      "date": "2026-06-13T18:20:12+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Contre Ebola, la politique sanitaire américaine sème la colère en Afrique",
+      "desc": "Alors que la Coupe du monde de football vient de s'ouvrir aux États-Unis, la stratégie américaine de lutte contre le virus Ebola fait l'objet de nombreuses critiques. Notamment au Kenya.",
+      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/contre-ebola-la-politique-sanitaire-americaine-seme-la-colere-en-afrique_8036519.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GofgEH7BJ27evEiS8JTqbVNSjzY/0x261:5000x3073/432x243/filters:format(jpg)/2026/06/13/6a2d26bab8d2f232088264.jpg",
+      "date": "2026-06-13T17:25:01+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Epidémie d’Ebola : Comment la désinformation complique la lutte contre la maladie en RDC",
+      "desc": "En ligne mais aussi dans les villages, certains invoquent la sorcellerie pour expliquer ces morts, quand d’autres sont persuadés que la maladie serait inventée de toutes pièces par le gouvernement",
+      "url": "https://www.20minutes.fr/high-tech/by-the-web/4228884-20260613-epidemie-ebola-comment-desinformation-complique-lutte-contre-maladie-rdc?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/n9-wpdriSrGX8Oj08TK7Oik/1200x768_260605-goma-5-juin-2026-xinhua-le-personnel-medical-a-enfile-des-combinaisons-de-protection-a-goma-en-republique-democratique-du-congo-rdc-le-4-juin-2026-les-cas-confirmes-d-ebola-en-republique-democratique-du-congo-rdc-sont-passes-a-381-dont-63-deces-a-declare-jeudi-soir-le-ministre-de-la-sante-roger-kamba-le-ministre-a-indique-que-la-capacite-de-depistage-du-pays-s-etait-considerablement-amelioree-suite-a-l-arrivee-de-plus-de-4-000-kits-de-depistage-des-centres-africains-pour-le-controle-et-la-prevention-des-maladies-et-a-un-soutien-international-supplementaire-permettant-aux-autorites-sanitaires-de-tester-presque-tous-les-echantillons-recus-et-de-fournir-des-resultats-dans-les-24-heures-xinhua-xinhua-chine-nouvelle-xxjp-bee000367-20260605-pepfn0a001-credit-chine-nouvelle-sipa-2606051149",
+      "date": "2026-06-13T16:07:14+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "A la veille du G7, un accident de la route mortel en Haute-Savoie",
+      "desc": "Un motard de la gendarmerie est décédé et deux autres ont été blessés samedi dans un accident de la route en Haute-Savoie, en marge du sommet du G7 qui démarre à Evian lundi.",
+      "url": "https://www.liberation.fr/international/a-la-veille-du-g7-un-accident-de-la-route-mortel-en-haute-savoie-20260613_S7UVJAWJMRHVTI2P54WU7SSF3A/",
+      "image": null,
+      "date": "2026-06-13T14:50:42+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Bac : la philosophie ne doit pas être un privilège",
+      "desc": "Rien ne justifie que les bacheliers de la voie professionnelle soient privés de la philosophie, ni que cette matière soit limitée à un seul âge de la vie ou à un seul milieu social, s’indigne la philosophe Edwige Chirouter.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/bac-la-philosophie-ne-doit-pas-etre-un-privilege-20260613_MFZD3E2BPNCQZMCGENRKNFQ3KY/",
+      "image": null,
+      "date": "2026-06-13T13:57:00+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "La durée des arrêts de travail sera plafonnée à partir de septembre, selon un décret paru samedi",
       "desc": "Cette mesure a été décidée dans la loi de financement de la Sécurité sociale pour 2026. Jusqu’à présent, aucune durée maximale d’arrêt maladie n’était prévue, bien que des recommandations existent pour certaines pathologies.",
@@ -278,26 +328,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-voici-lutte-alzheimer-pourrait-passer-muscles-plutot-cerveau-selon-etude-k2m6-135146/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/5/c/d5c04e9363_50256271_alzheimer-muscles.jpg",
       "date": "2026-06-08T18:00:00+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire",
-      "desc": "Fini les vaccins à reformuler chaque année ? Une équipe de Cambridge teste une technologie révolutionnaire capable d’anticiper les mutations virales grâce à l’IA. Une avancée qui pourrait changer durablement notre réponse aux épidémies.",
-      "url": "https://www.futura-sciences.com/sante/actualites/vaccin-virus-mutants-ebola-covid-grippe-aviaire-chercheurs-ont-concu-ia-super-vaccin-revolutionnaire-135162/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/7/9/b79038b5ab_50256318_super-vaccin.jpg",
-      "date": "2026-06-08T17:08:00+00:00",
-      "date_formatted": "8 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cancer : les « anticorps conjugués » vont-ils bientôt remplacer la chimiothérapie classique ?",
-      "desc": "Et si l’avenir du traitement du cancer passait par des médicaments capables de frapper uniquement les cellules malades ? Plus ciblés, souvent mieux tolérés et porteurs d’espoir face à des tumeurs résistantes, les anticorps conjugués pourraient bouleverser la prise en charge de nombreux cancers.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-anticorps-conjugues-vont-ils-bientot-remplacer-chimiotherapie-classique-135004/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/c/2/ac2a112504_50256091_hopital-perfusion-medecin.jpg",
-      "date": "2026-06-08T12:48:46+00:00",
       "date_formatted": "8 June 2026",
       "source": "Futura Santé",
       "type": "science"
