@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-06-13T08:44:22.115810+00:00",
-  "count": 53,
+  "generated_at": "2026-06-13T13:20:00.159910+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "La durée des arrêts de travail sera plafonnée à partir de septembre, selon un décret paru samedi",
+      "desc": "Cette mesure a été décidée dans la loi de financement de la Sécurité sociale pour 2026. Jusqu’à présent, aucune durée maximale d’arrêt maladie n’était prévue, bien que des recommandations existent pour certaines pathologies.",
+      "url": "https://www.lemonde.fr/emploi/article/2026/06/13/la-duree-des-arrets-de-travail-sera-plafonnee-a-partir-de-septembre-selon-un-decret-paru-samedi_6701704_1698637.html",
+      "image": "https://img.lemde.fr/2026/06/08/250/0/3000/1500/644/322/60/0/47e7604_upload-1-hvoleqw5prym-frame-161.jpg",
+      "date": "2026-06-13T12:59:51+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les durées des arrêts maladie limitées à partir du 1er septembre 2026",
+      "desc": "Un décret publié au Journal Officiel ce samedi précise que le premier arrêt de travail ne devra pas excéder un mois, et sa prolongation, deux mois. Le texte prévoit des exceptions en raison de l’état de santé du patient.",
+      "url": "https://www.liberation.fr/economie/social/les-durees-des-arrets-de-travail-limitees-a-partir-du-1er-septembre-2026-20260613_JKLHRHZMV5FJ3AYL4RA6VB5TFY/",
+      "image": null,
+      "date": "2026-06-13T12:51:30+00:00",
+      "date_formatted": "13 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Pourquoi devient-on un bec sucré en vieillissant ?",
       "desc": "Avec l'âge, le goût évolue sous l'effet de la baisse de l'odorat, du renouvellement des papilles et de l'adaptation du cerveau. Résultat : les saveurs sucrées ont davantage de goût, sans répondre pour autant à un besoin du corps.",
@@ -13,16 +33,6 @@
       "type": "presse"
     },
     {
-      "title": "«Une frappe rapide et létale» : le chef du gang vénézuélien Tren de Aragua tué dans un assaut américain",
-      "desc": "Hector Rusthenford Guerrero Flores, alias El Niño Guerrero, est mort au cours d’une opération conjointe menée par les Etats-Unis et le Venezuela, ont annoncé tard vendredi soir les deux pays.",
-      "url": "https://www.liberation.fr/international/amerique/une-frappe-rapide-et-letale-le-chef-du-gang-venezuelien-tren-de-aragua-tue-dans-un-assaut-americain-20260613_LCEZ66LZQZFCPH4WZNMVSPT6UQ/",
-      "image": null,
-      "date": "2026-06-13T08:11:15+00:00",
-      "date_formatted": "13 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Après 25 ans de recherche, voici la thérapie prometteuse qui suscite l'espoir des chercheurs sur Parkinson",
       "desc": "Une avancée médicale spectaculaire redonne espoir aux patients atteints de Parkinson. Des greffes de cellules souches dans le cerveau montrent des résultats prometteurs, avec une amélioration durable des symptômes moteurs chez les premiers patients traités. Cette thérapie cellulaire, après...",
       "url": "https://www.futura-sciences.com/sante/actualites/parkinson-apres-25-ans-recherche-voici-therapie-prometteuse-suscite-espoir-chercheurs-parkinson-w2t8-135127/#xtor%3DRSS-8",
@@ -31,16 +41,6 @@
       "date_formatted": "13 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Décalage avec les autres, maturité, études supérieures… que deviennent les candidats qui passent le baccalauréat très jeunes ?",
-      "desc": "Ces dernières années, les records de précocité au bac ne cessent d’être battus, poussant le gouvernement à vouloir instaurer un âge minimum. A la veille de la traditionnelle épreuve de philo qui se tiendra lundi matin, trois ex-très jeunes bacheliers racontent pour «Libé» leur parcours atypique, hor",
-      "url": "https://www.liberation.fr/societe/decalage-avec-les-autres-maturite-etudes-superieures-que-deviennent-les-candidats-qui-passent-le-baccalaureat-tres-jeunes-20260613_L5NOVCCD75AMNNZ2GKN6JHGZFU/",
-      "image": null,
-      "date": "2026-06-13T07:30:00+00:00",
-      "date_formatted": "13 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Coronavirus : Comment la mort d’une figure du mouvement antivax en France a relancé le complot « Big Pharma »",
@@ -409,16 +409,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/28/cover-r4x3w1200-6a1868f9c11dd-afp-20171010-eli4730-v1-highres-eli4730.jpg",
       "date": "2026-05-29T07:07:27+00:00",
       "date_formatted": "29 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Chikungunya, dengue, Zika : 92 cas importés dans l'Hexagone depuis début mai",
-      "desc": "Un peu plus de 90 cas importés de chikungunya, dengue et Zika, trois maladies transmises par des moustiques tigres, ont été recensés en France hexagonale depuis début mai.",
-      "url": "https://www.sciencesetavenir.fr/sante/chikungunya-dengue-zika-92-cas-importes-dans-l-hexagone-depuis-debut-mai_192766?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/28/cover-r4x3w1200-6a18369fce7eb-afp-20260526-hl-pbatard-3174394-v1-highres-francemosquitopreventiondisease-1.jpg",
-      "date": "2026-05-28T13:05:51+00:00",
-      "date_formatted": "28 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
