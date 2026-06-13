@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-12T19:49:27.997417+00:00",
+  "generated_at": "2026-06-13T02:05:03.579304+00:00",
   "count": 54,
   "articles": [
+    {
+      "title": "Hantavirus : les rongeurs capturés dans la province de Mendoza n'appartiennent pas à l'espèce potentiellement porteuse de la souche",
+      "desc": "La province de Mendoza n'a pas de circulation avérée de la souche \"Andes\" de l'hantavirus impliquée sur le \"MV Hondius\".",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-les-rongeurs-captures-dans-la-province-de-mendoza-n-appartiennent-pas-a-l-espece-potentiellement-porteuse-de-la-souche_8058293.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/NPDYrMbu4nshZP-OxcZA6GUNqT8/0x0:2756x1550/432x243/filters:format(jpg)/2026/06/12/6a2c7491c6bc4861636392.jpg",
+      "date": "2026-06-12T23:08:45+00:00",
+      "date_formatted": "12 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "La prise en charge de la maladie rénale chronique jugée préoccupante par l’IGAS",
       "desc": "Dans son rapport sur cette pathologie rendu public jeudi 11 juin, l’inspection générale des affaires sociales déplore un manque de prévention et un accès à la greffe insuffisant.",
@@ -211,16 +221,6 @@
       "date_formatted": "10 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Pour prévenir les suicides des jeunes, la Corée du Sud confie un nouveau rôle à l'IA",
-      "desc": "La Corée du Sud vient d’annoncer un grand plan de prévention des suicides d'enfants, dont le taux est deux fois plus élevé qu'en France. Le gouvernement veut placer des conseillers spécialisés dans toutes les écoles du pays et va même faire appel à l’intelligence artificielle.",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/pour-prevenir-les-suicides-des-jeunes-la-coree-du-sud-confie-un-nouveau-role-a-l-ia_8030225.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/drpwQdu6mTeJa_w8gcEsK0cXidQ/0x23:7001x3962/432x243/filters:format(jpg)/2026/06/10/6a2909f9e972d743131946.jpg",
-      "date": "2026-06-10T09:44:57+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Tryptamine : Sept dérivés synthétiques de cette substance hallucinogène seront bientôt interdits",
