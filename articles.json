@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-14T13:23:39.009746+00:00",
-  "count": 41,
+  "generated_at": "2026-06-14T19:05:23.790684+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "Brésil : le chanteur américain Oliver Tree est mort à 32 ans dans la collision de deux hélicoptères à Rio ce dimanche",
+      "desc": "L’artiste était en tournée mondiale. Il faisait partie des six passagers de l’accident, aucun n’a survécu.",
+      "url": "https://www.liberation.fr/international/amerique/bresil-le-chanteur-americain-oliver-tree-est-mort-a-32-ans-dans-la-collision-de-deux-helicopteres-a-rio-ce-dimanche-20260614_TGB7PKQI25FQDJYF63SOV4AYBU/",
+      "image": null,
+      "date": "2026-06-14T18:56:58+00:00",
+      "date_formatted": "14 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Donald Trump assure qu’un accord avec l’Iran sera signé «dans quelques heures»",
+      "desc": "Le président américain espère pouvoir signer un accord ce dimanche, jour de ses 80 ans. Mais la frappe mortelle d’Israël sur la banlieue sud de Beyrouth pourrait contrecarrer ses projets, Téhéran accusant les Etats-Unis de ne pas tenir ses engagements.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/",
+      "image": null,
+      "date": "2026-06-14T18:07:51+00:00",
+      "date_formatted": "14 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Voici comment des chercheurs travaillent à reprogrammer nos cellules pour leur faire retrouver leur jeunesse",
+      "desc": "Des chercheurs viennent de franchir une étape que la biologie considérait encore récemment comme inaccessible : rajeunir de vraies cellules humaines. Non pas les remplacer mais pour les rajeunir. Cette avancée, qui a eu lieu il y a quelques mois, mérite qu'on s'y attarde sérieusement, tant ses...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-voici-chercheurs-travaillent-reprogrammer-nos-cellules-leur-faire-retrouver-leur-jeunesse-k2m6-135242/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/e/4/3e437c3d18_50256455_rajeunissement-cellulaire.jpg",
+      "date": "2026-06-14T18:00:00+00:00",
+      "date_formatted": "14 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Négociations de paix au Moyen-Orient, plafonnement des arrêts maladie, Coupe du Monde de foot… L’actu de ce week-end des 13 et 14 juin",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée de ces samedi 13 juin et dimanche 14 juin.",
+      "url": "https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/",
+      "image": null,
+      "date": "2026-06-14T17:40:16+00:00",
+      "date_formatted": "14 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Sur les retraites, Le Pen fixe la ligne et renvoie Bardella à son statut de second",
+      "desc": "Invitée ce dimanche midi sur France 3, la patronne du Rassemblement national a confirmé que son parti défendait toujours le retour à un âge de départ à 62 ans. Son héritier avait pourtant expliqué que «l’âge légal ne veut rien dire».",
+      "url": "https://www.liberation.fr/politique/sur-les-retraites-le-pen-fixe-la-ligne-et-renvoie-bardella-a-son-statut-de-second-20260614_2JR3SXOC5FAKNEIJRUULXI6GPU/",
+      "image": null,
+      "date": "2026-06-14T17:00:53+00:00",
+      "date_formatted": "14 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Les médicaments antiobésité Wegovy et Mounjaro seront remboursés en France à partir de lundi",
       "desc": "Ils seront pris en charge à 65 % par l’Assurance-maladie pour les patients atteints d’obésité massive sans comorbidité ou d’obésité sévère avec comorbidité. Seuls les médecins spécialisés peuvent établir la première prescription.",
@@ -20,46 +70,6 @@
       "date": "2026-06-14T14:18:38+00:00",
       "date_formatted": "14 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : L’Iran menace de stopper les pourparlers après l’attaque israélienne au Liban",
-      "desc": "Le président américain espère pouvoir signer un accord ce dimanche, jour de ses 80 ans. Mais la frappe mortelle d’Israël sur la banlieue sud de Beyrouth pourrait contrecarrer ses projets, Téhéran accusant les Etats-Unis de ne pas tenir ses engagements.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/",
-      "image": null,
-      "date": "2026-06-14T13:19:08+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Melanie Berger, résistante et si bien",
-      "desc": "Rencontre avec une espiègle centenaire, tôt politisée, qui témoigne de son expérience de résistante sous la domination nazie.",
-      "url": "https://www.liberation.fr/portraits/melanie-berger-resistante-et-si-bien-20260614_V4DQ2KOSIBDJ5EPK4CHNMV2U5U/",
-      "image": null,
-      "date": "2026-06-14T13:12:59+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un mort et neuf blessés dans une attaque de drones ukrainiens contre un immeuble d’habitation russe",
-      "desc": "La frappe a touché un bâtiment de grande hauteur de la ville russe d’Orel à 368 kilomètres au sud-ouest de Moscou.",
-      "url": "https://www.liberation.fr/international/europe/un-mort-et-neuf-blesses-dans-une-attaque-de-drones-ukrainiens-contre-un-immeuble-dhabitation-russe-20260614_QI3HHAFIKNBMNLLLLM6KY5IJ4A/",
-      "image": null,
-      "date": "2026-06-14T13:07:27+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Véronique Béchu, ancienne de l’Office mineurs : «En 2025, 105 millions de contenus issus de l’exploitation sexuelle de mineurs ont été découverts dans le monde»",
-      "desc": "Passée par les rangs de la police nationale où elle s’est spécialisée dans la lutte contre les violences pédocriminelles, Véronique Béchu analyse le retentissement pris par la mort de Lyhanna dans le Gers, et décrypte les modes opératoires des agresseurs.",
-      "url": "https://www.liberation.fr/societe/veronique-bechu-ancienne-de-la-brigade-des-mineurs-en-2025-105-millions-de-contenus-issus-de-lexploitation-sexuelle-de-mineurs-ont-ete-decouverts-dans-le-monde-20260614_XFXTXKDVVBA3BJNIEYWQ27V4BY/",
-      "image": null,
-      "date": "2026-06-14T10:00:56+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -233,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Quand je gagne, c'est une double victoire\" : le combat de Charlie Dalin contre la maladie, vainqueur du Vendée Globe malgré un cancer",
-      "desc": "Le skipper normand, dont on a appris jeudi la mort, avait remporté haut la main le Vendée Globe en 2025. Quelques mois plus tard, il expliquait dans un livre avoir réalisé cet exploit en étant atteint d’un cancer.",
-      "url": "https://www.franceinfo.fr/sports/voile/charlie-dalin/quand-je-gagne-c-est-une-double-victoire-le-combat-de-charlie-dalin-contre-la-maladie-vainqueur-du-vendee-globe-malgre-un-cancer_8056247.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/9i4gVC70kxmMuLR0iP-mODKJbeg/0x275:3500x2244/432x243/filters:format(jpg)/2026/06/11/6a2ae5eb38321194675129.jpg",
-      "date": "2026-06-12T07:08:22+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Lionel Collet, président de la Haute Autorité de santé, dénonce des pressions dans « des proportions jamais vues » de l’industrie pharmaceutique",
       "desc": "Les tentatives d’influence de certaines entreprises du médicament en vue d’obtenir le remboursement de leurs traitements par l’Assurance-maladie se multiplient auprès de l’institution, « avec une accélération très nette depuis la fin de l’année 2025 », signale au « Monde » son dirigeant.",
       "url": "https://www.lemonde.fr/economie/article/2026/06/12/lionel-collet-president-de-la-haute-autorite-de-sante-denonce-des-pressions-dans-des-proportions-jamais-vues-de-l-industrie-pharmaceutique_6701053_3234.html",
@@ -283,6 +283,16 @@
       "type": "presse"
     },
     {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Ebola : ce que l’on sait de la nouvelle épidémie qui frappe l’Afrique centrale",
       "desc": "La flambée qui touche la République démocratique du Congo et l’Ouganda est déjà l’une des plus importantes jamais enregistrées. Malgré d’importantes avancées médicales ces dernières années, le virus Ebola reste particulièrement difficile à contenir.",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/10/ebola-ce-que-l-on-sait-de-la-nouvelle-epidemie-qui-frappe-l-afrique-centrale_6700480_4355770.html",
@@ -291,6 +301,16 @@
       "date_formatted": "10 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "Tryptamine : sept dérivés synthétiques de cette substance hallucinogène interdits en France",
@@ -311,16 +331,6 @@
       "date_formatted": "9 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "L'humanité pourrait-elle faire disparaître les moustiques ? Voici ce que disent les scientifiques",
-      "desc": "760 000 morts par an. L'animal le plus meurtrier de la planète ne rugit pas, ne mord pas et tient dans le creux d'une main. Il bourdonne. Face à l'explosion de la dengue et du paludisme, des scientifiques étudient aujourd'hui des pistes radicales pour neutraliser les moustiques les plus...",
-      "url": "https://www.futura-sciences.com/sante/actualites/moustique-humanite-pourrait-elle-faire-disparaitre-moustiques-voici-ce-disent-scientifiques-k2m6-135154/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/4/c/a4c7d0b178_50256289_eradiquer-moustiques.jpg",
-      "date": "2026-06-09T18:00:00+00:00",
-      "date_formatted": "9 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Les dépassements d’honoraires des médecins dans le collimateur de la Sécu",
@@ -373,6 +383,16 @@
       "type": "presse"
     },
     {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Deux virologues inculpés pour avoir tenté d'importer le virus Mpox d'Afrique",
       "desc": "Deux virologues travaillant pour un prestigieux institut américain de recherche ont été inculpés le 2 juin 2026 par la justice américaine, accusé d'avoir tenté de ramener aux Etats-Unis le Mpox, anciennement appelé variole du singe.",
       "url": "https://www.sciencesetavenir.fr/sante/deux-virologues-inculpes-pour-avoir-tente-d-importer-le-virus-mpox-d-afrique_192888?xtor=RSS-16",
@@ -410,6 +430,116 @@
       "date": "2026-05-29T12:53:17+00:00",
       "date_formatted": "29 May 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
+      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
+      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
+      "image": null,
+      "date": "2026-04-21T15:30:59+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
+      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
+      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
+      "image": null,
+      "date": "2026-04-21T08:00:54+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
+      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
+      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
+      "image": null,
+      "date": "2026-04-21T00:00:17+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
+      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
+      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
+      "image": null,
+      "date": "2026-04-16T18:00:00+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
