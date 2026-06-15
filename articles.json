@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-06-15T02:30:58.990033+00:00",
-  "count": 53,
+  "generated_at": "2026-06-15T11:40:18.881196+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Deux traitements anti-obésité désormais remboursés par la Sécurité Sociale",
+      "desc": "C’est une nouveauté dans la prise en charge de l’obésité. Deux médicaments, le Wegovy et le Mounjaro, sont pris en charge par l'Assurance-maladie à partir de lundi.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/deux-traitements-anti-obesite-desormais-rembourses-par-la-securite-sociale_8060795.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/SsLKY6ZI5h-UbA6leabxeAgB_Hc/0x227:4362x2681/432x243/filters:format(jpg)/2026/06/15/6a2fb197af9e0647868879.jpg",
+      "date": "2026-06-15T10:28:57+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’actrice Anne Schedeen, la mère de famille dans la série «Alf», est morte à 77 ans",
+      "desc": "Rendue célèbre par son rôle dans la sitcom culte de la fin des années 1980, la comédienne américaine n’avait plus tourné depuis plus de dix ans.",
+      "url": "https://www.liberation.fr/culture/series/lactrice-anne-schedeen-la-mere-de-famille-dans-la-serie-alf-est-morte-a-77-ans-20260615_TAGVMV2B6FDXPF2EXM7RYUTIY4/",
+      "image": null,
+      "date": "2026-06-15T10:20:39+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Peine de mort : face à la pédocriminalité, la sombre tentation d’une grande régression",
+      "desc": "Après le meurtre de Lyhanna, la fenêtre d’Overton sur la peine capitale se rouvre. Dans ce genre de circonstances, la responsabilité du politique est au contraire de tenir bon, pas de laisser croire qu’un tel débat, qu’on pensait appartenir au passé, doit revenir sur nos plateaux télés.",
+      "url": "https://www.liberation.fr/politique/peine-de-mort-face-a-la-pedocriminalite-la-sombre-tentation-dune-grande-regression-20260615_QCASUUMLQRF5VBFKELI7IEXQ2E/",
+      "image": null,
+      "date": "2026-06-15T09:54:51+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le remboursement des traitements anti-obésité Wegovy et Mounjaro, une équation complexe pour l’Assurance-maladie",
+      "desc": "Remboursés en France à partir du lundi 15 juin, les médicaments Wegovy et Mounjaro placent les administrations de santé face à une question épineuse : les financer coûtera-t-il moins cher que d’assumer le coût de l’obésité et de ses complications ?",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/15/le-remboursement-des-traitements-anti-obesite-une-equation-complexe-pour-l-assurance-maladie_6703158_3234.html",
+      "image": "https://img.lemde.fr/2026/06/14/439/0/3189/1594/644/322/60/0/0221806_upload-1-pg2uusnpzni7-xavier-lissillour-zelihachaffin2-cou-tassusrancemaladie.JPG",
+      "date": "2026-06-15T08:30:01+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Novo Nordisk et Eli Lilly, deux champions en lice pour le faramineux marché des médicaments antiobésité",
+      "desc": "Les deux principaux médicaments visant à réduire l’obésité sont remboursés sous conditions par l’Assurance-maladie à partir du lundi 15 juin. Un pas de plus dans la conquête géographique de ce marché par les groupes pharmaceutiques Novo Nordisk et Eli Lilly, engagés dans une bataille mondiale.",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/15/novo-nordisk-et-eli-lilly-deux-champions-en-lice-pour-le-faramineux-marche-des-medicaments-antiobesite_6703156_3234.html",
+      "image": "https://img.lemde.fr/2026/06/14/532/0/3189/1594/644/322/60/0/33d7d95_upload-1-pvvcpvu7eo0i-xavier-lissillour-zelihachaffin-laguerredeslabos.jpg",
+      "date": "2026-06-15T08:02:10+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Remboursement des médicaments antiobésité Wegovy et Mounjaro : les centres spécialisés se préparent à accueillir une vague de nouveaux patients",
+      "desc": "Les demandes de consultation dans les services spécialisés se sont multipliées à l’approche du lundi 15 juin, date à partir de laquelle deux traitements antiobésité seront pris en charge sous conditions strictes par l’Assurance-maladie.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/15/remboursement-des-medicaments-antiobesite-les-centres-specialises-dans-les-starting-blocks-pour-accueillir-des-patients_6703128_3224.html",
+      "image": "https://img.lemde.fr/2026/06/14/532/0/3189/1594/644/322/60/0/51299fe_upload-1-tsibbgjpttse-illustration-remboursementdesme-dicamentsanti-obe-site-imageprincipale.JPG",
+      "date": "2026-06-15T05:00:06+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Pour réduire les dépenses, le gouvernement encadre davantage les arrêts maladie",
       "desc": "À partir du 1er septembre, la durée des arrêts maladie sera davantage encadrée. Le gouvernement espère freiner une dépense qui atteint 18 milliards d'euros par an. Une réforme saluée par certains employeurs mais vivement critiquée par les médecins, qui dénoncent une nouvelle contrainte administrativ",
@@ -13,16 +83,6 @@
       "type": "presse"
     },
     {
-      "title": "Brésil : le chanteur américain Oliver Tree est mort à 32 ans dans la collision de deux hélicoptères à Rio",
-      "desc": "L’artiste, en tournée mondiale, était accompagné d’un producteur de musique brésilien, d’un réalisateur de clips argentin et le YouTuber argentin Gaspar Prim, connu sur Internet sous le nom de «Gaspi».",
-      "url": "https://www.liberation.fr/international/amerique/bresil-le-chanteur-americain-oliver-tree-est-mort-a-32-ans-dans-la-collision-de-deux-helicopteres-a-rio-ce-dimanche-20260614_TGB7PKQI25FQDJYF63SOV4AYBU/",
-      "image": null,
-      "date": "2026-06-14T19:45:28+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Voici comment des chercheurs travaillent à reprogrammer nos cellules pour leur faire retrouver leur jeunesse",
       "desc": "Des chercheurs viennent de franchir une étape que la biologie considérait encore récemment comme inaccessible : rajeunir de vraies cellules humaines. Non pas les remplacer mais pour les rajeunir. Cette avancée, qui a eu lieu il y a quelques mois, mérite qu'on s'y attarde sérieusement, tant ses...",
       "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-voici-chercheurs-travaillent-reprogrammer-nos-cellules-leur-faire-retrouver-leur-jeunesse-k2m6-135242/#xtor%3DRSS-8",
@@ -31,26 +91,6 @@
       "date_formatted": "14 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Négociations de paix au Moyen-Orient, plafonnement des arrêts maladie, Coupe du Monde de foot… L’actu de ce week-end des 13 et 14 juin",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée de ces samedi 13 juin et dimanche 14 juin.",
-      "url": "https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/",
-      "image": null,
-      "date": "2026-06-14T17:40:16+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Sur les retraites, Le Pen fixe la ligne et renvoie Bardella à son statut de second",
-      "desc": "Invitée ce dimanche midi sur France 3, la patronne du Rassemblement national a confirmé que son parti défendait toujours le retour à un âge de départ à 62 ans. Son héritier avait pourtant expliqué que «l’âge légal ne veut rien dire».",
-      "url": "https://www.liberation.fr/politique/sur-les-retraites-le-pen-fixe-la-ligne-et-renvoie-bardella-a-son-statut-de-second-20260614_2JR3SXOC5FAKNEIJRUULXI6GPU/",
-      "image": null,
-      "date": "2026-06-14T17:00:53+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Les médicaments antiobésité Wegovy et Mounjaro seront remboursés en France à partir de lundi",
@@ -343,16 +383,6 @@
       "type": "presse"
     },
     {
-      "title": "Les arrêts de travail longs et les troubles de santé mentale portent la hausse de l’absentéisme",
-      "desc": "Dans les entreprises privées, les troubles musculosquelettiques, la traumatologie et les cancers sont relégués loin derrière la santé mentale comme cause des arrêts de travail, selon l’étude annuelle de Malakoff Humanis, décryptée par le journaliste du « Monde » Jules Thomas dans sa chronique.",
-      "url": "https://www.lemonde.fr/emploi/article/2026/06/09/les-arrets-de-travail-longs-et-les-troubles-de-sante-mentale-portent-la-hausse-de-l-absenteisme_6700095_1698637.html",
-      "image": "https://img.lemde.fr/2026/01/08/477/0/5769/2884/644/322/60/0/4a3c9b4_upload-1-tace5n5csshe-000-36k82u6.jpg",
-      "date": "2026-06-09T06:00:34+00:00",
-      "date_formatted": "9 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : L’UE a acheminé 100 tonnes de matériel d’urgence dans l’est de la RDC",
       "desc": "Des médicaments, des tentes et des équipements de protection ont été acheminés vers l’épicentre de l’épidémie, une région difficile d’accès, alors que 452 cas ont été confirmés dans le pays",
       "url": "https://www.20minutes.fr/monde/4227627-20260607-ebola-ue-achemine-100-tonnes-materiel-urgence-rdc?at_medium=display&at_campaign=149",
@@ -519,16 +549,6 @@
       "image": null,
       "date": "2026-04-21T00:00:17+00:00",
       "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
-      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
-      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
-      "image": null,
-      "date": "2026-04-16T18:00:00+00:00",
-      "date_formatted": "16 April 2026",
       "source": "Inserm",
       "type": "science"
     }
