@@ -1,25 +1,55 @@
 {
-  "generated_at": "2026-06-16T02:34:18.733611+00:00",
-  "count": 54,
+  "generated_at": "2026-06-16T10:49:42.049713+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "«Maître d’armes» dans Kaamelott, mari de Valérie Lemercier dans «les Visiteurs», l’acteur Christian Bujeau est mort",
-      "desc": "Agée de 81 ans, cette figure familière du petit écran, avait connu la célébrité en 1993 dans la comédie populaire à succès de Jean-Marie Poiré.",
-      "url": "https://www.liberation.fr/culture/cinema/maitre-darmes-dans-kaamelott-mari-de-valerie-lemercier-dans-les-visiteurs-lacteur-christian-bujeau-est-mort-20260615_KCKJR67CK5E4FCYO4QM72Y64NA/",
+      "title": "L'épidémie d'Ebola pourrait durer un an en République démocratique du Congo, selon la Croix-Rouge",
+      "desc": "L'ONG a estimé mardi que le pic d'Ebola n'a pas encore été atteint en RDC. La veille, Médecins sans frontières s'est inquiété \"dangereuses lacunes\" dans la réponse sanitaire à Ebola dans le pays.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-pourrait-durer-un-an-en-republique-democratique-du-congo-selon-la-croix-rouge_8063234.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/zQuuafpFD9IZHozILvw5E16vulQ/0x52:1024x628/432x243/filters:format(jpg)/2026/06/16/6a311bc166304883843545.jpg",
+      "date": "2026-06-16T11:48:53+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le chef indigène Raoni hospitalisé en état grave à 94 ans après la dégradation de son état de santé",
+      "desc": "Le chef indigène Raoni hospitalisé en état grave à 94 ans après la dégradation de son état de santé",
+      "url": "https://www.20minutes.fr/tv/videos/4229373-20260616-chef-indigene-raoni-hospitalise-etat-grave-94-ans-apres-degradation-etat-sante?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/I4CHETOsSbmxQjwtHw7Yzik/1200x768_leader-emblematique-peuple-kayapo-defenseur-acharne-foret-amazonienne-raoni-metuktire-admis-unite-soins-intensifs-suite-degradation-etat-sante-transfe",
+      "date": "2026-06-16T10:15:10+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Entre le droit à l’aide à mourir, l’urgence agricole et la protection de l’enfance, les députés vont avoir du boulot cet été",
+      "desc": "Un décret publié ce mardi 16 juin convoque le Parlement en session extraordinaire, potentiellement jusqu’à la semaine du 20 juillet. Et le menu s’annonce copieux.",
+      "url": "https://www.liberation.fr/politique/entre-le-droit-a-laide-a-mourir-lurgence-agricole-et-la-protection-de-lenfance-les-deputes-vont-avoir-du-boulot-cet-ete-20260616_M4MECKX2KFCXPGPYNAV7V5QIVU/",
       "image": null,
-      "date": "2026-06-15T19:38:13+00:00",
-      "date_formatted": "15 June 2026",
+      "date": "2026-06-16T09:41:11+00:00",
+      "date_formatted": "16 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "«Zoos humains» : 130 ans après, le Parlement donne son feu vert à la restitution à la Guyane des restes de six Amérindiens",
-      "desc": "L’Assemblée a voté à l’unanimité ce lundi une loi issue du Sénat ouvrant la voie au retour en Guyane des dépouilles de ces six personnes, mortes après avoir été exposées au Jardin d’acclimatation en 1892 et restées bloquées en France depuis.",
-      "url": "https://www.liberation.fr/sciences/histoire/zoos-humains-130-ans-apres-le-parlement-donne-son-feu-vert-a-la-restitution-a-la-restitution-a-la-guyane-des-restes-de-six-amerindiens-20260615_RCXKPWU5BVHVZFLXURRT3XWFRI/",
+      "title": "Procès en appel de Gaël Perdriau : l’avocat général meurt après avoir chuté du sixième étage d’un immeuble",
+      "desc": "Le corps du haut magistrat a été découvert en bas de son domicile grenoblois, dans la nuit de dimanche à lundi 15 juin. Une enquête, confirmée par «le Dauphiné Libéré», a été ouverte par la police locale, qui privilégie l’hypothèse du suicide.",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-en-appel-de-gael-perdriau-lavocat-general-meurt-apres-avoir-chute-du-sixieme-etage-dun-immeuble-20260616_ERHTEUIXG5BTPIZNANO24QCZUI/",
       "image": null,
-      "date": "2026-06-15T17:18:28+00:00",
-      "date_formatted": "15 June 2026",
+      "date": "2026-06-16T09:29:09+00:00",
+      "date_formatted": "16 June 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Sur le terrain, c’est la catastrophe » : à Bunia, en RDC, face à une épidémie d’Ebola hors de contrôle",
+      "desc": "Un mois après la déclaration officielle de l’épidémie par les autorités congolaises, la réponse sanitaire ne parvient pas à limiter la propagation du virus, et le nombre de victimes ne fait qu’augmenter.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/16/sur-le-terrain-c-est-la-catastrophe-a-bunia-en-rdc-face-a-une-epidemie-d-ebola-hors-de-controle_6703493_3212.html",
+      "image": "https://img.lemde.fr/2026/06/15/498/0/5976/2988/644/322/60/0/6e3ea54_upload-1-pfvll8fztrfg-16-pb-lemonde-ebola-bunia-rwampara-ituri-rdc.jpg",
+      "date": "2026-06-16T07:02:10+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -53,11 +83,11 @@
       "type": "science"
     },
     {
-      "title": "Comment fonctionnent les médicaments antiobésité comme le Wegogy et le Mounjaro ? Comprendre en trois minutes",
+      "title": "Comment fonctionnent les médicaments antiobésité comme le Wegovy et le Mounjaro ? Comprendre en trois minutes",
       "desc": "Les médicaments antiobésité Wegovy et Mounjaro sont pris en charge à 65 % par l’Assurance-maladie pour certains patients à partir de lundi 15 juin.",
       "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/06/15/comment-fonctionnent-les-medicaments-antiobesite-comme-le-wegogy-et-le-mounjaro-comprendre-en-trois-minutes_6408013_6176283.html",
       "image": "https://img.lemde.fr/2024/11/20/30/0/960/480/644/322/60/0/78a0def_1732118711541-comp-tile-horizon0.jpg",
-      "date": "2026-06-15T13:37:22+00:00",
+      "date": "2026-06-15T13:37:19+00:00",
       "date_formatted": "15 June 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -193,16 +223,6 @@
       "type": "science"
     },
     {
-      "title": "Contre Ebola, la politique sanitaire américaine sème la colère en Afrique",
-      "desc": "Alors que la Coupe du monde de football vient de s'ouvrir aux États-Unis, la stratégie américaine de lutte contre le virus Ebola fait l'objet de nombreuses critiques. Notamment au Kenya.",
-      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/contre-ebola-la-politique-sanitaire-americaine-seme-la-colere-en-afrique_8036519.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/GofgEH7BJ27evEiS8JTqbVNSjzY/0x261:5000x3073/432x243/filters:format(jpg)/2026/06/13/6a2d26bab8d2f232088264.jpg",
-      "date": "2026-06-13T17:25:01+00:00",
-      "date_formatted": "13 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Epidémie d’Ebola : Comment la désinformation complique la lutte contre la maladie en RDC",
       "desc": "En ligne mais aussi dans les villages, certains invoquent la sorcellerie pour expliquer ces morts, quand d’autres sont persuadés que la maladie serait inventée de toutes pièces par le gouvernement",
       "url": "https://www.20minutes.fr/high-tech/by-the-web/4228884-20260613-epidemie-ebola-comment-desinformation-complique-lutte-contre-maladie-rdc?at_medium=display&at_campaign=149",
@@ -223,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "Pourquoi devient-on un bec sucré en vieillissant ?",
-      "desc": "Avec l'âge, le goût évolue sous l'effet de la baisse de l'odorat, du renouvellement des papilles et de l'adaptation du cerveau. Résultat : les saveurs sucrées ont davantage de goût, sans répondre pour autant à un besoin du corps.",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/pourquoi-devient-on-un-bec-sucre-en-vieillissant_8036582.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/nw9322TTrtJIMOZEmMf89553-R8/0x111:2119x1303/432x243/filters:format(jpg)/2026/06/10/6a29497e29881976962722.jpg",
-      "date": "2026-06-13T10:00:04+00:00",
-      "date_formatted": "13 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Après 25 ans de recherche, voici la thérapie prometteuse qui suscite l'espoir des chercheurs sur Parkinson",
       "desc": "Une avancée médicale spectaculaire redonne espoir aux patients atteints de Parkinson. Des greffes de cellules souches dans le cerveau montrent des résultats prometteurs, avec une amélioration durable des symptômes moteurs chez les premiers patients traités. Cette thérapie cellulaire, après...",
       "url": "https://www.futura-sciences.com/sante/actualites/parkinson-apres-25-ans-recherche-voici-therapie-prometteuse-suscite-espoir-chercheurs-parkinson-w2t8-135127/#xtor%3DRSS-8",
@@ -250,16 +260,6 @@
       "date": "2026-06-13T06:17:36+00:00",
       "date_formatted": "13 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : les rongeurs capturés dans la province de Mendoza n'appartiennent pas à l'espèce potentiellement porteuse de la souche",
-      "desc": "La province de Mendoza n'a pas de circulation avérée de la souche \"Andes\" de l'hantavirus impliquée sur le \"MV Hondius\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-les-rongeurs-captures-dans-la-province-de-mendoza-n-appartiennent-pas-a-l-espece-potentiellement-porteuse-de-la-souche_8058293.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/NPDYrMbu4nshZP-OxcZA6GUNqT8/0x0:2756x1550/432x243/filters:format(jpg)/2026/06/12/6a2c7491c6bc4861636392.jpg",
-      "date": "2026-06-12T23:08:45+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -341,16 +341,6 @@
       "date_formatted": "10 June 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Ebola : ce que l’on sait de la nouvelle épidémie qui frappe l’Afrique centrale",
-      "desc": "La flambée qui touche la République démocratique du Congo et l’Ouganda est déjà l’une des plus importantes jamais enregistrées. Malgré d’importantes avancées médicales ces dernières années, le virus Ebola reste particulièrement difficile à contenir.",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/06/10/ebola-ce-que-l-on-sait-de-la-nouvelle-epidemie-qui-frappe-l-afrique-centrale_6700480_4355770.html",
-      "image": "https://img.lemde.fr/2026/06/09/297/0/3600/1800/644/322/60/0/fa221c3_ftp-1-lg5gj6xdjerw-5266104-01-06.jpg",
-      "date": "2026-06-10T15:30:08+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
