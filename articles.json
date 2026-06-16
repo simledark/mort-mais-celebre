@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-06-16T16:18:46.548017+00:00",
-  "count": 51,
+  "generated_at": "2026-06-16T20:34:21.134703+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "Découverte inédite d’un cas de transmission de la bactérie de la dermatophilose entre êtres humains",
+      "desc": "Dans son numéro de juin, la revue scientifique «Emerging Infectious Diseases» révèle que des médecins français ont constaté de premiers échanges interhumains de la maladie qui viendraient de contacts peau contre peau.",
+      "url": "https://www.liberation.fr/societe/sante/decouverte-inedite-dun-cas-de-transmission-de-la-bacterie-de-la-dermatophilose-entre-etres-humains-20260616_4MVGPRPU25DFRND3Q7L3NMQ2GQ/",
+      "image": null,
+      "date": "2026-06-16T17:59:09+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : après un premier signalement ignoré, une adolescente formule de nouvelles accusations contre Jérôme B.",
+      "desc": "En mars, moins de trois mois avant la mort de la collégienne à Fleurance, l’Aide Sociale à l’Enfance (ASE) avait alerté la justice après de graves accusations portées par une ado placée en foyer. Un signalement sans conséquence pour le principal suspect. Elle devrait porter plainte, selon son avocat",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-apres-un-premier-signalement-ignore-une-adolescente-formule-de-nouvelles-accusations-contre-jerome-b-20260616_IET2U2VLOBA3PFQFYEF4S7YVA4/",
+      "image": null,
+      "date": "2026-06-16T17:12:21+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Mexique : De la tequila frelatée était vendue sur les réseaux sociaux, cinq morts après une fête d’anniversaire",
       "desc": "Des informations sur les numéros de lot et la date de péremption auraient été masquées ou altérées, laissant penser que les contenants avaient été déjà utilisés",
@@ -188,16 +208,6 @@
       "url": "https://www.franceinfo.fr/sante/un-mois-pour-une-premiere-prescription-et-deux-mois-pour-une-prolongation-des-arrets-maladie-plus-courts-a-partir-de-la-rentree_8060105.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/TOStonipDMMzjc6y7dKQ5XiUy4o/0x90:1612x997/432x243/filters:format(jpg)/2026/06/14/6a2e96a079f30810187289.png",
       "date": "2026-06-14T14:18:38+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Le soleil, lorsqu'on en abuse, peut provoquer des dommages\", alerte une dermatologue sur la prévention des coups de soleil",
-      "desc": "À l'approche de l'été, il est indispensable d'adopter les bons réflexes face au soleil. Type de peau, âge, crème solaire, \"capital soleil\" ou risques des tendances virales : le professeur Tu Anh Duong, dermatologue à l'hôpital Ambroise-Paré, répond aux principales questions pour éviter les coups de ",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/le-soleil-lorsqu-on-en-abuse-peut-provoquer-des-dommages-alerte-une-dermatologue-sur-la-prevention-des-coups-de-soleil_8020736.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/b5obEzNN4jZCdwIgkMCQEvF64s0/0x316:6016x3700/432x243/filters:format(jpg)/2026/06/12/6a2bdd28579ab642753463.jpg",
-      "date": "2026-06-14T10:00:02+00:00",
       "date_formatted": "14 June 2026",
       "source": "France Info Santé",
       "type": "presse"
