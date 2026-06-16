@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-06-16T10:49:42.049713+00:00",
-  "count": 53,
+  "generated_at": "2026-06-16T16:18:46.548017+00:00",
+  "count": 51,
   "articles": [
     {
-      "title": "L'épidémie d'Ebola pourrait durer un an en République démocratique du Congo, selon la Croix-Rouge",
-      "desc": "L'ONG a estimé mardi que le pic d'Ebola n'a pas encore été atteint en RDC. La veille, Médecins sans frontières s'est inquiété \"dangereuses lacunes\" dans la réponse sanitaire à Ebola dans le pays.",
+      "title": "Mexique : De la tequila frelatée était vendue sur les réseaux sociaux, cinq morts après une fête d’anniversaire",
+      "desc": "Des informations sur les numéros de lot et la date de péremption auraient été masquées ou altérées, laissant penser que les contenants avaient été déjà utilisés",
+      "url": "https://www.20minutes.fr/monde/4229414-20260616-mexique-tequila-frelatee-vendue-reseaux-sociaux-cinq-morts-apres-fete-anniversaire?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/HrWOnJJPT-2eunGbfysTmyk/1200x768_l-alcool-avait-ete-achete-pour-etre-consomme-pendant-une-fete-de-mariage",
+      "date": "2026-06-16T13:42:39+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L'épidémie d'Ebola en République démocratique du Congo pourrait durer un an, selon la Croix-Rouge",
+      "desc": "L'ONG a estimé mardi que le pic de contaminations n'a pas encore été atteint. La veille, Médecins sans frontières s'est inquiété \"dangereuses lacunes\" dans la réponse sanitaire à Ebola dans le pays.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-pourrait-durer-un-an-en-republique-democratique-du-congo-selon-la-croix-rouge_8063234.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zQuuafpFD9IZHozILvw5E16vulQ/0x52:1024x628/432x243/filters:format(jpg)/2026/06/16/6a311bc166304883843545.jpg",
-      "date": "2026-06-16T11:48:53+00:00",
+      "image": "https://www.franceinfo.fr/pictures/oWq-sDWndrbl6OpcaNpF5lAnbfQ/0x66:1024x642/432x243/filters:format(jpg)/2026/06/16/6a311bc166304883843545.jpg",
+      "date": "2026-06-16T13:39:37+00:00",
       "date_formatted": "16 June 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’acteur Bruce Willis va bien malgré une maladie « méchante », assure son épouse Emma Heming-Willis",
+      "desc": "Au micro de Marc-Olivier Fogiel, l’épouse de l’acteur Bruce Willis a donné des nouvelles de son mari et a évoqué son rôle d’aidante",
+      "url": "https://www.20minutes.fr/arts-stars/people/4229385-20260616-acteur-bruce-willis-va-bien-malgre-maladie-mechante-assure-epouse-emma-heming-willis?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/iTOKi_qQR5GwVN7iASz1dCk/1200x768_bruce-willis-au-festival-de-cannes",
+      "date": "2026-06-16T12:02:36+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -23,28 +43,18 @@
       "type": "presse"
     },
     {
-      "title": "Entre le droit à l’aide à mourir, l’urgence agricole et la protection de l’enfance, les députés vont avoir du boulot cet été",
-      "desc": "Un décret publié ce mardi 16 juin convoque le Parlement en session extraordinaire, potentiellement jusqu’à la semaine du 20 juillet. Et le menu s’annonce copieux.",
-      "url": "https://www.liberation.fr/politique/entre-le-droit-a-laide-a-mourir-lurgence-agricole-et-la-protection-de-lenfance-les-deputes-vont-avoir-du-boulot-cet-ete-20260616_M4MECKX2KFCXPGPYNAV7V5QIVU/",
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
       "image": null,
-      "date": "2026-06-16T09:41:11+00:00",
+      "date": "2026-06-16T08:00:46+00:00",
       "date_formatted": "16 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Procès en appel de Gaël Perdriau : l’avocat général meurt après avoir chuté du sixième étage d’un immeuble",
-      "desc": "Le corps du haut magistrat a été découvert en bas de son domicile grenoblois, dans la nuit de dimanche à lundi 15 juin. Une enquête, confirmée par «le Dauphiné Libéré», a été ouverte par la police locale, qui privilégie l’hypothèse du suicide.",
-      "url": "https://www.liberation.fr/societe/police-justice/proces-en-appel-de-gael-perdriau-lavocat-general-meurt-apres-avoir-chute-du-sixieme-etage-dun-immeuble-20260616_ERHTEUIXG5BTPIZNANO24QCZUI/",
-      "image": null,
-      "date": "2026-06-16T09:29:09+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "« Sur le terrain, c’est la catastrophe » : à Bunia, en RDC, face à une épidémie d’Ebola hors de contrôle",
-      "desc": "Un mois après la déclaration officielle de l’épidémie par les autorités congolaises, la réponse sanitaire ne parvient pas à limiter la propagation du virus, et le nombre de victimes ne fait qu’augmenter.",
+      "desc": "Un mois après la déclaration officielle de l’épidémie par les autorités congolaises, le virus continue de se propager et le nombre de victimes ne fait qu’augmenter.",
       "url": "https://www.lemonde.fr/afrique/article/2026/06/16/sur-le-terrain-c-est-la-catastrophe-a-bunia-en-rdc-face-a-une-epidemie-d-ebola-hors-de-controle_6703493_3212.html",
       "image": "https://img.lemde.fr/2026/06/15/498/0/5976/2988/644/322/60/0/6e3ea54_upload-1-pfvll8fztrfg-16-pb-lemonde-ebola-bunia-rwampara-ituri-rdc.jpg",
       "date": "2026-06-16T07:02:10+00:00",
@@ -363,26 +373,6 @@
       "type": "science"
     },
     {
-      "title": "Tryptamine : Sept dérivés synthétiques de cette substance hallucinogène seront bientôt interdits",
-      "desc": "Ces dérivés de la Trytamine provoque des effets indésirables graves et potentiellement mortels",
-      "url": "https://www.20minutes.fr/sante/4228154-20260609-tryptamine-sept-derives-synthetiques-substance-hallucinogene-bientot-interdits?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Zr7sTGKBQW-tLVZx0pGjfCk/1200x768_tryptamines-dmt-dpt-classe-d-hallucinogenes-produisant-des-effets-psychedeliques-intenses-souvent-de-courte-duree-photo-de-wvladimir-bulgar-science-photo-li-wbu-bibliotheque-de-photos-scientifiques-via-afp",
-      "date": "2026-06-09T18:23:28+00:00",
-      "date_formatted": "9 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les dépassements d’honoraires des médecins dans le collimateur de la Sécu",
-      "desc": "Le haut conseil pour l’avenir de l’Assurance maladie propose des scénarios pour enrayer la hausse jugée « non soutenable » des dépassements d’honoraires des médecins spécialistes",
-      "url": "https://www.20minutes.fr/economie/4228026-20260609-depassements-honoraires-medecins-collimateur-secu?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/FDZ6XrGdR2K8tDgiafoIWSk/1200x768_le-medecin-victime-des-menaces-d-un-de-ses-patients-a-depose-plainte-au-commissariat-pour-violence-et-menace-le-mis-en-cause-a-ete-interpelle-mardi-et-place-en-garde-a-vue",
-      "date": "2026-06-09T09:56:14+00:00",
-      "date_formatted": "9 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
       "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
       "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
@@ -518,16 +508,6 @@
       "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
       "image": null,
       "date": "2026-04-21T08:00:54+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
-      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
-      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
-      "image": null,
-      "date": "2026-04-21T00:00:17+00:00",
       "date_formatted": "21 April 2026",
       "source": "Inserm",
       "type": "science"
