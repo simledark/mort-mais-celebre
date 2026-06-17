@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-06-17T14:46:13.725642+00:00",
-  "count": 49,
+  "generated_at": "2026-06-17T19:55:40.745343+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Eric Roy est mort et avec lui une certaine idée du football",
+      "desc": "Hommage du plus Brestois des rédacteurs de «Libération» à l’entraîneur qui avait su donner une fierté à la cité portuaire en qualifiant son club pour la Ligue des champions avec peu de moyens mais des principes.",
+      "url": "https://www.liberation.fr/societe/eric-roy-est-mort-et-avec-lui-une-certaine-idee-du-football-20260617_R3SQOGL2W5DNBGC3LJP3GUQ7KE/",
+      "image": null,
+      "date": "2026-06-17T19:47:24+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : pourquoi le Conseil constitutionnel ferme la porte à un référendum",
+      "desc": "Le sénateur LR Francis Szpiner, opposant à la loi sur l’aide à mourir, estimait possible de passer par la voie référendaire. Le Conseil constitutionnel lui a opposé une fin de non-recevoir, jugeant que sa proposition de loi n’entrait pas dans le champ des possibilités de référendum d’initiative part",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/17/fin-de-vie-pourquoi-le-conseil-constitutionnel-ferme-la-porte-a-un-referendum_6704276_3224.html",
+      "image": "https://img.lemde.fr/2025/08/06/456/0/5568/2784/644/322/60/0/3cf5d57_upload-1-qqyp52r5d1ws-000-34ge3dl.jpg",
+      "date": "2026-06-17T18:31:19+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de l’entraîneur Eric Roy, débonnaire de Brest",
+      "desc": "Le monde du foot français pleure, ce mercredi 17 juin, l’entraîneur qui avait mené le club breton jusqu’à la Ligue des champions. Un cancer du pancréas l’a emporté à l’âge de 58 ans.",
+      "url": "https://www.liberation.fr/sports/football/mort-de-lentraineur-eric-roy-debonnaire-de-brest-20260617_3XYK5WAIS5B6TBSV77ZNZS677U/",
+      "image": null,
+      "date": "2026-06-17T18:25:49+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "-30 % de maladies cardiovasculaires : voici le régime que des experts de Harvard recommandent vraiment",
+      "desc": "Manger mieux sans rien sacrifier, c'est la promesse tenue du régime méditerranéen. Des études rigoureuses menées sur des dizaines de milliers de personnes le confirment : ce mode alimentaire réduit concrètement le risque de maladies graves. Alors, pourquoi tant de gens ignorent encore ses...",
+      "url": "https://www.futura-sciences.com/sante/actualites/nutrition-30-maladies-cardiovasculaires-voici-regime-experts-harvard-recommandent-vraiment-k2m6-135270/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/e/c/6ecb23fb49_50256498_regime-alimentaire-mediterraneen.jpg",
+      "date": "2026-06-17T18:00:00+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Violences dans le périscolaire : «Paris n’est que la partie émergée de l’iceberg»",
+      "desc": "Désignée mercredi rapporteure de la mission d’information sénatoriale sur la prévention et le traitement des violences dans le périscolaire, la sénatrice LR de Paris Agnès Evren a six mois pour dresser un état des lieux national de cet angle mort de l’école. Elle plaide pour «un sursaut collectif».",
+      "url": "https://www.liberation.fr/societe/violences-dans-le-periscolaire-paris-nest-que-la-partie-emergee-de-liceberg-20260617_GLQFW22H25ANFMIRU52XPRHM74/",
+      "image": null,
+      "date": "2026-06-17T17:54:35+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "À Palerme, l'art ancestral des fruits en trompe-l'œil résiste au temps",
+      "desc": "Ces fruits plus vrais que nature fascinent les gourmands du monde entier. Derrière cette tendance virale des pâtisseries en trompe-l'œil se cache pourtant une tradition sicilienne séculaire : la Frutta di Martorana, un savoir-faire hérité des couvents de Palerme depuis le Moyen Âge.",
+      "url": "https://www.franceinfo.fr/decouverte/a-palerme-l-art-ancestral-des-fruits-en-trompe-l-il-resiste-au-temps_8066144.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/4fAr-YjJTQJATk_K2MyDV3QtMlI/0x17:833x486/432x243/filters:format(jpg)/2026/06/17/6a32bd229eaa6993401097.jpg",
+      "date": "2026-06-17T17:29:13+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Peste : ces tombes révèlent une épidémie plus ancienne et plus terrible qu’imaginé",
+      "desc": "Bien avant les grandes pandémies médiévales, la peste frappait déjà les populations humaines. En Sibérie, des chercheurs ont identifié la plus ancienne infection connue à Yersinia pestis, vieille de 5 500 ans. Une découverte qui suggère que cette maladie pouvait déjà provoquer des épidémies...",
+      "url": "https://www.futura-sciences.com/sante/actualites/peste-noire-peste-ces-tombes-revelent-epidemie-plus-ancienne-plus-terrible-quimagine-135387/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/b/2/0b2a227584_50256759_peste-prehistorique-siberie.jpg",
+      "date": "2026-06-17T17:08:25+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "C’est quoi les NGT, cette nouvelle génération d’OGM approuvée par le Parlement européen ?",
+      "desc": "Le Parlement européen a autorisé les nouvelles techniques génomiques (NGT) dans l’agriculture, qui permettent de modifier le génome d’une plante sans introduire d’ADN étranger, pour créer des variétés plus résistantes à la sécheresse ou aux maladies",
+      "url": "https://www.20minutes.fr/sante/4229653-20260617-quoi-ngt-nouvelle-generation-ogm-approuvee-parlement-europeen?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/FAP31mDQRkSvVbNYYnpajik/1200x768_les-membres-du-parlement-europeen-votent-sur-les-plantes-obtenues-par-certaines-nouvelles-techniques-genomiques-et-leurs-denrees-alimentaires-et-aliments-pour-animaux-au-parlement-europeen-a-strasbourg-dans-l-est-de-la-france-le-17-juin-2026-photo-de-sebastien-bozon-afp",
+      "date": "2026-06-17T15:57:48+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une esthéticienne condamnée à quatre ans de prison pour une injection mortelle de silicone à un sosie de Kim Kardashian",
+      "desc": "Une esthéticienne américaine a été condamnée à quatre ans de prison pour homicide involontaire après la mort d’une de ses clientes",
+      "url": "https://www.20minutes.fr/faits_divers/4229662-20260617-estheticienne-condamnee-quatre-ans-prison-injection-mortelle-silicone-sosie-kim-kardashian?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/X9iPGntyQbeRqVpUzfw4gCk/1200x768_christina-gourkani-etait-connue-sur-les-reseaux-sociaux-comme-le-sosie-de-kim-kardashian",
+      "date": "2026-06-17T15:42:36+00:00",
+      "date_formatted": "17 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "OGM : une nouvelle génération d’organismes génétiquement modifiés, non transgéniques, autorisée par le Parlement européen",
       "desc": "Les nouvelles techniques génomiques modifient le génome des plantes sans introduction d’ADN étranger. Les eurodéputés ont donné leur ultime aval pour leur autorisation, mercredi, en rejetant tous les amendements qui auraient relancé les négociations sur ce texte.",
@@ -13,16 +103,6 @@
       "type": "science"
     },
     {
-      "title": "L’Unédic appelle à l’Etat à arrêter de ponctionner dans ses caisses",
-      "desc": "En 2026 – comme en 2024 et 2025 dans des proportions similaires – l’organisme en charge de l’assurance maladie a vu l’Etat piocher dans ses caisses pour un montant de 4,1 milliards d’euros. Avec cette dernière ponction, ses pertes vont s’élever cette année à 2,3 milliards d’euros.",
-      "url": "https://www.liberation.fr/economie/social/lunedic-appelle-a-labandon-du-tout-nouveau-prelevement-de-letat-20260617_NNYKBWXLMFGL3NUBFHRBKS376M/",
-      "image": null,
-      "date": "2026-06-17T13:49:49+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Le Parlement européen autorise l'introduction dans l'agriculture de \"nouvelles techniques génomiques\", une nouvelle génération d'OGM",
       "desc": "Contrairement aux organismes génétiquement modifiés de première génération, les \"nouvelles techniques génomiques\" n'impliquent pas d'introduire un ADN étranger dans une plante.",
       "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-parlement-europeen-autorise-l-introduction-dans-l-agriculture-de-nouvelles-techniques-genomiques-une-nouvelle-generation-d-ogm_8065865.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -30,36 +110,6 @@
       "date": "2026-06-17T13:39:31+00:00",
       "date_formatted": "17 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort à 87 ans de Carlo Ginzburg, pape italien de la microhistoire",
-      "desc": "Traduit dans de nombreuses langues, l’ancien professeur de Bologne, Yale ou Harvard s’est toujours attaché à privilégier les cas spécifiques et à laisser dans ses recherches une place au hasard.",
-      "url": "https://www.liberation.fr/sciences/histoire/mort-a-87-ans-de-carlo-ginzburg-pape-italien-de-la-microhistoire-20260617_75RDID5Q5JCQXNXX7ETMQ4GKQ4/",
-      "image": null,
-      "date": "2026-06-17T13:00:56+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Déclaration du G7 sur Ebola : «Une gigantesque hypocrisie» selon des humanitaires",
-      "desc": "Dans un communiqué, les dirigeants réunis à Evian se sont engagés à lutter contre la propagation du virus qui a ressurgi en RDC. Mais certaines ONG déplorent le retard et les faux-semblants de cet engagement tardif.",
-      "url": "https://www.liberation.fr/international/afrique/declaration-du-g7-sur-ebola-une-gigantesque-hypocrisie-selon-des-humanitaires-20260617_FGBTPQULSZGTJEU463FK2GV3TA/",
-      "image": null,
-      "date": "2026-06-17T12:22:53+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Atteinte d’une maladie incurable, la princesse héritière de Norvège subit une double transplantation des poumons",
-      "desc": "«Réussie» selon ses médecins, l’intervention relevait de l’opération de la dernière chance pour Mette-Marit, qui souffre de fibrose pulmonaire. Une rare bonne nouvelle pour la couronne, embourbée dans un procès pour viols et des révélations embarrassantes dans l’affaire Epstein.",
-      "url": "https://www.liberation.fr/international/europe/atteinte-dune-maladie-incurable-la-princesse-heritiere-de-norvege-subit-une-double-transplantation-des-poumons-20260617_67ZWL3FL6BB7TNS456OVBKROUM/",
-      "image": null,
-      "date": "2026-06-17T11:04:01+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -320,16 +370,6 @@
       "date": "2026-06-12T11:41:48+00:00",
       "date_formatted": "12 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Lionel Collet, président de la Haute Autorité de santé, dénonce des pressions dans « des proportions jamais vues » de l’industrie pharmaceutique",
-      "desc": "Les tentatives d’influence de certaines entreprises du médicament en vue d’obtenir le remboursement de leurs traitements par l’Assurance-maladie se multiplient auprès de l’institution, « avec une accélération très nette depuis la fin de l’année 2025 », signale au « Monde » son dirigeant.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/12/lionel-collet-president-de-la-haute-autorite-de-sante-denonce-des-pressions-dans-des-proportions-jamais-vues-de-l-industrie-pharmaceutique_6701053_3234.html",
-      "image": "https://img.lemde.fr/2026/06/11/6/0/5247/2623/644/322/60/0/40d2190_upload-1-aoqnezlccpdi-rea11772478.jpg",
-      "date": "2026-06-12T06:30:07+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
