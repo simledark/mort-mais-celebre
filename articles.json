@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-18T14:40:29.697247+00:00",
-  "count": 49,
+  "generated_at": "2026-06-18T20:06:33.854054+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Affaire Lyhanna : l’autopsie révèle que l’enfant a été victime d’un viol",
+      "desc": "Selon BFMTV, le profil biologique de Jérôme B. a été retrouvé sur le corps de l’enfant de 11 ans, retrouvée morte à Puycasquier dans le Gers.",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-lautopsie-revele-que-lenfant-a-ete-victime-dun-viol-20260618_FSNPZUAFHFG7BKEWTON2HLNEFI/",
+      "image": null,
+      "date": "2026-06-18T19:54:20+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "C’est quoi ces virus mangeurs de bactéries que le CHU de Lyon va produire pour la première fois en France et dans l’UE ?",
+      "desc": "Les Hospices civils de Lyon vont pouvoir produire leurs propres bactériophages, des virus capables de détruire les bactéries résistantes aux antibiotiques",
+      "url": "https://www.20minutes.fr/sante/4229927-20260618-quoi-virus-mangeurs-bacteries-chu-lyon-va-produire-premiere-fois-france-ue?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/DN2fWYY1QXyILG6PtTpnayk/1200x768_a-nantes-en-janvier-2017-illustration-des-egouts",
+      "date": "2026-06-18T18:52:20+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Voici les aliments qu'un cardiologue conseille de réduire pour préserver son taux de cholestérol",
+      "desc": "Le cholestérol tue encore trop silencieusement en France, où les maladies cardiovasculaires restent la deuxième cause de mortalité. Pourtant, l'alimentation reste le levier le plus immédiat pour agir. Un cardiologue américain a récemment pointé trois aliments du quotidien qui sabotent nos...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cholesterol-voici-aliments-quun-cardiologue-conseille-reduire-preserver-son-taux-cholesterol-k2m6-135284/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/6/3/963b6a39af_50256521_cholesterol-alimentation.jpg",
+      "date": "2026-06-18T18:00:00+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Erreur d’embryon lors d’une FIV : un couple américain, dont la fille n’est pas génétiquement la leur, a fini par obtenir sa garde",
+      "desc": "Tiffany Score et Steven Mills, victimes d’une erreur dans leur parcours de FIV en Floride, vont pouvoir garder le nourrisson après avoir porté plainte et conclu un accord de garde avec les parents biologiques de l’enfant.",
+      "url": "https://www.liberation.fr/international/amerique/erreur-dembryon-lors-dune-fiv-un-couple-americain-dont-la-fille-nest-pas-genetiquement-la-leur-a-fini-par-obtenir-sa-garde-20260618_HOTQHOPFYNCNDGM2SFICFLJFRA/",
+      "image": null,
+      "date": "2026-06-18T16:58:58+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Epidémie d’Ebola : un mois après le début, le bilan dépasse les 200 morts en RDC, avec un taux de mortalité de 23 %",
+      "desc": "Les tests en laboratoire ont confirmé que le virus avait contaminé 875 personnes en RDC depuis le 15 mai. L’épidémie actuelle est provoquée par l’espèce Bundibugyo du virus, contre laquelle il n’existe ni vaccin ni traitement spécifique.",
+      "url": "https://www.lemonde.fr/sante/article/2026/06/18/un-mois-apres-le-debut-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-le-bilan-depasse-200-morts_6704568_1651302.html",
+      "image": "https://img.lemde.fr/2026/06/15/404/0/5976/2988/644/322/60/0/adf4b74_upload-1-fbccjahce40x-19-pb-lemonde-ebola-bunia-rwampara-ituri-rdc.jpg",
+      "date": "2026-06-18T16:51:51+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Brûlures d’estomac : des chercheurs explorent une piste inattendue pour protéger l’œsophage",
       "desc": "Un reflux gastro-œsophagien mal contrôlé peut, à long terme, favoriser l’apparition d’un cancer de l’œsophage. Mais des chercheurs américains viennent de mettre en lumière une approche aussi surprenante que prometteuse : l’utilisation de probiotiques pour limiter l’inflammation, réparer les...",
@@ -220,16 +270,6 @@
       "date": "2026-06-16T07:02:10+00:00",
       "date_formatted": "16 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "« Si besoin », le nouveau podcast de Nicolas Demorand : continuer à mettre en lumière de la maladie mentale",
-      "desc": "Nicolas Demorand, sort le premier épisode de son podcast « Si besoin ». Il y raconte son internement forcé en hôpital psychiatrique à cause de sa bipolarité",
-      "url": "https://www.20minutes.fr/arts-stars/medias/4229171-20260615-si-besoin-nouveau-podcast-nicolas-demorand-continuer-mettre-lumiere-maladie-mentale?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Pd9rr16oST-49bjoKmEo-Ck/1200x768_le-journaliste-francais-nicolas-demorand-pose-lors-d-une-conference-de-presse-tenue-au-debut-de-la-saison-2017-2018-au-siege-de-la-radio-de-service-public-francais-radio-france-a-la-maison-de-la-radio-a-paris-le-30-aout-2017",
-      "date": "2026-06-15T16:33:31+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
