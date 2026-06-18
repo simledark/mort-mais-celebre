@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-06-18T10:01:52.317040+00:00",
-  "count": 48,
+  "generated_at": "2026-06-18T14:40:29.697247+00:00",
+  "count": 49,
   "articles": [
+    {
+      "title": "Brûlures d’estomac : des chercheurs explorent une piste inattendue pour protéger l’œsophage",
+      "desc": "Un reflux gastro-œsophagien mal contrôlé peut, à long terme, favoriser l’apparition d’un cancer de l’œsophage. Mais des chercheurs américains viennent de mettre en lumière une approche aussi surprenante que prometteuse : l’utilisation de probiotiques pour limiter l’inflammation, réparer les...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-oesophage-brulures-estomac-chercheurs-explorent-piste-inattendue-proteger-oesophage-135366/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/8/4/b843534d80_50256645_reflux-gastrique.jpg",
+      "date": "2026-06-18T14:43:57+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "REPORTAGE. Au Yémen, les médecins à bout de souffle espèrent pouvoir envoyer des patients à l'étranger",
+      "desc": "Dans le pays en guerre depuis 2014, les moyens dérisoires du système de santé contraignent les patients atteints de lourdes pathologies à se soigner à l’étranger. Mais peu de pays acceptent de les accueillir et les places s’obtiennent au compte-gouttes.",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/reportage-au-yemen-les-medecins-a-bout-de-souffle-esperent-pouvoir-envoyer-des-patients-a-l-etranger_8061164.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/pqC1VIgmxdlDRcsWY-k7N0eLfKk/0x285:5472x3363/432x243/filters:format(jpg)/2026/06/15/6a2fd26ed094a650582398.jpg",
+      "date": "2026-06-18T14:39:44+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Quand la chaleur démasque une maladie génétique silencieuse",
       "desc": "Certaines pathologies d’origine génétique ne se manifestent cliniquement qu’en cas de changement de température, révélant une vulnérabilité cardiaque, musculaire ou neurologique jusqu’alors invisible.",
       "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/18/quand-la-chaleur-demasque-une-maladie-genetique-silencieuse_6704529_6579630.html",
       "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/d28cbd0_upload-1-q2f0mq8dgi9u-frame-52.jpg",
-      "date": "2026-06-18T11:36:13+00:00",
+      "date": "2026-06-18T11:36:12+00:00",
       "date_formatted": "18 June 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -290,16 +310,6 @@
       "date": "2026-06-14T14:34:29+00:00",
       "date_formatted": "14 June 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques",
-      "desc": "Les microplastiques. Ils sont partout. Et les scientifiques cherchent désormais à déterminer si cette omniprésence dans notre environnement pourrait nuire à notre santé. Ils rapportent aujourd’hui un lien avec plusieurs maladies chroniques comme l’hypertension, le diabète ou les accidents...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-diabete-hypertension-avc-voici-ce-quune-etude-americaine-revele-microplastiques-w2t8-135133/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/3/c/43c82ffc2e_50228737_microplastiques-sante-cardiovasculaire.jpg",
-      "date": "2026-06-14T09:00:00+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
