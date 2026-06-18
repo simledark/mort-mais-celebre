@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-06-18T02:29:16.539973+00:00",
-  "count": 52,
+  "generated_at": "2026-06-18T10:01:52.317040+00:00",
+  "count": 48,
   "articles": [
     {
-      "title": "Eric Roy est mort et avec lui une certaine idée du football",
-      "desc": "Hommage du plus Brestois des rédacteurs de «Libération» à l’entraîneur qui avait su donner une fierté à la cité portuaire en qualifiant son club pour la Ligue des champions avec peu de moyens mais des principes.",
-      "url": "https://www.liberation.fr/societe/eric-roy-est-mort-et-avec-lui-une-certaine-idee-du-football-20260617_R3SQOGL2W5DNBGC3LJP3GUQ7KE/",
-      "image": null,
-      "date": "2026-06-17T19:47:24+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Libération",
+      "title": "Quand la chaleur démasque une maladie génétique silencieuse",
+      "desc": "Certaines pathologies d’origine génétique ne se manifestent cliniquement qu’en cas de changement de température, révélant une vulnérabilité cardiaque, musculaire ou neurologique jusqu’alors invisible.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/18/quand-la-chaleur-demasque-une-maladie-genetique-silencieuse_6704529_6579630.html",
+      "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/d28cbd0_upload-1-q2f0mq8dgi9u-frame-52.jpg",
+      "date": "2026-06-18T11:36:13+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Chikungunya, dengue, Zika : plus de 210 cas importés dans l'Hexagone en un mois",
+      "desc": "Plus de 210 cas importés de chikungunya, dengue et Zika, trois arboviroses transmises par des moustiques tigres, ont été recensés en France hexagonale depuis début mai et le démarrage de la surveillance renforcée de cette famille de maladies virales, selon un bilan publié le 17 juin 2026 par Santé p",
+      "url": "https://www.sciencesetavenir.fr/sante/chikungunya-dengue-zika-plus-de-210-cas-importes-dans-l-hexagone-en-un-mois_193147?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/17/cover-r4x3w1200-6a32a68587685-ef14ede595c53ef287836a39be5619942898cf6f-jpg.jpg",
+      "date": "2026-06-18T09:21:34+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Une semaine d'eau froide suffirait à transformer vos cellules : voici ce que les chercheurs ont observé",
+      "desc": "Une plongée régulière dans l'eau froide pourrait transformer votre organisme au niveau cellulaire. Des chercheurs canadiens ont découvert que cette pratique déclenche des mécanismes de protection et de régénération essentiels. Comment quelques minutes de frisson quotidien pourraient-elles...",
+      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-semaine-eau-froide-suffirait-transformer-vos-cellules-voici-ce-chercheurs-ont-observe-w2t8-135141/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/8/5/585785e781_50256267_eau-froide-corps-humain.jpg",
+      "date": "2026-06-18T08:00:00+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "« Imaginez, vous avez tout le temps les mains mouillées »… L’influenceuse Zoé Tondut brise le tabou de l’hyperhidrose",
+      "desc": "Vague de chaleur ou non, certaines personnes transpirent en excès toute l’année… La créatrice de contenus Zoé Tondut (@Justezoe), aux 1,6 million d’abonnés sur YouTube, raconte sa vie avec cette maladie qui touche 3 % de la population mondiale",
+      "url": "https://www.20minutes.fr/sante/4229207-20260618-imaginez-tout-temps-mains-mouillees-influenceuse-zoe-tondut-brise-tabou-hyperhidrose?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/MLwl6SKAQUmtMqIkh94IHik/1200x768_zoe-tondut-alias-justezoe-sur-ses-reseaux-sociaux-ou-elle-cumule-4-millions-d-abonnes-parle-regulierement-de-l-hyperhidrose-dont-elle-est-atteinte-depuis-l-enfance-cette-maladie-qui-fait-transpirer-en-continu",
+      "date": "2026-06-18T05:02:39+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -23,16 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort de l’entraîneur Eric Roy, débonnaire de Brest",
-      "desc": "Le monde du foot français pleure, ce mercredi 17 juin, l’entraîneur qui avait mené le club breton jusqu’à la Ligue des champions. Un cancer du pancréas l’a emporté à l’âge de 58 ans.",
-      "url": "https://www.liberation.fr/sports/football/mort-de-lentraineur-eric-roy-debonnaire-de-brest-20260617_3XYK5WAIS5B6TBSV77ZNZS677U/",
-      "image": null,
-      "date": "2026-06-17T18:25:49+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "-30 % de maladies cardiovasculaires : voici le régime que des experts de Harvard recommandent vraiment",
       "desc": "Manger mieux sans rien sacrifier, c'est la promesse tenue du régime méditerranéen. Des études rigoureuses menées sur des dizaines de milliers de personnes le confirment : ce mode alimentaire réduit concrètement le risque de maladies graves. Alors, pourquoi tant de gens ignorent encore ses...",
       "url": "https://www.futura-sciences.com/sante/actualites/nutrition-30-maladies-cardiovasculaires-voici-regime-experts-harvard-recommandent-vraiment-k2m6-135270/#xtor%3DRSS-8",
@@ -41,16 +61,6 @@
       "date_formatted": "17 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Violences dans le périscolaire : «Paris n’est que la partie émergée de l’iceberg»",
-      "desc": "Désignée mercredi rapporteure de la mission d’information sénatoriale sur la prévention et le traitement des violences dans le périscolaire, la sénatrice LR de Paris Agnès Evren a six mois pour dresser un état des lieux national de cet angle mort de l’école. Elle plaide pour «un sursaut collectif».",
-      "url": "https://www.liberation.fr/societe/violences-dans-le-periscolaire-paris-nest-que-la-partie-emergee-de-liceberg-20260617_GLQFW22H25ANFMIRU52XPRHM74/",
-      "image": null,
-      "date": "2026-06-17T17:54:35+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "À Palerme, l'art ancestral des fruits en trompe-l'œil résiste au temps",
@@ -150,16 +160,6 @@
       "date": "2026-06-16T13:42:39+00:00",
       "date_formatted": "16 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'épidémie d'Ebola en République démocratique du Congo pourrait durer un an, selon la Croix-Rouge",
-      "desc": "L'ONG a estimé mardi que le pic de contaminations n'a pas encore été atteint. La veille, Médecins sans frontières s'est inquiété \"dangereuses lacunes\" dans la réponse sanitaire à Ebola dans le pays.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-pourrait-durer-un-an-en-republique-democratique-du-congo-selon-la-croix-rouge_8063234.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/oWq-sDWndrbl6OpcaNpF5lAnbfQ/0x66:1024x642/432x243/filters:format(jpg)/2026/06/16/6a311bc166304883843545.jpg",
-      "date": "2026-06-16T13:39:37+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -323,42 +323,12 @@
       "type": "science"
     },
     {
-      "title": "Epidémie d’Ebola : Comment la désinformation complique la lutte contre la maladie en RDC",
-      "desc": "En ligne mais aussi dans les villages, certains invoquent la sorcellerie pour expliquer ces morts, quand d’autres sont persuadés que la maladie serait inventée de toutes pièces par le gouvernement",
-      "url": "https://www.20minutes.fr/high-tech/by-the-web/4228884-20260613-epidemie-ebola-comment-desinformation-complique-lutte-contre-maladie-rdc?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/n9-wpdriSrGX8Oj08TK7Oik/1200x768_260605-goma-5-juin-2026-xinhua-le-personnel-medical-a-enfile-des-combinaisons-de-protection-a-goma-en-republique-democratique-du-congo-rdc-le-4-juin-2026-les-cas-confirmes-d-ebola-en-republique-democratique-du-congo-rdc-sont-passes-a-381-dont-63-deces-a-declare-jeudi-soir-le-ministre-de-la-sante-roger-kamba-le-ministre-a-indique-que-la-capacite-de-depistage-du-pays-s-etait-considerablement-amelioree-suite-a-l-arrivee-de-plus-de-4-000-kits-de-depistage-des-centres-africains-pour-le-controle-et-la-prevention-des-maladies-et-a-un-soutien-international-supplementaire-permettant-aux-autorites-sanitaires-de-tester-presque-tous-les-echantillons-recus-et-de-fournir-des-resultats-dans-les-24-heures-xinhua-xinhua-chine-nouvelle-xxjp-bee000367-20260605-pepfn0a001-credit-chine-nouvelle-sipa-2606051149",
-      "date": "2026-06-13T16:07:14+00:00",
-      "date_formatted": "13 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "La durée des arrêts de travail sera plafonnée à partir de septembre, selon un décret paru samedi",
       "desc": "Cette mesure a été décidée dans la loi de financement de la Sécurité sociale pour 2026. Jusqu’à présent, aucune durée maximale d’arrêt maladie n’était prévue, bien que des recommandations existent pour certaines pathologies.",
       "url": "https://www.lemonde.fr/emploi/article/2026/06/13/la-duree-des-arrets-de-travail-sera-plafonnee-a-partir-de-septembre-selon-un-decret-paru-samedi_6701704_1698637.html",
       "image": "https://img.lemde.fr/2026/06/08/250/0/3000/1500/644/322/60/0/47e7604_upload-1-hvoleqw5prym-frame-161.jpg",
       "date": "2026-06-13T12:59:51+00:00",
       "date_formatted": "13 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La prise en charge de la maladie rénale chronique jugée préoccupante par l’IGAS",
-      "desc": "Dans son rapport sur cette pathologie rendu public jeudi 11 juin, l’inspection générale des affaires sociales déplore un manque de prévention et un accès à la greffe insuffisant.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/12/la-prise-en-charge-de-la-maladie-renale-chronique-jugee-preoccupante-par-l-igas_6701155_1650684.html",
-      "image": "https://img.lemde.fr/2025/07/17/493/0/3000/1500/644/322/60/0/5071529_upload-1-wzjz910obsw0-frame-276.jpg",
-      "date": "2026-06-12T20:00:03+00:00",
-      "date_formatted": "12 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "VIH : la lutte contre la maladie est « mise en danger » par la chute de l’aide internationale, prévient l’ONU",
-      "desc": "Dans un nouveau rapport, l’Onusida liste plusieurs effets concrets et mesurables des coupes drastiques récentes de plusieurs pays dans l’aide internationale, notamment celles des Etats-Unis.",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/12/vih-la-lutte-contre-la-maladie-est-mise-en-danger-par-la-chute-de-l-aide-internationale-previent-l-onu_6701115_3244.html",
-      "image": "https://img.lemde.fr/2024/10/24/236/0/2047/1023/644/322/60/0/6b0f37c_1729758044083-8492c345-hiv-vih-particules-virus-ai-gei-nome-dei-fectueux-dvg-dip-tip.jpg",
-      "date": "2026-06-12T16:18:59+00:00",
-      "date_formatted": "12 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
@@ -419,16 +389,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/01/cover-r4x3w1200-6a1db78902dc6-005bddb0531d4f63fb6fc26cb72bed2d88a307a9-jpg.jpg",
       "date": "2026-06-02T08:14:40+00:00",
       "date_formatted": "2 June 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "La PrEP, outil de première ligne dans la prévention du Sida, encore trop peu connue",
-      "desc": "La PrEP, destinée à des personnes qui n'ont pas le VIH, est devenue cruciale dans la lutte contre l'épidémie de Sida. Problème : elle est encore peu connue et peu accessible pour les populations les plus vulnérables.",
-      "url": "https://www.sciencesetavenir.fr/sante/la-prep-outil-de-premiere-ligne-dans-la-prevention-du-sida-encore-trop-peu-connue_192834?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/01/cover-r4x3w1200-6a1d70bda5bc7-afp-20220414-f0356175-v1-highres-prepdrugsillustration.jpg",
-      "date": "2026-06-01T14:05:55+00:00",
-      "date_formatted": "1 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
