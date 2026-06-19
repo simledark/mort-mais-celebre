@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-06-19T02:45:59.727751+00:00",
+  "generated_at": "2026-06-19T10:08:51.646355+00:00",
   "count": 53,
   "articles": [
+    {
+      "title": "Des virus mangeurs de bactéries pour lutter contre l'antibiorésistance",
+      "desc": "Les Hospices civils de Lyon ont reçu l'autorisation de produire des phages thérapeutiques, dont l'action permet de détruire de l'intérieur des bactéries résistantes aux antibiotiques.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/des-virus-mangeurs-de-bacteries-pour-lutter-contre-l-antibioresistance_8068595.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/wBiRnB872vlY87Vkno0yIu52fa0/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/19/6a350c13682ed062937878.jpg",
+      "date": "2026-06-19T11:31:30+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Chien ou chat ? Voici lequel des deux est génétiquement le plus proche de l'humain selon les chercheurs",
+      "desc": "Un chien ou un chat partage-t-il davantage votre ADN ? La réponse de la science est contre-intuitive. Entre organisation chromosomique et maladies communes, les similitudes génétiques entre l'humain et ses animaux de compagnie réservent de vraies surprises. Et les enjeux dépassent largement la...",
+      "url": "https://www.futura-sciences.com/sante/actualites/adn-chien-chat-voici-lequel-deux-genetiquement-plus-proche-humain-selon-chercheurs-k2m6-135447/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/7/e/57e4d3d880_50256401_chat-chien-humain.jpg",
+      "date": "2026-06-19T10:00:00+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : après la mort de quatre soldats israéliens, «tout le Liban doit brûler», attaque Itamar Ben Gvir",
+      "desc": "L’armée israélienne a annoncé avoir frappé des cibles du Hezbollah dans l’est du Liban, après l’attaque qui a coûté la vie à quatre militaires.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-entre-liran-et-les-etats-unis-prevues-ce-vendredi-en-suisse-reportees-20260619_AK7HBQ55NBDWJC5IQ4TQXDG7P4/",
+      "image": null,
+      "date": "2026-06-19T09:50:30+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Nahel Merzouk : la Défenseure des droits demande que les policiers impliqués soient sanctionnés",
+      "desc": "L’autorité administrative indépendante a rendu publiques, ce vendredi 19 juin, les conclusions de son enquête sur la mort du jeune homme, tué en juin 2023 par un tir policier à Nanterre.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-de-nahel-merzouk-la-defenseure-des-droits-demande-que-les-policiers-impliques-soient-sanctionnes-20260619_E73I5ZF4JNDE7CUBY5UE7VJEUI/",
+      "image": null,
+      "date": "2026-06-19T09:16:14+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au Sénat, la droite ouvre les yeux sur les riches",
+      "desc": "Longtemps tabou pour la droite sénatoriale, un rapport du Sénat reconnaît les angles morts de l’Etat face aux grandes fortunes, et impose, dans le débat public, la question de la fiscalité des très hauts patrimoines.",
+      "url": "https://www.liberation.fr/politique/au-senat-la-droite-ouvre-les-yeux-sur-les-riches-20260619_VOL4KFVVO5DVFPVVFYITJ2FXQE/",
+      "image": null,
+      "date": "2026-06-19T09:03:39+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Usaid : « L’épidémie d’Ebola n’est pas une fatalité, mais la première facture d’un vide délibérément creusé »",
+      "desc": "En 2024, l’Agence américaine pour le développement international avait consacré 1,2 milliard de dollars à la République démocratique du Congo. Cette aide est tombée à 67 millions à la fin de 2025. Le retrait des Etats-Unis profite à la Chine, constate l’historien Mauro Campus, dans une tribune au « ",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/19/usaid-l-epidemie-d-ebola-n-est-pas-une-fatalite-mais-la-premiere-facture-d-un-vide-deliberement-creuse_6704910_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d0c592_upload-1-e72knwmvkkzu-frame-913.jpg",
+      "date": "2026-06-19T07:17:47+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "MV «Hondius» : la quarantaine levée pour presque tous les passagers du navire touché par l’hantavirus",
+      "desc": "Les quatre Français encore à l’hôpital seront libérés dimanche. Une cinquième passagère, tombée malade, reste hospitalisée en réanimation mais «va mieux», selon le directeur général de la Santé, Didier Lepelletier.",
+      "url": "https://www.liberation.fr/societe/sante/mv-hondius-la-quarantaine-levee-pour-presque-tous-les-passagers-du-navire-touche-par-lhantavirus-20260619_P55QRQ6KWBHRBJT3JPAGV3UAVI/",
+      "image": null,
+      "date": "2026-06-19T05:59:30+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers",
       "desc": "« Sans nouveau cas signalé ni décès rapporté depuis le 2 mai, la situation demeure stable », a par ailleurs fait savoir le directeur de l’Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus.",
@@ -20,16 +90,6 @@
       "date": "2026-06-18T23:31:39+00:00",
       "date_formatted": "18 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Affaire Lyhanna : l’autopsie révèle que l’enfant a été victime d’un viol",
-      "desc": "Selon BFMTV, le profil biologique de Jérôme B. a été retrouvé sur le corps de le petite fille de 11 ans, retrouvée morte le 4 juin à Puycasquier dans le Gers.",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-lautopsie-revele-que-lenfant-a-ete-victime-dun-viol-20260618_FSNPZUAFHFG7BKEWTON2HLNEFI/",
-      "image": null,
-      "date": "2026-06-18T20:39:14+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -113,16 +173,6 @@
       "type": "science"
     },
     {
-      "title": "« Imaginez, vous avez tout le temps les mains mouillées »… L’influenceuse Zoé Tondut brise le tabou de l’hyperhidrose",
-      "desc": "Vague de chaleur ou non, certaines personnes transpirent en excès toute l’année… La créatrice de contenus Zoé Tondut (@Justezoe), aux 1,6 million d’abonnés sur YouTube, raconte sa vie avec cette maladie qui touche 3 % de la population mondiale",
-      "url": "https://www.20minutes.fr/sante/4229207-20260618-imaginez-tout-temps-mains-mouillees-influenceuse-zoe-tondut-brise-tabou-hyperhidrose?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/MLwl6SKAQUmtMqIkh94IHik/1200x768_zoe-tondut-alias-justezoe-sur-ses-reseaux-sociaux-ou-elle-cumule-4-millions-d-abonnes-parle-regulierement-de-l-hyperhidrose-dont-elle-est-atteinte-depuis-l-enfance-cette-maladie-qui-fait-transpirer-en-continu",
-      "date": "2026-06-18T05:02:39+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Fin de vie : pourquoi le Conseil constitutionnel ferme la porte à un référendum",
       "desc": "Le sénateur LR Francis Szpiner, opposant à la loi sur l’aide à mourir, estimait possible de passer par la voie référendaire. Le Conseil constitutionnel lui a opposé une fin de non-recevoir, jugeant que sa proposition de loi n’entrait pas dans le champ des possibilités de référendum d’initiative part",
       "url": "https://www.lemonde.fr/societe/article/2026/06/17/fin-de-vie-pourquoi-le-conseil-constitutionnel-ferme-la-porte-a-un-referendum_6704276_3224.html",
@@ -191,16 +241,6 @@
       "date_formatted": "17 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Le Parlement européen autorise l'introduction dans l'agriculture de \"nouvelles techniques génomiques\", une nouvelle génération d'OGM",
-      "desc": "Contrairement aux organismes génétiquement modifiés de première génération, les \"nouvelles techniques génomiques\" n'impliquent pas d'introduire un ADN étranger dans une plante.",
-      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-parlement-europeen-autorise-l-introduction-dans-l-agriculture-de-nouvelles-techniques-genomiques-une-nouvelle-generation-d-ogm_8065865.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/el1wMiFPB8BvAQHHTxPtyQE5g-s/0x0:1024x576/432x243/filters:format(jpg)/2026/06/17/6a3282b71214a170183762.jpg",
-      "date": "2026-06-17T13:39:31+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Première transmission entre humains de la bactérie de la dermatophilose",
@@ -343,36 +383,6 @@
       "type": "presse"
     },
     {
-      "title": "Voici comment des chercheurs travaillent à reprogrammer nos cellules pour leur faire retrouver leur jeunesse",
-      "desc": "Des chercheurs viennent de franchir une étape que la biologie considérait encore récemment comme inaccessible : rajeunir de vraies cellules humaines. Non pas les remplacer mais pour les rajeunir. Cette avancée, qui a eu lieu il y a quelques mois, mérite qu'on s'y attarde sérieusement, tant ses...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-voici-chercheurs-travaillent-reprogrammer-nos-cellules-leur-faire-retrouver-leur-jeunesse-k2m6-135242/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/e/4/3e437c3d18_50256455_rajeunissement-cellulaire.jpg",
-      "date": "2026-06-14T18:00:00+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Les médicaments antiobésité Wegovy et Mounjaro seront remboursés en France à partir de lundi",
-      "desc": "Ils seront pris en charge à 65 % par l’Assurance-maladie pour les patients atteints d’obésité massive sans comorbidité ou d’obésité sévère avec comorbidité. Seuls les médecins spécialisés peuvent établir la première prescription.",
-      "url": "https://www.lemonde.fr/sante/article/2026/06/14/les-medicaments-antiobesite-wegovy-et-mounjaro-seront-rembourses-en-france-a-partir-de-lundi_6702600_1651302.html",
-      "image": "https://img.lemde.fr/2026/06/12/924/0/5541/2770/644/322/60/0/83fb518_ftp-1-opjyoyw7qhkk-5299804-01-06.jpg",
-      "date": "2026-06-14T14:34:29+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Les crottes d’écureuil, archives d’un passé vieux de 700 000 ans",
-      "desc": "Des plantes, des graines mais aussi des mammouths, des bisons, des chevaux… L’ADN retrouvé dans des fèces du rongeur préservées dans le permafrost canadien a fait apparaître un environnement d’une extrême richesse.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/14/les-crottes-d-ecureuil-archives-d-un-passe-vieux-de-700-000-ans_6702246_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/10/500/0/4000/2000/644/322/60/0/1330073_upload-1-lrcuphx00ork-fossil.jpg",
-      "date": "2026-06-14T06:00:24+00:00",
-      "date_formatted": "14 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cordes vocales : une thérapie inédite pour retrouver sa voix",
       "desc": "À l'hôpital de la Conception, à Marseille, une équipe d'ORL et de biologistes mène le premier essai au monde reposant sur une injection de cellules souches d'origine graisseuse réalisée directement au niveau des cordes vocales afin de leur permettre de retrouver leur souplesse originelle. Un espoir ",
       "url": "https://www.sciencesetavenir.fr/sante/orl/cordes-vocales-une-therapie-inedite-pour-retrouver-sa-voix_192630?xtor=RSS-16",
@@ -429,16 +439,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/03/cover-r4x3w1200-6a1ff498c519c-afp-20250306-f0439044-v1-highres-mpoxvirusparticlesillustration.jpg",
       "date": "2026-06-03T09:32:09+00:00",
       "date_formatted": "3 June 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Urgences : le temps de passage s'est-il allongé pour tous en dix ans ?",
-      "desc": "Les passages aux urgences sont-ils plus longs qu'il y a dix ans, que le malade soit ausculté une seule fois, examiné à l'aide de radiologie et biologie médicale, ou hospitalisé à la fin ? Réponse avec l'étude de la Drees publiée le 1er juin 2026.",
-      "url": "https://www.sciencesetavenir.fr/sante/urgences-le-temps-de-passage-s-est-ils-allonge-pour-tous-en-dix-ans_192843?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/01/cover-r4x3w1200-6a1db78902dc6-005bddb0531d4f63fb6fc26cb72bed2d88a307a9-jpg.jpg",
-      "date": "2026-06-02T08:14:40+00:00",
-      "date_formatted": "2 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
