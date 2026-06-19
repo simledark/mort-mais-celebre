@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-19T14:37:29.646606+00:00",
-  "count": 52,
+  "generated_at": "2026-06-19T19:22:33.997199+00:00",
+  "count": 51,
   "articles": [
     {
-      "title": "Mort d’Elisa Pilarski : son compagnon condamné fait appel, le chien Curtis en sursis",
-      "desc": "Reconnu coupable d’homicide involontaire après la mort de sa compagne enceinte en 2019, mordue plus de 50 fois par son pitbull, l’homme fait appel ce vendredi 19 juin, suspendant aussi l’euthanasie du canidé.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-delisa-pilarski-son-compagnon-condamne-fait-appel-le-chien-curtis-en-sursis-20260619_H73DDNGQHRC5DKT5VNKOAPUJIM/",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël s’engage à respecter le cessez-le-feu si le Hezbollah en fait autant",
+      "desc": "Un cessez-le-feu est entré en vigueur à 15 heures ce vendredi entre Israël et le Hezbollah. L’Etat hébreu avait auparavant bombardé massivement le sud du pays, faisant près de 50 morts selon les autorités locales.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-entre-liran-et-les-etats-unis-prevues-ce-vendredi-en-suisse-reportees-20260619_AK7HBQ55NBDWJC5IQ4TQXDG7P4/",
       "image": null,
-      "date": "2026-06-19T14:24:08+00:00",
+      "date": "2026-06-19T19:11:00+00:00",
       "date_formatted": "19 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Consultations, transports sanitaires, médicaments… Le gouvernement veut baisser le remboursement de la Sécu sur des actes médicaux dès cet été",
-      "desc": "Selon des sources concordantes, l’exécutif n’a pas encore décidé s’il chercherait à baisser le remboursement de l’Assurance maladie sur un vaste panel d’actes médicaux, y compris les consultations, ou bien s’il le concentrerait sur certains actes comme le transport sanitaire ou les médicaments.",
-      "url": "https://www.liberation.fr/societe/sante/consultations-transports-sanitaires-medicaments-le-gouvernement-veut-baisser-le-remboursement-de-la-secu-sur-les-actes-medicaux-des-cet-ete-20260619_PNA2UVJ4RZDRRAVC3I23G6MWTE/",
+      "title": "Le rétrofit peine à tracer sa route dans la transition énergétique des transports : «Ce que je regrette c’est le manque d’ambition des gouvernements»",
+      "desc": "Le procédé, qui permet de remplacer le moteur thermique d’un véhicule d’occasion par un système hydrogène ou électrique, peine à décoller. Dernier exemple en date, le groupe auvergnat GCK a été placé en redressement judiciaire au mois de mai et attend son repreneur.",
+      "url": "https://www.liberation.fr/economie/transports/le-retrofit-peine-a-tracer-sa-route-dans-la-transition-energetique-des-transports-ce-que-je-regrette-cest-le-manque-dambition-des-gouvernements-20260619_IOBTVRAJNRC4BGOULVZCOX7VIA/",
       "image": null,
-      "date": "2026-06-19T13:56:21+00:00",
+      "date": "2026-06-19T16:14:47+00:00",
       "date_formatted": "19 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -30,16 +30,6 @@
       "date": "2026-06-19T13:45:05+00:00",
       "date_formatted": "19 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Autopsie de Lyhanna, victime de viol : la cause de la mort encore inconnue, «des délais incompressibles»",
-      "desc": "Selon BFMTV, le profil biologique de Jérôme Barella a été retrouvé sur le corps de la petite fille de 11 ans, retrouvée morte le 4 juin à Puycasquier dans le Gers.",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-lautopsie-revele-que-lenfant-a-ete-victime-dun-viol-20260618_FSNPZUAFHFG7BKEWTON2HLNEFI/",
-      "image": null,
-      "date": "2026-06-19T12:56:19+00:00",
-      "date_formatted": "19 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -349,8 +339,8 @@
       "image": "https://img.lemde.fr/2026/06/14/532/0/3189/1594/644/322/60/0/33d7d95_upload-1-pvvcpvu7eo0i-xavier-lissillour-zelihachaffin-laguerredeslabos.jpg",
       "date": "2026-06-15T08:02:10+00:00",
       "date_formatted": "15 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
