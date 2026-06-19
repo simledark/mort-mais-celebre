@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-06-18T20:06:33.854054+00:00",
+  "generated_at": "2026-06-19T02:45:59.727751+00:00",
   "count": 53,
   "articles": [
     {
+      "title": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers",
+      "desc": "« Sans nouveau cas signalé ni décès rapporté depuis le 2 mai, la situation demeure stable », a par ailleurs fait savoir le directeur de l’Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus.",
+      "url": "https://www.lemonde.fr/sante/article/2026/06/19/hantavirus-a-bord-du-mv-hondius-la-quarantaine-levee-pour-la-quasi-totalite-des-passagers_6704750_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/22/1000/0/6000/3000/644/322/60/0/6cdf847_ftp-1-3p22p14t8ffc-2026-05-22t074035z-1854591600-rc267lauov65-rtrmadp-3-cruiseship-hantavirus-africa.JPG",
+      "date": "2026-06-19T01:41:50+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La quarantaine levée aux Pays-Bas pour presque tous les passagers et membres d'équipage du navire touché par le hantavirus",
+      "desc": "Le directeur de l'Organisation mondiale de la santé (OMS), Tedros Adhanom Ghebreyesus, a fait cette annonce sur X jeudi.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-quarantaine-levee-pour-presque-tous-les-passagers-et-membres-d-equipage-du-navire-touche-par-l-hantavirus_8068334.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/BAWpEC9aSsYMfizXgEB1Lk4zJkI/0x100:1024x676/432x243/filters:format(jpg)/2026/06/18/6a3462cdc7e2d869415208.jpg",
+      "date": "2026-06-18T23:31:39+00:00",
+      "date_formatted": "18 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
       "title": "Affaire Lyhanna : l’autopsie révèle que l’enfant a été victime d’un viol",
-      "desc": "Selon BFMTV, le profil biologique de Jérôme B. a été retrouvé sur le corps de l’enfant de 11 ans, retrouvée morte à Puycasquier dans le Gers.",
+      "desc": "Selon BFMTV, le profil biologique de Jérôme B. a été retrouvé sur le corps de le petite fille de 11 ans, retrouvée morte le 4 juin à Puycasquier dans le Gers.",
       "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-lautopsie-revele-que-lenfant-a-ete-victime-dun-viol-20260618_FSNPZUAFHFG7BKEWTON2HLNEFI/",
       "image": null,
-      "date": "2026-06-18T19:54:20+00:00",
+      "date": "2026-06-18T20:39:14+00:00",
       "date_formatted": "18 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -31,16 +51,6 @@
       "date_formatted": "18 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Erreur d’embryon lors d’une FIV : un couple américain, dont la fille n’est pas génétiquement la leur, a fini par obtenir sa garde",
-      "desc": "Tiffany Score et Steven Mills, victimes d’une erreur dans leur parcours de FIV en Floride, vont pouvoir garder le nourrisson après avoir porté plainte et conclu un accord de garde avec les parents biologiques de l’enfant.",
-      "url": "https://www.liberation.fr/international/amerique/erreur-dembryon-lors-dune-fiv-un-couple-americain-dont-la-fille-nest-pas-genetiquement-la-leur-a-fini-par-obtenir-sa-garde-20260618_HOTQHOPFYNCNDGM2SFICFLJFRA/",
-      "image": null,
-      "date": "2026-06-18T16:58:58+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Epidémie d’Ebola : un mois après le début, le bilan dépasse les 200 morts en RDC, avec un taux de mortalité de 23 %",
@@ -371,16 +381,6 @@
       "date_formatted": "14 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "La durée des arrêts de travail sera plafonnée à partir de septembre, selon un décret paru samedi",
-      "desc": "Cette mesure a été décidée dans la loi de financement de la Sécurité sociale pour 2026. Jusqu’à présent, aucune durée maximale d’arrêt maladie n’était prévue, bien que des recommandations existent pour certaines pathologies.",
-      "url": "https://www.lemonde.fr/emploi/article/2026/06/13/la-duree-des-arrets-de-travail-sera-plafonnee-a-partir-de-septembre-selon-un-decret-paru-samedi_6701704_1698637.html",
-      "image": "https://img.lemde.fr/2026/06/08/250/0/3000/1500/644/322/60/0/47e7604_upload-1-hvoleqw5prym-frame-161.jpg",
-      "date": "2026-06-13T12:59:51+00:00",
-      "date_formatted": "13 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
