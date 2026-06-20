@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-20T13:22:17.885039+00:00",
+  "generated_at": "2026-06-20T19:06:19.767072+00:00",
   "count": 52,
   "articles": [
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : malgré le cessez-le-feu, les frappes israéliennes se poursuivent, au moins trente morts",
-      "desc": "Un cessez-le-feu est entré en vigueur à 15 heures vendredi entre Israël et le Hezbollah. L’Etat hébreu avait auparavant bombardé massivement le sud du pays, faisant près de 50 morts selon les autorités locales.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/",
+      "title": "Jérémy Doku prêt à quitter le Mondial pour la naissance de son enfant : la réaction d’un autre âge de France Pierron",
+      "desc": "Au prétexte que la Coupe du monde est un moment exceptionnel et que l’homme ne «sert à rien» lors d’un accouchement, la journaliste de la chaîne l’Equipe a étrillé la star belge, qui entend déserter momentanément si sa compagne devait donner naissance à leur enfant. Irréel.",
+      "url": "https://www.liberation.fr/sports/football/jeremy-doku-pret-a-quitter-le-mondial-pour-la-naissance-de-son-enfant-la-reaction-dun-autre-age-de-france-pierron-20260620_XDPY3U7IYZBMRB47PA63VOLVTU/",
       "image": null,
-      "date": "2026-06-20T13:11:25+00:00",
+      "date": "2026-06-20T15:04:34+00:00",
       "date_formatted": "20 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -339,8 +339,8 @@
       "image": "https://img.lemde.fr/2024/11/20/30/0/960/480/644/322/60/0/78a0def_1732118711541-comp-tile-horizon0.jpg",
       "date": "2026-06-15T13:37:19+00:00",
       "date_formatted": "15 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Le remboursement des traitements anti-obésité Wegovy et Mounjaro, une équation complexe pour l’Assurance-maladie",
