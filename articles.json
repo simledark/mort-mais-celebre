@@ -1,25 +1,45 @@
 {
-  "generated_at": "2026-06-20T08:38:00.296926+00:00",
+  "generated_at": "2026-06-20T13:22:17.885039+00:00",
   "count": 52,
   "articles": [
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : malgré le cessez-le-feu, les frappes israéliennes se poursuivent, au moins trente morts",
+      "desc": "Un cessez-le-feu est entré en vigueur à 15 heures vendredi entre Israël et le Hezbollah. L’Etat hébreu avait auparavant bombardé massivement le sud du pays, faisant près de 50 morts selon les autorités locales.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/",
+      "image": null,
+      "date": "2026-06-20T13:11:25+00:00",
+      "date_formatted": "20 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Crash d’un avion de tourisme à La Baule : le cofondateur d’Ubisoft Claude Guillemot parmi les victimes",
+      "desc": "L’entreprise a confirmé la mort de son cocréateur auprès du «Parisien», samedi 20 juin. Avec un instructeur de vol, il était à bord d’un bimoteur, parti de Rennes avant de s’écraser dans la station balnéaire de Loire-Atlantique, vendredi soir.",
+      "url": "https://www.liberation.fr/culture/crash-dun-avion-de-tourisme-a-la-baule-le-cofondateur-dubisoft-claude-guillemot-pourrait-faire-partie-des-victimes-20260620_D33AUEPGJZG35FMMNR5DSTT5TE/",
+      "image": null,
+      "date": "2026-06-20T12:55:11+00:00",
+      "date_formatted": "20 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Deux trains entrent en collision près de Londres, un mort et des dizaines de blessés : ce que l’on sait de la catastophe",
+      "desc": "L’une des deux rames a, semble-t-il, percuté l’autre par l’arrière à une centaine de kilomètres au nord de la capitale britannique, ce vendredi, en milieu d’après-midi. Le bilan reste encore provisoire.",
+      "url": "https://www.liberation.fr/international/europe/un-impact-brutal-deux-trains-entrent-en-collision-pres-de-londres-le-bilan-encore-incertain-20260619_IAONNLCQRBCANL4ETCJLQFGRQY/",
+      "image": null,
+      "date": "2026-06-20T11:32:25+00:00",
+      "date_formatted": "20 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Un premier cas de grippe aviaire H5 détecté en Australie",
       "desc": "Cette découverte signifie que la maladie s'est désormais propagée à tous les continents.",
       "url": "https://www.franceinfo.fr/sante/maladie/grippe-aviaire/un-premier-cas-de-grippe-aviaire-h5-detecte-en-australie_8071199.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/I1YMIEqwIfThVZtU260jg3nIZnk/0x260:5010x3079/432x243/filters:format(jpg)/2026/06/20/6a362daf9ca6e948846623.jpg",
-      "date": "2026-06-20T08:07:06+00:00",
+      "date": "2026-06-20T11:16:48+00:00",
       "date_formatted": "20 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : malgré le cessez-le-feu, les frappes israéliennes se poursuivent, au moins douze morts",
-      "desc": "Un cessez-le-feu est entré en vigueur à 15 heures vendredi entre Israël et le Hezbollah. L’Etat hébreu avait auparavant bombardé massivement le sud du pays, faisant près de 50 morts selon les autorités locales.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/",
-      "image": null,
-      "date": "2026-06-20T07:44:54+00:00",
-      "date_formatted": "20 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -31,16 +51,6 @@
       "date_formatted": "20 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«Un impact brutal» : deux trains entrent en collision près de Londres, un mort et des dizaines de blessés",
-      "desc": "L’une des deux rames a, semble-t-il, percuté l’autre par l’arrière à une centaine de kilomètres au nord de la capitale britannique, ce vendredi, en milieu d’après-midi. Le bilan reste encore incertain.",
-      "url": "https://www.liberation.fr/international/europe/un-impact-brutal-deux-trains-entrent-en-collision-pres-de-londres-le-bilan-encore-incertain-20260619_IAONNLCQRBCANL4ETCJLQFGRQY/",
-      "image": null,
-      "date": "2026-06-20T06:44:03+00:00",
-      "date_formatted": "20 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Sécurité sociale : Le gouvernement veut baisser dès cet été le remboursement des actes médicaux",
@@ -420,16 +430,6 @@
       "date": "2026-06-04T14:00:29+00:00",
       "date_formatted": "4 June 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Deux virologues inculpés pour avoir tenté d'importer le virus Mpox d'Afrique",
-      "desc": "Deux virologues travaillant pour un prestigieux institut américain de recherche ont été inculpés le 2 juin 2026 par la justice américaine, accusé d'avoir tenté de ramener aux Etats-Unis le Mpox, anciennement appelé variole du singe.",
-      "url": "https://www.sciencesetavenir.fr/sante/deux-virologues-inculpes-pour-avoir-tente-d-importer-le-virus-mpox-d-afrique_192888?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/03/cover-r4x3w1200-6a1ff498c519c-afp-20250306-f0439044-v1-highres-mpoxvirusparticlesillustration.jpg",
-      "date": "2026-06-03T09:32:09+00:00",
-      "date_formatted": "3 June 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
