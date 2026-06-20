@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-06-19T19:22:33.997199+00:00",
-  "count": 51,
+  "generated_at": "2026-06-20T02:05:41.767875+00:00",
+  "count": 39,
   "articles": [
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël s’engage à respecter le cessez-le-feu si le Hezbollah en fait autant",
-      "desc": "Un cessez-le-feu est entré en vigueur à 15 heures ce vendredi entre Israël et le Hezbollah. L’Etat hébreu avait auparavant bombardé massivement le sud du pays, faisant près de 50 morts selon les autorités locales.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-entre-liran-et-les-etats-unis-prevues-ce-vendredi-en-suisse-reportees-20260619_AK7HBQ55NBDWJC5IQ4TQXDG7P4/",
+      "title": "«Un impact brutal» : deux trains entrent en collision près de Londres, un mort et plusieurs personnes blessées",
+      "desc": "L’une des deux rames a, semble-t-il, percuté l’autre par l’arrière à une centaine de kilomètres au nord de la capitale britannique, ce vendredi, en milieu d’après-midi. Le bilan reste encore incertain.",
+      "url": "https://www.liberation.fr/international/europe/un-impact-brutal-deux-trains-entrent-en-collision-pres-de-londres-le-bilan-encore-incertain-20260619_IAONNLCQRBCANL4ETCJLQFGRQY/",
       "image": null,
-      "date": "2026-06-19T19:11:00+00:00",
+      "date": "2026-06-19T21:02:59+00:00",
       "date_formatted": "19 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Le rétrofit peine à tracer sa route dans la transition énergétique des transports : «Ce que je regrette c’est le manque d’ambition des gouvernements»",
-      "desc": "Le procédé, qui permet de remplacer le moteur thermique d’un véhicule d’occasion par un système hydrogène ou électrique, peine à décoller. Dernier exemple en date, le groupe auvergnat GCK a été placé en redressement judiciaire au mois de mai et attend son repreneur.",
-      "url": "https://www.liberation.fr/economie/transports/le-retrofit-peine-a-tracer-sa-route-dans-la-transition-energetique-des-transports-ce-que-je-regrette-cest-le-manque-dambition-des-gouvernements-20260619_IOBTVRAJNRC4BGOULVZCOX7VIA/",
+      "title": "En quoi la canicule d’août 2003 ressemble à celle de juin 2026 que nous sommes sur le point de traverser ?",
+      "desc": "Il y a plus de 20 ans, l’épisode de deux semaines en plein été était inédit et avait surpris le pays alors que personne n’y était préparé, entraînant plus de 15 000 morts, notamment des personnes âgées.",
+      "url": "https://www.liberation.fr/environnement/climat/a-quoi-a-ressemble-la-canicule-daout-2003-a-laquelle-celle-de-juin-2026-est-comparee-20260619_WF7RUO5URJGODH4P5MKAU63MAM/",
       "image": null,
-      "date": "2026-06-19T16:14:47+00:00",
+      "date": "2026-06-19T20:00:01+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Israël s’engage à respecter le cessez-le-feu si le Hezbollah en fait autant",
+      "desc": "Un cessez-le-feu est entré en vigueur à 15 heures ce vendredi entre Israël et le Hezbollah. L’Etat hébreu avait auparavant bombardé massivement le sud du pays, faisant près de 50 morts selon les autorités locales.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-entre-liran-et-les-etats-unis-prevues-ce-vendredi-en-suisse-reportees-20260619_AK7HBQ55NBDWJC5IQ4TQXDG7P4/",
+      "image": null,
+      "date": "2026-06-19T19:59:52+00:00",
+      "date_formatted": "19 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Autopsie de Lyhanna, victime de viol : la cause de la mort encore inconnue, «des délais incompressibles»",
+      "desc": "Selon BFMTV, le profil biologique de Jérôme Barella a été retrouvé sur le corps de la petite fille de 11 ans, retrouvée morte le 4 juin à Puycasquier dans le Gers. Le parquet d’Agen a annoncé ce vendredi que le rapport définitif devait être remis dans le courant de la semaine prochaine.",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-lautopsie-revele-que-lenfant-a-ete-victime-dun-viol-20260618_FSNPZUAFHFG7BKEWTON2HLNEFI/",
+      "image": null,
+      "date": "2026-06-19T19:53:40+00:00",
       "date_formatted": "19 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -293,16 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "« Sur le terrain, c’est la catastrophe » : à Bunia, en RDC, face à une épidémie d’Ebola hors de contrôle",
       "desc": "Un mois après la déclaration officielle de l’épidémie par les autorités congolaises, le virus continue de se propager et le nombre de victimes ne fait qu’augmenter.",
       "url": "https://www.lemonde.fr/afrique/article/2026/06/16/sur-le-terrain-c-est-la-catastrophe-a-bunia-en-rdc-face-a-une-epidemie-d-ebola-hors-de-controle_6703493_3212.html",
@@ -343,16 +353,6 @@
       "type": "presse"
     },
     {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Remboursement des médicaments antiobésité Wegovy et Mounjaro : les centres spécialisés se préparent à accueillir une vague de nouveaux patients",
       "desc": "Les demandes de consultation dans les services spécialisés se sont multipliées à l’approche du lundi 15 juin, date à partir de laquelle deux traitements antiobésité seront pris en charge sous conditions strictes par l’Assurance-maladie.",
       "url": "https://www.lemonde.fr/societe/article/2026/06/15/remboursement-des-medicaments-antiobesite-les-centres-specialises-dans-les-starting-blocks-pour-accueillir-des-patients_6703128_3224.html",
@@ -373,26 +373,6 @@
       "type": "science"
     },
     {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Tryptamine : sept dérivés synthétiques de cette substance hallucinogène interdits en France",
       "desc": "A cause de leurs effets indésirables graves et à des risques potentiellement mortels, sept dérivés synthétiques de la tryptamyne, une substance hallucinogène, seront interdits en France à compter du 10 juin 2026.",
       "url": "https://www.sciencesetavenir.fr/sante/tryptamine-sept-derives-synthetiques-de-cette-substance-hallucinogene-interdits-en-france_193012?xtor=RSS-16",
@@ -403,16 +383,6 @@
       "type": "science"
     },
     {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Deux virologues inculpés pour avoir tenté d'importer le virus Mpox d'Afrique",
       "desc": "Deux virologues travaillant pour un prestigieux institut américain de recherche ont été inculpés le 2 juin 2026 par la justice américaine, accusé d'avoir tenté de ramener aux Etats-Unis le Mpox, anciennement appelé variole du singe.",
       "url": "https://www.sciencesetavenir.fr/sante/deux-virologues-inculpes-pour-avoir-tente-d-importer-le-virus-mpox-d-afrique_192888?xtor=RSS-16",
@@ -420,96 +390,6 @@
       "date": "2026-06-03T09:32:09+00:00",
       "date_formatted": "3 June 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
-      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
-      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
-      "image": null,
-      "date": "2026-04-21T15:30:59+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
-      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
-      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
-      "image": null,
-      "date": "2026-04-21T08:00:54+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
