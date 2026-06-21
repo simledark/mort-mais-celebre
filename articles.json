@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-06-21T13:43:32.350237+00:00",
-  "count": 34,
+  "generated_at": "2026-06-21T19:10:39.861622+00:00",
+  "count": 33,
   "articles": [
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : JD Vance applaudit une «rencontre historique» avec l’Iran et appelle à «tourner une nouvelle page» au Moyen-Orient",
-      "desc": "Le début des pourparlers intervient ce dimanche alors qu’Israël a multiplié les frappes sur le Liban, entraînant la mort d’une centaine de personnes, les répliques du Hezbollah et l’annonce par l’Iran, en représailles, d’une nouvelle fermeture du détroit d’Ormuz.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/",
+      "title": "Appel à politiser la canicule : ça n’est pas parce que les morts ne se voient pas qu’on ne doit pas vous entendre",
+      "desc": "Malgré une gestion de crise désormais bien rodée, le pouvoir, à force de renvoyer chacun à sa vigilance, évite un débat pourtant essentiel : comment adapter durablement le pays à de telles vagues de chaleur.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/appel-a-politiser-la-canicule-ca-nest-pas-parce-que-les-morts-ne-se-voient-pas-quon-ne-doit-pas-vous-entendre-20260621_WNEFYCKFE5EO3GY6J7RL4KEX6E/",
       "image": null,
-      "date": "2026-06-21T13:34:38+00:00",
+      "date": "2026-06-21T18:05:32+00:00",
+      "date_formatted": "21 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Morton Feldman : les 100 ans d’un monstre secret de la musique contemporaine",
+      "desc": "Le festival ManiFeste de l’Ircam célèbre le centenaire de l’Américain, compositeur révolutionnaire, dont les œuvres aussi captivantes qu’énigmatiques laissent une grande liberté d’interprétation aux musiciens comme aux auditeurs.",
+      "url": "https://www.liberation.fr/culture/musique/morton-feldman-les-100-ans-dun-monstre-secret-de-la-musique-contemporaine-20260621_I25NMXCCANFRLOXT7QPAWHP5JY/",
+      "image": null,
+      "date": "2026-06-21T14:35:00+00:00",
       "date_formatted": "21 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -18,16 +28,6 @@
       "url": "https://www.liberation.fr/environnement/climat/a-quoi-a-ressemble-la-canicule-daout-2003-a-laquelle-celle-de-juin-2026-est-comparee-20260619_WF7RUO5URJGODH4P5MKAU63MAM/",
       "image": null,
       "date": "2026-06-21T13:00:52+00:00",
-      "date_formatted": "21 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule : quatre adolescents morts par noyade ce week-end",
-      "desc": "Un adolescent de 17 ans a été emporté par le courant dans la Dordogne, ont déclaré ce dimanche 21 juin les pompiers. Il est le quatrième mineur mort par noyade ce week-end.",
-      "url": "https://www.liberation.fr/societe/police-justice/canicule-quatre-adolescents-morts-par-noyade-ce-week-end-20260621_2PEBIQHSDNH2LJCYQYQMYCSJIM/",
-      "image": null,
-      "date": "2026-06-21T10:36:12+00:00",
       "date_formatted": "21 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -308,16 +308,6 @@
       "url": "https://www.lemonde.fr/economie/article/2026/06/15/le-remboursement-des-traitements-anti-obesite-une-equation-complexe-pour-l-assurance-maladie_6703158_3234.html",
       "image": "https://img.lemde.fr/2026/06/14/439/0/3189/1594/644/322/60/0/0221806_upload-1-pg2uusnpzni7-xavier-lissillour-zelihachaffin2-cou-tassusrancemaladie.JPG",
       "date": "2026-06-15T08:30:01+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Novo Nordisk et Eli Lilly, deux champions en lice pour le faramineux marché des médicaments antiobésité",
-      "desc": "Les deux principaux médicaments visant à réduire l’obésité sont remboursés sous conditions par l’Assurance-maladie à partir du lundi 15 juin. Un pas de plus dans la conquête géographique de ce marché par les groupes pharmaceutiques Novo Nordisk et Eli Lilly, engagés dans une bataille mondiale.",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/15/novo-nordisk-et-eli-lilly-deux-champions-en-lice-pour-le-faramineux-marche-des-medicaments-antiobesite_6703156_3234.html",
-      "image": "https://img.lemde.fr/2026/06/14/532/0/3189/1594/644/322/60/0/33d7d95_upload-1-pvvcpvu7eo0i-xavier-lissillour-zelihachaffin-laguerredeslabos.jpg",
-      "date": "2026-06-15T08:02:10+00:00",
       "date_formatted": "15 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
