@@ -1,34 +1,44 @@
 {
-  "generated_at": "2026-06-21T02:29:23.217060+00:00",
-  "count": 52,
+  "generated_at": "2026-06-21T09:32:42.473963+00:00",
+  "count": 48,
   "articles": [
     {
-      "title": "Jérémy Doku prêt à quitter le Mondial pour la naissance de son enfant : la réaction d’un autre âge de France Pierron",
-      "desc": "Au prétexte que la Coupe du monde est un moment exceptionnel et que l’homme ne «sert à rien» lors d’un accouchement, la journaliste de la chaîne l’Equipe a étrillé la star belge, qui entend déserter momentanément si sa compagne devait donner naissance à leur enfant. Irréel.",
-      "url": "https://www.liberation.fr/sports/football/jeremy-doku-pret-a-quitter-le-mondial-pour-la-naissance-de-son-enfant-la-reaction-dun-autre-age-de-france-pierron-20260620_XDPY3U7IYZBMRB47PA63VOLVTU/",
+      "title": "Maladies parodontales : \"Non, ce n'est pas normal de saigner des gencives\" prévient un chirurgien-dentiste",
+      "desc": "Un saignement de gencives peut être le signe d'une future pathologie, explique le docteur Adrian Brun, chirurgien-dentiste à l'hôpital et enseignant-chercheur.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/maladies-parodontales-non-ce-n-est-pas-normal-de-saigner-des-gencives-previent-un-chirurgien-dentiste_8020871.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/7mg4nk9zi_p9JSOX689kK0VTTNw/0x0:2308x1299/432x243/filters:format(jpg)/2026/06/19/6a350cbe1f6fe870317932.jpg",
+      "date": "2026-06-21T10:00:04+00:00",
+      "date_formatted": "21 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cinquante ans de mystère levé : voici comment l'aspirine empêche le cancer de se propager selon une étude",
+      "desc": "Une équipe de chercheurs britanniques vient d’identifier le mécanisme par lequel cet antidouleur permet au système immunitaire de détruire les cellules cancéreuses.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cinquante-ans-mystere-leve-voici-aspirine-empeche-cancer-propager-selon-etude-w2t8-135511/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/7/c/27c7f692dc_50228193_medicament-antidouleur-cancer.jpg",
+      "date": "2026-06-21T09:00:00+00:00",
+      "date_formatted": "21 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : JD Vance est arrivé en Suisse, les négociations avec l’Iran vont commencer",
+      "desc": "Le début des pourparlers intervient ce dimanche alors qu’Israël a multiplié les frappes sur le Liban, entraînant la mort d’une centaine de personnes, les répliques du Hezbollah et l’annonce par l’Iran, en représailles, d’une nouvelle fermeture du détroit d’Ormuz.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/",
       "image": null,
-      "date": "2026-06-20T15:04:34+00:00",
-      "date_formatted": "20 June 2026",
+      "date": "2026-06-21T07:27:31+00:00",
+      "date_formatted": "21 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Crash d’un avion de tourisme à La Baule : le cofondateur d’Ubisoft Claude Guillemot parmi les victimes",
-      "desc": "L’entreprise a confirmé la mort de son cocréateur auprès du «Parisien», samedi 20 juin. Avec un instructeur de vol, il était à bord d’un bimoteur, parti de Rennes avant de s’écraser dans la station balnéaire de Loire-Atlantique, vendredi soir.",
-      "url": "https://www.liberation.fr/culture/crash-dun-avion-de-tourisme-a-la-baule-le-cofondateur-dubisoft-claude-guillemot-pourrait-faire-partie-des-victimes-20260620_D33AUEPGJZG35FMMNR5DSTT5TE/",
+      "title": "Hantavirus : les confinés rentrent chez eux, «l’épisode est probablement terminé»",
+      "desc": "Ce dimanche 21 juin, les quatre ex-passagers du bateau de croisière «MV Hondius» encore confinés quittent l’hôpital. La fin de la quarantaine signe l’épilogue d’une crise gérée avec fermeté par la France.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-les-confines-rentrent-chez-eux-lepisode-est-probablement-termine-20260621_2Z6KCN6R3ZGZLJXBWET6EJJVYU/",
       "image": null,
-      "date": "2026-06-20T12:55:11+00:00",
-      "date_formatted": "20 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Deux trains entrent en collision près de Londres, un mort et des dizaines de blessés : ce que l’on sait de la catastophe",
-      "desc": "L’une des deux rames a, semble-t-il, percuté l’autre par l’arrière à une centaine de kilomètres au nord de la capitale britannique, ce vendredi, en milieu d’après-midi. Le bilan reste encore provisoire.",
-      "url": "https://www.liberation.fr/international/europe/un-impact-brutal-deux-trains-entrent-en-collision-pres-de-londres-le-bilan-encore-incertain-20260619_IAONNLCQRBCANL4ETCJLQFGRQY/",
-      "image": null,
-      "date": "2026-06-20T11:32:25+00:00",
-      "date_formatted": "20 June 2026",
+      "date": "2026-06-21T03:39:00+00:00",
+      "date_formatted": "21 June 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -103,16 +113,6 @@
       "type": "presse"
     },
     {
-      "title": "La quarantaine levée aux Pays-Bas pour presque tous les passagers et membres d'équipage du navire touché par le hantavirus",
-      "desc": "Le directeur de l'Organisation mondiale de la santé (OMS), Tedros Adhanom Ghebreyesus, a fait cette annonce sur X jeudi.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-quarantaine-levee-pour-presque-tous-les-passagers-et-membres-d-equipage-du-navire-touche-par-l-hantavirus_8068334.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/BAWpEC9aSsYMfizXgEB1Lk4zJkI/0x100:1024x676/432x243/filters:format(jpg)/2026/06/18/6a3462cdc7e2d869415208.jpg",
-      "date": "2026-06-18T23:31:39+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "C’est quoi ces virus mangeurs de bactéries que le CHU de Lyon va produire pour la première fois en France et dans l’UE ?",
       "desc": "Les Hospices civils de Lyon vont pouvoir produire leurs propres bactériophages, des virus capables de détruire les bactéries résistantes aux antibiotiques",
       "url": "https://www.20minutes.fr/sante/4229927-20260618-quoi-virus-mangeurs-bacteries-chu-lyon-va-produire-premiere-fois-france-ue?at_medium=display&at_campaign=149",
@@ -151,16 +151,6 @@
       "date_formatted": "18 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "REPORTAGE. Au Yémen, les médecins à bout de souffle espèrent pouvoir envoyer des patients à l'étranger",
-      "desc": "Dans le pays en guerre depuis 2014, les moyens dérisoires du système de santé contraignent les patients atteints de lourdes pathologies à se soigner à l’étranger. Mais peu de pays acceptent de les accueillir et les places s’obtiennent au compte-gouttes.",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/reportage-au-yemen-les-medecins-a-bout-de-souffle-esperent-pouvoir-envoyer-des-patients-a-l-etranger_8061164.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/pqC1VIgmxdlDRcsWY-k7N0eLfKk/0x285:5472x3363/432x243/filters:format(jpg)/2026/06/15/6a2fd26ed094a650582398.jpg",
-      "date": "2026-06-18T14:39:44+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Quand la chaleur démasque une maladie génétique silencieuse",
@@ -273,16 +263,6 @@
       "type": "science"
     },
     {
-      "title": "Alzheimer : une femme retrouve temporairement la mémoire et la parole après la prise de champignons à psilocybine",
-      "desc": "Un simple cas clinique ne suffit pas à changer la médecine, mais il peut parfois ouvrir de nouvelles pistes. C'est précisément ce qui s'est produit avec cette observation étonnante d'une patiente atteinte d'Alzheimer ayant montré une amélioration temporaire après l'administration de psilocybine.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-femme-retrouve-temporairement-memoire-parole-apres-prise-champignons-psilocybine-135401/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/7/6/a769e9e192_50256715_alzheimer-memoire-champignons.jpg",
-      "date": "2026-06-17T07:03:32+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Mexique : De la tequila frelatée était vendue sur les réseaux sociaux, cinq morts après une fête d’anniversaire",
       "desc": "Des informations sur les numéros de lot et la date de péremption auraient été masquées ou altérées, laissant penser que les contenants avaient été déjà utilisés",
       "url": "https://www.20minutes.fr/monde/4229414-20260616-mexique-tequila-frelatee-vendue-reseaux-sociaux-cinq-morts-apres-fete-anniversaire?at_medium=display&at_campaign=149",
@@ -298,16 +278,6 @@
       "url": "https://www.20minutes.fr/arts-stars/people/4229385-20260616-acteur-bruce-willis-va-bien-malgre-maladie-mechante-assure-epouse-emma-heming-willis?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/iTOKi_qQR5GwVN7iASz1dCk/1200x768_bruce-willis-au-festival-de-cannes",
       "date": "2026-06-16T12:02:36+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le chef indigène Raoni hospitalisé en état grave à 94 ans après la dégradation de son état de santé",
-      "desc": "Le chef indigène Raoni hospitalisé en état grave à 94 ans après la dégradation de son état de santé",
-      "url": "https://www.20minutes.fr/tv/videos/4229373-20260616-chef-indigene-raoni-hospitalise-etat-grave-94-ans-apres-degradation-etat-sante?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/I4CHETOsSbmxQjwtHw7Yzik/1200x768_leader-emblematique-peuple-kayapo-defenseur-acharne-foret-amazonienne-raoni-metuktire-admis-unite-soins-intensifs-suite-degradation-etat-sante-transfe",
-      "date": "2026-06-16T10:15:10+00:00",
       "date_formatted": "16 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
@@ -371,16 +341,6 @@
       "date_formatted": "15 June 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Remboursement des médicaments antiobésité Wegovy et Mounjaro : les centres spécialisés se préparent à accueillir une vague de nouveaux patients",
-      "desc": "Les demandes de consultation dans les services spécialisés se sont multipliées à l’approche du lundi 15 juin, date à partir de laquelle deux traitements antiobésité seront pris en charge sous conditions strictes par l’Assurance-maladie.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/15/remboursement-des-medicaments-antiobesite-les-centres-specialises-dans-les-starting-blocks-pour-accueillir-des-patients_6703128_3224.html",
-      "image": "https://img.lemde.fr/2026/06/14/532/0/3189/1594/644/322/60/0/51299fe_upload-1-tsibbgjpttse-illustration-remboursementdesme-dicamentsanti-obe-site-imageprincipale.JPG",
-      "date": "2026-06-15T05:00:06+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cordes vocales : une thérapie inédite pour retrouver sa voix",
