@@ -1,35 +1,75 @@
 {
-  "generated_at": "2026-06-22T02:33:10.036440+00:00",
-  "count": 46,
+  "generated_at": "2026-06-22T11:29:22.542754+00:00",
+  "count": 47,
   "articles": [
     {
-      "title": "Appel à politiser la canicule : ça n’est pas parce que les morts ne se voient pas qu’on ne doit pas vous entendre",
-      "desc": "Malgré une gestion de crise désormais bien rodée, le pouvoir, à force de renvoyer chacun à sa vigilance, évite un débat pourtant essentiel : comment adapter durablement le pays à de telles vagues de chaleur.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/appel-a-politiser-la-canicule-ca-nest-pas-parce-que-les-morts-ne-se-voient-pas-quon-ne-doit-pas-vous-entendre-20260621_WNEFYCKFE5EO3GY6J7RL4KEX6E/",
+      "title": "Canicule : au moins 13 morts par noyade ce week-end en France, selon la sécurité civile",
+      "desc": "Alors que la canicule s’intensifie, la sécurité civile appelle à la vigilance et demande qu’on privilégie les baignades surveillées pour éviter de nouveaux drames.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/22/canicule-au-moins-13-morts-par-noyade-en-france-la-securite-civile-appelle-a-la-vigilance-et-a-privilegier-les-baignades-surveillees_6707517_3224.html",
+      "image": "https://img.lemde.fr/2026/06/21/631/0/3785/1892/644/322/60/0/e387ef4_ftp-1-wdt77zcicylm-5393568-01-06.jpg",
+      "date": "2026-06-22T13:07:12+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Loi sur la fin de vie : les députés toujours tiraillés sur le libre choix entre euthanasie et suicide assisté",
+      "desc": "Alors que le texte sur l’aide à mourir revient ce lundi 22 juin à l’Assemblée, les débats doivent encore préciser qui doit administrer la substance létale. Un vote solennel est prévu le 30 juin, et l’adoption définitive, le 15 juillet.",
+      "url": "https://www.liberation.fr/societe/sante/loi-sur-la-fin-de-vie-les-deputes-toujours-tirailles-sur-le-libre-choix-entre-euthanasie-et-suicide-assiste-20260622_MHTF56PMOJBE3FJGW7NPJJOQRQ/",
       "image": null,
-      "date": "2026-06-21T18:05:32+00:00",
-      "date_formatted": "21 June 2026",
+      "date": "2026-06-22T10:37:22+00:00",
+      "date_formatted": "22 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Morton Feldman : les 100 ans d’un monstre secret de la musique contemporaine",
-      "desc": "Le festival ManiFeste de l’Ircam célèbre le centenaire de l’Américain, compositeur révolutionnaire, dont les œuvres aussi captivantes qu’énigmatiques laissent une grande liberté d’interprétation aux musiciens comme aux auditeurs.",
-      "url": "https://www.liberation.fr/culture/musique/morton-feldman-les-100-ans-dun-monstre-secret-de-la-musique-contemporaine-20260621_I25NMXCCANFRLOXT7QPAWHP5JY/",
+      "title": "François Englert, « coïnventeur » du boson de Higgs et Nobel de physique, est mort",
+      "desc": "Ancien « enfant caché » pendant la seconde guerre mondiale, ce chercheur belge a développé plusieurs théories audacieuses de l’Univers. Couronné du Nobel en 2013 pour ses travaux sur le boson, il s’est éteint le 18 juin à 93 ans.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/06/22/francois-englert-coinventeur-du-boson-de-higgs-et-nobel-de-physique-est-mort_6706579_3382.html",
+      "image": "https://img.lemde.fr/2025/08/12/92/0/1100/550/644/322/60/0/1d1578e_upload-1-granh1lc5wjb-11694147-layout-francois-englert-belgian-physicist.jpg",
+      "date": "2026-06-22T10:33:17+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Canicule : au moins 13 morts par noyade recensés ce week-end en France par la Sécurité civile",
+      "desc": "Plusieurs adolescents sont morts en se baignant dans des cours d’eau dans tout le pays, dont une jeune fille de 13 ans en Seine-et-Marne dimanche.",
+      "url": "https://www.liberation.fr/societe/police-justice/canicule-quatre-adolescents-morts-par-noyade-ce-week-end-20260621_2PEBIQHSDNH2LJCYQYQMYCSJIM/",
       "image": null,
-      "date": "2026-06-21T14:35:00+00:00",
-      "date_formatted": "21 June 2026",
+      "date": "2026-06-22T09:23:44+00:00",
+      "date_formatted": "22 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "En quoi la canicule d’août 2003 ressemble à celle de juin 2026 que nous sommes sur le point de traverser ?",
-      "desc": "Il y a plus de 20 ans, l’épisode de deux semaines en plein été était inédit et avait surpris le pays alors que personne n’y était préparé, entraînant plus de 15 000 morts, notamment des personnes âgées.",
-      "url": "https://www.liberation.fr/environnement/climat/a-quoi-a-ressemble-la-canicule-daout-2003-a-laquelle-celle-de-juin-2026-est-comparee-20260619_WF7RUO5URJGODH4P5MKAU63MAM/",
+      "title": "Deux septuagénaires retrouvés morts dans la piscine d’un gîte dans la Drôme",
+      "desc": "Un couple de locataires est décédé ce dimanche 21 juin en fin d’après-midi sans que les circonstances de cette tragédie soient encore connues, révèle «Ici Drôme Ardèche». Une enquête a été ouverte.",
+      "url": "https://www.liberation.fr/societe/police-justice/deux-septuagenaires-retrouves-morts-dans-la-piscine-dun-gite-dans-la-drome-20260622_P7KDRQQ4BFGM3PSLDCAP2NVX4I/",
       "image": null,
-      "date": "2026-06-21T13:00:52+00:00",
-      "date_formatted": "21 June 2026",
+      "date": "2026-06-22T09:00:51+00:00",
+      "date_formatted": "22 June 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le géographe et fondateur de la revue «Hérodote» Yves Lacoste est mort à 96 ans",
+      "desc": "Le professeur, père de la géopolitique moderne, s’est éteint chez lui samedi 20 juin entouré de ses proches, rapportent «le Monde» et «le Grand Continent».",
+      "url": "https://www.liberation.fr/sciences/le-geographe-et-fondateur-de-la-revue-herodote-yves-lacoste-est-mort-a-96-ans-20260622_77QM3TSRRJFSDGUMZXOQFQH4TQ/",
+      "image": null,
+      "date": "2026-06-22T07:28:15+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aide à mourir : l’administration du geste létal et le délit d’entrave au cœur de débats décisifs à l’Assemblée",
+      "desc": "La proposition de loi sera examinée à partir du lundi 22 juin en troisième lecture dans l’Hémicycle, avec plusieurs points encore en discussion. La version qui en sortira devrait être définitive.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/22/aide-a-mourir-l-administration-du-geste-letal-et-le-delit-d-entrave-au-c-ur-de-debats-decisifs-a-l-assemblee_6706290_3224.html",
+      "image": "https://img.lemde.fr/2026/06/21/500/0/6000/3000/644/322/60/0/3823f27_upload-1-cuda7qsxkzd0-000-98x79lm.jpg",
+      "date": "2026-06-22T05:00:02+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -203,16 +243,6 @@
       "type": "science"
     },
     {
-      "title": "Peste : ces tombes révèlent une épidémie plus ancienne et plus terrible qu’imaginé",
-      "desc": "Bien avant les grandes pandémies médiévales, la peste frappait déjà les populations humaines. En Sibérie, des chercheurs ont identifié la plus ancienne infection connue à Yersinia pestis, vieille de 5 500 ans. Une découverte qui suggère que cette maladie pouvait déjà provoquer des épidémies...",
-      "url": "https://www.futura-sciences.com/sante/actualites/peste-noire-peste-ces-tombes-revelent-epidemie-plus-ancienne-plus-terrible-quimagine-135387/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/b/2/0b2a227584_50256759_peste-prehistorique-siberie.jpg",
-      "date": "2026-06-17T17:08:25+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "C’est quoi les NGT, cette nouvelle génération d’OGM approuvée par le Parlement européen ?",
       "desc": "Le Parlement européen a autorisé les nouvelles techniques génomiques (NGT) dans l’agriculture, qui permettent de modifier le génome d’une plante sans introduire d’ADN étranger, pour créer des variétés plus résistantes à la sécheresse ou aux maladies",
       "url": "https://www.20minutes.fr/sante/4229653-20260617-quoi-ngt-nouvelle-generation-ogm-approuvee-parlement-europeen?at_medium=display&at_campaign=149",
@@ -289,26 +319,6 @@
       "image": "https://img.lemde.fr/2026/06/15/498/0/5976/2988/644/322/60/0/6e3ea54_upload-1-pfvll8fztrfg-16-pb-lemonde-ebola-bunia-rwampara-ituri-rdc.jpg",
       "date": "2026-06-16T07:02:10+00:00",
       "date_formatted": "16 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Comment fonctionnent les médicaments antiobésité comme le Wegovy et le Mounjaro ? Comprendre en trois minutes",
-      "desc": "Les médicaments antiobésité Wegovy et Mounjaro sont pris en charge à 65 % par l’Assurance-maladie pour certains patients à partir de lundi 15 juin.",
-      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/06/15/comment-fonctionnent-les-medicaments-antiobesite-comme-le-wegogy-et-le-mounjaro-comprendre-en-trois-minutes_6408013_6176283.html",
-      "image": "https://img.lemde.fr/2024/11/20/30/0/960/480/644/322/60/0/78a0def_1732118711541-comp-tile-horizon0.jpg",
-      "date": "2026-06-15T13:37:19+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le remboursement des traitements anti-obésité Wegovy et Mounjaro, une équation complexe pour l’Assurance-maladie",
-      "desc": "Remboursés en France à partir du lundi 15 juin, les médicaments Wegovy et Mounjaro placent les administrations de santé face à une question épineuse : les financer coûtera-t-il moins cher que d’assumer le coût de l’obésité et de ses complications ?",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/15/le-remboursement-des-traitements-anti-obesite-une-equation-complexe-pour-l-assurance-maladie_6703158_3234.html",
-      "image": "https://img.lemde.fr/2026/06/14/439/0/3189/1594/644/322/60/0/0221806_upload-1-pg2uusnpzni7-xavier-lissillour-zelihachaffin2-cou-tassusrancemaladie.JPG",
-      "date": "2026-06-15T08:30:01+00:00",
-      "date_formatted": "15 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
