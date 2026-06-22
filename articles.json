@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-22T11:29:22.542754+00:00",
-  "count": 47,
+  "generated_at": "2026-06-22T16:23:44.322041+00:00",
+  "count": 43,
   "articles": [
+    {
+      "title": "Darwin, entre dans ce corps !",
+      "desc": "Le numéro estival spécial de la revue Espèces présente l’état actuel de la théorie de l’évolution dont les bases furent posées par Charles Darwin. Parmi ses avancées, l’introduction dans la vie des cellules de ses concepts fondamentaux : variation, sélection, filiation. Au détriment de la métaphore ",
+      "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/06/22/darwin-entre-dans-ce-corps_6708038_6565027.html",
+      "image": "https://img.lemde.fr/2026/06/22/393/0/1000/500/644/322/60/0/3526a26_upload-1-eetf4e7nxohz-060especes-001bdef.jpg",
+      "date": "2026-06-22T17:22:39+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Une personne âgée sur deux verrait sa santé s’améliorer, révèle une étude américaine : comment font ceux qui y arrivent ?",
+      "desc": "Le vieillissement est considéré comme une succession de pertes physiques et mentales. Pourtant, une étude de grande ampleur raconte une autre histoire : celle de seniors qui gagnent en performances cognitives ou physiques au fil des années. Quelle en est l’explication ?",
+      "url": "https://www.futura-sciences.com/sante/actualites/longevite-personne-agee-deux-verrait-sante-ameliorer-revele-etude-americaine-font-ceux-y-arrivent-135532/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/d/b/5db67adb3a_50256969_longevite.jpg",
+      "date": "2026-06-22T17:03:30+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "«La maman aurait oublié ses enfants» : à Carpentras, deux petits garçons retrouvés morts dans une voiture en pleine canicule",
+      "desc": "Les deux enfants âgés de 2 et 4 ans se seraient glissés dans le véhicule à l’insu de leur mère, qui s’en serait aperçue «trop tard». Une autre source policière affirme qu’elle aurait déclaré avoir «oublié ses enfants» pendant les courses.",
+      "url": "https://www.liberation.fr/societe/police-justice/deux-enfants-retrouves-morts-dans-la-voiture-de-leurs-parents-a-carpentras-en-pleine-canicule-20260622_WNLNOA4HFFCEJN3QRSP5RORWUM/",
+      "image": null,
+      "date": "2026-06-22T15:46:16+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Quel sport (et sur quelle durée) permet d’allonger son espérance de vie ? Des scientifiques ont répondu",
+      "desc": "Une étude a récemment déterminé la nature et la durée hebdomadaire d’entraînement idéales pour augmenter son espérance de vie",
+      "url": "https://www.20minutes.fr/high-tech/sciences/4230565-20260622-sport-duree-allonger-esperance-vie-scientifiques-repondu?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/G1UGInXTRxauztOYeWzkcSk/1200x768_pratique-de-la-musculation-dans-une-salle-de-sport-illustration",
+      "date": "2026-06-22T15:02:36+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Guesch Patti, interprète d’«Etienne», est morte à 80 ans",
+      "desc": "La chanteuse et comédienne est morte «des suites d’une longue maladie» dans la nuit de dimanche à lundi. Elle était connue pour ce sulfureux tube de 1987.",
+      "url": "https://www.liberation.fr/culture/musique/guesch-patti-interprete-detienne-est-morte-a-80-ans-20260622_H6CLZ2OVYBHGPGBQC2GXHOR4T4/",
+      "image": null,
+      "date": "2026-06-22T14:23:58+00:00",
+      "date_formatted": "22 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Canicule : au moins 13 morts par noyade ce week-end en France, selon la sécurité civile",
       "desc": "Alors que la canicule s’intensifie, la sécurité civile appelle à la vigilance et demande qu’on privilégie les baignades surveillées pour éviter de nouveaux drames.",
@@ -13,16 +63,6 @@
       "type": "presse"
     },
     {
-      "title": "Loi sur la fin de vie : les députés toujours tiraillés sur le libre choix entre euthanasie et suicide assisté",
-      "desc": "Alors que le texte sur l’aide à mourir revient ce lundi 22 juin à l’Assemblée, les débats doivent encore préciser qui doit administrer la substance létale. Un vote solennel est prévu le 30 juin, et l’adoption définitive, le 15 juillet.",
-      "url": "https://www.liberation.fr/societe/sante/loi-sur-la-fin-de-vie-les-deputes-toujours-tirailles-sur-le-libre-choix-entre-euthanasie-et-suicide-assiste-20260622_MHTF56PMOJBE3FJGW7NPJJOQRQ/",
-      "image": null,
-      "date": "2026-06-22T10:37:22+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "François Englert, « coïnventeur » du boson de Higgs et Nobel de physique, est mort",
       "desc": "Ancien « enfant caché » pendant la seconde guerre mondiale, ce chercheur belge a développé plusieurs théories audacieuses de l’Univers. Couronné du Nobel en 2013 pour ses travaux sur le boson, il s’est éteint le 18 juin à 93 ans.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/06/22/francois-englert-coinventeur-du-boson-de-higgs-et-nobel-de-physique-est-mort_6706579_3382.html",
@@ -31,36 +71,6 @@
       "date_formatted": "22 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Canicule : au moins 13 morts par noyade recensés ce week-end en France par la Sécurité civile",
-      "desc": "Plusieurs adolescents sont morts en se baignant dans des cours d’eau dans tout le pays, dont une jeune fille de 13 ans en Seine-et-Marne dimanche.",
-      "url": "https://www.liberation.fr/societe/police-justice/canicule-quatre-adolescents-morts-par-noyade-ce-week-end-20260621_2PEBIQHSDNH2LJCYQYQMYCSJIM/",
-      "image": null,
-      "date": "2026-06-22T09:23:44+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Deux septuagénaires retrouvés morts dans la piscine d’un gîte dans la Drôme",
-      "desc": "Un couple de locataires est décédé ce dimanche 21 juin en fin d’après-midi sans que les circonstances de cette tragédie soient encore connues, révèle «Ici Drôme Ardèche». Une enquête a été ouverte.",
-      "url": "https://www.liberation.fr/societe/police-justice/deux-septuagenaires-retrouves-morts-dans-la-piscine-dun-gite-dans-la-drome-20260622_P7KDRQQ4BFGM3PSLDCAP2NVX4I/",
-      "image": null,
-      "date": "2026-06-22T09:00:51+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le géographe et fondateur de la revue «Hérodote» Yves Lacoste est mort à 96 ans",
-      "desc": "Le professeur, père de la géopolitique moderne, s’est éteint chez lui samedi 20 juin entouré de ses proches, rapportent «le Monde» et «le Grand Continent».",
-      "url": "https://www.liberation.fr/sciences/le-geographe-et-fondateur-de-la-revue-herodote-yves-lacoste-est-mort-a-96-ans-20260622_77QM3TSRRJFSDGUMZXOQFQH4TQ/",
-      "image": null,
-      "date": "2026-06-22T07:28:15+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Aide à mourir : l’administration du geste létal et le délit d’entrave au cœur de débats décisifs à l’Assemblée",
@@ -91,16 +101,6 @@
       "date_formatted": "21 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Un premier cas de grippe aviaire H5 détecté en Australie",
-      "desc": "Cette découverte signifie que la maladie s'est désormais propagée à tous les continents.",
-      "url": "https://www.franceinfo.fr/sante/maladie/grippe-aviaire/un-premier-cas-de-grippe-aviaire-h5-detecte-en-australie_8071199.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/I1YMIEqwIfThVZtU260jg3nIZnk/0x260:5010x3079/432x243/filters:format(jpg)/2026/06/20/6a362daf9ca6e948846623.jpg",
-      "date": "2026-06-20T11:16:48+00:00",
-      "date_formatted": "20 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer colorectal : des virus cachés dans nos bactéries pourraient changer la donne",
@@ -233,16 +233,6 @@
       "type": "presse"
     },
     {
-      "title": "-30 % de maladies cardiovasculaires : voici le régime que des experts de Harvard recommandent vraiment",
-      "desc": "Manger mieux sans rien sacrifier, c'est la promesse tenue du régime méditerranéen. Des études rigoureuses menées sur des dizaines de milliers de personnes le confirment : ce mode alimentaire réduit concrètement le risque de maladies graves. Alors, pourquoi tant de gens ignorent encore ses...",
-      "url": "https://www.futura-sciences.com/sante/actualites/nutrition-30-maladies-cardiovasculaires-voici-regime-experts-harvard-recommandent-vraiment-k2m6-135270/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/e/c/6ecb23fb49_50256498_regime-alimentaire-mediterraneen.jpg",
-      "date": "2026-06-17T18:00:00+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "C’est quoi les NGT, cette nouvelle génération d’OGM approuvée par le Parlement européen ?",
       "desc": "Le Parlement européen a autorisé les nouvelles techniques génomiques (NGT) dans l’agriculture, qui permettent de modifier le génome d’une plante sans introduire d’ADN étranger, pour créer des variétés plus résistantes à la sécheresse ou aux maladies",
       "url": "https://www.20minutes.fr/sante/4229653-20260617-quoi-ngt-nouvelle-generation-ogm-approuvee-parlement-europeen?at_medium=display&at_campaign=149",
@@ -283,26 +273,6 @@
       "type": "science"
     },
     {
-      "title": "Mexique : De la tequila frelatée était vendue sur les réseaux sociaux, cinq morts après une fête d’anniversaire",
-      "desc": "Des informations sur les numéros de lot et la date de péremption auraient été masquées ou altérées, laissant penser que les contenants avaient été déjà utilisés",
-      "url": "https://www.20minutes.fr/monde/4229414-20260616-mexique-tequila-frelatee-vendue-reseaux-sociaux-cinq-morts-apres-fete-anniversaire?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/HrWOnJJPT-2eunGbfysTmyk/1200x768_l-alcool-avait-ete-achete-pour-etre-consomme-pendant-une-fete-de-mariage",
-      "date": "2026-06-16T13:42:39+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L’acteur Bruce Willis va bien malgré une maladie « méchante », assure son épouse Emma Heming-Willis",
-      "desc": "Au micro de Marc-Olivier Fogiel, l’épouse de l’acteur Bruce Willis a donné des nouvelles de son mari et a évoqué son rôle d’aidante",
-      "url": "https://www.20minutes.fr/arts-stars/people/4229385-20260616-acteur-bruce-willis-va-bien-malgre-maladie-mechante-assure-epouse-emma-heming-willis?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/iTOKi_qQR5GwVN7iASz1dCk/1200x768_bruce-willis-au-festival-de-cannes",
-      "date": "2026-06-16T12:02:36+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
       "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
       "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
@@ -311,16 +281,6 @@
       "date_formatted": "16 June 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "« Sur le terrain, c’est la catastrophe » : à Bunia, en RDC, face à une épidémie d’Ebola hors de contrôle",
-      "desc": "Un mois après la déclaration officielle de l’épidémie par les autorités congolaises, le virus continue de se propager et le nombre de victimes ne fait qu’augmenter.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/16/sur-le-terrain-c-est-la-catastrophe-a-bunia-en-rdc-face-a-une-epidemie-d-ebola-hors-de-controle_6703493_3212.html",
-      "image": "https://img.lemde.fr/2026/06/15/498/0/5976/2988/644/322/60/0/6e3ea54_upload-1-pfvll8fztrfg-16-pb-lemonde-ebola-bunia-rwampara-ituri-rdc.jpg",
-      "date": "2026-06-16T07:02:10+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
