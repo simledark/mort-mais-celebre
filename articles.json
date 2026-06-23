@@ -1,7 +1,107 @@
 {
-  "generated_at": "2026-06-23T08:54:16.409078+00:00",
-  "count": 53,
+  "generated_at": "2026-06-23T14:18:58.951653+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "EN DIRECT - Canicule : 58 départements en vigilance rouge mercredi, 31 en orange",
+      "desc": "Le thermomètre reste au plus haut ce mardi pour près de 40 millions de Français, après des records de température lundi et des morts liés à la chaleur. Plus de la moitié de l’Hexagone est en vigilance rouge, du jamais-vu.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-54-departements-en-vigilance-rouge-ce-mardi-20260623_UVFXNYTAY5G5JLJTIQDES5CG4Y/",
+      "image": null,
+      "date": "2026-06-23T14:10:13+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Emporter un objet gonflable, ne pas être seul, alerter les secours… Quels sont les bons réflexes à adopter lorsqu’on est témoin d’une noyade ?",
+      "desc": "En pleine canicule, 40 personnes sont mortes noyées en moins d’une semaine. Pour éviter les surnoyades, il existe quelques règles à suivre pour porter secours à une victime en toute sécurité.",
+      "url": "https://www.liberation.fr/societe/sante/emporter-un-objet-gonflable-ne-pas-etre-seul-alerter-les-secours-quels-sont-les-bons-reflexes-a-adopter-lorsquon-est-temoin-dune-noyade-20260623_7L7ED2NLGZBOHBFAWW53QHOYY4/",
+      "image": null,
+      "date": "2026-06-23T13:51:17+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Avec Yves Lacoste, la géographie menée au sommet de son art",
+      "desc": "Spécialiste de géopolitique, fondateur et directeur de la revue «Hérodote», Yves Lacoste est mort le 20 juin, à 96 ans. Le géographe et diplomate Michel Foucher loue celui qui a su redéfinir la discipline en un outil d’anticipation politique, faisant d’elle le noyau dur de toute analyse géopolitique",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/avec-yves-lacoste-la-geographie-menee-au-sommet-de-son-art-20260623_MZ3CP43JAJFZHCJ26636HA4THM/",
+      "image": null,
+      "date": "2026-06-23T13:28:44+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vous avez beaucoup de grains de beauté ? Cette étude révèle pourquoi il faut les surveiller",
+      "desc": "Chaque été, les dermatologues rappellent l'importance de protéger sa peau du soleil. Mais une vaste étude génétique menée par des chercheurs australiens montre que le risque de mélanome ne dépend pas seulement des UV.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-peau-vous-avez-beaucoup-grains-beaute-cette-etude-revele-il-faut-surveiller-135555/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/6/b/06bac0d458_50256988_coup-soleil-bronzage.jpg",
+      "date": "2026-06-23T13:08:27+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cancers et maladies cardiovasculaires restent en tête des décès en France",
+      "desc": "Les tumeurs et les maladies cardiovasculaires sont restées en 2024 les premières causes de décès en France, en totalisant près de la moitié à elles seules, selon un bilan annuel publié mardi 23 juin par plusieurs organismes de recherche.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancers-et-maladies-cardiovasculaires-restent-en-tete-des-deces-en-france_193355?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/23/cover-r4x3w1200-6a3a4bad1da0f-sante-publique-francejpg.jpg",
+      "date": "2026-06-23T12:48:49+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Le vaccin contre le Covid-19 améliore très légèrement la survie des patients traités par une immunothérapie des cancers",
+      "desc": "Selon une étude de cohorte conduite chez près de 31 000 personnes atteintes de divers cancers, l’administration d’un vaccin à ARN contre le Covid-19, dans les quatre-vingt-dix jours suivant le début d’une immunothérapie, augmente de 9 % la survie. Ce qui ne justifie pas, à ce stade, un changement du",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/23/le-vaccin-contre-le-covid-19-ameliore-tres-legerement-la-survie-des-patients-traites-par-une-immunotherapie-des-cancers_6708614_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/3cf63b3_upload-1-o1bedzbceqr3-frame-638.jpg",
+      "date": "2026-06-23T12:30:11+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Canicule : un jeune footballeur, Kenzo Kies, en état de mort cérébrale après s’être noyé à Lyon",
+      "desc": "Agé de 21 ans, le sportif qui évoluait cette année avec la réserve de Guingamp en Nationale 3, se baignait avec trois autres personnes lundi dans une zone interdite. Le parquet n’a pas encore communiqué sur son état de santé.",
+      "url": "https://www.liberation.fr/environnement/climat/canicule-un-joueur-de-ligue-2-en-urgence-absolue-apres-setre-noye-a-lyon-20260623_ICDDJC5JQZH4PAL5EI7H2EXIQI/",
+      "image": null,
+      "date": "2026-06-23T11:32:33+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ces simples habitudes pourraient réduire de 21 % le risque de cumuler plusieurs maladies chroniques",
+      "desc": "Vieillir en bonne santé est devenu un enjeu majeur de santé publique, alors que de plus en plus de personnes vivent avec plusieurs maladies chroniques. De nouveaux travaux américains suggèrent que certaines habitudes adoptées dès la quarantaine ou la cinquantaine pourraient faire une réelle...",
+      "url": "https://www.futura-sciences.com/sante/actualites/diabete-ces-simples-habitudes-pourraient-reduire-21-risque-cumuler-plusieurs-maladies-chroniques-135545/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/7/5/975fd999e5_50256974_activite-physique-femme.jpg",
+      "date": "2026-06-23T11:07:12+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Disparition de la mère de la présentatrice américaine Savannah Guthrie : une lettre exigeant une rançon indique sa mort",
+      "desc": "Enlevée depuis cinq mois à Tucson, dans l’Arizona, Nancy Guthrie, octogénaire, aurait été tuée par ses ravisseurs, selon un courrier transmis en février à plusieurs médias américains révélée lundi 22 juin.",
+      "url": "https://www.liberation.fr/international/amerique/disparition-de-la-mere-de-la-presentatrice-americaine-savannah-guthrie-une-note-de-rancon-indique-sa-mort-20260623_AMVAQNPPWNBM3DDA4ZFTH7ST7Y/",
+      "image": null,
+      "date": "2026-06-23T10:28:48+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : l’Allemagne, la Belgique, l’Espagne, l’Italie, le Portugal et le Royaume-Uni également touchés",
+      "desc": "Plusieurs pays subissent également une vague de chaleur : alertes rouges, morts par noyade, records historiques..., les voisins de la France souffrent aussi.",
+      "url": "https://www.liberation.fr/environnement/climat/canicule-lallemagne-la-belgique-lespagne-litalie-le-portugal-et-le-royaume-uni-egalement-touches-20260623_MW5UNRWBDVHCNIFCSS2UEQ6HCE/",
+      "image": null,
+      "date": "2026-06-23T10:01:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "40 % des cas de démence pourraient être évités : voici les 7 habitudes à surveiller après 60 ans",
       "desc": "Mot oublié, clés introuvables, rendez-vous qui s'efface… Après 60 ans, ces petits ratés font parfois resurgir une peur sourde : et si c'était le début de la démence ? Bonne nouvelle, une partie du risque se joue dans des gestes parfaitement ordinaires. Voici les sept habitudes du quotidien à...",
@@ -23,24 +123,24 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Canicule : une centrale nucléaire à l’arrêt dans le Tarn-et-Garonne, une réunion interministérielle de crise attendue dans la matinée",
-      "desc": "Le mercure reste également au plus haut ce mardi pour près de 40 millions de Français, après des records de température lundi et des morts liés à la chaleur. Plus de la moitié de l’Hexagone est en vigilance rouge, du jamais-vu.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-54-departements-en-vigilance-rouge-ce-mardi-20260623_UVFXNYTAY5G5JLJTIQDES5CG4Y/",
-      "image": null,
-      "date": "2026-06-23T08:44:16+00:00",
+      "title": "Essai clinique sauvage : l'affaire Joyeux-Fourtillan",
+      "desc": "Près de 400 patients atteints d'Alzheimer ou de Parkinson auraient participé à un essai non autorisé autour de \"patchs thérapeutiques\", mené par Jean-Bernard Fourtillan et Henri Joyeux. L'affaire, jugée à partir du 25 juin à Paris, remet en lumière les règles strictes qui encadrent aujourd'hui toute",
+      "url": "https://www.sciencesetavenir.fr/sante/des-patchs-therapeutiques-au-tribunal-un-essai-clinique-sauvage_193339?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/22/cover-r4x3w1200-6a3945146db09-williamcho-justice-2060093.jpg",
+      "date": "2026-06-23T08:58:33+00:00",
       "date_formatted": "23 June 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
-      "title": "Canicule : l’Allemagne, la Belgique, l’Espagne, l’Italie, le Portugal et le Royaume-Uni également touchés",
-      "desc": "Plusieurs pays subissent également une vague de chaleur : alertes rouges, morts par noyade, records historiques..., les voisins de la France souffrent aussi.",
-      "url": "https://www.liberation.fr/environnement/climat/canicule-lallemagne-la-belgique-lespagne-litalie-le-portugal-et-le-royaume-uni-egalement-touches-20260623_MW5UNRWBDVHCNIFCSS2UEQ6HCE/",
-      "image": null,
-      "date": "2026-06-23T08:39:07+00:00",
+      "title": "Ebola en RDC : plus de 1.000 cas et 254 décès, selon un dernier bilan officiel",
+      "desc": "L'Institut national de santé publique congolais a enregistré 1.003 cas et 254 décès, soit un taux de létalité moyen de 25,3%.",
+      "url": "https://www.sciencesetavenir.fr/sante/ebola-en-rdc-plus-de-1-000-cas-et-254-deces-selon-un-dernier-bilan-officiel_193345?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/22/cover-r4x3w1200-6a39890539929-fcd1cc18f299bf179dbd4ebee93f9a36fdecc09e-jpg.jpg",
+      "date": "2026-06-23T08:58:31+00:00",
       "date_formatted": "23 June 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Une brève histoire de l’ANDV, le mystérieux hantavirus des Andes",
@@ -53,16 +153,6 @@
       "type": "science"
     },
     {
-      "title": "Sommes-nous égaux face à la chaleur ? «Les personnes qui transpirent efficacement sont celles qui s’acclimatent le mieux»",
-      "desc": "Genre, âge, gènes, transpiration… L’explorateur et chercheur Christian Clot, spécialiste de l’adaptation humaine, passe en revue les facteurs qui influencent notre capacité à faire face aux fortes chaleurs.",
-      "url": "https://www.liberation.fr/environnement/sommes-nous-egaux-face-a-la-chaleur-les-personnes-qui-transpirent-efficacement-sont-celles-qui-sacclimatent-le-mieux-20260623_W4VBLHRTJ5ECJC2KPAHFWZZR6M/",
-      "image": null,
-      "date": "2026-06-23T08:05:00+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Les cancers et les maladies cardio-vasculaires, premières causes de décès en France en 2024",
       "desc": "Le taux de mortalité des Français atteint un niveau historiquement bas, à 777,9 pour 100 000 habitants. La mortalité due aux maladies respiratoires continue de progresser.",
       "url": "https://www.lemonde.fr/societe/article/2026/06/23/les-cancers-et-les-maladies-cardiovasculaires-premieres-causes-de-deces-en-france-en-2024_6708568_3224.html",
@@ -70,16 +160,6 @@
       "date": "2026-06-23T07:57:22+00:00",
       "date_formatted": "23 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin du round de négociations, l’Iran veut garder le contrôle du détroit d’Ormuz, cellule de crise au Liban… L’actu du conflit au Moyen-Orient ce mardi 23 juin",
-      "desc": "L’essentiel des informations du jour sur la guerre dans la région.",
-      "url": "https://www.liberation.fr/international/moyen-orient/fin-du-round-de-negociations-liran-veut-garder-le-controle-du-detroit-dormuz-cellule-de-crise-au-liban-lactu-du-conflit-au-moyen-orient-ce-mardi-23-juin-20260623_7TTLWORZKZF3VDK5WPEQ2WHTWU/",
-      "image": null,
-      "date": "2026-06-23T07:18:47+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -93,16 +173,6 @@
       "type": "presse"
     },
     {
-      "title": "Montréal : un assaillant «incel» fait deux morts dans un quartier juif",
-      "desc": "L’homme abattu lundi par les forces de l’ordre a tué un habitant et un policier. Selon Radio Canada, il avait précédemment publié un manifeste masculiniste.",
-      "url": "https://www.liberation.fr/international/amerique/montreal-un-assaillant-incel-fait-deux-morts-dans-un-quartier-juif-20260623_P3ABHVDYJNCEFFTDKWWTDHQM2Y/",
-      "image": null,
-      "date": "2026-06-23T06:16:40+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Cancers, maladies cardiovasculaires… Quelles sont les principales causes de décès en France ?",
       "desc": "Les tumeurs, qui correspondent essentiellement à la mortalité liée aux cancers, constituaient en 2024 27,1 % des décès",
       "url": "https://www.20minutes.fr/societe/4230648-20260623-cancers-maladies-cardiovasculaires-principales-causes-deces-france?at_medium=display&at_campaign=149",
@@ -110,16 +180,6 @@
       "date": "2026-06-23T05:51:11+00:00",
       "date_formatted": "23 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Tour de France : le prix Jacques-Goddet décerné à Quentin Girard, journaliste à «Libération»",
-      "desc": "Pour un article sur les coureurs et la peur de la mort, notre journaliste est couronné par un prix qui récompense chaque année le meilleur article de presse francophone sur le Tour.",
-      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-le-prix-jacques-goddet-decerne-a-quentin-girard-journaliste-a-liberation-20260623_L6NWDT2BMVEH7CCEJTRPKZ3VNY/",
-      "image": null,
-      "date": "2026-06-23T05:00:00+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -293,16 +353,6 @@
       "type": "presse"
     },
     {
-      "title": "Brûlures d’estomac : des chercheurs explorent une piste inattendue pour protéger l’œsophage",
-      "desc": "Un reflux gastro-œsophagien mal contrôlé peut, à long terme, favoriser l’apparition d’un cancer de l’œsophage. Mais des chercheurs américains viennent de mettre en lumière une approche aussi surprenante que prometteuse : l’utilisation de probiotiques pour limiter l’inflammation, réparer les...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-oesophage-brulures-estomac-chercheurs-explorent-piste-inattendue-proteger-oesophage-135366/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/8/4/b843534d80_50256645_reflux-gastrique.jpg",
-      "date": "2026-06-18T14:43:57+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Quand la chaleur démasque une maladie génétique silencieuse",
       "desc": "Certaines pathologies d’origine génétique ne se manifestent cliniquement qu’en cas de changement de température, révélant une vulnérabilité cardiaque, musculaire ou neurologique jusqu’alors invisible.",
       "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/18/quand-la-chaleur-demasque-une-maladie-genetique-silencieuse_6704529_6579630.html",
@@ -323,16 +373,6 @@
       "type": "science"
     },
     {
-      "title": "Une semaine d'eau froide suffirait à transformer vos cellules : voici ce que les chercheurs ont observé",
-      "desc": "Une plongée régulière dans l'eau froide pourrait transformer votre organisme au niveau cellulaire. Des chercheurs canadiens ont découvert que cette pratique déclenche des mécanismes de protection et de régénération essentiels. Comment quelques minutes de frisson quotidien pourraient-elles...",
-      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-semaine-eau-froide-suffirait-transformer-vos-cellules-voici-ce-chercheurs-ont-observe-w2t8-135141/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/8/5/585785e781_50256267_eau-froide-corps-humain.jpg",
-      "date": "2026-06-18T08:00:00+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Fin de vie : pourquoi le Conseil constitutionnel ferme la porte à un référendum",
       "desc": "Le sénateur LR Francis Szpiner, opposant à la loi sur l’aide à mourir, estimait possible de passer par la voie référendaire. Le Conseil constitutionnel lui a opposé une fin de non-recevoir, jugeant que sa proposition de loi n’entrait pas dans le champ des possibilités de référendum d’initiative part",
       "url": "https://www.lemonde.fr/societe/article/2026/06/17/fin-de-vie-pourquoi-le-conseil-constitutionnel-ferme-la-porte-a-un-referendum_6704276_3224.html",
@@ -340,16 +380,6 @@
       "date": "2026-06-17T18:31:19+00:00",
       "date_formatted": "17 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "C’est quoi les NGT, cette nouvelle génération d’OGM approuvée par le Parlement européen ?",
-      "desc": "Le Parlement européen a autorisé les nouvelles techniques génomiques (NGT) dans l’agriculture, qui permettent de modifier le génome d’une plante sans introduire d’ADN étranger, pour créer des variétés plus résistantes à la sécheresse ou aux maladies",
-      "url": "https://www.20minutes.fr/sante/4229653-20260617-quoi-ngt-nouvelle-generation-ogm-approuvee-parlement-europeen?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/FAP31mDQRkSvVbNYYnpajik/1200x768_les-membres-du-parlement-europeen-votent-sur-les-plantes-obtenues-par-certaines-nouvelles-techniques-genomiques-et-leurs-denrees-alimentaires-et-aliments-pour-animaux-au-parlement-europeen-a-strasbourg-dans-l-est-de-la-france-le-17-juin-2026-photo-de-sebastien-bozon-afp",
-      "date": "2026-06-17T15:57:48+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -361,16 +391,6 @@
       "date_formatted": "17 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "OGM : une nouvelle génération d’organismes génétiquement modifiés, non transgéniques, autorisée par le Parlement européen",
-      "desc": "Les nouvelles techniques génomiques modifient le génome des plantes sans introduction d’ADN étranger. Les eurodéputés ont donné leur ultime aval pour leur autorisation, mercredi, en rejetant tous les amendements qui auraient relancé les négociations sur ce texte.",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/17/agriculture-le-parlement-europeen-approuve-une-nouvelle-generation-d-ogm_6704233_3244.html",
-      "image": "https://img.lemde.fr/2026/06/16/943/0/5656/2828/644/322/60/0/214c081_ftp-1-gzx4ixxcbdlg-5335584-01-06.jpg",
-      "date": "2026-06-17T14:36:30+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Première transmission entre humains de la bactérie de la dermatophilose",
