@@ -1,56 +1,146 @@
 {
-  "generated_at": "2026-06-23T01:59:39.704850+00:00",
-  "count": 47,
+  "generated_at": "2026-06-23T08:54:16.409078+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "Ebola en RDC : 254 morts et plus de 1 000 cas, selon un dernier bilan officiel",
-      "desc": "L’épidémie qui frappe essentiellement trois provinces de la république démocratique du Congo a pour l’heure un taux de létalité moyen de 25,3%.",
-      "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-254-morts-et-plus-de-1-000-cas-selon-un-dernier-bilan-officiel-20260622_QGCLHSLJPZCBNAQBJH5CB3TSNI/",
+      "title": "40 % des cas de démence pourraient être évités : voici les 7 habitudes à surveiller après 60 ans",
+      "desc": "Mot oublié, clés introuvables, rendez-vous qui s'efface… Après 60 ans, ces petits ratés font parfois resurgir une peur sourde : et si c'était le début de la démence ? Bonne nouvelle, une partie du risque se joue dans des gestes parfaitement ordinaires. Voici les sept habitudes du quotidien à...",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-40-cas-demence-pourraient-etre-evites-voici-7-habitudes-surveiller-apres-60-ans-k2m6-135548/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/1/f/51fed7a240_50256972_demence-vieillissement.jpg",
+      "date": "2026-06-23T10:00:00+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Les cancers et maladies cardiovasculaires restent les principales causes de décès en France",
+      "desc": "Les cancers ont constitué 27,1% des décès en 2024, les maladies circulatoires en ont causé 21,2%.",
+      "url": "https://www.franceinfo.fr/sante/maladie/cancers-et-maladies-cardiovasculaires-restent-en-tete-des-deces-en-france_8075213.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/SSsqVQ2HIoCeAHdFIkd4HNJ2i4o/0x81:1024x657/432x243/filters:format(jpg)/2026/06/23/6a3a31c046d62118711115.jpg",
+      "date": "2026-06-23T09:32:04+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Canicule : une centrale nucléaire à l’arrêt dans le Tarn-et-Garonne, une réunion interministérielle de crise attendue dans la matinée",
+      "desc": "Le mercure reste également au plus haut ce mardi pour près de 40 millions de Français, après des records de température lundi et des morts liés à la chaleur. Plus de la moitié de l’Hexagone est en vigilance rouge, du jamais-vu.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-54-departements-en-vigilance-rouge-ce-mardi-20260623_UVFXNYTAY5G5JLJTIQDES5CG4Y/",
       "image": null,
-      "date": "2026-06-22T19:52:51+00:00",
-      "date_formatted": "22 June 2026",
+      "date": "2026-06-23T08:44:16+00:00",
+      "date_formatted": "23 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Canicule : la première épreuve du brevet maintenue vendredi, nouvelle cellule interministérielle de crise prévue mardi",
-      "desc": "La vague de chaleur touche désormais la quasi-totalité de l’Hexagone. Mardi, 89 départements seront placés en vigilance rouge ou orange, soit 90 % de la population.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-49-departements-en-vigilance-rouge-ce-lundi-des-centaines-decoles-fermees-20260622_2Q6QO37QOBHL5EVOJJYZYBKHJI/",
+      "title": "Canicule : l’Allemagne, la Belgique, l’Espagne, l’Italie, le Portugal et le Royaume-Uni également touchés",
+      "desc": "Plusieurs pays subissent également une vague de chaleur : alertes rouges, morts par noyade, records historiques..., les voisins de la France souffrent aussi.",
+      "url": "https://www.liberation.fr/environnement/climat/canicule-lallemagne-la-belgique-lespagne-litalie-le-portugal-et-le-royaume-uni-egalement-touches-20260623_MW5UNRWBDVHCNIFCSS2UEQ6HCE/",
       "image": null,
-      "date": "2026-06-22T19:48:57+00:00",
-      "date_formatted": "22 June 2026",
+      "date": "2026-06-23T08:39:07+00:00",
+      "date_formatted": "23 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Affaire Lyhanna : un substitut du procureur d’Auch ne pourra plus mener d’enquêtes et deux gendarmes ont vu leur mutation demandée",
-      "desc": "Gérald Darmanin et Laurent Nuñez ont précisé ce lundi 22 juin au soir les premières sanctions demandées à la suite de la remise du prérapport de la mission d’inspection, diligenté après la mort de la collégienne de 11 ans.",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-avant-la-prise-de-parole-de-darmanin-nunez-demande-la-mutation-doffice-de-deux-gendarmes-20260622_B3HFJTDMSVCCNFEO2KV52ORVX4/",
+      "title": "Une brève histoire de l’ANDV, le mystérieux hantavirus des Andes",
+      "desc": "Découvert en Argentine en 1995, l’ANDV est le seul hantavirus dont la transmission interhumaine a été clairement démontrée. Retour sur l’émergence d’un virus qui continue de mobiliser virologues et épidémiologistes.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/23/une-breve-histoire-de-l-andv-le-mysterieux-hantavirus-des-andes_6708571_6579630.html",
+      "image": "https://img.lemde.fr/2026/05/13/101/0/713/356/644/322/60/0/07384dd_upload-1-exfulbsm9e1z-andv-hantivirus-andes-argentine.png",
+      "date": "2026-06-23T08:15:32+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Sommes-nous égaux face à la chaleur ? «Les personnes qui transpirent efficacement sont celles qui s’acclimatent le mieux»",
+      "desc": "Genre, âge, gènes, transpiration… L’explorateur et chercheur Christian Clot, spécialiste de l’adaptation humaine, passe en revue les facteurs qui influencent notre capacité à faire face aux fortes chaleurs.",
+      "url": "https://www.liberation.fr/environnement/sommes-nous-egaux-face-a-la-chaleur-les-personnes-qui-transpirent-efficacement-sont-celles-qui-sacclimatent-le-mieux-20260623_W4VBLHRTJ5ECJC2KPAHFWZZR6M/",
       "image": null,
-      "date": "2026-06-22T18:39:35+00:00",
-      "date_formatted": "22 June 2026",
+      "date": "2026-06-23T08:05:00+00:00",
+      "date_formatted": "23 June 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Les cancers et les maladies cardio-vasculaires, premières causes de décès en France en 2024",
+      "desc": "Le taux de mortalité des Français atteint un niveau historiquement bas, à 777,9 pour 100 000 habitants. La mortalité due aux maladies respiratoires continue de progresser.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/23/les-cancers-et-les-maladies-cardiovasculaires-premieres-causes-de-deces-en-france-en-2024_6708568_3224.html",
+      "image": "https://img.lemde.fr/2026/06/23/443/0/5321/2660/644/322/60/0/0736a53_upload-1-7v8lfwupn3x5-000-9bt7d4.jpg",
+      "date": "2026-06-23T07:57:22+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fin du round de négociations, l’Iran veut garder le contrôle du détroit d’Ormuz, cellule de crise au Liban… L’actu du conflit au Moyen-Orient ce mardi 23 juin",
+      "desc": "L’essentiel des informations du jour sur la guerre dans la région.",
+      "url": "https://www.liberation.fr/international/moyen-orient/fin-du-round-de-negociations-liran-veut-garder-le-controle-du-detroit-dormuz-cellule-de-crise-au-liban-lactu-du-conflit-au-moyen-orient-ce-mardi-23-juin-20260623_7TTLWORZKZF3VDK5WPEQ2WHTWU/",
+      "image": null,
+      "date": "2026-06-23T07:18:47+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les tumeurs cancéreuses restent la première cause médicale de mortalité en France en 2024",
+      "desc": "Les cancers restent de loin la première cause de décès en France en 2024, devant les maladies cardiovasculaires et respiratoires. Malgré une légère hausse du nombre de décès, l'espérance de vie continue de progresser, notamment chez les femmes.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/les-tumeurs-cancereuses-restent-la-premiere-cause-medicale-de-mortalite-en-france-en-2024_8075024.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/2E7bfiYIAFn7zhKkyuzKSkEaHOM/0x295:5662x3480/432x243/filters:format(jpg)/2026/06/23/6a3a14b12f585573210070.jpg",
+      "date": "2026-06-23T07:12:32+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Montréal : un assaillant «incel» fait deux morts dans un quartier juif",
+      "desc": "L’homme abattu lundi par les forces de l’ordre a tué un habitant et un policier. Selon Radio Canada, il avait précédemment publié un manifeste masculiniste.",
+      "url": "https://www.liberation.fr/international/amerique/montreal-un-assaillant-incel-fait-deux-morts-dans-un-quartier-juif-20260623_P3ABHVDYJNCEFFTDKWWTDHQM2Y/",
+      "image": null,
+      "date": "2026-06-23T06:16:40+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancers, maladies cardiovasculaires… Quelles sont les principales causes de décès en France ?",
+      "desc": "Les tumeurs, qui correspondent essentiellement à la mortalité liée aux cancers, constituaient en 2024 27,1 % des décès",
+      "url": "https://www.20minutes.fr/societe/4230648-20260623-cancers-maladies-cardiovasculaires-principales-causes-deces-france?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/u3tWL58dSvONF_7bDbhhwyk/1200x768_le-ministre-francais-de-la-sante-a-rencontre-des-patients-et-des-equipes-soignantes-pour-discuter-de-la-prise-en-charge-de-l-obesite-des-voies-de-traitement-et-du-soutien-quotidien-apporte-par-le-personnel-medical-du-centre-le-28-mai-2026-a-paris-sipa-sipa0021-credit-martin-rodier-sipa-2605290936",
+      "date": "2026-06-23T05:51:11+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Tour de France : le prix Jacques-Goddet décerné à Quentin Girard, journaliste à «Libération»",
+      "desc": "Pour un article sur les coureurs et la peur de la mort, notre journaliste est couronné par un prix qui récompense chaque année le meilleur article de presse francophone sur le Tour.",
+      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-le-prix-jacques-goddet-decerne-a-quentin-girard-journaliste-a-liberation-20260623_L6NWDT2BMVEH7CCEJTRPKZ3VNY/",
+      "image": null,
+      "date": "2026-06-23T05:00:00+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "Darwin, entre dans ce corps !",
       "desc": "Le numéro estival spécial de la revue Espèces présente l’état actuel de la théorie de l’évolution dont les bases furent posées par Charles Darwin. Parmi ses avancées, l’introduction dans la vie des cellules de ses concepts fondamentaux : variation, sélection, filiation. Au détriment de la métaphore ",
       "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/06/22/darwin-entre-dans-ce-corps_6708038_6565027.html",
       "image": "https://img.lemde.fr/2026/06/22/393/0/1000/500/644/322/60/0/3526a26_upload-1-eetf4e7nxohz-060especes-001bdef.jpg",
-      "date": "2026-06-22T17:22:39+00:00",
+      "date": "2026-06-22T17:22:38+00:00",
       "date_formatted": "22 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "«La maman aurait oublié ses enfants» : à Carpentras, deux petits garçons retrouvés morts dans une voiture en pleine canicule",
-      "desc": "Les deux enfants âgés de 2 et 4 ans se seraient glissés dans le véhicule à l’insu de leur mère, qui s’en serait aperçue «trop tard». Une autre source policière affirme qu’elle aurait déclaré avoir «oublié ses enfants» pendant les courses.",
-      "url": "https://www.liberation.fr/societe/police-justice/deux-enfants-retrouves-morts-dans-la-voiture-de-leurs-parents-a-carpentras-en-pleine-canicule-20260622_WNLNOA4HFFCEJN3QRSP5RORWUM/",
-      "image": null,
-      "date": "2026-06-22T17:12:35+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Une personne âgée sur deux verrait sa santé s’améliorer, révèle une étude américaine : comment font ceux qui y arrivent ?",
@@ -61,26 +151,6 @@
       "date_formatted": "22 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Canicule : comment compte-t-on les morts liées aux fortes chaleurs ?",
-      "desc": "Les températures élevées ont déjà commencé à faire des victimes. Si les estimations de Santé publique France se sont affinées, le bilan exact restera difficile à établir avec précision.",
-      "url": "https://www.liberation.fr/checknews/canicule-comment-compte-t-on-les-morts-liees-aux-fortes-chaleurs-20260622_ZX3L2SHO6ZD6RAS6LVLHTG4OSE/",
-      "image": null,
-      "date": "2026-06-22T17:02:57+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort du producteur de musique Clive Davis, qui avait notamment découvert Whitney Houston",
-      "desc": "Cette figure de proue de l’industrie musicale américaine avait également été l’artisan des succès d’Aretha Franklin, Bruce Spingsteen ou Santana. Il est mort ce lundi à 94 ans.",
-      "url": "https://www.liberation.fr/culture/musique/mort-du-producteur-de-musique-clive-davis-qui-avait-notamment-decouvert-whitney-houston-20260622_TGUMU3VP2FCZ3OFCOOJUBOAFWE/",
-      "image": null,
-      "date": "2026-06-22T16:48:12+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Quel sport (et sur quelle durée) permet d’allonger son espérance de vie ? Des scientifiques ont répondu",
@@ -458,16 +528,6 @@
       "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
       "image": null,
       "date": "2026-04-21T15:30:59+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
-      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
-      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
-      "image": null,
-      "date": "2026-04-21T08:00:54+00:00",
       "date_formatted": "21 April 2026",
       "source": "Inserm",
       "type": "science"
