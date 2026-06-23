@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-23T14:18:58.951653+00:00",
-  "count": 55,
+  "generated_at": "2026-06-23T19:46:57.053202+00:00",
+  "count": 49,
   "articles": [
     {
-      "title": "EN DIRECT - Canicule : 58 départements en vigilance rouge mercredi, 31 en orange",
+      "title": "EN DIRECT - Canicule : avec 29,8 °C en moyenne, mardi devient la journée la plus chaude jamais enregistrée en France, devant août 2003",
       "desc": "Le thermomètre reste au plus haut ce mardi pour près de 40 millions de Français, après des records de température lundi et des morts liés à la chaleur. Plus de la moitié de l’Hexagone est en vigilance rouge, du jamais-vu.",
       "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-54-departements-en-vigilance-rouge-ce-mardi-20260623_UVFXNYTAY5G5JLJTIQDES5CG4Y/",
       "image": null,
-      "date": "2026-06-23T14:10:13+00:00",
+      "date": "2026-06-23T19:36:37+00:00",
       "date_formatted": "23 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Emporter un objet gonflable, ne pas être seul, alerter les secours… Quels sont les bons réflexes à adopter lorsqu’on est témoin d’une noyade ?",
-      "desc": "En pleine canicule, 40 personnes sont mortes noyées en moins d’une semaine. Pour éviter les surnoyades, il existe quelques règles à suivre pour porter secours à une victime en toute sécurité.",
-      "url": "https://www.liberation.fr/societe/sante/emporter-un-objet-gonflable-ne-pas-etre-seul-alerter-les-secours-quels-sont-les-bons-reflexes-a-adopter-lorsquon-est-temoin-dune-noyade-20260623_7L7ED2NLGZBOHBFAWW53QHOYY4/",
-      "image": null,
-      "date": "2026-06-23T13:51:17+00:00",
+      "title": "Voici les aliments du quotidien associés à une mémoire mieux préservée avec l'âge selon les spécialistes",
+      "desc": "Et si votre prochain repas pouvait protéger votre mémoire ? Poissons gras, fruits rouges, légumes verts… Certains aliments agissent comme un véritable bouclier pour le cerveau. Voici lesquels mettre dans votre assiette, et ceux qu'il vaut mieux laisser de côté.",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-voici-aliments-quotidien-associes-memoire-mieux-preservee-age-selon-specialistes-k2m6-135559/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/a/1/1a120d1d4f_50256989_aliments-preserver-memoire.jpg",
+      "date": "2026-06-23T18:00:00+00:00",
       "date_formatted": "23 June 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
-      "title": "Avec Yves Lacoste, la géographie menée au sommet de son art",
-      "desc": "Spécialiste de géopolitique, fondateur et directeur de la revue «Hérodote», Yves Lacoste est mort le 20 juin, à 96 ans. Le géographe et diplomate Michel Foucher loue celui qui a su redéfinir la discipline en un outil d’anticipation politique, faisant d’elle le noyau dur de toute analyse géopolitique",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/avec-yves-lacoste-la-geographie-menee-au-sommet-de-son-art-20260623_MZ3CP43JAJFZHCJ26636HA4THM/",
+      "title": "Au moins quarante morts par noyade en France en une semaine : la canicule, facteur aggravant des accidents",
+      "desc": "Eté après été, les chiffres de morts par noyade explosent, allant de pair avec la multiplication des épisodes de chaleur extrême. Après une année 2025 record, tout indique que 2026 risque de suivre la même tendance.",
+      "url": "https://www.liberation.fr/societe/sante/canicule-au-moins-quarante-morts-par-noyade-deja-recensee-en-france-en-moins-dune-semaine-20260623_CPQ3QD6WPZHW5CYHNPQVYYN72E/",
       "image": null,
-      "date": "2026-06-23T13:28:44+00:00",
+      "date": "2026-06-23T17:08:55+00:00",
       "date_formatted": "23 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -63,16 +63,6 @@
       "type": "science"
     },
     {
-      "title": "Canicule : un jeune footballeur, Kenzo Kies, en état de mort cérébrale après s’être noyé à Lyon",
-      "desc": "Agé de 21 ans, le sportif qui évoluait cette année avec la réserve de Guingamp en Nationale 3, se baignait avec trois autres personnes lundi dans une zone interdite. Le parquet n’a pas encore communiqué sur son état de santé.",
-      "url": "https://www.liberation.fr/environnement/climat/canicule-un-joueur-de-ligue-2-en-urgence-absolue-apres-setre-noye-a-lyon-20260623_ICDDJC5JQZH4PAL5EI7H2EXIQI/",
-      "image": null,
-      "date": "2026-06-23T11:32:33+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Ces simples habitudes pourraient réduire de 21 % le risque de cumuler plusieurs maladies chroniques",
       "desc": "Vieillir en bonne santé est devenu un enjeu majeur de santé publique, alors que de plus en plus de personnes vivent avec plusieurs maladies chroniques. De nouveaux travaux américains suggèrent que certaines habitudes adoptées dès la quarantaine ou la cinquantaine pourraient faire une réelle...",
       "url": "https://www.futura-sciences.com/sante/actualites/diabete-ces-simples-habitudes-pourraient-reduire-21-risque-cumuler-plusieurs-maladies-chroniques-135545/#xtor%3DRSS-8",
@@ -81,26 +71,6 @@
       "date_formatted": "23 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Disparition de la mère de la présentatrice américaine Savannah Guthrie : une lettre exigeant une rançon indique sa mort",
-      "desc": "Enlevée depuis cinq mois à Tucson, dans l’Arizona, Nancy Guthrie, octogénaire, aurait été tuée par ses ravisseurs, selon un courrier transmis en février à plusieurs médias américains révélée lundi 22 juin.",
-      "url": "https://www.liberation.fr/international/amerique/disparition-de-la-mere-de-la-presentatrice-americaine-savannah-guthrie-une-note-de-rancon-indique-sa-mort-20260623_AMVAQNPPWNBM3DDA4ZFTH7ST7Y/",
-      "image": null,
-      "date": "2026-06-23T10:28:48+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule : l’Allemagne, la Belgique, l’Espagne, l’Italie, le Portugal et le Royaume-Uni également touchés",
-      "desc": "Plusieurs pays subissent également une vague de chaleur : alertes rouges, morts par noyade, records historiques..., les voisins de la France souffrent aussi.",
-      "url": "https://www.liberation.fr/environnement/climat/canicule-lallemagne-la-belgique-lespagne-litalie-le-portugal-et-le-royaume-uni-egalement-touches-20260623_MW5UNRWBDVHCNIFCSS2UEQ6HCE/",
-      "image": null,
-      "date": "2026-06-23T10:01:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "40 % des cas de démence pourraient être évités : voici les 7 habitudes à surveiller après 60 ans",
@@ -253,16 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "Maladies parodontales : \"Non, ce n'est pas normal de saigner des gencives\" prévient un chirurgien-dentiste",
-      "desc": "Un saignement de gencives peut être le signe d'une future pathologie, explique le docteur Adrian Brun, chirurgien-dentiste à l'hôpital et enseignant-chercheur.",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/maladies-parodontales-non-ce-n-est-pas-normal-de-saigner-des-gencives-previent-un-chirurgien-dentiste_8020871.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/7mg4nk9zi_p9JSOX689kK0VTTNw/0x0:2308x1299/432x243/filters:format(jpg)/2026/06/19/6a350cbe1f6fe870317932.jpg",
-      "date": "2026-06-21T10:00:04+00:00",
-      "date_formatted": "21 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cinquante ans de mystère levé : voici comment l'aspirine empêche le cancer de se propager selon une étude",
       "desc": "Une équipe de chercheurs britanniques vient d’identifier le mécanisme par lequel cet antidouleur permet au système immunitaire de détruire les cellules cancéreuses.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-cinquante-ans-mystere-leve-voici-aspirine-empeche-cancer-propager-selon-etude-w2t8-135511/#xtor%3DRSS-8",
@@ -333,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Voici les aliments qu'un cardiologue conseille de réduire pour préserver son taux de cholestérol",
-      "desc": "Le cholestérol tue encore trop silencieusement en France, où les maladies cardiovasculaires restent la deuxième cause de mortalité. Pourtant, l'alimentation reste le levier le plus immédiat pour agir. Un cardiologue américain a récemment pointé trois aliments du quotidien qui sabotent nos...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cholesterol-voici-aliments-quun-cardiologue-conseille-reduire-preserver-son-taux-cholesterol-k2m6-135284/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/6/3/963b6a39af_50256521_cholesterol-alimentation.jpg",
-      "date": "2026-06-18T18:00:00+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Epidémie d’Ebola : un mois après le début, le bilan dépasse les 200 morts en RDC, avec un taux de mortalité de 23 %",
       "desc": "Les tests en laboratoire ont confirmé que le virus avait contaminé 875 personnes en RDC depuis le 15 mai. L’épidémie actuelle est provoquée par l’espèce Bundibugyo du virus, contre laquelle il n’existe ni vaccin ni traitement spécifique.",
       "url": "https://www.lemonde.fr/sante/article/2026/06/18/un-mois-apres-le-debut-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-le-bilan-depasse-200-morts_6704568_1651302.html",
@@ -380,16 +330,6 @@
       "date": "2026-06-17T18:31:19+00:00",
       "date_formatted": "17 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une esthéticienne condamnée à quatre ans de prison pour une injection mortelle de silicone à un sosie de Kim Kardashian",
-      "desc": "Une esthéticienne américaine a été condamnée à quatre ans de prison pour homicide involontaire après la mort d’une de ses clientes",
-      "url": "https://www.20minutes.fr/faits_divers/4229662-20260617-estheticienne-condamnee-quatre-ans-prison-injection-mortelle-silicone-sosie-kim-kardashian?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/X9iPGntyQbeRqVpUzfw4gCk/1200x768_christina-gourkani-etait-connue-sur-les-reseaux-sociaux-comme-le-sosie-de-kim-kardashian",
-      "date": "2026-06-17T15:42:36+00:00",
-      "date_formatted": "17 June 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
