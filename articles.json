@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-06-23T19:46:57.053202+00:00",
-  "count": 49,
+  "generated_at": "2026-06-24T01:59:49.156102+00:00",
+  "count": 50,
   "articles": [
     {
-      "title": "EN DIRECT - Canicule : avec 29,8 °C en moyenne, mardi devient la journée la plus chaude jamais enregistrée en France, devant août 2003",
+      "title": "Coupe du monde 2026 : Didier Deschamps va rentrer en France après la mort de sa mère",
+      "desc": "Le sélectionneur ne dirigera pas les Bleus lors de leur dernier match de groupe, contre la Norvège vendredi. C’est son adjoint, Guy Stéphan, qui le remplacera pour cette rencontre.",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-didier-deschamps-va-rentrer-en-france-apres-la-mort-de-sa-mere-20260623_R2RDNKK6VJBKVHO3WBBVUSIA3I/",
+      "image": null,
+      "date": "2026-06-23T20:00:43+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : avec 29,8 °C en moyenne, mardi devient la journée la plus chaude jamais enregistrée en France, devant août 2003",
       "desc": "Le thermomètre reste au plus haut ce mardi pour près de 40 millions de Français, après des records de température lundi et des morts liés à la chaleur. Plus de la moitié de l’Hexagone est en vigilance rouge, du jamais-vu.",
       "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-54-departements-en-vigilance-rouge-ce-mardi-20260623_UVFXNYTAY5G5JLJTIQDES5CG4Y/",
       "image": null,
-      "date": "2026-06-23T19:36:37+00:00",
+      "date": "2026-06-23T19:55:06+00:00",
       "date_formatted": "23 June 2026",
       "source": "Libération",
       "type": "presse"
