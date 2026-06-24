@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-06-24T08:50:06.885184+00:00",
-  "count": 49,
+  "generated_at": "2026-06-24T14:01:50.752512+00:00",
+  "count": 34,
   "articles": [
     {
-      "title": "Guerre en Ukraine : une femme tuée dans une frappe russe à Kharkiv, trois morts dans des attaques de drones ukrainiens",
-      "desc": "Dans la nuit de mardi à mercredi, des frappes de part et d’autre ont fait quatre morts. Par ailleurs, une attaque ukrainienne sur Sébastopol, important port de la Crimée annexée par la Russie en 2014, a provoqué une coupure de courant temporaire.",
-      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-femme-tuee-dans-une-frappe-russe-a-kharkiv-trois-morts-dans-des-attaques-de-drones-ukrainiens-20260624_JKTJ742JQFGXDMVJB2GXGXJQXY/",
+      "title": "Canicule : à l’hôpital, une hausse des passages aux urgences et une inquiétude montante",
+      "desc": "Selon Santé publique France, le recours aux soins d’urgence pour des pathologies en lien avec à la canicule augmente très nettement depuis le 22 juin. Les professionnels craignent que la situation se dégrade dans les prochains jours et alertent sur le danger de nouveaux épisodes de chaleur pendant l",
+      "url": "https://www.lemonde.fr/sante/article/2026/06/24/canicule-a-l-hopital-une-hausse-moderee-des-passages-aux-urgences-mais-une-inquietude-montante_6712069_1651302.html",
+      "image": "https://img.lemde.fr/2026/06/23/1082/0/8000/4000/644/322/60/0/0823be3_ftp-1-lgrbzlmc25xk-5417001-01-06.jpg",
+      "date": "2026-06-24T14:20:55+00:00",
+      "date_formatted": "24 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : Chambre à double flux, isolement strict… Quel protocole pour le premier patient testé positif en France ?",
+      "desc": "Le médecin français revenant de République démocratique du Congo testé positif au virus Ebola a été isolé dès son retour en France",
+      "url": "https://www.20minutes.fr/sante/4230966-20260624-ebola-chambre-double-flux-isolement-strict-protocole-premier-patient-teste-positif-france?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-poPG8LyR3Cgx7VmoJbP8yk/1200x768_260624-kinshasa-24-juin-2026-xinhua-des-travailleurs-medicaux-escortent-un-patient-atteint-d-ebola-vers-un-centre-de-traitement-d-ebola-a-mongbwalu-dans-la-province-de-l-ituri-en-republique-democratique-du-congo-le-20-juin-2026-la-republique-democratique-du-congo-rdc-a-signale-1-094-cas-confirmes-d-ebola-dont-277-deces-lors-de-l-epidemie-actuelle-declaree-le-15-mai-l-organisation-mondiale-de-la-sante-oms-enregistrant-un-nombre-record-de-cas-au-premier-mois-les-donnees-officielles-publiees-mardi-indiquent-que-387-cas-etaient-en-quarantaine-ou-recevaient-un-traitement-et-115-cas-se-sont-retablis-les-autorites-de-la-rdc-ont-egalement-signale-131-cas-suspects-dont-44-deces-presumes-xinhua-shi-yu-chine-nouvelle-xxjp-bee000417-20260624-pepfn0a001-credit-chine-nouvelle-sipa-2606240917",
+      "date": "2026-06-24T13:50:22+00:00",
+      "date_formatted": "24 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : un premier cas identifié et isolé en France, sa charge virale est «très faible», selon le ministère de la Santé",
+      "desc": "Le malade, dans un état stable, a été pris en charge dans un établissement spécialisé dès son arrivée sur le sol français, affirme le ministère de la Santé ce 24 juin. Le risque de transmission de l’épidémie dans l’Hexagone et le monde est toujours jugé faible.",
+      "url": "https://www.liberation.fr/societe/sante/ebola-un-premier-cas-identifie-en-france-chez-un-medecin-de-retour-de-rdc-20260624_K46A4NVLABA2JIQQ6TTFGBSRCE/",
       "image": null,
-      "date": "2026-06-24T08:06:08+00:00",
+      "date": "2026-06-24T11:34:06+00:00",
       "date_formatted": "24 June 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aide à mourir : à l’Assemblée, la bataille perdue du libre choix entre euthanasie et suicide assisté",
+      "desc": "Au grand dam de la gauche, les députés ont laissé inchangé les modalités d’accès à l’aide à mourir, mardi : le suicide assisté reste la règle sauf en cas d’incapacité physique. Profitant d’un hémicycle déserté, le RN a obtenu que dans ce second cas, le geste létal ne puisse être accompli par un méde",
+      "url": "https://www.liberation.fr/politique/aide-a-mourir-a-lassemblee-la-bataille-perdue-du-libre-choix-entre-euthanasie-et-suicide-assiste-20260624_OE465WQDKBG53DVI6SQISJCT3M/",
+      "image": null,
+      "date": "2026-06-24T11:22:27+00:00",
+      "date_formatted": "24 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : Un premier cas de la maladie identifié en France, chez un médecin humanitaire",
+      "desc": "Le ministère de la Santé qui vient d’annoncer qu’un premier cas de la maladie avait été identifié. Le patient a été isolé dans un établissement spécialisé et sa charge virale serait très faible selon les autorités",
+      "url": "https://www.20minutes.fr/sante/4230913-20260624-ebola-premier-cas-maladie-identifie-france-chez-medecin-humanitaire?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/X41_cs9JR1STUDdNSp56yCk/1200x768_covid-19-hopital-consultations-epidemiologiques-coronavirus-ebola-dengue-chikungunya-grippe-h1n1-nice-france-22-03-2020-syspeo-sys-c001-2003221741-credit-syspeo-sipa-2003221742",
+      "date": "2026-06-24T09:13:33+00:00",
+      "date_formatted": "24 June 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -31,16 +71,6 @@
       "date_formatted": "24 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Coupe du monde 2026 : Didier Deschamps absent du match contre la Norvège après la mort de sa mère",
-      "desc": "Endeuillé, le sélectionneur ne dirigera pas les Bleus lors de leur dernier match de groupe, ce vendredi. C’est son adjoint, Guy Stéphan, qui le remplacera pour cette rencontre.",
-      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-didier-deschamps-va-rentrer-en-france-apres-la-mort-de-sa-mere-20260623_R2RDNKK6VJBKVHO3WBBVUSIA3I/",
-      "image": null,
-      "date": "2026-06-24T06:10:31+00:00",
-      "date_formatted": "24 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Voici les aliments du quotidien associés à une mémoire mieux préservée avec l'âge selon les spécialistes",
@@ -173,16 +203,6 @@
       "type": "presse"
     },
     {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Darwin, entre dans ce corps !",
       "desc": "Le numéro estival spécial de la revue Espèces présente l’état actuel de la théorie de l’évolution dont les bases furent posées par Charles Darwin. Parmi ses avancées, l’introduction dans la vie des cellules de ses concepts fondamentaux : variation, sélection, filiation. Au détriment de la métaphore ",
       "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/06/22/darwin-entre-dans-ce-corps_6708038_6565027.html",
@@ -283,26 +303,6 @@
       "type": "science"
     },
     {
-      "title": "Usaid : « L’épidémie d’Ebola n’est pas une fatalité, mais la première facture d’un vide délibérément creusé »",
-      "desc": "En 2024, l’Agence américaine pour le développement international avait consacré 1,2 milliard de dollars à la République démocratique du Congo. Cette aide est tombée à 67 millions à la fin de 2025. Le retrait des Etats-Unis profite à la Chine, constate l’historien Mauro Campus, dans une tribune au « ",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/19/usaid-l-epidemie-d-ebola-n-est-pas-une-fatalite-mais-la-premiere-facture-d-un-vide-deliberement-creuse_6704910_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d0c592_upload-1-e72knwmvkkzu-frame-913.jpg",
-      "date": "2026-06-19T07:17:47+00:00",
-      "date_formatted": "19 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus à bord du MV « Hondius » : la quarantaine levée pour la quasi-totalité des passagers",
-      "desc": "« Sans nouveau cas signalé ni décès rapporté depuis le 2 mai, la situation demeure stable », a par ailleurs fait savoir le directeur de l’Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus.",
-      "url": "https://www.lemonde.fr/sante/article/2026/06/19/hantavirus-a-bord-du-mv-hondius-la-quarantaine-levee-pour-la-quasi-totalite-des-passagers_6704750_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/22/1000/0/6000/3000/644/322/60/0/6cdf847_ftp-1-3p22p14t8ffc-2026-05-22t074035z-1854591600-rc267lauov65-rtrmadp-3-cruiseship-hantavirus-africa.JPG",
-      "date": "2026-06-19T01:41:50+00:00",
-      "date_formatted": "19 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "C’est quoi ces virus mangeurs de bactéries que le CHU de Lyon va produire pour la première fois en France et dans l’UE ?",
       "desc": "Les Hospices civils de Lyon vont pouvoir produire leurs propres bactériophages, des virus capables de détruire les bactéries résistantes aux antibiotiques",
       "url": "https://www.20minutes.fr/sante/4229927-20260618-quoi-virus-mangeurs-bacteries-chu-lyon-va-produire-premiere-fois-france-ue?at_medium=display&at_campaign=149",
@@ -311,26 +311,6 @@
       "date_formatted": "18 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Epidémie d’Ebola : un mois après le début, le bilan dépasse les 200 morts en RDC, avec un taux de mortalité de 23 %",
-      "desc": "Les tests en laboratoire ont confirmé que le virus avait contaminé 875 personnes en RDC depuis le 15 mai. L’épidémie actuelle est provoquée par l’espèce Bundibugyo du virus, contre laquelle il n’existe ni vaccin ni traitement spécifique.",
-      "url": "https://www.lemonde.fr/sante/article/2026/06/18/un-mois-apres-le-debut-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-le-bilan-depasse-200-morts_6704568_1651302.html",
-      "image": "https://img.lemde.fr/2026/06/15/404/0/5976/2988/644/322/60/0/adf4b74_upload-1-fbccjahce40x-19-pb-lemonde-ebola-bunia-rwampara-ituri-rdc.jpg",
-      "date": "2026-06-18T16:51:51+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Quand la chaleur démasque une maladie génétique silencieuse",
-      "desc": "Certaines pathologies d’origine génétique ne se manifestent cliniquement qu’en cas de changement de température, révélant une vulnérabilité cardiaque, musculaire ou neurologique jusqu’alors invisible.",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/18/quand-la-chaleur-demasque-une-maladie-genetique-silencieuse_6704529_6579630.html",
-      "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/d28cbd0_upload-1-q2f0mq8dgi9u-frame-52.jpg",
-      "date": "2026-06-18T11:36:12+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Chikungunya, dengue, Zika : plus de 210 cas importés dans l'Hexagone en un mois",
@@ -353,26 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Cordes vocales : une thérapie inédite pour retrouver sa voix",
       "desc": "À l'hôpital de la Conception, à Marseille, une équipe d'ORL et de biologistes mène le premier essai au monde reposant sur une injection de cellules souches d'origine graisseuse réalisée directement au niveau des cordes vocales afin de leur permettre de retrouver leur souplesse originelle. Un espoir ",
       "url": "https://www.sciencesetavenir.fr/sante/orl/cordes-vocales-une-therapie-inedite-pour-retrouver-sa-voix_192630?xtor=RSS-16",
@@ -380,116 +340,6 @@
       "date": "2026-06-14T06:00:00+00:00",
       "date_formatted": "14 June 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Tryptamine : sept dérivés synthétiques de cette substance hallucinogène interdits en France",
-      "desc": "A cause de leurs effets indésirables graves et à des risques potentiellement mortels, sept dérivés synthétiques de la tryptamyne, une substance hallucinogène, seront interdits en France à compter du 10 juin 2026.",
-      "url": "https://www.sciencesetavenir.fr/sante/tryptamine-sept-derives-synthetiques-de-cette-substance-hallucinogene-interdits-en-france_193012?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/10/cover-r4x3w1200-6a293959009cb-afp-20250709-f0455712-v1-highres-tryptamines.jpg",
-      "date": "2026-06-10T10:37:26+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
