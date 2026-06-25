@@ -1,15 +1,75 @@
 {
-  "generated_at": "2026-06-25T13:58:28.724797+00:00",
-  "count": 53,
+  "generated_at": "2026-06-25T19:43:03.436332+00:00",
+  "count": 52,
   "articles": [
     {
-      "title": "Gérard Brémond, fondateur de Pierre & Vacances, est mort à 88 ans",
-      "desc": "Le groupe de résidences de tourisme a annoncé ce jeudi 25 juin la disparition de celui qui avait également conçu la station de ski Avoriaz.",
-      "url": "https://www.liberation.fr/economie/conso/gerard-bremond-fondateur-de-pierre-vacances-est-mort-a-88-ans-20260625_OPUJ3VW53BCJ5JEU3K6MIOB5V4/",
+      "title": "Venezuela : villes ravagées, victimes nombreuses, secouristes français… ce que l’on sait du double séisme",
+      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. L’ampleur des destructions fait craindre un bilan humain très lourd, qui est pour l’heure de 188 morts et 1 520 blessés.",
+      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
       "image": null,
-      "date": "2026-06-25T13:18:04+00:00",
+      "date": "2026-06-25T19:31:32+00:00",
       "date_formatted": "25 June 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : «C’est toujours après trois, quatre jours qu’on voit les effets catastrophiques»",
+      "desc": "Mortalité en hausse, appels au Samu démultipliés, hausse des admissions aux urgences, hôpitaux saturés à Paris… La situation devient particulièrement compliquée en Ile-France, et se tend en Nouvelle-Aquitaine et dans le Grand Est. La phase 3 du plan Orsan a été activée par le gouvernement ce 25 juin",
+      "url": "https://www.liberation.fr/societe/sante/canicule-cest-toujours-apres-trois-quatre-jours-quon-voit-les-effets-catastrophiques-20260625_GMB66T2CSZFURDAL7TN7UPBXYY/",
+      "image": null,
+      "date": "2026-06-25T19:06:43+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au Venezuela, stupeur et désolation après le double séisme : «Où que tu regardes, il y a des destructions, des débris partout»",
+      "desc": "Le double séisme qui a frappé le nord du territoire, ce mercredi 24 juin, a fait des dégâts considérables. L’aide internationale se met en place, les secours tentent de sauver ceux qui peuvent l’être et le pays redoute un nombre incalculable de morts.",
+      "url": "https://www.liberation.fr/international/amerique/au-venezuela-stupeur-et-desolation-apres-le-double-seisme-ou-que-tu-regardes-il-y-a-des-destructions-des-debris-partout-20260625_D5U4WZKWQZHWZFPKGQ26BD7BBA/",
+      "image": null,
+      "date": "2026-06-25T18:44:27+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aide à mourir : « Sous couvert de progressisme, ce texte est rupture d’égalité, illusion de liberté, travestissement de la fraternité »",
+      "desc": "Dans une tribune au « Monde », trois élus de gauche expliquent les raisons de leur opposition à la proposition de loi créant un droit à l’aide active à mourir, qui doit faire l’objet d’un vote solennel, mardi, à l’Assemblée.",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/25/aide-a-mourir-sous-couvert-de-progressisme-ce-texte-est-rupture-d-egalite-illusion-de-liberte-travestissement-de-la-fraternite_6715438_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/509a7d4_upload-1-13zrfn8yht4r-frame-875.jpg",
+      "date": "2026-06-25T18:00:19+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Don de moelle osseuse : la greffe du petit Elio, 4 ans, a réussi",
+      "desc": "La greffe de moelle osseuse du petit Elio, 4 ans, a officiellement “pris” après un mois d'attente. Atteint d'un cancer du sang agressif, l'enfant entame sa convalescence en chambre stérile suite à une mobilisation ayant généré 70 000 nouvelles inscriptions sur le registre des donneurs.",
+      "url": "https://www.franceinfo.fr/sante/enfant-ado/don-de-moelle-osseuse-la-greffe-du-petit-elio-4-ans-a-reussi_8079500.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/n4up-8f-7KPM85bjiJBzO07QKb8/87x0:991x508/432x243/filters:format(jpg)/2026/06/25/6a3d368b354c8512775925.jpg",
+      "date": "2026-06-25T16:09:30+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La CGT réclame un \"chômage partiel intempéries\" et canicule pour tous les secteurs d'activité",
+      "desc": "En 2025, neuf accidents du travail mortels en lien possible avec la chaleur avaient été recensés, selon Santé publique France.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-cgt-reclame-un-chomage-partiel-intemperies-et-canicule-pour-tous-les-secteurs-d-activite_8079329.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/riewRwqxkB7aX9D1c9zCWmnXFLk/0x0:3500x1968/432x243/filters:format(jpg)/2026/06/25/6a3d2302f2f44447416747.jpg",
+      "date": "2026-06-25T15:08:52+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : Comment les autorités estiment le nombre de morts causés par la chaleur ?",
+      "desc": "Si l’on sait que l’épisode caniculaire a déjà fait des victimes en France, on ignore en revanche leur nombre. Déterminer l’implication de la chaleur extrême dans la survenue d’un décès n’est pas forcément simple",
+      "url": "https://www.20minutes.fr/sante/4231179-20260625-canicule-comment-autorites-estiment-nombre-morts-causes-chaleur?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Zrfj9jjlS96xKB8o4reCHik/1200x768_les-urgences-du-chu-pasteur-de-nice-proches-de-la-rupture-apres-un-afflux-record-en-raison-de-la-canicule-avec-jusqu-a-330-entrees-quotidiennes-urgences-de-l-hopital-pasteur-2-centre-hospitalier-universitaire-nice-france-01-07-2025-syspeo-sys-a032-credit-syspeo-sipa-2507021953",
+      "date": "2026-06-25T14:13:04+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -23,46 +83,6 @@
       "type": "science"
     },
     {
-      "title": "Séismes au Venezuela : le bilan pourrait se compter en milliers de morts",
-      "desc": "D’après les modèles statistiques du service géologique américain, qui se basent à la fois sur l’intensité du séisme et les vulnérabilités locales, la double secousse de mercredi soir pourrait avoir fait plus de 10 000 victimes.",
-      "url": "https://www.liberation.fr/international/amerique/seismes-au-venezuela-le-bilan-pourrait-se-compter-en-milliers-de-morts-20260625_FNP4DNH5RFD6NLHAALOYNIJKCI/",
-      "image": null,
-      "date": "2026-06-25T11:25:36+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Enfant de 3 ans retrouvé mort dans le Val-d’Oise : les habitacles des voitures, ces dangereuses fournaises",
-      "desc": "Un petit garçon a échappé à la vigilance de ses parents et s’est enfermé dans leur véhicule mercredi, à Saint-Gratien. D’autres drames de ce genre se produisent régulièrement à cause des habitacles dont les températures peuvent grimper très haut et très vite.",
-      "url": "https://www.liberation.fr/societe/canicule-un-enfant-de-3-ans-retrouve-mort-dans-une-voiture-en-region-parisienne-20260625_WOWCCUDQAZDH3JH265VDZDRZYI/",
-      "image": null,
-      "date": "2026-06-25T11:08:06+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Venezuela : villes ravagées, victimes nombreuses, secouristes français… ce que l’on sait du double séisme",
-      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. L’ampleur des destructions fait craindre un bilan humain très lourd, qui est pour l’heure de 164 morts et près de 1 000 blessés.",
-      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
-      "image": null,
-      "date": "2026-06-25T11:06:52+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cinq morts en Russie et Crimée, premier versement européen à l’Ukraine, nouveau pétrolier de la flotte fantôme intercepté… L’actu de la guerre ce jeudi 25 juin",
-      "desc": "L’essentiel des informations du jour sur l’invasion russe en Ukraine.",
-      "url": "https://www.liberation.fr/international/europe/cinq-morts-en-russie-et-crimee-premier-versement-europeen-a-lukraine-nouveau-petrolier-de-la-flotte-fantome-intercepte-lactu-de-la-guerre-ce-jeudi-25-juin-20260625_5JXJ3OD7M5DC5FWMYF6LXCZSXY/",
-      "image": null,
-      "date": "2026-06-25T10:57:52+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "\"La greffe a pris\", se réjouit le père d'Elio, 4 ans, atteint d'un cancer du sang rare",
       "desc": "\"On est sorti de l'urgence de la maladie\", partage Thomas, le père d'Elio, sur France Inter. Les parents du garçon avaient lancé un appel au don de moelle osseuse sur les réseaux sociaux qui avait massivement été relayé. Ils appellent désormais à \"globaliser ces dons\".",
       "url": "https://www.franceinfo.fr/sante/cancer/la-greffe-a-pris-se-rejouit-le-pere-d-elio-4-ans-atteint-d-un-cancer-du-sang-rare_8078795.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -70,16 +90,6 @@
       "date": "2026-06-25T10:11:54+00:00",
       "date_formatted": "25 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Narbonne : cinq adolescents mis en examen après le lynchage mortel d’un mineur",
-      "desc": "La victime, âgée de 17 ans, a été tabassée à mort le soir du vendredi 19 juin sur un chantier. Les suspects sont âgés de 17 à 19 ans et lui auraient tendu «un guet-apens» pour des raisons encore inconnues.",
-      "url": "https://www.liberation.fr/societe/police-justice/narbonne-cinq-adolescents-mis-en-examen-apres-le-lynchage-mortel-dun-mineur-20260625_NGFI3CEXJZG3XPDV2JON4U32N4/",
-      "image": null,
-      "date": "2026-06-25T10:03:26+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -103,16 +113,6 @@
       "type": "science"
     },
     {
-      "title": "Médecin humanitaire contaminé, cinq possibles cas contacts… Ce que l'on sait du premier cas d'Ebola détecté en France",
-      "desc": "L'homme diagnostiqué positif est un médecin qui a participé à une mission de lutte contre la maladie en République démocratique du Congo. Il a été immédiatement pris en charge et ses symptômes sont faibles, mais il n'existe ni vaccin ni traitement spécifique contre cette souche du virus.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/medecin-humanitaire-contamine-cas-contact-en-cours-d-identification-ce-que-l-on-sait-du-premier-cas-d-ebola-detecte-en-france_8077706.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/qYsV9pXF3iF4WJmzGgxGTDybmJc/0x0:1024x576/432x243/filters:format(jpg)/2026/06/24/6a3be753be585757695031.jpg",
-      "date": "2026-06-24T21:18:40+00:00",
-      "date_formatted": "24 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cet organe longtemps négligé par la médecine pourrait être la clé d'une vie longue et en bonne santé",
       "desc": "Et si un petit organe oublié, niché dans votre poitrine, en disait long sur votre espérance de vie ? Le thymus, longtemps jugé inutile passé l'enfance, viendrait de révéler un secret : ceux qui le gardent en bonne santé vivent plus longtemps et résistent mieux au cancer. Une découverte qui...",
       "url": "https://www.futura-sciences.com/sante/actualites/organe-cet-organe-longtemps-neglige-medecine-pourrait-etre-cle-vie-longue-bonne-sante-k2m6-135586/#xtor%3DRSS-8",
@@ -121,16 +121,6 @@
       "date_formatted": "24 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Ebola : un premier cas enregistré en France chez un médecin de retour de République démocratique du Congo",
-      "desc": "Ce mercredi 24 juin a été enregistré le premier cas avéré de l'épidémie d'Ebola en France. Il s'agit d'un médecin de retour de République démocratique du Congo en Afrique où sévit actuellement une très forte épidémie du virus Ebola.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-un-premier-cas-enregistre-en-france-chez-un-medecin-de-retour-de-republique-democratique-du-congo_8077736.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/SZGP1rDGMu1ijiPGKhTO6mPzcWI/19x0:1372x761/432x243/filters:format(jpg)/2026/06/24/6a3be522980e0083727137.jpg",
-      "date": "2026-06-24T16:10:49+00:00",
-      "date_formatted": "24 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Canicule : à l’hôpital, une hausse des passages aux urgences et une inquiétude croissante",
