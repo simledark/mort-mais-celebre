@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-06-25T08:44:29.226104+00:00",
-  "count": 50,
+  "generated_at": "2026-06-25T13:58:28.724797+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Gérard Brémond, fondateur de Pierre & Vacances, est mort à 88 ans",
+      "desc": "Le groupe de résidences de tourisme a annoncé ce jeudi 25 juin la disparition de celui qui avait également conçu la station de ski Avoriaz.",
+      "url": "https://www.liberation.fr/economie/conso/gerard-bremond-fondateur-de-pierre-vacances-est-mort-a-88-ans-20260625_OPUJ3VW53BCJ5JEU3K6MIOB5V4/",
+      "image": null,
+      "date": "2026-06-25T13:18:04+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Docteur Pap », le roman graphique qui célèbre  l’inventeur du frottis",
+      "desc": "L’illustrateur grec Petros Christoulias rend hommage au médecin Georgios Papanicolaou, qui mit au point une méthode de routine pour dépister le cancer du col de l’utérus.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/25/docteur-pap-le-roman-graphique-qui-celebre-l-inventeur-du-frottis_6713402_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/20/160/0/1920/960/644/322/60/0/5443a72_upload-1-namliooat8zl-generated-1781945767613.jpg",
+      "date": "2026-06-25T11:30:05+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Séismes au Venezuela : le bilan pourrait se compter en milliers de morts",
+      "desc": "D’après les modèles statistiques du service géologique américain, qui se basent à la fois sur l’intensité du séisme et les vulnérabilités locales, la double secousse de mercredi soir pourrait avoir fait plus de 10 000 victimes.",
+      "url": "https://www.liberation.fr/international/amerique/seismes-au-venezuela-le-bilan-pourrait-se-compter-en-milliers-de-morts-20260625_FNP4DNH5RFD6NLHAALOYNIJKCI/",
+      "image": null,
+      "date": "2026-06-25T11:25:36+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Enfant de 3 ans retrouvé mort dans le Val-d’Oise : les habitacles des voitures, ces dangereuses fournaises",
+      "desc": "Un petit garçon a échappé à la vigilance de ses parents et s’est enfermé dans leur véhicule mercredi, à Saint-Gratien. D’autres drames de ce genre se produisent régulièrement à cause des habitacles dont les températures peuvent grimper très haut et très vite.",
+      "url": "https://www.liberation.fr/societe/canicule-un-enfant-de-3-ans-retrouve-mort-dans-une-voiture-en-region-parisienne-20260625_WOWCCUDQAZDH3JH265VDZDRZYI/",
+      "image": null,
+      "date": "2026-06-25T11:08:06+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Venezuela : villes ravagées, victimes nombreuses, secouristes français… ce que l’on sait du double séisme",
+      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. L’ampleur des destructions fait craindre un bilan humain très lourd, qui est pour l’heure de 164 morts et près de 1 000 blessés.",
+      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
+      "image": null,
+      "date": "2026-06-25T11:06:52+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cinq morts en Russie et Crimée, premier versement européen à l’Ukraine, nouveau pétrolier de la flotte fantôme intercepté… L’actu de la guerre ce jeudi 25 juin",
+      "desc": "L’essentiel des informations du jour sur l’invasion russe en Ukraine.",
+      "url": "https://www.liberation.fr/international/europe/cinq-morts-en-russie-et-crimee-premier-versement-europeen-a-lukraine-nouveau-petrolier-de-la-flotte-fantome-intercepte-lactu-de-la-guerre-ce-jeudi-25-juin-20260625_5JXJ3OD7M5DC5FWMYF6LXCZSXY/",
+      "image": null,
+      "date": "2026-06-25T10:57:52+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"La greffe a pris\", se réjouit le père d'Elio, 4 ans, atteint d'un cancer du sang rare",
       "desc": "\"On est sorti de l'urgence de la maladie\", partage Thomas, le père d'Elio, sur France Inter. Les parents du garçon avaient lancé un appel au don de moelle osseuse sur les réseaux sociaux qui avait massivement été relayé. Ils appellent désormais à \"globaliser ces dons\".",
@@ -13,24 +73,24 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Canicule : un enfant de 3 ans retrouvé mort dans une voiture dans le Val-d’Oise",
-      "desc": "Les températures devraient à nouveau avoisiner les 40 °C dans une grande partie de la France, avant un rafraîchissement progressif dans le courant du week-end.",
-      "url": "https://www.liberation.fr/environnement/en-direct-canicule-le-pic-depasse-mais-encore-72-departements-en-vigilance-rouge-ce-jeudi-20260625_COQYICRPXRCP7ESAJG6XVYRGXQ/",
+      "title": "Narbonne : cinq adolescents mis en examen après le lynchage mortel d’un mineur",
+      "desc": "La victime, âgée de 17 ans, a été tabassée à mort le soir du vendredi 19 juin sur un chantier. Les suspects sont âgés de 17 à 19 ans et lui auraient tendu «un guet-apens» pour des raisons encore inconnues.",
+      "url": "https://www.liberation.fr/societe/police-justice/narbonne-cinq-adolescents-mis-en-examen-apres-le-lynchage-mortel-dun-mineur-20260625_NGFI3CEXJZG3XPDV2JON4U32N4/",
       "image": null,
-      "date": "2026-06-25T08:31:32+00:00",
+      "date": "2026-06-25T10:03:26+00:00",
       "date_formatted": "25 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Baisse du cours de pétrole, «complicité» de l’Otan selon l’Iran, un mort israélien dans le sud du Liban… L’actu du conflit au Moyen-Orient ce jeudi 25 juin",
-      "desc": "L’essentiel des informations du jour sur la guerre dans la région.",
-      "url": "https://www.liberation.fr/international/moyen-orient/baisse-du-cours-de-petrole-complicite-de-lotan-selon-liran-un-mort-israelien-dans-le-sud-du-liban-lactu-du-conflit-au-moyen-orient-ce-jeudi-25-juin-20260625_SBFTA5BBRFFBRNBFUYVARKZNGA/",
-      "image": null,
-      "date": "2026-06-25T07:23:11+00:00",
+      "title": "Trop de noyades en Ile-de-France : la chasse aux baigneurs sauvages est ouverte",
+      "desc": "La Seine-et-Marne, ses fleuves, lacs et cours d'eau, compte un décès par jour depuis le début de la canicule qui fait suffoquer toute la France.",
+      "url": "https://www.sciencesetavenir.fr/sante/trop-de-noyades-en-ile-de-france-la-chasse-aux-baigneurs-sauvages-est-ouverte_193399?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/25/cover-r4x3w1200-6a3cec1fbc646-afp-20260624-b87v8zq-v2-highres-franceweatherclimateheat.jpg",
+      "date": "2026-06-25T08:51:44+00:00",
       "date_formatted": "25 June 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "« Les avancées rendues possibles par l’IA dans la lutte contre le cancer sont réelles, mais rien ne remplacera l’intelligence humaine »",
@@ -41,26 +101,6 @@
       "date_formatted": "25 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "«Comme un coup de tonnerre» : un décès et une disparition après l’effondrement d’un pan de falaise près d’une plage à Biarritz",
-      "desc": "Un morceau «d’environ 2 000 mètres carrés» de roche située sous le phare de Biarritz a glissé dans l’eau vers 20 h 30 ce mercredi, alors que la plage du Miramar était très fréquentée en cette période de canicule.",
-      "url": "https://www.liberation.fr/societe/comme-un-coup-de-tonnerre-un-pan-de-falaise-seffondre-pres-dune-plage-de-biarritz-deux-plongeurs-disparus-20260624_3MRMPFCTUFDLNNFET4YIUZXMII/",
-      "image": null,
-      "date": "2026-06-25T05:30:04+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Tout est détruit chez moi» : deux puissants séismes frappent le Venezuela, au moins 32 morts",
-      "desc": "Deux tremblements de terre très rapprochés, de 7,2 et 7,5 sur l’échelle de Richter, ont dévasté plusieurs villes vénézuéliennes. Si un premier bilan fait état de 32 morts, il pourrait y avoir des milliers de victimes.",
-      "url": "https://www.liberation.fr/international/amerique/tout-est-detruit-chez-moi-deux-puissants-seismes-frappent-le-venezuela-20260625_TRDG2IJSGJEJFEIBECTMULT3SI/",
-      "image": null,
-      "date": "2026-06-25T05:17:09+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Médecin humanitaire contaminé, cinq possibles cas contacts… Ce que l'on sait du premier cas d'Ebola détecté en France",
@@ -341,16 +381,6 @@
       "date_formatted": "20 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Sécurité sociale : Le gouvernement veut baisser dès cet été le remboursement des actes médicaux",
-      "desc": "Le gouvernement a prévenu les mutuelles et autres complémentaires santé qu’il souhaitait baisser dès cet été le remboursement de l’Assurance maladie sur les actes médicaux pour économiser de 1,5 à 2 milliards d’euros",
-      "url": "https://www.20minutes.fr/sante/4230098-20260619-securite-sociale-gouvernement-veut-baisser-remboursement-actes-medicaux?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/s8oiMYNkRlu5sobAQ4TIHyk/1200x768_consultation-medicale-une-main-tient-une-carte-vitale-a-cote-d-un-stethoscope-sur-une-surface-blanche-photo-de-chassenet-bsip-via-afp",
-      "date": "2026-06-19T13:45:05+00:00",
-      "date_formatted": "19 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Chikungunya, dengue, Zika : plus de 210 cas importés dans l'Hexagone en un mois",
