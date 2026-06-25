@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-06-25T02:02:17.839324+00:00",
-  "count": 47,
+  "generated_at": "2026-06-25T08:44:29.226104+00:00",
+  "count": 50,
   "articles": [
+    {
+      "title": "\"La greffe a pris\", se réjouit le père d'Elio, 4 ans, atteint d'un cancer du sang rare",
+      "desc": "\"On est sorti de l'urgence de la maladie\", partage Thomas, le père d'Elio, sur France Inter. Les parents du garçon avaient lancé un appel au don de moelle osseuse sur les réseaux sociaux qui avait massivement été relayé. Ils appellent désormais à \"globaliser ces dons\".",
+      "url": "https://www.franceinfo.fr/sante/cancer/la-greffe-a-pris-se-rejouit-le-pere-d-elio-4-ans-atteint-d-un-cancer-du-sang-rare_8078795.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/3X7DClSJeJuJdmgV8s57uqcE12M/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/18/6a0ac145e3c3d614790749.png",
+      "date": "2026-06-25T10:11:54+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Canicule : un enfant de 3 ans retrouvé mort dans une voiture dans le Val-d’Oise",
+      "desc": "Les températures devraient à nouveau avoisiner les 40 °C dans une grande partie de la France, avant un rafraîchissement progressif dans le courant du week-end.",
+      "url": "https://www.liberation.fr/environnement/en-direct-canicule-le-pic-depasse-mais-encore-72-departements-en-vigilance-rouge-ce-jeudi-20260625_COQYICRPXRCP7ESAJG6XVYRGXQ/",
+      "image": null,
+      "date": "2026-06-25T08:31:32+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Baisse du cours de pétrole, «complicité» de l’Otan selon l’Iran, un mort israélien dans le sud du Liban… L’actu du conflit au Moyen-Orient ce jeudi 25 juin",
+      "desc": "L’essentiel des informations du jour sur la guerre dans la région.",
+      "url": "https://www.liberation.fr/international/moyen-orient/baisse-du-cours-de-petrole-complicite-de-lotan-selon-liran-un-mort-israelien-dans-le-sud-du-liban-lactu-du-conflit-au-moyen-orient-ce-jeudi-25-juin-20260625_SBFTA5BBRFFBRNBFUYVARKZNGA/",
+      "image": null,
+      "date": "2026-06-25T07:23:11+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Les avancées rendues possibles par l’IA dans la lutte contre le cancer sont réelles, mais rien ne remplacera l’intelligence humaine »",
+      "desc": "Patrick Pilcer, président du conseil d’administration de l’association Vaincre le Cancer, salue, dans une tribune au « Monde », l’initiative de la présidence française lors du G7 d’Evian (Haute-Savoie), qui vise à replacer la lutte contre la maladie au cœur d’une « réflexion mondiale sur la santé, l",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/25/les-avancees-rendues-possibles-par-l-ia-dans-la-lutte-contre-le-cancer-sont-reelles-mais-rien-ne-remplacera-l-intelligence-humaine_6713371_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
+      "date": "2026-06-25T07:08:54+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "«Comme un coup de tonnerre» : un décès et une disparition après l’effondrement d’un pan de falaise près d’une plage à Biarritz",
+      "desc": "Un morceau «d’environ 2 000 mètres carrés» de roche située sous le phare de Biarritz a glissé dans l’eau vers 20 h 30 ce mercredi, alors que la plage du Miramar était très fréquentée en cette période de canicule.",
+      "url": "https://www.liberation.fr/societe/comme-un-coup-de-tonnerre-un-pan-de-falaise-seffondre-pres-dune-plage-de-biarritz-deux-plongeurs-disparus-20260624_3MRMPFCTUFDLNNFET4YIUZXMII/",
+      "image": null,
+      "date": "2026-06-25T05:30:04+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Tout est détruit chez moi» : deux puissants séismes frappent le Venezuela, au moins 32 morts",
+      "desc": "Deux tremblements de terre très rapprochés, de 7,2 et 7,5 sur l’échelle de Richter, ont dévasté plusieurs villes vénézuéliennes. Si un premier bilan fait état de 32 morts, il pourrait y avoir des milliers de victimes.",
+      "url": "https://www.liberation.fr/international/amerique/tout-est-detruit-chez-moi-deux-puissants-seismes-frappent-le-venezuela-20260625_TRDG2IJSGJEJFEIBECTMULT3SI/",
+      "image": null,
+      "date": "2026-06-25T05:17:09+00:00",
+      "date_formatted": "25 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Médecin humanitaire contaminé, cinq possibles cas contacts… Ce que l'on sait du premier cas d'Ebola détecté en France",
       "desc": "L'homme diagnostiqué positif est un médecin qui a participé à une mission de lutte contre la maladie en République démocratique du Congo. Il a été immédiatement pris en charge et ses symptômes sont faibles, mais il n'existe ni vaccin ni traitement spécifique contre cette souche du virus.",
@@ -13,16 +73,6 @@
       "type": "presse"
     },
     {
-      "title": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, prévoit l’OMS",
-      "desc": "A cette date, les derniers cas contacts sortiront de leur période d’isolement, a annoncé l’agence sanitaire de l’ONU ce mercredi 24 juin. En parallèle, des travaux scientifiques sont en cours afin d’améliorer la connaissance de la maladie.",
-      "url": "https://www.liberation.fr/societe/sante/lepidemie-de-hantavirus-devrait-officiellement-prendre-fin-le-2-juillet-prevoit-loms-20260624_7Z4P52H36RGYNH3UYLRHNCOBJ4/",
-      "image": null,
-      "date": "2026-06-24T19:58:13+00:00",
-      "date_formatted": "24 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Cet organe longtemps négligé par la médecine pourrait être la clé d'une vie longue et en bonne santé",
       "desc": "Et si un petit organe oublié, niché dans votre poitrine, en disait long sur votre espérance de vie ? Le thymus, longtemps jugé inutile passé l'enfance, viendrait de révéler un secret : ceux qui le gardent en bonne santé vivent plus longtemps et résistent mieux au cancer. Une découverte qui...",
       "url": "https://www.futura-sciences.com/sante/actualites/organe-cet-organe-longtemps-neglige-medecine-pourrait-etre-cle-vie-longue-bonne-sante-k2m6-135586/#xtor%3DRSS-8",
@@ -31,16 +81,6 @@
       "date_formatted": "24 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mort de Lyhanna : l’autopsie n’a pas permis de déterminer «avec certitude» sa cause, de nouvelles analyses à venir",
-      "desc": "Le parquet d’Agen a par ailleurs annoncé ce mercredi 24 juin que les poursuites contre le principal suspect, Jérôme Barella, ont été élargies aux chefs de meurtre et viol sur mineur.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-de-lyhanna-lautopsie-na-pas-permis-de-determiner-avec-certitude-sa-cause-de-nouvelles-analyses-a-venir-20260624_2XPT3YYPAJF4HEZGU4C7ZVY5OU/",
-      "image": null,
-      "date": "2026-06-24T17:17:26+00:00",
-      "date_formatted": "24 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Ebola : un premier cas enregistré en France chez un médecin de retour de République démocratique du Congo",
@@ -309,16 +349,6 @@
       "image": "https://img.20mn.fr/s8oiMYNkRlu5sobAQ4TIHyk/1200x768_consultation-medicale-une-main-tient-une-carte-vitale-a-cote-d-un-stethoscope-sur-une-surface-blanche-photo-de-chassenet-bsip-via-afp",
       "date": "2026-06-19T13:45:05+00:00",
       "date_formatted": "19 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "C’est quoi ces virus mangeurs de bactéries que le CHU de Lyon va produire pour la première fois en France et dans l’UE ?",
-      "desc": "Les Hospices civils de Lyon vont pouvoir produire leurs propres bactériophages, des virus capables de détruire les bactéries résistantes aux antibiotiques",
-      "url": "https://www.20minutes.fr/sante/4229927-20260618-quoi-virus-mangeurs-bacteries-chu-lyon-va-produire-premiere-fois-france-ue?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/DN2fWYY1QXyILG6PtTpnayk/1200x768_a-nantes-en-janvier-2017-illustration-des-egouts",
-      "date": "2026-06-18T18:52:20+00:00",
-      "date_formatted": "18 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
     },
