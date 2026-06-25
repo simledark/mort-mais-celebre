@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T19:23:41.968787+00:00",
-  "count": 46,
+  "generated_at": "2026-06-25T02:02:17.839324+00:00",
+  "count": 47,
   "articles": [
     {
       "title": "Médecin humanitaire contaminé, cinq possibles cas contacts… Ce que l'on sait du premier cas d'Ebola détecté en France",
@@ -10,6 +10,16 @@
       "date": "2026-06-24T21:18:40+00:00",
       "date_formatted": "24 June 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’épidémie de hantavirus devrait officiellement prendre fin le 2 juillet, prévoit l’OMS",
+      "desc": "A cette date, les derniers cas contacts sortiront de leur période d’isolement, a annoncé l’agence sanitaire de l’ONU ce mercredi 24 juin. En parallèle, des travaux scientifiques sont en cours afin d’améliorer la connaissance de la maladie.",
+      "url": "https://www.liberation.fr/societe/sante/lepidemie-de-hantavirus-devrait-officiellement-prendre-fin-le-2-juillet-prevoit-loms-20260624_7Z4P52H36RGYNH3UYLRHNCOBJ4/",
+      "image": null,
+      "date": "2026-06-24T19:58:13+00:00",
+      "date_formatted": "24 June 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
