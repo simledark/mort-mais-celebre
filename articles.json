@@ -1,45 +1,65 @@
 {
-  "generated_at": "2026-06-26T02:04:11.423351+00:00",
-  "count": 53,
+  "generated_at": "2026-06-26T08:46:31.767321+00:00",
+  "count": 54,
   "articles": [
     {
-      "title": "Canicules : la mort silencieuse des animaux d’élevage",
-      "desc": "Le directeur de recherche CNRS au Centre d’écologie fonctionnelle et évolutive de Montpellier tient une chronique écologique pour «Libération» : «l’Albatros hurleur».",
-      "url": "https://www.liberation.fr/forums/canicules-la-mort-silencieuse-des-animaux-delevage-20260626_3SX55BUODJGHLLMHVI653M5SZE/",
+      "title": "\"Cette épidémie risque d'être la plus meurtrière de l'histoire d'Ebola\", alerte le médecin Denis Mukwege, Prix Nobel de la paix 2018",
+      "desc": "Le virus se propage en République démocratique du Congo avec un taux de létalité estimé à 25% par l'OMS. Denis Mukwege pointe la difficulté de \"mettre en place les mesures de sécurité sanitaire\" dans un pays en guerre constante.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/cette-epidemie-risque-d-etre-la-plus-meurtriere-de-l-histoire-d-ebola-alerte-le-medecin-denis-mukwege-prix-nobel-de-la-paix-2018_8080649.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/tDh9Zer7b46_OXHAQWoDd5SOlpM/0x0:1024x576/432x243/filters:format(jpg)/2026/06/26/6a3e2d3284cbf013394337.jpg",
+      "date": "2026-06-26T09:44:15+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Attentat à la voiture-bélier du marché de Noël de Magdebourg : Taleb Jawad al-Abdulmohsen condamné à la perpétuité",
+      "desc": "L’attaque, perpétrée fin 2024 dans cette ville de l’est de l’Allemagne, avait fait six morts et plus de 300 blessés. Il a été condamné à la peine maximale ce vendredi 26 juin.",
+      "url": "https://www.liberation.fr/international/europe/attentat-a-la-voiture-belier-du-marche-de-noel-de-magdebourg-perpetuite-contre-taleb-jawad-al-abdulmohsen-20260626_URLCMZ76IVHRNKAKTHDATAA55E/",
       "image": null,
-      "date": "2026-06-26T00:58:00+00:00",
+      "date": "2026-06-26T08:22:18+00:00",
       "date_formatted": "26 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Venezuela : villes ravagées, victimes nombreuses, secouristes français… ce que l’on sait du double séisme",
-      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. L’ampleur des destructions fait craindre un bilan humain très lourd, qui est pour l’heure de 188 morts et 1 520 blessés.",
+      "title": "Assassinat de Dominique Bernard : vers un procès «important» pour comprendre le «chemin de la fanatisation»",
+      "desc": "Fait rare dans les affaires terroristes, l’auteur des coups mortels contre l’enseignant d’Arras est toujours vivant et parait en position de s’exprimer à son procès, que le parquet national antiterroriste a demandé mardi 23 juin.",
+      "url": "https://www.liberation.fr/societe/police-justice/assassinat-de-dominique-bernard-vers-un-proces-important-pour-comprendre-le-chemin-de-la-fanatisation-20260626_DEQPLCNDHNF7XL6TF5NKTIKC2E/",
+      "image": null,
+      "date": "2026-06-26T08:21:38+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Le fait d’être loin, ça augmente encore l’anxiété» : après le double séisme au Venezuela, la diaspora en deuil à Miami",
+      "desc": "A l’heure où les sauveteurs cherchent toujours des survivants dans les décombres du tremblement de terre au Venezuela, les exilés installés en Floride tentent de canaliser leur peine et leur angoisse en envoyant des vivres.",
+      "url": "https://www.liberation.fr/international/amerique/le-fait-detre-loin-ca-augmente-encore-lanxiete-apres-le-double-seisme-au-venezuela-la-diaspora-en-deuil-a-miami-20260626_MHOAVOUEQJFYDCQQ7LV655AX5A/",
+      "image": null,
+      "date": "2026-06-26T06:41:56+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Venezuela : villes ravagées, lourd bilan, victimes étrangères… ce que l’on sait du double séisme",
+      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. L’ampleur des destructions fait craindre un bilan humain très lourd, qui est pour l’heure de 235 morts et d’au moins 1 520 blessés.",
       "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
       "image": null,
-      "date": "2026-06-25T19:31:32+00:00",
-      "date_formatted": "25 June 2026",
+      "date": "2026-06-26T05:42:53+00:00",
+      "date_formatted": "26 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Canicule : «C’est toujours après trois, quatre jours qu’on voit les effets catastrophiques»",
-      "desc": "Mortalité en hausse, appels au Samu démultipliés, hausse des admissions aux urgences, hôpitaux saturés à Paris… La situation devient particulièrement compliquée en Ile-France, et se tend en Nouvelle-Aquitaine et dans le Grand Est. La phase 3 du plan Orsan a été activée par le gouvernement ce 25 juin",
-      "url": "https://www.liberation.fr/societe/sante/canicule-cest-toujours-apres-trois-quatre-jours-quon-voit-les-effets-catastrophiques-20260625_GMB66T2CSZFURDAL7TN7UPBXYY/",
-      "image": null,
-      "date": "2026-06-25T19:06:43+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Au Venezuela, stupeur et désolation après le double séisme : «Où que tu regardes, il y a des destructions, des débris partout»",
-      "desc": "Le double séisme qui a frappé le nord du territoire, ce mercredi 24 juin, a fait des dégâts considérables. L’aide internationale se met en place, les secours tentent de sauver ceux qui peuvent l’être et le pays redoute un nombre incalculable de morts.",
-      "url": "https://www.liberation.fr/international/amerique/au-venezuela-stupeur-et-desolation-apres-le-double-seisme-ou-que-tu-regardes-il-y-a-des-destructions-des-debris-partout-20260625_D5U4WZKWQZHWZFPKGQ26BD7BBA/",
-      "image": null,
-      "date": "2026-06-25T18:44:27+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Libération",
+      "title": "Après sept jours de canicule, des hyperthermies, des malaises cardiaques et de premiers décès : les hôpitaux à un « point de basculement »",
+      "desc": "Les services d’urgences ont vu les conséquences sanitaires de la canicule s’accélérer en vingt-quatre heures, entre mercredi et jeudi. Le premier ministre a activé le niveau 3 du plan Orsan, qui doit permettre de renforcer les effectifs hospitaliers.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/26/canicule-premiers-deces-passages-aux-urgences-a-l-hopital-le-point-de-basculement-est-franchi_6715671_3224.html",
+      "image": "https://img.lemde.fr/2026/06/26/666/0/8000/4000/644/322/60/0/aa9cffa_upload-1-oe651blejigd-000-b82x2we.jpg",
+      "date": "2026-06-26T05:29:11+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -351,16 +371,6 @@
       "date_formatted": "22 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Aide à mourir : l’administration du geste létal et le délit d’entrave au cœur de débats décisifs à l’Assemblée",
-      "desc": "La proposition de loi sera examinée à partir du lundi 22 juin en troisième lecture dans l’Hémicycle, avec plusieurs points encore en discussion. La version qui en sortira devrait être définitive.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/22/aide-a-mourir-l-administration-du-geste-letal-et-le-delit-d-entrave-au-c-ur-de-debats-decisifs-a-l-assemblee_6706290_3224.html",
-      "image": "https://img.lemde.fr/2026/06/21/500/0/6000/3000/644/322/60/0/3823f27_upload-1-cuda7qsxkzd0-000-98x79lm.jpg",
-      "date": "2026-06-22T05:00:02+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cinquante ans de mystère levé : voici comment l'aspirine empêche le cancer de se propager selon une étude",
