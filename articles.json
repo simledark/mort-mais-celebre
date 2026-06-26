@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-06-26T13:56:23.652756+00:00",
-  "count": 43,
+  "generated_at": "2026-06-26T19:25:58.813623+00:00",
+  "count": 40,
   "articles": [
+    {
+      "title": "EN DIRECT - Coupe du monde : suivez le match Norvège-France avec «Libé»",
+      "desc": "Ce vendredi 26 juin, l’équipe de France affronte la Norvège à partir de 21 heures, mais sans Didier Deschamps, endeuillé et absent. Dans la nuit, autre moment fort de ce Mondial sous haute tension : le match des fiertés LGBT+, à Seattle, opposant l’Egypte et l’Iran.",
+      "url": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-les-bleus-se-preparent-pour-leur-dernier-match-de-poules-contre-la-norvege-20260626_4OATQCBI2ZHYTEHMR6RD35UNWI/",
+      "image": null,
+      "date": "2026-06-26T19:16:26+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Une étude révèle qu'il n'est jamais vraiment trop tard pour arrêter de fumer pour préserver son cerveau",
+      "desc": "Et s'il n'était jamais trop tard pour protéger son cerveau ? Une vaste étude révèle que les anciens fumeurs voient leur risque de démence reculer, jusqu'à rejoindre celui des personnes n'ayant jamais touché à une cigarette. Une bonne nouvelle pour tous ceux qui pensaient avoir manqué le coche.",
+      "url": "https://www.futura-sciences.com/sante/actualites/tabac-etude-revele-quil-nest-jamais-vraiment-trop-tard-arreter-fumer-preserver-son-cerveau-k2m6-135645/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/7/a/b7a94705b9_50257154_arret-tabac.jpg",
+      "date": "2026-06-26T18:00:00+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Près de 1 000 morts et 50 000 disparus : ce que l’on sait du double séisme qui a frappé le Venezuela",
+      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi.",
+      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
+      "image": null,
+      "date": "2026-06-26T17:35:58+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’épidémie d’Ebola en RDC a fait 304 morts, selon le dernier bilan des autorités",
+      "desc": "Le virus a contaminé 1 115 personnes en République démocratique du Congo depuis le 15 mai, selon les chiffres de l’Institut national de santé publique.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/26/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
+      "image": "https://img.lemde.fr/2026/06/23/333/0/4000/2000/644/322/60/0/e233bd0_upload-1-ejkh1d96tpnx-40-pb-lemonde-ebola-mongbwalu-ituri-rdc.jpg",
+      "date": "2026-06-26T16:54:29+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pour la première fois, un humain reçoit un traitement pour rajeunir ses cellules",
+      "desc": "Pour la première fois, un patient a reçu une thérapie génique conçue pour « rajeunir » des neurones vieillissants en réinitialisant leur programme biologique. Une avancée majeure qui ouvre un nouveau chapitre de la biologie du vieillissement, même si les chercheurs appellent encore à la prudence.",
+      "url": "https://www.futura-sciences.com/sante/actualites/rajeunissement-premiere-fois-humain-recoit-traitement-rajeunir-cellules-135614/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/3/5/935d102c08_50257257_rajeunissement-cellule.jpg",
+      "date": "2026-06-26T16:23:05+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Bella Hadid, qui s’est montrée à bout face à la maladie de Lyme, s’en veut d’avoir inquiété ses fans",
+      "desc": "La mannequin est atteinte de ce mal, comme sa mère, depuis une dizaine d’années",
+      "url": "https://www.20minutes.fr/arts-stars/people/4231446-20260626-bella-hadid-montree-bout-face-maladie-lyme-veut-avoir-inquiete-fans?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Va7AGgRVQou5L7xfj9nVfCk/1200x768_bella-hadid-mannequin",
+      "date": "2026-06-26T16:02:36+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : « Il y aura des conséquences »… La ministre de la Santé s’attend à de nouveaux décès ces prochains jours",
+      "desc": "Stéphanie Rist redoute une hausse des décès à domicile dans les prochains jours liés aux fortes chaleurs dans le pays",
+      "url": "https://www.20minutes.fr/sante/4231447-20260626-canicule-consequences-ministre-sante-attend-nouveaux-deces-prochains-jours?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/xzAJxIw0R_uhRmz_6XJNiCk/1200x768_tot-le-matin-une-personne-agee-profitant-de-l-air-frais-se-repose-sur-l-herbe-du-square-saint-lambert-dans-le-15e-arrondissement-de-paris-tot-le-matin-une-personne-agee-profitant-de-la-fraicheur-matinale-se-repose-sur-l-herbe-du-square-saint-lambert-dans-le-15e-arrondissement-de-paris-france-26-06-2026-francol-xavier-xfrancol-canicule002-credit-xavier-francolon-sipa-2606260950",
+      "date": "2026-06-26T15:00:05+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Ebola : après un premier cas diagnostiqué en France chez un médecin de retour de RDC, la surveillance s’organise",
       "desc": "Le médecin infecté avait été envoyé par l’ONG française Alima en Ituri, une province de l’Est congolais foyer de l’épidémie, pour participer à la riposte sanitaire contre le virus.",
@@ -10,36 +80,6 @@
       "date": "2026-06-26T14:00:09+00:00",
       "date_formatted": "26 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Canicule : la ministre de la Santé préoccupée par «la survenue de décès à domicile»",
-      "desc": "Alors que les mesures de précaution s’accumulent pour ne pas surcharger les urgences, la ministre de la Santé s’inquiète des chiffres des morts à domicile depuis le début de l’épisode caniculaire, qui concerne aujourd’hui 61 départements en rouge et 22 en orange.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY/",
-      "image": null,
-      "date": "2026-06-26T13:42:47+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Rushdie, à la mort à la vie",
-      "desc": "Après «le Couteau», retour à la fiction avec cinq nouvelles chamarrées et ironiques, parfois fantastiques.",
-      "url": "https://www.liberation.fr/culture/livres/rushdie-a-la-mort-a-la-vie-20260626_B2743LRQXJEQ3CUBDK6MES7TRI/",
-      "image": null,
-      "date": "2026-06-26T13:10:00+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Venezuela : villes ravagées, lourd bilan, victimes étrangères… ce que l’on sait du double séisme",
-      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. Très lourd, le bilan humain s’élève pour l’instant à 589 morts et d’au moins 2 980 blessés.",
-      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
-      "image": null,
-      "date": "2026-06-26T12:43:04+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -61,16 +101,6 @@
       "date_formatted": "26 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "«Tentative d’assassinat», plainte pour violences, parcours au sein de l’Aide sociale à l’enfance… Ce que l’on sait de la mort de Louis H., lynché à Narbonne",
-      "desc": "L’adolescent de 17 ans est mort des suites d’une agression mortelle vendredi 19 juin sur un chantier de l’Aude. Cinq jeunes à peine plus âgés que lui ont été mis en examen pour tentative d’assassinat. Le mobile de ce «guet-apens» reste inexpliqué à ce stade de l’enquête.",
-      "url": "https://www.liberation.fr/societe/police-justice/tentative-dassassinat-plainte-pour-violences-parcours-au-sein-de-laide-sociale-a-lenfance-ce-que-lon-sait-de-la-mort-de-louis-h-lynche-a-narbonne-20260626_5WIWH5VDCVBHVOD3OJL366XRPQ/",
-      "image": null,
-      "date": "2026-06-26T11:28:05+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "\"Cette épidémie risque d'être la plus meurtrière de l'histoire d'Ebola\", alerte le médecin Denis Mukwege, Prix Nobel de la paix 2018",
@@ -100,26 +130,6 @@
       "date": "2026-06-25T18:00:19+00:00",
       "date_formatted": "25 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Don de moelle osseuse : la greffe du petit Elio, 4 ans, a réussi",
-      "desc": "La greffe de moelle osseuse du petit Elio, 4 ans, a officiellement “pris” après un mois d'attente. Atteint d'un cancer du sang agressif, l'enfant entame sa convalescence en chambre stérile suite à une mobilisation ayant généré 70 000 nouvelles inscriptions sur le registre des donneurs.",
-      "url": "https://www.franceinfo.fr/sante/enfant-ado/don-de-moelle-osseuse-la-greffe-du-petit-elio-4-ans-a-reussi_8079500.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/n4up-8f-7KPM85bjiJBzO07QKb8/87x0:991x508/432x243/filters:format(jpg)/2026/06/25/6a3d368b354c8512775925.jpg",
-      "date": "2026-06-25T16:09:30+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La CGT réclame un \"chômage partiel intempéries\" et canicule pour tous les secteurs d'activité",
-      "desc": "En 2025, neuf accidents du travail mortels en lien possible avec la chaleur avaient été recensés, selon Santé publique France.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-cgt-reclame-un-chomage-partiel-intemperies-et-canicule-pour-tous-les-secteurs-d-activite_8079329.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/riewRwqxkB7aX9D1c9zCWmnXFLk/0x0:3500x1968/432x243/filters:format(jpg)/2026/06/25/6a3d2302f2f44447416747.jpg",
-      "date": "2026-06-25T15:08:52+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -323,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancers, maladies cardiovasculaires… Quelles sont les principales causes de décès en France ?",
-      "desc": "Les tumeurs, qui correspondent essentiellement à la mortalité liée aux cancers, constituaient en 2024 27,1 % des décès",
-      "url": "https://www.20minutes.fr/societe/4230648-20260623-cancers-maladies-cardiovasculaires-principales-causes-deces-france?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/u3tWL58dSvONF_7bDbhhwyk/1200x768_le-ministre-francais-de-la-sante-a-rencontre-des-patients-et-des-equipes-soignantes-pour-discuter-de-la-prise-en-charge-de-l-obesite-des-voies-de-traitement-et-du-soutien-quotidien-apporte-par-le-personnel-medical-du-centre-le-28-mai-2026-a-paris-sipa-sipa0021-credit-martin-rodier-sipa-2605290936",
-      "date": "2026-06-23T05:51:11+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Darwin, entre dans ce corps !",
       "desc": "Le numéro estival spécial de la revue Espèces présente l’état actuel de la théorie de l’évolution dont les bases furent posées par Charles Darwin. Parmi ses avancées, l’introduction dans la vie des cellules de ses concepts fondamentaux : variation, sélection, filiation. Au détriment de la métaphore ",
       "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/06/22/darwin-entre-dans-ce-corps_6708038_6565027.html",
@@ -350,36 +350,6 @@
       "date": "2026-06-22T17:03:30+00:00",
       "date_formatted": "22 June 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Quel sport (et sur quelle durée) permet d’allonger son espérance de vie ? Des scientifiques ont répondu",
-      "desc": "Une étude a récemment déterminé la nature et la durée hebdomadaire d’entraînement idéales pour augmenter son espérance de vie",
-      "url": "https://www.20minutes.fr/high-tech/sciences/4230565-20260622-sport-duree-allonger-esperance-vie-scientifiques-repondu?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/G1UGInXTRxauztOYeWzkcSk/1200x768_pratique-de-la-musculation-dans-une-salle-de-sport-illustration",
-      "date": "2026-06-22T15:02:36+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule : au moins 13 morts par noyade ce week-end en France, selon la sécurité civile",
-      "desc": "Alors que la canicule s’intensifie, la sécurité civile appelle à la vigilance et demande qu’on privilégie les baignades surveillées pour éviter de nouveaux drames.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/22/canicule-au-moins-13-morts-par-noyade-en-france-la-securite-civile-appelle-a-la-vigilance-et-a-privilegier-les-baignades-surveillees_6707517_3224.html",
-      "image": "https://img.lemde.fr/2026/06/21/631/0/3785/1892/644/322/60/0/e387ef4_ftp-1-wdt77zcicylm-5393568-01-06.jpg",
-      "date": "2026-06-22T13:07:12+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "François Englert, « coïnventeur » du boson de Higgs et Nobel de physique, est mort",
-      "desc": "Ancien « enfant caché » pendant la seconde guerre mondiale, ce chercheur belge a développé plusieurs théories audacieuses de l’Univers. Couronné du Nobel en 2013 pour ses travaux sur le boson, il s’est éteint le 18 juin à 93 ans.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/06/22/francois-englert-coinventeur-du-boson-de-higgs-et-nobel-de-physique-est-mort_6706579_3382.html",
-      "image": "https://img.lemde.fr/2025/08/12/92/0/1100/550/644/322/60/0/1d1578e_upload-1-granh1lc5wjb-11694147-layout-francois-englert-belgian-physicist.jpg",
-      "date": "2026-06-22T10:33:17+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
