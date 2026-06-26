@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-25T19:43:03.436332+00:00",
-  "count": 52,
+  "generated_at": "2026-06-26T02:04:11.423351+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Canicules : la mort silencieuse des animaux d’élevage",
+      "desc": "Le directeur de recherche CNRS au Centre d’écologie fonctionnelle et évolutive de Montpellier tient une chronique écologique pour «Libération» : «l’Albatros hurleur».",
+      "url": "https://www.liberation.fr/forums/canicules-la-mort-silencieuse-des-animaux-delevage-20260626_3SX55BUODJGHLLMHVI653M5SZE/",
+      "image": null,
+      "date": "2026-06-26T00:58:00+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Venezuela : villes ravagées, victimes nombreuses, secouristes français… ce que l’on sait du double séisme",
       "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. L’ampleur des destructions fait craindre un bilan humain très lourd, qui est pour l’heure de 188 morts et 1 520 blessés.",
