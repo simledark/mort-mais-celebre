@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-06-26T08:46:31.767321+00:00",
-  "count": 54,
+  "generated_at": "2026-06-26T13:56:23.652756+00:00",
+  "count": 43,
   "articles": [
+    {
+      "title": "Ebola : après un premier cas diagnostiqué en France chez un médecin de retour de RDC, la surveillance s’organise",
+      "desc": "Le médecin infecté avait été envoyé par l’ONG française Alima en Ituri, une province de l’Est congolais foyer de l’épidémie, pour participer à la riposte sanitaire contre le virus.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/06/26/ebola-apres-un-premier-cas-diagnostique-en-france-chez-un-medecin-de-retour-de-rdc-la-surveillance-s-organise_6715838_3212.html",
+      "image": "https://img.lemde.fr/2026/06/15/416/0/5000/2500/644/322/60/0/f8b5ce7_upload-1-hidkei2st7hc-06-pb-lemonde-ebola-bunia-rwampara-ituri-rdc.jpg",
+      "date": "2026-06-26T14:00:09+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Canicule : la ministre de la Santé préoccupée par «la survenue de décès à domicile»",
+      "desc": "Alors que les mesures de précaution s’accumulent pour ne pas surcharger les urgences, la ministre de la Santé s’inquiète des chiffres des morts à domicile depuis le début de l’épisode caniculaire, qui concerne aujourd’hui 61 départements en rouge et 22 en orange.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY/",
+      "image": null,
+      "date": "2026-06-26T13:42:47+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Rushdie, à la mort à la vie",
+      "desc": "Après «le Couteau», retour à la fiction avec cinq nouvelles chamarrées et ironiques, parfois fantastiques.",
+      "url": "https://www.liberation.fr/culture/livres/rushdie-a-la-mort-a-la-vie-20260626_B2743LRQXJEQ3CUBDK6MES7TRI/",
+      "image": null,
+      "date": "2026-06-26T13:10:00+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Venezuela : villes ravagées, lourd bilan, victimes étrangères… ce que l’on sait du double séisme",
+      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. Très lourd, le bilan humain s’élève pour l’instant à 589 morts et d’au moins 2 980 blessés.",
+      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
+      "image": null,
+      "date": "2026-06-26T12:43:04+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Mon fils, à 16 ans et demi, son adolescence s'est arrêtée\"",
+      "desc": "À 16 ans, Romain a frôlé la mort après avoir consommé du LSD. Son père témoigne.",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/mon-fils-a-16-ans-et-demi-son-adolescence-s-est-arretee_8080739.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/7hBmA4FPJUwDO__SBAygFLsWBoY/0x546:900x1053/432x243/filters:format(jpg)/2026/06/26/6a3e3aae1e741119055864.jpg",
+      "date": "2026-06-26T12:00:01+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un spray nasal pour améliorer la mémoire ?",
+      "desc": "Cette nouvelle approche, testée avec succès chez des souris âgées, diminue l’inflammation chronique liée à l’âge et protège la cognition.",
+      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/un-spray-nasal-pour-ameliorer-la-memoire_193417?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/25/cover-r4x3w1200-6a3d5d26b4c45-afp-20201117-dpa-pa-201117-99-365246-dpai-v1-highres-coronavirusretirementhome.jpg",
+      "date": "2026-06-26T12:00:00+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "«Tentative d’assassinat», plainte pour violences, parcours au sein de l’Aide sociale à l’enfance… Ce que l’on sait de la mort de Louis H., lynché à Narbonne",
+      "desc": "L’adolescent de 17 ans est mort des suites d’une agression mortelle vendredi 19 juin sur un chantier de l’Aude. Cinq jeunes à peine plus âgés que lui ont été mis en examen pour tentative d’assassinat. Le mobile de ce «guet-apens» reste inexpliqué à ce stade de l’enquête.",
+      "url": "https://www.liberation.fr/societe/police-justice/tentative-dassassinat-plainte-pour-violences-parcours-au-sein-de-laide-sociale-a-lenfance-ce-que-lon-sait-de-la-mort-de-louis-h-lynche-a-narbonne-20260626_5WIWH5VDCVBHVOD3OJL366XRPQ/",
+      "image": null,
+      "date": "2026-06-26T11:28:05+00:00",
+      "date_formatted": "26 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"Cette épidémie risque d'être la plus meurtrière de l'histoire d'Ebola\", alerte le médecin Denis Mukwege, Prix Nobel de la paix 2018",
       "desc": "Le virus se propage en République démocratique du Congo avec un taux de létalité estimé à 25% par l'OMS. Denis Mukwege pointe la difficulté de \"mettre en place les mesures de sécurité sanitaire\" dans un pays en guerre constante.",
@@ -10,46 +80,6 @@
       "date": "2026-06-26T09:44:15+00:00",
       "date_formatted": "26 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Attentat à la voiture-bélier du marché de Noël de Magdebourg : Taleb Jawad al-Abdulmohsen condamné à la perpétuité",
-      "desc": "L’attaque, perpétrée fin 2024 dans cette ville de l’est de l’Allemagne, avait fait six morts et plus de 300 blessés. Il a été condamné à la peine maximale ce vendredi 26 juin.",
-      "url": "https://www.liberation.fr/international/europe/attentat-a-la-voiture-belier-du-marche-de-noel-de-magdebourg-perpetuite-contre-taleb-jawad-al-abdulmohsen-20260626_URLCMZ76IVHRNKAKTHDATAA55E/",
-      "image": null,
-      "date": "2026-06-26T08:22:18+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Assassinat de Dominique Bernard : vers un procès «important» pour comprendre le «chemin de la fanatisation»",
-      "desc": "Fait rare dans les affaires terroristes, l’auteur des coups mortels contre l’enseignant d’Arras est toujours vivant et parait en position de s’exprimer à son procès, que le parquet national antiterroriste a demandé mardi 23 juin.",
-      "url": "https://www.liberation.fr/societe/police-justice/assassinat-de-dominique-bernard-vers-un-proces-important-pour-comprendre-le-chemin-de-la-fanatisation-20260626_DEQPLCNDHNF7XL6TF5NKTIKC2E/",
-      "image": null,
-      "date": "2026-06-26T08:21:38+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Le fait d’être loin, ça augmente encore l’anxiété» : après le double séisme au Venezuela, la diaspora en deuil à Miami",
-      "desc": "A l’heure où les sauveteurs cherchent toujours des survivants dans les décombres du tremblement de terre au Venezuela, les exilés installés en Floride tentent de canaliser leur peine et leur angoisse en envoyant des vivres.",
-      "url": "https://www.liberation.fr/international/amerique/le-fait-detre-loin-ca-augmente-encore-lanxiete-apres-le-double-seisme-au-venezuela-la-diaspora-en-deuil-a-miami-20260626_MHOAVOUEQJFYDCQQ7LV655AX5A/",
-      "image": null,
-      "date": "2026-06-26T06:41:56+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Venezuela : villes ravagées, lourd bilan, victimes étrangères… ce que l’on sait du double séisme",
-      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi. L’ampleur des destructions fait craindre un bilan humain très lourd, qui est pour l’heure de 235 morts et d’au moins 1 520 blessés.",
-      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
-      "image": null,
-      "date": "2026-06-26T05:42:53+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -111,16 +141,6 @@
       "date_formatted": "25 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "\"La greffe a pris\", se réjouit le père d'Elio, 4 ans, atteint d'un cancer du sang rare",
-      "desc": "\"On est sorti de l'urgence de la maladie\", partage Thomas, le père d'Elio, sur France Inter. Les parents du garçon avaient lancé un appel au don de moelle osseuse sur les réseaux sociaux qui avait massivement été relayé. Ils appellent désormais à \"globaliser ces dons\".",
-      "url": "https://www.franceinfo.fr/sante/cancer/la-greffe-a-pris-se-rejouit-le-pere-d-elio-4-ans-atteint-d-un-cancer-du-sang-rare_8078795.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/3X7DClSJeJuJdmgV8s57uqcE12M/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/18/6a0ac145e3c3d614790749.png",
-      "date": "2026-06-25T10:11:54+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Trop de noyades en Ile-de-France : la chasse aux baigneurs sauvages est ouverte",
@@ -313,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Darwin, entre dans ce corps !",
       "desc": "Le numéro estival spécial de la revue Espèces présente l’état actuel de la théorie de l’évolution dont les bases furent posées par Charles Darwin. Parmi ses avancées, l’introduction dans la vie des cellules de ses concepts fondamentaux : variation, sélection, filiation. Au détriment de la métaphore ",
       "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/06/22/darwin-entre-dans-ce-corps_6708038_6565027.html",
@@ -413,26 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Cordes vocales : une thérapie inédite pour retrouver sa voix",
       "desc": "À l'hôpital de la Conception, à Marseille, une équipe d'ORL et de biologistes mène le premier essai au monde reposant sur une injection de cellules souches d'origine graisseuse réalisée directement au niveau des cordes vocales afin de leur permettre de retrouver leur souplesse originelle. Un espoir ",
       "url": "https://www.sciencesetavenir.fr/sante/orl/cordes-vocales-une-therapie-inedite-pour-retrouver-sa-voix_192630?xtor=RSS-16",
@@ -440,106 +430,6 @@
       "date": "2026-06-14T06:00:00+00:00",
       "date_formatted": "14 June 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
