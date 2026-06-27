@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-06-27T08:23:35.848631+00:00",
-  "count": 55,
+  "generated_at": "2026-06-27T13:04:06.754798+00:00",
+  "count": 45,
   "articles": [
+    {
+      "title": "La semaine vue par Coco : la canicule dans l’angle mort des politiques",
+      "desc": "L’actualité croquée par notre dessinatrice.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-la-canicule-dans-langle-mort-des-politiques-20260627_B2M5CE6K3NH23J3KIXQRQHJIOA/",
+      "image": null,
+      "date": "2026-06-27T12:26:03+00:00",
+      "date_formatted": "27 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Canicule : 109 morts à Paris en 24 heures, annonce le Samu",
+      "desc": "Si la situation est devenue un peu plus supportable sur l’ouest de la France, 50 départements restent en vigilance rouge au moins jusqu’à ce samedi soir. De nombreux événements comme Solidays ou la marche des Fiertés ont été annulés.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-treize-departements-retrogrades-de-violents-orages-attendus-20260627_7WMDWMCEEJFWPLTKFU63OHT6YY/",
+      "image": null,
+      "date": "2026-06-27T12:22:51+00:00",
+      "date_formatted": "27 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : un homme meurt par noyade dans le canal Saint-Martin",
+      "desc": "Selon la préfecture, la victime, dont l’âge n’a pas été précisé, se baignait dans un endroit interdit du cours d’eau. Vendredi matin, la ministre des Sports Marina Ferrari avait fait état de 55 morts par noyade depuis le début de l’épisode caniculaire.",
+      "url": "https://www.liberation.fr/societe/canicule-un-homme-meurt-par-noyade-dans-le-canal-saint-martin-20260627_XPUBIBHMNVBM7CJOB5UDBEJT6I/",
+      "image": null,
+      "date": "2026-06-27T11:25:02+00:00",
+      "date_formatted": "27 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un animateur mexicain, Luis de la Rosa, meurt percuté par un train au festival d’Annecy",
+      "desc": "L’homme de 34 ans, qui avait collaboré à «Spider-Man : Across the Spider-Verse», était accrédité au marché du festival pour y présenter son projet personnel en cours, «Ash Raider World». Une enquête est ouverte pour déterminer les circonstances du décès.",
+      "url": "https://www.liberation.fr/culture/cinema/un-animateur-mexicain-luis-de-la-rosa-meurt-percute-par-un-train-au-festival-dannecy-20260627_WI54EF42HRHNPJEYF343OXOAYI/",
+      "image": null,
+      "date": "2026-06-27T11:07:22+00:00",
+      "date_formatted": "27 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vivre ou mourir en thermocratie, par Paul B. Préciado",
+      "desc": "Toute thermocratie exige la mise en place d’un système de climatisation pour ses élites, de sorte que celui qui produit le plus de chaleur est celui qui en souffre le moins.",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/vivre-ou-mourir-en-thermocratie-par-paul-b-preciado-20260627_Q74UIO25GBCINJAMLNIC2HWYBQ/",
+      "image": null,
+      "date": "2026-06-27T10:33:00+00:00",
+      "date_formatted": "27 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« L’été et les fortes chaleurs, ça exacerbe tous les symptômes » : vivre une canicule lorsqu’on est atteint de troubles psychiques",
+      "desc": "Lorsque les températures augmentent, plusieurs études constatent une hausse des passages aux urgences psychiatriques et des tentatives de suicide.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/27/vivre-la-canicule-lorsqu-on-est-atteint-de-troubles-psychiques-ca-exacerbe-tous-les-symptomes_6716352_3224.html",
+      "image": "https://img.lemde.fr/2026/06/26/1723/0/4000/2000/644/322/60/0/37d6d1e_upload-1-6g6ifeca3j6c-kzihnioglu-soc-metz-hopital-26062026-074.JPG",
+      "date": "2026-06-27T10:30:01+00:00",
+      "date_formatted": "27 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Deux morts dans des frappes russes en Ukraine, des dizaines de blessés côtés ukrainien et russe",
+      "desc": "La Russie continue de viser l’Ukraine avec des bombardements quasi-quotidiens.",
+      "url": "https://www.liberation.fr/international/europe/deux-morts-dans-des-frappes-russes-en-ukraine-des-dizaines-de-blesses-cotes-ukrainien-et-russe-20260627_ROGSNPLOYFHDPGBZJFV4RMFTVA/",
+      "image": null,
+      "date": "2026-06-27T10:16:10+00:00",
+      "date_formatted": "27 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tennis : Chris Evert annonce une rechute de son cancer de l’ovaire",
+      "desc": "L’immense championne américaine, troisième joueuse la plus titrée de l’histoire en Grand chelem, a annoncé se retirer de ses obligations professionnelles et renoncer notamment à son travail de commentatrice à Wimbledon.",
+      "url": "https://www.liberation.fr/sports/tennis/tennis-chris-evert-annonce-une-rechute-de-son-cancer-de-lovaire-20260627_ECRPHA3APBEEJPL6NMCMHUAW7Y/",
+      "image": null,
+      "date": "2026-06-27T09:26:44+00:00",
+      "date_formatted": "27 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "REPORTAGE. \"On a beaucoup d'appels, ça n'arrête pas\" : à Paris, le Samu en surchauffe pendant la canicule",
       "desc": "Hyperthermies, arrêts cardiaques, décès... L'ambulance du Samu ne cesse de faire des aller-retours et le centre d'appels est inondé de coups de téléphone : les secours font face à une très forte demande à Paris, en pleine vague de chaleur.",
@@ -13,21 +93,11 @@
       "type": "presse"
     },
     {
-      "title": "Refuges climatiques, rénovations, végétalisation… Quelles sont les solutions pour résister à la chaleur ?",
-      "desc": "Les leviers d’action pour permettre à la population de mieux vivre les canicules existent et doivent être la priorité des politiques publiques, sous peine de connaître de fortes mortalités chaque année, insistent les associations environnementales et de solidarité.",
-      "url": "https://www.liberation.fr/environnement/climat/refuges-climatiques-renovations-vegetalisation-quelles-sont-les-solutions-pour-resister-a-la-chaleur-20260627_E7BAAXBD2JCDTPDDF5QFXSVOXE/",
-      "image": null,
-      "date": "2026-06-27T07:56:00+00:00",
-      "date_formatted": "27 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Près de 1 000 morts et 50 000 disparus : ce que l’on sait du double séisme qui a frappé le Venezuela",
       "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi.",
       "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
       "image": null,
-      "date": "2026-06-27T07:37:20+00:00",
+      "date": "2026-06-27T08:29:33+00:00",
       "date_formatted": "27 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -40,26 +110,6 @@
       "date": "2026-06-27T07:07:44+00:00",
       "date_formatted": "27 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule : un homme meurt par noyade dans le canal Saint-Martin",
-      "desc": "Selon la préfecture, la victime, dont l’âge n’a pas été précisé, se baignait dans un endroit interdit du cours d’eau. Vendredi matin, la ministre des Sports Marina Ferrari avait fait état de 55 morts par noyade depuis le début de l’épisode caniculaire.",
-      "url": "https://www.liberation.fr/societe/canicule-un-homme-meurt-par-noyade-dans-le-canal-saint-martin-20260627_XPUBIBHMNVBM7CJOB5UDBEJT6I/",
-      "image": null,
-      "date": "2026-06-27T06:36:41+00:00",
-      "date_formatted": "27 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Grippe aviaire : malgré les efforts, le virus est de retour en France",
-      "desc": "Après deux ans d’accalmie, la grippe aviaire sème à nouveau le chaos dans l’Hexagone. La méthode française de lutte contre la maladie semble avoir atteint ses limites.",
-      "url": "https://www.liberation.fr/forums/grippe-aviaire-malgre-les-efforts-le-virus-est-de-retour-en-france-20260627_TQCZYJZJCVC7HBONHU2FFC64KI/",
-      "image": null,
-      "date": "2026-06-27T02:15:00+00:00",
-      "date_formatted": "27 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -120,16 +170,6 @@
       "date": "2026-06-26T14:00:09+00:00",
       "date_formatted": "26 June 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Mon fils, à 16 ans et demi, son adolescence s'est arrêtée\"",
-      "desc": "À 16 ans, Romain a frôlé la mort après avoir consommé du LSD. Son père témoigne.",
-      "url": "https://www.franceinfo.fr/sante/drogue-addictions/mon-fils-a-16-ans-et-demi-son-adolescence-s-est-arretee_8080739.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/7hBmA4FPJUwDO__SBAygFLsWBoY/0x546:900x1053/432x243/filters:format(jpg)/2026/06/26/6a3e3aae1e741119055864.jpg",
-      "date": "2026-06-26T12:00:01+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -353,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Darwin, entre dans ce corps !",
       "desc": "Le numéro estival spécial de la revue Espèces présente l’état actuel de la théorie de l’évolution dont les bases furent posées par Charles Darwin. Parmi ses avancées, l’introduction dans la vie des cellules de ses concepts fondamentaux : variation, sélection, filiation. Au détriment de la métaphore ",
       "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/06/22/darwin-entre-dans-ce-corps_6708038_6565027.html",
@@ -393,16 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer colorectal : des virus cachés dans nos bactéries pourraient changer la donne",
-      "desc": "Depuis des années, les scientifiques soupçonnent certaines bactéries intestinales de favoriser le cancer colorectal. Mais une nouvelle étude révèle qu’elles pourraient elles-mêmes être manipulées par un acteur jusqu’ici passé sous les radars : un virus caché dans leur ADN. Une découverte qui...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-colorectal-cancer-colorectal-virus-caches-nos-bacteries-pourraient-changer-donne-135472/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/f/3/4f301c44cc_50256828_bacterie.jpg",
-      "date": "2026-06-20T07:08:58+00:00",
-      "date_formatted": "20 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Chikungunya, dengue, Zika : plus de 210 cas importés dans l'Hexagone en un mois",
       "desc": "Plus de 210 cas importés de chikungunya, dengue et Zika, trois arboviroses transmises par des moustiques tigres, ont été recensés en France hexagonale depuis début mai et le démarrage de la surveillance renforcée de cette famille de maladies virales, selon un bilan publié le 17 juin 2026 par Santé p",
       "url": "https://www.sciencesetavenir.fr/sante/chikungunya-dengue-zika-plus-de-210-cas-importes-dans-l-hexagone-en-un-mois_193147?xtor=RSS-16",
@@ -423,26 +443,6 @@
       "type": "science"
     },
     {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Cordes vocales : une thérapie inédite pour retrouver sa voix",
       "desc": "À l'hôpital de la Conception, à Marseille, une équipe d'ORL et de biologistes mène le premier essai au monde reposant sur une injection de cellules souches d'origine graisseuse réalisée directement au niveau des cordes vocales afin de leur permettre de retrouver leur souplesse originelle. Un espoir ",
       "url": "https://www.sciencesetavenir.fr/sante/orl/cordes-vocales-une-therapie-inedite-pour-retrouver-sa-voix_192630?xtor=RSS-16",
@@ -450,106 +450,6 @@
       "date": "2026-06-14T06:00:00+00:00",
       "date_formatted": "14 June 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
