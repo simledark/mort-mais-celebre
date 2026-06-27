@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-26T19:25:58.813623+00:00",
-  "count": 40,
+  "generated_at": "2026-06-27T01:58:14.398088+00:00",
+  "count": 38,
   "articles": [
     {
-      "title": "EN DIRECT - Coupe du monde : suivez le match Norvège-France avec «Libé»",
-      "desc": "Ce vendredi 26 juin, l’équipe de France affronte la Norvège à partir de 21 heures, mais sans Didier Deschamps, endeuillé et absent. Dans la nuit, autre moment fort de ce Mondial sous haute tension : le match des fiertés LGBT+, à Seattle, opposant l’Egypte et l’Iran.",
-      "url": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-les-bleus-se-preparent-pour-leur-dernier-match-de-poules-contre-la-norvege-20260626_4OATQCBI2ZHYTEHMR6RD35UNWI/",
+      "title": "Le Burkina Faso annonce «rompre ses relations diplomatiques» avec la France",
+      "desc": "La junte reproche à Paris de nourrir «des ambitions néocoloniales affichées avec le soutien actif à des réseaux subversifs et aux terroristes qui endeuillent notre pays et le Sahel».",
+      "url": "https://www.liberation.fr/international/afrique/le-burkina-faso-annonce-rompre-ses-relations-diplomatiques-avec-la-france-20260626_H3NT43PTUFC3HBDVKPQHUHYELE/",
       "image": null,
-      "date": "2026-06-26T19:16:26+00:00",
+      "date": "2026-06-26T19:57:54+00:00",
       "date_formatted": "26 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -21,16 +21,6 @@
       "date_formatted": "26 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Près de 1 000 morts et 50 000 disparus : ce que l’on sait du double séisme qui a frappé le Venezuela",
-      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi.",
-      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
-      "image": null,
-      "date": "2026-06-26T17:35:58+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "L’épidémie d’Ebola en RDC a fait 304 morts, selon le dernier bilan des autorités",
@@ -321,16 +311,6 @@
       "date_formatted": "23 June 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Les cancers et les maladies cardio-vasculaires, premières causes de décès en France en 2024",
-      "desc": "Le taux de mortalité des Français atteint un niveau historiquement bas, à 777,9 pour 100 000 habitants. La mortalité due aux maladies respiratoires continue de progresser.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/23/les-cancers-et-les-maladies-cardiovasculaires-premieres-causes-de-deces-en-france-en-2024_6708568_3224.html",
-      "image": "https://img.lemde.fr/2026/06/23/443/0/5321/2660/644/322/60/0/0736a53_upload-1-7v8lfwupn3x5-000-9bt7d4.jpg",
-      "date": "2026-06-23T07:57:22+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Darwin, entre dans ce corps !",
