@@ -1,53 +1,43 @@
 {
-  "generated_at": "2026-06-27T13:04:06.754798+00:00",
-  "count": 45,
+  "generated_at": "2026-06-27T19:00:15.887917+00:00",
+  "count": 41,
   "articles": [
     {
-      "title": "La semaine vue par Coco : la canicule dans l’angle mort des politiques",
-      "desc": "L’actualité croquée par notre dessinatrice.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-la-canicule-dans-langle-mort-des-politiques-20260627_B2M5CE6K3NH23J3KIXQRQHJIOA/",
+      "title": "Près de 1 500 morts et 50 000 disparus, jusqu’à 6,8 millions de personnes touchées : ce que l’on sait du double séisme qui a frappé le Venezuela",
+      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi.",
+      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
       "image": null,
-      "date": "2026-06-27T12:26:03+00:00",
+      "date": "2026-06-27T18:23:23+00:00",
       "date_formatted": "27 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Canicule : 109 morts à Paris en 24 heures, annonce le Samu",
-      "desc": "Si la situation est devenue un peu plus supportable sur l’ouest de la France, 50 départements restent en vigilance rouge au moins jusqu’à ce samedi soir. De nombreux événements comme Solidays ou la marche des Fiertés ont été annulés.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-treize-departements-retrogrades-de-violents-orages-attendus-20260627_7WMDWMCEEJFWPLTKFU63OHT6YY/",
+      "title": "«Elle est vitale pour la biodiversité» : pourquoi, sur les plages, la laisse de mer est traitée, à tort, comme un déchet",
+      "desc": "Floriane Boullot, docteure en biologie marine, alerte sur la nécessité de protéger cet écosystème composé de débris apportés par la mer, et souvent avalé par les machines qui nettoient le sable pour le confort des touristes.",
+      "url": "https://www.liberation.fr/environnement/biodiversite/elle-est-vitale-pour-la-biodiversite-pourquoi-sur-les-plages-la-laisse-de-mer-est-traitee-a-tort-comme-un-dechet-20260627_ZTMDV42MYRATFKDXFC434O62NU/",
       "image": null,
-      "date": "2026-06-27T12:22:51+00:00",
+      "date": "2026-06-27T15:35:11+00:00",
       "date_formatted": "27 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Canicule : un homme meurt par noyade dans le canal Saint-Martin",
-      "desc": "Selon la préfecture, la victime, dont l’âge n’a pas été précisé, se baignait dans un endroit interdit du cours d’eau. Vendredi matin, la ministre des Sports Marina Ferrari avait fait état de 55 morts par noyade depuis le début de l’épisode caniculaire.",
-      "url": "https://www.liberation.fr/societe/canicule-un-homme-meurt-par-noyade-dans-le-canal-saint-martin-20260627_XPUBIBHMNVBM7CJOB5UDBEJT6I/",
+      "title": "Pékin : la collision d’un petit avion avec un gratte-ciel fait un mort et 13 blessés",
+      "desc": "Le pilote, seul à bord, a été tué après avoir percuté le plus haut immeuble de la capitale chinoise. Une enquête sur les circonstances de l’incident est en cours.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/pekin-la-collision-dun-petit-avion-avec-un-gratte-ciel-fait-un-mort-et-13-blesses-20260627_7TUDUJRIJZGUDFB6H7GXWPFYK4/",
       "image": null,
-      "date": "2026-06-27T11:25:02+00:00",
+      "date": "2026-06-27T13:57:41+00:00",
       "date_formatted": "27 June 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Un animateur mexicain, Luis de la Rosa, meurt percuté par un train au festival d’Annecy",
-      "desc": "L’homme de 34 ans, qui avait collaboré à «Spider-Man : Across the Spider-Verse», était accrédité au marché du festival pour y présenter son projet personnel en cours, «Ash Raider World». Une enquête est ouverte pour déterminer les circonstances du décès.",
-      "url": "https://www.liberation.fr/culture/cinema/un-animateur-mexicain-luis-de-la-rosa-meurt-percute-par-un-train-au-festival-dannecy-20260627_WI54EF42HRHNPJEYF343OXOAYI/",
+      "title": "Incendie de Crans-Montana : le Constellation «ne sera plus jamais un bar» et va devenir un lieu «dévolu à la jeunesse»",
+      "desc": "Dans une interview au « Temps », le président du canton du Valais Christophe Darbellay a également annoncé l’installation d’un monument en hommage aux 41 morts et 115 blessés dans l’incendie.",
+      "url": "https://www.liberation.fr/international/europe/incendie-de-crans-montana-le-constellation-ne-sera-plus-jamais-un-bar-et-va-devenir-un-lieu-devolu-a-la-jeunesse-20260627_7CICC4VOLZHR3CTWTHGCGEZSRQ/",
       "image": null,
-      "date": "2026-06-27T11:07:22+00:00",
-      "date_formatted": "27 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Vivre ou mourir en thermocratie, par Paul B. Préciado",
-      "desc": "Toute thermocratie exige la mise en place d’un système de climatisation pour ses élites, de sorte que celui qui produit le plus de chaleur est celui qui en souffre le moins.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/vivre-ou-mourir-en-thermocratie-par-paul-b-preciado-20260627_Q74UIO25GBCINJAMLNIC2HWYBQ/",
-      "image": null,
-      "date": "2026-06-27T10:33:00+00:00",
+      "date": "2026-06-27T13:47:36+00:00",
       "date_formatted": "27 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -63,26 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Deux morts dans des frappes russes en Ukraine, des dizaines de blessés côtés ukrainien et russe",
-      "desc": "La Russie continue de viser l’Ukraine avec des bombardements quasi-quotidiens.",
-      "url": "https://www.liberation.fr/international/europe/deux-morts-dans-des-frappes-russes-en-ukraine-des-dizaines-de-blesses-cotes-ukrainien-et-russe-20260627_ROGSNPLOYFHDPGBZJFV4RMFTVA/",
-      "image": null,
-      "date": "2026-06-27T10:16:10+00:00",
-      "date_formatted": "27 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Tennis : Chris Evert annonce une rechute de son cancer de l’ovaire",
-      "desc": "L’immense championne américaine, troisième joueuse la plus titrée de l’histoire en Grand chelem, a annoncé se retirer de ses obligations professionnelles et renoncer notamment à son travail de commentatrice à Wimbledon.",
-      "url": "https://www.liberation.fr/sports/tennis/tennis-chris-evert-annonce-une-rechute-de-son-cancer-de-lovaire-20260627_ECRPHA3APBEEJPL6NMCMHUAW7Y/",
-      "image": null,
-      "date": "2026-06-27T09:26:44+00:00",
-      "date_formatted": "27 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "REPORTAGE. \"On a beaucoup d'appels, ça n'arrête pas\" : à Paris, le Samu en surchauffe pendant la canicule",
       "desc": "Hyperthermies, arrêts cardiaques, décès... L'ambulance du Samu ne cesse de faire des aller-retours et le centre d'appels est inondé de coups de téléphone : les secours font face à une très forte demande à Paris, en pleine vague de chaleur.",
       "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-on-a-beaucoup-d-appels-ca-n-arrete-pas-a-paris-le-samu-en-surchauffe-pendant-la-canicule_8058425.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -90,16 +60,6 @@
       "date": "2026-06-27T09:07:08+00:00",
       "date_formatted": "27 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Près de 1 000 morts et 50 000 disparus : ce que l’on sait du double séisme qui a frappé le Venezuela",
-      "desc": "Deux tremblements de terre, de 7,2 et 7,5 sur l’échelle de Richter, ont frappé une région proche de la capitale Caracas en fin d’après midi mercredi.",
-      "url": "https://www.liberation.fr/international/amerique/32-morts-700-blesses-39-secondes-dintervalle-ce-que-lon-sait-des-seismes-au-venezuela-20260625_DUMFW3VXNNBPXBTJFSRPC4PPS4/",
-      "image": null,
-      "date": "2026-06-27T08:29:33+00:00",
-      "date_formatted": "27 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
