@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-06-28T13:09:38.288203+00:00",
-  "count": 58,
+  "generated_at": "2026-06-28T18:59:02.213016+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Canicule : un scénario de fortes chaleurs entre le 6 et le 13 juillet «devient plus probable», anticipe Météo France",
+      "desc": "La chaleur commence à refluer : à partir de 22 heures ce dimanche, plus aucun département ne sera en vigilance rouge canicule. Mais son impact à retardement sur les organismes maintient les hôpitaux sous forte tension et fait craindre une forte surmortalité.",
+      "url": "https://www.liberation.fr/environnement/en-direct-canicule-les-autorites-sanitaires-ont-deja-recense-environ-1-000-deces-de-plus-que-la-normale-depuis-mercredi-20260628_7KW4YGO4HJBGJLBLDZHHDP4GJM/",
+      "image": null,
+      "date": "2026-06-28T17:58:40+00:00",
+      "date_formatted": "28 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Conséquences des fortes chaleurs, un premier bilan recense 1 000 décès de plus en trois jours par rapport à la normale",
+      "desc": "Même si les températures ont fortement baissé dimanche 28 juin, les conséquences des fortes chaleurs ne disparaissent pas immédiatement. Les hôpitaux sont toujours sous tension. Un premier bilan recense 1 000 décès de plus en trois jours par rapport à la normale.",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/consequences-des-fortes-chaleurs-un-premier-bilan-recense-1-000-deces-de-plus-en-3-jours-par-rapport-a-la-normale_8083745.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Wbte7O0byMUiVVP0PUOIl-28wf0/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/28/6a4110399ff92757480595.jpg",
+      "date": "2026-06-28T15:40:30+00:00",
+      "date_formatted": "28 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le crash d’un avion de parachutisme près de l’aéroport de Nancy fait 11 morts",
+      "desc": "L’appareil transportait ce dimanche 28 juin un groupe de personnes pour un baptême de parachutisme. «Il n’y a pas de victimes collatérales», selon le préfet de Meurthe-et-Moselle. La cause de l’accident est inconnue à cette heure.",
+      "url": "https://www.liberation.fr/societe/le-crash-dun-avion-de-tourisme-en-meurthe-et-moselle-fait-11-morts-20260628_5WEZM33NYVALNOYNLSY3OF7QA4/",
+      "image": null,
+      "date": "2026-06-28T15:15:03+00:00",
+      "date_formatted": "28 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Crash d’avion près de Nancy : les principaux accidents d’appareils légers en France depuis trente ans",
+      "desc": "Le drame qui a fait onze morts ce dimanche près de Nancy lors d’un baptême de parachutisme est le plus grave dans l’histoire récente de la France en dehors de l’activité aérienne commerciale.",
+      "url": "https://www.liberation.fr/societe/crash-davion-pres-de-nancy-les-principaux-accidents-dappareils-legers-en-france-depuis-trente-ans-20260628_AQZELWZWEVBTPN5ZSHTQQKOBCY/",
+      "image": null,
+      "date": "2026-06-28T14:59:04+00:00",
+      "date_formatted": "28 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"Environ 1 000 décès supplémentaires depuis mercredi\" : quatre questions sur la surmortalité liée à la canicule en France",
       "desc": "Santé publique France a publié un premier bilan humain de l'épisode caniculaire qui s'achève. Mais ces données chiffrées sont pour l'heure \"partielles\" et \"sous-estiment le nombre total de décès\", prévient l'agence nationale de santé publique.",
@@ -13,41 +53,11 @@
       "type": "presse"
     },
     {
-      "title": "Conséquences des fortes chaleurs, un premier bilan recense 1 000 décès de plus en 3 jours par rapport à la normale",
-      "desc": "Même si les températures ont fortement baissé dimanche 28 juin, les conséquences des fortes chaleurs ne disparaissent pas immédiatement. Les hôpitaux sont toujours sous tension. Un premier bilan recense mille décès de plus en trois jours par rapport à la normale.",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/consequences-des-fortes-chaleurs-un-premier-bilan-recense-1-000-deces-de-plus-en-3-jours-par-rapport-a-la-normale_8083745.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Wbte7O0byMUiVVP0PUOIl-28wf0/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/28/6a4110399ff92757480595.jpg",
-      "date": "2026-06-28T14:19:24+00:00",
-      "date_formatted": "28 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Canicule : plus de 1 300 décès imputables à la chaleur en Europe, selon l’OMS",
-      "desc": "La chaleur commence à refluer : il n’y a plus que deux départements en vigilance rouge ce dimanche, en Alsace. Mais son impact à retardement sur les organismes maintient les hôpitaux sous forte tension et fait craindre une forte surmortalité.",
-      "url": "https://www.liberation.fr/environnement/en-direct-canicule-les-autorites-sanitaires-ont-deja-recense-environ-1-000-deces-de-plus-que-la-normale-depuis-mercredi-20260628_7KW4YGO4HJBGJLBLDZHHDP4GJM/",
+      "title": "«Je vis avec une famille de traumatisés» : six mois après l’incendie de Crans-Montana, les vies bouleversées de Leïla, David et Mayeul",
+      "desc": "Ils étaient sur les lieux du drame, dans la station de ski, ce 1er janvier, quand les flammes ont ravagé le Constellation, faisant 41 morts et 115 blessés : une mère de deux victimes, le chef des pompiers de la ville et un étudiant français, brûlé dans le bar. Ils se livrent à «Libération».",
+      "url": "https://www.liberation.fr/societe/police-justice/je-vis-avec-une-famille-de-traumatises-six-mois-apres-lincendie-de-crans-montana-les-vies-bouleversees-de-leila-david-et-mayeul-20260628_O4QV2PRHLZEH3M6DZF73OWGFZE/",
       "image": null,
-      "date": "2026-06-28T13:00:19+00:00",
-      "date_formatted": "28 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le crash d’un avion de parachutisme près de l’aéroport de Nancy fait 11 morts",
-      "desc": "L’appareil transportait un groupe de personnes pour un baptême de parachutisme ce dimanche 28 juin. «Il n’y a pas de victimes collatérales», selon le préfet de Meurthe-et-Moselle. La cause de l’accident est inconnue à cette heure.",
-      "url": "https://www.liberation.fr/societe/le-crash-dun-avion-de-tourisme-en-meurthe-et-moselle-fait-11-morts-20260628_5WEZM33NYVALNOYNLSY3OF7QA4/",
-      "image": null,
-      "date": "2026-06-28T12:43:14+00:00",
-      "date_formatted": "28 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Aide à mourir : en dernière ligne droite, les députés renoncent au délit d’entrave",
-      "desc": "Samedi 27 juin, les députés ont achevé l’examen de la proposition de loi ouvrant droit à l’aide à mourir. C’est un texte expurgé de son volet pénal qui sera soumis mardi 30 juin au vote solennel de l’Assemblée nationale.",
-      "url": "https://www.liberation.fr/societe/sante/aide-a-mourir-en-derniere-ligne-droite-les-deputes-renoncent-au-delit-dentrave-20260628_IKPW5X4H45EBZJNQP6G4YAVKC4/",
-      "image": null,
-      "date": "2026-06-28T11:32:17+00:00",
+      "date": "2026-06-28T13:56:35+00:00",
       "date_formatted": "28 June 2026",
       "source": "Libération",
       "type": "presse"
@@ -60,16 +70,6 @@
       "date": "2026-06-28T10:15:07+00:00",
       "date_formatted": "28 June 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule : «environ 1 000 décès» de plus que la normale ont été recensés en France depuis mercredi",
-      "desc": "Les températures commencent à peine à redescendre et Santé Publique France donne ce dimanche un premier bilan du nombre de morts recensés pendant l’épisode caniculaire. Il est voué à s’alourdir.",
-      "url": "https://www.liberation.fr/environnement/canicule-environ-1-000-deces-supplementaires-ont-ete-recenses-en-france-depuis-mercredi-20260628_IJ7KPNWD2VGZHE7FAOI3OB7XBQ/",
-      "image": null,
-      "date": "2026-06-28T09:31:26+00:00",
-      "date_formatted": "28 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -413,32 +413,12 @@
       "type": "science"
     },
     {
-      "title": "Darwin, entre dans ce corps !",
-      "desc": "Le numéro estival spécial de la revue Espèces présente l’état actuel de la théorie de l’évolution dont les bases furent posées par Charles Darwin. Parmi ses avancées, l’introduction dans la vie des cellules de ses concepts fondamentaux : variation, sélection, filiation. Au détriment de la métaphore ",
-      "url": "https://www.lemonde.fr/sciences-au-carre/article/2026/06/22/darwin-entre-dans-ce-corps_6708038_6565027.html",
-      "image": "https://img.lemde.fr/2026/06/22/393/0/1000/500/644/322/60/0/3526a26_upload-1-eetf4e7nxohz-060especes-001bdef.jpg",
-      "date": "2026-06-22T17:22:38+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Une personne âgée sur deux verrait sa santé s’améliorer, révèle une étude américaine : comment font ceux qui y arrivent ?",
       "desc": "Le vieillissement est considéré comme une succession de pertes physiques et mentales. Pourtant, une étude de grande ampleur raconte une autre histoire : celle de seniors qui gagnent en performances cognitives ou physiques au fil des années. Quelle en est l’explication ?",
       "url": "https://www.futura-sciences.com/sante/actualites/longevite-personne-agee-deux-verrait-sante-ameliorer-revele-etude-americaine-font-ceux-y-arrivent-135532/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/d/b/5db67adb3a_50256969_longevite.jpg",
       "date": "2026-06-22T17:03:30+00:00",
       "date_formatted": "22 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cinquante ans de mystère levé : voici comment l'aspirine empêche le cancer de se propager selon une étude",
-      "desc": "Une équipe de chercheurs britanniques vient d’identifier le mécanisme par lequel cet antidouleur permet au système immunitaire de détruire les cellules cancéreuses.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cinquante-ans-mystere-leve-voici-aspirine-empeche-cancer-propager-selon-etude-w2t8-135511/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/7/c/27c7f692dc_50228193_medicament-antidouleur-cancer.jpg",
-      "date": "2026-06-21T09:00:00+00:00",
-      "date_formatted": "21 June 2026",
       "source": "Futura Santé",
       "type": "science"
     },
