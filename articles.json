@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-28T18:59:02.213016+00:00",
-  "count": 56,
+  "generated_at": "2026-06-29T02:09:13.915538+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Canicule : les autorités recensent au mois 1 000 morts supplémentaires par rapport à la normale",
+      "desc": "Malgré une légère baisse des températures, dimanche 28 juin, la chaleur est toujours présente et les craintes se confirment sur les conséquences meurtrières de l'épisode de canicule exceptionnel. Santé publique France évoque un bilan provisoire de 1 000 décès supplémentaires en trois jours par rappo",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-les-autorites-recensent-au-mois-1-000-morts-supplementaires-par-rapport-a-la-normale_8084132.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/WX2Lh5abb4tQHog5YPVJ0ybSxo8/0x109:1772x1106/432x243/filters:format(jpg)/2026/06/28/6a41712327a27065767012.png",
+      "date": "2026-06-28T22:15:02+00:00",
+      "date_formatted": "28 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Canicule : un scénario de fortes chaleurs entre le 6 et le 13 juillet «devient plus probable», anticipe Météo France",
       "desc": "La chaleur commence à refluer : à partir de 22 heures ce dimanche, plus aucun département ne sera en vigilance rouge canicule. Mais son impact à retardement sur les organismes maintient les hôpitaux sous forte tension et fait craindre une forte surmortalité.",
