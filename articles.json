@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-06-29T10:17:10.282408+00:00",
-  "count": 56,
+  "generated_at": "2026-06-29T15:24:56.246590+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "Nicolas Mayer-Rossignol, maire PS de Rouen, annonce une récidive de son cancer de la vessie mais assure aller \"bien\"",
+      "desc": "L'élu socialiste, qui avait rendu publique sa maladie en 2024, demeure \"pleinement engagé dans ses responsabilités de maire\" et promet de rester \"transparent\" au sujet de sa santé.",
+      "url": "https://www.franceinfo.fr/sante/cancer/le-maire-de-rouen-nicolas-mayer-rossignol-annonce-une-recidive-de-son-cancer-de-la-vessie-mais-assure-qu-il-va-bien_8085188.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GAjylXqcyA244FcRk2m-gLMbTOg/0x83:6914x3972/432x243/filters:format(jpg)/2026/06/29/6a427b18883e9561814497.jpg",
+      "date": "2026-06-29T16:49:59+00:00",
+      "date_formatted": "29 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Les jolis rêves de nos aînés\", une association qui permet aux séniors de réaliser leurs rêves",
+      "desc": "Il n'y a pas d'âge pour rêver, c'est la devise de Carmen. Elle a créé une association qui permet aux plus séniors de réaliser leurs rêves.",
+      "url": "https://www.franceinfo.fr/sante/senior/les-jolis-reves-de-nos-aines-une-association-qui-permet-aux-seniors-de-realiser-leurs-reves_8085158.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Mixfry_XGgKsHmKLzrkpwGOfZa4/16x0:1384x769/432x243/filters:format(jpg)/2026/06/29/6a4272e6d3542577541125.jpg",
+      "date": "2026-06-29T16:19:25+00:00",
+      "date_formatted": "29 June 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : « Le rôle de l’Etat n’est pas de décider à la place des individus »",
+      "desc": "Une approche libérale de la fin de vie suppose de dépasser les conceptions paternalistes selon lesquelles l’Etat ou les institutions religieuses pourraient définir ce qu’est une « bonne mort », affirme Daniel Borrillo, juriste spécialisé en bioéthique, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/06/29/fin-de-vie-le-role-de-l-etat-n-est-pas-de-decider-a-la-place-des-individus_6716925_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/907433c_upload-1-pq1557drjvj5-frame-885.jpg",
+      "date": "2026-06-29T15:33:53+00:00",
+      "date_formatted": "29 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Allemagne : au moins cinq morts après des tirs dans la ville de Stade, dans le nord-ouest du pays",
+      "desc": "La police de la commune de Basse-Saxe, près de Hambourg, annonce avoir arrêté deux personnes ce lundi après la fusillade survenue dans le centre-ville.",
+      "url": "https://www.liberation.fr/international/europe/allemagne-au-moins-cinq-morts-apres-des-tirs-dans-la-ville-de-stade-dans-le-nord-ouest-du-pays-20260629_YHUC66LNI5ESRC5B7WS2O5DC7Q/",
+      "image": null,
+      "date": "2026-06-29T14:05:26+00:00",
+      "date_formatted": "29 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un seul acide aminé peut changer le destin d’un virus animal : la découverte qui alerte les chercheurs",
+      "desc": "Des chercheurs ont découvert le mécanisme qui explique qu’un agent pathogène bénin chez l’animal devient grave quand il est transmis à l’humain. Leurs travaux permettent de mieux comprendre comment le virus SARS-CoV-2, responsable de la Covid-19 et apparenté aux coronavirus qui vivent chez les...",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-seul-acide-amine-peut-changer-destin-virus-animal-decouverte-alerte-chercheurs-135556/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/5/b/85b1b056bb_50257304_virus-transmission.jpg",
+      "date": "2026-06-29T12:45:32+00:00",
+      "date_formatted": "29 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Venezuela : Caracas et La Guaira de nouveau touchés par une forte secousse sismique",
+      "desc": "Cinq jours après le double séisme qui a fait près de 1 500 morts, la capitale du pays est de nouveau frappée par un tremblement de terre.",
+      "url": "https://www.liberation.fr/international/amerique/venezuela-caracas-et-la-guaira-de-nouveau-touches-par-une-forte-secousse-sismique-20260629_CMZYXR7CWZGW5HCPJV7UWD6IHI/",
+      "image": null,
+      "date": "2026-06-29T12:38:00+00:00",
+      "date_formatted": "29 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Toute ma famille est traumatisée» : six mois après l’incendie de Crans-Montana, les vies bouleversées de Leïla, David et Mayeul",
+      "desc": "Ils étaient sur les lieux du drame, dans la station de ski, ce 1er janvier, quand les flammes ont ravagé le Constellation, faisant 41 morts et 115 blessés : une mère de deux victimes, le chef des pompiers de la ville et un étudiant français, brûlé dans le bar. Ils se livrent à «Libération».",
+      "url": "https://www.liberation.fr/societe/police-justice/je-vis-avec-une-famille-de-traumatises-six-mois-apres-lincendie-de-crans-montana-les-vies-bouleversees-de-leila-david-et-mayeul-20260628_O4QV2PRHLZEH3M6DZF73OWGFZE/",
+      "image": null,
+      "date": "2026-06-29T12:34:46+00:00",
+      "date_formatted": "29 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"Ça peut changer la donne pour pas mal de monde\" : Kyan Khojandi appelle à la prévention contre le cancer dans un documentaire",
       "desc": "Tous les jours, une personnalité s'invite dans le monde d'Élodie Suigo. Lundi 29 juin 2026, l'acteur, réalisateur et humoriste Kyan Khojandi. Il est la voix off du documentaire \"André is an idiot\" de Tony Benna.",
@@ -23,16 +93,6 @@
       "type": "science"
     },
     {
-      "title": "EN DIRECT - Canicule : des risques de «défaillances d’organes» cette semaine en raison d’un «effet retard», alertent les urgentistes",
-      "desc": "La vague de chaleur perd en intensité ce lundi, avec des températures moins élevées que la semaine dernière mais qui restent jusqu’à 3 °C au-dessus des normales. La vigilance sanitaire demeure, dans la crainte d’une forte surmortalité.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-plus-aucun-departement-en-vigilance-rouge-lile-de-france-et-le-sud-est-encore-en-orange-20260629_VX5GX4TNA5AQFBJJRBRRGAWFMQ/",
-      "image": null,
-      "date": "2026-06-29T10:12:31+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Canicule : de nombreux décès en France mais moins qu'en 2003",
       "desc": "Un premier bilan, encore très partiel, donne une idée des lourdes conséquences d'une canicule en train de s'achever dans le pays après une dizaine de jours de températures extrêmes.",
       "url": "https://www.sciencesetavenir.fr/sante/canicule-les-craintes-se-confirment-sur-de-nombreux-deces-en-france-mais-moins-qu-en-2003_193466?xtor=RSS-16",
@@ -41,26 +101,6 @@
       "date_formatted": "29 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Conduite sans assurance : près de 7 500 victimes en France l’an dernier, des trottinettes électriques problématiques",
-      "desc": "Le phénomène de la non-assurance perdure en France, selon le bilan annuel du Fonds de garantie des victimes ce lundi 29 juin. L’institution a notamment recensé 177 personnes mortes dans des accidents où le conducteur n’était pas assuré.",
-      "url": "https://www.liberation.fr/societe/conduite-sans-assurance-pres-de-7-500-victimes-en-france-lan-dernier-des-trottinettes-electriques-problematiques-20260629_4F4TGYP7W5EF5MHFHPBPGKR5PY/",
-      "image": null,
-      "date": "2026-06-29T09:02:27+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Oise : un couple mis en examen après la mort de leur nourrisson de deux mois",
-      "desc": "L’enfant est mort vendredi 26 juin à l’hôpital d’Amiens, après un arrêt cardio-respiratoire la veille. Son père, âgé de 25 ans, a reconnu des violences en garde à vue. Il encourt une peine de réclusion criminelle à perpétuité.",
-      "url": "https://www.liberation.fr/societe/police-justice/oise-un-couple-mis-en-examen-apres-la-mort-de-leur-nourrisson-de-deux-mois-20260629_HQP77NJNVZHWJIRVCGQ3YMCZNU/",
-      "image": null,
-      "date": "2026-06-29T08:31:29+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Lutte contre le VIH : les financements en chute libre",
@@ -73,8 +113,8 @@
       "type": "presse"
     },
     {
-      "title": "Canicule : les premiers bilans révèlent une surmortalité, et notamment une hausse des décès à domicile",
-      "desc": "Santé publique France fait état d’environ 1 000 décès supplémentaires. Médecins et infirmiers mobilisés sur le terrain continuent d’être sous forte pression et redoutent davantage de morts ces prochains jours.",
+      "title": "Canicule : les premiers bilans révèlent une surmortalité, et notamment une hausse du nombre de morts à domicile",
+      "desc": "Santé publique France fait état d’environ 1 000 morts supplémentaires. Médecins et infirmiers mobilisés sur le terrain continuent d’être sous forte pression et redoutent davantage de morts ces prochains jours.",
       "url": "https://www.lemonde.fr/sante/article/2026/06/29/canicule-les-premiers-bilans-revelent-une-surmortalite-et-notamment-une-hausse-des-deces-a-domicile_6716697_1651302.html",
       "image": "https://img.lemde.fr/2026/06/26/585/0/5000/2500/644/322/60/0/9d09497_upload-1-wsa6o5y1xudv-kzihnioglu-soc-metz-hopital-26062026-088.JPG",
       "date": "2026-06-29T05:04:20+00:00",
@@ -308,16 +348,6 @@
       "url": "https://www.20minutes.fr/sante/4230966-20260624-ebola-chambre-double-flux-isolement-strict-protocole-premier-patient-teste-positif-france?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/-poPG8LyR3Cgx7VmoJbP8yk/1200x768_260624-kinshasa-24-juin-2026-xinhua-des-travailleurs-medicaux-escortent-un-patient-atteint-d-ebola-vers-un-centre-de-traitement-d-ebola-a-mongbwalu-dans-la-province-de-l-ituri-en-republique-democratique-du-congo-le-20-juin-2026-la-republique-democratique-du-congo-rdc-a-signale-1-094-cas-confirmes-d-ebola-dont-277-deces-lors-de-l-epidemie-actuelle-declaree-le-15-mai-l-organisation-mondiale-de-la-sante-oms-enregistrant-un-nombre-record-de-cas-au-premier-mois-les-donnees-officielles-publiees-mardi-indiquent-que-387-cas-etaient-en-quarantaine-ou-recevaient-un-traitement-et-115-cas-se-sont-retablis-les-autorites-de-la-rdc-ont-egalement-signale-131-cas-suspects-dont-44-deces-presumes-xinhua-shi-yu-chine-nouvelle-xxjp-bee000417-20260624-pepfn0a001-credit-chine-nouvelle-sipa-2606240917",
       "date": "2026-06-24T13:50:22+00:00",
-      "date_formatted": "24 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : Le patient arrivé en France voyageait sur Air France, qui a fourni la liste des passagers aux autorités",
-      "desc": "Le ministère de la Santé qui vient d’annoncer qu’un premier cas de la maladie avait été identifié. Le patient, isolé dans un établissement spécialisé avec une charge virale serait très faible selon les autorités, voyageait sur un vol Air France",
-      "url": "https://www.20minutes.fr/sante/4230913-20260624-ebola-premier-cas-maladie-identifie-france-chez-medecin-humanitaire?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/X41_cs9JR1STUDdNSp56yCk/1200x768_covid-19-hopital-consultations-epidemiologiques-coronavirus-ebola-dengue-chikungunya-grippe-h1n1-nice-france-22-03-2020-syspeo-sys-c001-2003221741-credit-syspeo-sipa-2003221742",
-      "date": "2026-06-24T09:13:33+00:00",
       "date_formatted": "24 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
