@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-06-30T13:50:45.701170+00:00",
-  "count": 51,
+  "generated_at": "2026-06-30T19:28:26.569345+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title": "Des jumelles de 15 mois retrouvées mortes de déshydratation près de Valenciennes, le reste de la fratrie hospitalisé",
+      "desc": "Les secours ont également pris en charge quatre autres enfants du couple âgés 3, 4, 5 et 6 ans.",
+      "url": "https://www.liberation.fr/societe/police-justice/deux-jumelles-de-15-mois-retrouvees-mortes-de-deshydratation-pres-de-valenciennes-le-reste-de-la-fratrie-hospitalise-20260629_PX6PRVCDFJHJZEPSDMX7INRXVY/",
+      "image": null,
+      "date": "2026-06-30T19:01:57+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Incendie de Crans-Montana : six mois après, personne n’oubliera",
+      "desc": "Alors que l’enquête sur le drame du 1er janvier s’annonce longue, il faut espérer que les familles endeuillées et les victimes aux vies bouleversées obtiennent toutes les réponses à la tragédie.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/incendie-de-crans-montana-six-mois-apres-personne-noubliera-20260630_XJ3MYZRZTBCVZALGPYD5LSLKI4/",
+      "image": null,
+      "date": "2026-06-30T18:38:42+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aide à mourir : Quelles sont les conditions votées par les députés ?",
+      "desc": "Le texte voté ce mardi par les députés encadre un droit à l’aide à mourir en France, soumis à de nombreuses conditions",
+      "url": "https://www.20minutes.fr/politique/assemblee_nationale/4232114-20260630-aide-mourir-conditions-votees-deputes?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-hSmGb2dQpyCR5NtuqxFoyk/1200x768_ambiance-lors-d-une-seance-de-questions-au-gouvernement-a-l-assemblee-nationale-a-paris-le-17-juin-2026-tephane-le-mouton-sipa-lemouton-stephane-260617c026-credit-stephane-lemouton-sipa-2606181129",
+      "date": "2026-06-30T18:30:32+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Séisme au Venezuela : Caracas évoque désormais 1 943 morts et 10 500 blessés",
+      "desc": "Le bilan du double tremblement de terre survenu le 24 juin ne cesse d’augmenter. Alors que les opérations de recherche se poursuivent, les Nations unies estiment toujours à environ 50 000 le nombre de disparus.",
+      "url": "https://www.liberation.fr/international/amerique/seisme-au-venezuela-caracas-evoque-desormais-1-719-morts-et-5-034-blesses-20260629_MQGG3UMZ7RFVXDVNHGGR4IP2CM/",
+      "image": null,
+      "date": "2026-06-30T18:23:39+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Je n’ai pas envie de mourir de chaud» : de Montreuil à Angers, élèves et parents se mobilisent pour un plan canicule",
+      "desc": "Partout en France, des rassemblements s’organisent cette semaine pour réclamer des mesures d’urgence dans les établissements scolaires face au réchauffement climatique.",
+      "url": "https://www.liberation.fr/societe/education/je-nai-pas-envie-de-mourir-de-chaud-de-montreuil-a-angers-eleves-et-parents-se-mobilisent-pour-un-plan-canicule-20260630_F4VKF4X32JCK5KGHJBH26GEBFA/",
+      "image": null,
+      "date": "2026-06-30T17:51:32+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : la proposition de loi créant un droit à l’aide à mourir approuvée pour la troisième fois par l’Assemblée",
+      "desc": "Les députés ont approuvé, en troisième lecture, la proposition de loi créant un droit à l’aide à mourir pour des patients atteints d’une affection grave et incurable. Le vote final aura lieu le 15 juillet.",
+      "url": "https://www.lemonde.fr/societe/article/2026/06/30/fin-de-vie-l-assemblee-nationale-approuve-a-nouveau-la-proposition-de-loi-instaurant-un-droit-a-l-aide-a-mourir-le-vote-final-aura-lieu-le-15-juillet_6717297_3224.html",
+      "image": "https://img.lemde.fr/2026/02/25/883/0/7032/3516/644/322/60/0/58dc64e_ftp-1-el9qigzgmvpr-5290286-01-06.jpg",
+      "date": "2026-06-30T17:41:07+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : les Ecologistes ont-ils vraiment avancé un total de 10 000 morts, nombre «faux et scandaleux» selon Lecornu ?",
+      "desc": "Le Premier ministre et les verts se sont écharpés ce mardi à l’Assemblée nationale sur les décès dus à la canicule. Le premier fustige le bilan évoqué selon lui par les seconds, qui démentent l’avoir utilisé.",
+      "url": "https://www.liberation.fr/politique/canicule-les-ecologistes-ont-ils-vraiment-avance-un-total-de-10-000-morts-nombre-faux-et-scandaleux-selon-lecornu-20260630_KLUXIKH6NBH6PCOCQDCOH7FSG4/",
+      "image": null,
+      "date": "2026-06-30T17:09:22+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La grande saga des cellules eucaryotes, vieilles de plus de 2 milliards d’années",
+      "desc": "Dans la revue « Nature » du 10 juin, une équipe espagnole retrace, par un travail d’archéologie moléculaire assisté d’un supercalculateur, cette aventure évolutive fondatrice, qui donnera naissance à l’ensemble des plantes, des champignons et des animaux.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/30/la-genese-des-cellules-eucaryotes-un-scenario-qui-se-precise_6717287_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/29/103/0/2244/1122/644/322/60/0/0cc8ef4_upload-1-5e9sos6410e7-cellules2def-1.jpg",
+      "date": "2026-06-30T17:00:01+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "L'Organisation mondiale de la santé craint des flambées épidémiques au Venezuela après le double séisme qui a frappé le pays",
       "desc": "Les perturbations des services de santé, des réseaux d'eau et d'assainissement, combinées aux déplacements de population, risquent de favoriser le développement de maladies.",
@@ -53,16 +133,6 @@
       "type": "science"
     },
     {
-      "title": "La mort de l’ancien ministre du Travail Robert Boulin de retour dans les mains de la justice",
-      "desc": "Membre du gouvernement sous de Gaulle, Pompidou et Giscard d’Estaing, l’ancien résistant s’était officiellement suicidé en 1979, ce que conteste sa famille. Trois juges du pôle cold case de Nanterre ont été saisis, lundi 29 juin, de l’affaire.",
-      "url": "https://www.liberation.fr/politique/la-mort-de-lancien-ministre-du-travail-robert-boulin-de-retour-dans-les-mains-de-la-justice-20260630_EUGDVYVS4JGQXMNLODHE2JHMTU/",
-      "image": null,
-      "date": "2026-06-30T10:06:26+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Alzheimer : les chercheurs identifient une boisson consommée par des millions de Français comme un facteur de risque majeur",
       "desc": "Le mythe du petit verre quotidien protecteur vient de voler en éclats. Une vaste étude brésilienne établit un lien direct entre la consommation d'alcool, même modérée, et le risque de démence et d'Alzheimer. Plus troublant encore : les lésions persistent longtemps après l'arrêt.",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-chercheurs-identifient-boisson-consommee-millions-francais-comme-facteur-risque-majeur-k2m6-135735/#xtor%3DRSS-8",
@@ -71,16 +141,6 @@
       "date_formatted": "30 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mort du centre social, hausse des tarifs de la cantine et de la fiscalité : à Hayange, les promesses non tenues du RN",
-      "desc": "Réélu lors des dernières municipales dans la commune de Moselle, Fabien Engelmann a vite rompu avec les prescriptions du parti, annonçant une série de mesures douloureuses touchant notamment les familles et les associations.",
-      "url": "https://www.liberation.fr/politique/elections/mort-du-centre-social-hausse-des-tarifs-de-la-cantine-et-de-la-fiscalite-a-hayange-les-promesses-non-tenues-du-rn-20260630_LLTJUPX75VDC7JERLQKBJ765GA/",
-      "image": null,
-      "date": "2026-06-30T09:39:55+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "« Ce n’est pas normal de mourir à 13 ans » : après trois cas de cancers dans une école de Franconville, la colère des parents et une enquête sanitaire",
@@ -273,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Environ 1 000 décès supplémentaires depuis mercredi\" : quatre questions sur la surmortalité liée à la canicule en France",
-      "desc": "Santé publique France a publié un premier bilan humain de l'épisode caniculaire qui s'achève. Mais ces données chiffrées sont pour l'heure \"partielles\" et \"sous-estiment le nombre total de décès\", prévient l'agence nationale de santé publique.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/environ-1-000-deces-supplementaires-depuis-mercredi-quatre-questions-sur-la-surmortalite-liee-a-la-canicule-en-france_8083529.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Hfpb7QMcbRMUFqnEVbqnqo2nLgA/0x520:5000x3333/432x243/filters:format(jpg)/2026/06/28/6a40f2df6d949910248371.jpg",
-      "date": "2026-06-28T14:30:43+00:00",
-      "date_formatted": "28 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Aide à mourir : à l’Assemblée nationale, la troisième lecture de la proposition de loi aboutit à un texte « sécurisé », selon ses partisans",
       "desc": "Après une semaine de débats, les députés ont achevé l’examen du texte, samedi, avant un vote solennel, mardi 30 juin. Ils ne pourront plus le modifier lors de la lecture définitive, après son passage au Sénat.",
       "url": "https://www.lemonde.fr/societe/article/2026/06/28/aide-a-mourir-a-l-assemblee-nationale-la-troisieme-lecture-de-la-proposition-de-loi-aboutit-a-un-texte-securise-selon-ses-partisans_6716520_3224.html",
@@ -403,16 +453,6 @@
       "type": "presse"
     },
     {
-      "title": "« Docteur Pap », le roman graphique qui célèbre  l’inventeur du frottis",
-      "desc": "L’illustrateur grec Petros Christoulias rend hommage au médecin Georgios Papanicolaou, qui mit au point une méthode de routine pour dépister le cancer du col de l’utérus.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/25/docteur-pap-le-roman-graphique-qui-celebre-l-inventeur-du-frottis_6713402_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/20/160/0/1920/960/644/322/60/0/5443a72_upload-1-namliooat8zl-generated-1781945767613.jpg",
-      "date": "2026-06-25T11:30:05+00:00",
-      "date_formatted": "25 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Trop de noyades en Ile-de-France : la chasse aux baigneurs sauvages est ouverte",
       "desc": "La Seine-et-Marne, ses fleuves, lacs et cours d'eau, compte un décès par jour depuis le début de la canicule qui fait suffoquer toute la France.",
       "url": "https://www.sciencesetavenir.fr/sante/trop-de-noyades-en-ile-de-france-la-chasse-aux-baigneurs-sauvages-est-ouverte_193399?xtor=RSS-16",
@@ -503,6 +543,16 @@
       "type": "science"
     },
     {
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Chikungunya, dengue, Zika : plus de 210 cas importés dans l'Hexagone en un mois",
       "desc": "Plus de 210 cas importés de chikungunya, dengue et Zika, trois arboviroses transmises par des moustiques tigres, ont été recensés en France hexagonale depuis début mai et le démarrage de la surveillance renforcée de cette famille de maladies virales, selon un bilan publié le 17 juin 2026 par Santé p",
       "url": "https://www.sciencesetavenir.fr/sante/chikungunya-dengue-zika-plus-de-210-cas-importes-dans-l-hexagone-en-un-mois_193147?xtor=RSS-16",
@@ -510,6 +560,126 @@
       "date": "2026-06-18T09:21:34+00:00",
       "date_formatted": "18 June 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
