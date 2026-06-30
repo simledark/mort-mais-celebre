@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-06-30T02:04:09.691804+00:00",
-  "count": 69,
+  "generated_at": "2026-06-30T08:52:41.806675+00:00",
+  "count": 64,
   "articles": [
     {
-      "title": "Bilan de la canicule : \"Je m'attends à ce que le nombre de morts soit important\", prévient Nicolas Revel, directeur de l'AP HP de Paris",
-      "desc": "Les conséquences des 12 jours de canicule sont-elles sous-estimées ? A-t-on déjà un bilan du nombre de morts ? Les hôpitaux sont-ils toujours en surchauffe ? Le directeur de l'AP-HP de Paris, Nicolas Revel, était l’invité du journal de 20 Heures.",
+      "title": "Alzheimer : les chercheurs identifient une boisson consommée par des millions de Français comme un facteur de risque majeur",
+      "desc": "Le mythe du petit verre quotidien protecteur vient de voler en éclats. Une vaste étude brésilienne établit un lien direct entre la consommation d'alcool, même modérée, et le risque de démence et d'Alzheimer. Plus troublant encore : les lésions persistent longtemps après l'arrêt.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-chercheurs-identifient-boisson-consommee-millions-francais-comme-facteur-risque-majeur-k2m6-135735/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/7/8/278474adb3_50257344_consommation-alcool-demence.jpg",
+      "date": "2026-06-30T10:00:00+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Bilan de la canicule : \"Je m'attends à ce que le nombre de morts soit important\", prévient Nicolas Revel, directeur de l'AP-HP",
+      "desc": "Les conséquences des 12 jours de canicule sont-elles sous-estimées ? A-t-on déjà un bilan du nombre de morts ? Les hôpitaux sont-ils toujours en surchauffe ? Le directeur de l'AP-HP, Nicolas Revel, était l’invité du journal de 20 Heures.",
       "url": "https://www.franceinfo.fr/sante/bilan-de-la-canicule-je-m-attends-a-ce-que-le-nombre-de-morts-soit-important-estime-nicolas-revel-directeur-de-l-ap-hp-de-paris_8085713.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/58gRdXUDqYCnbI_2yVWUqw1l0_g/0x0:1920x1080/432x243/filters:format(jpg)/2026/06/29/6a42d501efe72114180796.jpg",
-      "date": "2026-06-29T23:02:59+00:00",
-      "date_formatted": "29 June 2026",
+      "date": "2026-06-30T08:12:03+00:00",
+      "date_formatted": "30 June 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Ce n’est pas normal de mourir à 13 ans » : une enquête sanitaire ouverte après trois cas de cancers pédiatriques dans une école de Franconville",
+      "desc": "L’Agence régionale de santé enquête sur des tumeurs signalées chez des élèves d’un établissement du Val-d’Oise construit près d’un ancien site industriel pollué. Les parents de Shiloh Diakité, morte d’un cancer du sein très rare, portent plainte pour homicide involontaire.",
+      "url": "https://www.lemonde.fr/planete/article/2026/06/30/ce-n-est-pas-normal-de-mourir-a-13-ans-une-enquete-sanitaire-ouverte-apres-trois-cas-de-cancers-pediatriques-dans-une-ecole-de-franconville_6717204_3244.html",
+      "image": "https://img.lemde.fr/2026/06/29/385/0/5000/2500/644/322/60/0/1e03151_upload-1-x0479fwczk73-ad004-shiloh-dsc01062.jpg",
+      "date": "2026-06-30T06:00:32+00:00",
+      "date_formatted": "30 June 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -23,26 +43,6 @@
       "type": "presse"
     },
     {
-      "title": "Le maire de Rouen, Nicolas Mayer-Rossignol, annonce la récidive de son cancer de la vessie",
-      "desc": "Le socialiste de 49 ans avait expliqué en 2024 souffrir de la maladie. Ce lundi 29 juin, il évoque une rechute sans métastases.",
-      "url": "https://www.liberation.fr/politique/le-maire-de-rouen-nicolas-mayer-rossignol-annonce-la-recidive-de-son-cancer-de-la-vessie-20260629_FU73MWDCQZEXNC3U26II6BI2KM/",
-      "image": null,
-      "date": "2026-06-29T19:28:19+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Séisme au Venezuela : Caracas évoque désormais 1 719 morts et 5 034 blessés",
-      "desc": "Le bilan du double tremblement de terre survenu le 24 juin ne cesse d’augmenter. Alors que les opérations de recherche se poursuivent, les Nations unies estiment toujours à environ 50 000 le nombre de disparus.",
-      "url": "https://www.liberation.fr/international/amerique/seisme-au-venezuela-caracas-evoque-desormais-1-719-morts-et-5-034-blesses-20260629_MQGG3UMZ7RFVXDVNHGGR4IP2CM/",
-      "image": null,
-      "date": "2026-06-29T18:48:53+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Alzheimer : ce régime alimentaire pourrait réduire le risque de démence jusqu’à 29 %, révèle une grande étude sur 15 ans",
       "desc": "Une nouvelle étude, publiée dans la revue JAMA Network Open, révèle que les personnes âgées qui ont une alimentation anti-inflammatoire ont un risque réduit de développer une démence, notamment la maladie d’Alzheimer.",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-regime-alimentaire-pourrait-reduire-risque-demence-jusqua-29-revele-grande-etude-15-ans-135742/#xtor%3DRSS-8",
@@ -51,26 +51,6 @@
       "date_formatted": "29 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Allemagne : six morts et un blessé après des tirs dans la ville de Stade, dans le nord-ouest du pays",
-      "desc": "La police de la commune de Basse-Saxe, près de Hambourg, annonce avoir arrêté deux personnes ce lundi après la fusillade survenue dans le centre-ville.",
-      "url": "https://www.liberation.fr/international/europe/allemagne-au-moins-cinq-morts-apres-des-tirs-dans-la-ville-de-stade-dans-le-nord-ouest-du-pays-20260629_YHUC66LNI5ESRC5B7WS2O5DC7Q/",
-      "image": null,
-      "date": "2026-06-29T18:14:41+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Des jumelles de 15 mois retrouvées mortes de déshydratation près de Valenciennes, le reste de la fratrie hospitalisé",
-      "desc": "Les secours ont également pris en charge quatre autres enfants du couple âgés 3, 4, 5 et 6 ans.",
-      "url": "https://www.liberation.fr/societe/police-justice/deux-jumelles-de-15-mois-retrouvees-mortes-de-deshydratation-pres-de-valenciennes-le-reste-de-la-fratrie-hospitalise-20260629_PX6PRVCDFJHJZEPSDMX7INRXVY/",
-      "image": null,
-      "date": "2026-06-29T18:08:20+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Voici la différence essentielle entre démence sénile et Alzheimer que beaucoup confondent encore",
@@ -83,31 +63,11 @@
       "type": "science"
     },
     {
-      "title": "«On est contents de le retrouver» : après le décès de sa mère, Didier Deschamps de retour auprès des Bleus",
-      "desc": "Après un passage éclair en France, le sélectionneur s’est montré à nouveau combatif, sur le chemin du jeu, lors d’une conférence de presse lundi, veille de seizième de finale du Mondial contre les Suédois.",
-      "url": "https://www.liberation.fr/sports/football/on-est-contents-de-le-retrouver-apres-le-deces-de-sa-mere-didier-deschamps-de-retour-aupres-des-bleus-20260629_D4ONSS4FQZAQPEDVUUVYYAYN6Y/",
-      "image": null,
-      "date": "2026-06-29T17:55:31+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : la piste de la décharge d’Ushuaïa comme source de l’épidémie s’éloigne un peu plus",
-      "desc": "Des prélèvements réalisés fin mai par les autorités argentines dans la province de Terre de Feu n’ont pas permis de trouver des traces de la forme d’hantavirus détectée à bord du «MV Hondius».",
-      "url": "https://www.liberation.fr/checknews/hantavirus-la-piste-de-la-decharge-dushuaia-comme-source-de-lepidemie-seloigne-un-peu-plus-20260629_K66XH63JYRC27P3MLUVQGNQX2E/",
-      "image": null,
-      "date": "2026-06-29T17:48:32+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "En RDC, l’épidémie de maladie à virus Ebola s’étend dans tout le nord-est du pays avec une quatrième province affectée",
       "desc": "Le Haut-Uélé, province frontalière du Soudan du Sud mais aussi de la République centrafricaine, est désormais la quatrième à être touchée par la maladie, après l’Ituri, le Nord-Kivu et le Sud-Kivu.",
       "url": "https://www.lemonde.fr/afrique/article/2026/06/29/en-rdc-l-epidemie-de-maladie-a-virus-ebola-s-etend-dans-tout-le-nord-est-du-pays-avec-une-quatrieme-province-affectee_6716948_3212.html",
       "image": "https://img.lemde.fr/2026/06/29/333/0/4000/2000/644/322/60/0/b41a66a_upload-1-qtpkbitmtfad-24-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
-      "date": "2026-06-29T17:46:44+00:00",
+      "date": "2026-06-29T17:46:42+00:00",
       "date_formatted": "29 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -540,16 +500,6 @@
       "date": "2026-06-23T04:00:07+00:00",
       "date_formatted": "23 June 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une personne âgée sur deux verrait sa santé s’améliorer, révèle une étude américaine : comment font ceux qui y arrivent ?",
-      "desc": "Le vieillissement est considéré comme une succession de pertes physiques et mentales. Pourtant, une étude de grande ampleur raconte une autre histoire : celle de seniors qui gagnent en performances cognitives ou physiques au fil des années. Quelle en est l’explication ?",
-      "url": "https://www.futura-sciences.com/sante/actualites/longevite-personne-agee-deux-verrait-sante-ameliorer-revele-etude-americaine-font-ceux-y-arrivent-135532/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/d/b/5db67adb3a_50256969_longevite.jpg",
-      "date": "2026-06-22T17:03:30+00:00",
-      "date_formatted": "22 June 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
