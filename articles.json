@@ -1,25 +1,65 @@
 {
-  "generated_at": "2026-07-01T02:08:52.581634+00:00",
-  "count": 53,
+  "generated_at": "2026-07-01T09:25:15.667315+00:00",
+  "count": 64,
   "articles": [
     {
-      "title": "Des jumelles de 15 mois retrouvées mortes de déshydratation près de Valenciennes, le reste de la fratrie hospitalisé",
-      "desc": "Les secours ont également pris en charge quatre autres enfants du couple âgés 3, 4, 5 et 6 ans.",
-      "url": "https://www.liberation.fr/societe/police-justice/deux-jumelles-de-15-mois-retrouvees-mortes-de-deshydratation-pres-de-valenciennes-le-reste-de-la-fratrie-hospitalise-20260629_PX6PRVCDFJHJZEPSDMX7INRXVY/",
+      "title": "Le chanteur policier de Village People, Victor Willis, est mort à 74 ans",
+      "desc": "Le leader du groupe disco des années 70 était le co-auteur des plus grands succès de la formation, dont le tube planétaire YMCA. Son épouse évoque sur les réseaux sociaux une «maladie courte mais agressive».",
+      "url": "https://www.liberation.fr/culture/musique/le-chanteur-policier-de-village-people-victor-willis-est-mort-a-74-ans-20260701_ZO5Z4G26KRDB7KBTFNKZ2FR4TY/",
       "image": null,
-      "date": "2026-06-30T19:01:57+00:00",
-      "date_formatted": "30 June 2026",
+      "date": "2026-07-01T09:18:47+00:00",
+      "date_formatted": "1 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Incendie de Crans-Montana : six mois après, personne n’oubliera",
-      "desc": "Alors que l’enquête sur le drame du 1er janvier s’annonce longue, il faut espérer que les familles endeuillées et les victimes aux vies bouleversées obtiennent toutes les réponses à la tragédie.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/incendie-de-crans-montana-six-mois-apres-personne-noubliera-20260630_XJ3MYZRZTBCVZALGPYD5LSLKI4/",
+      "title": "Coupe du monde 2026 : deux morts lors des célébrations à Mexico",
+      "desc": "Après la qualification du pays hôte pour les huitièmes de finale acquise mardi face à l’Equateur, une jeune femme de 19 ans et un homme de 44 ans sont morts par asphyxie.",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-deux-morts-lors-des-celebrations-a-mexico-20260701_C3EINMAP6NDFFGGJDZI6A5SX34/",
       "image": null,
-      "date": "2026-06-30T18:38:42+00:00",
-      "date_formatted": "30 June 2026",
+      "date": "2026-07-01T09:03:51+00:00",
+      "date_formatted": "1 July 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«On peut se poser légitimement la question de l’esclavage» : cinq chauffeurs VTC déposent plainte pour traite d’êtres humains contre Uber",
+      "desc": "Selon nos informations, cinq chauffeurs accompagnés par le syndicat INV ont décidé de poursuivre la plateforme au pénal, après le décès de plusieurs d’entre eux. L’organisation dénonce la vulnérabilité et la précarité dans lesquelles Uber les maintient.",
+      "url": "https://www.liberation.fr/societe/on-peut-se-poser-legitimement-la-question-de-lesclavage-cinq-chauffeurs-vtc-deposent-plainte-pour-traite-detres-humains-contre-uber-20260701_B7ZPVC7KGZAW3O5KBPQQQ6HYMY/",
+      "image": null,
+      "date": "2026-07-01T07:44:21+00:00",
+      "date_formatted": "1 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Haute-Garonne : mort d’un enfant de 3 ans, sa mère et son beau-père en garde à vue pour «meurtre sur mineur»",
+      "desc": "«La nature de ses blessures fait très clairement comprendre que les coups ont été portés volontairement», a affirmé le procureur de la République de Saint-Gaudens.",
+      "url": "https://www.liberation.fr/societe/police-justice/haute-garonne-mort-dun-enfant-de-trois-ans-sa-mere-et-son-beau-pere-en-garde-a-vue-pour-meurtre-sur-mineur-20260701_3RWHFL6HEFGTNNZXWH7H7BQ3SQ/",
+      "image": null,
+      "date": "2026-07-01T07:25:36+00:00",
+      "date_formatted": "1 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : la création d’un droit à l’aide à mourir pour des patients atteints d’une affection grave et incurable approuvée pour la troisième fois par les députés",
+      "desc": "Une majorité nette s’est de nouveau dégagée à l’Assemblée nationale en faveur de la proposition de loi, malgré une opposition renforcée. Le vote final est prévu le 15 juillet au Palais-Bourbon, après un probable nouveau rejet par le Sénat.",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/01/fin-de-vie-la-creation-d-un-droit-a-l-aide-a-mourir-pour-des-patients-atteints-d-une-affection-grave-et-incurable-approuvee-pour-la-troisieme-fois-par-les-deputes_6717460_3224.html",
+      "image": "https://img.lemde.fr/2026/06/30/927/0/6694/3347/644/322/60/0/a58eb9e_ftp-1-0k3suwwawxh4-5492084-01-06.jpg",
+      "date": "2026-07-01T06:00:46+00:00",
+      "date_formatted": "1 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Du poison dans notre café ?",
+      "desc": "L’ONG Coffee Watch a publié un nouveau rapport alertant sur la présence de résidus de pesticides dans le café que nous buvons. Ces pesticides sont parfois cancérogènes et infligent un lourd impact sanitaire aux producteurs.",
+      "url": "https://www.franceinfo.fr/sante/du-poison-dans-notre-cafe_8087060.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/y7H_DQWuJzth1OtfLa-bN8L6gB4/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/06/30/6a43de88010c5102778766.jpg",
+      "date": "2026-07-01T06:00:06+00:00",
+      "date_formatted": "1 July 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -30,26 +70,6 @@
       "date": "2026-06-30T18:30:32+00:00",
       "date_formatted": "30 June 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Séisme au Venezuela : Caracas évoque désormais 1 943 morts et 10 500 blessés",
-      "desc": "Le bilan du double tremblement de terre survenu le 24 juin ne cesse d’augmenter. Alors que les opérations de recherche se poursuivent, les Nations unies estiment toujours à environ 50 000 le nombre de disparus.",
-      "url": "https://www.liberation.fr/international/amerique/seisme-au-venezuela-caracas-evoque-desormais-1-719-morts-et-5-034-blesses-20260629_MQGG3UMZ7RFVXDVNHGGR4IP2CM/",
-      "image": null,
-      "date": "2026-06-30T18:23:39+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Je n’ai pas envie de mourir de chaud» : de Montreuil à Angers, élèves et parents se mobilisent pour un plan canicule",
-      "desc": "Partout en France, des rassemblements s’organisent cette semaine pour réclamer des mesures d’urgence dans les établissements scolaires face au réchauffement climatique.",
-      "url": "https://www.liberation.fr/societe/education/je-nai-pas-envie-de-mourir-de-chaud-de-montreuil-a-angers-eleves-et-parents-se-mobilisent-pour-un-plan-canicule-20260630_F4VKF4X32JCK5KGHJBH26GEBFA/",
-      "image": null,
-      "date": "2026-06-30T17:51:32+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -133,7 +153,7 @@
       "type": "science"
     },
     {
-      "title": "« Ce n’est pas normal de mourir à 13 ans » : après trois cas de cancers dans une école de Franconville, la colère des parents et une enquête sanitaire",
+      "title": "« Ce n’est pas normal de mourir à 13 ans » : une enquête sanitaire ouverte après trois cas de cancers pédiatriques dans une école de Franconville",
       "desc": "L’Agence régionale de santé enquête sur des tumeurs signalées chez des élèves d’un établissement du Val-d’Oise construit près d’un ancien site industriel pollué. Les parents de Shiloh Diakité, morte d’un cancer du sein très rare, portent plainte pour homicide involontaire.",
       "url": "https://www.lemonde.fr/planete/article/2026/06/30/ce-n-est-pas-normal-de-mourir-a-13-ans-une-enquete-sanitaire-ouverte-apres-trois-cas-de-cancers-pediatriques-dans-une-ecole-de-franconville_6717204_3244.html",
       "image": "https://img.lemde.fr/2026/06/29/385/0/5000/2500/644/322/60/0/1e03151_upload-1-x0479fwczk73-ad004-shiloh-dsc01062.jpg",
@@ -253,16 +273,6 @@
       "type": "science"
     },
     {
-      "title": "\"Ça peut changer la donne pour pas mal de monde\" : Kyan Khojandi appelle à la prévention contre le cancer dans un documentaire",
-      "desc": "Tous les jours, une personnalité s'invite dans le monde d'Élodie Suigo. Lundi 29 juin 2026, l'acteur, réalisateur et humoriste Kyan Khojandi. Il est la voix off du documentaire \"André is an idiot\" de Tony Benna.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/ca-peut-changer-la-donne-pour-pas-mal-de-monde-kyan-khojandi-appelle-a-la-prevention-contre-le-cancer-dans-un-documentaire_8060582.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ydWZ5-h8F363jPLAMnuR5sCqVng/0x0:1024x576/432x243/filters:format(jpg)/2026/06/26/6a3e69fcd950f070944154.jpg",
-      "date": "2026-06-29T11:23:03+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Quand l’ADN relie trois crimes violents : l’enquête qui a confondu le meurtrier après plus d’une décennie",
       "desc": "Des analyses ADN sophistiquées réalisées sur d’anciens scellés ont révélé des liens inattendus entre trois affaires criminelles à Amsterdam. Une illustration des prouesses actuelles de la génétique médico-légale.",
       "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/29/quand-l-adn-relie-trois-crimes-violents-l-enquete-qui-a-confondu-le-meurtrier-apres-plus-d-une-decennie_6716890_6579630.html",
@@ -281,16 +291,6 @@
       "date_formatted": "29 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Lutte contre le VIH : les financements en chute libre",
-      "desc": "Le désintérêt progressif des États pour la recherche contre le Sida freine le développement de nouveaux traitements. Cette baisse des ressources pourrait ralentir les progrès déjà réalisés par les différents acteurs engagés ces dernières années. Plus de 600 000 personnes sont décédées de maladies li",
-      "url": "https://www.franceinfo.fr/sante/lutte-contre-le-vih-les-financements-en-chute-libre_8081222.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zEauplY_Rdl4znddRqIRpWoG-aQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/06/26/6a3e840dbdd0b173629628.jpg",
-      "date": "2026-06-29T06:00:02+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Canicule : les premiers bilans révèlent une surmortalité, et notamment une hausse du nombre de morts à domicile",
@@ -473,16 +473,6 @@
       "type": "science"
     },
     {
-      "title": "Vous avez beaucoup de grains de beauté ? Cette étude révèle pourquoi il faut les surveiller",
-      "desc": "Chaque été, les dermatologues rappellent l'importance de protéger sa peau du soleil. Mais une vaste étude génétique menée par des chercheurs australiens montre que le risque de mélanome ne dépend pas seulement des UV.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-peau-vous-avez-beaucoup-grains-beaute-cette-etude-revele-il-faut-surveiller-135555/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/6/b/06bac0d458_50256988_coup-soleil-bronzage.jpg",
-      "date": "2026-06-23T13:08:27+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Cancers et maladies cardiovasculaires restent en tête des décès en France",
       "desc": "Les tumeurs et les maladies cardiovasculaires sont restées en 2024 les premières causes de décès en France, en totalisant près de la moitié à elles seules, selon un bilan annuel publié mardi 23 juin par plusieurs organismes de recherche.",
       "url": "https://www.sciencesetavenir.fr/sante/cancers-et-maladies-cardiovasculaires-restent-en-tete-des-deces-en-france_193355?xtor=RSS-16",
@@ -490,16 +480,6 @@
       "date": "2026-06-23T12:48:49+00:00",
       "date_formatted": "23 June 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ces simples habitudes pourraient réduire de 21 % le risque de cumuler plusieurs maladies chroniques",
-      "desc": "Vieillir en bonne santé est devenu un enjeu majeur de santé publique, alors que de plus en plus de personnes vivent avec plusieurs maladies chroniques. De nouveaux travaux américains suggèrent que certaines habitudes adoptées dès la quarantaine ou la cinquantaine pourraient faire une réelle...",
-      "url": "https://www.futura-sciences.com/sante/actualites/diabete-ces-simples-habitudes-pourraient-reduire-21-risque-cumuler-plusieurs-maladies-chroniques-135545/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/7/5/975fd999e5_50256974_activite-physique-femme.jpg",
-      "date": "2026-06-23T11:07:12+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -523,6 +503,16 @@
       "type": "science"
     },
     {
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Chikungunya, dengue, Zika : plus de 210 cas importés dans l'Hexagone en un mois",
       "desc": "Plus de 210 cas importés de chikungunya, dengue et Zika, trois arboviroses transmises par des moustiques tigres, ont été recensés en France hexagonale depuis début mai et le démarrage de la surveillance renforcée de cette famille de maladies virales, selon un bilan publié le 17 juin 2026 par Santé p",
       "url": "https://www.sciencesetavenir.fr/sante/chikungunya-dengue-zika-plus-de-210-cas-importes-dans-l-hexagone-en-un-mois_193147?xtor=RSS-16",
@@ -530,6 +520,126 @@
       "date": "2026-06-18T09:21:34+00:00",
       "date_formatted": "18 June 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
