@@ -1,35 +1,45 @@
 {
-  "generated_at": "2026-07-02T02:01:34.452389+00:00",
-  "count": 50,
+  "generated_at": "2026-07-02T08:38:17.488377+00:00",
+  "count": 47,
   "articles": [
     {
-      "title": "Paris : retranchée dans un restaurant, une femme «en état de démence» meurt après des tirs de la police",
-      "desc": "Dans le XIIe arrondissement de la capitale ce mercredi 1er juillet, une femme armée d’un couteau aurait surgi et attaqué une policière qui a été «légèrement blessée».",
-      "url": "https://www.liberation.fr/societe/police-justice/paris-retranchee-dans-un-restaurant-une-femme-en-etat-de-demence-meurt-apres-des-tirs-de-la-police-20260701_OXXH5HZO65DODHDJSPCC6SZCBQ/",
+      "title": "EN DIRECT - Canicule : plus de 90 morts par noyades en lien avec les fortes chaleurs",
+      "desc": "Si l’épisode caniculaire a laissé la place à des températures plus douces avant de faire place à une nouvelle vague à la fin du week-end, ses conséquences indirectes continuent d’être ressenties.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-lecornu-attendu-ce-jeudi-a-marseille-incendies-en-cours-dans-le-sud-du-pays-20260702_WOD76NAV7JGCPKEKT5V3IJXVFY/",
       "image": null,
-      "date": "2026-07-01T19:29:03+00:00",
-      "date_formatted": "1 July 2026",
+      "date": "2026-07-02T08:07:43+00:00",
+      "date_formatted": "2 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Canicule : Sébastien Lecornu présidera une cellule interministérielle de crise jeudi depuis Marseille",
-      "desc": "Plusieurs incendies ont été signalés dans le quart sud-ouest du pays ce mercredi 1er juillet favorisés par les vents et la chaleur, alors qu’un nouvel épisode est attendu sur le pays à partir de ce week-end.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-encore-quatre-departements-dont-la-corse-en-vigilance-orange-ce-mercredi-20260701_4K7K37WY3VG75MKKL2UA3CGG4Q/",
+      "title": "Kyiv : au moins 13 morts dans «l’attaque la plus massive» depuis le début de la guerre, l’UE veut de nouvelles sanctions",
+      "desc": "Le président ukrainien Volodymyr Zelensky a de son côté demandé plus d’aides de ses alliés pour sa défense antiaérienne, et en particulier une licence des Etats-Unis pour produire les missiles Patriots.",
+      "url": "https://www.liberation.fr/international/europe/neuf-morts-a-kyiv-dans-des-frappes-russes-une-fois-de-plus-lennemi-vise-deliberement-des-civils-20260702_YCRZR46J35H2VF7FVW7TWIV3EU/",
       "image": null,
-      "date": "2026-07-01T19:07:49+00:00",
-      "date_formatted": "1 July 2026",
+      "date": "2026-07-02T07:50:45+00:00",
+      "date_formatted": "2 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Séismes au Venezuela : Caracas évoque désormais 2 295 morts et plus de 11 000 blessés",
-      "desc": "Le bilan du double tremblement de terre survenu le 24 juin ne cesse d’augmenter. Alors que les opérations de recherche se poursuivent, les Nations unies estiment toujours à environ 50 000 le nombre de disparus.",
-      "url": "https://www.liberation.fr/international/amerique/seisme-au-venezuela-caracas-evoque-desormais-1-719-morts-et-5-034-blesses-20260629_MQGG3UMZ7RFVXDVNHGGR4IP2CM/",
+      "title": "Coupe du monde 2026 : Cristiano Ronaldo, ô l’âge ô désespoir",
+      "desc": "Contre la Croatie ce jeudi soir, la légende portugaise, 41 ans au compteur, devrait une fois de plus être sur le terrain, alors qu’il a déjà disputé tous les matchs et montré sa décrépitude en mondovision.",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-cristiano-ronaldo-o-lage-o-desespoir-20260702_HPRK6MBF2RETDKH4NVBZN2UHMQ/",
       "image": null,
-      "date": "2026-07-01T18:39:48+00:00",
-      "date_formatted": "1 July 2026",
+      "date": "2026-07-02T05:25:00+00:00",
+      "date_formatted": "2 July 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’acteur prolifique Danny Glover révèle être atteint de la maladie d’Alzheimer",
+      "desc": "Partenaire de Mel Gibson dans « L’Arme fatale », Danny Glover a joué dans de nombreux films et séries aux Etats-Unis",
+      "url": "https://www.20minutes.fr/arts-stars/cinema/4232355-20260702-acteur-prolifique-danny-glover-revele-etre-atteint-maladie-alzheimer?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/FkmAAwJiTjK5LZmQIU3gmik/1200x768_credit-obligatoire-photo-de-stewart-cook-shutterstock-12867393bx-danny-glover-12e-ceremonie-des-governors-awards-hollywood-los-angeles-californie-etats-unis-25-mars-2022-shutterstock-editorial-governors-show-12867393bx-2203260543",
+      "date": "2026-07-02T03:56:07+00:00",
+      "date_formatted": "2 July 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -41,26 +51,6 @@
       "date_formatted": "1 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Séismes au Venezuela : les autorités déclarent sept jours de deuil national",
-      "desc": "Le double séisme survenu le 24 juin a fait près de 2 000 morts et environ 50 000 disparus.",
-      "url": "https://www.liberation.fr/international/amerique/seismes-au-venezuela-les-autorites-declarent-sept-jours-de-deuil-national-20260701_SWCGAC6BRVG5FIAD6ZUVPEE56I/",
-      "image": null,
-      "date": "2026-07-01T17:48:43+00:00",
-      "date_formatted": "1 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Dans «Ridiculous», Louis C.K. fait du neuf avec son vieux",
-      "desc": "Ni banni ni blanchi après les accusations d’exhibitionnisme de 2017, le comédien américain évite la complainte antiwoke dans un nouveau stand-up centré sur la mort et la vieillesse qui touche à quelque chose de cruellement vrai.",
-      "url": "https://www.liberation.fr/culture/scenes/dans-ridiculous-louis-ck-fait-du-neuf-avec-son-vieux-20260701_FEGYANDLQ5H7LJC2WTXUO3QCBY/",
-      "image": null,
-      "date": "2026-07-01T17:39:32+00:00",
-      "date_formatted": "1 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Enterrer les victimes d’Ebola, un rite à haut risque dans l’est de la République démocratique du Congo",
@@ -421,26 +411,6 @@
       "date_formatted": "26 June 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Bella Hadid, qui s’est montrée à bout face à la maladie de Lyme, s’en veut d’avoir inquiété ses fans",
-      "desc": "La mannequin est atteinte de ce mal, comme sa mère, depuis une dizaine d’années",
-      "url": "https://www.20minutes.fr/arts-stars/people/4231446-20260626-bella-hadid-montree-bout-face-maladie-lyme-veut-avoir-inquiete-fans?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Va7AGgRVQou5L7xfj9nVfCk/1200x768_bella-hadid-mannequin",
-      "date": "2026-06-26T16:02:36+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule : « Il y aura des conséquences »… La ministre de la Santé s’attend à de nouveaux décès ces prochains jours",
-      "desc": "Stéphanie Rist redoute une hausse des décès à domicile dans les prochains jours liés aux fortes chaleurs dans le pays",
-      "url": "https://www.20minutes.fr/sante/4231447-20260626-canicule-consequences-ministre-sante-attend-nouveaux-deces-prochains-jours?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/xzAJxIw0R_uhRmz_6XJNiCk/1200x768_tot-le-matin-une-personne-agee-profitant-de-l-air-frais-se-repose-sur-l-herbe-du-square-saint-lambert-dans-le-15e-arrondissement-de-paris-tot-le-matin-une-personne-agee-profitant-de-la-fraicheur-matinale-se-repose-sur-l-herbe-du-square-saint-lambert-dans-le-15e-arrondissement-de-paris-france-26-06-2026-francol-xavier-xfrancol-canicule002-credit-xavier-francolon-sipa-2606260950",
-      "date": "2026-06-26T15:00:05+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Un spray nasal pour améliorer la mémoire ?",
