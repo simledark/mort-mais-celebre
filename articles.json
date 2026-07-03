@@ -1,24 +1,54 @@
 {
-  "generated_at": "2026-07-03T01:45:19.119803+00:00",
-  "count": 65,
+  "generated_at": "2026-07-03T08:44:32.714308+00:00",
+  "count": 70,
   "articles": [
     {
-      "title": "L’épisode d’hantavirus déclaré sur un bateau de croisière officiellement terminé selon l’OMS",
-      "desc": "Le directeur général de l’organisation a annoncé, ce jeudi 2 juillet, que la dernière personne exposée au virus avait achevé sa période de quarantaine à l’issue de laquelle elle avait été testée négative.",
-      "url": "https://www.liberation.fr/societe/sante/lepisode-dhantavirus-declare-sur-un-bateau-de-croisiere-officiellement-termine-selon-loms-20260702_4PRSXQVYDBBCHKNRY63JISPKGY/",
-      "image": null,
-      "date": "2026-07-02T20:28:02+00:00",
-      "date_formatted": "2 July 2026",
-      "source": "Libération",
+      "title": "La vente de cigarette bientôt interdite aux personnes nées après 2009 ?",
+      "desc": "L'interdiction de vente de tabac pourrait bientôt concerner toute une génération en France. L'Assurance maladie préconise de bannir légalement l'achat de cigarettes pour tous les citoyens nés après 2009, une mesure radicale visant à créer la première \"génération sans tabac\" d'ici quelques années.",
+      "url": "https://www.franceinfo.fr/sante/maladie/la-vente-de-cigarette-bientot-interdite-aux-personnes-nees-apres-2009_8091920.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/EsAWWRAO3MMCgA3c4a4dBMFLxS8/34x0:1375x754/432x243/filters:format(jpg)/2026/07/03/6a4772ab30cef896717210.jpg",
+      "date": "2026-07-03T10:28:42+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
-      "title": "«Un suicide environnemental et économique» : en Gironde, le projet de méga-usine de saumons se précise malgré les mobilisations",
-      "desc": "Près de 300 opposants au projet se sont rassemblés ce jeudi devant la préfecture, alors que le Conseil départemental de l’environnement et des risques sanitaires et technologiques a rendu un avis favorable. La préfète doit désormais indiquer si elle délivre, ou non, l’autorisation environnementale",
-      "url": "https://www.liberation.fr/environnement/un-suicide-environnemental-et-economique-en-gironde-le-projet-de-mega-usine-de-saumons-se-precise-malgre-les-mobilisations-20260702_GWDE5PZBLRADLM6N75O6JNUIGE/",
+      "title": "Justice : l’Assemblée nationale approuve la consultation de bases génétiques privées pour résoudre certaines enquêtes criminelles",
+      "desc": "La gauche s’est vivement opposée à cette mesure. Ces dispositions portent « une atteinte disproportionnée au respect de la vie privée », a dénoncé la députée communiste Elsa Faucillon.",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/03/justice-l-assemblee-nationale-approuve-la-consultation-de-bases-genetiques-privees-pour-resoudre-certaines-enquetes-criminelles_6718482_823448.html",
+      "image": "https://img.lemde.fr/2026/07/03/149/0/4127/2063/644/322/60/0/aa268ea_upload-1-shnendkm3eca-000-9r98ze.jpg",
+      "date": "2026-07-03T10:23:28+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Canicule de juin : les décès ont augmenté de presque 30 %, selon Santé publique France",
+      "desc": "La tendance est particulièrement frappante en Ile-de-France, avec une hausse de plus de 62 % des décès sur la semaine dernière. Une progression semblable a été signalée dans les Pays de la Loire.",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/03/canicule-de-juin-les-deces-ont-augmente-de-presque-30-selon-sante-publique-france_6718477_3224.html",
+      "image": "https://img.lemde.fr/2026/06/26/1089/0/5000/2500/644/322/60/0/8bca85c_upload-1-6bu8uv2aeqt2-kzihnioglu-soc-metz-hopital-26062026-086.JPG",
+      "date": "2026-07-03T10:00:01+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "PODCAST. Génération sans tabac, fake news autour du Doliprane et la \"Seixas mania\" sur le Tour de France : ça dit quoi ce 3 juillet ?",
+      "desc": "Ce vendredi 3 juillet, L'Assurance-maladie préconise l'interdiction de la vente de cigarettes aux jeunes nés après 2009, on décrypte la rumeur sur le Doliprane qui \"féminiserait\" les bébés et Paul Seixas, 19 ans, relance les espoirs d'une victoire française sur le Tour de France.",
+      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-generation-sans-tabac-fake-news-autour-du-doliprane-et-la-seixas-mania-sur-le-tour-de-france-ca-dit-quoi-ce-3-juillet_8081852.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/tU5wZ1aS84q7RTTy4jqNLx3yif4/0x0:2100x1181/432x243/filters:format(jpg)/2026/04/22/69e89e63dd242050162901.jpg",
+      "date": "2026-07-03T08:50:39+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule de juin : les décès ont augmenté de presque 30 %, selon Santé publique France",
+      "desc": "D’après l’agence, cette hausse correspond à 2 025 morts supplémentaires. Un chiffre qui reste toutefois probablement sous-estimé, puisqu’il ne se base que sur les certificats électroniques de décès.",
+      "url": "https://www.liberation.fr/societe/sante/canicule-surmortalite-dau-moins-2-025-deces-la-semaine-du-22-juin-annonce-la-ministre-de-la-sante-20260703_7ZBY4ENKZBD6FN6PFNAIKWG4HM/",
       "image": null,
-      "date": "2026-07-02T20:27:35+00:00",
-      "date_formatted": "2 July 2026",
+      "date": "2026-07-03T07:45:22+00:00",
+      "date_formatted": "3 July 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -27,40 +57,80 @@
       "desc": "La sécurité sociale formule 40 propositions à l'adresse du gouvernement qui permettraient de réaliser 4 milliards d'euros d'économies en 2027.",
       "url": "https://www.franceinfo.fr/sante/generation-sans-tabac-nutri-score-casque-obligatoire-a-velo-les-pistes-de-l-assurance-maladie-pour-resorber-son-deficit_8090681.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/wGwa-Lr6dwa2Kd6BNmyx3V1OAH8/0x155:4928x2927/432x243/filters:format(jpg)/2026/07/02/6a469b6ae56e3842595159.jpg",
-      "date": "2026-07-02T19:41:06+00:00",
-      "date_formatted": "2 July 2026",
+      "date": "2026-07-03T07:02:24+00:00",
+      "date_formatted": "3 July 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
     {
-      "title": "Kyiv : au moins 25 morts dans «l’attaque la plus massive» depuis le début de la guerre, Zelensky assure que l’Ukraine ripostera",
+      "title": "Kyiv : au moins 30 morts dans «l’attaque la plus massive» depuis le début de la guerre, Zelensky assure que l’Ukraine ripostera",
       "desc": "L’Union européenne a de son côté annoncé sa volonté de proposer de nouvelles sanctions contre Moscou, à l’encontre des «entités soutenant le complexe militaro-industriel russe».",
       "url": "https://www.liberation.fr/international/europe/neuf-morts-a-kyiv-dans-des-frappes-russes-une-fois-de-plus-lennemi-vise-deliberement-des-civils-20260702_YCRZR46J35H2VF7FVW7TWIV3EU/",
       "image": null,
-      "date": "2026-07-02T18:57:42+00:00",
-      "date_formatted": "2 July 2026",
+      "date": "2026-07-03T07:01:07+00:00",
+      "date_formatted": "3 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Epinglée sur ses prises de position droitières, Karine Le Marchand étale sa colère sur ses réseaux sociaux",
-      "desc": "L’animatrice qui a récemment fait polémique en se positionnant en faveur de la peine de mort, a publié une vidéo, ce jeudi 2 juillet, dans laquelle elle s’en prend vertement au «Parisien», auteur d’un article sur sa dérive.",
-      "url": "https://www.liberation.fr/economie/medias/epinglee-sur-ses-prises-de-position-droitieres-karine-le-marchand-etale-sa-colere-sur-ses-reseaux-sociaux-20260702_TYVLC55S2NHJ3C34RTKDUNUERU/",
+      "title": "Cigarettes, Nutri-Score, vaccins… Les propositions choc de l’Assurance maladie pour réduire ses dépenses",
+      "desc": "Pour freiner la croissance des dépenses de santé, la Cnam veut miser sur la prévention en interdisant, par exemple, la vente de cigarettes aux personnes nées après 2009",
+      "url": "https://www.20minutes.fr/societe/4232589-20260703-cigarettes-nutri-score-vaccins-propositions-choc-assurance-maladie-reduire-depenses?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Zz2qvcfwRHKERnW64IO-VSk/1200x768_twenty-euro-banknote-and-health-insurance-card-in-veranne-france-on-november-16-2025-billet-de-banque-de-vingt-euros-et-carte-vitale-a-veranne-en-france-le-16-novembre-2025-doucelinromain-douce2446-credit-romain-doucelin-sipa-2511171033",
+      "date": "2026-07-03T06:52:06+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Venezuela : après le séisme, un nouveau bilan s’élève à 2 595 morts tandis que continuent les recherches de survivants",
+      "desc": "Quelque 12 400 blessés ont été comptés dans ce dernier bilan annoncé par la présidente Delcy Rodriguez. Les Nations unies estiment que le séisme qui a frappé le pays le 24 juin dernier pourrait avoir causé la disparition de 50 000 personnes.",
+      "url": "https://www.liberation.fr/international/amerique/venezuela-apres-le-seisme-un-nouveau-bilan-seleve-a-2-595-morts-tandis-que-continuent-les-recherches-de-survivants-20260703_FDUX2ETWRVFE3CEDSQIZI5WJIA/",
       "image": null,
-      "date": "2026-07-02T18:32:38+00:00",
-      "date_formatted": "2 July 2026",
+      "date": "2026-07-03T06:51:55+00:00",
+      "date_formatted": "3 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Dans «la Casita» de Bad Bunny, on veut des grosses !",
-      "desc": "Aux côtés des VIP invités à partager la scène avec le chanteur portoricain, les femmes choisies dans le public par son staff partagent à longueur de concerts un même physique et un même jeune âge, loin des valeurs d’inclusion portées par l’artiste, souligne la journaliste Mathilde Carton.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/dans-la-casita-de-bad-bunny-on-veut-des-grosses-20260702_KNDXGSOE4VESNNWF3AVI5DLMEI/",
+      "title": "La mystérieuse chorégraphie des cellules à l’origine de la déformation des tissus",
+      "desc": "Des chercheurs ont élaboré un système permettant d’expliquer l’étirement des tissus cellulaires, un mécanisme basé sur l’intercalation de cellules.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/03/la-mysterieuse-choregraphie-des-cellules-a-l-origine-de-la-deformation-des-tissus_6718458_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/27/255/0/3072/1536/644/322/60/0/0181156_upload-1-st1rkxalzzu6-media-appel-cellule.png",
+      "date": "2026-07-03T06:30:10+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Canicule : Au moins 2.000 décès supplémentaires liés à la chaleur en juin en France",
+      "desc": "Ce bilan, donné par la ministre de la Santé, est encore incomplet",
+      "url": "https://www.20minutes.fr/societe/4232588-20260703-canicule-moins-2-000-deces-supplementaires-lies-chaleur-juin-france?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Bbb3m54ZSMaCLxFfM7Y9qCk/1200x768_services-des-urgences-adultes-de-l-hopital-paris-saclay-pendant-la-canicule-paris-france-25-06-2026-meigneux-meigneux-b007-credit-romuald-meigneux-sipa-2606251722",
+      "date": "2026-07-03T06:09:25+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Adoption du projet de loi d’urgence agricole, le sud de la France en proie aux incendies, 2 595 morts au Venezuela… L’actu de ce vendredi 3 juillet au matin",
+      "desc": "La rédaction de «Libération» compile les principales infos du jour",
+      "url": "https://www.liberation.fr/international/europe/adoption-du-projet-de-loi-durgence-agricole-le-sud-de-la-france-en-proie-aux-incendies-2-595-morts-au-venezuela-lactu-de-ce-vendredi-3-juillet-au-matin-20260703_25CA4XM3H5BVJIPMT2MROF4XFI/",
       "image": null,
-      "date": "2026-07-02T18:05:28+00:00",
-      "date_formatted": "2 July 2026",
+      "date": "2026-07-03T05:45:27+00:00",
+      "date_formatted": "3 July 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Jusqu'à un adulte sur trois est touché par la MASLD",
+      "desc": "En parcourant 350 kilomètres à pied, le doctorant Sonny Yde veut attirer l'attention sur la MASLD, une maladie du foie qui progresse avec l'augmentation des troubles métaboliques et de l'obésité. Cette initiative est née de la volonté de rappeler qu'une activité physique régulière reste l'un des mei",
+      "url": "https://www.sciencesetavenir.fr/sante/jusqu-a-un-adulte-sur-trois-est-touche-par-la-masld-un-ensemble-de-maladies-du-foie_193539?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/02/cover-r4x3w1200-6a463b961afdc-moerschy-shopping-565360-1920.jpg",
+      "date": "2026-07-03T05:40:24+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Le chef de l'Organisation mondiale de la santé déclare la fin de \"la flambée d'hantavirus\" liée au navire de croisière \"MV Hondius\"",
@@ -263,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "L'Organisation mondiale de la santé craint des flambées épidémiques au Venezuela après le double séisme qui a frappé le pays",
-      "desc": "Les perturbations des services de santé, des réseaux d'eau et d'assainissement, combinées aux déplacements de population, risquent de favoriser le développement de maladies.",
-      "url": "https://www.franceinfo.fr/monde/venezuela/l-oms-craint-des-flambees-epidemiques-au-venezuela-apres-le-double-seisme-qui-a-frappe-le-pays_8086748.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jDUATy167fEo8YrsGyDrtJAybAU/0x135:2996x1821/432x243/filters:format(jpg)/2026/06/30/6a43b2d45df2f781569017.jpg",
-      "date": "2026-06-30T14:56:55+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Canicule : Au moins 300 morts de plus que la normale en mai",
       "desc": "Selon Santé publique France, lors du premier épisode de canicule de 2026 survenu en mai, « au moins 300 décès » de plus que la normale ont été recensés en cinq jours dans l’Hexagone",
       "url": "https://www.20minutes.fr/societe/4232026-20260630-canicule-moins-300-morts-plus-normale-mai?at_medium=display&at_campaign=149",
@@ -451,16 +511,6 @@
       "date_formatted": "27 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Une étude révèle qu'il n'est jamais vraiment trop tard pour arrêter de fumer pour préserver son cerveau",
-      "desc": "Et s'il n'était jamais trop tard pour protéger son cerveau ? Une vaste étude révèle que les anciens fumeurs voient leur risque de démence reculer, jusqu'à rejoindre celui des personnes n'ayant jamais touché à une cigarette. Une bonne nouvelle pour tous ceux qui pensaient avoir manqué le coche.",
-      "url": "https://www.futura-sciences.com/sante/actualites/tabac-etude-revele-quil-nest-jamais-vraiment-trop-tard-arreter-fumer-preserver-son-cerveau-k2m6-135645/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/7/a/b7a94705b9_50257154_arret-tabac.jpg",
-      "date": "2026-06-26T18:00:00+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Un spray nasal pour améliorer la mémoire ?",
