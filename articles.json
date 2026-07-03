@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-02T19:05:33.137900+00:00",
-  "count": 63,
+  "generated_at": "2026-07-03T01:45:19.119803+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "L’épisode d’hantavirus déclaré sur un bateau de croisière officiellement terminé selon l’OMS",
+      "desc": "Le directeur général de l’organisation a annoncé, ce jeudi 2 juillet, que la dernière personne exposée au virus avait achevé sa période de quarantaine à l’issue de laquelle elle avait été testée négative.",
+      "url": "https://www.liberation.fr/societe/sante/lepisode-dhantavirus-declare-sur-un-bateau-de-croisiere-officiellement-termine-selon-loms-20260702_4PRSXQVYDBBCHKNRY63JISPKGY/",
+      "image": null,
+      "date": "2026-07-02T20:28:02+00:00",
+      "date_formatted": "2 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Un suicide environnemental et économique» : en Gironde, le projet de méga-usine de saumons se précise malgré les mobilisations",
+      "desc": "Près de 300 opposants au projet se sont rassemblés ce jeudi devant la préfecture, alors que le Conseil départemental de l’environnement et des risques sanitaires et technologiques a rendu un avis favorable. La préfète doit désormais indiquer si elle délivre, ou non, l’autorisation environnementale",
+      "url": "https://www.liberation.fr/environnement/un-suicide-environnemental-et-economique-en-gironde-le-projet-de-mega-usine-de-saumons-se-precise-malgre-les-mobilisations-20260702_GWDE5PZBLRADLM6N75O6JNUIGE/",
+      "image": null,
+      "date": "2026-07-02T20:27:35+00:00",
+      "date_formatted": "2 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Génération sans tabac, Nutri-Score, casque obligatoire à vélo... Les pistes de l'Assurance-maladie pour résorber son déficit",
       "desc": "La sécurité sociale formule 40 propositions à l'adresse du gouvernement qui permettraient de réaliser 4 milliards d'euros d'économies en 2027.",
