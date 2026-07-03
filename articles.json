@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-03T08:44:32.714308+00:00",
+  "generated_at": "2026-07-03T13:29:29.777951+00:00",
   "count": 70,
   "articles": [
+    {
+      "title": "Nombre de morts, tranches d'âge, régions concernées... Ce qu'il faut retenir du premier bilan de la canicule du mois de juin",
+      "desc": "Le mois de juin a été marqué par une canicule particulièrement intense, qui a causé une surmortalité entre le lundi 22 et le dimanche 28 juin.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/nombre-de-morts-tranches-d-age-regions-concernees-ce-qu-il-faut-retenir-du-premier-bilan-de-la-canicule-du-mois-de-juin_8091962.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/4-Qi-PHt5GfLIBJp4w1JYi0Sve8/0x53:1024x629/432x243/filters:format(jpg)/2026/07/03/6a4777b9d1c04965327376.jpg",
+      "date": "2026-07-03T14:08:48+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Regarde-le» d’Anna Starobinets : lamento pour un bébé mort-né",
+      "desc": "L’écrivaine de science-fiction fait le récit dramatique d’une épreuve intime. Une confrontation au système de santé russe dont elle fait une description effarante.",
+      "url": "https://www.liberation.fr/culture/livres/regarde-le-danna-starobinets-lamento-pour-un-bebe-mort-ne-20260703_HSVW57UOVNGDREPKL25UTL7WXQ/",
+      "image": null,
+      "date": "2026-07-03T12:24:00+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Parkinson : ce pesticide longtemps utilisé est associé à un risque multiplié par 2,5 !",
+      "desc": "Déjà connu pour ses effets neurotoxiques, notamment sur le développement cérébral des enfants, le chlorpyrifos pourrait également favoriser l'apparition de la maladie de Parkinson à l'âge adulte. Une nouvelle étude menée par UCLA Health apporte de nouveaux éléments en faveur de ce lien.",
+      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-ce-pesticide-longtemps-utilise-associe-risque-multiplie-25-135876/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/6/2/a620a43342_50257579_pesticides-parkinson.jpg",
+      "date": "2026-07-03T12:15:59+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Le cerveau peut s’améliorer à n’importe quel âge",
+      "desc": "Une étude de l'Université du Texas montre qu'avec de courts entraînements, les capacités cognitives progressent à tout âge.",
+      "url": "https://www.sciencesetavenir.fr/sante/le-cerveau-peut-s-ameliorer-a-n-importe-quel-age_193550?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/02/cover-r4x3w1200-6a46d00035e33-afp-20171214-bsip-015552-023-v1-highres-memorycentre.jpg",
+      "date": "2026-07-03T10:35:54+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "La vente de cigarette bientôt interdite aux personnes nées après 2009 ?",
       "desc": "L'interdiction de vente de tabac pourrait bientôt concerner toute une génération en France. L'Assurance maladie préconise de bannir légalement l'achat de cigarettes pour tous les citoyens nés après 2009, une mesure radicale visant à créer la première \"génération sans tabac\" d'ici quelques années.",
@@ -17,13 +57,13 @@
       "desc": "La gauche s’est vivement opposée à cette mesure. Ces dispositions portent « une atteinte disproportionnée au respect de la vie privée », a dénoncé la députée communiste Elsa Faucillon.",
       "url": "https://www.lemonde.fr/politique/article/2026/07/03/justice-l-assemblee-nationale-approuve-la-consultation-de-bases-genetiques-privees-pour-resoudre-certaines-enquetes-criminelles_6718482_823448.html",
       "image": "https://img.lemde.fr/2026/07/03/149/0/4127/2063/644/322/60/0/aa268ea_upload-1-shnendkm3eca-000-9r98ze.jpg",
-      "date": "2026-07-03T10:23:28+00:00",
+      "date": "2026-07-03T10:23:24+00:00",
       "date_formatted": "3 July 2026",
       "source": "Le Monde Science",
       "type": "science"
     },
     {
-      "title": "Canicule de juin : les décès ont augmenté de presque 30 %, selon Santé publique France",
+      "title": "Canicule de juin 2026 : les décès ont augmenté de presque 30 %, selon Santé publique France",
       "desc": "La tendance est particulièrement frappante en Ile-de-France, avec une hausse de plus de 62 % des décès sur la semaine dernière. Une progression semblable a été signalée dans les Pays de la Loire.",
       "url": "https://www.lemonde.fr/societe/article/2026/07/03/canicule-de-juin-les-deces-ont-augmente-de-presque-30-selon-sante-publique-france_6718477_3224.html",
       "image": "https://img.lemde.fr/2026/06/26/1089/0/5000/2500/644/322/60/0/8bca85c_upload-1-6bu8uv2aeqt2-kzihnioglu-soc-metz-hopital-26062026-086.JPG",
@@ -33,6 +73,26 @@
       "type": "presse"
     },
     {
+      "title": "France : pic de mortalité lors de la canicule",
+      "desc": "Pendant la semaine du 22 juin, marquée par une canicule exceptionnelle, les décès ont augmenté de près de 30% en France et de 62% en Île-de-France, selon Santé publique France.",
+      "url": "https://www.sciencesetavenir.fr/sante/france-les-deces-ont-augmente-de-presque-30-la-semaine-de-la-canicule_193568?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/03/cover-r4x3w1200-6a4784ce64413-mortalite-canicule.jpg",
+      "date": "2026-07-03T09:45:50+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Rouge, l'album qui met en musique l’humanité à chaque étape du parcours de soins dans les cancers du sang",
+      "desc": "Un hématologue de Tours et un pharmacien-producteur ont imaginé un album de 11 chansons pour sensibiliser aux hémopathies malignes. Une démarche originale à la croisée de la médiation en santé et de la création artistique.",
+      "url": "https://www.futura-sciences.com/sante/actualites/medecine-rouge-album-met-musique-humanite-chaque-etape-parcours-soins-cancers-sang-135215/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/1/1/b11b9bfcea_50257031_rouge-album-cancers-sang.jpg",
+      "date": "2026-07-03T08:58:00+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
       "title": "PODCAST. Génération sans tabac, fake news autour du Doliprane et la \"Seixas mania\" sur le Tour de France : ça dit quoi ce 3 juillet ?",
       "desc": "Ce vendredi 3 juillet, L'Assurance-maladie préconise l'interdiction de la vente de cigarettes aux jeunes nés après 2009, on décrypte la rumeur sur le Doliprane qui \"féminiserait\" les bébés et Paul Seixas, 19 ans, relance les espoirs d'une victoire française sur le Tour de France.",
       "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-generation-sans-tabac-fake-news-autour-du-doliprane-et-la-seixas-mania-sur-le-tour-de-france-ca-dit-quoi-ce-3-juillet_8081852.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -40,16 +100,6 @@
       "date": "2026-07-03T08:50:39+00:00",
       "date_formatted": "3 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule de juin : les décès ont augmenté de presque 30 %, selon Santé publique France",
-      "desc": "D’après l’agence, cette hausse correspond à 2 025 morts supplémentaires. Un chiffre qui reste toutefois probablement sous-estimé, puisqu’il ne se base que sur les certificats électroniques de décès.",
-      "url": "https://www.liberation.fr/societe/sante/canicule-surmortalite-dau-moins-2-025-deces-la-semaine-du-22-juin-annonce-la-ministre-de-la-sante-20260703_7ZBY4ENKZBD6FN6PFNAIKWG4HM/",
-      "image": null,
-      "date": "2026-07-03T07:45:22+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -63,17 +113,7 @@
       "type": "presse"
     },
     {
-      "title": "Kyiv : au moins 30 morts dans «l’attaque la plus massive» depuis le début de la guerre, Zelensky assure que l’Ukraine ripostera",
-      "desc": "L’Union européenne a de son côté annoncé sa volonté de proposer de nouvelles sanctions contre Moscou, à l’encontre des «entités soutenant le complexe militaro-industriel russe».",
-      "url": "https://www.liberation.fr/international/europe/neuf-morts-a-kyiv-dans-des-frappes-russes-une-fois-de-plus-lennemi-vise-deliberement-des-civils-20260702_YCRZR46J35H2VF7FVW7TWIV3EU/",
-      "image": null,
-      "date": "2026-07-03T07:01:07+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cigarettes, Nutri-Score, vaccins… Les propositions choc de l’Assurance maladie pour réduire ses dépenses",
+      "title": "Cigarettes, Nutri-Score, vaccins… Les propositions chocs de l’Assurance maladie pour réduire ses dépenses",
       "desc": "Pour freiner la croissance des dépenses de santé, la Cnam veut miser sur la prévention en interdisant, par exemple, la vente de cigarettes aux personnes nées après 2009",
       "url": "https://www.20minutes.fr/societe/4232589-20260703-cigarettes-nutri-score-vaccins-propositions-choc-assurance-maladie-reduire-depenses?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/Zz2qvcfwRHKERnW64IO-VSk/1200x768_twenty-euro-banknote-and-health-insurance-card-in-veranne-france-on-november-16-2025-billet-de-banque-de-vingt-euros-et-carte-vitale-a-veranne-en-france-le-16-novembre-2025-doucelinromain-douce2446-credit-romain-doucelin-sipa-2511171033",
@@ -83,21 +123,11 @@
       "type": "presse"
     },
     {
-      "title": "Venezuela : après le séisme, un nouveau bilan s’élève à 2 595 morts tandis que continuent les recherches de survivants",
-      "desc": "Quelque 12 400 blessés ont été comptés dans ce dernier bilan annoncé par la présidente Delcy Rodriguez. Les Nations unies estiment que le séisme qui a frappé le pays le 24 juin dernier pourrait avoir causé la disparition de 50 000 personnes.",
-      "url": "https://www.liberation.fr/international/amerique/venezuela-apres-le-seisme-un-nouveau-bilan-seleve-a-2-595-morts-tandis-que-continuent-les-recherches-de-survivants-20260703_FDUX2ETWRVFE3CEDSQIZI5WJIA/",
-      "image": null,
-      "date": "2026-07-03T06:51:55+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "La mystérieuse chorégraphie des cellules à l’origine de la déformation des tissus",
       "desc": "Des chercheurs ont élaboré un système permettant d’expliquer l’étirement des tissus cellulaires, un mécanisme basé sur l’intercalation de cellules.",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/03/la-mysterieuse-choregraphie-des-cellules-a-l-origine-de-la-deformation-des-tissus_6718458_1650684.html",
       "image": "https://img.lemde.fr/2026/06/27/255/0/3072/1536/644/322/60/0/0181156_upload-1-st1rkxalzzu6-media-appel-cellule.png",
-      "date": "2026-07-03T06:30:10+00:00",
+      "date": "2026-07-03T06:30:08+00:00",
       "date_formatted": "3 July 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -110,16 +140,6 @@
       "date": "2026-07-03T06:09:25+00:00",
       "date_formatted": "3 July 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Adoption du projet de loi d’urgence agricole, le sud de la France en proie aux incendies, 2 595 morts au Venezuela… L’actu de ce vendredi 3 juillet au matin",
-      "desc": "La rédaction de «Libération» compile les principales infos du jour",
-      "url": "https://www.liberation.fr/international/europe/adoption-du-projet-de-loi-durgence-agricole-le-sud-de-la-france-en-proie-aux-incendies-2-595-morts-au-venezuela-lactu-de-ce-vendredi-3-juillet-au-matin-20260703_25CA4XM3H5BVJIPMT2MROF4XFI/",
-      "image": null,
-      "date": "2026-07-03T05:45:27+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -443,16 +463,6 @@
       "type": "science"
     },
     {
-      "title": "Quand l’ADN relie trois crimes violents : l’enquête qui a confondu le meurtrier après plus d’une décennie",
-      "desc": "Des analyses ADN sophistiquées réalisées sur d’anciens scellés ont révélé des liens inattendus entre trois affaires criminelles à Amsterdam. Une illustration des prouesses actuelles de la génétique médico-légale.",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/06/29/quand-l-adn-relie-trois-crimes-violents-l-enquete-qui-a-confondu-le-meurtrier-apres-plus-d-une-decennie_6716890_6579630.html",
-      "image": "https://img.lemde.fr/2026/05/03/160/0/1920/960/644/322/60/0/6512a94_upload-1-tiritpfi5vzi-sce-ne-de-crime-police-adn-meutre-me-decine-le-gale.jpg",
-      "date": "2026-06-29T10:20:48+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Canicule : de nombreux décès en France mais moins qu'en 2003",
       "desc": "Un premier bilan, encore très partiel, donne une idée des lourdes conséquences d'une canicule en train de s'achever dans le pays après une dizaine de jours de températures extrêmes.",
       "url": "https://www.sciencesetavenir.fr/sante/canicule-les-craintes-se-confirment-sur-de-nombreux-deces-en-france-mais-moins-qu-en-2003_193466?xtor=RSS-16",
@@ -570,16 +580,6 @@
       "date": "2026-06-23T04:00:07+00:00",
       "date_formatted": "23 June 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Chikungunya, dengue, Zika : plus de 210 cas importés dans l'Hexagone en un mois",
-      "desc": "Plus de 210 cas importés de chikungunya, dengue et Zika, trois arboviroses transmises par des moustiques tigres, ont été recensés en France hexagonale depuis début mai et le démarrage de la surveillance renforcée de cette famille de maladies virales, selon un bilan publié le 17 juin 2026 par Santé p",
-      "url": "https://www.sciencesetavenir.fr/sante/chikungunya-dengue-zika-plus-de-210-cas-importes-dans-l-hexagone-en-un-mois_193147?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/17/cover-r4x3w1200-6a32a68587685-ef14ede595c53ef287836a39be5619942898cf6f-jpg.jpg",
-      "date": "2026-06-18T09:21:34+00:00",
-      "date_formatted": "18 June 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
