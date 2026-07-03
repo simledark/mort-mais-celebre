@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-07-03T13:29:29.777951+00:00",
-  "count": 70,
+  "generated_at": "2026-07-03T18:58:08.997794+00:00",
+  "count": 73,
   "articles": [
+    {
+      "title": "Le chiffre du jour : Au moins 2.000 morts liés à la canicule de juin en France",
+      "desc": "Le chiffre du jour : Au moins 2.000 morts liés à la canicule de juin en France",
+      "url": "https://www.20minutes.fr/tv/videos/4232746-20260703-chiffre-jour-moins-2-000-morts-lies-canicule-juin-france?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Sc2wfsrSSUGkZcUtUicJvCk/1200x768_lors-semaine-22-juin-2-000-deces-supplementaires-hausse-30-rapport-semaine-precedente-selon-agence-sante-publique-france-ministre-sante-stephanie-rist",
+      "date": "2026-07-03T18:15:13+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort à Paris d’un homme de 78 ans en garde à vue : «aucune lésion de prise, de maintien ni de défense», révèle l’autopsie",
+      "desc": "Soupçonné de violences conjugales, l’homme est mort mercredi matin au commissariat du XXe arrondissement où il était interrogé depuis mardi. L’IGPN a été saisie d’une enquête par le parquet de la capitale en recherche des causes de la mort.",
+      "url": "https://www.liberation.fr/societe/police-justice/a-paris-un-homme-de-78-ans-meurt-en-garde-a-vue-au-commissariat-du-xxe-arrondissement-20260702_G54HGHHJNVAZ5IAM4NT225UJGY/",
+      "image": null,
+      "date": "2026-07-03T17:47:59+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Notre intestin garde la trace invisible de l’agriculture moderne : ce que cela change pour votre santé",
+      "desc": "Les sols agricoles, appauvris par des décennies d’intensification, perdent leur capacité à nourrir les plantes. Résultat : des aliments moins nutritifs et des microbiotes intestinaux déséquilibrés, favorisant les maladies chroniques. L’approche « One Health », qui révèle les liens étroits entre...",
+      "url": "https://www.futura-sciences.com/sante/actualites/microbiotes-notre-intestin-garde-trace-invisible-agriculture-moderne-ce-cela-change-votre-sante-135818/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/e/d/6edc9b19b3_50257601_microbiote-lien-agriculture.jpg",
+      "date": "2026-07-03T17:07:43+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Surmortalité avec la canicule, incendies dans le Sud, filiation par GPA… L’actu de ce vendredi 3 juillet",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du vendredi 3 juillet.",
+      "url": "https://www.liberation.fr/international/europe/surmortalite-avec-la-canicule-incendies-dans-le-sud-filiation-par-gpa-lactu-de-ce-vendredi-3-juillet-20260703_TJFZBEVD25DKRBRO5YXRPCHBK4/",
+      "image": null,
+      "date": "2026-07-03T16:47:36+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Génération sans cigarette une mesure choc pour les jeunes nés après 2009",
+      "desc": "L’Assurance maladie propose d’interdire la vente de tabac à vie aux personnes nées après 2009 dans l’objectif de créer une génération sans cigarette. Une mesure qui divise les Français et inquiète les buralistes tandis que les cardiologues y voient un levier majeur de prévention.",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/lutte-contre-le-tabagisme/generation-sans-cigarette-une-mesure-choc-pour-les-jeunes-nes-apres-2009_8092508.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Nkm9nslDm_lWAdd8xdS-WVXmKPE/0x17:853x497/432x243/filters:format(jpg)/2026/07/03/6a47c22dea363470638966.jpg",
+      "date": "2026-07-03T16:07:44+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Elle fait le relais entre nous et ma mère\" : des postiers aident les personnes âgées isolées à faire face à la canicule",
+      "desc": "La ministre de la Santé a révélé ce vendredi matin les derniers chiffres des décès liés à la canicule. Il y aurait eu au moins 2025 morts supplémentaires enregistrées pendant la semaine de très fortes chaleurs. Pour prévenir les risques encourus par les personnes fragiles, le gouvernement a demandé ",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/elle-fait-le-relais-entre-nous-et-ma-mere-des-postiers-aident-les-personnes-agees-isolees-a-faire-face-a-la-canicule_8092496.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Gyh6Z25ZuW74rXHfLmzGF09q3hw/0x25:1505x872/432x243/filters:format(jpg)/2026/07/03/6a47c15190a7d668243184.jpg",
+      "date": "2026-07-03T16:05:21+00:00",
+      "date_formatted": "3 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Nombre de morts, tranches d'âge, régions concernées... Ce qu'il faut retenir du premier bilan de la canicule du mois de juin",
       "desc": "Le mois de juin a été marqué par une canicule particulièrement intense, qui a causé une surmortalité entre le lundi 22 et le dimanche 28 juin.",
@@ -10,16 +70,6 @@
       "date": "2026-07-03T14:08:48+00:00",
       "date_formatted": "3 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Regarde-le» d’Anna Starobinets : lamento pour un bébé mort-né",
-      "desc": "L’écrivaine de science-fiction fait le récit dramatique d’une épreuve intime. Une confrontation au système de santé russe dont elle fait une description effarante.",
-      "url": "https://www.liberation.fr/culture/livres/regarde-le-danna-starobinets-lamento-pour-un-bebe-mort-ne-20260703_HSVW57UOVNGDREPKL25UTL7WXQ/",
-      "image": null,
-      "date": "2026-07-03T12:24:00+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -184,10 +234,10 @@
     },
     {
       "title": "« Nous pouvons mettre un terme aux maladies raciales d’origine génétique des chiens et des chats »",
-      "desc": "Dans une tribune au « Monde », plus de 135 vétérinaires appellent à interdire la sélection génétique des animaux de compagnie. Ils s’indignent des souffrances causées par cette pratique dont l’objectif est de répondre à des effets de mode.",
+      "desc": "Dans une tribune au « Monde », plus de 135 vétérinaires appellent à interdire la sélection génétique altérant le bien-être des animaux de compagnie. Ils s’indignent des souffrances causées par cette pratique dont l’objectif est de répondre à des effets de mode.",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/02/nous-pouvons-mettre-un-terme-aux-maladies-raciales-d-origine-genetique-des-chiens-et-des-chats_6718183_1650684.html",
       "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
-      "date": "2026-07-02T17:00:07+00:00",
+      "date": "2026-07-02T17:00:03+00:00",
       "date_formatted": "2 July 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -313,16 +363,6 @@
       "type": "presse"
     },
     {
-      "title": "Du poison dans notre café ?",
-      "desc": "L’ONG Coffee Watch a publié un nouveau rapport alertant sur la présence de résidus de pesticides dans le café que nous buvons. Ces pesticides sont parfois cancérogènes et infligent un lourd impact sanitaire aux producteurs.",
-      "url": "https://www.franceinfo.fr/sante/du-poison-dans-notre-cafe_8087060.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/y7H_DQWuJzth1OtfLa-bN8L6gB4/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/06/30/6a43de88010c5102778766.jpg",
-      "date": "2026-07-01T06:00:06+00:00",
-      "date_formatted": "1 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Aide à mourir : Quelles sont les conditions votées par les députés ?",
       "desc": "Le texte voté ce mardi par les députés encadre un droit à l’aide à mourir en France, soumis à de nombreuses conditions",
       "url": "https://www.20minutes.fr/politique/assemblee_nationale/4232114-20260630-aide-mourir-conditions-votees-deputes?at_medium=display&at_campaign=149",
@@ -428,16 +468,6 @@
       "url": "https://www.20minutes.fr/monde/4231902-20260629-ebola-epidemie-etend-republique-democratique-congo-quatrieme-province-touchee?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/ygSWaVb2SfKp2wdTUlOzTCk/1200x768_dossier-des-agents-de-sante-soignent-un-patient-atteint-d-ebola-au-centre-de-traitement-de-rwampara-en-ituri-au-congo-le-jeudi-18-juin-2026-ap-photo-moses-sawasawa-dossier-llt102-26177436023175-dossier-photo-2606261412",
       "date": "2026-06-29T17:07:31+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule dans le Nord : Des jumelles en bas âge succombent à la chaleur, leur fratrie hospitalisée pour déshydratation",
-      "desc": "Deux bébés de 15 mois ont été retrouvés mortes à leur domicile dans le Nord. La piste d’une déshydratation est privilégiée. Un couple a été placé en garde à vue lundi",
-      "url": "https://www.20minutes.fr/planete/canicule/4231901-20260629-canicule-nord-jumelles-bas-age-succombent-chaleur-fratrie-hospitalisee-deshydratation?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/qLKQUpNoS5mNq7YWT0jU6Ck/1200x768_illustration-de-la-police-nationale-francaise-lors-d-un-controle-antidrogue-a-marseille-dans-les-quartiers-nord-de-marseille-dans-le-sud-de-la-france-le-9-decembre-2025-illustration-de-la-police-nationale-lors-d-un-controle-antidrogue-a-marseille-dans-les-quartiers-nord-de-marseille-le-mardi-9-decembre-2025-alain-robert-2c1a2539-credit-alain-robert-sipa-2512101521",
-      "date": "2026-06-29T17:03:21+00:00",
       "date_formatted": "29 June 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
