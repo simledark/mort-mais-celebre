@@ -1,14 +1,54 @@
 {
-  "generated_at": "2026-07-04T01:44:33.573133+00:00",
-  "count": 74,
+  "generated_at": "2026-07-04T08:18:49.682722+00:00",
+  "count": 76,
   "articles": [
     {
-      "title": "Venezuela : après le séisme, un nouveau bilan s’élève à 2 645 morts tandis que continuent les recherches de survivants",
-      "desc": "Plus de 12 000 blessés ont été recensés dans ce dernier bilan annoncé ce vendredi 3 juillet par la présidente par intérim, Delcy Rodríguez. Les Nations unies estiment que le séisme qui a frappé le pays le 24 juin pourrait avoir causé la disparition de 50 000 personnes.",
-      "url": "https://www.liberation.fr/international/amerique/venezuela-apres-le-seisme-un-nouveau-bilan-seleve-a-2-595-morts-tandis-que-continuent-les-recherches-de-survivants-20260703_FDUX2ETWRVFE3CEDSQIZI5WJIA/",
+      "title": "Des médicaments fonctionnant comme un cheval de Troie pourraient révolutionner la lutte contre le cancer",
+      "desc": "Un médicament qui s'infiltre dans les cellules cancéreuses pour les détruire de l'intérieur, tel un cheval de Troie. L'image a marqué les esprits lors des premiers essais d'un traitement actif contre six types de cancers. Retour sur une approche qui, depuis, a tenu ses promesses.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-medicaments-fonctionnant-comme-cheval-troie-pourraient-revolutionner-lutte-cancer-k2m6-135836/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/3/e/53e9a88339_50257502_medicament-anti-cancer.jpg",
+      "date": "2026-07-04T10:00:00+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Voici le coupable insoupçonné de notre alimentation qu'une étude associe au cancer du poumom",
+      "desc": "Une découverte scientifique révèle que notre régime alimentaire pourrait influencer le risque de cancer du poumon. Qui aurait pensé que ce que nous mangeons joue un rôle dans cette maladie traditionnellement associée au tabagisme ? Des chercheurs américains viennent d'identifier un lien entre le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-voici-coupable-insoupconne-notre-alimentation-quune-etude-associe-cancer-poumom-w2t8-135853/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/0/5/7058c2848e_50232906_cancer-poumon-regime-alimentaire.jpg",
+      "date": "2026-07-04T09:00:00+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Après la mort de Lyhanna, une «grande marche» pour demander une loi globale contre les violences sexuelles",
+      "desc": "Les associations féministes et enfantistes appellent ce samedi à une manifestation pour lutter contre les VSS. A Paris, rendez-vous est donné à 15 h 30 sur la place de la Bastille.",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/apres-la-mort-de-lyhanna-une-grande-marche-pour-demander-une-loi-globale-contre-les-violences-sexuelles-20260704_QRNRFLM4YBG45BEQH4XTKOP73U/",
       "image": null,
-      "date": "2026-07-03T20:04:41+00:00",
-      "date_formatted": "3 July 2026",
+      "date": "2026-07-04T08:10:03+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Nous ne sommes pas là pour un enterrement mais pour une vengeance» : les funérailles nationales d’Ali Khamenei débutent à Téhéran",
+      "desc": "Six mois après la mort de l’ayatollah dans une frappe israélo-américaine, un hommage public en grande pompe démarre ce samedi dans la capitale iranienne. Des obsèques qui s’annoncent comme les plus grandes de l’histoire du pays.",
+      "url": "https://www.liberation.fr/international/nous-ne-sommes-pas-la-pour-un-enterrement-mais-pour-une-vengeance-les-funerailles-nationales-dali-khamenei-debutent-a-teheran-20260704_T2PJVOLVMBDCJCNEQDZE2BJGFU/",
+      "image": null,
+      "date": "2026-07-04T07:19:45+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Coupe du monde : entre Didier Deschamps et les Bleus, une communauté de liens",
+      "desc": "Frappé en plein Mondial par la mort de sa mère, l’entraîneur de l’équipe de France, qui affronte ce samedi 4 juillet le Paraguay en huitième de finale, a reçu le soutien appuyé de tous ses joueurs. Un reflet de la solidarité qui donne corps à la sélection.",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-entre-didier-deschamps-et-les-bleus-une-communaute-de-liens-20260704_Z6F2MVXSDZGRXAXT3ON5KIALSI/",
+      "image": null,
+      "date": "2026-07-04T05:00:00+00:00",
+      "date_formatted": "4 July 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -23,16 +63,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort à Paris d’un homme de 78 ans en garde à vue : «aucune lésion de prise, de maintien ni de défense», révèle l’autopsie",
-      "desc": "Soupçonné de violences conjugales, l’homme est mort mercredi matin au commissariat du XXe arrondissement où il était interrogé depuis mardi. L’IGPN a été saisie d’une enquête par le parquet de la capitale en recherche des causes de la mort.",
-      "url": "https://www.liberation.fr/societe/police-justice/a-paris-un-homme-de-78-ans-meurt-en-garde-a-vue-au-commissariat-du-xxe-arrondissement-20260702_G54HGHHJNVAZ5IAM4NT225UJGY/",
-      "image": null,
-      "date": "2026-07-03T17:47:59+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Notre intestin garde la trace invisible de l’agriculture moderne : ce que cela change pour votre santé",
       "desc": "Les sols agricoles, appauvris par des décennies d’intensification, perdent leur capacité à nourrir les plantes. Résultat : des aliments moins nutritifs et des microbiotes intestinaux déséquilibrés, favorisant les maladies chroniques. L’approche « One Health », qui révèle les liens étroits entre...",
       "url": "https://www.futura-sciences.com/sante/actualites/microbiotes-notre-intestin-garde-trace-invisible-agriculture-moderne-ce-cela-change-votre-sante-135818/#xtor%3DRSS-8",
@@ -41,16 +71,6 @@
       "date_formatted": "3 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Surmortalité avec la canicule, incendies dans le Sud, filiation par GPA… L’actu de ce vendredi 3 juillet",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du vendredi 3 juillet.",
-      "url": "https://www.liberation.fr/international/europe/surmortalite-avec-la-canicule-incendies-dans-le-sud-filiation-par-gpa-lactu-de-ce-vendredi-3-juillet-20260703_TJFZBEVD25DKRBRO5YXRPCHBK4/",
-      "image": null,
-      "date": "2026-07-03T16:47:36+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Génération sans cigarette une mesure choc pour les jeunes nés après 2009",
