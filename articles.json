@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-07-04T12:55:15.026666+00:00",
-  "count": 75,
+  "generated_at": "2026-07-04T18:51:57.938828+00:00",
+  "count": 74,
   "articles": [
     {
+      "title": "Patient bizarre : elle entend des voix qui lui répètent d’aller consulter, ce que les médecins découvrent est troublant",
+      "desc": "Une femme de 40 ans a soudainement commencé à entendre des voix l’incitant à aller se faire soigner pour une tumeur au cerveau. On lui diagnostique d’abord une psychose. Mais le traitement ne fait pas disparaître les voix. Elle insiste auprès des médecins pour se faire prescrire un scanner...",
+      "url": "https://www.futura-sciences.com/sante/actualites/psychologie-patient-bizarre-elle-entend-voix-lui-repetent-aller-consulter-ce-medecins-decouvrent-troublant-135770/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/b/6/0b6eacf95f_50257407_oreille-voix-bruit.jpg",
+      "date": "2026-07-04T20:01:40+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Le premier malade d'Ebola en France est \"guéri\" et \"sorti de l'hôpital\", annonce la ministre de la Santé",
+      "desc": "Ce médecin humanitaire, testé positif à son retour de la République démocratique du Congo, a pu rentrer chez lui. Il est le seul cas recensé en France depuis le début de l'épidémie.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-premier-cas-d-ebola-en-france-est-gueri-et-sorti-de-l-hopital-annonce-la-ministre-de-la-sante_8093969.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/SETkTAkHYJ6YNIsXCgvjDw-StSw/0x284:5461x3356/432x243/filters:format(jpg)/2026/07/04/6a49233688b8e756373093.jpg",
+      "date": "2026-07-04T17:21:50+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Procès pour la mort de Daphne Caruana Galizia à Malte : «Le plus dangereux pour un journaliste, c’est de couvrir la corruption dans son propre pays»",
+      "desc": "Le procès du commanditaire présumé, un homme d’affaires sur lequel la reporter enquêtait, s’est ouvert neuf ans après l’assassinat. La sœur de la victime, Corinne Vella, retrace la longue bataille pour que justice soit rendue.",
+      "url": "https://www.liberation.fr/international/europe/proces-pour-la-mort-de-daphne-caruana-galizia-a-malte-le-plus-dangereux-pour-un-journaliste-cest-de-couvrir-la-corruption-dans-son-propre-pays-20260704_DK6ONXIFQNBRZGIFUZJJALAO3Q/",
+      "image": null,
+      "date": "2026-07-04T14:31:00+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "La mortalité à l’hôpital à cause de la chaleur, un sujet sensible déjà documenté lors de la canicule de 2003",
-      "desc": "Le bâti hospitalier, dont 60 % des locaux sont considérés comme vétustes, n’est pas adapté aux fortes températures. Des médecins alertent sur des cas de patients dont l’état s’est aggravé après leur prise en charge aux urgences. Un phénomène déjà étudié lors de l’épisode caniculaire de l’été 2003.",
+      "desc": "Le bâti hospitalier, dont 60 % des locaux sont considérés comme vétustes, n’est pas adapté aux fortes températures. Des médecins alertent sur des cas de patients dont l’état s’est aggravé après leur prise en charge. Un phénomène déjà étudié lors de l’épisode caniculaire de l’été 2003.",
       "url": "https://www.lemonde.fr/societe/article/2026/07/04/la-mortalite-a-l-hopital-a-cause-de-la-chaleur-un-sujet-sensible-deja-documente-lors-de-la-canicule-de-2003_6720662_3224.html",
       "image": "https://img.lemde.fr/2026/06/26/382/0/9792/4896/644/322/60/0/04de826_ftp-1-5jklqfcnujp8-2026-06-26t095924z-1208965395-rc2k1mawhg1i-rtrmadp-3-europe-weather-france-hospital.JPG",
-      "date": "2026-07-04T14:00:05+00:00",
+      "date": "2026-07-04T14:00:01+00:00",
       "date_formatted": "4 July 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -51,16 +81,6 @@
       "date_formatted": "4 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Après la mort de Lyhanna, une «grande marche» pour demander une loi globale contre les violences sexuelles",
-      "desc": "Les associations féministes et enfantistes appellent ce samedi à une manifestation pour lutter contre les VSS. A Paris, rendez-vous est donné à 15 h 30 sur la place de la Bastille.",
-      "url": "https://www.liberation.fr/societe/droits-des-femmes/apres-la-mort-de-lyhanna-une-grande-marche-pour-demander-une-loi-globale-contre-les-violences-sexuelles-20260704_QRNRFLM4YBG45BEQH4XTKOP73U/",
-      "image": null,
-      "date": "2026-07-04T08:10:03+00:00",
-      "date_formatted": "4 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Le chiffre du jour : Au moins 2.000 morts liés à la canicule de juin en France",
@@ -363,16 +383,6 @@
       "type": "presse"
     },
     {
-      "title": "L'épidémie d'Ebola risque de coûter jusqu'à 3,6 milliards de dollars et des dizaines de milliers d'emplois à l'Afrique, alerte l'ONU",
-      "desc": "Le choc en matière de pauvreté concerne principalement la République démocratique du Congo, l'Ouganda, le Rwanda et le Soudan du Sud.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-pourrait-couter-jusqu-a-3-6-milliards-de-dollars-et-des-dizaines-de-milliers-d-emplois-a-l-afrique-selon-l-onu_8088368.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/77KDP7AgK7LvwLZIs5-_5auvLdQ/0x187:3592x2208/432x243/filters:format(jpg)/2026/07/01/6a44fc573ab5b496222592.jpg",
-      "date": "2026-07-01T14:54:56+00:00",
-      "date_formatted": "1 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer de la prostate : cette nouvelle génération de médicaments avance « masquée » et suscite l'espoir",
       "desc": "Les immunothérapies contre le cancer sont une stratégie prometteuse, mais souvent freinée par une toxicité parfois sévère. Une nouvelle approche consiste à « masquer » certains médicaments afin qu'ils ne s'activent qu'au contact de la tumeur. Les premiers essais d'activateurs de lymphocytes T «...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-prostate-cancer-prostate-cette-nouvelle-generation-medicaments-avance-masquee-suscite-espoir-135798/#xtor%3DRSS-8",
@@ -483,16 +493,6 @@
       "type": "science"
     },
     {
-      "title": "Voici la différence essentielle entre démence sénile et Alzheimer que beaucoup confondent encore",
-      "desc": "« Démence sénile », « Alzheimer », « sénilité » : ces mots se croisent et brouillent les repères. Pourtant, derrière le vocabulaire se joue un enjeu majeur, celui de comprendre, d'agir et d'accompagner sans stigmatiser. Car le flou des termes retarde parfois le diagnostic. Décryptage.",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-voici-difference-essentielle-demence-senile-alzheimer-beaucoup-confondent-encore-k2m6-135705/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/4/1/641e1b2c31_50257256_terminologie-maladies-neurodegereratives.jpg",
-      "date": "2026-06-29T18:00:00+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "En RDC, l’épidémie de maladie à virus Ebola s’étend dans tout le nord-est du pays avec une quatrième province affectée",
       "desc": "Le Haut-Uélé, province frontalière du Soudan du Sud mais aussi de la République centrafricaine, est désormais la quatrième à être touchée par la maladie, après l’Ituri, le Nord-Kivu et le Sud-Kivu.",
       "url": "https://www.lemonde.fr/afrique/article/2026/06/29/en-rdc-l-epidemie-de-maladie-a-virus-ebola-s-etend-dans-tout-le-nord-est-du-pays-avec-une-quatrieme-province-affectee_6716948_3212.html",
@@ -511,16 +511,6 @@
       "date_formatted": "29 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Un seul acide aminé peut changer le destin d’un virus animal : la découverte qui alerte les chercheurs",
-      "desc": "Des chercheurs ont découvert le mécanisme qui explique qu’un agent pathogène bénin chez l’animal devient grave quand il est transmis à l’humain. Leurs travaux permettent de mieux comprendre comment le virus SARS-CoV-2, responsable de la Covid-19 et apparenté aux coronavirus qui vivent chez les...",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-seul-acide-amine-peut-changer-destin-virus-animal-decouverte-alerte-chercheurs-135556/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/5/b/85b1b056bb_50257304_virus-transmission.jpg",
-      "date": "2026-06-29T12:45:32+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Canicule : de nombreux décès en France mais moins qu'en 2003",
