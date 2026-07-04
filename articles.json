@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-04T08:18:49.682722+00:00",
-  "count": 76,
+  "generated_at": "2026-07-04T12:55:15.026666+00:00",
+  "count": 75,
   "articles": [
+    {
+      "title": "La mortalité à l’hôpital à cause de la chaleur, un sujet sensible déjà documenté lors de la canicule de 2003",
+      "desc": "Le bâti hospitalier, dont 60 % des locaux sont considérés comme vétustes, n’est pas adapté aux fortes températures. Des médecins alertent sur des cas de patients dont l’état s’est aggravé après leur prise en charge aux urgences. Un phénomène déjà étudié lors de l’épisode caniculaire de l’été 2003.",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/04/la-mortalite-a-l-hopital-a-cause-de-la-chaleur-un-sujet-sensible-deja-documente-lors-de-la-canicule-de-2003_6720662_3224.html",
+      "image": "https://img.lemde.fr/2026/06/26/382/0/9792/4896/644/322/60/0/04de826_ftp-1-5jklqfcnujp8-2026-06-26t095924z-1208965395-rc2k1mawhg1i-rtrmadp-3-europe-weather-france-hospital.JPG",
+      "date": "2026-07-04T14:00:05+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "A Lampedusa, le pape Léon XIV exhorte l’Europe à agir davantage pour protéger les migrants",
+      "desc": "Sur l’île italienne devenue le symbole du drame des traversées mortelles de la Méditerranée, le pontife en a appelé à une UE «capable d’accueillir, de protéger et d’intégrer les migrants», quelques semaines après l’adoption de nouvelles mesures migratoires.",
+      "url": "https://www.liberation.fr/international/europe/a-lampedusa-le-pape-leon-xiv-exhorte-leurope-a-agir-davantage-pour-proteger-les-migrants-20260704_QU5MH2HS55DWPHAKN3WYKIIC5U/",
+      "image": null,
+      "date": "2026-07-04T11:17:30+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort à 44 ans de Bertrand Grébaut, chef du restaurant étoilé Septime",
+      "desc": "Décrit par le «Gault & Millau» comme l’un de ceux qui ont «réinventé la gastronomie française», le restaurateur a succombé à un cancer, jeudi.",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/mort-a-44-ans-de-bertrand-grebaut-chef-du-restaurant-etoile-septime-20260704_MGAAYU4DVFCODCSMUYVYMQVFTM/",
+      "image": null,
+      "date": "2026-07-04T11:06:38+00:00",
+      "date_formatted": "4 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Des médicaments fonctionnant comme un cheval de Troie pourraient révolutionner la lutte contre le cancer",
       "desc": "Un médicament qui s'infiltre dans les cellules cancéreuses pour les détruire de l'intérieur, tel un cheval de Troie. L'image a marqué les esprits lors des premiers essais d'un traitement actif contre six types de cancers. Retour sur une approche qui, depuis, a tenu ses promesses.",
@@ -28,26 +58,6 @@
       "url": "https://www.liberation.fr/societe/droits-des-femmes/apres-la-mort-de-lyhanna-une-grande-marche-pour-demander-une-loi-globale-contre-les-violences-sexuelles-20260704_QRNRFLM4YBG45BEQH4XTKOP73U/",
       "image": null,
       "date": "2026-07-04T08:10:03+00:00",
-      "date_formatted": "4 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Nous ne sommes pas là pour un enterrement mais pour une vengeance» : les funérailles nationales d’Ali Khamenei débutent à Téhéran",
-      "desc": "Six mois après la mort de l’ayatollah dans une frappe israélo-américaine, un hommage public en grande pompe démarre ce samedi dans la capitale iranienne. Des obsèques qui s’annoncent comme les plus grandes de l’histoire du pays.",
-      "url": "https://www.liberation.fr/international/nous-ne-sommes-pas-la-pour-un-enterrement-mais-pour-une-vengeance-les-funerailles-nationales-dali-khamenei-debutent-a-teheran-20260704_T2PJVOLVMBDCJCNEQDZE2BJGFU/",
-      "image": null,
-      "date": "2026-07-04T07:19:45+00:00",
-      "date_formatted": "4 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Coupe du monde : entre Didier Deschamps et les Bleus, une communauté de liens",
-      "desc": "Frappé en plein Mondial par la mort de sa mère, l’entraîneur de l’équipe de France, qui affronte ce samedi 4 juillet le Paraguay en huitième de finale, a reçu le soutien appuyé de tous ses joueurs. Un reflet de la solidarité qui donne corps à la sélection.",
-      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-entre-didier-deschamps-et-les-bleus-une-communaute-de-liens-20260704_Z6F2MVXSDZGRXAXT3ON5KIALSI/",
-      "image": null,
-      "date": "2026-07-04T05:00:00+00:00",
       "date_formatted": "4 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -493,16 +503,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : L’épidémie s’étend en République démocratique du Congo où une quatrième province est touchée",
-      "desc": "L’épidémie d’Ebola progresse en République démocratique du Congo. Déjà 360 morts pour 1.274 cas recensés, et désormais une quatrième province touchée dans le nord-est du pays",
-      "url": "https://www.20minutes.fr/monde/4231902-20260629-ebola-epidemie-etend-republique-democratique-congo-quatrieme-province-touchee?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ygSWaVb2SfKp2wdTUlOzTCk/1200x768_dossier-des-agents-de-sante-soignent-un-patient-atteint-d-ebola-au-centre-de-traitement-de-rwampara-en-ituri-au-congo-le-jeudi-18-juin-2026-ap-photo-moses-sawasawa-dossier-llt102-26177436023175-dossier-photo-2606261412",
-      "date": "2026-06-29T17:07:31+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Fin de vie : « Le rôle de l’Etat n’est pas de décider à la place des individus »",
       "desc": "Une approche libérale de la fin de vie suppose de dépasser les conceptions paternalistes selon lesquelles l’Etat ou les institutions religieuses pourraient définir ce qu’est une « bonne mort », affirme Daniel Borrillo, juriste spécialisé en bioéthique et expert associé pour Génération Libre, dans un",
       "url": "https://www.lemonde.fr/idees/article/2026/06/29/fin-de-vie-le-role-de-l-etat-n-est-pas-de-decider-a-la-place-des-individus_6716925_3232.html",
@@ -569,16 +569,6 @@
       "image": "https://img.lemde.fr/2026/06/26/0/0/8000/4000/644/322/60/0/8acc1c5_upload-1-ubr8op4vr4fm-jmug260626045.jpg",
       "date": "2026-06-28T01:07:09+00:00",
       "date_formatted": "28 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "« L’été et les fortes chaleurs, ça exacerbe tous les symptômes » : vivre une canicule lorsqu’on est atteint de troubles psychiques",
-      "desc": "Lorsque les températures augmentent, plusieurs études constatent une hausse des passages aux urgences psychiatriques et des tentatives de suicide.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/27/vivre-la-canicule-lorsqu-on-est-atteint-de-troubles-psychiques-ca-exacerbe-tous-les-symptomes_6716352_3224.html",
-      "image": "https://img.lemde.fr/2026/06/26/1723/0/4000/2000/644/322/60/0/37d6d1e_upload-1-6g6ifeca3j6c-kzihnioglu-soc-metz-hopital-26062026-074.JPG",
-      "date": "2026-06-27T10:30:01+00:00",
-      "date_formatted": "27 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
