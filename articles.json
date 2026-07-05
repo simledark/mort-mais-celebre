@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-07-05T13:02:26.211899+00:00",
-  "count": 70,
+  "generated_at": "2026-07-05T18:57:11.406007+00:00",
+  "count": 69,
   "articles": [
     {
-      "title": "La galère des propriétaires d’animaux face à la canicule : «J’ai eu peur que ma chienne meure»",
-      "desc": "La vague de chaleur de juin a causé une augmentation de près de 60% des morts d’animaux de compagnie à 31 15 Urgences Vétérinaires. Inquiets et éprouvés, les propriétaires tentent de se préparer au mieux avant la prochaine.",
-      "url": "https://www.liberation.fr/lifestyle/voyages/la-galere-des-proprietaires-danimaux-face-a-la-canicule-jai-eu-peur-que-ma-chienne-meure-20260705_TVAXHSYSGJDMTKB3TSEBTRNGRI/",
+      "title": "Belle-Ile-en-Mer : le maire de Locmaria meurt d’un arrêt cardiaque après une altercation avec un plaisancier",
+      "desc": "Dominique Rousselot, élu de 57 ans, est mort samedi dans la soirée dans un port de l’île bretonne. «Il est trop tôt pour dire les circonstances exactes du décès et de l’altercation», a fait savoir la procureure de la République de Lorient.",
+      "url": "https://www.liberation.fr/societe/police-justice/belle-ile-en-mer-le-maire-de-locmaria-meurt-dun-arret-cardiaque-apres-une-altercation-avec-un-plaisancier-20260705_7HP374ICA5D77DGIYJC4VKEGBY/",
       "image": null,
-      "date": "2026-07-05T10:51:00+00:00",
+      "date": "2026-07-05T17:35:18+00:00",
       "date_formatted": "5 July 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort prématurée du chef Bertrand Grébaut : «Sa cuisine était tellement juste»",
+      "desc": "Le décès à l’âge de 44 ans du chef étoilé endeuille le monde de la gastronomie. Nombreux sont ceux qui rendent hommage à cet influent et discret pionnier de la bistronomie.",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/mort-prematuree-du-chef-bertrand-grebaut-sa-cuisine-etait-tellement-juste-20260705_TOGNXO7IFVBGRCKWAUAVCIJSEQ/",
+      "image": null,
+      "date": "2026-07-05T16:39:35+00:00",
+      "date_formatted": "5 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Atteint de la maladie de Charcot, il retrouve la parole grâce à un implant cérébral",
+      "desc": "Julien Ménielle nous raconte l'histoire de Casey Harrell, un Américain atteint de la maladie de Charcot, qui a retrouvé une partie de son autonomie grâce à un implant cérébral et à l'intelligence artificielle.",
+      "url": "https://www.franceinfo.fr/sante/atteint-de-la-maladie-de-charcot-il-retrouve-la-parole-grace-a-un-implant-cerebral_8092544.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/njqbrwfjf7LPk1rPiYrN9psUiLQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/07/03/6a47c2d5eea5a720416528.jpg",
+      "date": "2026-07-05T16:00:04+00:00",
+      "date_formatted": "5 July 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -31,16 +51,6 @@
       "date_formatted": "5 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Le corps d’un homme découvert samedi matin dans le canal Saint-Martin",
-      "desc": "Selon une source policière, la victime n’avait pas de papiers d’identité sur elle. Les investigations se poursuivent pour l’identifier et déterminer les circonstances de la mort.",
-      "url": "https://www.liberation.fr/societe/police-justice/le-corps-dun-homme-decouvert-samedi-matin-dans-le-canal-saint-martin-20260705_3K5TKJ4SHZDMRLTYTYXU77KAHE/",
-      "image": null,
-      "date": "2026-07-05T08:29:11+00:00",
-      "date_formatted": "5 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Patient bizarre : elle entend des voix qui lui répètent d’aller consulter, ce que les médecins découvrent est troublant",
@@ -323,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Le bilan de l'épidémie d'Ebola en République démocratique du Congo dépasse désormais les 400 morts",
-      "desc": "Déclarée officiellement le 15 mai, elle est causée par le virus Bundibugyo pour lequel il n'existe ni vaccin, ni traitement.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-passe-la-barre-des-400-morts_8090246.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/8ETBWyel7n9N7MdIZGqx03JOpSg/0x325:6240x3835/432x243/filters:format(jpg)/2026/07/02/6a4658820467f680956826.jpg",
-      "date": "2026-07-02T14:38:25+00:00",
-      "date_formatted": "2 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : L’épidémie continue à progresser en RDC qui recense 438 décès",
       "desc": "L’épidémie d’Ebola en République démocratique du Congo (RDC) continue de progresser et a déjà fait plus de 400 morts",
       "url": "https://www.20minutes.fr/monde/4232466-20260702-ebola-epidemie-continue-progresser-rdc-recense-438-deces?at_medium=display&at_campaign=149",
@@ -511,16 +511,6 @@
       "date_formatted": "29 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Canicule : les premiers bilans révèlent une surmortalité, et notamment une hausse du nombre de morts à domicile",
-      "desc": "Santé publique France fait état d’environ 1 000 morts supplémentaires. Médecins et infirmiers mobilisés sur le terrain continuent d’être sous forte pression et redoutent davantage de morts ces prochains jours.",
-      "url": "https://www.lemonde.fr/sante/article/2026/06/29/canicule-les-premiers-bilans-revelent-une-surmortalite-et-notamment-une-hausse-des-deces-a-domicile_6716697_1651302.html",
-      "image": "https://img.lemde.fr/2026/06/26/585/0/5000/2500/644/322/60/0/9d09497_upload-1-wsa6o5y1xudv-kzihnioglu-soc-metz-hopital-26062026-088.JPG",
-      "date": "2026-06-29T05:04:20+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Un spray nasal pour améliorer la mémoire ?",
