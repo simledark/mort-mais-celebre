@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-05T08:37:09.298891+00:00",
-  "count": 72,
+  "generated_at": "2026-07-05T13:02:26.211899+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title": "La galère des propriétaires d’animaux face à la canicule : «J’ai eu peur que ma chienne meure»",
+      "desc": "La vague de chaleur de juin a causé une augmentation de près de 60% des morts d’animaux de compagnie à 31 15 Urgences Vétérinaires. Inquiets et éprouvés, les propriétaires tentent de se préparer au mieux avant la prochaine.",
+      "url": "https://www.liberation.fr/lifestyle/voyages/la-galere-des-proprietaires-danimaux-face-a-la-canicule-jai-eu-peur-que-ma-chienne-meure-20260705_TVAXHSYSGJDMTKB3TSEBTRNGRI/",
+      "image": null,
+      "date": "2026-07-05T10:51:00+00:00",
+      "date_formatted": "5 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Atteint de la maladie de Charcot, il retrouve la parole grâce à un implant cérébral",
       "desc": "En 2023, un Américain atteint d'une sclérose latérale amyotrophique, appelée aussi maladie de Charcot, a participé à l'essai clinique BrainGate 2. Grâce à un implant cérébral il a retrouvé en partie l'autonomie qu'il avait perdue.",
@@ -28,26 +38,6 @@
       "url": "https://www.liberation.fr/societe/police-justice/le-corps-dun-homme-decouvert-samedi-matin-dans-le-canal-saint-martin-20260705_3K5TKJ4SHZDMRLTYTYXU77KAHE/",
       "image": null,
       "date": "2026-07-05T08:29:11+00:00",
-      "date_formatted": "5 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Au Venezuela, le bilan du double séisme monte à près de 3 000 morts",
-      "desc": "Au moins 2 954 personnes ont été tuées et 16 592 blessées dans les tremblements de terre du 24 juin, selon les derniers chiffres avancés par le gouvernement intérimaire.",
-      "url": "https://www.liberation.fr/international/amerique/au-venezuela-le-bilan-du-double-seisme-monte-a-pres-de-3-000-morts-20260705_X7LWUOQT3ZBFXA2MHCBRQXUOUM/",
-      "image": null,
-      "date": "2026-07-05T06:32:56+00:00",
-      "date_formatted": "5 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Ni oubli ni pardon» : à Carcassonne, une marche pour Louis, «un adolescent solaire» tué dans un guet-apens",
-      "desc": "Le 19 juin, Louis, 17 ans, en fugue alors qu’il était confié à l’ASE, a été tabassé par des jeunes et est mort de ses blessures, quelques jours après. Ce samedi 4 juillet, son père a conduit une marche blanche réclamant «justice» à Carcassonne. Sa mère et sa tante en organisent une autre, ce dimanch",
-      "url": "https://www.liberation.fr/societe/ni-oubli-ni-pardon-a-carcassonne-une-marche-pour-louis-un-adolescent-solaire-tue-dans-un-guet-apens-20260705_F6WSHUTUL5AOXFBGUVUMLJ3BKA/",
-      "image": null,
-      "date": "2026-07-05T06:32:51+00:00",
       "date_formatted": "5 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -528,16 +518,6 @@
       "url": "https://www.lemonde.fr/sante/article/2026/06/29/canicule-les-premiers-bilans-revelent-une-surmortalite-et-notamment-une-hausse-des-deces-a-domicile_6716697_1651302.html",
       "image": "https://img.lemde.fr/2026/06/26/585/0/5000/2500/644/322/60/0/9d09497_upload-1-wsa6o5y1xudv-kzihnioglu-soc-metz-hopital-26062026-088.JPG",
       "date": "2026-06-29T05:04:20+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "A Mongbwalu, épicentre de l’épidémie d’Ebola en RDC, des « morts en cascade » et la terrible angoisse de la contamination",
-      "desc": "« Le Monde » s’est rendu dans la localité de l’est de la République démocratique du Congo, où l’épidémie liée au virus Ebola s’est déclarée. Face à la multiplication des décès, les structures sanitaires locales et les ONG se retrouvent débordées, pénalisées par le manque de moyens mis en place.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/29/a-mongbwalu-epicentre-de-l-epidemie-d-ebola-en-rdc-des-morts-en-cascade-et-la-terrible-angoisse-de-la-contamination_6716695_3212.html",
-      "image": "https://img.lemde.fr/2026/06/26/504/0/4000/2000/644/322/60/0/82a3f75_upload-1-p4i3ita0zl3f-27-pb-lemonde-ebola-mongbwalu-ituri-rdc.jpg",
-      "date": "2026-06-29T05:00:02+00:00",
       "date_formatted": "29 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
