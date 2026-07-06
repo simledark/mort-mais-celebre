@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-06T09:51:02.404084+00:00",
-  "count": 68,
+  "generated_at": "2026-07-06T14:52:23.978858+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title": "Mort d’Yvan Colonna : le suspect sera bien jugé devant les assises",
+      "desc": "Franck Elong Abé est accusé d’avoir tué le militant nationaliste corse le 2 mars 2022 dans la prison d’Arles, alors que ce dernier purgeait une peine à perpétuité pour l’assassinat du préfet Erignac en 1998.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-dyvan-colonna-le-suspect-sera-bien-juge-devant-les-assises-20260706_3NCRLMM7MZBL3PME72XIDK2FGM/",
+      "image": null,
+      "date": "2026-07-06T14:46:52+00:00",
+      "date_formatted": "6 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre en Ukraine : des bombardements russes font au moins 18 morts dans la région de Kyiv",
+      "desc": "A la veille d’un sommet de l’Otan en Turquie, Moscou a notamment frappé la capitale ukrainienne ce lundi 6 juillet, où au moins neuf personnes ont été tuées. Un autre mort a été recensé dans le district de Boutcha.",
+      "url": "https://www.liberation.fr/societe/police-justice/des-bombardements-russes-font-au-moins-10-morts-dans-la-region-de-kyiv-20260706_WTDMS6F3L5G43DO2ACJHXOEJ5Q/",
+      "image": null,
+      "date": "2026-07-06T13:35:31+00:00",
+      "date_formatted": "6 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Cédric Jubillar n’avoue pas un meurtre mais a reconnu avoir été à l’origine de la mort de son épouse», affirme son avocat",
+      "desc": "Après avoir nié pendant des années son implication dans la disparition de Delphine Aussaguel, Cédric Jubillar est passé aux aveux, par la voix de son avocat, lundi 6 juillet.",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-aveux-de-cedric-jubillar-suivez-avec-nous-la-conference-de-presse-de-son-avocat-a-13-heures-20260706_RXGISJ6IYRHO5KURO5CMM5J4F4/",
+      "image": null,
+      "date": "2026-07-06T12:14:44+00:00",
+      "date_formatted": "6 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Voici pourquoi les femmes seraient plus à risque face à la démence selon une vaste étude",
       "desc": "Deux tiers des Américains de plus de 65 ans touchés par la maladie d'Alzheimer sont des femmes. Ce chiffre, à lui seul, pose une question que la science ne pouvait plus ignorer : pourquoi un tel déséquilibre ? Une étude publiée en 2026 apporte des éléments de réponse concrets, et ils changent la...",
@@ -20,16 +50,6 @@
       "date": "2026-07-06T09:10:49+00:00",
       "date_formatted": "6 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Guerre en Ukraine : des bombardements russes font au moins 10 morts dans la région de Kyiv",
-      "desc": "A la veille d’un sommet de l’Otan en Turquie, Moscou a notamment frappé la capitale ukrainienne ce lundi 6 juillet, où au moins neuf personnes ont été tuées. Un autre mort a été recensé dans le district de Boutcha.",
-      "url": "https://www.liberation.fr/societe/police-justice/des-bombardements-russes-font-au-moins-10-morts-dans-la-region-de-kyiv-20260706_WTDMS6F3L5G43DO2ACJHXOEJ5Q/",
-      "image": null,
-      "date": "2026-07-06T08:21:53+00:00",
-      "date_formatted": "6 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -488,16 +508,6 @@
       "url": "https://www.lemonde.fr/afrique/article/2026/06/29/en-rdc-l-epidemie-de-maladie-a-virus-ebola-s-etend-dans-tout-le-nord-est-du-pays-avec-une-quatrieme-province-affectee_6716948_3212.html",
       "image": "https://img.lemde.fr/2026/06/29/333/0/4000/2000/644/322/60/0/b41a66a_upload-1-qtpkbitmtfad-24-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
       "date": "2026-06-29T17:46:42+00:00",
-      "date_formatted": "29 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : « Le rôle de l’Etat n’est pas de décider à la place des individus »",
-      "desc": "Une approche libérale de la fin de vie suppose de dépasser les conceptions paternalistes selon lesquelles l’Etat ou les institutions religieuses pourraient définir ce qu’est une « bonne mort », affirme Daniel Borrillo, juriste spécialisé en bioéthique et expert associé pour Génération Libre, dans un",
-      "url": "https://www.lemonde.fr/idees/article/2026/06/29/fin-de-vie-le-role-de-l-etat-n-est-pas-de-decider-a-la-place-des-individus_6716925_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/907433c_upload-1-pq1557drjvj5-frame-885.jpg",
-      "date": "2026-06-29T15:33:52+00:00",
       "date_formatted": "29 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
