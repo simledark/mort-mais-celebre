@@ -1,25 +1,45 @@
 {
-  "generated_at": "2026-07-06T01:56:01.204267+00:00",
-  "count": 69,
+  "generated_at": "2026-07-06T09:51:02.404084+00:00",
+  "count": 68,
   "articles": [
     {
-      "title": "Belle-Ile-en-Mer : le maire de Locmaria meurt d’un arrêt cardiaque après une altercation avec un plaisancier",
-      "desc": "Dominique Rousselot, élu de 57 ans, est mort samedi dans la soirée dans un port de l’île bretonne. «Il est trop tôt pour dire les circonstances exactes du décès et de l’altercation», a fait savoir la procureure de la République de Lorient.",
-      "url": "https://www.liberation.fr/societe/police-justice/belle-ile-en-mer-le-maire-de-locmaria-meurt-dun-arret-cardiaque-apres-une-altercation-avec-un-plaisancier-20260705_7HP374ICA5D77DGIYJC4VKEGBY/",
+      "title": "Voici pourquoi les femmes seraient plus à risque face à la démence selon une vaste étude",
+      "desc": "Deux tiers des Américains de plus de 65 ans touchés par la maladie d'Alzheimer sont des femmes. Ce chiffre, à lui seul, pose une question que la science ne pouvait plus ignorer : pourquoi un tel déséquilibre ? Une étude publiée en 2026 apporte des éléments de réponse concrets, et ils changent la...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-voici-femmes-seraient-plus-risque-face-demence-selon-vaste-etude-k2m6-135902/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/5/1/4510ce1c47_50257593_demence-alzheimer-femmes.jpg",
+      "date": "2026-07-06T10:00:00+00:00",
+      "date_formatted": "6 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "\"On peut aller plus loin \" dans la lutte contre le tabac \"et c'est de notre responsabilité\", estime le directeur de l'Assurance-maladie",
+      "desc": "Thomas Fatôme souhaite interdire la vente de cigarettes aux personnes nées après 2009, et ainsi créer une génération \"sans-tabac\".",
+      "url": "https://www.franceinfo.fr/sante/lutte-contre-le-tabac-on-peut-aller-plus-loin-et-c-est-de-notre-responsabilite-estime-le-directeur-general-de-l-assurance-maladie_8095793.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/tU5wZ1aS84q7RTTy4jqNLx3yif4/0x0:2100x1181/432x243/filters:format(jpg)/2026/04/22/69e89e63dd242050162901.jpg",
+      "date": "2026-07-06T09:10:49+00:00",
+      "date_formatted": "6 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre en Ukraine : des bombardements russes font au moins 10 morts dans la région de Kyiv",
+      "desc": "A la veille d’un sommet de l’Otan en Turquie, Moscou a notamment frappé la capitale ukrainienne ce lundi 6 juillet, où au moins neuf personnes ont été tuées. Un autre mort a été recensé dans le district de Boutcha.",
+      "url": "https://www.liberation.fr/societe/police-justice/des-bombardements-russes-font-au-moins-10-morts-dans-la-region-de-kyiv-20260706_WTDMS6F3L5G43DO2ACJHXOEJ5Q/",
       "image": null,
-      "date": "2026-07-05T17:35:18+00:00",
-      "date_formatted": "5 July 2026",
+      "date": "2026-07-06T08:21:53+00:00",
+      "date_formatted": "6 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Mort prématurée du chef Bertrand Grébaut : «Sa cuisine était tellement juste»",
-      "desc": "Le décès à l’âge de 44 ans du chef étoilé endeuille le monde de la gastronomie. Nombreux sont ceux qui rendent hommage à cet influent et discret pionnier de la bistronomie.",
-      "url": "https://www.liberation.fr/lifestyle/gastronomie/mort-prematuree-du-chef-bertrand-grebaut-sa-cuisine-etait-tellement-juste-20260705_TOGNXO7IFVBGRCKWAUAVCIJSEQ/",
-      "image": null,
-      "date": "2026-07-05T16:39:35+00:00",
-      "date_formatted": "5 July 2026",
-      "source": "Libération",
+      "title": "Canicule : Décès, hôpital, enfermement… La canicule va-t-elle devenir notre nouveau Covid ?",
+      "desc": "Avec un masque ou sous la canicule, les Français ont du mal à respirer. Si certaines similitudes avec le Covid se dessinent, peut-on comparer la pandémie de mars 2020 à la canicule de juin 2026 ?",
+      "url": "https://www.20minutes.fr/societe/4232223-20260706-canicule-deces-hopital-enfermement-canicule-va-devenir-nouveau-covid?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Zp0GN7OkRiOOfEA-ATyyayk/1200x768_on-respirait-mieux-sous-un-masque-ou-sous-la-canicule",
+      "date": "2026-07-06T05:32:36+00:00",
+      "date_formatted": "6 July 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -303,16 +323,6 @@
       "type": "presse"
     },
     {
-      "title": "L'Assurance-maladie préconise l'interdiction de la vente de cigarettes aux personnes nées après 2009",
-      "desc": "\"Il est maintenant temps de concrétiser le virage préventif\" des politiques de santé car la prévention est la \"bataille de la décennie\" et constitue \"un bon investissement\", a estimé Samira Lehaine, la présidente (CFDT) du conseil de la Caisse nationale d'Assurance-maladie (Cnam).",
-      "url": "https://www.franceinfo.fr/sante/l-assurance-maladie-preconise-l-interdiction-de-la-vente-de-cigarettes-aux-personnes-nees-apres-2009_8090384.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/TGht-4RpiM4fKn94NOcriQrs-Rg/0x352:3759x2467/432x243/filters:format(jpg)/2026/07/02/6a467033b6098017501916.jpg",
-      "date": "2026-07-02T17:16:38+00:00",
-      "date_formatted": "2 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Nous pouvons mettre un terme aux maladies raciales d’origine génétique des chiens et des chats »",
       "desc": "Dans une tribune au « Monde », plus de 135 vétérinaires appellent à interdire la sélection génétique altérant le bien-être des animaux de compagnie. Ils s’indignent des souffrances causées par cette pratique dont l’objectif est de répondre à des effets de mode.",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/02/nous-pouvons-mettre-un-terme-aux-maladies-raciales-d-origine-genetique-des-chiens-et-des-chats_6718183_1650684.html",
@@ -453,16 +463,6 @@
       "type": "science"
     },
     {
-      "title": "Canicule : Au moins 300 morts de plus que la normale en mai",
-      "desc": "Selon Santé publique France, lors du premier épisode de canicule de 2026 survenu en mai, « au moins 300 décès » de plus que la normale ont été recensés en cinq jours dans l’Hexagone",
-      "url": "https://www.20minutes.fr/societe/4232026-20260630-canicule-moins-300-morts-plus-normale-mai?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/j9Jn3QieRN-Jafpp9tE55ik/1200x768_au-moins-300-deces-de-plus-que-la-normale-ont-ete-recenses-en-cinq-jours-dans-l-hexagone-lors-du-premier-episode-de-canicule-de-2026-survenu-en-mai-illustration",
-      "date": "2026-06-30T13:03:27+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "L'Argentine détecte un variant d'hantavirus en Terre de Feu",
       "desc": "Un nouveau variant d'hantavirus a été détecté chez des souris capturées en Terre de Feu, en Argentine. Les autorités sanitaires précisent qu'il est bien distinct de la souche identifiée à bord du navire de croisière Hondius, responsable de trois décès, et poursuivent leurs investigations pour évalue",
       "url": "https://www.sciencesetavenir.fr/sante/l-argentine-detecte-un-variant-d-hantavirus-en-terre-de-feu_193496?xtor=RSS-16",
@@ -548,16 +548,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/des-patchs-therapeutiques-au-tribunal-un-essai-clinique-sauvage_193339?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/22/cover-r4x3w1200-6a3945146db09-williamcho-justice-2060093.jpg",
       "date": "2026-06-23T08:58:33+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ebola en RDC : plus de 1.000 cas et 254 décès, selon un dernier bilan officiel",
-      "desc": "L'Institut national de santé publique congolais a enregistré 1.003 cas et 254 décès, soit un taux de létalité moyen de 25,3%.",
-      "url": "https://www.sciencesetavenir.fr/sante/ebola-en-rdc-plus-de-1-000-cas-et-254-deces-selon-un-dernier-bilan-officiel_193345?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/22/cover-r4x3w1200-6a39890539929-fcd1cc18f299bf179dbd4ebee93f9a36fdecc09e-jpg.jpg",
-      "date": "2026-06-23T08:58:31+00:00",
       "date_formatted": "23 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
