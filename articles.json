@@ -1,33 +1,43 @@
 {
-  "generated_at": "2026-07-06T14:52:23.978858+00:00",
+  "generated_at": "2026-07-06T19:28:44.147570+00:00",
   "count": 69,
   "articles": [
     {
-      "title": "Mort d’Yvan Colonna : le suspect sera bien jugé devant les assises",
-      "desc": "Franck Elong Abé est accusé d’avoir tué le militant nationaliste corse le 2 mars 2022 dans la prison d’Arles, alors que ce dernier purgeait une peine à perpétuité pour l’assassinat du préfet Erignac en 1998.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-dyvan-colonna-le-suspect-sera-bien-juge-devant-les-assises-20260706_3NCRLMM7MZBL3PME72XIDK2FGM/",
-      "image": null,
-      "date": "2026-07-06T14:46:52+00:00",
+      "title": "Maladie de Charcot : comment accompagner les patients face à un handicap qui progresse",
+      "desc": "De l’annonce de la maladie à la fin de vie, plusieurs professionnels de santé se relaient auprès des personnes atteintes par cette maladie incurable, qui touche environ 8 000 personnes en France.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/06/maladie-de-charcot-comment-accompagner-les-patients-face-a-un-handicap-qui-progresse_6721224_1650684.html",
+      "image": "https://img.lemde.fr/2025/12/29/250/0/3000/1500/644/322/60/0/c604c66_upload-1-421ic0ybbhm5-frame-590.jpg",
+      "date": "2026-07-06T18:30:05+00:00",
       "date_formatted": "6 July 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
-      "title": "Guerre en Ukraine : des bombardements russes font au moins 18 morts dans la région de Kyiv",
-      "desc": "A la veille d’un sommet de l’Otan en Turquie, Moscou a notamment frappé la capitale ukrainienne ce lundi 6 juillet, où au moins neuf personnes ont été tuées. Un autre mort a été recensé dans le district de Boutcha.",
-      "url": "https://www.liberation.fr/societe/police-justice/des-bombardements-russes-font-au-moins-10-morts-dans-la-region-de-kyiv-20260706_WTDMS6F3L5G43DO2ACJHXOEJ5Q/",
-      "image": null,
-      "date": "2026-07-06T13:35:31+00:00",
+      "title": "La recherche au chevet de la maladie de Charcot : « Face à une pathologie systématiquement mortelle, le statu quo est inacceptable »",
+      "desc": "Pour la première fois, deux traitements parviennent à ralentir l’évolution de la sclérose latérale amyotrophique, qui touche six nouvelles personnes chaque jour en France et entraîne une paralysie qui gagne peu à peu tout le corps, avec un délai moyen de survie de trois à cinq ans après le diagnosti",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/06/la-recherche-au-chevet-de-la-maladie-de-charcot-face-a-une-pathologie-systematiquement-mortelle-le-statu-quo-est-inacceptable_6721220_1650684.html",
+      "image": "https://img.lemde.fr/2026/07/02/380/0/3600/1800/644/322/60/0/51a89f6_upload-1-avac72gfbad0-rea11502072.jpg",
+      "date": "2026-07-06T18:00:08+00:00",
       "date_formatted": "6 July 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Christophe Malsot, atteint de la maladie de Charcot : « La flamme de la vie ne m’a pas quitté »",
+      "desc": "Frappé depuis sept ans par la maladie de Charcot, ou sclérose latérale amyotrophique, Christophe Malsot, 60 ans, témoigne de son vécu avec cette pathologie qui détruit les motoneurones et entraîne une paralysie progressive.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/06/christophe-malsot-atteint-de-la-maladie-de-charcot-la-flamme-de-la-vie-ne-m-a-pas-quitte_6721216_1650684.html",
+      "image": "https://img.lemde.fr/2026/07/06/66/4/502/251/644/322/60/0/85fc540_upload-1-yn7zz4porvr4-christophe-malsot-dossier-sla-1.jpg",
+      "date": "2026-07-06T17:30:17+00:00",
+      "date_formatted": "6 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "«Cédric Jubillar n’avoue pas un meurtre mais a reconnu avoir été à l’origine de la mort de son épouse», affirme son avocat",
       "desc": "Après avoir nié pendant des années son implication dans la disparition de Delphine Aussaguel, Cédric Jubillar est passé aux aveux, par la voix de son avocat, lundi 6 juillet.",
       "url": "https://www.liberation.fr/societe/police-justice/en-direct-aveux-de-cedric-jubillar-suivez-avec-nous-la-conference-de-presse-de-son-avocat-a-13-heures-20260706_RXGISJ6IYRHO5KURO5CMM5J4F4/",
       "image": null,
-      "date": "2026-07-06T12:14:44+00:00",
+      "date": "2026-07-06T15:53:24+00:00",
       "date_formatted": "6 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -471,16 +481,6 @@
       "date_formatted": "30 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "La grande saga des cellules eucaryotes, vieilles de plus de 2 milliards d’années",
-      "desc": "Dans la revue « Nature » du 10 juin, une équipe espagnole retrace, par un travail d’archéologie moléculaire assisté d’un supercalculateur, cette aventure évolutive fondatrice, qui donnera naissance à l’ensemble des plantes, des champignons et des animaux.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/30/la-genese-des-cellules-eucaryotes-un-scenario-qui-se-precise_6717287_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/29/103/0/2244/1122/644/322/60/0/0cc8ef4_upload-1-5e9sos6410e7-cellules2def-1.jpg",
-      "date": "2026-06-30T17:00:01+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "L'Argentine détecte un variant d'hantavirus en Terre de Feu",
