@@ -1,25 +1,55 @@
 {
-  "generated_at": "2026-07-07T01:52:11.510996+00:00",
-  "count": 57,
+  "generated_at": "2026-07-07T09:19:12.388842+00:00",
+  "count": 70,
   "articles": [
     {
-      "title": "Dans l’ancien bassin minier de Carmaux, après les aveux de Cédric Jubillar : «Dit-il enfin la vérité, cette fois ?»",
-      "desc": "L’ex-peintre-plaquiste a reconnu lundi 6 juillet être responsable de la mort de Delphine Aussaguel. «Libération» est retourné dans la région de Cagnac-les-Mines, où vivait le couple avant le drame, saisir les réactions des habitants.",
-      "url": "https://www.liberation.fr/societe/police-justice/dans-lancien-bassin-minier-de-carmaux-apres-les-aveux-de-cedric-jubillar-dit-il-enfin-la-verite-cette-fois-20260706_FUMBFLWJPRBTXJCRV6OM3GKQQA/",
+      "title": "La mortalité périnatale continue d'augmenter en France",
+      "desc": "Elle dépassait 11 naissances pour 1 000 naissances en 2024, d'après un calcul des services statistiques des ministères sociaux.",
+      "url": "https://www.franceinfo.fr/sante/la-mortalite-perinatale-continue-d-augmenter-en-france_8097344.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/iedRJX3STNVv-ZJkcKGeZHasM5w/0x257:5000x3070/432x243/filters:format(jpg)/2026/07/07/6a4c9e94a2340525498445.jpg",
+      "date": "2026-07-07T09:47:07+00:00",
+      "date_formatted": "7 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La mortalité périnatale continue d'augmenter en France",
+      "desc": "La mortalité périnatale a de nouveau progressé en France en 2024, atteignant plus de 11 décès pour 1.000 naissances. Selon une étude publiée mardi par les services statistiques des ministères sociaux, cette hausse confirme une tendance préoccupante.",
+      "url": "https://www.sciencesetavenir.fr/sante/la-mortalite-perinatale-continue-d-augmenter-en-france-11-pour-1-000-naissances-en-2024_193603?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/07/cover-r4x3w1200-6a4ca6df89036-maternite.jpg",
+      "date": "2026-07-07T07:25:41+00:00",
+      "date_formatted": "7 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Inondations en Chine : 15 morts et des centaines de blessés après de violents orages",
+      "desc": "Plus de 50 000 personnes ont été évacuées dans le sud et le centre du pays. Un barrage a cédé dans le Guangxi, tandis qu’un glissement de terrain a enseveli 33 personnes dans la province du Gansu.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/inondations-en-chine-15-morts-et-des-centaines-de-blesses-apres-de-violents-orages-20260707_7PCB7NEYQZEIJBM5WWW6HHNOQA/",
       "image": null,
-      "date": "2026-07-06T19:30:35+00:00",
-      "date_formatted": "6 July 2026",
+      "date": "2026-07-07T06:55:58+00:00",
+      "date_formatted": "7 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "«Il peut très bien nous faire une fable de plus» : les aveux de Cédric Jubillar, la fin de cinq ans de mensonges ?",
-      "desc": "Deux mois avant son procès en appel, le peintre-plaquiste, condamné à trente ans de réclusion criminelle, a avoué à ses avocats avoir été «à l’origine de la mort de son épouse». Du côté des conseils des proches de Delphine Aussaguel, on accueille cet énième rebondissement entre soulagement et méfian",
-      "url": "https://www.liberation.fr/societe/police-justice/il-peut-tres-bien-nous-faire-une-fable-de-plus-les-aveux-de-cedric-jubillar-la-fin-de-cinq-ans-de-mensonges-20260706_F5HYRU4WCVEYDDQB23XLMWJBEY/",
+      "title": "La mortalité périnatale continue d’augmenter en France, et atteint 11 pour 1 000 naissances en 2024, selon la Drees",
+      "desc": "La part d’enfants nés sans vie ou morts dans leur première semaine de vie a encore augmenté, selon une étude publiée ce mardi 7 juillet par les services statistiques des ministères sociaux.",
+      "url": "https://www.liberation.fr/societe/sante/la-mortalite-perinatale-continue-daugmenter-en-france-et-atteint-11-pour-1-000-naissances-en-2024-selon-la-drees-20260707_KZMT23VA3BBX7HD7SWSZLJGYP4/",
       "image": null,
-      "date": "2026-07-06T19:24:13+00:00",
-      "date_formatted": "6 July 2026",
+      "date": "2026-07-07T06:43:57+00:00",
+      "date_formatted": "7 July 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La mortalité périnatale a encore augmenté en France en 2024 à plus de 11 pour 1.000",
+      "desc": "La France a dégringolé dans le classement des pays de l’Union européenne en matière de mortalité périnatale",
+      "url": "https://www.20minutes.fr/sante/4233264-20260707-mortalite-perinatale-encore-augmente-france-2024-plus-11-1-000?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Ai34dDEuTUqpGs7ym-KMvik/1200x768_un-nouveau-ne-avec-sa-maman-le-11-mars-2022-au-service-maternite-de-l-hopital-d-avignon-vaucluse-recoit-les-soins-de-la-part-d-une-infirmiere-benayacheadil-1904-00437-credit-adil-benayache-sipa-2404220904",
+      "date": "2026-07-07T05:38:39+00:00",
+      "date_formatted": "7 July 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -34,7 +64,7 @@
     },
     {
       "title": "La recherche au chevet de la maladie de Charcot : « Face à une pathologie systématiquement mortelle, le statu quo est inacceptable »",
-      "desc": "Pour la première fois, deux traitements parviennent à ralentir l’évolution de la sclérose latérale amyotrophique, qui touche six nouvelles personnes chaque jour en France et entraîne une paralysie qui gagne peu à peu tout le corps, avec un délai moyen de survie de trois à cinq ans après le diagnosti",
+      "desc": "Pour la première fois, deux traitements parviennent à ralentir l’évolution de la sclérose latérale amyotrophique, qui touche six nouvelles personnes chaque jour en France et entraîne une paralysie qui gagne peu à peu tout le corps. La recherche progresse sur ses origines, qui mêlent génétique et fac",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/06/la-recherche-au-chevet-de-la-maladie-de-charcot-face-a-une-pathologie-systematiquement-mortelle-le-statu-quo-est-inacceptable_6721220_1650684.html",
       "image": "https://img.lemde.fr/2026/07/02/380/0/3600/1800/644/322/60/0/51a89f6_upload-1-avac72gfbad0-rea11502072.jpg",
       "date": "2026-07-06T18:00:08+00:00",
@@ -293,16 +323,6 @@
       "type": "presse"
     },
     {
-      "title": "Génération sans tabac, Nutri-Score, casque obligatoire à vélo... Les pistes de l'Assurance-maladie pour résorber son déficit",
-      "desc": "La sécurité sociale formule 40 propositions à l'adresse du gouvernement qui permettraient de réaliser 4 milliards d'euros d'économies en 2027.",
-      "url": "https://www.franceinfo.fr/sante/generation-sans-tabac-nutri-score-casque-obligatoire-a-velo-les-pistes-de-l-assurance-maladie-pour-resorber-son-deficit_8090681.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/wGwa-Lr6dwa2Kd6BNmyx3V1OAH8/0x155:4928x2927/432x243/filters:format(jpg)/2026/07/02/6a469b6ae56e3842595159.jpg",
-      "date": "2026-07-03T07:02:24+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cigarettes, Nutri-Score, vaccins… Les propositions chocs de l’Assurance maladie pour réduire ses dépenses",
       "desc": "Pour freiner la croissance des dépenses de santé, la Cnam veut miser sur la prévention en interdisant, par exemple, la vente de cigarettes aux personnes nées après 2009",
       "url": "https://www.20minutes.fr/societe/4232589-20260703-cigarettes-nutri-score-vaccins-propositions-choc-assurance-maladie-reduire-depenses?at_medium=display&at_campaign=149",
@@ -341,16 +361,6 @@
       "date_formatted": "3 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Le chef de l'Organisation mondiale de la santé déclare la fin de \"la flambée d'hantavirus\" liée au navire de croisière \"MV Hondius\"",
-      "desc": "L'OMS continuera à travailler avec les gouvernements et ses partenaires pour mieux comprendre cet épisode et l'hantavirus.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/le-chef-de-l-oms-declare-la-fin-de-la-flambee-d-hantavirus-liee-au-navire-de-croisiere-mv-hondius_8090396.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/xFoGGmomBpYmqWcSFjoTAWRKzao/0x134:3500x2103/432x243/filters:format(jpg)/2026/07/02/6a4671d759e68260441174.jpg",
-      "date": "2026-07-02T17:52:14+00:00",
-      "date_formatted": "2 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "L’Assurance-maladie plaide pour une interdiction de la vente de cigarettes aux personnes nées après 2009 et l’affichage obligatoire du Nutri-Score",
@@ -563,13 +573,133 @@
       "type": "science"
     },
     {
-      "title": "Essai clinique sauvage : l'affaire Joyeux-Fourtillan",
-      "desc": "Près de 400 patients atteints d'Alzheimer ou de Parkinson auraient participé à un essai non autorisé autour de \"patchs thérapeutiques\", mené par Jean-Bernard Fourtillan et Henri Joyeux. L'affaire, jugée à partir du 25 juin à Paris, remet en lumière les règles strictes qui encadrent aujourd'hui toute",
-      "url": "https://www.sciencesetavenir.fr/sante/des-patchs-therapeutiques-au-tribunal-un-essai-clinique-sauvage_193339?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/22/cover-r4x3w1200-6a3945146db09-williamcho-justice-2060093.jpg",
-      "date": "2026-06-23T08:58:33+00:00",
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
       "date_formatted": "23 June 2026",
-      "source": "Sciences & Avenir",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
