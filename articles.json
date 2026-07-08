@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-08T01:23:11.126730+00:00",
-  "count": 67,
+  "generated_at": "2026-07-08T08:04:15.890053+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Au Venezuela, le bilan du double séisme monte à au moins 3 685 morts",
+      "desc": "Les tremblements de terre du 24 juin ont également fait au moins 16 740 blessés, selon les derniers chiffres avancés par le gouvernement intérimaire.",
+      "url": "https://www.liberation.fr/international/amerique/au-venezuela-le-bilan-du-double-seisme-monte-a-pres-de-3-000-morts-20260705_X7LWUOQT3ZBFXA2MHCBRQXUOUM/",
+      "image": null,
+      "date": "2026-07-08T07:53:06+00:00",
+      "date_formatted": "8 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aide à mourir : le Sénat renonce définitivement à modifier le texte de l’Assemblée nationale",
+      "desc": "Pour la troisième fois, le Palais du Luxembourg a rejeté, mardi, la proposition de loi, la droite sénatoriale, majoritaire avec ses alliés centristes, jugeant les critères retenus par les députés beaucoup trop larges. Ces derniers auront le mot de la fin, le 15 juillet, en vue d’une adoption définit",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/08/aide-a-mourir-le-senat-renonce-definitivement-a-modifier-le-texte-de-l-assemblee-nationale_6721690_3224.html",
+      "image": "https://img.lemde.fr/2026/05/11/451/0/2698/1349/644/322/60/0/c79a4fb_upload-1-l46s5eyxwlrl-capture-d-e-cran-2026-05-11-a-13-27-47.png",
+      "date": "2026-07-08T05:00:04+00:00",
+      "date_formatted": "8 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Mortalité périnatale : malgré des chiffres toujours inquiétants, les causes restent encore à explorer",
       "desc": "En 2024, le nombre d’enfants nés sans vie ou décédés au cours des sept premiers jours, a atteint 11,2 pour 1 000 naissances, contre 10,8 l’année précédente, selon une note de la direction statistique des ministères sociaux.",
@@ -20,26 +40,6 @@
       "date": "2026-07-07T23:00:01+00:00",
       "date_formatted": "7 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Marine Le Pen, une femme politique de la trempe de trompe-la-mort",
-      "desc": "La cheffe du RN a annoncé sa candidature pour 2027 après avoir échappé de justesse à l’inéligibilité à la suite de la décision en appel dans l’affaire des assistants parlementaires européens. En plus de trente ans de carrière, l’héritière et parricide du Front national a vu plus d’une fois venir sa ",
-      "url": "https://www.liberation.fr/politique/elections/marine-le-pen-une-femme-politique-de-la-trempe-de-trompe-la-mort-20260707_HC5O636SL5A4NKLV3SUWFL5RUE/",
-      "image": null,
-      "date": "2026-07-07T19:49:53+00:00",
-      "date_formatted": "7 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Il faut qu’ils puissent enfin faire leur deuil» : les aveux médiatiques de Cédric Jubillar décriés par la famille",
-      "desc": "Après que l’ancien conjoint de Delphine Aussaguel a reconnu avoir été «à l’origine de sa mort» en 2020, les avocats de leurs enfants, qui n’ont pas été avertis en amont, déplorent une «méthode indécente». La cour d’appel de Toulouse prendra mercredi la parole.",
-      "url": "https://www.liberation.fr/societe/police-justice/il-faut-quils-puissent-enfin-faire-leur-deuil-les-aveux-mediatiques-de-cedric-jubillar-decries-par-la-famille-20260707_PK67FKQLXJDLNJE62VJY5PXT6I/",
-      "image": null,
-      "date": "2026-07-07T19:16:00+00:00",
-      "date_formatted": "7 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -253,26 +253,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Elle fait le relais entre nous et ma mère\" : des postiers aident les personnes âgées isolées à faire face à la canicule",
-      "desc": "La ministre de la Santé a révélé ce vendredi matin les derniers chiffres des décès liés à la canicule. Il y aurait eu au moins 2025 morts supplémentaires enregistrées pendant la semaine de très fortes chaleurs. Pour prévenir les risques encourus par les personnes fragiles, le gouvernement a demandé ",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/elle-fait-le-relais-entre-nous-et-ma-mere-des-postiers-aident-les-personnes-agees-isolees-a-faire-face-a-la-canicule_8092496.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Gyh6Z25ZuW74rXHfLmzGF09q3hw/0x25:1505x872/432x243/filters:format(jpg)/2026/07/03/6a47c15190a7d668243184.jpg",
-      "date": "2026-07-03T16:05:21+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Nombre de morts, tranches d'âge, régions concernées... Ce qu'il faut retenir du premier bilan de la canicule du mois de juin",
-      "desc": "Le mois de juin a été marqué par une canicule particulièrement intense, qui a causé une surmortalité entre le lundi 22 et le dimanche 28 juin.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/nombre-de-morts-tranches-d-age-regions-concernees-ce-qu-il-faut-retenir-du-premier-bilan-de-la-canicule-du-mois-de-juin_8091962.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/4-Qi-PHt5GfLIBJp4w1JYi0Sve8/0x53:1024x629/432x243/filters:format(jpg)/2026/07/03/6a4777b9d1c04965327376.jpg",
-      "date": "2026-07-03T14:08:48+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Parkinson : ce pesticide longtemps utilisé est associé à un risque multiplié par 2,5 !",
       "desc": "Déjà connu pour ses effets neurotoxiques, notamment sur le développement cérébral des enfants, le chlorpyrifos pourrait également favoriser l'apparition de la maladie de Parkinson à l'âge adulte. Une nouvelle étude menée par UCLA Health apporte de nouveaux éléments en faveur de ce lien.",
       "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-ce-pesticide-longtemps-utilise-associe-risque-multiplie-25-135876/#xtor%3DRSS-8",
@@ -383,16 +363,6 @@
       "type": "presse"
     },
     {
-      "title": "« Nous pouvons mettre un terme aux maladies raciales d’origine génétique des chiens et des chats »",
-      "desc": "Dans une tribune au « Monde », plus de 135 vétérinaires appellent à interdire la sélection génétique altérant le bien-être des animaux de compagnie. Ils s’indignent des souffrances causées par cette pratique dont l’objectif est de répondre à des effets de mode.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/02/nous-pouvons-mettre-un-terme-aux-maladies-raciales-d-origine-genetique-des-chiens-et-des-chats_6718183_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
-      "date": "2026-07-02T17:00:03+00:00",
-      "date_formatted": "2 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Tabagisme : L’Assurance maladie préconise d’interdire la vente de cigarettes aux jeunes nées après 2009",
       "desc": "Dans son rapport annuel, l’Assurance maladie propose d’interdire la vente de cigarettes aux personnes nées après 2009, comme au Royaume-Uni, et de rendre le Nutri-Score obligatoire",
       "url": "https://www.20minutes.fr/societe/4232470-20260702-tabagisme-assurance-maladie-plaide-interdire-vente-cigarettes-jeunes-nees-apres-2009?at_medium=display&at_campaign=149",
@@ -463,26 +433,6 @@
       "type": "presse"
     },
     {
-      "title": "Fin de vie : la création d’un droit à l’aide à mourir pour des patients atteints d’une affection grave et incurable approuvée pour la troisième fois par les députés",
-      "desc": "Une majorité nette s’est de nouveau dégagée à l’Assemblée nationale en faveur de la proposition de loi, malgré une opposition renforcée. Le vote final est prévu le 15 juillet au Palais-Bourbon, après un probable nouveau rejet par le Sénat.",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/01/fin-de-vie-la-creation-d-un-droit-a-l-aide-a-mourir-pour-des-patients-atteints-d-une-affection-grave-et-incurable-approuvee-pour-la-troisieme-fois-par-les-deputes_6717460_3224.html",
-      "image": "https://img.lemde.fr/2026/06/30/927/0/6694/3347/644/322/60/0/a58eb9e_ftp-1-0k3suwwawxh4-5492084-01-06.jpg",
-      "date": "2026-07-01T06:00:46+00:00",
-      "date_formatted": "1 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : la proposition de loi créant un droit à l’aide à mourir approuvée pour la troisième fois par l’Assemblée",
-      "desc": "Les députés ont approuvé, en troisième lecture, la proposition de loi créant un droit à l’aide à mourir pour des patients atteints d’une affection grave et incurable. Le vote final aura lieu le 15 juillet.",
-      "url": "https://www.lemonde.fr/societe/article/2026/06/30/fin-de-vie-l-assemblee-nationale-approuve-a-nouveau-la-proposition-de-loi-instaurant-un-droit-a-l-aide-a-mourir-le-vote-final-aura-lieu-le-15-juillet_6717297_3224.html",
-      "image": "https://img.lemde.fr/2026/02/25/883/0/7032/3516/644/322/60/0/58dc64e_ftp-1-el9qigzgmvpr-5290286-01-06.jpg",
-      "date": "2026-06-30T17:41:07+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "L'Argentine détecte un variant d'hantavirus en Terre de Feu",
       "desc": "Un nouveau variant d'hantavirus a été détecté chez des souris capturées en Terre de Feu, en Argentine. Les autorités sanitaires précisent qu'il est bien distinct de la souche identifiée à bord du navire de croisière Hondius, responsable de trois décès, et poursuivent leurs investigations pour évalue",
       "url": "https://www.sciencesetavenir.fr/sante/l-argentine-detecte-un-variant-d-hantavirus-en-terre-de-feu_193496?xtor=RSS-16",
@@ -491,16 +441,6 @@
       "date_formatted": "30 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "« Ce n’est pas normal de mourir à 13 ans » : une enquête sanitaire ouverte après trois cas de cancers pédiatriques dans une école de Franconville",
-      "desc": "L’Agence régionale de santé enquête sur des tumeurs signalées chez des élèves d’un établissement du Val-d’Oise construit près d’un ancien site industriel pollué. Les parents de Shiloh Diakité, morte d’un cancer du sein très rare, portent plainte pour homicide involontaire.",
-      "url": "https://www.lemonde.fr/planete/article/2026/06/30/ce-n-est-pas-normal-de-mourir-a-13-ans-une-enquete-sanitaire-ouverte-apres-trois-cas-de-cancers-pediatriques-dans-une-ecole-de-franconville_6717204_3244.html",
-      "image": "https://img.lemde.fr/2026/06/29/385/0/5000/2500/644/322/60/0/1e03151_upload-1-x0479fwczk73-ad004-shiloh-dsc01062.jpg",
-      "date": "2026-06-30T06:00:32+00:00",
-      "date_formatted": "30 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Canicule : de nombreux décès en France mais moins qu'en 2003",
@@ -529,16 +469,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/25/cover-r4x3w1200-6a3cec1fbc646-afp-20260624-b87v8zq-v2-highres-franceweatherclimateheat.jpg",
       "date": "2026-06-25T08:51:44+00:00",
       "date_formatted": "25 June 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancers et maladies cardiovasculaires restent en tête des décès en France",
-      "desc": "Les tumeurs et les maladies cardiovasculaires sont restées en 2024 les premières causes de décès en France, en totalisant près de la moitié à elles seules, selon un bilan annuel publié mardi 23 juin par plusieurs organismes de recherche.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancers-et-maladies-cardiovasculaires-restent-en-tete-des-deces-en-france_193355?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/23/cover-r4x3w1200-6a3a4bad1da0f-sante-publique-francejpg.jpg",
-      "date": "2026-06-23T12:48:49+00:00",
-      "date_formatted": "23 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
