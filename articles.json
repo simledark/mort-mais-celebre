@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-07-08T08:04:15.890053+00:00",
-  "count": 60,
+  "generated_at": "2026-07-08T13:24:42.352791+00:00",
+  "count": 59,
   "articles": [
     {
-      "title": "Au Venezuela, le bilan du double séisme monte à au moins 3 685 morts",
-      "desc": "Les tremblements de terre du 24 juin ont également fait au moins 16 740 blessés, selon les derniers chiffres avancés par le gouvernement intérimaire.",
-      "url": "https://www.liberation.fr/international/amerique/au-venezuela-le-bilan-du-double-seisme-monte-a-pres-de-3-000-morts-20260705_X7LWUOQT3ZBFXA2MHCBRQXUOUM/",
+      "title": "«Un tueur en série» : en Allemagne, un médecin condamné à de la prison à vie pour les meurtres de 15 patients",
+      "desc": "Exerçant en soins palliatifs, le professionnel utilisait des cocktails sédatifs mortels sur ses victimes. Il est suspecté de plusieurs autres homicides dans des enquêtes toujours en cours.",
+      "url": "https://www.liberation.fr/societe/un-tueur-en-serie-en-allemagne-un-medecin-condamne-a-de-la-prison-a-vie-pour-les-meurtres-de-15-patients-20260708_F4UGVAW2LFA7FJGCMGI4TRVXNM/",
       "image": null,
-      "date": "2026-07-08T07:53:06+00:00",
+      "date": "2026-07-08T13:14:01+00:00",
       "date_formatted": "8 July 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "La science biologique, une évolution en soi",
+      "desc": "La biologie contemporaine est en perpétuelle redéfinition, rappelle Stéphane Van Damme dans sa Carte blanche au « Monde », s’appuyant sur deux ouvrages consacrés à cette discipline.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/08/la-science-biologique-une-evolution-en-soi_6721809_1650684.html",
+      "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
+      "date": "2026-07-08T11:30:07+00:00",
+      "date_formatted": "8 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "Aide à mourir : le Sénat renonce définitivement à modifier le texte de l’Assemblée nationale",
@@ -23,8 +33,8 @@
       "type": "presse"
     },
     {
-      "title": "Mortalité périnatale : malgré des chiffres toujours inquiétants, les causes restent encore à explorer",
-      "desc": "En 2024, le nombre d’enfants nés sans vie ou décédés au cours des sept premiers jours, a atteint 11,2 pour 1 000 naissances, contre 10,8 l’année précédente, selon une note de la direction statistique des ministères sociaux.",
+      "title": "Mortalité périnatale : des chiffres toujours inquiétants, et des causes encore à explorer",
+      "desc": "En 2024, le nombre d’enfants nés sans vie ou morts au cours des sept premiers jours, a atteint 11,2 pour 1 000 naissances, contre 10,8 l’année précédente, selon une note de la direction statistique des ministères sociaux.",
       "url": "https://www.lemonde.fr/societe/article/2026/07/08/mortalite-perinatale-malgre-des-chiffres-toujours-inquietants-les-causes-restent-encore-a-explorer_6721555_3224.html",
       "image": "https://img.lemde.fr/2026/07/07/547/0/4619/2309/644/322/60/0/205e49b_upload-1-rco21bt2nlif-000-34fr9f8.jpg",
       "date": "2026-07-08T00:01:09+00:00",
@@ -243,16 +253,6 @@
       "type": "science"
     },
     {
-      "title": "Génération sans cigarette une mesure choc pour les jeunes nés après 2009",
-      "desc": "L’Assurance maladie propose d’interdire la vente de tabac à vie aux personnes nées après 2009 dans l’objectif de créer une génération sans cigarette. Une mesure qui divise les Français et inquiète les buralistes tandis que les cardiologues y voient un levier majeur de prévention.",
-      "url": "https://www.franceinfo.fr/sante/drogue-addictions/lutte-contre-le-tabagisme/generation-sans-cigarette-une-mesure-choc-pour-les-jeunes-nes-apres-2009_8092508.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Nkm9nslDm_lWAdd8xdS-WVXmKPE/0x17:853x497/432x243/filters:format(jpg)/2026/07/03/6a47c22dea363470638966.jpg",
-      "date": "2026-07-03T16:07:44+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Parkinson : ce pesticide longtemps utilisé est associé à un risque multiplié par 2,5 !",
       "desc": "Déjà connu pour ses effets neurotoxiques, notamment sur le développement cérébral des enfants, le chlorpyrifos pourrait également favoriser l'apparition de la maladie de Parkinson à l'âge adulte. Une nouvelle étude menée par UCLA Health apporte de nouveaux éléments en faveur de ce lien.",
       "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-ce-pesticide-longtemps-utilise-associe-risque-multiplie-25-135876/#xtor%3DRSS-8",
@@ -321,16 +321,6 @@
       "date_formatted": "3 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "La mystérieuse chorégraphie des cellules à l’origine de la déformation des tissus",
-      "desc": "Des chercheurs ont élaboré un système permettant d’expliquer l’étirement des tissus cellulaires, un mécanisme basé sur l’intercalation de cellules.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/03/la-mysterieuse-choregraphie-des-cellules-a-l-origine-de-la-deformation-des-tissus_6718458_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/27/255/0/3072/1536/644/322/60/0/0181156_upload-1-st1rkxalzzu6-media-appel-cellule.png",
-      "date": "2026-07-03T06:30:08+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Canicule : Au moins 2.000 décès supplémentaires liés à la chaleur en juin en France",
