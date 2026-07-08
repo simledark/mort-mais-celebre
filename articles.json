@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-07T19:30:04.377688+00:00",
-  "count": 65,
+  "generated_at": "2026-07-08T01:23:11.126730+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title": "Mortalité périnatale : malgré des chiffres toujours inquiétants, les causes restent encore à explorer",
+      "desc": "En 2024, le nombre d’enfants nés sans vie ou décédés au cours des sept premiers jours, a atteint 11,2 pour 1 000 naissances, contre 10,8 l’année précédente, selon une note de la direction statistique des ministères sociaux.",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/08/mortalite-perinatale-malgre-des-chiffres-toujours-inquietants-les-causes-restent-encore-a-explorer_6721555_3224.html",
+      "image": "https://img.lemde.fr/2026/07/07/547/0/4619/2309/644/322/60/0/205e49b_upload-1-rco21bt2nlif-000-34fr9f8.jpg",
+      "date": "2026-07-08T00:01:09+00:00",
+      "date_formatted": "8 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au Yémen, les médecins à bout de souffle",
+      "desc": "Au Yémen, en guerre depuis 2014, les moyens dérisoires du système de santé contraignent les patients atteints de lourdes pathologies à se soigner à l’étranger. Mais peu de pays acceptent de les accueillir et les places s’obtiennent au compte-gouttes.",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-les-medecins-a-bout-de-souffle_8097689.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/MuaJM5-phK6GsjX9xx67WP4D244/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/07/07/6a4cd07ae107f388900891.jpg",
+      "date": "2026-07-07T23:00:01+00:00",
+      "date_formatted": "7 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Marine Le Pen, une femme politique de la trempe de trompe-la-mort",
+      "desc": "La cheffe du RN a annoncé sa candidature pour 2027 après avoir échappé de justesse à l’inéligibilité à la suite de la décision en appel dans l’affaire des assistants parlementaires européens. En plus de trente ans de carrière, l’héritière et parricide du Front national a vu plus d’une fois venir sa ",
+      "url": "https://www.liberation.fr/politique/elections/marine-le-pen-une-femme-politique-de-la-trempe-de-trompe-la-mort-20260707_HC5O636SL5A4NKLV3SUWFL5RUE/",
+      "image": null,
+      "date": "2026-07-07T19:49:53+00:00",
+      "date_formatted": "7 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "«Il faut qu’ils puissent enfin faire leur deuil» : les aveux médiatiques de Cédric Jubillar décriés par la famille",
       "desc": "Après que l’ancien conjoint de Delphine Aussaguel a reconnu avoir été «à l’origine de sa mort» en 2020, les avocats de leurs enfants, qui n’ont pas été avertis en amont, déplorent une «méthode indécente». La cour d’appel de Toulouse prendra mercredi la parole.",
@@ -469,16 +499,6 @@
       "image": "https://img.lemde.fr/2026/06/29/385/0/5000/2500/644/322/60/0/1e03151_upload-1-x0479fwczk73-ad004-shiloh-dsc01062.jpg",
       "date": "2026-06-30T06:00:32+00:00",
       "date_formatted": "30 June 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En RDC, l’épidémie de maladie à virus Ebola s’étend dans tout le nord-est du pays avec une quatrième province affectée",
-      "desc": "Le Haut-Uélé, province frontalière du Soudan du Sud mais aussi de la République centrafricaine, est désormais la quatrième à être touchée par la maladie, après l’Ituri, le Nord-Kivu et le Sud-Kivu.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/06/29/en-rdc-l-epidemie-de-maladie-a-virus-ebola-s-etend-dans-tout-le-nord-est-du-pays-avec-une-quatrieme-province-affectee_6716948_3212.html",
-      "image": "https://img.lemde.fr/2026/06/29/333/0/4000/2000/644/322/60/0/b41a66a_upload-1-qtpkbitmtfad-24-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
-      "date": "2026-06-29T17:46:42+00:00",
-      "date_formatted": "29 June 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
