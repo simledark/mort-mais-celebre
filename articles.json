@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-07-09T14:25:15.355005+00:00",
-  "count": 55,
+  "generated_at": "2026-07-09T19:17:55.789144+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "Ebola : au moins 600 morts en RDC, l’épidémie se propage plus rapidement que les précédentes",
-      "desc": "La crise, officiellement déclarée le 15 mai, pourrait durer encore plusieurs mois selon l’Organisation mondiale de la santé, qui a diffusé jeudi 9 juillet un nouveau bilan. La vitesse de sa diffusion inquiète l’agence de santé de l’Union africaine.",
-      "url": "https://www.liberation.fr/societe/sante/ebola-au-moins-600-morts-et-plus-de-1-700-cas-confirmes-en-rdc-annonce-loms-20260709_JOORLQ7S2RD6PDYSGXLO3JLOVI/",
+      "title": "«Ils m’ont amené ici pour me tuer» : le pédiatre gazaoui Hussam Abu Safiya en danger de mort dans les geôles israéliennes",
+      "desc": "Directeur de l’hôpital Kamal Adwan, dans le nord de Gaza, le médecin a été arrêté en 2024 après avoir refusé d’évacuer l’établissement. Son avocat lui a rendu visite le 2 juillet dans la prison de Rakafet, où il subit des traitements inhumains.",
+      "url": "https://www.liberation.fr/international/ils-mont-amene-ici-pour-me-tuer-le-pediatre-gazaoui-hussam-abu-safiya-en-danger-de-mort-dans-les-geoles-israeliennes-20260709_DT2P4CX6Y5GMJPEAKXLBM3K2CI/",
       "image": null,
-      "date": "2026-07-09T13:59:55+00:00",
+      "date": "2026-07-09T17:04:57+00:00",
       "date_formatted": "9 July 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "RDC : L’épidémie d’Ebola se propage plus rapidement que toutes les précédentes",
+      "desc": "Souvent touchée par des épidémies d’Ebola (17 fois jusqu’à ce jour), la République démocratique du Congo (RDC) fait face à une situation plus dangereuse que jamais",
+      "url": "https://www.20minutes.fr/monde/4233797-20260709-epidemie-actuelle-ebola-propage-plus-rapidement-toutes-precedentes?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/ZltGGidITB-GZ4YnUSHZRCk/1200x768_des-agents-de-sante-interagissent-au-centre-medical-evangelique-de-bunia-dans-l-est-du-congo-le-vendredi-3-juillet-2026-ou-des-essais-cliniques-sur-le-virus-ebola-sont-prevus-ap-photo-dirole-lotsima-dieudonne-nin109-26185611765469-2607050702",
+      "date": "2026-07-09T14:38:46+00:00",
+      "date_formatted": "9 July 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -20,16 +30,6 @@
       "date": "2026-07-09T13:30:37+00:00",
       "date_formatted": "9 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Festival d’Avignon : dans le beau «Le deuil sied à Electre», Gwenaël Morin en état de sobriété",
-      "desc": "Dans le jardin de la Maison Jean-Vilar, le metteur en scène adapte en «arte povera» une pièce d’Eugène O’Neill, qui transpose la tragédie grecque dans l’Amérique de la guerre de Secession. Dramatique et jouissif.",
-      "url": "https://www.liberation.fr/culture/festival-davignon-dans-le-beau-le-deuil-sied-a-electre-gwenael-morin-en-etat-de-sobriete-20260709_LFLCX3JEFRFL5BJDB5RHOC6RQA/",
-      "image": null,
-      "date": "2026-07-09T13:23:07+00:00",
-      "date_formatted": "9 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -71,16 +71,6 @@
       "date_formatted": "9 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Un suicide par heure en France : des professionnels de santé interpellent le gouvernement",
-      "desc": "Les auteurs de cette lettre adressée ce jeudi 9 juillet à l’exécutif pointent l’ampleur du phénomène en France et appellent l’Etat à mobiliser davantage de moyens sur la prévention.",
-      "url": "https://www.liberation.fr/societe/sante/un-suicide-par-heure-en-france-des-professionnels-de-sante-interpellent-le-gouvernement-20260709_73SVSFSNZFFRRDBQ23EM6TZMNY/",
-      "image": null,
-      "date": "2026-07-09T10:46:44+00:00",
-      "date_formatted": "9 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Son corps se retourne contre lui : Bryan Johnson, le milliardaire qui veut rajeunir, est atteint d’une maladie auto-immune",
@@ -371,16 +361,6 @@
       "date_formatted": "3 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Cigarettes, Nutri-Score, vaccins… Les propositions chocs de l’Assurance maladie pour réduire ses dépenses",
-      "desc": "Pour freiner la croissance des dépenses de santé, la Cnam veut miser sur la prévention en interdisant, par exemple, la vente de cigarettes aux personnes nées après 2009",
-      "url": "https://www.20minutes.fr/societe/4232589-20260703-cigarettes-nutri-score-vaccins-propositions-choc-assurance-maladie-reduire-depenses?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Zz2qvcfwRHKERnW64IO-VSk/1200x768_twenty-euro-banknote-and-health-insurance-card-in-veranne-france-on-november-16-2025-billet-de-banque-de-vingt-euros-et-carte-vitale-a-veranne-en-france-le-16-novembre-2025-doucelinromain-douce2446-credit-romain-doucelin-sipa-2511171033",
-      "date": "2026-07-03T06:52:06+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Jusqu'à un adulte sur trois est touché par la MASLD",
