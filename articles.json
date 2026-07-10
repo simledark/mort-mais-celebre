@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-10T08:56:55.538669+00:00",
-  "count": 53,
+  "generated_at": "2026-07-10T13:51:54.131018+00:00",
+  "count": 48,
   "articles": [
+    {
+      "title": "Dépistage génétique préconceptionnel : l’Académie de médecine recommande d’ouvrir l’accès aux couples sans antécédents familiaux",
+      "desc": "Le dépistage génétique préconceptionnel consiste à tester les deux membres d’un couple pour voir s’ils sont à risque élevé d’avoir un enfant atteint d’une telle maladie et, si c’est le cas, à les informer des choix possibles.",
+      "url": "https://www.lemonde.fr/sante/article/2026/07/10/depistage-genetique-preconceptionnel-l-academie-de-medecine-recommande-d-ouvrir-l-acces-aux-couples-sans-antecedents-familiaux_6722448_1651302.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/4851c4d_upload-1-fkmv0fsx3cfw-frame-252.jpg",
+      "date": "2026-07-10T14:53:39+00:00",
+      "date_formatted": "10 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Espagne : au moins 12 personnes mortes et 23 portées disparues après un feu de forêt près d’Almería, en Andalousie",
+      "desc": "L’incendie s’est déclenché en fin de journée jeudi dans le sud du pays. Dramatique, le bilan dépasse celui de l’ensemble de 2025.",
+      "url": "https://www.liberation.fr/international/europe/espagne-douze-personnes-meurent-dans-un-feu-de-foret-pres-dalmeria-en-andalousie-20260710_NOJSKRUY6JFC3CMC7EU2WX2CRE/",
+      "image": null,
+      "date": "2026-07-10T13:14:26+00:00",
+      "date_formatted": "10 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Vieillir en bonne santé : voici la vitamine que des chercheurs américains identifient comme une clé selon une étude",
       "desc": "On la croyait cantonnée aux globules rouges et aux nerfs. La vitamine B12 jouerait en réalité un rôle bien plus profond dans la façon dont notre corps produit de l'énergie et entretient ses muscles. Une découverte qui pourrait éclairer les mécanismes du vieillissement.",
@@ -21,46 +41,6 @@
       "date_formatted": "10 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Espagne : au moins 11 personnes mortes et 23 portées disparues après un feu de forêt près d’Almería, en Andalousie",
-      "desc": "L’incendie s’est déclenché en fin de journée jeudi dans le sud du pays. Dramatique, le bilan dépasse celui de l’ensemble de 2025.",
-      "url": "https://www.liberation.fr/international/europe/espagne-douze-personnes-meurent-dans-un-feu-de-foret-pres-dalmeria-en-andalousie-20260710_NOJSKRUY6JFC3CMC7EU2WX2CRE/",
-      "image": null,
-      "date": "2026-07-10T08:27:06+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le Mexique annonce engager des poursuites pénales pour la mort de ses ressortissants tués par l’ICE",
-      "desc": "Depuis le retour de Donald Trump à la Maison Blanche en janvier 2025, 17 Mexicains sont morts dans les centres de la police de l’immigration ou lors d’opérations policières.",
-      "url": "https://www.liberation.fr/international/amerique/le-mexique-annonce-engager-des-poursuites-penales-pour-la-mort-de-ses-ressortissants-tues-par-lice-20260710_ONMXBK2PLZF6FL7JM6WSOB4A4M/",
-      "image": null,
-      "date": "2026-07-10T07:50:27+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’une adolescente en marge des célébrations de la victoire des Bleus face au Maroc",
-      "desc": "La jeune fille de 17 ans était montée sur un camion, lors d’une soirée de liesse à Aulnoye-Aymeries (Nord), dans la nuit de jeudi à vendredi.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-dune-adolescente-en-marge-des-celebrations-de-la-victoire-des-bleus-face-au-maroc-20260710_WGEVZKA5XBBC7IXPKI3PBQCOHI/",
-      "image": null,
-      "date": "2026-07-10T07:19:48+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Victoire des Bleus, la canicule s’intensifie, douze morts dans un feu en Espagne… L’actu de ce vendredi 10 juillet au matin",
-      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
-      "url": "https://www.liberation.fr/international/europe/victoire-des-bleus-la-canicule-sintensifie-douze-morts-dans-un-feu-en-espagne-lactu-de-ce-vendredi-10-juillet-au-matin-20260710_OXAJOTDUB5B5TPKID3OAJRZWLI/",
-      "image": null,
-      "date": "2026-07-10T05:47:37+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "RDC : L’épidémie d’Ebola se propage plus rapidement que toutes les précédentes",
@@ -183,6 +163,16 @@
       "type": "presse"
     },
     {
+      "title": "Pourquoi certaines personnes supportent-elles mieux la canicule ? La science a plusieurs réponses",
+      "desc": "Pourquoi certains semblent traverser les vagues de chaleur sans difficulté, tandis que d'autres souffrent rapidement de malaises ou d'épuisement ? Si l'âge ou les maladies chroniques expliquent une partie des différences, les chercheurs explorent aussi une autre piste : celle de la génétique.",
+      "url": "https://www.futura-sciences.com/sante/actualites/genetique-certaines-personnes-supportent-elles-mieux-canicules-genes-jouent-role-mais-sont-loin-etre-seuls-responsables-135980/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/7/e/77e3d16f01_50257777_mal-supporter-canicule.jpg",
+      "date": "2026-07-07T17:07:41+00:00",
+      "date_formatted": "7 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
       "title": "Une étude met en lumière l'impact inattendu du sucre sur le vieillissement du cerveau",
       "desc": "Des chercheurs suggèrent qu’une glycémie élevée est associée à une accélération du vieillissement cérébral. Or, un vieillissement prématuré du cerveau augmente le risque de pertes de mémoire précoces et de déclin cognitif.",
       "url": "https://www.futura-sciences.com/sante/actualites/cerveau-etude-met-lumiere-impact-inattendu-sucre-vieillissement-cerveau-135956/#xtor%3DRSS-8",
@@ -273,16 +263,6 @@
       "type": "science"
     },
     {
-      "title": "\"On peut aller plus loin \" dans la lutte contre le tabac \"et c'est de notre responsabilité\", estime le directeur de l'Assurance-maladie",
-      "desc": "Thomas Fatôme souhaite interdire la vente de cigarettes aux personnes nées après 2009, et ainsi créer une génération \"sans-tabac\".",
-      "url": "https://www.franceinfo.fr/sante/lutte-contre-le-tabac-on-peut-aller-plus-loin-et-c-est-de-notre-responsabilite-estime-le-directeur-general-de-l-assurance-maladie_8095793.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/wRXVtPPLMlU97_O0aRpTjMIsv24/0x0:2100x1181/432x243/filters:format(jpg):quality(50)/2026/04/22/69e89e63dd242050162901.jpg",
-      "date": "2026-07-06T09:10:49+00:00",
-      "date_formatted": "6 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Risque doublé de démence : voici le facteur surprenant identifié par des chercheurs de l'Université d'Oxford",
       "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
       "url": "https://www.futura-sciences.com/sante/actualites/demence-risque-double-demence-voici-facteur-surprenant-identifie-chercheurs-universite-oxford-w2t8-135889/#xtor%3DRSS-8",
@@ -313,26 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Des médicaments fonctionnant comme un cheval de Troie pourraient révolutionner la lutte contre le cancer",
-      "desc": "Un médicament qui s'infiltre dans les cellules cancéreuses pour les détruire de l'intérieur, tel un cheval de Troie. L'image a marqué les esprits lors des premiers essais d'un traitement actif contre six types de cancers. Retour sur une approche qui, depuis, a tenu ses promesses.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-medicaments-fonctionnant-comme-cheval-troie-pourraient-revolutionner-lutte-cancer-k2m6-135836/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/3/e/53e9a88339_50257502_medicament-anti-cancer.jpg",
-      "date": "2026-07-04T10:00:00+00:00",
-      "date_formatted": "4 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Voici le coupable insoupçonné de notre alimentation qu'une étude associe au cancer du poumom",
-      "desc": "Une découverte scientifique révèle que notre régime alimentaire pourrait influencer le risque de cancer du poumon. Qui aurait pensé que ce que nous mangeons joue un rôle dans cette maladie traditionnellement associée au tabagisme ? Des chercheurs américains viennent d'identifier un lien entre le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-voici-coupable-insoupconne-notre-alimentation-quune-etude-associe-cancer-poumom-w2t8-135853/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/0/5/7058c2848e_50232906_cancer-poumon-regime-alimentaire.jpg",
-      "date": "2026-07-04T09:00:00+00:00",
-      "date_formatted": "4 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Le chiffre du jour : Au moins 2.000 morts liés à la canicule de juin en France",
       "desc": "Le chiffre du jour : Au moins 2.000 morts liés à la canicule de juin en France",
       "url": "https://www.20minutes.fr/tv/videos/4232746-20260703-chiffre-jour-moins-2-000-morts-lies-canicule-juin-france?at_medium=display&at_campaign=149",
@@ -351,16 +311,6 @@
       "date_formatted": "3 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Canicule de juin 2026 : les décès ont augmenté de presque 30 %, selon Santé publique France",
-      "desc": "La tendance est particulièrement frappante en Ile-de-France, avec une hausse de plus de 62 % des décès sur la semaine dernière. Une progression semblable a été signalée dans les Pays de la Loire.",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/03/canicule-de-juin-les-deces-ont-augmente-de-presque-30-selon-sante-publique-france_6718477_3224.html",
-      "image": "https://img.lemde.fr/2026/06/26/1089/0/5000/2500/644/322/60/0/8bca85c_upload-1-6bu8uv2aeqt2-kzihnioglu-soc-metz-hopital-26062026-086.JPG",
-      "date": "2026-07-03T10:00:01+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "France : pic de mortalité lors de la canicule",
