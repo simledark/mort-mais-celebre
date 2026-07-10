@@ -1,14 +1,64 @@
 {
-  "generated_at": "2026-07-10T01:29:08.170089+00:00",
-  "count": 40,
+  "generated_at": "2026-07-10T08:56:55.538669+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "Mort de Páola Revenióti, monument des luttes LGBT + en Grèce",
-      "desc": "Editrice, photographe, documentariste, ex-travailleuse du sexe… Les milieux progressistes saluent la voie ouverte, dans un pays très conservateur, par cette activiste trans, morte d’un cancer à 68 ans jeudi 9 juillet.",
-      "url": "https://www.liberation.fr/international/europe/mort-de-paola-revenioti-monument-des-luttes-lgbt-en-grece-20260709_M6UNDZHW5RFFVCJKKUK6KFSZ7Q/",
+      "title": "Vieillir en bonne santé : voici la vitamine que des chercheurs américains identifient comme une clé selon une étude",
+      "desc": "On la croyait cantonnée aux globules rouges et aux nerfs. La vitamine B12 jouerait en réalité un rôle bien plus profond dans la façon dont notre corps produit de l'énergie et entretient ses muscles. Une découverte qui pourrait éclairer les mécanismes du vieillissement.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vitamines-vieillir-bonne-sante-voici-vitamine-chercheurs-americains-identifient-comme-cle-selon-etude-k2m6-136017/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/b/0/7b0fced66e_50257800_vitamine-bien-vieillir.jpg",
+      "date": "2026-07-10T10:00:00+00:00",
+      "date_formatted": "10 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "L'épidémie d'Ebola en RDC se propage plus rapidement que toutes les précédentes",
+      "desc": "En RDC, l’épidémie d’Ebola progresse à une vitesse inédite, avec un bilan humain déjà très lourd selon l’OMS et l’Africa CDC.",
+      "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-d-ebola-en-rdc-se-propage-plus-rapidement-que-toutes-les-precedentes-selon-l-agence-de-sante-de-l-ua_193665?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/10/cover-r4x3w1200-6a50a8079a1d5-ebola4.jpg",
+      "date": "2026-07-10T08:28:54+00:00",
+      "date_formatted": "10 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Espagne : au moins 11 personnes mortes et 23 portées disparues après un feu de forêt près d’Almería, en Andalousie",
+      "desc": "L’incendie s’est déclenché en fin de journée jeudi dans le sud du pays. Dramatique, le bilan dépasse celui de l’ensemble de 2025.",
+      "url": "https://www.liberation.fr/international/europe/espagne-douze-personnes-meurent-dans-un-feu-de-foret-pres-dalmeria-en-andalousie-20260710_NOJSKRUY6JFC3CMC7EU2WX2CRE/",
       "image": null,
-      "date": "2026-07-09T19:13:14+00:00",
-      "date_formatted": "9 July 2026",
+      "date": "2026-07-10T08:27:06+00:00",
+      "date_formatted": "10 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le Mexique annonce engager des poursuites pénales pour la mort de ses ressortissants tués par l’ICE",
+      "desc": "Depuis le retour de Donald Trump à la Maison Blanche en janvier 2025, 17 Mexicains sont morts dans les centres de la police de l’immigration ou lors d’opérations policières.",
+      "url": "https://www.liberation.fr/international/amerique/le-mexique-annonce-engager-des-poursuites-penales-pour-la-mort-de-ses-ressortissants-tues-par-lice-20260710_ONMXBK2PLZF6FL7JM6WSOB4A4M/",
+      "image": null,
+      "date": "2026-07-10T07:50:27+00:00",
+      "date_formatted": "10 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’une adolescente en marge des célébrations de la victoire des Bleus face au Maroc",
+      "desc": "La jeune fille de 17 ans était montée sur un camion, lors d’une soirée de liesse à Aulnoye-Aymeries (Nord), dans la nuit de jeudi à vendredi.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-dune-adolescente-en-marge-des-celebrations-de-la-victoire-des-bleus-face-au-maroc-20260710_WGEVZKA5XBBC7IXPKI3PBQCOHI/",
+      "image": null,
+      "date": "2026-07-10T07:19:48+00:00",
+      "date_formatted": "10 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Victoire des Bleus, la canicule s’intensifie, douze morts dans un feu en Espagne… L’actu de ce vendredi 10 juillet au matin",
+      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
+      "url": "https://www.liberation.fr/international/europe/victoire-des-bleus-la-canicule-sintensifie-douze-morts-dans-un-feu-en-espagne-lactu-de-ce-vendredi-10-juillet-au-matin-20260710_OXAJOTDUB5B5TPKID3OAJRZWLI/",
+      "image": null,
+      "date": "2026-07-10T05:47:37+00:00",
+      "date_formatted": "10 July 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -233,26 +283,6 @@
       "type": "presse"
     },
     {
-      "title": "Atteint de la maladie de Charcot, il retrouve la parole grâce à un implant cérébral",
-      "desc": "Julien Ménielle nous raconte l'histoire de Casey Harrell, un Américain atteint de la maladie de Charcot, qui a retrouvé une partie de son autonomie grâce à un implant cérébral et à l'intelligence artificielle.",
-      "url": "https://www.franceinfo.fr/sante/atteint-de-la-maladie-de-charcot-il-retrouve-la-parole-grace-a-un-implant-cerebral_8092544.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Fi7pv5jtrXe6__nPIEwsJcKpa_s/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/03/6a47c2d5eea5a720416528.jpg",
-      "date": "2026-07-05T16:00:04+00:00",
-      "date_formatted": "5 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Atteint de la maladie de Charcot, il retrouve la parole grâce à un implant cérébral",
-      "desc": "En 2023, un Américain atteint d'une sclérose latérale amyotrophique, appelée aussi maladie de Charcot, a participé à l'essai clinique BrainGate 2. Grâce à un implant cérébral il a retrouvé en partie l'autonomie qu'il avait perdue.",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/atteint-de-la-maladie-de-charcot-il-retrouve-la-parole-grace-a-un-implant-cerebral_8061557.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mIA9BRNmrjqTQdSNSMqBB6PyeC8/0x111:3431x2041/432x243/filters:format(jpg):quality(50)/2026/07/02/6a4687ef98178613107039.jpg",
-      "date": "2026-07-05T10:00:04+00:00",
-      "date_formatted": "5 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Risque doublé de démence : voici le facteur surprenant identifié par des chercheurs de l'Université d'Oxford",
       "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
       "url": "https://www.futura-sciences.com/sante/actualites/demence-risque-double-demence-voici-facteur-surprenant-identifie-chercheurs-universite-oxford-w2t8-135889/#xtor%3DRSS-8",
@@ -311,26 +341,6 @@
       "date_formatted": "3 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Notre intestin garde la trace invisible de l’agriculture moderne : ce que cela change pour votre santé",
-      "desc": "Les sols agricoles, appauvris par des décennies d’intensification, perdent leur capacité à nourrir les plantes. Résultat : des aliments moins nutritifs et des microbiotes intestinaux déséquilibrés, favorisant les maladies chroniques. L’approche « One Health », qui révèle les liens étroits entre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/microbiotes-notre-intestin-garde-trace-invisible-agriculture-moderne-ce-cela-change-votre-sante-135818/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/e/d/6edc9b19b3_50257601_microbiote-lien-agriculture.jpg",
-      "date": "2026-07-03T17:07:43+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Parkinson : ce pesticide longtemps utilisé est associé à un risque multiplié par 2,5 !",
-      "desc": "Déjà connu pour ses effets neurotoxiques, notamment sur le développement cérébral des enfants, le chlorpyrifos pourrait également favoriser l'apparition de la maladie de Parkinson à l'âge adulte. Une nouvelle étude menée par UCLA Health apporte de nouveaux éléments en faveur de ce lien.",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-ce-pesticide-longtemps-utilise-associe-risque-multiplie-25-135876/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/6/2/a620a43342_50257579_pesticides-parkinson.jpg",
-      "date": "2026-07-03T12:15:59+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Le cerveau peut s’améliorer à n’importe quel âge",
@@ -393,13 +403,133 @@
       "type": "science"
     },
     {
-      "title": "Un spray nasal pour améliorer la mémoire ?",
-      "desc": "Cette nouvelle approche, testée avec succès chez des souris âgées, diminue l’inflammation chronique liée à l’âge et protège la cognition.",
-      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/un-spray-nasal-pour-ameliorer-la-memoire_193417?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/25/cover-r4x3w1200-6a3d5d26b4c45-afp-20201117-dpa-pa-201117-99-365246-dpai-v1-highres-coronavirusretirementhome.jpg",
-      "date": "2026-06-26T12:00:00+00:00",
-      "date_formatted": "26 June 2026",
-      "source": "Sciences & Avenir",
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
