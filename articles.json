@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-11T12:47:46.351800+00:00",
-  "count": 50,
+  "generated_at": "2026-07-11T18:41:32.849817+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "Pourquoi cet homme génétiquement destiné à Alzheimer y a-t-il échappé ? Voici l'hypothèse fascinante des chercheurs",
+      "desc": "Génétiquement condamné à développer Alzheimer avant 60 ans, comme presque toute sa famille, cet Américain de 75 ans reste pourtant l'esprit vif. Le facteur qui l'aurait protégé ? Une vie passée dans la chaleur des salles des machines. Une piste inédite pour la recherche.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-cet-homme-genetiquement-destine-alzheimer-y-t-il-echappe-voici-hypothese-fascinante-chercheurs-k2m6-136075/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/9/d/79dd893930_50257883_genetique-alzheimer.jpg",
+      "date": "2026-07-11T18:00:00+00:00",
+      "date_formatted": "11 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN IMAGES - Les violents feux de forêt près d’Almería en Espagne",
+      "desc": "Les paysages de la province d’Almería se sont transformés en tableaux sinistres. Au moins 12 personnes sont mortes et plus de 6 000 hectares sont partis en fumée.",
+      "url": "https://www.liberation.fr/culture/photographie/en-images-terres-cramees-en-espagne-20260711_JWNVHUMYRNF3DLYJFRAA5WYQLU/",
+      "image": null,
+      "date": "2026-07-11T17:47:04+00:00",
+      "date_formatted": "11 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Relief escarpé, végétation sèche, résidents non hispanophones… En Espagne, autour de Los Gallardos, une région dans le piège de l’incendie",
+      "desc": "Dans la province d’Almería, tous les ingrédients de la catastrophe étaient réunis avant le début de l’incendie, jeudi 9 juillet. Au moins 12 personnes sont mortes et plus de 6 000 hectares sont partis en fumée.",
+      "url": "https://www.liberation.fr/international/europe/relief-escarpe-vegetation-seche-residents-non-hispanophones-en-espagne-autour-de-los-gallardos-une-region-dans-le-piege-de-lincendie-20260711_FZ3LCRJHP5HEPMJ6XQTYUCOHZU/",
+      "image": null,
+      "date": "2026-07-11T16:31:32+00:00",
+      "date_formatted": "11 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Que ma tombe fasse perdurer le scandale !» : un sketch de catin sur Grisélidis Réal joué au cimetière de Genève",
+      "desc": "Avant de mourir d’un cancer en 2005, la Suisse – la «catin révolutionnaire» – avait émis le vœu que sa stèle soit un lieu de «transgression des tabous». Les Balades théâtralisées lui consacrent, vers sa sépulture, un sketch-hommage.",
+      "url": "https://www.liberation.fr/lifestyle/intimites/que-ma-tombe-fasse-perdurer-le-scandale-un-sketch-de-catin-sur-griselidis-real-joue-au-cimetiere-de-geneve-20260711_447XD27R6BFQ3OU27ZZIHL5LTE/",
+      "image": null,
+      "date": "2026-07-11T14:28:48+00:00",
+      "date_formatted": "11 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Le guide suprême iranien Mojtaba Khamenei affirme que «la vengeance de la mort de son père doit s’accomplir inévitablement»",
       "desc": "Ali Khamenei a été tué fin février dans des frappes américano-israéliennes.",
@@ -213,16 +253,6 @@
       "type": "presse"
     },
     {
-      "title": "Au Yémen, les médecins à bout de souffle",
-      "desc": "Au Yémen, en guerre depuis 2014, les moyens dérisoires du système de santé contraignent les patients atteints de lourdes pathologies à se soigner à l’étranger. Mais peu de pays acceptent de les accueillir et les places s’obtiennent au compte-gouttes.",
-      "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-les-medecins-a-bout-de-souffle_8097689.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/M-lV2yi6Cym0fnQlbf4CXIgj5kc/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/07/6a4cd07ae107f388900891.jpg",
-      "date": "2026-07-07T23:00:01+00:00",
-      "date_formatted": "7 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Pourquoi certaines personnes supportent-elles mieux la canicule ? La science a plusieurs réponses",
       "desc": "Pourquoi certains semblent traverser les vagues de chaleur sans difficulté, tandis que d'autres souffrent rapidement de malaises ou d'épuisement ? Si l'âge ou les maladies chroniques expliquent une partie des différences, les chercheurs explorent aussi une autre piste : celle de la génétique.",
       "url": "https://www.futura-sciences.com/sante/actualites/genetique-certaines-personnes-supportent-elles-mieux-canicules-genes-jouent-role-mais-sont-loin-etre-seuls-responsables-135980/#xtor%3DRSS-8",
@@ -309,16 +339,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/5/1/4510ce1c47_50257593_demence-alzheimer-femmes.jpg",
       "date": "2026-07-06T10:00:00+00:00",
       "date_formatted": "6 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Risque doublé de démence : voici le facteur surprenant identifié par des chercheurs de l'Université d'Oxford",
-      "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-risque-double-demence-voici-facteur-surprenant-identifie-chercheurs-universite-oxford-w2t8-135889/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/a/f/bafcbedc43_50232560_audition-demence-alzheimer.jpg",
-      "date": "2026-07-05T09:00:00+00:00",
-      "date_formatted": "5 July 2026",
       "source": "Futura Santé",
       "type": "science"
     },
