@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-11T07:29:17.156700+00:00",
+  "generated_at": "2026-07-11T12:47:46.351800+00:00",
   "count": 50,
   "articles": [
+    {
+      "title": "Le guide suprême iranien Mojtaba Khamenei affirme que «la vengeance de la mort de son père doit s’accomplir inévitablement»",
+      "desc": "Ali Khamenei a été tué fin février dans des frappes américano-israéliennes.",
+      "url": "https://www.liberation.fr/international/moyen-orient/le-guide-supreme-iranien-mojtaba-khamenei-affirme-que-la-vengeance-de-la-mort-de-son-pere-doit-saccomplir-inevitablement-20260711_257OTNYDURB6VBWOSSLS3JZX6I/",
+      "image": null,
+      "date": "2026-07-11T12:36:26+00:00",
+      "date_formatted": "11 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Arrêt maladie : Fini les longues prescriptions, voici ce que change la nouvelle règle dès septembre",
+      "desc": "Dès la rentrée 2026, les prescriptions d’arrêt maladie seront plus encadrées. Une évolution qui concernera patients et employeurs",
+      "url": "https://www.20minutes.fr/vie-pro/4233498-20260711-arret-maladie-fini-longues-prescriptions-voici-change-nouvelle-regle-septembre?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/oxxktU_yRauJ0zwd6eCrlyk/1200x768_photo-illustration-arret-de-travail-d-un-medecin-07allilimages-il1959-credit-mourad-allili-sipa-2507291006",
+      "date": "2026-07-11T11:02:36+00:00",
+      "date_formatted": "11 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Lien avec les cancers de la peau, résidus dans le sang... Les crèmes solaires injustement accusées de tous les maux sur les réseaux sociaux",
       "desc": "Plusieurs publications mettent en avant des études scientifiques pour inciter les internautes à ne plus utiliser de crème solaire. Mais ces vidéos détournent les conclusions de ces travaux et ne mentionnent pas la règlementation en vigueur.",
@@ -20,16 +40,6 @@
       "date": "2026-07-10T19:39:00+00:00",
       "date_formatted": "10 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Royaume-Uni : la police ouvre une enquête pour meurtre après la mort de l’ancienne députée Ann Widdecombe",
-      "desc": "Le corps de l’ancienne députée conservatrice pro-Brexit, devenue porte-parole du parti d’extrême droite Reform UK, a été retrouvé sans vie, présentant de «graves blessures». Un homme de 26 ans a été arrêté.",
-      "url": "https://www.liberation.fr/international/europe/royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-de-lancienne-deputee-ann-widdecombe-20260710_IIOTZLJ76VAEDGMBP2KHZBJ72Y/",
-      "image": null,
-      "date": "2026-07-10T19:34:12+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -309,16 +319,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/a/f/bafcbedc43_50232560_audition-demence-alzheimer.jpg",
       "date": "2026-07-05T09:00:00+00:00",
       "date_formatted": "5 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Patient bizarre : elle entend des voix qui lui répètent d’aller consulter, ce que les médecins découvrent est troublant",
-      "desc": "Une femme de 40 ans a soudainement commencé à entendre des voix l’incitant à aller se faire soigner pour une tumeur au cerveau. On lui diagnostique d’abord une psychose. Mais le traitement ne fait pas disparaître les voix. Elle insiste auprès des médecins pour se faire prescrire un scanner...",
-      "url": "https://www.futura-sciences.com/sante/actualites/psychologie-patient-bizarre-elle-entend-voix-lui-repetent-aller-consulter-ce-medecins-decouvrent-troublant-135770/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/b/6/0b6eacf95f_50257407_oreille-voix-bruit.jpg",
-      "date": "2026-07-04T20:01:40+00:00",
-      "date_formatted": "4 July 2026",
       "source": "Futura Santé",
       "type": "science"
     },
