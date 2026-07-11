@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-07-10T19:12:41.499886+00:00",
-  "count": 49,
+  "generated_at": "2026-07-11T01:22:39.986400+00:00",
+  "count": 50,
   "articles": [
     {
       "title": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse record",
-      "desc": "La maladie se répand plus rapidement que les 16 épidémies précédentes qu’a connu le pays depuis l’identification d’Ebola en 1976. Le gouvernement assure agir avec force, ce dont doutent de nombreux acteurs de terrain.",
+      "desc": "La maladie se répand plus rapidement que les 16 épidémies précédentes qu’a connues le pays depuis l’identification d’Ebola en 1976. Le gouvernement assure agir avec force, ce dont doutent de nombreux acteurs de terrain.",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
       "image": "https://img.lemde.fr/2026/06/29/528/0/4000/2000/644/322/60/0/b6a626a_upload-1-djcod4jwmzbj-33-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
       "date": "2026-07-10T19:39:00+00:00",
       "date_formatted": "10 July 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Royaume-Uni : la police ouvre une enquête pour meurtre après la mort de l’ancienne députée Ann Widdecombe",
+      "desc": "Le corps de l’ancienne députée conservatrice pro-Brexit, devenue porte-parole du parti d’extrême droite Reform UK, a été retrouvé sans vie, présentant de «graves blessures». Un homme de 26 ans a été arrêté.",
+      "url": "https://www.liberation.fr/international/europe/royaume-uni-la-police-ouvre-une-enquete-pour-meurtre-apres-la-mort-de-lancienne-deputee-ann-widdecombe-20260710_IIOTZLJ76VAEDGMBP2KHZBJ72Y/",
+      "image": null,
+      "date": "2026-07-10T19:34:12+00:00",
+      "date_formatted": "10 July 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
