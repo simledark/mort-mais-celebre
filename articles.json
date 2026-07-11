@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-11T01:22:39.986400+00:00",
+  "generated_at": "2026-07-11T07:29:17.156700+00:00",
   "count": 50,
   "articles": [
     {
-      "title": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse record",
+      "title": "Lien avec les cancers de la peau, résidus dans le sang... Les crèmes solaires injustement accusées de tous les maux sur les réseaux sociaux",
+      "desc": "Plusieurs publications mettent en avant des études scientifiques pour inciter les internautes à ne plus utiliser de crème solaire. Mais ces vidéos détournent les conclusions de ces travaux et ne mentionnent pas la règlementation en vigueur.",
+      "url": "https://www.franceinfo.fr/sante/lien-avec-les-cancers-de-la-peau-residus-dans-le-sang-les-cremes-solaires-injustement-accusees-de-tous-les-maux-sur-les-reseaux-sociaux_8092472.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/UOxsBpjM6pXUQAflwRiXlQdC1Jk/409x530:2611x1769/432x243/filters:format(jpg):quality(50)/2026/07/11/6a51eb43c1b78377559422.jpg",
+      "date": "2026-07-11T09:07:38+00:00",
+      "date_formatted": "11 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse inédite",
       "desc": "La maladie se répand plus rapidement que les 16 épidémies précédentes qu’a connues le pays depuis l’identification d’Ebola en 1976. Le gouvernement assure agir avec force, ce dont doutent de nombreux acteurs de terrain.",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
       "image": "https://img.lemde.fr/2026/06/29/528/0/4000/2000/644/322/60/0/b6a626a_upload-1-djcod4jwmzbj-33-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
@@ -31,16 +41,6 @@
       "date_formatted": "10 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«Terrible, très complexe, très rapide dans sa propagation» : dans le sud de l’Espagne, un incendie fait au moins 12 morts",
-      "desc": "L’Andalousie fait face à l’un des pires feux recensés dans le pays. Les victimes seraient en majorité des Britanniques en vacances dans la province d’Almería et 23 personnes sont encore portées disparues.",
-      "url": "https://www.liberation.fr/international/europe/terrible-tres-complexe-tres-rapide-dans-sa-propagation-dans-le-sud-de-lespagne-un-incendie-fait-au-moins-12-morts-20260710_TE5GJPMG2NBVDEDEX7ZG5ZZ4UY/",
-      "image": null,
-      "date": "2026-07-10T17:46:51+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "\"Réunions de crise\" et menus quotidiens : comment une résidence pour seniors du Val-de-Marne s'adapte à la canicule",
