@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-12T07:54:42.875994+00:00",
-  "count": 53,
+  "generated_at": "2026-07-12T12:49:56.639537+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "Mort du sénateur américain Lindsey Graham, un influent allié de Trump",
+      "desc": "L’homme politique est mort à 71 ans des suites d’une maladie brève et soudaine dans la soirée du samedi 11 juillet. Donald Trump lui a rendu hommage.",
+      "url": "https://www.liberation.fr/international/amerique/deces-du-senateur-americain-lindsey-graham-un-allie-de-trump-20260712_F7IDY4POLNGMXCGDCIMZJKRJTI/",
+      "image": null,
+      "date": "2026-07-12T09:31:37+00:00",
+      "date_formatted": "12 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "10 ans de l’attentat du 14 Juillet à Nice : les victimes ados, devenues adultes, n’ont «pas de guide pour survivre à ça»",
+      "desc": "Le soir de l’attaque terroriste, en 2016, 3 000 bébés, enfants et adolescents regardaient le feu d’artifice depuis la Promenade des Anglais. Sur les 86 morts, 15 étaient mineurs. Les survivants sont encore sur le chemin de la reconstruction.",
+      "url": "https://www.liberation.fr/societe/10-ans-de-lattentat-du-14-juillet-a-nice-les-victimes-ados-devenues-adultes-nont-pas-de-guide-pour-survivre-a-ca-20260712_PZELSCTIKBGHLF6I7GIHKAIOD4/",
+      "image": null,
+      "date": "2026-07-12T09:11:54+00:00",
+      "date_formatted": "12 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Maladie d'Alzheimer : voici les signes dans la façon de parler que les spécialistes recommandent de surveiller",
       "desc": "La maladie d'Alzheimer est difficile à diagnostiquer, car ses symptômes apparaissent progressivement et peuvent être confondus avec d'autres troubles. Pourtant, un diagnostic précoce aide à ralentir son évolution. Parmi les signes les plus précoces, les troubles du langage sont souvent...",
@@ -11,6 +31,16 @@
       "date_formatted": "12 July 2026",
       "source": "Futura Santé",
       "type": "science"
+    },
+    {
+      "title": "Des pluies torrentielles frappent la Chine après le passage de la tempête Bavi",
+      "desc": "Près de 2 millions de personnes ont été évacuées, des centaines de vols annulés. Des phénomènes météorologiques extrêmes ont déjà fait des ravages dans le sud et le centre du pays cette semaine, provoquant la mort d’au moins 39 personnes.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/des-pluies-torrentielles-frappent-la-chine-apres-le-passage-de-la-tempete-bavi-20260712_EDDFRWAFXBDGNN4WU4WWU2IQ5I/",
+      "image": null,
+      "date": "2026-07-12T08:15:25+00:00",
+      "date_formatted": "12 July 2026",
+      "source": "Libération",
+      "type": "presse"
     },
     {
       "title": "Voici ce que provoque l'eau froide sur nos cellules en une semaine seulement selon des chercheurs",
@@ -24,30 +54,10 @@
     },
     {
       "title": "Huit morts en Ukraine après des bombardements russes",
-      "desc": "Le ministre ukrainien des Affaires étrangères qualifie ces attaques de «meurtres délibérés de civils». L’armée ukrainienne a déclaré avoir frappé une raffinerie de pétrole dans la région russe de Samara.",
+      "desc": "Le ministre ukrainien des Affaires étrangères qualifie ces attaques de «meurtres délibérés de civils». L’armée ukrainienne a déclaré avoir frappé une raffinerie de pétrole dans la région russe de Samara et plus d’une dizaine de navires.",
       "url": "https://www.liberation.fr/international/europe/huit-morts-en-ukraine-apres-des-bombardements-russes-20260712_CKLLZVXG7RF5VAZH24RMAMB3YI/",
       "image": null,
-      "date": "2026-07-12T07:21:15+00:00",
-      "date_formatted": "12 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Des EVJF d’enfer : «J’envisage d’appeler mon pote pour demander l’asile politique chez lui»",
-      "desc": "Avant de se dire «oui», il y a des enterrements de vie de célibataire qui tournent parfois au grand n’importe quoi… ou pas. Dans le sixième épisode de notre série, Kim se remémore un week-end chiant à mourir à Prague.",
-      "url": "https://www.liberation.fr/lifestyle/voyages/des-evjf-denfer-jenvisage-dappeler-mon-pote-pour-demander-lasile-politique-chez-lui-20260712_N2WRSUUC6ZAB3G3ZTHTXUN4UBI/",
-      "image": null,
-      "date": "2026-07-12T06:49:00+00:00",
-      "date_formatted": "12 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : l’autre «en même temps» d’Emmanuel Macron",
-      "desc": "Souvent poussé par son camp pour faire advenir la création d’un droit à l’aide à mourir, le chef de l’Etat a fini par se laisser convaincre d’accrocher à son bilan cette réforme sociétale, soumise au vote définitif de l’Assemblée nationale mercredi 15 juillet.",
-      "url": "https://www.liberation.fr/politique/fin-de-vie-lautre-en-meme-temps-demmanuel-macron-20260712_UQDWLNELYFCZBKJ7FIRUABWOVI/",
-      "image": null,
-      "date": "2026-07-12T04:00:01+00:00",
+      "date": "2026-07-12T07:59:33+00:00",
       "date_formatted": "12 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -61,26 +71,6 @@
       "date_formatted": "11 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "EN IMAGES - Les violents feux de forêt près d’Almería en Espagne",
-      "desc": "Les paysages de la province d’Almería se sont transformés en tableaux sinistres. Au moins 12 personnes sont mortes et plus de 6 000 hectares sont partis en fumée.",
-      "url": "https://www.liberation.fr/culture/photographie/en-images-terres-cramees-en-espagne-20260711_JWNVHUMYRNF3DLYJFRAA5WYQLU/",
-      "image": null,
-      "date": "2026-07-11T17:47:04+00:00",
-      "date_formatted": "11 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Relief escarpé, végétation sèche, résidents non hispanophones… En Espagne, autour de Los Gallardos, une région dans le piège de l’incendie",
-      "desc": "Dans la province d’Almería, tous les ingrédients de la catastrophe étaient réunis avant le début de l’incendie, jeudi 9 juillet. Au moins 12 personnes sont mortes et plus de 6 000 hectares sont partis en fumée.",
-      "url": "https://www.liberation.fr/international/europe/relief-escarpe-vegetation-seche-residents-non-hispanophones-en-espagne-autour-de-los-gallardos-une-region-dans-le-piege-de-lincendie-20260711_FZ3LCRJHP5HEPMJ6XQTYUCOHZU/",
-      "image": null,
-      "date": "2026-07-11T16:31:32+00:00",
-      "date_formatted": "11 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Arrêt maladie : Fini les longues prescriptions, voici ce que change la nouvelle règle dès septembre",
