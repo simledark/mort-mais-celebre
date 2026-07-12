@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-07-12T01:24:21.537579+00:00",
-  "count": 52,
+  "generated_at": "2026-07-12T07:54:42.875994+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Maladie d'Alzheimer : voici les signes dans la façon de parler que les spécialistes recommandent de surveiller",
+      "desc": "La maladie d'Alzheimer est difficile à diagnostiquer, car ses symptômes apparaissent progressivement et peuvent être confondus avec d'autres troubles. Pourtant, un diagnostic précoce aide à ralentir son évolution. Parmi les signes les plus précoces, les troubles du langage sont souvent...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-maladie-alzheimer-voici-signes-facon-parler-specialistes-recommandent-surveiller-w2t8-136062/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/2/0/a20c6b1f3e_50228413_alzheimer-homme.jpg",
+      "date": "2026-07-12T09:00:00+00:00",
+      "date_formatted": "12 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Voici ce que provoque l'eau froide sur nos cellules en une semaine seulement selon des chercheurs",
+      "desc": "Une plongée régulière dans l'eau froide pourrait transformer votre organisme au niveau cellulaire. Des chercheurs canadiens ont découvert que cette pratique déclenche des mécanismes de protection et de régénération essentiels. Comment quelques minutes de frisson quotidien pourraient-elles...",
+      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-voici-ce-provoque-eau-froide-nos-cellules-semaine-seulement-selon-chercheurs-w2t8-136060/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/5/5/a550ecdfb8_50257862_bain-eau-froide-systeme-immunitaire.jpg",
+      "date": "2026-07-12T08:00:00+00:00",
+      "date_formatted": "12 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Huit morts en Ukraine après des bombardements russes",
+      "desc": "Le ministre ukrainien des Affaires étrangères qualifie ces attaques de «meurtres délibérés de civils». L’armée ukrainienne a déclaré avoir frappé une raffinerie de pétrole dans la région russe de Samara.",
+      "url": "https://www.liberation.fr/international/europe/huit-morts-en-ukraine-apres-des-bombardements-russes-20260712_CKLLZVXG7RF5VAZH24RMAMB3YI/",
+      "image": null,
+      "date": "2026-07-12T07:21:15+00:00",
+      "date_formatted": "12 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des EVJF d’enfer : «J’envisage d’appeler mon pote pour demander l’asile politique chez lui»",
+      "desc": "Avant de se dire «oui», il y a des enterrements de vie de célibataire qui tournent parfois au grand n’importe quoi… ou pas. Dans le sixième épisode de notre série, Kim se remémore un week-end chiant à mourir à Prague.",
+      "url": "https://www.liberation.fr/lifestyle/voyages/des-evjf-denfer-jenvisage-dappeler-mon-pote-pour-demander-lasile-politique-chez-lui-20260712_N2WRSUUC6ZAB3G3ZTHTXUN4UBI/",
+      "image": null,
+      "date": "2026-07-12T06:49:00+00:00",
+      "date_formatted": "12 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : l’autre «en même temps» d’Emmanuel Macron",
+      "desc": "Souvent poussé par son camp pour faire advenir la création d’un droit à l’aide à mourir, le chef de l’Etat a fini par se laisser convaincre d’accrocher à son bilan cette réforme sociétale, soumise au vote définitif de l’Assemblée nationale mercredi 15 juillet.",
+      "url": "https://www.liberation.fr/politique/fin-de-vie-lautre-en-meme-temps-demmanuel-macron-20260712_UQDWLNELYFCZBKJ7FIRUABWOVI/",
+      "image": null,
+      "date": "2026-07-12T04:00:01+00:00",
+      "date_formatted": "12 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Pourquoi cet homme génétiquement destiné à Alzheimer y a-t-il échappé ? Voici l'hypothèse fascinante des chercheurs",
       "desc": "Génétiquement condamné à développer Alzheimer avant 60 ans, comme presque toute sa famille, cet Américain de 75 ans reste pourtant l'esprit vif. Le facteur qui l'aurait protégé ? Une vie passée dans la chaleur des salles des machines. Une piste inédite pour la recherche.",
@@ -28,26 +78,6 @@
       "url": "https://www.liberation.fr/international/europe/relief-escarpe-vegetation-seche-residents-non-hispanophones-en-espagne-autour-de-los-gallardos-une-region-dans-le-piege-de-lincendie-20260711_FZ3LCRJHP5HEPMJ6XQTYUCOHZU/",
       "image": null,
       "date": "2026-07-11T16:31:32+00:00",
-      "date_formatted": "11 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Que ma tombe fasse perdurer le scandale !» : un sketch de catin sur Grisélidis Réal joué au cimetière de Genève",
-      "desc": "Avant de mourir d’un cancer en 2005, la Suisse – la «catin révolutionnaire» – avait émis le vœu que sa stèle soit un lieu de «transgression des tabous». Les Balades théâtralisées lui consacrent, vers sa sépulture, un sketch-hommage.",
-      "url": "https://www.liberation.fr/lifestyle/intimites/que-ma-tombe-fasse-perdurer-le-scandale-un-sketch-de-catin-sur-griselidis-real-joue-au-cimetiere-de-geneve-20260711_447XD27R6BFQ3OU27ZZIHL5LTE/",
-      "image": null,
-      "date": "2026-07-11T14:28:48+00:00",
-      "date_formatted": "11 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le guide suprême iranien Mojtaba Khamenei affirme que «la vengeance de la mort de son père doit s’accomplir inévitablement»",
-      "desc": "Ali Khamenei a été tué fin février dans des frappes américano-israéliennes.",
-      "url": "https://www.liberation.fr/international/moyen-orient/le-guide-supreme-iranien-mojtaba-khamenei-affirme-que-la-vengeance-de-la-mort-de-son-pere-doit-saccomplir-inevitablement-20260711_257OTNYDURB6VBWOSSLS3JZX6I/",
-      "image": null,
-      "date": "2026-07-11T12:36:26+00:00",
       "date_formatted": "11 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -320,26 +350,6 @@
       "date": "2026-07-06T18:00:08+00:00",
       "date_formatted": "6 July 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Christophe Malsot, atteint de la maladie de Charcot : « La flamme de la vie ne m’a pas quitté »",
-      "desc": "Frappé depuis sept ans par la maladie de Charcot, ou sclérose latérale amyotrophique, Christophe Malsot, 60 ans, témoigne de son vécu avec cette pathologie qui détruit les motoneurones et entraîne une paralysie progressive.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/06/christophe-malsot-atteint-de-la-maladie-de-charcot-la-flamme-de-la-vie-ne-m-a-pas-quitte_6721216_1650684.html",
-      "image": "https://img.lemde.fr/2026/07/06/66/4/502/251/644/322/60/0/85fc540_upload-1-yn7zz4porvr4-christophe-malsot-dossier-sla-1.jpg",
-      "date": "2026-07-06T17:30:17+00:00",
-      "date_formatted": "6 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Voici pourquoi les femmes seraient plus à risque face à la démence selon une vaste étude",
-      "desc": "Deux tiers des Américains de plus de 65 ans touchés par la maladie d'Alzheimer sont des femmes. Ce chiffre, à lui seul, pose une question que la science ne pouvait plus ignorer : pourquoi un tel déséquilibre ? Une étude publiée en 2026 apporte des éléments de réponse concrets, et ils changent la...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-voici-femmes-seraient-plus-risque-face-demence-selon-vaste-etude-k2m6-135902/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/5/1/4510ce1c47_50257593_demence-alzheimer-femmes.jpg",
-      "date": "2026-07-06T10:00:00+00:00",
-      "date_formatted": "6 July 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
