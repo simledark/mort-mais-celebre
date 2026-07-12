@@ -1,23 +1,13 @@
 {
-  "generated_at": "2026-07-12T12:49:56.639537+00:00",
-  "count": 52,
+  "generated_at": "2026-07-12T18:45:22.669951+00:00",
+  "count": 48,
   "articles": [
     {
-      "title": "Mort du sénateur américain Lindsey Graham, un influent allié de Trump",
-      "desc": "L’homme politique est mort à 71 ans des suites d’une maladie brève et soudaine dans la soirée du samedi 11 juillet. Donald Trump lui a rendu hommage.",
-      "url": "https://www.liberation.fr/international/amerique/deces-du-senateur-americain-lindsey-graham-un-allie-de-trump-20260712_F7IDY4POLNGMXCGDCIMZJKRJTI/",
+      "title": "Shemseddine, collégien battu à mort : deux mis en examen libérés en raison d’un vide législatif",
+      "desc": "Les deux jeunes, mis en examen alors qu’ils étaient mineurs et qui sont désormais majeurs, ont retrouvé la liberté en attendant leur procès.",
+      "url": "https://www.liberation.fr/societe/police-justice/shemseddine-collegien-battu-a-mort-deux-mis-en-examen-liberes-en-raison-dun-vide-legislatif-20260712_YYG4RQ6JIVF67E3TJ3DIS4NID4/",
       "image": null,
-      "date": "2026-07-12T09:31:37+00:00",
-      "date_formatted": "12 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "10 ans de l’attentat du 14 Juillet à Nice : les victimes ados, devenues adultes, n’ont «pas de guide pour survivre à ça»",
-      "desc": "Le soir de l’attaque terroriste, en 2016, 3 000 bébés, enfants et adolescents regardaient le feu d’artifice depuis la Promenade des Anglais. Sur les 86 morts, 15 étaient mineurs. Les survivants sont encore sur le chemin de la reconstruction.",
-      "url": "https://www.liberation.fr/societe/10-ans-de-lattentat-du-14-juillet-a-nice-les-victimes-ados-devenues-adultes-nont-pas-de-guide-pour-survivre-a-ca-20260712_PZELSCTIKBGHLF6I7GIHKAIOD4/",
-      "image": null,
-      "date": "2026-07-12T09:11:54+00:00",
+      "date": "2026-07-12T14:59:33+00:00",
       "date_formatted": "12 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -33,16 +23,6 @@
       "type": "science"
     },
     {
-      "title": "Des pluies torrentielles frappent la Chine après le passage de la tempête Bavi",
-      "desc": "Près de 2 millions de personnes ont été évacuées, des centaines de vols annulés. Des phénomènes météorologiques extrêmes ont déjà fait des ravages dans le sud et le centre du pays cette semaine, provoquant la mort d’au moins 39 personnes.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/des-pluies-torrentielles-frappent-la-chine-apres-le-passage-de-la-tempete-bavi-20260712_EDDFRWAFXBDGNN4WU4WWU2IQ5I/",
-      "image": null,
-      "date": "2026-07-12T08:15:25+00:00",
-      "date_formatted": "12 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Voici ce que provoque l'eau froide sur nos cellules en une semaine seulement selon des chercheurs",
       "desc": "Une plongée régulière dans l'eau froide pourrait transformer votre organisme au niveau cellulaire. Des chercheurs canadiens ont découvert que cette pratique déclenche des mécanismes de protection et de régénération essentiels. Comment quelques minutes de frisson quotidien pourraient-elles...",
       "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-voici-ce-provoque-eau-froide-nos-cellules-semaine-seulement-selon-chercheurs-w2t8-136060/#xtor%3DRSS-8",
@@ -51,16 +31,6 @@
       "date_formatted": "12 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Huit morts en Ukraine après des bombardements russes",
-      "desc": "Le ministre ukrainien des Affaires étrangères qualifie ces attaques de «meurtres délibérés de civils». L’armée ukrainienne a déclaré avoir frappé une raffinerie de pétrole dans la région russe de Samara et plus d’une dizaine de navires.",
-      "url": "https://www.liberation.fr/international/europe/huit-morts-en-ukraine-apres-des-bombardements-russes-20260712_CKLLZVXG7RF5VAZH24RMAMB3YI/",
-      "image": null,
-      "date": "2026-07-12T07:59:33+00:00",
-      "date_formatted": "12 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Pourquoi cet homme génétiquement destiné à Alzheimer y a-t-il échappé ? Voici l'hypothèse fascinante des chercheurs",
@@ -328,16 +298,6 @@
       "url": "https://www.lemonde.fr/sciences/article/2026/07/06/maladie-de-charcot-comment-accompagner-les-patients-face-a-un-handicap-qui-progresse_6721224_1650684.html",
       "image": "https://img.lemde.fr/2025/12/29/250/0/3000/1500/644/322/60/0/c604c66_upload-1-421ic0ybbhm5-frame-590.jpg",
       "date": "2026-07-06T18:30:05+00:00",
-      "date_formatted": "6 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "La recherche au chevet de la maladie de Charcot : « Face à une pathologie systématiquement mortelle, le statu quo est inacceptable »",
-      "desc": "Pour la première fois, deux traitements parviennent à ralentir l’évolution de la sclérose latérale amyotrophique, qui touche six nouvelles personnes chaque jour en France et entraîne une paralysie qui gagne peu à peu tout le corps. La recherche progresse sur ses origines, qui mêlent génétique et fac",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/06/la-recherche-au-chevet-de-la-maladie-de-charcot-face-a-une-pathologie-systematiquement-mortelle-le-statu-quo-est-inacceptable_6721220_1650684.html",
-      "image": "https://img.lemde.fr/2026/07/02/380/0/3600/1800/644/322/60/0/51a89f6_upload-1-avac72gfbad0-rea11502072.jpg",
-      "date": "2026-07-06T18:00:08+00:00",
       "date_formatted": "6 July 2026",
       "source": "Le Monde Science",
       "type": "science"
