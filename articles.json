@@ -1,23 +1,73 @@
 {
-  "generated_at": "2026-07-13T01:25:32.912742+00:00",
-  "count": 49,
+  "generated_at": "2026-07-13T08:42:14.250259+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Nos grands-parents mangeaient-ils plus de collagène que nous ?",
+      "desc": "Face au vieillissement cutané, il est une protéine qui suscite depuis longtemps un grand intérêt : le collagène. Si la question est posée, c’est qu’elle n’est pas si anecdotique que cela et montre une réalité : depuis plusieurs décennies, notre alimentation changeante pourrait avoir entraîné...",
+      "url": "https://www.futura-sciences.com/sante/actualites/complement-alimentaire-nos-grands-parents-mangeaient-ils-plus-collagene-nous-135855/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/4/5/3458858d69_50257526_greenwhey-16.jpg",
+      "date": "2026-07-13T10:30:00+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "REPORTAGE. \"Elle n'est plus capable de réclamer à boire\" : pour les malades d'Alzheimer, les périodes de canicule sont particulièrement dangereuses",
+      "desc": "Avec la canicule, les personnes atteintes de la maladie d'Alzheimer sont particulièrement à risque car elles ne comprennent pas le risque lié à la chaleur et ne pensent pas à s'hydrater.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-elle-n-est-plus-capable-de-reclamer-a-boire-pour-les-malades-d-alzheimer-les-periodes-de-canicule-sont-particulierement-dangereuses_8105324.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/8E3-UagX--B9UhZo9QJHeFYMoPY/0x180:1920x1260/432x243/filters:format(jpg):quality(50)/2026/07/12/6a53c014eb431468337738.jpg",
+      "date": "2026-07-13T09:23:34+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Plusieurs États américains touchés par des « diarrhées explosives »",
+      "desc": "Des dizaines d’États américains sont touchés par une épidémie de cyclosporose, une infection parasitaire transmise par l’alimentation qui peut provoquer de violentes diarrhées. Cette flambée intervient alors que, sous l’administration Trump, la déclaration des cas de Cyclospora est devenue facultati",
+      "url": "https://www.sciencesetavenir.fr/sante/un-parasite-responsable-de-diarrhees-explosives-touche-des-americains-dans-plusieurs-etats_193710?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/13/cover-r4x3w1200-6a548de684de7-cyclosporiasis.jpg",
+      "date": "2026-07-13T07:58:07+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Mort de Sam Neill, star de «Jurassic Park», à 78 ans",
+      "desc": "La disparition de celui qui avait incarné le paléontologue de la saga de Steven Spielberg a été annoncée par sa famille dans un communiqué publié lundi 13 juillet, il était en rémission d’un cancer.",
+      "url": "https://www.liberation.fr/culture/cinema/mort-de-sam-neill-star-de-jurassic-park-a-78-ans-20260713_AVWEM2X5HZAF3JN37743ZS22OM/",
+      "image": null,
+      "date": "2026-07-13T07:17:23+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Bien vieillir jusqu'à cent ans : le secret est dans le métabolisme",
+      "desc": "Les personnes qui atteignent des âges très élevés ont un métabolisme particulier qui les protégerait notamment de l’inflammation.",
+      "url": "https://www.sciencesetavenir.fr/sante/vieillissement-les-centenaires-ont-une-signature-metabolique-identifiable_193688?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/10/cover-r4x3w1200-6a511d3e14b02-afp-20250305-dpa-pa-250305-99-128628-dpai-v1-highres-100yearoldworksoutatthegym.jpg",
+      "date": "2026-07-13T06:20:30+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Dans le Cher, l’art du clown contre le fléau de la « mort sociale »",
+      "desc": "« La France buissonnière ». Deux artistes, Léontine et Octavio, se rendent chez les plus fragiles pour briser leur isolement d’un rire salvateur et résilient.",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/07/13/dans-le-cher-l-art-du-clown-contre-le-fleau-de-la-mort-sociale_6723046_4497916.html",
+      "image": "https://img.lemde.fr/2026/07/03/948/0/5712/2856/644/322/60/0/1c5dea8_upload-1-exk6kviow5gs-img-1618.jpeg",
+      "date": "2026-07-13T06:00:59+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "10 ans de l’attentat du 14 Juillet à Nice : pour les enfants traumatisés de la promenade des Anglais et les autres, un centre pionnier à chérir",
       "desc": "La structure de soins pionnière, née dans le sillage de l’attentat qui a fait 86 morts dont quinze enfants, pose une question qui dépasse ce drame.",
       "url": "https://www.liberation.fr/idees-et-debats/editorial/10-ans-de-lattentat-du-14-juillet-a-nice-pour-les-enfants-traumatises-de-la-promenade-des-anglais-et-les-autres-un-centre-pionnier-a-cherir-20260712_RFFGXPZ6CRGDLOEPWROAMC3H5Y/",
       "image": null,
       "date": "2026-07-12T18:45:27+00:00",
-      "date_formatted": "12 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Shemseddine, collégien battu à mort : deux mis en examen libérés en raison d’un vide législatif",
-      "desc": "Les deux jeunes, mis en examen alors qu’ils étaient mineurs et qui sont désormais majeurs, ont retrouvé la liberté en attendant leur procès.",
-      "url": "https://www.liberation.fr/societe/police-justice/shemseddine-collegien-battu-a-mort-deux-mis-en-examen-liberes-en-raison-dun-vide-legislatif-20260712_YYG4RQ6JIVF67E3TJ3DIS4NID4/",
-      "image": null,
-      "date": "2026-07-12T14:59:33+00:00",
       "date_formatted": "12 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -117,7 +167,7 @@
       "desc": "Le dépistage génétique préconceptionnel consiste à tester les deux membres d’un couple pour voir s’ils sont à risque élevé d’avoir un enfant atteint d’une telle maladie et, si c’est le cas, à les informer des choix possibles.",
       "url": "https://www.lemonde.fr/sante/article/2026/07/10/depistage-genetique-preconceptionnel-l-academie-de-medecine-recommande-d-ouvrir-l-acces-aux-couples-sans-antecedents-familiaux_6722448_1651302.html",
       "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/4851c4d_upload-1-fkmv0fsx3cfw-frame-252.jpg",
-      "date": "2026-07-10T14:53:39+00:00",
+      "date": "2026-07-10T14:53:38+00:00",
       "date_formatted": "10 July 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -258,16 +308,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/genetique-certaines-personnes-supportent-elles-mieux-canicules-genes-jouent-role-mais-sont-loin-etre-seuls-responsables-135980/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/7/e/77e3d16f01_50257777_mal-supporter-canicule.jpg",
       "date": "2026-07-07T17:07:41+00:00",
-      "date_formatted": "7 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Une étude met en lumière l'impact inattendu du sucre sur le vieillissement du cerveau",
-      "desc": "Des chercheurs suggèrent qu’une glycémie élevée est associée à une accélération du vieillissement cérébral. Or, un vieillissement prématuré du cerveau augmente le risque de pertes de mémoire précoces et de déclin cognitif.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-etude-met-lumiere-impact-inattendu-sucre-vieillissement-cerveau-135956/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/7/e/87e9c1964f_50257756_sucre-cerveau.jpg",
-      "date": "2026-07-07T14:01:49+00:00",
       "date_formatted": "7 July 2026",
       "source": "Futura Santé",
       "type": "science"
