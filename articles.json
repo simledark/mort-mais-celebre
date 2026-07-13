@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-13T13:57:32.230326+00:00",
+  "generated_at": "2026-07-13T19:07:51.701437+00:00",
   "count": 52,
   "articles": [
+    {
+      "title": "Etats-Unis : la police de l’immigration impliquée dans une nouvelle mort par balle",
+      "desc": "La victime, un Colombien de 26 ans autorisé à travailler aux Etats-Unis, a été tuée lors d’une intervention de l’ICE dans le Maine. Ce décès intervient une semaine seulement après qu’un agent de l’ICE a abattu un Mexicain au Texas.",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-la-police-de-limmigration-impliquee-dans-une-nouvelle-mort-par-balle-20260713_ZEDQ22DJGBH6TI3OB67IQWH7NU/",
+      "image": null,
+      "date": "2026-07-13T18:50:52+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mali : à Anéfis, six jours de combats acharnés et une guerre de propagandes",
+      "desc": "L’armée malienne et les paramilitaires russes ont réussi à secourir le camp militaire assiégé par les jihadistes et indépendantistes depuis le 4 juillet, au terme d’affrontements qui ont fait des dizaines de morts.",
+      "url": "https://www.liberation.fr/international/afrique/mali-a-anefis-six-jours-de-combats-acharnes-et-une-guerre-de-propagandes-20260713_D7U7X4UWXJF2RHTPETFREDIPUE/",
+      "image": null,
+      "date": "2026-07-13T17:13:11+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Incendie à Fontainebleau, coalition européenne, mort de Sam Neill… L’actu de ce lundi 13 juillet",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+      "url": "https://www.liberation.fr/international/europe/incendie-a-fontainebleau-coalition-europeenne-mort-de-sam-neill-lactu-de-ce-lundi-13-juillet-20260713_J776GTRKMFELVDAJS3PXUCRAR4/",
+      "image": null,
+      "date": "2026-07-13T16:30:30+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "REPORTAGE. \"Elle n'est plus capable de réclamer à boire\" : pour les malades d'Alzheimer, les périodes de canicule sont particulièrement dangereuses",
       "desc": "Avec la canicule, les personnes atteintes de la maladie d'Alzheimer sont particulièrement à risque car elles ne comprennent pas le risque lié à la chaleur et ne pensent pas à s'hydrater.",
@@ -10,16 +40,6 @@
       "date": "2026-07-13T11:57:52+00:00",
       "date_formatted": "13 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Thaïlande : au moins 28 morts et des dizaines de blessés dans l’incendie d’un bar à Bangkok",
-      "desc": "La réglementation sur la sécurité et la santé, particulièrement laxiste dans les bars et boîtes de nuit, est un sujet de préoccupation de longue date dans le pays.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/thailande-au-moins-27-morts-et-des-dizaines-de-blesses-dans-lincendie-dun-bar-a-bangkok-20260713_IONH5ZCGRFFKRDWJJRPR27HEIM/",
-      "image": null,
-      "date": "2026-07-13T11:56:42+00:00",
-      "date_formatted": "13 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -67,7 +87,7 @@
       "desc": "« La France buissonnière ». Deux artistes, Léontine et Octavio, se rendent chez les plus fragiles pour briser leur isolement d’un rire salvateur et résilient.",
       "url": "https://www.lemonde.fr/m-perso/article/2026/07/13/dans-le-cher-l-art-du-clown-contre-le-fleau-de-la-mort-sociale_6723046_4497916.html",
       "image": "https://img.lemde.fr/2026/07/03/948/0/5712/2856/644/322/60/0/1c5dea8_upload-1-exk6kviow5gs-img-1618.jpeg",
-      "date": "2026-07-13T06:00:59+00:00",
+      "date": "2026-07-13T06:00:45+00:00",
       "date_formatted": "13 July 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -303,16 +323,6 @@
       "type": "presse"
     },
     {
-      "title": "Pourquoi certaines personnes supportent-elles mieux la canicule ? La science a plusieurs réponses",
-      "desc": "Pourquoi certains semblent traverser les vagues de chaleur sans difficulté, tandis que d'autres souffrent rapidement de malaises ou d'épuisement ? Si l'âge ou les maladies chroniques expliquent une partie des différences, les chercheurs explorent aussi une autre piste : celle de la génétique.",
-      "url": "https://www.futura-sciences.com/sante/actualites/genetique-certaines-personnes-supportent-elles-mieux-canicules-genes-jouent-role-mais-sont-loin-etre-seuls-responsables-135980/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/7/e/77e3d16f01_50257777_mal-supporter-canicule.jpg",
-      "date": "2026-07-07T17:07:41+00:00",
-      "date_formatted": "7 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Le gourou de la longévité Bryan Johnson révèle souffrir d’une maladie auto-immune de l’estomac",
       "desc": "Connu pour investir des millions dans des protocoles destinés à ralentir son vieillissement, l’entrepreneur américain Bryan Johnson révèle souffrir d’une gastrite auto-immune",
       "url": "https://www.20minutes.fr/sante/4233293-20260707-gourou-longevite-bryan-johnson-revele-souffrir-maladie-auto-immune-estomac?at_medium=display&at_campaign=149",
@@ -341,16 +351,6 @@
       "date_formatted": "7 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Maladie de Charcot : comment accompagner les patients face à un handicap qui progresse",
-      "desc": "De l’annonce de la maladie à la fin de vie, plusieurs professionnels de santé se relaient auprès des personnes atteintes par cette maladie incurable, qui touche environ 8 000 personnes en France.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/06/maladie-de-charcot-comment-accompagner-les-patients-face-a-un-handicap-qui-progresse_6721224_1650684.html",
-      "image": "https://img.lemde.fr/2025/12/29/250/0/3000/1500/644/322/60/0/c604c66_upload-1-421ic0ybbhm5-frame-590.jpg",
-      "date": "2026-07-06T18:30:05+00:00",
-      "date_formatted": "6 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Le cerveau peut s’améliorer à n’importe quel âge",
