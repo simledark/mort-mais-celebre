@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-07-15T01:12:15.899817+00:00",
-  "count": 56,
+  "generated_at": "2026-07-15T07:46:49.147569+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "Mort traumatique suspecte en milieu rural : quand la médecine légale éclaire l’enquête",
+      "desc": "Une sexagénaire est découverte morte dans un champ. Elle présente des lésions témoignant d’une violence extrême. L’autopsie et les investigations médico-légales ont permis de reconstituer les circonstances de ce décès particulièrement troublant.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/07/15/mort-traumatique-suspecte-en-milieu-rural-quand-la-medecine-legale-eclaire-l-enquete_6723509_6579630.html",
+      "image": "https://img.lemde.fr/2026/06/06/99/0/798/399/644/322/60/0/9cd4ec2_upload-1-xwsazqm6gzj6-mort-traumatique-suspecte-milieu-rural-campagne-me-decine-le-gale-be-lier-moutons.png",
+      "date": "2026-07-15T08:43:55+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Voici la spectaculaire transformation du multimillionnaire qui investit des millions pour ne jamais vieillir",
+      "desc": "Bryan Johnson, multimillionnaire américain de 47 ans, a investi 2,5 millions de dollars dans une quête anti-âge révolutionnaire. Sa transformation physique spectaculaire intrigue autant qu'elle enchante. Mais à quoi ressemblait cet entrepreneur avant de se lancer corps et âme dans cette odyssée...",
+      "url": "https://www.futura-sciences.com/sante/actualites/longevite-voici-spectaculaire-transformation-multimillionnaire-investit-millions-ne-jamais-vieillir-w2t8-136140/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/9/f/39f741097b_50226288_bryan-jonhson-transformation.jpg",
+      "date": "2026-07-15T08:00:00+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Canicule : 142 morts par noyade depuis le 19 juin, plus de la moitié sur des lieux non autorisés",
+      "desc": "Les 26 derniers départements placés en vigilance rouge par Météo France ont tous rebasculé en orange à 6 heures ce mercredi 15 juillet. Des feux, dont ceux de la forêt de Fontainebleau, continuent à ravager des milliers d’hectares partout dans l’Hexagone.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-fin-de-lalerte-rouge-69-departements-en-vigilance-orange-20260715_35JNCH4XSZAWDJUFUFJXUT4NPY/",
+      "image": null,
+      "date": "2026-07-15T06:54:52+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Philippe Bergerot, président de La Ligue contre le cancer : « Les politiques, très souvent, retardent l’action sous la pression des lobbys et de la désinformation »",
+      "desc": "L’oncologue plaide, dans un entretien au « Monde », pour une politique de prévention des cancers agissant à la fois sur la pollution et sur les comportements individuels. L’association La Ligue contre le cancer demande l’extension du principe de précaution aux questions sanitaires afin de « protéger",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/15/philippe-bergerot-president-de-la-ligue-contre-le-cancer-les-politiques-tres-souvent-retardent-l-action-sous-la-pression-des-lobbys-et-de-la-desinformation_6723493_3244.html",
+      "image": "https://img.lemde.fr/2026/07/14/88/0/8256/4128/644/322/60/0/f9b19d5_upload-1-nuun0rlyk4v4-maxnewsspecialtwo379230.jpg",
+      "date": "2026-07-15T06:00:24+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : l’aide à mourir, un « long cheminement » pour Emmanuel Macron",
+      "desc": "Après avoir douté de la nécessité d’une nouvelle législation, craint de mécontenter les représentants des cultes et redouté de fracturer la société, le chef de l’Etat s’est finalement résolu à faire évoluer la loi sur l’aide à mourir. La proposition de loi devrait être adoptée, cet après-midi, à l’A",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-l-aide-a-mourir-un-long-cheminement-pour-emmanuel-macron_6723495_823448.html",
+      "image": "https://img.lemde.fr/2026/07/14/424/0/8000/4000/644/322/60/0/5c6e296_upload-1-w4ukjjjr41n1-jmug260713083.jpg",
+      "date": "2026-07-15T06:00:14+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Sabine Dumont : la fillette assassinée, le dernier fil génétique et l’ombre d’un possible tueur en série",
+      "desc": "La justice tente inlassablement de remonter la piste du meurtrier de cette enfant de 9 ans, enlevée, violée et tuée en 1987 dans l’Essonne. Tout a été tenté dans cette enquête au gré des évolutions des techniques scientifiques. En attendant les résultats d’une expertise de la dernière chance aux Eta",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-sabine-dumont-la-fillette-assassinee-le-dernier-fil-genetique-et-lombre-dun-possible-tueur-en-serie-20260715_TPOGPUR34JB6JA6KDVJBTIFTBY/",
+      "image": null,
+      "date": "2026-07-15T05:30:00+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Loi sur l’aide à mourir : le premier jour du reste de la fin de vie",
+      "desc": "L’Assemblée nationale doit se prononcer définitivement, mercredi 15 juillet, sur la proposition de loi sur la fin de vie et ouvrir un droit au suicide assisté pour les malades incurables et en grande souffrance qui le souhaitent.",
+      "url": "https://www.liberation.fr/societe/sante/loi-sur-laide-a-mourir-le-premier-jour-du-reste-de-la-fin-de-vie-20260715_HZ4BR35CSNBZTHIAAKIBSJIISQ/",
+      "image": null,
+      "date": "2026-07-15T03:32:00+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Aide à mourir : Sébastien Lecornu saisira le Conseil constitutionnel après le vote de mercredi",
       "desc": "Le Sénat a rejeté le texte par trois fois, mais le gouvernement a décidé de donner le dernier mot à l’Assemblée. Le président du Sénat, Gérard Larcher (Les Républicains), s’est, lui aussi, engagé à saisir le Conseil constitutionnel.",
@@ -20,26 +90,6 @@
       "date": "2026-07-14T17:57:39+00:00",
       "date_formatted": "14 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La loi sur la fin de vie sera un progrès à surveiller",
-      "desc": "Le texte sur le droit à l’aide à mourir, qui devrait être adopté ce mercredi 15 juillet par les députés, est un soulagement et une avancée sociétale considérables. Mais la crainte d’un climat politique de plus en plus conservateur pourrait le menacer.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/la-loi-sur-la-fin-de-vie-sera-un-progres-a-surveiller-20260714_C27J5WAX4BCGXJGVIZJ4CULMRY/",
-      "image": null,
-      "date": "2026-07-14T17:29:53+00:00",
-      "date_formatted": "14 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Deux morts et des arrestations records : la police migratoire de Donald Trump sévit toujours",
-      "desc": "En moins d’une semaine, un immigré mexicain et un autre colombien ont été abattus en pleine rue par les agents de l’ICE. Leur décès ravive la colère contre la campagne d’expulsions massives voulue par le chef d’Etat américain, qui continue de s’accélérer.",
-      "url": "https://www.liberation.fr/international/amerique/deux-morts-et-des-arrestations-records-la-police-migratoire-de-donald-trump-sevit-toujours-20260714_FPCWOZSFMFDRVJTOPFXXYUV5WU/",
-      "image": null,
-      "date": "2026-07-14T17:03:34+00:00",
-      "date_formatted": "14 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -341,26 +391,6 @@
       "date_formatted": "8 July 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Aide à mourir : le Sénat renonce définitivement à modifier le texte de l’Assemblée nationale",
-      "desc": "Pour la troisième fois, le Palais du Luxembourg a rejeté, mardi, la proposition de loi, la droite sénatoriale, majoritaire avec ses alliés centristes, jugeant les critères retenus par les députés beaucoup trop larges. Ces derniers auront le mot de la fin, le 15 juillet, en vue d’une adoption définit",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/08/aide-a-mourir-le-senat-renonce-definitivement-a-modifier-le-texte-de-l-assemblee-nationale_6721690_3224.html",
-      "image": "https://img.lemde.fr/2026/05/11/451/0/2698/1349/644/322/60/0/c79a4fb_upload-1-l46s5eyxwlrl-capture-d-e-cran-2026-05-11-a-13-27-47.png",
-      "date": "2026-07-08T05:00:04+00:00",
-      "date_formatted": "8 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mortalité périnatale : des chiffres toujours inquiétants, et des causes encore à explorer",
-      "desc": "En 2024, le nombre d’enfants nés sans vie ou morts au cours des sept premiers jours, a atteint 11,2 pour 1 000 naissances, contre 10,8 l’année précédente, selon une note de la direction statistique des ministères sociaux.",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/08/mortalite-perinatale-malgre-des-chiffres-toujours-inquietants-les-causes-restent-encore-a-explorer_6721555_3224.html",
-      "image": "https://img.lemde.fr/2026/07/07/547/0/4619/2309/644/322/60/0/205e49b_upload-1-rco21bt2nlif-000-34fr9f8.jpg",
-      "date": "2026-07-08T00:01:09+00:00",
-      "date_formatted": "8 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Le gourou de la longévité Bryan Johnson révèle souffrir d’une maladie auto-immune de l’estomac",
