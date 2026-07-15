@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-07-15T13:04:50.688424+00:00",
-  "count": 57,
+  "generated_at": "2026-07-15T18:51:17.181961+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title": "Dengue, chikungunya, Zika : voici ce qui se passe dans un moustique avant qu’il puisse vous infecter",
+      "desc": "Une piqûre et tout bascule. À l’échelle microscopique, une véritable opération d’infiltration est déjà en cours : des virus — mais pas que… — exploitent le moustique pour nous atteindre. Pour ce troisième épisode de notre série de l’été consacrée aux secrets des moustiques, Futura vous embarque...",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-dengue-chikungunya-zika-voici-ce-passe-moustique-avant-quil-puisse-vous-infecter-136026/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/c/0/9c001bb0e2_50258137_piqure-moustique-virus.jpg",
+      "date": "2026-07-15T20:27:13+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Fin de vie : la France crée un droit sur l'aide à mourir",
+      "desc": "Après un débat qui aura duré quatre ans, l'Assemblée nationale a définitivement adopté la loi sur la fin de vie. Elle instaure un droit sur l'aide à mourir sous conditions strictes.",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/fin-de-vie-la-france-cree-un-droit-sur-l-aide-a-mourir_8109323.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mnYETrYfEHqbE3WAgUAFKwtfXIM/106x0:1555x815/432x243/filters:format(jpg):quality(50)/2026/07/15/6a57cd93e98c2895613558.png",
+      "date": "2026-07-15T20:25:17+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le choix de sa fin de vie, ultime liberté",
+      "desc": "En adoptant définitivement la proposition de loi créant un droit à l’aide à mourir pour des malades atteints d’une affection incurable, les députés ont démontré leur capacité à répondre à un enjeu de société majeur. Le texte incarne l’un des rares engagements d’ampleur concrétisés du second quinquen",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/15/le-choix-de-sa-fin-de-vie-ultime-liberte_6717514_3233.html",
+      "image": "https://img.lemde.fr/2026/07/15/208/0/2500/1250/644/322/60/0/1bc510a_upload-1-wt3g06ltxl7n-jmug260715030.jpg",
+      "date": "2026-07-15T20:07:24+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "À Cuba, le système de santé au bord de la rupture",
+      "desc": "🇨🇺 La crise économique et le blocus pétrolier de Washington mettent à rude épreuve les 🏥 hôpitaux et les services médicaux cubains. Pénuries de pièces détachées et vieillissement des technologies limitent la prise en charge des patients. #franceinfoRF",
+      "url": "https://www.franceinfo.fr/monde/cuba/a-cuba-le-systeme-de-sante-au-bord-de-la-rupture_8107685.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/p8UtT3cRfFsQFyXxcRUsh7BKQqM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/14/6a5643643c71e736845659.jpg",
+      "date": "2026-07-15T20:00:02+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Il était temps, il est urgent que le texte soit appliqué\", réagit l'ancienne ministre Agnès Firmin-Le Bodo, après l'adoption la loi sur l'aide à mourir",
+      "desc": "Le Parlement a définitivement adopté, mercredi, la proposition de loi visant à créer un droit à l'aide à mourir, qui permettrait à certains malades atteints de pathologies graves d'obtenir sous conditions l'administration d'un produit létal.",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/il-etait-temps-il-est-urgent-que-le-texte-soit-applique-reagit-l-ancienne-ministre-agnes-firmin-le-bodo-apres-l-adoption-la-loi-sur-l-aide-a-mourir_8109314.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/NNqQFYNM2OY_x4UWbocCcFii7co/0x0:8256x4644/432x243/filters:format(jpg):quality(50)/2024/05/27/agnes-firmin-le-bodo2-665442118138d939200251.jpg",
+      "date": "2026-07-15T19:57:53+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Critères d'accès, délai de réflexion, clause de conscience... Que prévoit la loi sur l'aide à mourir, que le Parlement vient d'adopter définitivement ?",
+      "desc": "Les députés ont donné, mercredi, un feu vert décisif à cette réforme majeure du quinquennat d'Emmanuel Macron. Ce vote survient deux mois après l'adoption d'un texte destiné à améliorer l'accès aux soins palliatifs.",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/criteres-d-acces-delai-de-reflexion-clause-de-conscience-que-prevoit-la-loi-sur-l-aide-a-mourir-que-le-parlement-vient-d-adopter-definitivement_8095940.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/RclKi24tSgyjiQaL8_aVFMz2F30/0x520:5000x3333/432x243/filters:format(jpg):quality(50)/2026/07/06/6a4b6e8d779d0239736296.jpg",
+      "date": "2026-07-15T19:54:30+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : le Parlement approuve définitivement le droit à l’« aide à mourir », Emmanuel Macron salue un « débat respectueux » et un « engagement tenu »",
+      "desc": "Pour entériner cette promesse du président de la République maintes fois retardée, le gouvernement avait donné le dernier mot à l’Assemblée nationale, qui a approuvé le texte par 291 voix contre 241, mercredi 15 juillet.",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-le-parlement-approuve-definitivement-le-droit-a-l-aide-a-mourir_6723602_823448.html",
+      "image": "https://img.lemde.fr/2026/07/15/208/0/2500/1250/644/322/60/0/c64493b_upload-1-rupzwhqqu2jx-jmug260715037.jpg",
+      "date": "2026-07-15T19:32:19+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : \"Ils sont à côté de la plaque\", déplore Karine, dont le mari n'aura pas pu bénéficier de la loi qui pourrait être votée ce mercredi",
+      "desc": "La France va-t-elle rejoindre la Suisse, la Belgique ou encore les Pays-Bas, qui ont déjà légalisé l’aide à mourir ? Après deux ans de débats parfois enflammés, c’est aujourd'hui, mercredi 15 juillet, que se tient le tout dernier vote à l'Assemblée nationale pour la proposition de loi. Nous avons re",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/fin-de-vie-ils-sont-a-cote-de-la-plaque-deplore-karine-dont-le-mari-n-aura-pas-pu-beneficier-de-la-loi-qui-pourrait-etre-votee-ce-mercredi_8108930.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/aCTJT6MLbexOyQuvmdknuVWtLxQ/71x0:1216x644/432x243/filters:format(jpg):quality(50)/2026/07/15/6a5794ce53508322453320.jpg",
+      "date": "2026-07-15T18:40:43+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Adoption de la loi sur la fin de vie : un vote pour l’histoire et la liberté",
+      "desc": "Votée mercredi à l’Assemblée après plus de deux ans de débats difficiles, le texte sur l’aide à mourir est un progrès sur un sujet d’une intimité abyssale.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/adoption-de-la-loi-sur-la-fin-de-vie-un-vote-pour-lhistoire-et-la-liberte-20260715_IDKKV263SVAP7L2PBG2ZBL44LM/",
+      "image": null,
+      "date": "2026-07-15T18:39:01+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Lyhanna : Jérôme Barella mis en examen pour le meurtre et le viol de la collégienne de 11 ans",
+      "desc": "Le principal suspect dans la mort de la collégienne a également été mis en examen ce mercredi 15 juillet pour viols sur mineure de moins de 15 ans dans l’affaire dite «Rosa».",
+      "url": "https://www.liberation.fr/societe/police-justice/jerome-barella-va-etre-entendu-par-un-juge-dinstruction-pour-le-meurtre-et-le-viol-de-lyhanna-20260715_FWPLWYKDPRFTXNB67DB4EAZN6E/",
+      "image": null,
+      "date": "2026-07-15T18:38:40+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Loi sur la fin de vie adoptée : «C’est un cadeau, pour nous, malades, et nos proches»",
+      "desc": "Alors que la loi légalisant une aide à mourir a été adoptée mercredi, «Libé» donne la parole à quatre personnes atteintes de maladies incurables. Invisibilisées pendant les débats parlementaires, elles confient leur joie après ce moment historique, mais aussi leurs doutes et leurs angoisses.",
+      "url": "https://www.liberation.fr/societe/loi-sur-la-fin-de-vie-adoptee-cest-un-cadeau-pour-nous-malades-et-nos-proches-20260715_FF45KSAZA5DYDGQPEVISTOPDKU/",
+      "image": null,
+      "date": "2026-07-15T18:07:36+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "50 ans de mystère résolu : voici le nouveau groupe sanguin que des chercheurs viennent d'identifier",
+      "desc": "Vous connaissez sans doute votre groupe A, B, AB ou O, et votre rhésus. Mais le sang humain est bien plus complexe. Après un demi-siècle d'énigme, des chercheurs viennent d'identifier un tout nouveau système de groupe sanguin, caché dans l'ADN d'une poignée de personnes à travers le monde.",
+      "url": "https://www.futura-sciences.com/sante/actualites/sang-50-ans-mystere-resolu-voici-nouveau-groupe-sanguin-chercheurs-viennent-identifier-k2m6-136154/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/2/1/2219b574ba_50258006_groupe-sanguin.jpg",
+      "date": "2026-07-15T18:00:00+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Fin de vie : Le droit à l’aide à mourir définitivement adopté par les députés",
+      "desc": "Les députés ont adopté ce mercredi la proposition de loi créant un droit à l’aide à mourir",
+      "url": "https://www.20minutes.fr/sante/4234691-20260715-fin-vie-droit-aide-mourir-definitivement-adopte-deputes?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/k5_m4IjNRL676-EQShgIFyk/1200x768_l-assemblee-nationale-a-procede-au-vote-solennel-sur-le-projet-de-loi-visant-a-offrir-des-reponses-immediates-aux-phenomenes-troublant-l-ordre-public-la-securite-et-la-tranquillite-de-nos-concitoyens-ripost-propose-par-le-ministre-de-l-interieur-laurent-nunez-le-15-juillet-2026-paris-france-15-juillet-2026-l-assemblee-nationale-a-procede-a-un-vote-formel-sur-le-projet-de-loi-visant-a-apporter-des-reponses-immediates-aux-incidents-qui-perturbent-l-ordre-public-la-securite-et-la-paix-de-nos-concitoyens-ripost-propose-par-le-ministre-de-l-interieur-laurent-nunez-le-15-juillet-2026-paris-france-15-07-2026-harsin-projetloir-post-assemblee-nationale014-credit-isa-harsin-sipa-2607151818",
+      "date": "2026-07-15T17:29:46+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Loi sur la fin de vie : le Parlement approuve définitivement la création d’un droit à l’aide à mourir",
+      "desc": "Lors d’un quatrième et ultime vote, l’Assemblée nationale a entériné ce mercredi 15 juillet au soir la loi créant un droit à l’assistance au suicide et dans certains cas à l’euthanasie. Une réforme sociétale majeure historique.",
+      "url": "https://www.liberation.fr/societe/sante/loi-sur-la-fin-de-vie-le-parlement-approuve-definitivement-la-creation-dun-droit-a-laide-a-mourir-20260715_TITUEH6NWJFKBPDHIFGSC2W4MI/",
+      "image": null,
+      "date": "2026-07-15T17:28:26+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : en RDC, l’épidémie progresse à un « rythme sans précédent » selon MSF, plus de 2 000 cas recensés",
+      "desc": "L’épidémie pourrait être au moins deux à quatre fois plus importante que ne le laissent penser les chiffres officiels, d’après l’OMS.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/15/en-republique-democratique-du-congo-l-epidemie-progresse-a-un-rythme-sans-precedent-selon-msf_6723561_3212.html",
+      "image": "https://img.lemde.fr/2026/06/29/333/0/4000/2000/644/322/60/0/e61720e_upload-1-mmdwrmwfsep0-21-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
+      "date": "2026-07-15T15:22:05+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : Plus de 2.000 cas recensés, la maladie se propage à un rythme « sans précédent »",
+      "desc": "« En moins de cinq semaines, le nombre de cas confirmés a triplé », alerte Médecins sans frontières (MSF). L’épidémie de Bundibugyo, du nom du variant d’Ebola, a commencé le 15 mai dernier en République démocratique du Congo",
+      "url": "https://www.20minutes.fr/sante/4234658-20260715-ebola-plus-2-000-cas-recenses-maladie-propage-rythme-precedent?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Qta3LX7nSFuwp4aLr4S0JCk/1200x768_260706-bunia-6-juillet-2026-xinhua-des-travailleurs-medicaux-effectuent-des-travaux-de-desinfection-dans-un-centre-de-traitement-d-ebola-a-bunia-la-capitale-de-la-province-de-l-ituri-en-republique-democratique-du-congo-le-6-juillet-2026-le-bilan-de-la-derniere-epidemie-d-ebola-en-republique-democratique-du-congo-a-depasse-les-500-morts-selon-un-rapport-publie-dimanche-par-les-autorites-sanitaires-du-pays-xinhua-xin-huashefa-chine-nouvelle-cmxztpe000063-20260707-pepfn0a001-credit-chine-nouvelle-sipa-2607070750",
+      "date": "2026-07-15T14:57:00+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Alzheimer : les troubles de la mémoire ne seraient pas le premier signe, mais ce changement de comportement",
       "desc": "Les oublis ne sont peut-être que la partie visible de l'iceberg. Des chercheurs viennent d'identifier un autre changement du fonctionnement cérébral qui pourrait apparaître plusieurs années plus tôt. De quoi ouvrir de nouvelles pistes pour détecter la maladie avant que les symptômes ne...",
@@ -253,16 +413,6 @@
       "type": "science"
     },
     {
-      "title": "\"Réunions de crise\" et menus quotidiens : comment une résidence pour seniors du Val-de-Marne s'adapte à la canicule",
-      "desc": "Une nouvelle cellule interministérielle de crise s'est tenue ce vendredi 10 juillet. Le gouvernement déclenche un nouveau dispositif : le plan Orsec \"chaleurs extrêmes\" prévoit notamment l'ouverture de centres de rafraîchissement à destination des \"personnes vulnérables\", notamment les personnes âgé",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reunions-de-crise-et-menus-quotidiens-comment-une-residence-pour-seniors-du-val-de-marne-s-adapte-a-la-canicule_8102852.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/FOlEJidsSfJnb-nYYW5ShHzunK8/39x0:1330x726/432x243/filters:format(jpg):quality(50)/2026/07/10/6a50fc9688729206802377.jpg",
-      "date": "2026-07-10T16:09:16+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Etats-Unis : Plusieurs personnes touchées par une mystérieuse maladie après avoir fait du rafting dans le Grand Canyon",
       "desc": "Un homme a notamment contracté une grave infection au genou trois jours après avoir terminé son excursion début juin",
       "url": "https://www.20minutes.fr/monde/etats-unis/4234010-20260710-etats-unis-plusieurs-personnes-touchees-mysterieuse-maladie-apres-avoir-fait-rafting-grand-canyon?at_medium=display&at_campaign=149",
@@ -343,36 +493,6 @@
       "type": "presse"
     },
     {
-      "title": "La Chine accélère contre le cancer : ce vaccin conçu avec l’IA veut s’adapter à chaque tumeur",
-      "desc": "À Pékin, la première ligne chinoise de production de vaccins anticancer personnalisés assistée par l'intelligence artificielle est actuellement en cours de construction. Ce projet marque une nouvelle étape dans la course mondiale aux immunothérapies sur mesure.",
-      "url": "https://www.futura-sciences.com/sante/actualites/vaccin-chine-accelere-cancer-ce-vaccin-concu-ia-veut-adapter-chaque-tumeur-135932/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/8/1/a814c924bb_50257647_chine-vaccin-cancer-ia.jpg",
-      "date": "2026-07-09T11:03:00+00:00",
-      "date_formatted": "9 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Son corps se retourne contre lui : Bryan Johnson, le milliardaire qui veut rajeunir, est atteint d’une maladie auto-immune",
-      "desc": "Bryan Johnson, l’homme qui défie la mort avec son projet Blueprint, vient de révéler qu’il souffre d’une maladie auto-immune incurable.",
-      "url": "https://www.futura-sciences.com/sante/actualites/esperance-vie-son-corps-retourne-lui-bryan-johnson-milliardaire-veut-rajeunir-atteint-maladie-auto-immune-136040/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/e/1/ce14c60dee_50257858_bryan-johnson-maladie.jpg",
-      "date": "2026-07-08T18:27:14+00:00",
-      "date_formatted": "8 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Les femmes enceintes et leurs bébés, particulièrement vulnérables face à l’épidémie d’Ebola dans l’est de la RDC",
-      "desc": "Accouchements prématurés, hémorragies et morts fœtales intra utero : les femmes enceintes sont en première ligne de l’épidémie. Moins de 10 % des patientes contaminées survivent, selon les Nations unies.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/08/les-femmes-enceintes-et-leurs-bebes-particulierement-vulnerables-face-a-l-epidemie-d-ebola-dans-l-est-de-la-rdc_6721877_3212.html",
-      "image": "https://img.lemde.fr/2026/07/07/546/0/4000/2000/644/322/60/0/6775a48_upload-1-4ggnzvxzkflq-16-pb-lemonde-ebola-sante-maternelle-infantile-mongbwalu-rdc.jpg",
-      "date": "2026-07-08T18:00:02+00:00",
-      "date_formatted": "8 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "La science biologique, une évolution en soi",
       "desc": "La biologie contemporaine est en perpétuelle redéfinition, rappelle Stéphane Van Damme dans sa Carte blanche au « Monde », s’appuyant sur deux ouvrages consacrés à cette discipline.",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/08/la-science-biologique-une-evolution-en-soi_6721809_1650684.html",
@@ -381,16 +501,6 @@
       "date_formatted": "8 July 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Le gourou de la longévité Bryan Johnson révèle souffrir d’une maladie auto-immune de l’estomac",
-      "desc": "Connu pour investir des millions dans des protocoles destinés à ralentir son vieillissement, l’entrepreneur américain Bryan Johnson révèle souffrir d’une gastrite auto-immune",
-      "url": "https://www.20minutes.fr/sante/4233293-20260707-gourou-longevite-bryan-johnson-revele-souffrir-maladie-auto-immune-estomac?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/rt8S38jOQB2DzJOwujNdlyk/1200x768_usage-editorial-uniquement-credit-obligatoire-photo-de-ken-mc-kay-itv-shutterstock-15352196ai-bryan-johnson-emission-televisee-this-morning-londres-royaume-uni-11-juin-2025-shutterstock-editorial-this-morning-tv-show-london-u-15352196ai-usage-editorial-seulement-2506111336",
-      "date": "2026-07-07T10:11:22+00:00",
-      "date_formatted": "7 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "La mortalité périnatale continue d'augmenter en France",
