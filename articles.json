@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-15T07:46:49.147569+00:00",
-  "count": 59,
+  "generated_at": "2026-07-15T13:04:50.688424+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Alzheimer : les troubles de la mémoire ne seraient pas le premier signe, mais ce changement de comportement",
+      "desc": "Les oublis ne sont peut-être que la partie visible de l'iceberg. Des chercheurs viennent d'identifier un autre changement du fonctionnement cérébral qui pourrait apparaître plusieurs années plus tôt. De quoi ouvrir de nouvelles pistes pour détecter la maladie avant que les symptômes ne...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-troubles-memoire-ne-seraient-pas-premier-signe-mais-ce-changement-comportement-136216/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/d/e/ddecbd021e_50258105_alzheimer-premiers-signes.jpg",
+      "date": "2026-07-15T12:08:28+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Fin de vie : les soignants, divisés sur l’« aide à mourir », appréhendent l’entrée en vigueur de la nouvelle loi",
+      "desc": "Pour certains, c’est une « révolution » qui va dans le bon sens, pour d’autres, un « vertige éthique ». Les professionnels de santé, qui disposeront d’une « clause de conscience », vont se retrouver en première ligne, après l’adoption probable de la proposition de loi soumise à un vote solennel, mer",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/15/fin-de-vie-les-soignants-divises-sur-l-aide-a-mourir-apprehendent-l-entree-en-vigueur-de-la-nouvelle-loi_6723526_3224.html",
+      "image": "https://img.lemde.fr/2026/07/14/835/0/3718/1859/644/322/60/0/8041443_upload-1-5uqp1vhuzd70-20260714-chaissac-ce-dric-alexandre-ollier-07.jpg",
+      "date": "2026-07-15T10:14:48+00:00",
+      "date_formatted": "15 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Mort traumatique suspecte en milieu rural : quand la médecine légale éclaire l’enquête",
       "desc": "Une sexagénaire est découverte morte dans un champ. Elle présente des lésions témoignant d’une violence extrême. L’autopsie et les investigations médico-légales ont permis de reconstituer les circonstances de ce décès particulièrement troublant.",
@@ -23,26 +43,6 @@
       "type": "science"
     },
     {
-      "title": "EN DIRECT - Canicule : 142 morts par noyade depuis le 19 juin, plus de la moitié sur des lieux non autorisés",
-      "desc": "Les 26 derniers départements placés en vigilance rouge par Météo France ont tous rebasculé en orange à 6 heures ce mercredi 15 juillet. Des feux, dont ceux de la forêt de Fontainebleau, continuent à ravager des milliers d’hectares partout dans l’Hexagone.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-incendies-fin-de-lalerte-rouge-69-departements-en-vigilance-orange-20260715_35JNCH4XSZAWDJUFUFJXUT4NPY/",
-      "image": null,
-      "date": "2026-07-15T06:54:52+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Philippe Bergerot, président de La Ligue contre le cancer : « Les politiques, très souvent, retardent l’action sous la pression des lobbys et de la désinformation »",
-      "desc": "L’oncologue plaide, dans un entretien au « Monde », pour une politique de prévention des cancers agissant à la fois sur la pollution et sur les comportements individuels. L’association La Ligue contre le cancer demande l’extension du principe de précaution aux questions sanitaires afin de « protéger",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/15/philippe-bergerot-president-de-la-ligue-contre-le-cancer-les-politiques-tres-souvent-retardent-l-action-sous-la-pression-des-lobbys-et-de-la-desinformation_6723493_3244.html",
-      "image": "https://img.lemde.fr/2026/07/14/88/0/8256/4128/644/322/60/0/f9b19d5_upload-1-nuun0rlyk4v4-maxnewsspecialtwo379230.jpg",
-      "date": "2026-07-15T06:00:24+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Fin de vie : l’aide à mourir, un « long cheminement » pour Emmanuel Macron",
       "desc": "Après avoir douté de la nécessité d’une nouvelle législation, craint de mécontenter les représentants des cultes et redouté de fracturer la société, le chef de l’Etat s’est finalement résolu à faire évoluer la loi sur l’aide à mourir. La proposition de loi devrait être adoptée, cet après-midi, à l’A",
       "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-l-aide-a-mourir-un-long-cheminement-pour-emmanuel-macron_6723495_823448.html",
@@ -53,23 +53,13 @@
       "type": "presse"
     },
     {
-      "title": "Affaire Sabine Dumont : la fillette assassinée, le dernier fil génétique et l’ombre d’un possible tueur en série",
-      "desc": "La justice tente inlassablement de remonter la piste du meurtrier de cette enfant de 9 ans, enlevée, violée et tuée en 1987 dans l’Essonne. Tout a été tenté dans cette enquête au gré des évolutions des techniques scientifiques. En attendant les résultats d’une expertise de la dernière chance aux Eta",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-sabine-dumont-la-fillette-assassinee-le-dernier-fil-genetique-et-lombre-dun-possible-tueur-en-serie-20260715_TPOGPUR34JB6JA6KDVJBTIFTBY/",
-      "image": null,
-      "date": "2026-07-15T05:30:00+00:00",
+      "title": "Philippe Bergerot, président de La Ligue contre le cancer : « Les politiques, très souvent, retardent les actions de prévention, sous la pression des lobbys et de la désinformation »",
+      "desc": "L’oncologue plaide, dans un entretien au « Monde », pour une politique de prévention des cancers agissant à la fois sur la pollution et sur les comportements individuels. L’association La Ligue contre le cancer demande l’extension du principe de précaution aux questions sanitaires, afin de « protége",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/15/philippe-bergerot-president-de-la-ligue-contre-le-cancer-les-politiques-tres-souvent-retardent-l-action-sous-la-pression-des-lobbys-et-de-la-desinformation_6723493_3244.html",
+      "image": "https://img.lemde.fr/2026/07/14/88/0/8256/4128/644/322/60/0/f9b19d5_upload-1-nuun0rlyk4v4-maxnewsspecialtwo379230.jpg",
+      "date": "2026-07-15T06:00:14+00:00",
       "date_formatted": "15 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Loi sur l’aide à mourir : le premier jour du reste de la fin de vie",
-      "desc": "L’Assemblée nationale doit se prononcer définitivement, mercredi 15 juillet, sur la proposition de loi sur la fin de vie et ouvrir un droit au suicide assisté pour les malades incurables et en grande souffrance qui le souhaitent.",
-      "url": "https://www.liberation.fr/societe/sante/loi-sur-laide-a-mourir-le-premier-jour-du-reste-de-la-fin-de-vie-20260715_HZ4BR35CSNBZTHIAAKIBSJIISQ/",
-      "image": null,
-      "date": "2026-07-15T03:32:00+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -411,16 +401,6 @@
       "date_formatted": "7 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "La mortalité périnatale a encore augmenté en France en 2024 à plus de 11 pour 1.000",
-      "desc": "La France a dégringolé dans le classement des pays de l’Union européenne en matière de mortalité périnatale",
-      "url": "https://www.20minutes.fr/sante/4233264-20260707-mortalite-perinatale-encore-augmente-france-2024-plus-11-1-000?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Ai34dDEuTUqpGs7ym-KMvik/1200x768_un-nouveau-ne-avec-sa-maman-le-11-mars-2022-au-service-maternite-de-l-hopital-d-avignon-vaucluse-recoit-les-soins-de-la-part-d-une-infirmiere-benayacheadil-1904-00437-credit-adil-benayache-sipa-2404220904",
-      "date": "2026-07-07T05:38:39+00:00",
-      "date_formatted": "7 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Le cerveau peut s’améliorer à n’importe quel âge",
