@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-07-16T07:51:51.262440+00:00",
+  "generated_at": "2026-07-16T13:13:23.173765+00:00",
   "count": 68,
   "articles": [
+    {
+      "title": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola",
+      "desc": "Dans un entretien au « Monde », le praticien hospitalier et chercheur à l’Inserm regrette la façon dont le gouvernement a géré la récente flambée de hantavirus, en imposant un isolement strict aux malades. Il appelle les autorités à mieux anticiper les futures crises sanitaires.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/16/en-gerant-des-epidemies-de-facon-aussi-peu-democratique-on-degrade-le-systeme-les-lecons-de-l-infectiologue-xavier-lescure-apres-les-crises-du-hantavirus-et-d-ebola_6723805_1650684.html",
+      "image": "https://img.lemde.fr/2026/07/10/342/0/6000/3000/644/322/60/0/6aee21d_upload-1-no6awktgdi0h-000-b2md6b9.jpg",
+      "date": "2026-07-16T15:00:14+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Enfin une réponse sur le piment : bon pour la santé ou dangereux lorsqu’on en mange trop ?",
+      "desc": "Le piment est-il un allié santé ou un ennemi silencieux ? Une vaste étude révèle que les plus gros consommateurs présentent un risque non négligeable de cancer gastro-intestinal, avec une association particulièrement forte pour un cancer grave. Pourtant, d’autres études prêtent à cette épice des...",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-enfin-reponse-piment-bon-sante-dangereux-lorsquon-mange-trop-136245/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/5/9/5595769c65_50258164_piment-effet-sante.jpg",
+      "date": "2026-07-16T13:21:44+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ces anticorps nouvelle génération pourraient transformer la médecine",
+      "desc": "Les anticorps thérapeutiques ont déjà transformé la prise en charge de nombreux cancers et de maladies auto-immunes ou inflammatoires. Leur force : reconnaître avec une grande précision une cible biologique impliquée dans une maladie.",
+      "url": "https://www.futura-sciences.com/sante/actualites/anticorps-therapeutiques-ces-anticorps-nouvelle-generation-pourraient-transformer-medecine-136256/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/b/3/0b388e3375_50258152_recherche-mediclae-anticorps-therapeutiques.jpg",
+      "date": "2026-07-16T12:30:50+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Droit à l’aide à mourir : Quel est le parcours concret des malades qui souhaiteraient en bénéficier ?",
+      "desc": "Les députés ont voté mercredi en faveur de la création d’un droit à l’aide à mourir, dans une procédure très encadrée qui prévoit plusieurs délais de réflexion",
+      "url": "https://www.20minutes.fr/sante/4234794-20260716-droit-aide-mourir-parcours-malades-souhaiteraient-beneficier?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/yV5KLulLRqapXrhs9egTjCk/1200x768_sylvie-richard-67-ans-atteinte-d-une-forme-incurable-de-cancer-tient-la-main-de-son-partenaire-bernard-lacour-66-ans-lors-d-un-entretien-le-1er-juin-2018-a-pont-a-mousson-dans-l-est-de-la-france-sylvie-richard-atteinte-d-une-carcinomatose-peritoneale-un-cancer-diagnostique-en-avril-2017-a-appris-en-janvier-2018-que-sa-demande-d-euthanasie-avait-ete-acceptee-en-belgique-photo-de-jean-christophe-verhaegen-afp",
+      "date": "2026-07-16T12:20:37+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un cas sur deux de démence peut être évité ou retardé, selon l'OMS",
+      "desc": "Près d'un cas de démence sur deux pourrait être évité ou retardé en agissant sur des facteurs de risque modifiables, comme le tabagisme, la sédentarité ou la pollution de l'air, selon l'Organisation mondiale de la Santé.",
+      "url": "https://www.sciencesetavenir.fr/sante/jusqu-a-45-des-risques-de-demence-peuvent-etre-evites-ou-retardes-selon-l-oms_193803?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/16/cover-r4x3w1200-6a588206530ae-alzheimer.jpg",
+      "date": "2026-07-16T12:17:24+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Affaire Jubillar : des ossements découverts dans le Tarn, des analyses médico-légales en cours",
+      "desc": "Extrait de sa cellule après ses aveux et présent sur place près de Cagnac-les-Mines ce jeudi matin, Cédric Jubillar a indiqué «l’endroit où il avait déposé le corps» de son épouse, Delphine Aussaguel, disparue depuis fin 2020.",
+      "url": "https://www.liberation.fr/societe/police-justice/apres-laudition-de-cedric-jubillar-les-fouilles-ont-debute-dans-le-tarn-pour-retrouver-le-corps-de-delphine-aussaguel-20260716_4SJLCUGULBDFZAQRKYQ3VCYE4Q/",
+      "image": null,
+      "date": "2026-07-16T12:10:16+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Parkinson : une simple larme pourrait révéler la maladie grâce à ce nouveau capteur",
+      "desc": "La maladie de Parkinson progresse souvent silencieusement avant l’apparition des premiers troubles moteurs. Pour tenter de la repérer plus tôt, des chercheurs explorent aujourd’hui une piste étonnante : identifier les déséquilibres en dopamine dans les larmes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-simple-larme-pourrait-reveler-maladie-grace-ce-nouveau-capteur-136255/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/3/3/d334ed20e3_50258153_parkinson-detection-precoce.jpg",
+      "date": "2026-07-16T11:35:20+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "L'épidémie d'Ebola continue de progresser en République démocratique du Congo",
       "desc": "Le virus Ebola, présent sur le continent depuis cinq décennies, se répand à un \"rythme sans précédent\" d'après l'Organisation mondiale de la santé. Alors que les hôpitaux saturent, les 700 morts officiels en République démocratique du Congo, pourraient être en réalité bien plus nombreux.",
@@ -13,11 +83,11 @@
       "type": "presse"
     },
     {
-      "title": "Aide à mourir : pas de quoi triompher ni paniquer face à cette loi prudente et nuancée",
-      "desc": "Adopté ce mercredi 15 juillet ce texte est une manière, pour la société et la médecine, de témoigner une forme de compassion et de fraternité aux personnes gravement malades, qui souffrent et qui vont mourir.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/aide-a-mourir-pas-de-quoi-triompher-ni-paniquer-face-a-cette-loi-prudente-et-nuancee-20260716_75F65J2ZEJH7VDGDNB66SNGBAQ/",
+      "title": "Algérie : au moins 11 morts dans l’incendie d’un orphelinat",
+      "desc": "Le feu, qui a débuté dans nuit de mercredi à jeudi, intervient alors que le pays connaît lui aussi une canicule exceptionnelle. Le bilan des victimes est encore provisoire.",
+      "url": "https://www.liberation.fr/environnement/climat/algerie-au-moins-11-morts-dans-lincendie-dun-orphelinat-20260716_YOYMUEK74FGAXFGHLROY37DMRE/",
       "image": null,
-      "date": "2026-07-16T07:10:00+00:00",
+      "date": "2026-07-16T08:42:15+00:00",
       "date_formatted": "16 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -30,36 +100,6 @@
       "date": "2026-07-16T05:56:00+00:00",
       "date_formatted": "16 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L’aide à mourir votée, incendies à Fontainebleau, l’Argentine encore en finale… L’actu de ce 16 juillet au matin",
-      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
-      "url": "https://www.liberation.fr/international/europe/laide-a-mourir-votee-incendies-a-fontainebleau-largentine-encore-en-finale-lactu-de-ce-16-juillet-au-matin-20260716_6DVZXPI7JNGD3FRZT63O5AAOQU/",
-      "image": null,
-      "date": "2026-07-16T05:45:48+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«On l’a fait !» : l’ultime vote pour légaliser l’aide à mourir vu avec les militants de l’ADMD",
-      "desc": "«Libé» a assisté mercredi 15 juillet à la retransmission organisée par l’association de l’adoption définitive de la loi sur l’aide à mourir. Réforme sociétale pour laquelle elle s’est battue pendant un demi-siècle.",
-      "url": "https://www.liberation.fr/societe/sante/on-la-fait-lultime-vote-pour-legaliser-laide-a-mourir-vue-avec-ses-militants-20260716_TMFLNK6PTZF6TNNKGLTO6OLQ6Q/",
-      "image": null,
-      "date": "2026-07-16T04:15:00+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Jean-François Delfraissy, sur l’aide à mourir : «On reconnaît au patient une capacité à décider pour lui-même»",
-      "desc": "Le président du Comité consultatif national d’éthique, dont l’avis de 2022 a ouvert la voie à la loi votée mercredi 15 juillet, se réjouit qu’avec ce texte la fin de vie ne soit plus seulement envisagée du point de vue médical, mais aussi de celui des personnes malades.",
-      "url": "https://www.liberation.fr/politique/jean-francois-delfraissy-sur-laide-a-mourir-on-reconnait-au-patient-une-capacite-a-decider-pour-lui-meme-20260716_4BB4IKATCFGYDG2BATWEMZMYGU/",
-      "image": null,
-      "date": "2026-07-16T04:00:01+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -86,7 +126,7 @@
       "title": "Fin de vie : L’adoption du droit à l’aide à mourir ne met pas fin aux divisions",
       "desc": "L’Assemblée nationale a définitivement adopté le droit à l’aide à mourir ce mercredi, une décision saluée par l’ADMD, mais décriée par les associations conservatrices ou par l’Eglise catholique",
       "url": "https://www.20minutes.fr/societe/4234707-20260715-fin-vie-adoption-droit-aide-mourir-met-fin-divisions?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/KUGMi6OVQ7qlfeak32Z5Rik/1200x768_france-paris-02-11-2023-16e-journee-mondiale-pour-le-droit-de-mourir-dans-la-dignite-rassemblement-de-militants-de-l-association-pour-le-droit-de-mourir-dans-la-dignite-admd-association-pour-le-droit-de-mourir-dans-la-dignite-de-patients-et-de-leurs-familles-pour-reclamer-une-loi-autorisant-une-mort-digne-et-responsable-ils-mettent-en-avant-le-slogan-marre-d-attendre-estimant-que-le-debat-s-eternise-alors-qu-en-avril-2021-les-deputes-ont-vote-a-une-ecrasante-majorite-en-faveur-de-l-article-1-du-projet-de-loi-d-olivier-falorni-visant-a-legaliser-l-euthanasie-et-le-suicide-assiste-et-que-les-conclusions-de-la-convention-citoyenne-sur-la-fin-de-vie-en-avril-2023-preconisent-l-ouverture-de-l-aide-active-a-mourir-francia-paris-02-11-2023-journee-mondiale-du-droit-de-mourir-dans-la-dignite-rassemblement-des-militants-de-l-association-pour-le-droit-de-mourir-dans-la-dignite-admd-de-malades-et-leurs-familles-pour-reclamer-une-loi-autorisant-une-mort-digne-et-decidee-en-responsabilite-ils-mettent-en-avant-le-slogan-marre-d-attendre-estimant-que-le-debat-s-eternise-alors-meme-que-les-deputes-en-avril-2021-ont-largement-vote-l-article-1er-de-la-proposition-de-loi-visant-a-legaliser-l-euthanasie-et-le-suicide-assiste-et-que-les-conclusions-de-la-convention-citoyenne-sur-la-fin-de-vie-d-avril-2023-preconisent-une-ouverture-de-l-aide-active-a-mourir-photo-de-valerie-dubois-hans-lucas-via-afp",
+      "image": "https://img.20mn.fr/C4FBPsTpQNiG56W7X8GDtyk/1200x768_aide-mourir-va-permettre-certains-malades-atteints-pathologies-graves-obtenir-sous-conditions-administration-produit-letal-enteriner-promesse-emmanuel",
       "date": "2026-07-15T20:11:02+00:00",
       "date_formatted": "15 July 2026",
       "source": "20 Minutes Santé",
@@ -166,7 +206,7 @@
       "title": "Fin de vie : Le droit à l’aide à mourir définitivement adopté par le Parlement",
       "desc": "Les députés ont adopté ce mercredi en dernière lecture la proposition de loi créant un droit à l’aide à mourir",
       "url": "https://www.20minutes.fr/sante/4234691-20260715-fin-vie-droit-aide-mourir-definitivement-adopte-deputes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/k5_m4IjNRL676-EQShgIFyk/1200x768_l-assemblee-nationale-a-procede-au-vote-solennel-sur-le-projet-de-loi-visant-a-offrir-des-reponses-immediates-aux-phenomenes-troublant-l-ordre-public-la-securite-et-la-tranquillite-de-nos-concitoyens-ripost-propose-par-le-ministre-de-l-interieur-laurent-nunez-le-15-juillet-2026-paris-france-15-juillet-2026-l-assemblee-nationale-a-procede-a-un-vote-formel-sur-le-projet-de-loi-visant-a-apporter-des-reponses-immediates-aux-incidents-qui-perturbent-l-ordre-public-la-securite-et-la-paix-de-nos-concitoyens-ripost-propose-par-le-ministre-de-l-interieur-laurent-nunez-le-15-juillet-2026-paris-france-15-07-2026-harsin-projetloir-post-assemblee-nationale014-credit-isa-harsin-sipa-2607151818",
+      "image": "https://img.20mn.fr/C4FBPsTpQNiG56W7X8GDtyk/1200x768_aide-mourir-va-permettre-certains-malades-atteints-pathologies-graves-obtenir-sous-conditions-administration-produit-letal-enteriner-promesse-emmanuel",
       "date": "2026-07-15T17:29:46+00:00",
       "date_formatted": "15 July 2026",
       "source": "20 Minutes Santé",
@@ -433,16 +473,6 @@
       "type": "science"
     },
     {
-      "title": "Vieillir en bonne santé : voici la vitamine que des chercheurs américains identifient comme une clé selon une étude",
-      "desc": "On la croyait cantonnée aux globules rouges et aux nerfs. La vitamine B12 jouerait en réalité un rôle bien plus profond dans la façon dont notre corps produit de l'énergie et entretient ses muscles. Une découverte qui pourrait éclairer les mécanismes du vieillissement.",
-      "url": "https://www.futura-sciences.com/sante/actualites/vitamines-vieillir-bonne-sante-voici-vitamine-chercheurs-americains-identifient-comme-cle-selon-etude-k2m6-136017/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/b/0/7b0fced66e_50257800_vitamine-bien-vieillir.jpg",
-      "date": "2026-07-10T10:00:00+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "L'épidémie d'Ebola en RDC se propage plus rapidement que toutes les précédentes",
       "desc": "En RDC, l’épidémie d’Ebola progresse à une vitesse inédite, avec un bilan humain déjà très lourd selon l’OMS et l’Africa CDC.",
       "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-d-ebola-en-rdc-se-propage-plus-rapidement-que-toutes-les-precedentes-selon-l-agence-de-sante-de-l-ua_193665?xtor=RSS-16",
@@ -463,16 +493,6 @@
       "type": "presse"
     },
     {
-      "title": "Les jeunes générations inquiètent les médecins : ce signal pourrait éclairer les cancers précoces",
-      "desc": "Pourquoi les cancers touchent-ils de plus en plus d'adultes jeunes ? Une équipe américaine pense avoir identifié un mécanisme jusque-là peu exploré : notre organisme pourrait vieillir plus vite qu'avant sous l'effet de notre environnement et de notre mode de vie. Un phénomène qui augmenterait le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-jeunes-generations-inquietent-medecins-ce-signal-pourrait-eclairer-cancers-precoces-136057/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/d/a/6dae4ace45_50257889_cancer-precoce-jeune.jpg",
-      "date": "2026-07-09T13:08:52+00:00",
-      "date_formatted": "9 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Epidémie d’Ebola en RDC : le bilan atteint 600 morts, selon l’OMS",
       "desc": "Le dernier bilan de l’Organisation mondiale de la santé, publié jeudi, fait état de 1 759 cas confirmés recensés dans le pays, tandis que le bilan est maintenu à deux morts pour 20 cas confirmés en Ouganda voisin.",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/09/epidemie-d-ebola-en-rdc-le-bilan-atteint-600-morts-selon-l-oms_6722070_3212.html",
@@ -491,16 +511,6 @@
       "date_formatted": "9 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "La science biologique, une évolution en soi",
-      "desc": "La biologie contemporaine est en perpétuelle redéfinition, rappelle Stéphane Van Damme dans sa Carte blanche au « Monde », s’appuyant sur deux ouvrages consacrés à cette discipline.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/08/la-science-biologique-une-evolution-en-soi_6721809_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
-      "date": "2026-07-08T11:30:07+00:00",
-      "date_formatted": "8 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "La mortalité périnatale continue d'augmenter en France",
@@ -539,16 +549,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/02/cover-r4x3w1200-6a463b961afdc-moerschy-shopping-565360-1920.jpg",
       "date": "2026-07-03T05:40:24+00:00",
       "date_formatted": "3 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "L'Argentine détecte un variant d'hantavirus en Terre de Feu",
-      "desc": "Un nouveau variant d'hantavirus a été détecté chez des souris capturées en Terre de Feu, en Argentine. Les autorités sanitaires précisent qu'il est bien distinct de la souche identifiée à bord du navire de croisière Hondius, responsable de trois décès, et poursuivent leurs investigations pour évalue",
-      "url": "https://www.sciencesetavenir.fr/sante/l-argentine-detecte-un-variant-d-hantavirus-en-terre-de-feu_193496?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/30/cover-r4x3w1200-6a43887c2f9db-hantavirus-2.jpg",
-      "date": "2026-06-30T10:15:43+00:00",
-      "date_formatted": "30 June 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
