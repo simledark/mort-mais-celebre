@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-07-16T01:20:57.824519+00:00",
-  "count": 71,
+  "generated_at": "2026-07-16T07:51:51.262440+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title": "L'épidémie d'Ebola continue de progresser en République démocratique du Congo",
+      "desc": "Le virus Ebola, présent sur le continent depuis cinq décennies, se répand à un \"rythme sans précédent\" d'après l'Organisation mondiale de la santé. Alors que les hôpitaux saturent, les 700 morts officiels en République démocratique du Congo, pourraient être en réalité bien plus nombreux.",
+      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-epidemie-d-ebola-continue-de-progresser-en-republique-democratique-du-congo_8063819.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/r2qN6klGnQ2OtI5MY5fXfBaYsHQ/0x26:512x314/432x243/filters:format(jpg):quality(50)/2026/07/16/6a58792631f95047925508.jpg",
+      "date": "2026-07-16T09:00:01+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Aide à mourir : pas de quoi triompher ni paniquer face à cette loi prudente et nuancée",
+      "desc": "Adopté ce mercredi 15 juillet ce texte est une manière, pour la société et la médecine, de témoigner une forme de compassion et de fraternité aux personnes gravement malades, qui souffrent et qui vont mourir.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/aide-a-mourir-pas-de-quoi-triompher-ni-paniquer-face-a-cette-loi-prudente-et-nuancee-20260716_75F65J2ZEJH7VDGDNB66SNGBAQ/",
+      "image": null,
+      "date": "2026-07-16T07:10:00+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi la loi sur l'aide à mourir n'entrera pas en application avant \"début 2027\"",
+      "desc": "L'adoption définitive du texte sur la fin de vie ne signifie pas son entrée en vigueur immédiate. Les malades souhaitant bénéficier d'une aide à mourir doivent encore attendre de futurs décrets et arrêtés, ainsi que des recommandations sanitaires promises d'ici à la fin de l'année.",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/pourquoi-la-loi-sur-l-aide-a-mourir-n-entrera-pas-en-application-avant-debut-2027_8097482.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/dQM6qbD6XKPac1wvWmoOQ_5U09Y/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/07/6a4cc26547eea895278027.jpg",
+      "date": "2026-07-16T05:56:00+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’aide à mourir votée, incendies à Fontainebleau, l’Argentine encore en finale… L’actu de ce 16 juillet au matin",
+      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
+      "url": "https://www.liberation.fr/international/europe/laide-a-mourir-votee-incendies-a-fontainebleau-largentine-encore-en-finale-lactu-de-ce-16-juillet-au-matin-20260716_6DVZXPI7JNGD3FRZT63O5AAOQU/",
+      "image": null,
+      "date": "2026-07-16T05:45:48+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«On l’a fait !» : l’ultime vote pour légaliser l’aide à mourir vu avec les militants de l’ADMD",
+      "desc": "«Libé» a assisté mercredi 15 juillet à la retransmission organisée par l’association de l’adoption définitive de la loi sur l’aide à mourir. Réforme sociétale pour laquelle elle s’est battue pendant un demi-siècle.",
+      "url": "https://www.liberation.fr/societe/sante/on-la-fait-lultime-vote-pour-legaliser-laide-a-mourir-vue-avec-ses-militants-20260716_TMFLNK6PTZF6TNNKGLTO6OLQ6Q/",
+      "image": null,
+      "date": "2026-07-16T04:15:00+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Jean-François Delfraissy, sur l’aide à mourir : «On reconnaît au patient une capacité à décider pour lui-même»",
+      "desc": "Le président du Comité consultatif national d’éthique, dont l’avis de 2022 a ouvert la voie à la loi votée mercredi 15 juillet, se réjouit qu’avec ce texte la fin de vie ne soit plus seulement envisagée du point de vue médical, mais aussi de celui des personnes malades.",
+      "url": "https://www.liberation.fr/politique/jean-francois-delfraissy-sur-laide-a-mourir-on-reconnait-au-patient-une-capacite-a-decider-pour-lui-meme-20260716_4BB4IKATCFGYDG2BATWEMZMYGU/",
+      "image": null,
+      "date": "2026-07-16T04:00:01+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Fin de vie : la France crée un droit sur l'aide à mourir",
       "desc": "Après un débat qui aura duré quatre ans, l'Assemblée nationale a définitivement adopté la loi sur la fin de vie. Elle instaure un droit sur l'aide à mourir sous conditions strictes.",
@@ -21,26 +81,6 @@
       "date_formatted": "15 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "A Bordeaux, deux plaintes pour viols contre un directeur d’école, une information judiciaire ouverte",
-      "desc": "Le directeur de l’école élémentaire privée catholique Sainte-Marie Bastide est soupçonné de viols, d’agressions sexuelles et de menaces de mort à l’encontre de deux petits garçons.",
-      "url": "https://www.liberation.fr/societe/police-justice/a-bordeaux-deux-plaintes-pour-viols-contre-un-directeur-decole-une-information-judiciaire-ouverte-20260715_ESFUJWOOGBCPTMBUNNVROTRIPM/",
-      "image": null,
-      "date": "2026-07-15T20:19:37+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Au Venezuela, le bilan du double séisme monte à au moins 4 829 morts",
-      "desc": "Les tremblements de terre du 24 juin ont également fait au moins 16 740 blessés, selon les derniers chiffres avancés par le gouvernement intérimaire.",
-      "url": "https://www.liberation.fr/international/amerique/au-venezuela-le-bilan-du-double-seisme-monte-a-pres-de-3-000-morts-20260705_X7LWUOQT3ZBFXA2MHCBRQXUOUM/",
-      "image": null,
-      "date": "2026-07-15T20:11:12+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Fin de vie : L’adoption du droit à l’aide à mourir ne met pas fin aux divisions",
@@ -93,16 +133,6 @@
       "type": "presse"
     },
     {
-      "title": "«Aboutissement», «processus démocratique complet» ou «rupture grave» : les principales réactions après l’adoption de l’aide à mourir",
-      "desc": "La loi définitivement adoptée ce mercredi 15 juillet attise autant la colère de ses opposants que le soulagement de ses défenseurs.",
-      "url": "https://www.liberation.fr/politique/aboutissement-processus-democratique-complet-ou-rupture-grave-les-principales-reactions-apres-ladoption-de-laide-a-mourir-20260715_QFLCYEONM5FGRNNXN6OITXP4UU/",
-      "image": null,
-      "date": "2026-07-15T19:41:29+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Fin de vie : le Parlement approuve définitivement le droit à l’« aide à mourir » ; Emmanuel Macron salue un « débat respectueux » et un « engagement tenu »",
       "desc": "Pour entériner cette promesse du président de la République maintes fois retardée, le gouvernement avait donné le dernier mot à l’Assemblée nationale, qui a approuvé le texte par 291 voix contre 241, mercredi 15 juillet.",
       "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-le-parlement-approuve-definitivement-le-droit-a-l-aide-a-mourir_6723602_823448.html",
@@ -123,36 +153,6 @@
       "type": "presse"
     },
     {
-      "title": "Adoption de la loi sur la fin de vie : un vote pour l’histoire et la liberté",
-      "desc": "Voté mercredi à l’Assemblée après plus de deux ans de débats difficiles, le texte sur l’aide à mourir est un progrès sur un sujet d’une intimité abyssale.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/adoption-de-la-loi-sur-la-fin-de-vie-un-vote-pour-lhistoire-et-la-liberte-20260715_IDKKV263SVAP7L2PBG2ZBL44LM/",
-      "image": null,
-      "date": "2026-07-15T18:39:01+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Affaire Lyhanna : Jérôme Barella mis en examen pour le meurtre et le viol de la collégienne de 11 ans",
-      "desc": "Le principal suspect dans la mort de la collégienne a également été mis en examen ce mercredi 15 juillet pour viols sur mineure de moins de 15 ans dans l’affaire dite «Rosa».",
-      "url": "https://www.liberation.fr/societe/police-justice/jerome-barella-va-etre-entendu-par-un-juge-dinstruction-pour-le-meurtre-et-le-viol-de-lyhanna-20260715_FWPLWYKDPRFTXNB67DB4EAZN6E/",
-      "image": null,
-      "date": "2026-07-15T18:38:40+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Loi sur la fin de vie adoptée : «C’est un cadeau, pour nous, malades, et nos proches»",
-      "desc": "Alors que la loi légalisant une aide à mourir a été adoptée mercredi, «Libé» donne la parole à quatre personnes atteintes de maladies incurables. Invisibilisées pendant les débats parlementaires, elles saluent ce moment historique, tout en confiant leurs doutes et leurs angoisses.",
-      "url": "https://www.liberation.fr/societe/loi-sur-la-fin-de-vie-adoptee-cest-un-cadeau-pour-nous-malades-et-nos-proches-20260715_FF45KSAZA5DYDGQPEVISTOPDKU/",
-      "image": null,
-      "date": "2026-07-15T18:07:36+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "50 ans de mystère résolu : voici le nouveau groupe sanguin que des chercheurs viennent d'identifier",
       "desc": "Vous connaissez sans doute votre groupe A, B, AB ou O, et votre rhésus. Mais le sang humain est bien plus complexe. Après un demi-siècle d'énigme, des chercheurs viennent d'identifier un tout nouveau système de groupe sanguin, caché dans l'ADN d'une poignée de personnes à travers le monde.",
       "url": "https://www.futura-sciences.com/sante/actualites/sang-50-ans-mystere-resolu-voici-nouveau-groupe-sanguin-chercheurs-viennent-identifier-k2m6-136154/#xtor%3DRSS-8",
@@ -170,16 +170,6 @@
       "date": "2026-07-15T17:29:46+00:00",
       "date_formatted": "15 July 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Loi sur la fin de vie : le Parlement approuve définitivement la création d’un droit à l’aide à mourir",
-      "desc": "Lors d’un quatrième et ultime vote à 291 voix pour et 241 contre, l’Assemblée nationale a entériné ce mercredi 15 juillet au soir la loi créant un droit à l’assistance au suicide et dans certains cas à l’euthanasie. Une réforme sociétale historique.",
-      "url": "https://www.liberation.fr/societe/sante/loi-sur-la-fin-de-vie-le-parlement-approuve-definitivement-la-creation-dun-droit-a-laide-a-mourir-20260715_TITUEH6NWJFKBPDHIFGSC2W4MI/",
-      "image": null,
-      "date": "2026-07-15T17:28:26+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -323,16 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "REPORTAGE. \"Elle n'est plus capable de réclamer à boire\" : pour les malades d'Alzheimer, les périodes de canicule sont particulièrement dangereuses",
-      "desc": "Avec la canicule, les personnes atteintes de la maladie d'Alzheimer sont particulièrement à risque car elles ne comprennent pas le risque lié à la chaleur et ne pensent pas à s'hydrater.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-elle-n-est-plus-capable-de-reclamer-a-boire-pour-les-malades-d-alzheimer-les-periodes-de-canicule-sont-particulierement-dangereuses_8105324.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/8E3-UagX--B9UhZo9QJHeFYMoPY/0x180:1920x1260/432x243/filters:format(jpg):quality(50)/2026/07/12/6a53c014eb431468337738.jpg",
-      "date": "2026-07-13T11:57:52+00:00",
-      "date_formatted": "13 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Canicule : \"On s'attend à une augmentation de l'activité à partir d'aujourd'hui\", explique Frédéric Adnet, chef du Samu de Paris",
       "desc": "À la tête du Samu parisien, Frédéric Adnet explique que les effets des fortes chaleurs \"commencent à se ressentir à J3, J4\" après le début de l'épisode caniculaire, et que les départs en vacances ont probablement retardé les appels dans son secteur.",
       "url": "https://www.franceinfo.fr/sante/canicule-on-s-attend-a-une-augmentation-de-l-activite-a-partir-d-aujourd-hui-explique-frederic-adnet-chef-du-samu-de-paris_8105993.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -411,16 +391,6 @@
       "date_formatted": "11 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Arrêt maladie : Fini les longues prescriptions, voici ce que change la nouvelle règle dès septembre",
-      "desc": "Dès la rentrée 2026, les prescriptions d’arrêt maladie seront plus encadrées. Une évolution qui concernera patients et employeurs",
-      "url": "https://www.20minutes.fr/vie-pro/4233498-20260711-arret-maladie-fini-longues-prescriptions-voici-change-nouvelle-regle-septembre?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/oxxktU_yRauJ0zwd6eCrlyk/1200x768_photo-illustration-arret-de-travail-d-un-medecin-07allilimages-il1959-credit-mourad-allili-sipa-2507291006",
-      "date": "2026-07-11T11:02:36+00:00",
-      "date_formatted": "11 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse inédite",
