@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-07-17T07:49:20.068290+00:00",
-  "count": 71,
+  "generated_at": "2026-07-17T12:58:14.538358+00:00",
+  "count": 70,
   "articles": [
     {
-      "title": "EN DIRECT - Orages : deux personnes mortes en Haute-Vienne et dans l’Isère, 53 000 foyers encore privés d’électricité",
-      "desc": "Une «mini-tornade» a notamment balayé Saint-Etienne jeudi soir, nécessitant de nombreuses interventions des pompiers. Concernant la canicule, 10 départements du Sud-Est sont encore en vigilance orange ce vendredi.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-des-degats-apres-de-violents-orages-encore-10-departements-du-sud-est-en-vigilance-orange-20260717_NG5PTVRGINDYFB5YLQSKDQJOW4/",
+      "title": "Rendre visibles les morts de la canicule : «Sans cette chaleur, ma mère serait toujours là»",
+      "desc": "Alors que le nombre de décès causés par l’épisode météo extrême de juin se précise, «Libé» a voulu aller au-delà de la froide statistique et raconter ces vies brisées qui n’ont pas de monument aux morts.",
+      "url": "https://www.liberation.fr/societe/sante/rendre-visibles-les-morts-de-la-canicule-sans-cette-chaleur-ma-mere-serait-toujours-la-20260717_3IMJXMMMI5H5ZC2DCD5QA56WWY/",
       "image": null,
-      "date": "2026-07-17T07:20:30+00:00",
+      "date": "2026-07-17T11:00:36+00:00",
+      "date_formatted": "17 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, un statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "image": null,
+      "date": "2026-07-17T09:27:35+00:00",
+      "date_formatted": "17 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Orages : deux morts, une mini-tornade et 53 000 foyers privés d’électricité",
+      "desc": "Un violent épisode orageux a balayé la France dans la nuit de jeudi à vendredi, faisant plusieurs morts et de nombreux sinistrés. Dans la Loire, département particulièrement touché, le préfet a dénombré 600 interventions des secours.",
+      "url": "https://www.liberation.fr/environnement/climat/orages-deux-morts-une-mini-tornade-et-53-000-foyers-prives-delectricite-20260717_E4ZWJVN3QBFRVGY3BMB6LS6DHM/",
+      "image": null,
+      "date": "2026-07-17T09:06:52+00:00",
       "date_formatted": "17 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -41,16 +61,6 @@
       "date_formatted": "16 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«Pour les familles et la justice, ça va avoir de l’importance» : dans le Tarn, la découverte d’ossements pourrait refermer l’enquête Jubillar",
-      "desc": "Sur les indications de Cédric Jubillar, sorti de sa cellule pour l’occasion, des ossements ont été mis au jour par les enquêteurs, ce jeudi, à Mailhoc (Tarn), à une dizaine de kilomètres de la résidence du couple.",
-      "url": "https://www.liberation.fr/societe/police-justice/pour-les-familles-et-la-justice-ca-va-avoir-de-limportance-dans-le-tarn-la-decouverte-dossements-pourrait-refermer-lenquete-jubillar-20260716_UN3BDFTXGJAIJAFM56PUBMHEH4/",
-      "image": null,
-      "date": "2026-07-16T19:06:00+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Claude Halmos, psychanalyste médiatique et spécialiste des enfants, est morte à 80 ans",
@@ -353,20 +363,20 @@
       "type": "science"
     },
     {
-      "title": "Fin de vie : l’aide à mourir, un « long cheminement » pour Emmanuel Macron",
-      "desc": "Après avoir douté de la nécessité d’une nouvelle législation, craint de mécontenter les représentants des cultes et redouté de fracturer la société, le chef de l’Etat s’est finalement résolu à faire évoluer la loi sur l’aide à mourir. La proposition de loi devrait être adoptée, cet après-midi, à l’A",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-l-aide-a-mourir-un-long-cheminement-pour-emmanuel-macron_6723495_823448.html",
-      "image": "https://img.lemde.fr/2026/07/14/424/0/8000/4000/644/322/60/0/5c6e296_upload-1-w4ukjjjr41n1-jmug260713083.jpg",
+      "title": "Philippe Bergerot, président de La Ligue contre le cancer : « Les politiques, très souvent, retardent les actions de prévention, sous la pression des lobbys et de la désinformation »",
+      "desc": "L’oncologue plaide, dans un entretien au « Monde », pour une politique de prévention des cancers agissant à la fois sur la pollution et sur les comportements individuels. L’association La Ligue contre le cancer demande l’extension du principe de précaution aux questions sanitaires, afin de « protége",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/15/philippe-bergerot-president-de-la-ligue-contre-le-cancer-les-politiques-tres-souvent-retardent-l-action-sous-la-pression-des-lobbys-et-de-la-desinformation_6723493_3244.html",
+      "image": "https://img.lemde.fr/2026/07/14/88/0/8256/4128/644/322/60/0/f9b19d5_upload-1-nuun0rlyk4v4-maxnewsspecialtwo379230.jpg",
       "date": "2026-07-15T06:00:14+00:00",
       "date_formatted": "15 July 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "Philippe Bergerot, président de La Ligue contre le cancer : « Les politiques, très souvent, retardent les actions de prévention, sous la pression des lobbys et de la désinformation »",
-      "desc": "L’oncologue plaide, dans un entretien au « Monde », pour une politique de prévention des cancers agissant à la fois sur la pollution et sur les comportements individuels. L’association La Ligue contre le cancer demande l’extension du principe de précaution aux questions sanitaires, afin de « protége",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/15/philippe-bergerot-president-de-la-ligue-contre-le-cancer-les-politiques-tres-souvent-retardent-l-action-sous-la-pression-des-lobbys-et-de-la-desinformation_6723493_3244.html",
-      "image": "https://img.lemde.fr/2026/07/14/88/0/8256/4128/644/322/60/0/f9b19d5_upload-1-nuun0rlyk4v4-maxnewsspecialtwo379230.jpg",
+      "title": "Fin de vie : l’aide à mourir, un « long cheminement » pour Emmanuel Macron",
+      "desc": "Après avoir douté de la nécessité d’une nouvelle législation, craint de mécontenter les représentants des cultes et redouté de fracturer la société, le chef de l’Etat s’est finalement résolu à faire évoluer la loi sur l’aide à mourir. La proposition de loi devrait être adoptée, cet après-midi, à l’A",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-l-aide-a-mourir-un-long-cheminement-pour-emmanuel-macron_6723495_823448.html",
+      "image": "https://img.lemde.fr/2026/07/14/424/0/8000/4000/644/322/60/0/5c6e296_upload-1-w4ukjjjr41n1-jmug260713083.jpg",
       "date": "2026-07-15T06:00:14+00:00",
       "date_formatted": "15 July 2026",
       "source": "Le Monde Santé",
@@ -390,16 +400,6 @@
       "date": "2026-07-14T17:57:39+00:00",
       "date_formatted": "14 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En République démocratique du Congo, l'épidémie d'Ebola pourrait être \"de deux à quatre fois\" plus grave que les estimations officielles",
-      "desc": "Selon l'Organisation mondiale de la santé, l'épidémie en cours en Afrique centrale pourrait être sous-évaluée. Le nombre de cas connaît en tout cas \"la progression la plus rapide de toutes les épidémies d'Ebola que nous avons gérées\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-ampleur-de-l-epidemie-d-ebola-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-selon-l-oms_8107568.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jycgEUk97qLHRdZJcW0c3hjHKac/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/14/6a5631d31ea55833091055.jpg",
-      "date": "2026-07-14T15:56:12+00:00",
-      "date_formatted": "14 July 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -479,16 +479,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/5/5/a550ecdfb8_50257862_bain-eau-froide-systeme-immunitaire.jpg",
       "date": "2026-07-12T08:00:00+00:00",
       "date_formatted": "12 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Pourquoi cet homme génétiquement destiné à Alzheimer y a-t-il échappé ? Voici l'hypothèse fascinante des chercheurs",
-      "desc": "Génétiquement condamné à développer Alzheimer avant 60 ans, comme presque toute sa famille, cet Américain de 75 ans reste pourtant l'esprit vif. Le facteur qui l'aurait protégé ? Une vie passée dans la chaleur des salles des machines. Une piste inédite pour la recherche.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-cet-homme-genetiquement-destine-alzheimer-y-t-il-echappe-voici-hypothese-fascinante-chercheurs-k2m6-136075/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/9/d/79dd893930_50257883_genetique-alzheimer.jpg",
-      "date": "2026-07-11T18:00:00+00:00",
-      "date_formatted": "11 July 2026",
       "source": "Futura Santé",
       "type": "science"
     },
