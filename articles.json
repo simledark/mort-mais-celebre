@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-17T01:24:48.829161+00:00",
-  "count": 74,
+  "generated_at": "2026-07-17T07:49:20.068290+00:00",
+  "count": 71,
   "articles": [
+    {
+      "title": "EN DIRECT - Orages : deux personnes mortes en Haute-Vienne et dans l’Isère, 53 000 foyers encore privés d’électricité",
+      "desc": "Une «mini-tornade» a notamment balayé Saint-Etienne jeudi soir, nécessitant de nombreuses interventions des pompiers. Concernant la canicule, 10 départements du Sud-Est sont encore en vigilance orange ce vendredi.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-des-degats-apres-de-violents-orages-encore-10-departements-du-sud-est-en-vigilance-orange-20260717_NG5PTVRGINDYFB5YLQSKDQJOW4/",
+      "image": null,
+      "date": "2026-07-17T07:20:30+00:00",
+      "date_formatted": "17 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : « Un acte éminemment difficile »… Le corps médical inquiet et divisé sur le droit à l’aide à mourir",
+      "desc": "Après l’adoption mercredi de la proposition de loi créant un droit à l’aide à mourir, médecins et infirmiers, qui se retrouveront en première ligne, expriment leurs craintes sur sa mise en œuvre",
+      "url": "https://www.20minutes.fr/sante/4234893-20260717-fin-vie-acte-eminemment-difficile-corps-medical-inquiet-divise-droit-aide-mourir?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/xeF1GItFQ7K0WAC-V3XmNSk/1200x768_une-infirmiere-tient-la-main-d-un-patient-alors-qu-il-le-soigne-dans-l-unite-de-soins-palliatifs-de-l-hopital-paul-brousse-ap-hp-de-villejuif-pres-de-paris-le-4-juin-2025-photo-de-thomas-samson-afp-a-usage-editorial-limite-pour-illustrer-l-evenement-comme-indique-dans-la-legende",
+      "date": "2026-07-17T04:37:36+00:00",
+      "date_formatted": "17 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Aide à mour*r : \"Je souhaite une m0rt digne\"",
       "desc": "Le témoignage poignant de Sophie Viry, 57 ans, atteinte d'une maladie dégénérative. Elle espérait l'adoption de la loi sur l'aide à m0urir votée mercredi 15 juillet par l'Assemblée Nationale. Cette loi instaure un droit à l'aide à m0urir sous des conditions strictes.",
@@ -33,36 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Affaire Jubillar : des ossements découverts dans le Tarn, des analyses médico-légales en cours",
-      "desc": "Extrait de sa cellule après ses aveux et présent sur place près de Cagnac-les-Mines ce jeudi matin, Cédric Jubillar a indiqué «l’endroit où il avait déposé le corps» de son épouse, Delphine Aussaguel, disparue depuis fin 2020.",
-      "url": "https://www.liberation.fr/societe/police-justice/apres-laudition-de-cedric-jubillar-les-fouilles-ont-debute-dans-le-tarn-pour-retrouver-le-corps-de-delphine-aussaguel-20260716_4SJLCUGULBDFZAQRKYQ3VCYE4Q/",
-      "image": null,
-      "date": "2026-07-16T18:50:49+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Marine Le Pen face au baiser de la mort d’Elon Musk",
-      "desc": "En qualifiant la candidate du RN de «dernier espoir de la France» ce mercredi 16 juillet, le milliardaire américain a plongé dans l’embarras le parti d’extrême droite, qui tente de rompre avec la mouvance Maga.",
-      "url": "https://www.liberation.fr/politique/elections/marine-le-pen-face-au-baiser-de-la-mort-delon-musk-20260716_B4PCBWNENVBF5DEGGCXOU3CNAY/",
-      "image": null,
-      "date": "2026-07-16T18:37:56+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ossements retrouvés dans le Tarn : pour les proches de Delphine Aussaguel, l’espoir d’un dénouement",
-      "desc": "Des ossements qui pourraient être ceux de l’infirmière de 33 ans disparue en 2020 ont été retrouvés, jeudi 16 juillet, après des recherches non loin du village de Cagnac-les-Mines (Tarn). Cette découverte pourrait peut-être permettre de déterminer les causes de sa mort.",
-      "url": "https://www.liberation.fr/societe/police-justice/ossements-retrouves-dans-le-tarn-pour-les-proches-de-delphine-aussaguel-lespoir-dun-denouement-20260716_BBGQDXZIRZACPPA4XAWFIKL2MY/",
-      "image": null,
-      "date": "2026-07-16T18:33:12+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Claude Halmos, psychanalyste médiatique et spécialiste des enfants, est morte à 80 ans",
       "desc": "La psychanalyste Claude Halmos, spécialiste de l’enfance qui intervenait fréquemment dans les médias, est morte jeudi dernier à l’âge de 80 ans d’un arrêt cardiaque",
       "url": "https://www.20minutes.fr/sante/4234904-20260716-claude-halmos-psychanalyste-mediatique-specialiste-enfants-morte-80-ans?at_medium=display&at_campaign=149",
@@ -70,16 +60,6 @@
       "date": "2026-07-16T18:19:42+00:00",
       "date_formatted": "16 July 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Tabagisme, alcoolisme, hypertension... : jusqu’à 45 % des risques de démence peuvent être évités ou retardés selon l’OMS",
-      "desc": "L’Organisation mondiale de la santé publie des recommandations visant à favoriser un dépistage et une prise en charge précoces. Bien qu’elle soit plus fréquente après 65 ans, cette pathologie n’est pas une conséquence inévitable du vieillissement.",
-      "url": "https://www.liberation.fr/societe/sante/tabagisme-alcoolisme-hypertension-jusqua-45-des-risques-de-demence-peuvent-etre-evites-ou-retardes-selon-loms-20260716_4D2QUKDBVRGJXPAYZHLXH5BR64/",
-      "image": null,
-      "date": "2026-07-16T17:42:51+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -418,16 +398,6 @@
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-ampleur-de-l-epidemie-d-ebola-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-selon-l-oms_8107568.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/jycgEUk97qLHRdZJcW0c3hjHKac/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/14/6a5631d31ea55833091055.jpg",
       "date": "2026-07-14T15:56:12+00:00",
-      "date_formatted": "14 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La Ligue contre le cancer veut introduire le principe de précaution sanitaire dans la Constitution française, qui empêcherait de voter des lois pouvant nuire à la santé",
-      "desc": "Selon une information de France Inter, l'association veut appliquer le même principe de précaution déjà existant pour l'environnement. Il obligerait les pouvoirs publics à agir lorsqu'il existe un risque plausible de dommages pour la santé.",
-      "url": "https://www.franceinfo.fr/sante/la-ligue-contre-le-cancer-veut-introduire-le-principe-de-precaution-sanitaire-dans-la-constitution-francaise-qui-empecherait-de-voter-des-lois-pouvant-nuire-a-la-sante_8107217.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/sxplhGKLrd2p1EyrsE3Ioe6OCIo/0x211:4163x2553/432x243/filters:format(jpg):quality(50)/2025/09/03/cancer-68b7e63bc0136559875282.jpg",
-      "date": "2026-07-14T08:59:33+00:00",
       "date_formatted": "14 July 2026",
       "source": "France Info Santé",
       "type": "presse"
