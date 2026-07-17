@@ -1,35 +1,45 @@
 {
-  "generated_at": "2026-07-17T12:58:14.538358+00:00",
-  "count": 70,
+  "generated_at": "2026-07-17T18:49:47.265310+00:00",
+  "count": 68,
   "articles": [
     {
-      "title": "Rendre visibles les morts de la canicule : «Sans cette chaleur, ma mère serait toujours là»",
-      "desc": "Alors que le nombre de décès causés par l’épisode météo extrême de juin se précise, «Libé» a voulu aller au-delà de la froide statistique et raconter ces vies brisées qui n’ont pas de monument aux morts.",
-      "url": "https://www.liberation.fr/societe/sante/rendre-visibles-les-morts-de-la-canicule-sans-cette-chaleur-ma-mere-serait-toujours-la-20260717_3IMJXMMMI5H5ZC2DCD5QA56WWY/",
+      "title": "Ebola : au Kenya, plusieurs Américains ont été placés en quarantaine ; le gouvernement dit ne pas en avoir été informé",
+      "desc": "C’est la première fois que les Etats-Unis confirment la présence d’Américains dans ce centre géré par le Centre de contrôle des maladies américain – un projet pourtant suspendu par la justice kényane.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/07/17/ebola-au-kenya-plusieurs-americains-ont-ete-places-en-quarantaine-le-gouvernement-dit-ne-pas-en-avoir-ete-informe_6724231_3212.html",
+      "image": "https://img.lemde.fr/2026/07/17/491/0/5900/2950/644/322/60/0/7eacbfd_ftp-1-laos2ex3uoo0-2026-07-17t075901z-741315118-rc25qla57g5f-rtrmadp-3-health-ebola-usa-kenya.JPG",
+      "date": "2026-07-17T19:48:03+00:00",
+      "date_formatted": "17 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Orages : le 16 juillet est devenu la journée la plus foudroyée de 2026, selon Météorage",
+      "desc": "La filiale de Météo France a relevé plus de 20 000 éclairs nuage-sol sur ce seul jour. La pluie, les fortes rafales et les grêlons ont privé plus de 53 000 foyers d’électricité et sont liés à la mort de deux personnes.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-des-degats-apres-de-violents-orages-encore-10-departements-du-sud-est-en-vigilance-orange-20260717_NG5PTVRGINDYFB5YLQSKDQJOW4/",
       "image": null,
-      "date": "2026-07-17T11:00:36+00:00",
+      "date": "2026-07-17T16:40:54+00:00",
       "date_formatted": "17 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, un statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-07-17T09:27:35+00:00",
+      "title": "Ce vaccin à ARNm ne vise pas un virus, mais un cancer redoutable chez l’enfant",
+      "desc": "Une équipe de chercheurs irlandais a mis au point un vaccin expérimental à ARNm capable de mobiliser le système immunitaire contre le neuroblastome, le cancer solide le plus meurtrier chez l'enfant. Testée à un stade préclinique, cette technologie ouvre une nouvelle piste pour traiter cette...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-ce-vaccin-arnm-ne-vise-pas-virus-mais-cancer-redoutable-chez-enfant-135884/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/9/9/e9901d1c55_50258194_technologie-arnm.jpg",
+      "date": "2026-07-17T16:27:47+00:00",
       "date_formatted": "17 July 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
-      "title": "Orages : deux morts, une mini-tornade et 53 000 foyers privés d’électricité",
-      "desc": "Un violent épisode orageux a balayé la France dans la nuit de jeudi à vendredi, faisant plusieurs morts et de nombreux sinistrés. Dans la Loire, département particulièrement touché, le préfet a dénombré 600 interventions des secours.",
-      "url": "https://www.liberation.fr/environnement/climat/orages-deux-morts-une-mini-tornade-et-53-000-foyers-prives-delectricite-20260717_E4ZWJVN3QBFRVGY3BMB6LS6DHM/",
-      "image": null,
-      "date": "2026-07-17T09:06:52+00:00",
+      "title": "Canicule de juin : près de 3 000 morts en Ile-de-France, le double de la normale, selon Santé publique France",
+      "desc": "« Il s’agissait principalement des personnes de plus de 65 ans avec 82,4 % des décès survenus », précise l’agence, ajoutant que ces nouvelles estimations pourraient encore être en deçà de la réalité.",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/17/canicule-de-juin-pres-de-3-000-morts-en-ile-de-france-le-double-de-la-normale-selon-sante-publique-france_6724203_3244.html",
+      "image": "https://img.lemde.fr/2026/06/25/492/0/5899/2949/644/322/60/0/9bc96d5_ftp-1-6zn0bfhemmzk-2026-06-25t163249z-1507762908-rc2y0ma2s92j-rtrmadp-3-europe-weather-france-hospital.JPG",
+      "date": "2026-07-17T16:10:10+00:00",
       "date_formatted": "17 July 2026",
-      "source": "Libération",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -473,16 +483,6 @@
       "type": "science"
     },
     {
-      "title": "Voici ce que provoque l'eau froide sur nos cellules en une semaine seulement selon des chercheurs",
-      "desc": "Une plongée régulière dans l'eau froide pourrait transformer votre organisme au niveau cellulaire. Des chercheurs canadiens ont découvert que cette pratique déclenche des mécanismes de protection et de régénération essentiels. Comment quelques minutes de frisson quotidien pourraient-elles...",
-      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-voici-ce-provoque-eau-froide-nos-cellules-semaine-seulement-selon-chercheurs-w2t8-136060/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/5/5/a550ecdfb8_50257862_bain-eau-froide-systeme-immunitaire.jpg",
-      "date": "2026-07-12T08:00:00+00:00",
-      "date_formatted": "12 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse inédite",
       "desc": "La maladie se répand plus rapidement que les 16 épidémies précédentes qu’a connues le pays depuis l’identification d’Ebola en 1976. Le gouvernement assure agir avec force, ce dont doutent de nombreux acteurs de terrain.",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
@@ -523,16 +523,6 @@
       "type": "science"
     },
     {
-      "title": "Epidémie d’Ebola en RDC : le bilan atteint 600 morts, selon l’OMS",
-      "desc": "Le dernier bilan de l’Organisation mondiale de la santé, publié jeudi, fait état de 1 759 cas confirmés recensés dans le pays, tandis que le bilan est maintenu à deux morts pour 20 cas confirmés en Ouganda voisin.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/09/epidemie-d-ebola-en-rdc-le-bilan-atteint-600-morts-selon-l-oms_6722070_3212.html",
-      "image": "https://img.lemde.fr/2026/06/29/333/0/4000/2000/644/322/60/0/fbf98db_upload-1-bcs5vfeg4mf6-39-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
-      "date": "2026-07-09T12:24:38+00:00",
-      "date_formatted": "9 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "La mortalité périnatale continue d'augmenter en France",
       "desc": "La mortalité périnatale a de nouveau progressé en France en 2024, atteignant plus de 11 décès pour 1.000 naissances. Selon une étude publiée mardi par les services statistiques des ministères sociaux, cette hausse confirme une tendance préoccupante.",
       "url": "https://www.sciencesetavenir.fr/sante/la-mortalite-perinatale-continue-d-augmenter-en-france-11-pour-1-000-naissances-en-2024_193603?xtor=RSS-16",
@@ -558,16 +548,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/france-les-deces-ont-augmente-de-presque-30-la-semaine-de-la-canicule_193568?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/03/cover-r4x3w1200-6a4784ce64413-mortalite-canicule.jpg",
       "date": "2026-07-03T09:45:50+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Jusqu'à un adulte sur trois est touché par la MASLD",
-      "desc": "En parcourant 350 kilomètres à pied, le doctorant Sonny Yde veut attirer l'attention sur la MASLD, une maladie du foie qui progresse avec l'augmentation des troubles métaboliques et de l'obésité. Cette initiative est née de la volonté de rappeler qu'une activité physique régulière reste l'un des mei",
-      "url": "https://www.sciencesetavenir.fr/sante/jusqu-a-un-adulte-sur-trois-est-touche-par-la-masld-un-ensemble-de-maladies-du-foie_193539?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/02/cover-r4x3w1200-6a463b961afdc-moerschy-shopping-565360-1920.jpg",
-      "date": "2026-07-03T05:40:24+00:00",
       "date_formatted": "3 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
