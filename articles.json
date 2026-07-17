@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-16T18:52:31.492028+00:00",
-  "count": 71,
+  "generated_at": "2026-07-17T01:24:48.829161+00:00",
+  "count": 74,
   "articles": [
+    {
+      "title": "Aide à mour*r : \"Je souhaite une m0rt digne\"",
+      "desc": "Le témoignage poignant de Sophie Viry, 57 ans, atteinte d'une maladie dégénérative. Elle espérait l'adoption de la loi sur l'aide à m0urir votée mercredi 15 juillet par l'Assemblée Nationale. Cette loi instaure un droit à l'aide à m0urir sous des conditions strictes.",
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/aide-a-mour-r-je-souhaite-une-m0rt-digne_8110550.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/DaFdNHAMw2gs9X7VTPbFymd6WFY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/16/6a58f711904e3692354448.png",
+      "date": "2026-07-16T21:00:02+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Ennemi public numéro 1 : pourquoi faire disparaître le moustique pourrait se retourner contre nous",
       "desc": "Paludisme, dengue, chikungunya, Zika. Chaque année, les maladies transmises par les moustiques font des millions de victimes dans le monde. Mais au tribunal du vivant, une question dérange : l’insecte est-il vraiment coupable… et doit-il être condamné à mort ? Dans ce quatrième épisode de cette...",
@@ -11,6 +21,26 @@
       "date_formatted": "16 July 2026",
       "source": "Futura Santé",
       "type": "science"
+    },
+    {
+      "title": "«Pour les familles et la justice, ça va avoir de l’importance» : dans le Tarn, la découverte d’ossements pourrait refermer l’enquête Jubillar",
+      "desc": "Sur les indications de Cédric Jubillar, sorti de sa cellule pour l’occasion, des ossements ont été mis au jour par les enquêteurs, ce jeudi, à Mailhoc (Tarn), à une dizaine de kilomètres de la résidence du couple.",
+      "url": "https://www.liberation.fr/societe/police-justice/pour-les-familles-et-la-justice-ca-va-avoir-de-limportance-dans-le-tarn-la-decouverte-dossements-pourrait-refermer-lenquete-jubillar-20260716_UN3BDFTXGJAIJAFM56PUBMHEH4/",
+      "image": null,
+      "date": "2026-07-16T19:06:00+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Jubillar : des ossements découverts dans le Tarn, des analyses médico-légales en cours",
+      "desc": "Extrait de sa cellule après ses aveux et présent sur place près de Cagnac-les-Mines ce jeudi matin, Cédric Jubillar a indiqué «l’endroit où il avait déposé le corps» de son épouse, Delphine Aussaguel, disparue depuis fin 2020.",
+      "url": "https://www.liberation.fr/societe/police-justice/apres-laudition-de-cedric-jubillar-les-fouilles-ont-debute-dans-le-tarn-pour-retrouver-le-corps-de-delphine-aussaguel-20260716_4SJLCUGULBDFZAQRKYQ3VCYE4Q/",
+      "image": null,
+      "date": "2026-07-16T18:50:49+00:00",
+      "date_formatted": "16 July 2026",
+      "source": "Libération",
+      "type": "presse"
     },
     {
       "title": "Marine Le Pen face au baiser de la mort d’Elon Musk",
@@ -76,7 +106,7 @@
       "title": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola",
       "desc": "Dans un entretien au « Monde », le praticien hospitalier et chercheur à l’Inserm regrette la façon dont le gouvernement a géré la récente flambée de hantavirus, en imposant un isolement strict aux malades. Il appelle les autorités à mieux anticiper les futures crises sanitaires.",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/16/en-gerant-des-epidemies-de-facon-aussi-peu-democratique-on-degrade-le-systeme-les-lecons-de-l-infectiologue-xavier-lescure-apres-les-crises-du-hantavirus-et-d-ebola_6723805_1650684.html",
-      "image": "https://img.lemde.fr/2026/07/10/342/0/6000/3000/644/322/60/0/6aee21d_upload-1-no6awktgdi0h-000-b2md6b9.jpg",
+      "image": "https://img.lemde.fr/2026/07/10/454/0/6000/3000/644/322/60/0/6aee21d_upload-1-no6awktgdi0h-000-b2md6b9.jpg",
       "date": "2026-07-16T15:00:09+00:00",
       "date_formatted": "16 July 2026",
       "source": "Le Monde Science",
