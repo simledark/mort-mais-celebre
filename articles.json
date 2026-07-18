@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-17T18:49:47.265310+00:00",
+  "generated_at": "2026-07-18T01:16:28.989466+00:00",
   "count": 68,
   "articles": [
+    {
+      "title": "Orages : le 16 juillet est devenu la journée la plus foudroyée de 2026, selon Météorage",
+      "desc": "La filiale de Météo France a relevé plus de 20 000 éclairs nuage-sol sur ce seul jour. La pluie, les fortes rafales et les grêlons ont privé plus de 53 000 foyers d’électricité et sont liés à la mort de deux personnes.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-des-degats-apres-de-violents-orages-encore-10-departements-du-sud-est-en-vigilance-orange-20260717_NG5PTVRGINDYFB5YLQSKDQJOW4/",
+      "image": null,
+      "date": "2026-07-17T20:08:35+00:00",
+      "date_formatted": "17 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ebola : au Kenya, plusieurs Américains ont été placés en quarantaine ; le gouvernement dit ne pas en avoir été informé",
       "desc": "C’est la première fois que les Etats-Unis confirment la présence d’Américains dans ce centre géré par le Centre de contrôle des maladies américain – un projet pourtant suspendu par la justice kényane.",
@@ -10,16 +20,6 @@
       "date": "2026-07-17T19:48:03+00:00",
       "date_formatted": "17 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Orages : le 16 juillet est devenu la journée la plus foudroyée de 2026, selon Météorage",
-      "desc": "La filiale de Météo France a relevé plus de 20 000 éclairs nuage-sol sur ce seul jour. La pluie, les fortes rafales et les grêlons ont privé plus de 53 000 foyers d’électricité et sont liés à la mort de deux personnes.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-des-degats-apres-de-violents-orages-encore-10-departements-du-sud-est-en-vigilance-orange-20260717_NG5PTVRGINDYFB5YLQSKDQJOW4/",
-      "image": null,
-      "date": "2026-07-17T16:40:54+00:00",
-      "date_formatted": "17 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
