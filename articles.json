@@ -1,14 +1,64 @@
 {
-  "generated_at": "2026-07-18T07:23:35.219257+00:00",
-  "count": 67,
+  "generated_at": "2026-07-18T12:44:26.311723+00:00",
+  "count": 72,
   "articles": [
     {
-      "title": "Orages : le 16 juillet est devenu la journée la plus foudroyée de 2026, selon Météorage",
-      "desc": "La filiale de Météo France a relevé plus de 20 000 éclairs nuage-sol sur ce seul jour. La pluie, les fortes rafales et les grêlons ont privé plus de 53 000 foyers d’électricité et sont liés à la mort de deux personnes.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-chaleur-des-degats-apres-de-violents-orages-encore-10-departements-du-sud-est-en-vigilance-orange-20260717_NG5PTVRGINDYFB5YLQSKDQJOW4/",
+      "title": "25 ans, une bascule : pourquoi les cellules CAR-T pourraient changer durablement l’histoire du cancer",
+      "desc": "Et si l’on ne combattait plus le cancer directement, mais en transformant nos propres cellules immunitaires en chasseurs de tumeurs ? Les thérapies CAR-T ont déjà permis des rémissions spectaculaires chez des patients condamnés à court terme et ouvrent aujourd’hui la voie à une nouvelle...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-25-ans-bascule-cellules-car-t-pourraient-changer-durablement-histoire-cancer-136065/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/2/7a27c36afc_50258239_cancer-therapie-car-t.jpg",
+      "date": "2026-07-18T14:01:25+00:00",
+      "date_formatted": "18 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Et si on guérissait tous les cancers",
+      "desc": "Le cancer est aujourd'hui la première cause de mortalité en France, avec 162 000 décès annuels. Mais si cette maladie devenait totalement guérissable, les conséquences sanitaires, économiques et sociales pourraient bien être tout aussi importantes que cette révolution médicale elle-même !",
+      "url": "https://www.sciencesetavenir.fr/sante/on-guerissait-tous-les-cancers_193233?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/18/cover-r4x3w1200-6a3d1f8c38653-12956-726537-k2-k1-1727285-jpg.jpg",
+      "date": "2026-07-18T12:00:00+00:00",
+      "date_formatted": "18 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Etats-Unis : Un mort à cause de la légionellose à New York, les autorités alertent les habitants",
+      "desc": "Une personne est décédée de la légionellose à New York cette semaine selon le département de la santé de la ville qui ajoute que 67 cas ont été confirmés dans le quartier de l’Upper East Side",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4235129-20260718-etats-unis-mort-cause-legionellose-new-york-autorites-alertent-habitants?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Ng1tPM5pQAuQmChgW4avXik/1200x768_17-juillet-2026-etats-unis-new-york-des-passagers-sont-a-bord-d-un-bateau-et-regardent-la-statue-de-la-liberte-photo-tom-weller-dpa-ur-newsml-dpa-com-20090101-260718-99-93720-tom-weller-dpa-sipa-2607181020",
+      "date": "2026-07-18T09:21:35+00:00",
+      "date_formatted": "18 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Venezuela : le bilan du double séisme dépasse désormais les 5 000 morts, le FMI débloque des fonds",
+      "desc": "Le nombre de disparus pourrait atteindre 50 000 personnes selon l’ONU, alors que près de 20 000 sinistrés vivent dans des camps de fortune et que les recherches de corps sous les décombres, insuffisamment soutenues par l’Etat, se poursuivent dans des conditions précaires.",
+      "url": "https://www.liberation.fr/international/amerique/venezuela-le-bilan-du-double-seisme-depasse-desormais-les-5-000-morts-le-fmi-debloque-des-fonds-20260718_H5V33CSKJZAUTFZ24CPVQ3TCKM/",
       "image": null,
-      "date": "2026-07-17T20:08:35+00:00",
-      "date_formatted": "17 July 2026",
+      "date": "2026-07-18T09:16:12+00:00",
+      "date_formatted": "18 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Bisbilles en héritage : le clan Delon, fratricides volontaires",
+      "desc": "(1/5) Depuis le décès de l’acteur en 2024, ses trois enfants se déchirent à coups de plaintes, de chien mort et de posts Instagram, avec à la clé plusieurs dizaines de millions d’euros. Malgré quelques causes communes ponctuelles, l’apaisement est loin d’être signé.",
+      "url": "https://www.liberation.fr/societe/bisbilles-en-heritage-le-clan-delon-fratricides-volontaires-20260718_L23WSXJXRJFFRIAS7WYRQQKLHU/",
+      "image": null,
+      "date": "2026-07-18T09:11:00+00:00",
+      "date_formatted": "18 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La cause de l’épidémie de «diarrhées explosives» aux Etats-Unis identifiée dans la salade d’une grande chaîne de fast-food",
+      "desc": "Depuis trois mois, des milliers d’Américains dans plusieurs Etats ont contracté la cyclosporose, maladie liée à un parasite, et 94 d’entre eux ont dû être hospitalisés. C’est la fameuse enseigne tex-mex Taco Bell qui est en cause.",
+      "url": "https://www.liberation.fr/international/amerique/la-cause-de-lepidemie-de-diarrhees-explosives-aux-etats-unis-identifiee-dans-la-salade-dune-grande-chaine-de-fast-food-20260718_E5VJU5REH5HCNMY47N76OHE33E/",
+      "image": null,
+      "date": "2026-07-18T08:48:52+00:00",
+      "date_formatted": "18 July 2026",
       "source": "Libération",
       "type": "presse"
     },
