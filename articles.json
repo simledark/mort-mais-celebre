@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-19T01:22:16.441549+00:00",
-  "count": 69,
+  "generated_at": "2026-07-19T07:54:47.787939+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title": "Coupe du monde : pourquoi le milieu de terrain de l’Espagne est aussi fort",
+      "desc": "Opposée à l’Argentine en finale du Mondial, dimanche 19 juillet, l’armada espagnole pourra compter sur son milieu à trois, dont les prouesses dans la confiscation du ballon pour fatiguer l’adversaire et créer la faille, en a fait l’ADN de la Roja depuis le début du siècle.",
+      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-pourquoi-le-milieu-de-terrain-de-lespagne-est-aussi-fort-20260719_XOVPL4TW6FDOHAQBDA2JRAJVVA/",
+      "image": null,
+      "date": "2026-07-19T05:53:00+00:00",
+      "date_formatted": "19 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Patient bizarre : des cas inquiétants de « diarrhée explosive » se multiplient aux États-Unis",
       "desc": "L’origine de la maladie, très certainement alimentaire, n’a pas été identifiée à ce jour. Les Centres américains de contrôle et de prévention des maladies (CDC) ont recensé 145 cas entre le 1er mai et le 16 juin 2026. Dans le Michigan, l’épidémie est en progression rapide, portant le nombre...",
@@ -41,16 +51,6 @@
       "date_formatted": "18 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Après la mort du sénateur américain Lindsey Graham, un déferlement de rumeurs contradictoires",
-      "desc": "Disparu samedi 11 juillet, l’élu républicain était une figure de proue de la politique interventionniste américaine. Son décès soudain a suscité de nombreuses théories complotistes.",
-      "url": "https://www.liberation.fr/checknews/apres-la-mort-du-senateur-americain-lindsey-graham-un-deferlement-de-rumeurs-contradictoires-20260718_VCPTGF65V5E3DLKFQFYBJJNQ5U/",
-      "image": null,
-      "date": "2026-07-18T13:10:00+00:00",
-      "date_formatted": "18 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Et si on guérissait tous les cancers",
@@ -303,16 +303,6 @@
       "type": "presse"
     },
     {
-      "title": "À Cuba, le système de santé au bord de la rupture",
-      "desc": "🇨🇺 La crise économique et le blocus pétrolier de Washington mettent à rude épreuve les 🏥 hôpitaux et les services médicaux cubains. Pénuries de pièces détachées et vieillissement des technologies limitent la prise en charge des patients. #franceinfoRF",
-      "url": "https://www.franceinfo.fr/monde/cuba/a-cuba-le-systeme-de-sante-au-bord-de-la-rupture_8107685.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/p8UtT3cRfFsQFyXxcRUsh7BKQqM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/14/6a5643643c71e736845659.jpg",
-      "date": "2026-07-15T20:00:02+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Fin de vie : le Parlement approuve définitivement le droit à l’« aide à mourir » ; Emmanuel Macron salue un « débat respectueux » et un « engagement tenu »",
       "desc": "Pour entériner cette promesse du président de la République maintes fois retardée, le gouvernement avait donné le dernier mot à l’Assemblée nationale, qui a approuvé le texte par 291 voix contre 241, mercredi 15 juillet.",
       "url": "https://www.lemonde.fr/politique/article/2026/07/15/fin-de-vie-le-parlement-approuve-definitivement-le-droit-a-l-aide-a-mourir_6723602_823448.html",
@@ -511,16 +501,6 @@
       "date_formatted": "10 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Dépistage génétique préconceptionnel : l’Académie de médecine recommande d’ouvrir l’accès aux couples sans antécédents familiaux",
-      "desc": "Le dépistage génétique préconceptionnel consiste à tester les deux membres d’un couple pour voir s’ils sont à risque élevé d’avoir un enfant atteint d’une telle maladie et, si c’est le cas, à les informer des choix possibles.",
-      "url": "https://www.lemonde.fr/sante/article/2026/07/10/depistage-genetique-preconceptionnel-l-academie-de-medecine-recommande-d-ouvrir-l-acces-aux-couples-sans-antecedents-familiaux_6722448_1651302.html",
-      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/4851c4d_upload-1-fkmv0fsx3cfw-frame-252.jpg",
-      "date": "2026-07-10T14:53:38+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "L'épidémie d'Ebola en RDC se propage plus rapidement que toutes les précédentes",
