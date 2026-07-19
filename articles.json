@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-07-19T07:54:47.787939+00:00",
+  "generated_at": "2026-07-19T12:46:25.728183+00:00",
   "count": 67,
   "articles": [
     {
-      "title": "Coupe du monde : pourquoi le milieu de terrain de l’Espagne est aussi fort",
-      "desc": "Opposée à l’Argentine en finale du Mondial, dimanche 19 juillet, l’armada espagnole pourra compter sur son milieu à trois, dont les prouesses dans la confiscation du ballon pour fatiguer l’adversaire et créer la faille, en a fait l’ADN de la Roja depuis le début du siècle.",
-      "url": "https://www.liberation.fr/sports/football/coupe-du-monde-pourquoi-le-milieu-de-terrain-de-lespagne-est-aussi-fort-20260719_XOVPL4TW6FDOHAQBDA2JRAJVVA/",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : l’escalade se poursuit entre les Etats-Unis et l’Iran après la mort de deux soldats américains",
+      "desc": "L’armée américaine a mené des frappes sur des infrastructures iraniennes pour la huitième nuit consécutive. En représailles, Téhéran a une nouvelle fois lancé des drones et des missiles sur ses voisins du Golfe.",
+      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-et-liran-poursuivent-leurs-bombardements-frappe-mortelle-a-gaza-lactu-du-conflit-au-moyen-orient-ce-19-juillet-20260719_SO76HYYMMNB25H2B5AGC2HBZGA/",
       "image": null,
-      "date": "2026-07-19T05:53:00+00:00",
+      "date": "2026-07-19T12:42:26+00:00",
+      "date_formatted": "19 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Kyiv lourdement bombardé au lendemain d’attaques ukrainiennes meurtrières contre la Russie",
+      "desc": "Les secours de la capitale ukrainienne ont recensé au moins un mort et une dizaine de blessés, après que des missiles balistiques ont frappé la ville dans la nuit de samedi à dimanche.",
+      "url": "https://www.liberation.fr/international/europe/kyiv-lourdement-bombarde-au-lendemain-dattaques-ukrainiennes-meurtrieres-contre-la-russie-20260719_BKWWDJI2GVBR7HXFB7QS5Q7W7A/",
+      "image": null,
+      "date": "2026-07-19T08:59:46+00:00",
       "date_formatted": "19 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -479,16 +489,6 @@
       "image": "https://img.lemde.fr/2026/07/03/948/0/5712/2856/644/322/60/0/1c5dea8_upload-1-exk6kviow5gs-img-1618.jpeg",
       "date": "2026-07-13T06:00:45+00:00",
       "date_formatted": "13 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse inédite",
-      "desc": "La maladie se répand plus rapidement que les 16 épidémies précédentes qu’a connues le pays depuis l’identification d’Ebola en 1976. Le gouvernement assure agir avec force, ce dont doutent de nombreux acteurs de terrain.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
-      "image": "https://img.lemde.fr/2026/06/29/528/0/4000/2000/644/322/60/0/b6a626a_upload-1-djcod4jwmzbj-33-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
-      "date": "2026-07-10T19:39:00+00:00",
-      "date_formatted": "10 July 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
