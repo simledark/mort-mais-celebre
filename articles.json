@@ -1,25 +1,55 @@
 {
-  "generated_at": "2026-07-20T01:27:28.055373+00:00",
-  "count": 66,
+  "generated_at": "2026-07-20T08:34:10.491182+00:00",
+  "count": 64,
   "articles": [
     {
-      "title": "Guerre au Moyen-Orient : l’escalade entre les Etats-Unis et l’Iran se poursuit, après la mort de deux soldats américains",
-      "desc": "L’armée américaine a mené des frappes sur des infrastructures iraniennes pour la huitième nuit consécutive. En représailles, Téhéran a une nouvelle fois lancé des drones et des missiles sur ses voisins du Golfe.",
-      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-et-liran-poursuivent-leurs-bombardements-frappe-mortelle-a-gaza-lactu-du-conflit-au-moyen-orient-ce-19-juillet-20260719_SO76HYYMMNB25H2B5AGC2HBZGA/",
+      "title": "« La France met un prix sur les vies sauvées sur ses routes, mais elle se garde de le faire sur celles que les canicules emportent »",
+      "desc": "Dans une tribune au « Monde », l’économiste Jérôme Mathis juge que le jour où la France appliquera aux morts des fortes chaleurs le même calcul qu’aux infrastructures routières, l’inaction climatique apparaîtra pour ce qu’elle est : un choix coûteux, payé en vies humaines.",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/20/la-france-met-un-prix-sur-les-vies-sauvees-sur-ses-routes-mais-elle-se-garde-de-le-faire-sur-celles-que-les-canicules-emportent_6726946_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/c4672f4_upload-1-ujmazdjtr0fc-frame-841.jpg",
+      "date": "2026-07-20T10:00:01+00:00",
+      "date_formatted": "20 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "USA : une laitue à l'origine des “diarrhées explosives“",
+      "desc": "Les autorités sanitaires américaines ont identifié la source de l'épidémie de cyclosporose qui touche cinq États : un parasite présent dans de la laitue iceberg servie par la chaîne de fast-food Taco Bell. Plus de 1.600 personnes ont été infectées et 94 hospitalisées, après la consommation de produi",
+      "url": "https://www.sciencesetavenir.fr/sante/usa-la-laitue-de-taco-bell-a-l-origine-d-une-epidemie-de-diarrhees-explosives_193853?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/20/cover-r4x3w1200-6a5dc619f27c5-taco.jpg",
+      "date": "2026-07-20T07:12:32+00:00",
+      "date_formatted": "20 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, un statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
       "image": null,
-      "date": "2026-07-19T17:30:39+00:00",
-      "date_formatted": "19 July 2026",
+      "date": "2026-07-20T06:38:22+00:00",
+      "date_formatted": "20 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Pierre Debuisson, avocat de Cédric Jubillar : ses aveux",
-      "desc": "Le conseil toulousain qui a amené Cédric Jubillar à reconnaître sa responsabilité dans la mort de sa femme s’offusque des polémiques déclenchées.",
-      "url": "https://www.liberation.fr/portraits/pierre-debuisson-avocat-de-cedric-jubillar-ses-aveux-20260719_PDHA3BFUPZD5VO3NXFPVG37UVQ/",
-      "image": null,
-      "date": "2026-07-19T13:45:00+00:00",
-      "date_formatted": "19 July 2026",
-      "source": "Libération",
+      "title": "VRAI OU FAUX. Avec la loi sur l'aide à mourir, suffira-t-il de dire \"J'en ai assez de vivre\" pour déclencher une procédure d'euthanasie ?",
+      "desc": "François-Xavier Lejeune, directeur de l'association Notre-Dame de Bon Secours, a affirmé jeudi que le fait d'exprimer oralement le souhait de mourir pourrait suffire pour déclencher une procédure d'euthanasie. Elle est pourtant bel et bien soumise à des conditions bien précises.",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-avec-la-loi-sur-l-aide-a-mourir-suffira-t-il-de-dire-j-en-ai-assez-de-vivre-pour-declencher-une-procedure-d-euthanasie_8111390.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/A8gUp7agxWhb7y6__odux6vWjZU/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a19136e21c954772350.jpg",
+      "date": "2026-07-20T06:05:05+00:00",
+      "date_formatted": "20 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« On bureaucratise l’euthanasie pour la rendre acceptable » : le regard très critique de Didier Sicard sur la loi créant une aide à mourir",
+      "desc": "Le professeur de médecine émérite a longtemps dirigé le Comité consultatif national d’éthique, dont il est aujourd’hui président d’honneur. Dans un entretien au « Monde », il regrette que la loi adoptée le 15 juillet « déresponsabilise » les médecins et exonère la société de sa « responsabilité d’ac",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/20/on-bureaucratise-l-euthanasie-pour-la-rendre-acceptable-le-regard-tres-critique-de-didier-sicard-sur-la-loi-creant-une-aide-a-mourir_6726567_3224.html",
+      "image": "https://img.lemde.fr/2026/07/18/1257/0/3780/1890/644/322/60/0/31291b8_upload-1-mzfrkloqekzq-013403-002.jpg",
+      "date": "2026-07-20T05:00:20+00:00",
+      "date_formatted": "20 July 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -263,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Pourquoi la loi sur l'aide à mourir n'entrera pas en application avant \"début 2027\"",
-      "desc": "L'adoption définitive du texte sur la fin de vie ne signifie pas son entrée en vigueur immédiate. Les malades souhaitant bénéficier d'une aide à mourir doivent encore attendre de futurs décrets et arrêtés, ainsi que des recommandations sanitaires promises d'ici à la fin de l'année.",
-      "url": "https://www.franceinfo.fr/societe/euthanasie/pourquoi-la-loi-sur-l-aide-a-mourir-n-entrera-pas-en-application-avant-debut-2027_8097482.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/dQM6qbD6XKPac1wvWmoOQ_5U09Y/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/07/6a4cc26547eea895278027.jpg",
-      "date": "2026-07-16T05:56:00+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Dengue, chikungunya, Zika : voici ce qui se passe dans un moustique avant qu’il puisse vous infecter",
       "desc": "Une piqûre et tout bascule. À l’échelle microscopique, une véritable opération d’infiltration est déjà en cours : des virus — mais pas que… — exploitent le moustique pour nous atteindre. Pour ce troisième épisode de notre série de l’été consacrée aux secrets des moustiques, Futura vous embarque...",
       "url": "https://www.futura-sciences.com/sante/actualites/moustique-dengue-chikungunya-zika-voici-ce-passe-moustique-avant-quil-puisse-vous-infecter-136026/#xtor%3DRSS-8",
@@ -443,16 +463,6 @@
       "type": "presse"
     },
     {
-      "title": "Aide à mourir : des malades témoignent du « lien souvent ténu » entre l’attachement à la vie et l’acceptation de sa fin",
-      "desc": "Alors que la proposition de loi sur l’aide à mourir est soumise au vote solennel des députés, mercredi 15 juillet, « Le Monde » est allé à la rencontre de personnes souffrant de maladies graves, certaines engagées dans le combat pour l’obtention d’un droit à l’euthanasie ou au suicide assisté, d’aut",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/14/fin-de-vie-ce-que-disent-des-malades-du-lien-souvent-tenu-entre-l-attachement-a-la-vie-et-l-acceptation-de-sa-fin_6723256_3224.html",
-      "image": "https://img.lemde.fr/2026/07/13/334/0/5000/2500/644/322/60/0/d779697_upload-1-he9yuzyyibrp-pch0100015.jpg",
-      "date": "2026-07-14T06:00:14+00:00",
-      "date_formatted": "14 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Plusieurs États américains touchés par des « diarrhées explosives »",
       "desc": "Des dizaines d’États américains sont touchés par une épidémie de cyclosporose, une infection parasitaire transmise par l’alimentation qui peut provoquer de violentes diarrhées. Cette flambée intervient alors que, sous l’administration Trump, la déclaration des cas de Cyclospora est devenue facultati",
       "url": "https://www.sciencesetavenir.fr/sante/un-parasite-responsable-de-diarrhees-explosives-touche-des-americains-dans-plusieurs-etats_193710?xtor=RSS-16",
@@ -471,26 +481,6 @@
       "date_formatted": "13 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Dans le Cher, l’art du clown contre le fléau de la « mort sociale »",
-      "desc": "« La France buissonnière ». Deux artistes, Léontine et Octavio, se rendent chez les plus fragiles pour briser leur isolement d’un rire salvateur et résilient.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/07/13/dans-le-cher-l-art-du-clown-contre-le-fleau-de-la-mort-sociale_6723046_4497916.html",
-      "image": "https://img.lemde.fr/2026/07/03/948/0/5712/2856/644/322/60/0/1c5dea8_upload-1-exk6kviow5gs-img-1618.jpeg",
-      "date": "2026-07-13T06:00:45+00:00",
-      "date_formatted": "13 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Etats-Unis : Plusieurs personnes touchées par une mystérieuse maladie après avoir fait du rafting dans le Grand Canyon",
-      "desc": "Un homme a notamment contracté une grave infection au genou trois jours après avoir terminé son excursion début juin",
-      "url": "https://www.20minutes.fr/monde/etats-unis/4234010-20260710-etats-unis-plusieurs-personnes-touchees-mysterieuse-maladie-apres-avoir-fait-rafting-grand-canyon?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/q7YKJDVZQM-bXThUuOobmw/1200x768_the-sun-begins-to-set-over-desert-view-at-the-grand-canyon-ariz-on-may-2-2015-photo-by-alex-milan",
-      "date": "2026-07-10T15:42:36+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "L'épidémie d'Ebola en RDC se propage plus rapidement que toutes les précédentes",
@@ -518,16 +508,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/le-cerveau-peut-s-ameliorer-a-n-importe-quel-age_193550?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/02/cover-r4x3w1200-6a46d00035e33-afp-20171214-bsip-015552-023-v1-highres-memorycentre.jpg",
       "date": "2026-07-03T10:35:54+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "France : pic de mortalité lors de la canicule",
-      "desc": "Pendant la semaine du 22 juin, marquée par une canicule exceptionnelle, les décès ont augmenté de près de 30% en France et de 62% en Île-de-France, selon Santé publique France.",
-      "url": "https://www.sciencesetavenir.fr/sante/france-les-deces-ont-augmente-de-presque-30-la-semaine-de-la-canicule_193568?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/03/cover-r4x3w1200-6a4784ce64413-mortalite-canicule.jpg",
-      "date": "2026-07-03T09:45:50+00:00",
       "date_formatted": "3 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
