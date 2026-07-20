@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-07-20T13:43:11.858572+00:00",
-  "count": 64,
+  "generated_at": "2026-07-20T19:21:09.106867+00:00",
+  "count": 62,
   "articles": [
     {
-      "title": "La phrase qui a changé la vie de Bruno Podalydès : «La morale est dans les faits, pas dans les sentiments. Si je soigne mon père, je peux m’amuser à désirer sa mort»",
-      "desc": "Aujourd’hui, le cinéaste raconte comment la pensée de Jules Renard l’accompagne dans sa vie personnelle comme dans l’écriture de scénarios.",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/la-phrase-qui-a-change-la-vie-de-bruno-podalydes-la-morale-est-dans-les-faits-pas-dans-les-sentiments-si-je-soigne-mon-pere-je-peux-mamuser-a-desirer-sa-mort-20260720_ZZXKGLTZIJES5DDFELIB4Q7M44/",
+      "title": "Le narcotrafiquant « El Mayo », chef du cartel de Sinaloa, condamné à la prison à vie à New York",
+      "desc": "Arrêté et incarcéré aux Etats-Unis depuis juillet 2024, El Mayo avait plaidé coupable en août 2025 de plusieurs chefs d’accusation en lien avec ses responsabilités à la tête du cartel de Sinaloa. En échange, les autorités américaines avaient renoncé à requérir la peine de mort contre lui.",
+      "url": "https://www.lemonde.fr/international/article/2026/07/20/le-narcotrafiquant-el-mayo-chef-du-cartel-de-sinaloa-condamne-a-la-prison-a-vie-a-new-york_6727477_3210.html",
+      "image": "https://img.lemde.fr/2026/07/20/161/0/1944/972/644/322/60/0/e51b41d_upload-1-35nuec4x5osr-ap24214784194203.jpg",
+      "date": "2026-07-20T18:45:48+00:00",
+      "date_formatted": "20 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Photo Kegham», fragments d’un autre Gaza",
+      "desc": "Au Centre photographique Marseille, Kegham Djeghalian Jr présente ce qu’il a pu retrouver des archives de son grand-père, créateur du premier studio du territoire palestinien en 1944. Des scènes de vie quotidienne souvent joyeuses à mille lieues de l’actualité mortifère de l’enclave.",
+      "url": "https://www.liberation.fr/culture/photographie/photo-kegham-fragments-dun-autre-gaza-20260720_ZAXWPOP6LND27HIE2BG7TZ2HBY/",
       "image": null,
-      "date": "2026-07-20T13:00:00+00:00",
+      "date": "2026-07-20T18:11:00+00:00",
       "date_formatted": "20 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Après le suicide de Joris Laurencin, sa famille dénonce un harcèlement raciste, porte plainte et lance un appel à témoignages",
-      "desc": "A 21 ans, le jeune homme s’est donné la mort le 13 juillet en Isère, après plusieurs mois d’humiliations racistes, selon son entourage. Le parquet de Vienne a ouvert une enquête pour «harcèlement moral et provocation au suicide».",
-      "url": "https://www.liberation.fr/societe/police-justice/apres-le-suicide-de-joris-laurencin-sa-famille-denonce-un-harcelement-raciste-porte-plainte-et-lance-un-appel-a-temoignages-20260720_P375MBGBMFESFK2HE2ECYYZYZ4/",
+      "title": "Aide à mourir : le Rassemblement national saisit le Conseil constitutionnel",
+      "desc": "Selon une information de France Inter, le parti d'extrême droite a saisi le Conseil constitutionnel sur le droit à l'aide à mourir, cinq jours après son adoption par le Parlement.",
+      "url": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-le-rassemblement-national-saisit-le-conseil-constitutionnel_8115284.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/brzrcou46UZwNS65nvnyrZKAPWk/432x243/filters:format(jpg):quality(50)/2026/06/17/6a326af5ce4a6854845234.jpg",
+      "date": "2026-07-20T17:25:46+00:00",
+      "date_formatted": "20 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les anticorps thérapeutiques, une révolution en cours pour des centaines de maladies",
+      "desc": "Un cancer, une infection par le VIH, une maladie auto-immune comme le lupus, une maladie inflammatoire chronique comme la maladie de Crohn ou encore une maladie neurodégénérative comme Alzheimer n’ont pas grand-chose en commun. Pourtant, une même famille de médicaments ouvre aujourd’hui de...",
+      "url": "https://www.futura-sciences.com/sante/actualites/anticorps-anticorps-therapeutiques-revolution-cours-centaines-maladies-136253/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/f/5/5f5bffc7e4_50258143_anticorps-therapeutiques.jpg",
+      "date": "2026-07-20T17:13:42+00:00",
+      "date_formatted": "20 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Le baron de la drogue mexicain «El Mayo», qui dirigeait le cartel de Sinaloa avec «El Chapo», condamné à la prison à vie",
+      "desc": "Incarcéré aux Etats-Unis depuis 2024, le redoutable narcotrafiquant Ismael Zambada avait plaidé coupable en août 2025 afin d’échapper à la peine de mort.",
+      "url": "https://www.liberation.fr/international/amerique/le-baron-de-la-drogue-mexicain-el-mayo-qui-dirigeait-le-cartel-de-sinaloa-avec-el-chapo-condamne-a-la-prison-a-vie-20260720_S3QWHZI72RAFDK42IFK4FMPH7E/",
       "image": null,
-      "date": "2026-07-20T10:17:03+00:00",
+      "date": "2026-07-20T17:06:30+00:00",
+      "date_formatted": "20 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Les enfants vont enfin avoir une sépulture pour leur mère» : les proches de Delphine Aussaguel entre «soulagement» et «colère»",
+      "desc": "Les ossements retrouvés jeudi 16 juillet appartiennent bien à la mère de famille. Désormais, une autre étape commence dans «l’affaire Jubillar» : faire parler le corps pour tenter de déterminer les causes de la mort de l’infirmière de 33 ans.",
+      "url": "https://www.liberation.fr/societe/police-justice/les-enfants-vont-enfin-avoir-une-sepulture-pour-leur-mere-les-proches-de-delphine-aussaguel-entre-soulagement-et-colere-20260720_RGGQGF75CVCQHELQNMZI7LVSJU/",
+      "image": null,
+      "date": "2026-07-20T16:58:00+00:00",
       "date_formatted": "20 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -30,16 +70,6 @@
       "date": "2026-07-20T10:00:01+00:00",
       "date_formatted": "20 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "A fleur d’ados avec le photographe Jay Ng Yun Ki",
-      "desc": "Au festival les Mesnographies qui se tient aux Mesnuls (Yvelines) jusqu’au 1er septembre, la série «Autophagy» du jeune artiste hongkongais Jay Ng Yun Ki met en image la difficile traversée de l’adolescence, cet âge à haute tension.",
-      "url": "https://www.liberation.fr/culture/photographie/a-fleur-dados-avec-le-photographe-jay-ng-yun-ki-20260720_63FIEYQKRBDPRPRMVSTNLD2JBM/",
-      "image": null,
-      "date": "2026-07-20T10:00:00+00:00",
-      "date_formatted": "20 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -173,16 +203,6 @@
       "type": "presse"
     },
     {
-      "title": "Aide à mour*r : \"Je souhaite une m0rt digne\"",
-      "desc": "Le témoignage poignant de Sophie Viry, 57 ans, atteinte d'une maladie dégénérative. Elle espérait l'adoption de la loi sur l'aide à m0urir votée mercredi 15 juillet par l'Assemblée Nationale. Cette loi instaure un droit à l'aide à m0urir sous des conditions strictes.",
-      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/aide-a-mour-r-je-souhaite-une-m0rt-digne_8110550.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/DaFdNHAMw2gs9X7VTPbFymd6WFY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/16/6a58f711904e3692354448.png",
-      "date": "2026-07-16T21:00:02+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ennemi public numéro 1 : pourquoi faire disparaître le moustique pourrait se retourner contre nous",
       "desc": "Paludisme, dengue, chikungunya, Zika. Chaque année, les maladies transmises par les moustiques font des millions de victimes dans le monde. Mais au tribunal du vivant, une question dérange : l’insecte est-il vraiment coupable… et doit-il être condamné à mort ? Dans ce quatrième épisode de cette...",
       "url": "https://www.futura-sciences.com/sante/actualites/moustique-ennemi-public-numero-1-faire-disparaitre-moustique-pourrait-retourner-nous-136030/#xtor%3DRSS-8",
@@ -210,16 +230,6 @@
       "date": "2026-07-16T17:08:44+00:00",
       "date_formatted": "16 July 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Médicaments : faut-il les vendre à l'unité, alors que 40% des produits jetés sont encore consommables ?",
-      "desc": "Avez-vous déjà jeté ou rapporté en pharmacie une boîte de médicament à peine entamée ? Si c’est le cas, vous n’êtes pas les seuls : chaque année, 7 600 tonnes de médicaments sont détruites. Un gaspillage qui coûte très cher à l’assurance maladie.",
-      "url": "https://www.franceinfo.fr/sante/medicament/medicaments-faut-il-les-vendre-a-l-unite-alors-que-40-des-produits-jetes-sont-encore-consommables_8110352.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/gEbt1QAMOgAk__3hlMy2lrKPVIY/0x11:1323x756/432x243/filters:format(jpg):quality(50)/2026/07/16/6a58e292e6c04930038109.jpg",
-      "date": "2026-07-16T15:56:15+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -383,16 +393,6 @@
       "type": "presse"
     },
     {
-      "title": "Alzheimer : les troubles de la mémoire ne seraient pas le premier signe, mais ce changement de comportement",
-      "desc": "Les oublis ne sont peut-être que la partie visible de l'iceberg. Des chercheurs viennent d'identifier un autre changement du fonctionnement cérébral qui pourrait apparaître plusieurs années plus tôt. De quoi ouvrir de nouvelles pistes pour détecter la maladie avant que les symptômes ne...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-troubles-memoire-ne-seraient-pas-premier-signe-mais-ce-changement-comportement-136216/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/d/e/ddecbd021e_50258105_alzheimer-premiers-signes.jpg",
-      "date": "2026-07-15T12:08:28+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Fin de vie : les soignants, divisés sur l’« aide à mourir », appréhendent l’entrée en vigueur de la nouvelle loi",
       "desc": "Pour certains, c’est une « révolution » qui va dans le bon sens, pour d’autres, un « vertige éthique ». Les professionnels de santé, qui disposeront d’une « clause de conscience », vont se retrouver en première ligne, après l’adoption de la proposition de loi, mercredi 15 juillet.",
       "url": "https://www.lemonde.fr/societe/article/2026/07/15/fin-de-vie-les-soignants-divises-sur-l-aide-a-mourir-apprehendent-l-entree-en-vigueur-de-la-nouvelle-loi_6723526_3224.html",
@@ -438,26 +438,6 @@
       "url": "https://www.lemonde.fr/politique/article/2026/07/14/aide-a-mourir-sebastien-lecornu-saisira-le-conseil-constitutionnel-apres-le-vote-de-mercredi_6723330_823448.html",
       "image": "https://img.lemde.fr/2026/07/08/664/0/8000/4000/644/322/60/0/78661a6_upload-1-cytuhlgsvnkl-jmug260707019.jpg",
       "date": "2026-07-14T18:08:28+00:00",
-      "date_formatted": "14 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : l’ampleur de l’épidémie pourrait dépasser « de deux à quatre fois » les estimations officielles, selon l’OMS",
-      "desc": "Déclarée il y a deux mois, l’épidémie d’Ebola en RDC a déjà officiellement fait plus de 700 morts pour près de 2 000 cas. « Il s’agit désormais de la troisième plus importante épidémie d’Ebola jamais enregistrée », selon l’OMS.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/07/14/ebola-l-ampleur-de-l-epidemie-pourrait-depasser-de-deux-a-quatre-fois-les-estimations-officielles-selon-l-oms_6723326_3212.html",
-      "image": "https://img.lemde.fr/2026/06/26/333/0/4000/2000/644/322/60/0/0aeb197_upload-1-w3cszspquuqp-30-pb-lemonde-ebola-mongbwalu-ituri-rdc.jpg",
-      "date": "2026-07-14T17:57:39+00:00",
-      "date_formatted": "14 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : ce que contient le texte sur l’aide à mourir, soumis au dernier vote des députés",
-      "desc": "Au terme de son parcours parlementaire, la proposition de loi franchit un cap, mercredi, en instaurant un droit au suicide assisté ou à l’euthanasie, dans des conditions très encadrées, pour les malades atteints d’« affection grave et incurable » et présentant une « souffrance » liée à cette affecti",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/14/fin-de-vie-ce-que-contient-le-texte-sur-l-aide-a-mourir-soumis-au-dernier-vote-des-deputes_6723270_3224.html",
-      "image": "https://img.lemde.fr/2026/06/26/640/0/8000/4000/644/322/60/0/34f3b68_upload-1-64quniphih59-jmug260626042.jpg",
-      "date": "2026-07-14T08:06:14+00:00",
       "date_formatted": "14 July 2026",
       "source": "Le Monde Santé",
       "type": "presse"
