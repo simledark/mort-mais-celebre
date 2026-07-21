@@ -1,15 +1,75 @@
 {
-  "generated_at": "2026-07-21T13:10:46.893813+00:00",
-  "count": 61,
+  "generated_at": "2026-07-21T19:01:02.870532+00:00",
+  "count": 62,
   "articles": [
     {
-      "title": "Membre fondateur du mouvement, négociateur chevronné, proche de l’Iran… Qui est Khalil al-Hayya, nouveau chef politique du Hamas ?",
-      "desc": "Après des mois de direction collégiale à la suite de la mort de Yahya Sinwar en 2024, l’ancien chef en exil du mouvement palestinien à Gaza prend la tête du mouvement islamiste.",
-      "url": "https://www.liberation.fr/international/moyen-orient/membre-fondateur-du-mouvement-negociateur-chevronne-proche-de-liran-qui-est-khalil-al-hayya-nouveau-chef-politique-du-hamas-20260721_DF4M7PWZOVAMJA5RYWJATXED5U/",
+      "title": "Le syndrome de la Belle au bois dormant : « Pendant une semaine, je dormais quinze à vingt heures sur vingt-quatre »",
+      "desc": "« Etranges nuits » (2/7). Cette pathologie très rare touche principalement des garçons. Elle se caractérise par des épisodes d’hypersomnie massive d’une ou plusieurs semaines, avec des troubles cognitifs et éventuellement du comportement.",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/21/le-syndrome-de-la-belle-au-bois-dormant-pendant-une-semaine-je-dormais-quinze-a-vingt-heures-sur-vingt-quatre_6729041_3451060.html",
+      "image": "https://img.lemde.fr/2026/07/09/0/75/2828/1414/644/322/60/0/10f032a_upload-1-lr1m9ok0gokd-76d3829fhmdr7jxfyv3etrangenuitrvb.jpg",
+      "date": "2026-07-21T19:00:06+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Moustique tigre : La France recense ses premiers cas de dengue autochtones en Occitanie",
+      "desc": "La France métropolitaine enregistre un deuxième cas autochtone de dengue depuis le début de la saison en Occitanie. Face à la circulation du virus transmise par le moustique tigre, les autorités sanitaires appellent à la vigilance",
+      "url": "https://www.20minutes.fr/sante/4235665-20260721-moustique-tigre-france-recense-premiers-cas-dengue-autochtones-occitanie?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/GnTK1cQWTF-whMHrhlDKVyk/1200x768_illustration-moustique-tigre-aedes-albopictus-credit-lodi-franck-sipa-1506161743",
+      "date": "2026-07-21T18:22:19+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Incendies : deux pompiers morts dans un feu près de Bordeaux, un nouveau brasier dans le Var",
+      "desc": "Deux importants foyers se sont déclarés ce mardi. Celui de Bordeaux est désormais «fixé». C’est loin d’être le cas dans le Var, où plusieurs centaines de pompiers et d’importants moyens aériens sont déployés.",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-deux-pompiers-morts-dans-un-feu-pres-de-bordeaux-un-nouveau-brasier-dans-le-var-20260721_BZBZU5WPIBBD3JKT25ZAQZJZ3U/",
       "image": null,
-      "date": "2026-07-21T11:51:30+00:00",
+      "date": "2026-07-21T18:14:12+00:00",
       "date_formatted": "21 July 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Royaume-Uni : le scandale des maternités",
+      "desc": "En Angleterre, les scandales dans les maternités se multiplient. Bébés morts-nés, mères blessées. Deux établissements sur trois inspectés présentent de sérieuses insuffisances.",
+      "url": "https://www.franceinfo.fr/sante/royaume-uni-le-scandale-des-maternites_8116628.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/L4N-2_nszRrlLTTDNiJTVMsEDYo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/21/6a5f835b92d32597172090.jpg",
+      "date": "2026-07-21T18:00:01+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Et si la piste contre Alzheimer venait d'un acide aminé déjà connu ?",
+      "desc": "Et si un acide aminé courant, déjà vendu comme complément alimentaire, pouvait freiner Alzheimer avant les premiers dégâts ? Des chercheurs japonais l'ont testé sur des mouches et des souris, avec des résultats encourageants. Une piste bon marché et sûre, mais qui reste, pour l'heure, au stade...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-piste-alzheimer-venait-acide-amine-deja-connu-k2m6-136283/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/e/8/ae8033dfb3_50258224_alzheimer-acide-amine.jpg",
+      "date": "2026-07-21T18:00:00+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : le texte adopté au Parlement, une victoire pour Macron",
+      "desc": "L’interdiction des réseaux sociaux pour les moins de 15 ans, adoptée par le Parlement ce mardi 21 juillet, était promue par le Président. Chantre du numérique, il avait fini, alerté par ses conseillers sur les effets psychologiques néfastes d’Internet, par se consacrer au sujet en 2023, après la mor",
+      "url": "https://www.liberation.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-le-texte-adopte-au-parlement-une-victoire-pour-macron-20260721_6RNXKWFE7ZDHVJ6AAURWBGVKIY/",
+      "image": null,
+      "date": "2026-07-21T17:54:22+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Protection de l’enfance : Emmanuel Macron promet le financement de sept nouveaux centres de soins",
+      "desc": "Le budget de la Sécurité sociale comprendra une enveloppe de 38 millions d’euros pour « sécuriser » l’ouverture de sept centres portés par l’association Im’pactes. Cela financera « les dépenses d’investissement », le fonctionnement quotidien étant financé par l’Assurance-maladie au titre des soins e",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/21/protection-de-l-enfance-emmanuel-macron-promet-le-financement-de-sept-nouveaux-centres-de-soins_6728864_3224.html",
+      "image": "https://img.lemde.fr/2026/07/21/637/0/7654/3827/644/322/60/0/935a45c_ftp-1-ym2welk4b1yb-a97f7c14a21842f488c53e21173d20ac-0-283f81937b044e8a9512eb3b30775e72.jpg",
+      "date": "2026-07-21T17:14:54+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -20,16 +80,6 @@
       "date": "2026-07-21T11:29:27+00:00",
       "date_formatted": "21 July 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Deux retraités retrouvés morts «plusieurs mois» après leur décès, en Haute-Loire",
-      "desc": "Les corps d’un frère et une sœur, qui vivaient reclus du monde extérieur, se seraient décomposés pendant des semaines. Une enquête est en cours pour déterminer les causes de leur mort, constatée lundi 20 juillet.",
-      "url": "https://www.liberation.fr/societe/police-justice/deux-retraites-retrouves-morts-plusieurs-mois-apres-leur-deces-en-haute-loire-20260721_QNQAIY54MNE27O6RETRLIEVAFI/",
-      "image": null,
-      "date": "2026-07-21T10:11:33+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -343,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Parkinson : une simple larme pourrait révéler la maladie grâce à ce nouveau capteur",
-      "desc": "La maladie de Parkinson progresse souvent silencieusement avant l’apparition des premiers troubles moteurs. Pour tenter de la repérer plus tôt, des chercheurs explorent aujourd’hui une piste étonnante : identifier les déséquilibres en dopamine dans les larmes.",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-simple-larme-pourrait-reveler-maladie-grace-ce-nouveau-capteur-136255/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/3/3/d334ed20e3_50258153_parkinson-detection-precoce.jpg",
-      "date": "2026-07-16T11:35:20+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Fin de vie : L’adoption du droit à l’aide à mourir ne met pas fin aux divisions",
       "desc": "L’Assemblée nationale a définitivement adopté le droit à l’aide à mourir ce mercredi, une décision saluée par l’ADMD, mais décriée par les associations conservatrices ou par l’Eglise catholique",
       "url": "https://www.20minutes.fr/societe/4234707-20260715-fin-vie-adoption-droit-aide-mourir-met-fin-divisions?at_medium=display&at_campaign=149",
@@ -383,16 +423,6 @@
       "type": "presse"
     },
     {
-      "title": "Fin de vie : Le droit à l’aide à mourir définitivement adopté par le Parlement",
-      "desc": "Les députés ont adopté ce mercredi en dernière lecture la proposition de loi créant un droit à l’aide à mourir",
-      "url": "https://www.20minutes.fr/sante/4234691-20260715-fin-vie-droit-aide-mourir-definitivement-adopte-deputes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/C4FBPsTpQNiG56W7X8GDtyk/1200x768_aide-mourir-va-permettre-certains-malades-atteints-pathologies-graves-obtenir-sous-conditions-administration-produit-letal-enteriner-promesse-emmanuel",
-      "date": "2026-07-15T17:29:46+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : en RDC, l’épidémie progresse à un « rythme sans précédent » selon MSF, plus de 2 000 cas recensés",
       "desc": "L’épidémie pourrait être au moins deux à quatre fois plus importante que ne le laissent penser les chiffres officiels, d’après l’OMS.",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/15/en-republique-democratique-du-congo-l-epidemie-progresse-a-un-rythme-sans-precedent-selon-msf_6723561_3212.html",
@@ -400,16 +430,6 @@
       "date": "2026-07-15T15:22:05+00:00",
       "date_formatted": "15 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : Plus de 2.000 cas recensés, la maladie se propage à un rythme « sans précédent »",
-      "desc": "« En moins de cinq semaines, le nombre de cas confirmés a triplé », alerte Médecins sans frontières (MSF). L’épidémie de Bundibugyo, du nom du variant d’Ebola, a commencé le 15 mai dernier en République démocratique du Congo",
-      "url": "https://www.20minutes.fr/sante/4234658-20260715-ebola-plus-2-000-cas-recenses-maladie-propage-rythme-precedent?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Qta3LX7nSFuwp4aLr4S0JCk/1200x768_260706-bunia-6-juillet-2026-xinhua-des-travailleurs-medicaux-effectuent-des-travaux-de-desinfection-dans-un-centre-de-traitement-d-ebola-a-bunia-la-capitale-de-la-province-de-l-ituri-en-republique-democratique-du-congo-le-6-juillet-2026-le-bilan-de-la-derniere-epidemie-d-ebola-en-republique-democratique-du-congo-a-depasse-les-500-morts-selon-un-rapport-publie-dimanche-par-les-autorites-sanitaires-du-pays-xinhua-xin-huashefa-chine-nouvelle-cmxztpe000063-20260707-pepfn0a001-credit-chine-nouvelle-sipa-2607070750",
-      "date": "2026-07-15T14:57:00+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -431,16 +451,6 @@
       "date_formatted": "15 July 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Philippe Bergerot, président de La Ligue contre le cancer : « Les politiques, très souvent, retardent les actions de prévention, sous la pression des lobbys et de la désinformation »",
-      "desc": "L’oncologue plaide, dans un entretien au « Monde », pour une politique de prévention des cancers agissant à la fois sur la pollution et sur les comportements individuels. L’association La Ligue contre le cancer demande l’extension du principe de précaution aux questions sanitaires, afin de « protége",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/15/philippe-bergerot-president-de-la-ligue-contre-le-cancer-les-politiques-tres-souvent-retardent-l-action-sous-la-pression-des-lobbys-et-de-la-desinformation_6723493_3244.html",
-      "image": "https://img.lemde.fr/2026/07/14/88/0/8256/4128/644/322/60/0/f9b19d5_upload-1-nuun0rlyk4v4-maxnewsspecialtwo379230.jpg",
-      "date": "2026-07-15T06:00:14+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Plusieurs États américains touchés par des « diarrhées explosives »",
