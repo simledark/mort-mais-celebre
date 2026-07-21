@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-21T01:22:01.466573+00:00",
-  "count": 63,
+  "generated_at": "2026-07-21T08:03:46.921393+00:00",
+  "count": 46,
   "articles": [
+    {
+      "title": "Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer",
+      "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-voici-piste-infectieuse-exploree-chercheurs-comprendre-origine-maladie-alzheimer-w2t8-136201/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/3/a/53ac5e18fc_50258166_origines-bouche-maladie-alzheimer.jpg",
+      "date": "2026-07-21T08:00:00+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "image": null,
+      "date": "2026-07-21T06:57:55+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Piqûres de moustiques : toutes les réponses à vos questions",
+      "desc": "« Sus aux moustiques ! » (1/4). Pourquoi les piqûres de moustiques provoquent-elles des démangeaisons ? Certaines personnes sont-elles davantage ciblées que d’autres ? Du mécanisme de la réaction cutanée à la transmission des virus, ce qu’il faut savoir sur ces insectes qui rythment nos étés.",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/21/piqures-de-moustiques-toutes-les-reponses-a-vos-questions_6728083_4355770.html",
+      "image": "https://img.lemde.fr/2026/06/23/580/0/6960/3480/644/322/60/0/0d991e0_upload-1-xenaxqtuoqtn-260611jbalague-lemonde-moustiques-29.jpg",
+      "date": "2026-07-21T05:00:03+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "Bébés mort-nés, mères grièvement blessées… En Angleterre, les défaillances des maternités au cœur d'un scandale national",
       "desc": "En Angleterre, les scandales se succèdent dans les maternités. Des bébés mort-nés, des mères grièvement blessées, des familles qui racontent ne pas avoir été écoutées… Un problème qui dépasse quelques établissements : sur les dernières maternités inspectées, deux sur trois présentent de sérieuses in",
@@ -23,16 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "«Photo Kegham», fragments d’un autre Gaza",
-      "desc": "Au Centre photographique Marseille, Kegham Djeghalian Jr présente ce qu’il a pu retrouver des archives de son grand-père, créateur du premier studio du territoire palestinien en 1944. Des scènes de vie quotidienne souvent joyeuses à mille lieues de l’actualité mortifère de l’enclave.",
-      "url": "https://www.liberation.fr/culture/photographie/photo-kegham-fragments-dun-autre-gaza-20260720_ZAXWPOP6LND27HIE2BG7TZ2HBY/",
-      "image": null,
-      "date": "2026-07-20T18:11:00+00:00",
-      "date_formatted": "20 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Aide à mourir : le Rassemblement national saisit le Conseil constitutionnel",
       "desc": "Selon une information de France Inter, le parti d'extrême droite a saisi le Conseil constitutionnel sur le droit à l'aide à mourir, cinq jours après son adoption par le Parlement.",
       "url": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-le-rassemblement-national-saisit-le-conseil-constitutionnel_8115284.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -51,26 +71,6 @@
       "date_formatted": "20 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Le baron de la drogue mexicain «El Mayo», qui dirigeait le cartel de Sinaloa avec «El Chapo», condamné à la prison à vie",
-      "desc": "Incarcéré aux Etats-Unis depuis 2024, le redoutable narcotrafiquant Ismael Zambada avait plaidé coupable en août 2025 afin d’échapper à la peine de mort.",
-      "url": "https://www.liberation.fr/international/amerique/le-baron-de-la-drogue-mexicain-el-mayo-qui-dirigeait-le-cartel-de-sinaloa-avec-el-chapo-condamne-a-la-prison-a-vie-20260720_S3QWHZI72RAFDK42IFK4FMPH7E/",
-      "image": null,
-      "date": "2026-07-20T17:06:30+00:00",
-      "date_formatted": "20 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Les enfants vont enfin avoir une sépulture pour leur mère» : les proches de Delphine Aussaguel entre «soulagement» et «colère»",
-      "desc": "Les ossements retrouvés jeudi 16 juillet appartiennent bien à la mère de famille. Désormais, une autre étape commence dans «l’affaire Jubillar» : faire parler le corps pour tenter de déterminer les causes de la mort de l’infirmière de 33 ans.",
-      "url": "https://www.liberation.fr/societe/police-justice/les-enfants-vont-enfin-avoir-une-sepulture-pour-leur-mere-les-proches-de-delphine-aussaguel-entre-soulagement-et-colere-20260720_RGGQGF75CVCQHELQNMZI7LVSJU/",
-      "image": null,
-      "date": "2026-07-20T16:58:00+00:00",
-      "date_formatted": "20 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "« La France met un prix sur les vies sauvées sur ses routes, mais elle se garde de le faire sur celles que les canicules emportent »",
@@ -323,16 +323,6 @@
       "type": "science"
     },
     {
-      "title": "Dengue, chikungunya, Zika : voici ce qui se passe dans un moustique avant qu’il puisse vous infecter",
-      "desc": "Une piqûre et tout bascule. À l’échelle microscopique, une véritable opération d’infiltration est déjà en cours : des virus — mais pas que… — exploitent le moustique pour nous atteindre. Pour ce troisième épisode de notre série de l’été consacrée aux secrets des moustiques, Futura vous embarque...",
-      "url": "https://www.futura-sciences.com/sante/actualites/moustique-dengue-chikungunya-zika-voici-ce-passe-moustique-avant-quil-puisse-vous-infecter-136026/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/c/0/9c001bb0e2_50258137_piqure-moustique-virus.jpg",
-      "date": "2026-07-15T20:27:13+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Fin de vie : L’adoption du droit à l’aide à mourir ne met pas fin aux divisions",
       "desc": "L’Assemblée nationale a définitivement adopté le droit à l’aide à mourir ce mercredi, une décision saluée par l’ADMD, mais décriée par les associations conservatrices ou par l’Eglise catholique",
       "url": "https://www.20minutes.fr/societe/4234707-20260715-fin-vie-adoption-droit-aide-mourir-met-fin-divisions?at_medium=display&at_campaign=149",
@@ -361,16 +351,6 @@
       "date_formatted": "15 July 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "50 ans de mystère résolu : voici le nouveau groupe sanguin que des chercheurs viennent d'identifier",
-      "desc": "Vous connaissez sans doute votre groupe A, B, AB ou O, et votre rhésus. Mais le sang humain est bien plus complexe. Après un demi-siècle d'énigme, des chercheurs viennent d'identifier un tout nouveau système de groupe sanguin, caché dans l'ADN d'une poignée de personnes à travers le monde.",
-      "url": "https://www.futura-sciences.com/sante/actualites/sang-50-ans-mystere-resolu-voici-nouveau-groupe-sanguin-chercheurs-viennent-identifier-k2m6-136154/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/2/1/2219b574ba_50258006_groupe-sanguin.jpg",
-      "date": "2026-07-15T18:00:00+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Fin de vie : Le droit à l’aide à mourir définitivement adopté par le Parlement",
@@ -443,16 +423,6 @@
       "type": "presse"
     },
     {
-      "title": "Aide à mourir : Sébastien Lecornu saisira le Conseil constitutionnel après le vote de mercredi",
-      "desc": "Le Sénat a rejeté le texte par trois fois, mais le gouvernement a décidé de donner le dernier mot à l’Assemblée. Le président du Sénat, Gérard Larcher (Les Républicains), s’est, lui aussi, engagé à saisir le Conseil constitutionnel.",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/14/aide-a-mourir-sebastien-lecornu-saisira-le-conseil-constitutionnel-apres-le-vote-de-mercredi_6723330_823448.html",
-      "image": "https://img.lemde.fr/2026/07/08/664/0/8000/4000/644/322/60/0/78661a6_upload-1-cytuhlgsvnkl-jmug260707019.jpg",
-      "date": "2026-07-14T18:08:28+00:00",
-      "date_formatted": "14 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Plusieurs États américains touchés par des « diarrhées explosives »",
       "desc": "Des dizaines d’États américains sont touchés par une épidémie de cyclosporose, une infection parasitaire transmise par l’alimentation qui peut provoquer de violentes diarrhées. Cette flambée intervient alors que, sous l’administration Trump, la déclaration des cas de Cyclospora est devenue facultati",
       "url": "https://www.sciencesetavenir.fr/sante/un-parasite-responsable-de-diarrhees-explosives-touche-des-americains-dans-plusieurs-etats_193710?xtor=RSS-16",
@@ -490,146 +460,6 @@
       "date": "2026-07-07T07:25:41+00:00",
       "date_formatted": "7 July 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Le cerveau peut s’améliorer à n’importe quel âge",
-      "desc": "Une étude de l'Université du Texas montre qu'avec de courts entraînements, les capacités cognitives progressent à tout âge.",
-      "url": "https://www.sciencesetavenir.fr/sante/le-cerveau-peut-s-ameliorer-a-n-importe-quel-age_193550?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/02/cover-r4x3w1200-6a46d00035e33-afp-20171214-bsip-015552-023-v1-highres-memorycentre.jpg",
-      "date": "2026-07-03T10:35:54+00:00",
-      "date_formatted": "3 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
