@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-07-22T01:20:45.267237+00:00",
-  "count": 49,
+  "generated_at": "2026-07-22T08:04:53.420189+00:00",
+  "count": 51,
   "articles": [
+    {
+      "title": "Opérations de démoustication : ce qu’il faut savoir si votre commune est concernée cet été",
+      "desc": "« Sus aux moustiques ! » (2/4). Pour empêcher le moustique-tigre de transmettre des maladies comme la dengue ou le chikungunya, des pulvérisations d’insecticide sont de plus en plus souvent organisées. Qui décide et qui les mène ? Dans quels cas ? Les habitants des quartiers concernés doivent-ils do",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/22/operations-de-demoustication-ce-qu-il-faut-savoir-si-votre-commune-est-concernee-cet-ete_6729645_4355770.html",
+      "image": "https://img.lemde.fr/2023/09/26/454/0/5000/2500/644/322/60/0/fb7fa20_1695744536129-bg-25-26sept23-fr-demoustication019.JPG",
+      "date": "2026-07-22T05:00:05+00:00",
+      "date_formatted": "22 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Le syndrome de la Belle au bois dormant : « Pendant une semaine, je dormais quinze à vingt heures sur vingt-quatre »",
       "desc": "« Etranges nuits » (2/7). Cette pathologie très rare touche principalement des garçons. Elle se caractérise par des épisodes d’hypersomnie massive d’une ou plusieurs semaines, avec des troubles cognitifs et éventuellement du comportement.",
       "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/21/le-syndrome-de-la-belle-au-bois-dormant-pendant-une-semaine-je-dormais-quinze-a-vingt-heures-sur-vingt-quatre_6729041_3451060.html",
       "image": "https://img.lemde.fr/2026/07/09/0/75/2828/1414/644/322/60/0/10f032a_upload-1-lr1m9ok0gokd-76d3829fhmdr7jxfyv3etrangenuitrvb.jpg",
-      "date": "2026-07-21T19:00:06+00:00",
+      "date": "2026-07-21T19:00:02+00:00",
       "date_formatted": "21 July 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Incendies : deux pompiers morts dans un feu  près de Bordeaux, un nouveau brasier a déjà consumé 700 hectares dans le Var",
-      "desc": "Deux importants foyers se sont déclarés ce mardi. Celui de Bordeaux est désormais «fixé». C’est loin d’être le cas dans le Var, où plusieurs centaines de pompiers et d’importants moyens aériens sont déployés.",
-      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-deux-pompiers-morts-dans-un-feu-pres-de-bordeaux-un-nouveau-brasier-dans-le-var-20260721_BZBZU5WPIBBD3JKT25ZAQZJZ3U/",
-      "image": null,
-      "date": "2026-07-21T18:58:13+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Moustique tigre : La France recense ses premiers cas de dengue autochtones en Occitanie",
@@ -51,16 +51,6 @@
       "date_formatted": "21 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : le texte adopté au Parlement, une victoire pour Macron",
-      "desc": "L’interdiction des réseaux sociaux pour les moins de 15 ans, adoptée par le Parlement ce mardi 21 juillet, était promue par le Président. Chantre du numérique, il avait fini, alerté par ses conseillers sur les effets psychologiques néfastes d’Internet, par se consacrer au sujet en 2023, après la mor",
-      "url": "https://www.liberation.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-le-texte-adopte-au-parlement-une-victoire-pour-macron-20260721_6RNXKWFE7ZDHVJ6AAURWBGVKIY/",
-      "image": null,
-      "date": "2026-07-21T17:54:22+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Protection de l’enfance : Emmanuel Macron promet le financement de sept nouveaux centres de soins",
@@ -163,16 +153,6 @@
       "type": "presse"
     },
     {
-      "title": "USA : une laitue à l'origine des “diarrhées explosives“",
-      "desc": "Les autorités sanitaires américaines ont identifié la source de l'épidémie de cyclosporose qui touche cinq États : un parasite présent dans de la laitue iceberg servie par la chaîne de fast-food Taco Bell. Plus de 1.600 personnes ont été infectées et 94 hospitalisées, après la consommation de produi",
-      "url": "https://www.sciencesetavenir.fr/sante/usa-la-laitue-de-taco-bell-a-l-origine-d-une-epidemie-de-diarrhees-explosives_193853?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/20/cover-r4x3w1200-6a5dc619f27c5-taco.jpg",
-      "date": "2026-07-20T07:12:32+00:00",
-      "date_formatted": "20 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "VRAI OU FAUX. Avec la loi sur l'aide à mourir, suffira-t-il de dire \"J'en ai assez de vivre\" pour déclencher une procédure d'euthanasie ?",
       "desc": "François-Xavier Lejeune, directeur de l'association Notre-Dame de Bon Secours, a affirmé jeudi que le fait d'exprimer oralement le souhait de mourir pourrait suffire pour déclencher une procédure d'euthanasie. Elle est pourtant bel et bien soumise à des conditions bien précises.",
       "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-avec-la-loi-sur-l-aide-a-mourir-suffira-t-il-de-dire-j-en-ai-assez-de-vivre-pour-declencher-une-procedure-d-euthanasie_8111390.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -230,16 +210,6 @@
       "date": "2026-07-18T14:01:25+00:00",
       "date_formatted": "18 July 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Et si on guérissait tous les cancers",
-      "desc": "Le cancer est aujourd'hui la première cause de mortalité en France, avec 162 000 décès annuels. Mais si cette maladie devenait totalement guérissable, les conséquences sanitaires, économiques et sociales pourraient bien être tout aussi importantes que cette révolution médicale elle-même !",
-      "url": "https://www.sciencesetavenir.fr/sante/on-guerissait-tous-les-cancers_193233?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/18/cover-r4x3w1200-6a3d1f8c38653-12956-726537-k2-k1-1727285-jpg.jpg",
-      "date": "2026-07-18T12:00:00+00:00",
-      "date_formatted": "18 July 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -343,16 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "Dengue au Sri Lanka : 49 morts et plus de 60 000 infectés",
-      "desc": "Le Sri Lanka intensifie sa lutte contre la dengue face à une flambée des cas. Plus de 60 000 infections ont été recensées depuis le début de l’année, soit deux fois plus qu’à la même période en 2025, tandis que 49 décès ont été enregistrés. L’OMS met en garde contre une expansion accélérée de cette ",
-      "url": "https://www.sciencesetavenir.fr/sante/dengue-au-sri-lanka-49-morts-le-changement-climatique-accelere-la-propagation-du-vecteur-selon-oms_193805?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/16/cover-r4x3w1200-6a589b9bb710e-dengue.jpg",
-      "date": "2026-07-16T13:35:59+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Enfin une réponse sur le piment : bon pour la santé ou dangereux lorsqu’on en mange trop ?",
       "desc": "Le piment est-il un allié santé ou un ennemi silencieux ? Une vaste étude révèle que les plus gros consommateurs présentent un risque non négligeable de cancer gastro-intestinal, avec une association particulièrement forte pour un cancer grave. Pourtant, d’autres études prêtent à cette épice des...",
       "url": "https://www.futura-sciences.com/sante/actualites/alimentation-enfin-reponse-piment-bon-sante-dangereux-lorsquon-mange-trop-136245/#xtor%3DRSS-8",
@@ -379,26 +339,6 @@
       "image": "https://img.20mn.fr/yV5KLulLRqapXrhs9egTjCk/1200x768_sylvie-richard-67-ans-atteinte-d-une-forme-incurable-de-cancer-tient-la-main-de-son-partenaire-bernard-lacour-66-ans-lors-d-un-entretien-le-1er-juin-2018-a-pont-a-mousson-dans-l-est-de-la-france-sylvie-richard-atteinte-d-une-carcinomatose-peritoneale-un-cancer-diagnostique-en-avril-2017-a-appris-en-janvier-2018-que-sa-demande-d-euthanasie-avait-ete-acceptee-en-belgique-photo-de-jean-christophe-verhaegen-afp",
       "date": "2026-07-16T12:20:37+00:00",
       "date_formatted": "16 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un cas sur deux de démence peut être évité ou retardé, selon l'OMS",
-      "desc": "Près d'un cas de démence sur deux pourrait être évité ou retardé en agissant sur des facteurs de risque modifiables, comme le tabagisme, la sédentarité ou la pollution de l'air, selon l'Organisation mondiale de la Santé.",
-      "url": "https://www.sciencesetavenir.fr/sante/jusqu-a-45-des-risques-de-demence-peuvent-etre-evites-ou-retardes-selon-l-oms_193803?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/16/cover-r4x3w1200-6a588206530ae-alzheimer.jpg",
-      "date": "2026-07-16T12:17:24+00:00",
-      "date_formatted": "16 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Fin de vie : L’adoption du droit à l’aide à mourir ne met pas fin aux divisions",
-      "desc": "L’Assemblée nationale a définitivement adopté le droit à l’aide à mourir ce mercredi, une décision saluée par l’ADMD, mais décriée par les associations conservatrices ou par l’Eglise catholique",
-      "url": "https://www.20minutes.fr/societe/4234707-20260715-fin-vie-adoption-droit-aide-mourir-met-fin-divisions?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/C4FBPsTpQNiG56W7X8GDtyk/1200x768_aide-mourir-va-permettre-certains-malades-atteints-pathologies-graves-obtenir-sous-conditions-administration-produit-letal-enteriner-promesse-emmanuel",
-      "date": "2026-07-15T20:11:02+00:00",
-      "date_formatted": "15 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
     },
@@ -433,16 +373,6 @@
       "type": "presse"
     },
     {
-      "title": "Fin de vie : les soignants, divisés sur l’« aide à mourir », appréhendent l’entrée en vigueur de la nouvelle loi",
-      "desc": "Pour certains, c’est une « révolution » qui va dans le bon sens, pour d’autres, un « vertige éthique ». Les professionnels de santé, qui disposeront d’une « clause de conscience », vont se retrouver en première ligne, après l’adoption de la proposition de loi, mercredi 15 juillet.",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/15/fin-de-vie-les-soignants-divises-sur-l-aide-a-mourir-apprehendent-l-entree-en-vigueur-de-la-nouvelle-loi_6723526_3224.html",
-      "image": "https://img.lemde.fr/2026/07/14/835/0/3718/1859/644/322/60/0/8041443_upload-1-5uqp1vhuzd70-20260714-chaissac-ce-dric-alexandre-ollier-07.jpg",
-      "date": "2026-07-15T10:14:48+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Mort traumatique suspecte en milieu rural : quand la médecine légale éclaire l’enquête",
       "desc": "Une sexagénaire est découverte morte dans un champ. Elle présente des lésions témoignant d’une violence extrême. L’autopsie et les investigations médico-légales ont permis de reconstituer les circonstances de ce décès particulièrement troublant.",
       "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/07/15/mort-traumatique-suspecte-en-milieu-rural-quand-la-medecine-legale-eclaire-l-enquete_6723509_6579630.html",
@@ -453,43 +383,133 @@
       "type": "science"
     },
     {
-      "title": "Plusieurs États américains touchés par des « diarrhées explosives »",
-      "desc": "Des dizaines d’États américains sont touchés par une épidémie de cyclosporose, une infection parasitaire transmise par l’alimentation qui peut provoquer de violentes diarrhées. Cette flambée intervient alors que, sous l’administration Trump, la déclaration des cas de Cyclospora est devenue facultati",
-      "url": "https://www.sciencesetavenir.fr/sante/un-parasite-responsable-de-diarrhees-explosives-touche-des-americains-dans-plusieurs-etats_193710?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/13/cover-r4x3w1200-6a548de684de7-cyclosporiasis.jpg",
-      "date": "2026-07-13T07:58:07+00:00",
-      "date_formatted": "13 July 2026",
-      "source": "Sciences & Avenir",
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
       "type": "science"
     },
     {
-      "title": "Bien vieillir jusqu'à cent ans : le secret est dans le métabolisme",
-      "desc": "Les personnes qui atteignent des âges très élevés ont un métabolisme particulier qui les protégerait notamment de l’inflammation.",
-      "url": "https://www.sciencesetavenir.fr/sante/vieillissement-les-centenaires-ont-une-signature-metabolique-identifiable_193688?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/10/cover-r4x3w1200-6a511d3e14b02-afp-20250305-dpa-pa-250305-99-128628-dpai-v1-highres-100yearoldworksoutatthegym.jpg",
-      "date": "2026-07-13T06:20:30+00:00",
-      "date_formatted": "13 July 2026",
-      "source": "Sciences & Avenir",
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
       "type": "science"
     },
     {
-      "title": "L'épidémie d'Ebola en RDC se propage plus rapidement que toutes les précédentes",
-      "desc": "En RDC, l’épidémie d’Ebola progresse à une vitesse inédite, avec un bilan humain déjà très lourd selon l’OMS et l’Africa CDC.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-d-ebola-en-rdc-se-propage-plus-rapidement-que-toutes-les-precedentes-selon-l-agence-de-sante-de-l-ua_193665?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/10/cover-r4x3w1200-6a50a8079a1d5-ebola4.jpg",
-      "date": "2026-07-10T08:28:54+00:00",
-      "date_formatted": "10 July 2026",
-      "source": "Sciences & Avenir",
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
       "type": "science"
     },
     {
-      "title": "La mortalité périnatale continue d'augmenter en France",
-      "desc": "La mortalité périnatale a de nouveau progressé en France en 2024, atteignant plus de 11 décès pour 1.000 naissances. Selon une étude publiée mardi par les services statistiques des ministères sociaux, cette hausse confirme une tendance préoccupante.",
-      "url": "https://www.sciencesetavenir.fr/sante/la-mortalite-perinatale-continue-d-augmenter-en-france-11-pour-1-000-naissances-en-2024_193603?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/07/cover-r4x3w1200-6a4ca6df89036-maternite.jpg",
-      "date": "2026-07-07T07:25:41+00:00",
-      "date_formatted": "7 July 2026",
-      "source": "Sciences & Avenir",
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
+      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
+      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
+      "image": null,
+      "date": "2026-04-24T10:30:35+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
