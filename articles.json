@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-07-23T13:19:17.936019+00:00",
-  "count": 58,
+  "generated_at": "2026-07-23T18:55:57.564214+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title": "En 100 ans, voici la stupéfiante transformation observée par des chercheurs sur la forme des têtes humaines",
+      "desc": "Devant une vieille photo en noir et blanc, on met souvent l'étrangeté des visages sur le compte de la moustache ou de la pose figée. Une étude suggère une explication bien plus profonde : en un siècle à peine, la forme même de notre crâne a changé. Et la génétique n'y est pour rien.",
+      "url": "https://www.futura-sciences.com/sante/actualites/anatomie-100-ans-voici-stupefiante-transformation-observee-chercheurs-forme-tetes-humaines-k2m6-136322/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/5/f/95fec8b764_50258277_anatomie-crane.jpg",
+      "date": "2026-07-23T18:00:00+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Loi sur la fin de vie : trois ans après la convention citoyenne, ses anciens membres peuvent enfin tourner la page",
+      "desc": "Définitivement voté par les députés le 15 juillet, le texte créant un droit à l’aide à mourir achève un long processus, démarré en 2022 par les travaux des « conventionnels », qui se disent aujourd’hui soulagés.",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/23/loi-sur-la-fin-de-vie-trois-ans-apres-la-convention-citoyenne-ses-anciens-membres-peuvent-enfin-tourner-la-page_6730925_3224.html",
+      "image": "https://img.lemde.fr/2026/07/15/208/0/2500/1250/644/322/60/0/f7134b3_upload-1-haaboshksovs-jmug260715035.jpg",
+      "date": "2026-07-23T17:00:13+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Déficit de la Sécu : Sébastien Lecornu met les plus malades à contribution",
+      "desc": "En quête d’économies, le Premier ministre a annoncé, ce jeudi 23 juillet, un doublement des plafonds des franchises médicales, dès cet été. Une mesure qui va pénaliser les patients atteints de maladies chroniques.",
+      "url": "https://www.liberation.fr/societe/sante/deficit-de-la-secu-sebastien-lecornu-met-les-plus-malades-a-contribution-20260723_IDVLNRMIBVF2HF4WAB5DCB2DLM/",
+      "image": null,
+      "date": "2026-07-23T15:03:06+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "image": null,
+      "date": "2026-07-23T14:49:17+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
+      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
+      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
+      "image": null,
+      "date": "2026-07-23T14:01:16+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
     {
       "title": "Canicule de juin : jamais depuis 2003 la France n’avait enregistré autant de décès liés à la chaleur",
       "desc": "Avec 5 764 décès supplémentaires enregistrés en juin, la canicule a provoqué une surmortalité de 36 % en France. Un bilan inédit depuis 2003, avec une hausse particulièrement marquée en Île-de-France.",
@@ -213,6 +263,16 @@
       "type": "presse"
     },
     {
+      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
+      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
+      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
+      "image": null,
+      "date": "2026-07-21T08:00:02+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer",
       "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-voici-piste-infectieuse-exploree-chercheurs-comprendre-origine-maladie-alzheimer-w2t8-136201/#xtor%3DRSS-8",
@@ -361,16 +421,6 @@
       "date_formatted": "17 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Canicule de juin : près de 3 000 morts en Ile-de-France, le double de la normale, selon Santé publique France",
-      "desc": "« Il s’agissait principalement des personnes de plus de 65 ans avec 82,4 % des décès survenus », précise l’agence, ajoutant que ces nouvelles estimations pourraient encore être en deçà de la réalité.",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/17/canicule-de-juin-pres-de-3-000-morts-en-ile-de-france-le-double-de-la-normale-selon-sante-publique-france_6724203_3244.html",
-      "image": "https://img.lemde.fr/2026/06/25/492/0/5899/2949/644/322/60/0/9bc96d5_ftp-1-6zn0bfhemmzk-2026-06-25t163249z-1507762908-rc2y0ma2s92j-rtrmadp-3-europe-weather-france-hospital.JPG",
-      "date": "2026-07-17T16:10:10+00:00",
-      "date_formatted": "17 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola",
@@ -569,16 +619,6 @@
       "image": null,
       "date": "2026-04-27T13:36:06+00:00",
       "date_formatted": "27 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un vaste essai clinique international apporte un éclairage inédit sur un cancer pédiatrique cérébral",
-      "desc": "BIOMEDE 1.0, promu et coordonné par Gustave Roussy, est le plus important essai clinique jamais mené dans les gliomes infiltrants du tronc cérébral, un cancer pédiatrique agressif dont la survie n’excède pas un an. Les résultats, publiés dans la revue Nature Medicine, dessinent une nouvelle carte bi",
-      "url": "https://presse.inserm.fr/un-vaste-essai-clinique-international-apporte-un-eclairage-inedit-sur-un-cancer-pediatrique-cerebral/72788/",
-      "image": null,
-      "date": "2026-04-24T10:30:35+00:00",
-      "date_formatted": "24 April 2026",
       "source": "Inserm",
       "type": "science"
     }
