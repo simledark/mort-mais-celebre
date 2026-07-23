@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-23T01:28:02.018787+00:00",
-  "count": 62,
+  "generated_at": "2026-07-23T08:07:16.144815+00:00",
+  "count": 58,
   "articles": [
     {
-      "title": "«Maintenant, c’est le terrain qui va parler» : en Gironde, un nouveau brasier pendant que Nuñez rend hommage à deux pompiers tués",
-      "desc": "Dans le département, un nouveau feu s’est déclaré ce mercredi 22 juillet entre Le Porge et Saumos et a déjà ravagé 800 hectares. Au même moment, le ministre de l’Intérieur Laurent Nuñez venait rendre hommage à deux pompiers morts au feu la veille à Mérignac.",
-      "url": "https://www.liberation.fr/environnement/maintenant-cest-le-terrain-qui-va-parler-en-gironde-un-nouveau-brasier-pendant-que-nunez-rend-hommage-a-deux-pompiers-tues-20260722_U2ZRDKFK3VDFNAN6OTBWIKOTHQ/",
-      "image": null,
-      "date": "2026-07-22T20:30:46+00:00",
-      "date_formatted": "22 July 2026",
-      "source": "Libération",
-      "type": "presse"
+      "title": "Alzheimer : des chercheurs identifient un mécanisme naturel qui pourrait protéger le cerveau des effets toxiques de tau",
+      "desc": "Une protéine déjà associée au risque d’Alzheimer pourrait-elle devenir une alliée contre la maladie ? Des chercheurs ont découvert que SORLA agit à plusieurs niveaux pour contenir les dégâts provoqués par tau, préserver les connexions entre les neurones et limiter l’atrophie du cerveau.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-chercheurs-identifient-mecanisme-naturel-pourrait-proteger-cerveau-effets-toxiques-tau-136433/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/6/7/3670d9d418_50258493_alzheimer-proteine.jpg",
+      "date": "2026-07-23T06:01:04+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Voici la nouvelle piste explorée par des chercheurs contre l'une des maladies du foie les plus répandues au monde",
@@ -40,16 +40,6 @@
       "date": "2026-07-22T16:36:02+00:00",
       "date_formatted": "22 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Maintien de Monique Barbut, mort de Daniel Siad, morts de la canicule… L’actu de ce mercredi 22 juillet",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 22 juillet",
-      "url": "https://www.liberation.fr/international/europe/maintien-de-monique-barbut-mort-de-daniel-siad-morts-de-la-canicule-lactu-de-ce-mercredi-22-juillet-20260722_2N3Q426W5RHTBN5IJVRQ2QJBFE/",
-      "image": null,
-      "date": "2026-07-22T16:33:59+00:00",
-      "date_formatted": "22 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -243,16 +233,6 @@
       "type": "presse"
     },
     {
-      "title": "Aide à mourir : le Rassemblement national saisit le Conseil constitutionnel",
-      "desc": "Selon une information de France Inter, le parti d'extrême droite a saisi le Conseil constitutionnel sur le droit à l'aide à mourir, cinq jours après son adoption par le Parlement.",
-      "url": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-le-rassemblement-national-saisit-le-conseil-constitutionnel_8115284.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/brzrcou46UZwNS65nvnyrZKAPWk/432x243/filters:format(jpg):quality(50)/2026/06/17/6a326af5ce4a6854845234.jpg",
-      "date": "2026-07-20T17:25:46+00:00",
-      "date_formatted": "20 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Les anticorps thérapeutiques, une révolution en cours pour des centaines de maladies",
       "desc": "Un cancer, une infection par le VIH, une maladie auto-immune comme le lupus, une maladie inflammatoire chronique comme la maladie de Crohn ou encore une maladie neurodégénérative comme Alzheimer n’ont pas grand-chose en commun. Pourtant, une même famille de médicaments ouvre aujourd’hui de...",
       "url": "https://www.futura-sciences.com/sante/actualites/anticorps-anticorps-therapeutiques-revolution-cours-centaines-maladies-136253/#xtor%3DRSS-8",
@@ -383,16 +363,6 @@
       "type": "presse"
     },
     {
-      "title": "Fin de vie : « Un acte éminemment difficile »… Le corps médical inquiet et divisé sur le droit à l’aide à mourir",
-      "desc": "Après l’adoption mercredi de la proposition de loi créant un droit à l’aide à mourir, médecins et infirmiers, qui se retrouveront en première ligne, expriment leurs craintes sur sa mise en œuvre",
-      "url": "https://www.20minutes.fr/sante/4234893-20260717-fin-vie-acte-eminemment-difficile-corps-medical-inquiet-divise-droit-aide-mourir?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/xeF1GItFQ7K0WAC-V3XmNSk/1200x768_une-infirmiere-tient-la-main-d-un-patient-alors-qu-il-le-soigne-dans-l-unite-de-soins-palliatifs-de-l-hopital-paul-brousse-ap-hp-de-villejuif-pres-de-paris-le-4-juin-2025-photo-de-thomas-samson-afp-a-usage-editorial-limite-pour-illustrer-l-evenement-comme-indique-dans-la-legende",
-      "date": "2026-07-17T04:37:36+00:00",
-      "date_formatted": "17 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Claude Halmos, psychanalyste médiatique et spécialiste des enfants, est morte à 80 ans",
       "desc": "La psychanalyste Claude Halmos, spécialiste de l’enfance qui intervenait fréquemment dans les médias, est morte jeudi dernier à l’âge de 80 ans d’un arrêt cardiaque",
       "url": "https://www.20minutes.fr/sante/4234904-20260716-claude-halmos-psychanalyste-mediatique-specialiste-enfants-morte-80-ans?at_medium=display&at_campaign=149",
@@ -431,16 +401,6 @@
       "date_formatted": "16 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Le choix de sa fin de vie, ultime liberté",
-      "desc": "En adoptant définitivement la proposition de loi créant un droit à l’aide à mourir pour des malades atteints d’une affection incurable, les députés ont démontré leur capacité à répondre à un enjeu de société majeur. Le texte incarne l’un des rares engagements d’ampleur concrétisés du second quinquen",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/15/le-choix-de-sa-fin-de-vie-ultime-liberte_6717514_3233.html",
-      "image": "https://img.lemde.fr/2026/07/15/208/0/2500/1250/644/322/60/0/1bc510a_upload-1-wt3g06ltxl7n-jmug260715030.jpg",
-      "date": "2026-07-15T20:07:24+00:00",
-      "date_formatted": "15 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Mort traumatique suspecte en milieu rural : quand la médecine légale éclaire l’enquête",
