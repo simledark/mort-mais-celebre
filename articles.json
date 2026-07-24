@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-24T13:13:08.862903+00:00",
-  "count": 62,
+  "generated_at": "2026-07-24T19:08:21.468579+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "Le gouvernement précise sa feuille de route d’économies pour la santé, ciblant les médicaments, les soins dentaires et les transports sanitaires",
+      "desc": "La ministre de la santé, Stéphanie Rist, a confirmé vendredi la hausse sur plusieurs actes médicaux du ticket modérateur, montant non remboursé par l’Assurance-maladie et transféré aux mutuelles, laissant présager de futures augmentations de leurs tarifs. La veille, elle avait annoncé le doublement ",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/24/le-gouvernement-precise-sa-feuille-de-route-d-economies-pour-la-sante-ciblant-les-medicaments-les-soins-dentaires-et-les-transports-sanitaires_6731538_3224.html",
+      "image": "https://img.lemde.fr/2026/06/26/2063/0/5333/2666/644/322/60/0/2e43c79_upload-1-oz1z5n3ldkcp-jmug260626021.jpg",
+      "date": "2026-07-24T19:27:59+00:00",
+      "date_formatted": "24 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Succession d’Aretha Franklin : des testaments et des paraphes en carafe",
+      "desc": "La Queen of Soul est morte en 2018 sans avoir clairement réglé sa succession. Plusieurs versions contradictoires de ses dernières volontés ont surgi de ses tiroirs et d’un cahier griffonné, plongeant ses fils dans des années de bataille judiciaire.",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/succession-daretha-franklin-des-testaments-et-des-paraphes-en-carafe-20260725_VFA5ZVXT7FHLPHYACMF2GX22LM/",
+      "image": null,
+      "date": "2026-07-24T16:00:00+00:00",
+      "date_formatted": "24 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Marshall Ganz, professeur à Harvard : «Aux Etats-Unis, la démocratie devient un outil de marketing où nous ne demandons pas de comptes au pouvoir»",
+      "desc": "A 83 ans, le professeur à l’université Harvard continue d’analyser les pathologies de la démocratie américaine, et les mutations des campagnes électorales. Il voit dans l’élection de Zohran Mamdani à New York un espoir, mais surtout un exemple de campagne à suivre pour que la politique se reconnecte",
+      "url": "https://www.liberation.fr/international/marshall-ganz-professeur-a-harvard-aux-etats-unis-la-democratie-devient-un-outil-de-marketing-ou-nous-ne-demandons-pas-de-comptes-au-pouvoir-20260724_B5DA2PQFRVFRFDD22O5OSFUBCI/",
+      "image": null,
+      "date": "2026-07-24T15:29:50+00:00",
+      "date_formatted": "24 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Deux enfants épileptiques ont été soignés par thérapie génique",
       "desc": "L’approche consiste à bloquer l’expression de la copie anormale d’un gène pour que l’autre copie soit la seule à s’activer, produisant seulement des protéines non mutées.",
@@ -11,26 +41,6 @@
       "date_formatted": "24 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "L’armée israélienne dit se préparer à mener une «vaste opération» en Cisjordanie",
-      "desc": "L’annonce de Tsahal ce vendredi 24 juillet intervient après des violences qui ont fait un mort côté israélien et quatre côté palestinien.",
-      "url": "https://www.liberation.fr/international/moyen-orient/larmee-israelienne-dit-se-preparer-a-mener-une-vaste-operation-en-cisjordanie-20260724_XEZ4A4XCYNFDRI2MVBT44WOVZE/",
-      "image": null,
-      "date": "2026-07-24T11:24:02+00:00",
-      "date_formatted": "24 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Nouveaux bombardements en Iran, cinq morts en Cisjordanie, le prix du pétrole s’envole… L’actu de la guerre au Moyen-Orient ce vendredi 24 juillet",
-      "desc": "L’essentiel des informations du jour sur la guerre entre le Hamas et Israël.",
-      "url": "https://www.liberation.fr/international/moyen-orient/nouveaux-bombardements-en-iran-cinq-morts-en-cisjordanie-le-prix-du-petrole-senvole-lactu-de-la-guerre-au-moyen-orient-ce-vendredi-24-juillet-20260724_6JQIBEKY4BCXNJ6TAL342IE3DU/",
-      "image": null,
-      "date": "2026-07-24T11:12:02+00:00",
-      "date_formatted": "24 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "En France, 274 personnes sont mortes par noyade entre le 1ᵉʳ mai et le 15 juillet, dont quatre sur cinq pendant les périodes de canicule",
@@ -50,16 +60,6 @@
       "date": "2026-07-24T10:45:02+00:00",
       "date_formatted": "24 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les Etats-Unis confrontés à leur pire épidémie de rougeole depuis trente-cinq ans",
-      "desc": "Avec plus de 2 200 cas recensés depuis le début de l’année, le pays risque de perdre son statut d’Etat ayant éliminé la maladie. La baisse de la vaccination et la désinformation alimentent la résurgence du virus.",
-      "url": "https://www.liberation.fr/international/amerique/les-etats-unis-confrontes-a-leur-pire-epidemie-de-rougeole-depuis-trente-cinq-ans-20260724_NJ6DQH2GNFD5DD4UO2GIWVHBPE/",
-      "image": null,
-      "date": "2026-07-24T10:12:06+00:00",
-      "date_formatted": "24 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -180,16 +180,6 @@
       "date": "2026-07-22T17:00:09+00:00",
       "date_formatted": "22 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le bilan de l'épidémie d'Ebola en RDC et en Ouganda dépasse désormais les 1 000 morts",
-      "desc": "Ce bilan de l'Organisation mondiale de la santé (OMS) s'appuie sur des données des autorités sanitaires de la République démocratique du Congo (RDC), où l'épidémie sévit principalement.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-rdc-et-en-ouganda-depasse-desormais-les-1-000-morts_8117990.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/L8pYTNAR79JRoFmVzV1apchVqrM/0x39:1024x615/432x243/filters:format(jpg):quality(50)/2026/07/22/6a60cf7309f95483891229.jpg",
-      "date": "2026-07-22T16:36:02+00:00",
-      "date_formatted": "22 July 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -393,16 +383,6 @@
       "type": "science"
     },
     {
-      "title": "« On bureaucratise l’euthanasie pour la rendre acceptable » : le regard très critique de Didier Sicard sur la loi créant une aide à mourir",
-      "desc": "Le professeur de médecine émérite a longtemps dirigé le Comité consultatif national d’éthique, dont il est aujourd’hui président d’honneur. Dans un entretien au « Monde », il regrette que la loi adoptée le 15 juillet « déresponsabilise » les médecins et exonère la société de sa « responsabilité d’ac",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/20/on-bureaucratise-l-euthanasie-pour-la-rendre-acceptable-le-regard-tres-critique-de-didier-sicard-sur-la-loi-creant-une-aide-a-mourir_6726567_3224.html",
-      "image": "https://img.lemde.fr/2026/07/18/1257/0/3780/1890/644/322/60/0/31291b8_upload-1-mzfrkloqekzq-013403-002.jpg",
-      "date": "2026-07-20T05:00:20+00:00",
-      "date_formatted": "20 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Patient bizarre : des cas inquiétants de « diarrhée explosive » se multiplient aux États-Unis",
       "desc": "L’origine de la maladie, très certainement alimentaire, n’a pas été identifiée à ce jour. Les Centres américains de contrôle et de prévention des maladies (CDC) ont recensé 145 cas entre le 1er mai et le 16 juin 2026. Dans le Michigan, l’épidémie est en progression rapide, portant le nombre...",
       "url": "https://www.futura-sciences.com/sante/actualites/parasites-patient-bizarre-cas-inquietants-diarrhee-explosive-multiplient-etats-unis-136028/#xtor%3DRSS-8",
@@ -428,16 +408,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/metiers-sante-canicules-vieillissement-deserts-medicaux-formation-soignants-vrai-enjeu-136294/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/8/0/58022c0009_50258242_formation-sante.jpg",
       "date": "2026-07-18T17:11:13+00:00",
-      "date_formatted": "18 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "25 ans, une bascule : pourquoi les cellules CAR-T pourraient changer durablement l’histoire du cancer",
-      "desc": "Et si l’on ne combattait plus le cancer directement, mais en transformant nos propres cellules immunitaires en chasseurs de tumeurs ? Les thérapies CAR-T ont déjà permis des rémissions spectaculaires chez des patients condamnés à court terme et ouvrent aujourd’hui la voie à une nouvelle...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-25-ans-bascule-cellules-car-t-pourraient-changer-durablement-histoire-cancer-136065/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/2/7a27c36afc_50258239_cancer-therapie-car-t.jpg",
-      "date": "2026-07-18T14:01:25+00:00",
       "date_formatted": "18 July 2026",
       "source": "Futura Santé",
       "type": "science"
