@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-24T19:08:21.468579+00:00",
-  "count": 59,
+  "generated_at": "2026-07-25T01:24:50.690103+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Rougeole : ce qui se passe en ce moment aux États-Unis est particulièrement inquiétant",
+      "desc": "La rougeole connaît une flambée sans précédent aux États-Unis, avec un nombre de cas jamais atteint depuis plus de trente ans. Derrière cette résurgence se cache un recul de la vaccination qui inquiète les experts, alors que le virus circule désormais dans la quasi-totalité du pays. Une...",
+      "url": "https://www.futura-sciences.com/sante/actualites/epidemie-rougeole-ce-passe-ce-moment-etats-unis-particulierement-inquietant-136535/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/2/7/3276518d1c_50258638_2-rougeole.jpg",
+      "date": "2026-07-24T21:33:33+00:00",
+      "date_formatted": "24 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Le gouvernement précise sa feuille de route d’économies pour la santé, ciblant les médicaments, les soins dentaires et les transports sanitaires",
       "desc": "La ministre de la santé, Stéphanie Rist, a confirmé vendredi la hausse sur plusieurs actes médicaux du ticket modérateur, montant non remboursé par l’Assurance-maladie et transféré aux mutuelles, laissant présager de futures augmentations de leurs tarifs. La veille, elle avait annoncé le doublement ",
@@ -10,26 +20,6 @@
       "date": "2026-07-24T19:27:59+00:00",
       "date_formatted": "24 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Succession d’Aretha Franklin : des testaments et des paraphes en carafe",
-      "desc": "La Queen of Soul est morte en 2018 sans avoir clairement réglé sa succession. Plusieurs versions contradictoires de ses dernières volontés ont surgi de ses tiroirs et d’un cahier griffonné, plongeant ses fils dans des années de bataille judiciaire.",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/succession-daretha-franklin-des-testaments-et-des-paraphes-en-carafe-20260725_VFA5ZVXT7FHLPHYACMF2GX22LM/",
-      "image": null,
-      "date": "2026-07-24T16:00:00+00:00",
-      "date_formatted": "24 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Marshall Ganz, professeur à Harvard : «Aux Etats-Unis, la démocratie devient un outil de marketing où nous ne demandons pas de comptes au pouvoir»",
-      "desc": "A 83 ans, le professeur à l’université Harvard continue d’analyser les pathologies de la démocratie américaine, et les mutations des campagnes électorales. Il voit dans l’élection de Zohran Mamdani à New York un espoir, mais surtout un exemple de campagne à suivre pour que la politique se reconnecte",
-      "url": "https://www.liberation.fr/international/marshall-ganz-professeur-a-harvard-aux-etats-unis-la-democratie-devient-un-outil-de-marketing-ou-nous-ne-demandons-pas-de-comptes-au-pouvoir-20260724_B5DA2PQFRVFRFDD22O5OSFUBCI/",
-      "image": null,
-      "date": "2026-07-24T15:29:50+00:00",
-      "date_formatted": "24 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -398,16 +388,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-voici-piste-prometteuse-exploree-chercheurs-americains-aider-cerveau-eliminer-plaques-amyloides-k2m6-136209/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/8/a/d8ae04c334_50258088_astrocytes-alzheimer-cerveau.jpg",
       "date": "2026-07-18T18:00:00+00:00",
-      "date_formatted": "18 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Canicules, vieillissement, déserts médicaux : pourquoi la formation des soignants est le vrai enjeu",
-      "desc": "Alors que la France traverse un été 2026 marqué par la récurrence et l’intensité des épisodes caniculaires, le réchauffement climatique continue d’éprouver la solidité de notre système de santé et sa capacité à résister à ce qui pourrait devenir notre quotidien à court terme. À cette urgence...",
-      "url": "https://www.futura-sciences.com/sante/actualites/metiers-sante-canicules-vieillissement-deserts-medicaux-formation-soignants-vrai-enjeu-136294/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/8/0/58022c0009_50258242_formation-sante.jpg",
-      "date": "2026-07-18T17:11:13+00:00",
       "date_formatted": "18 July 2026",
       "source": "Futura Santé",
       "type": "science"
