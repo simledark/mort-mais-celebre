@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-25T01:24:50.690103+00:00",
-  "count": 57,
+  "generated_at": "2026-07-25T07:47:04.425752+00:00",
+  "count": 44,
   "articles": [
+    {
+      "title": "Incendies en Gironde : Asthme, bronchites, maladies chroniques… Quelles sont les conséquences des feux sur la santé ?",
+      "desc": "Les feux de végétation produisent des particules fines, qui sont très irritantes et affectent particulièrement les personnes atteintes de maladies chroniques",
+      "url": "https://www.20minutes.fr/sante/4235975-20260725-incendies-gironde-asthme-bronchites-maladies-chroniques-consequences-feux-sante?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/t7buYOiVTzaCvB52CawxUSk/1200x768_des-avions-de-lutte-contre-les-incendies-dont-des-bombardiers-d-eau-canadair-survolent-un-feu-de-foret-qui-s-est-declare-pres-de-cotignac-dans-le-departement-du-var-dans-le-sud-est-de-la-france-le-22-juillet-2026-des-equipes-de-pompiers-et-des-ressources-aeriennes-ont-ete-deployees-pour-tenter-de-contenir-l-incendie-qui-se-propageait-rapidement-munschfrederic-munsch0088-credit-frederic-munsch-sipa-2607222141",
+      "date": "2026-07-25T05:32:37+00:00",
+      "date_formatted": "25 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Rougeole : ce qui se passe en ce moment aux États-Unis est particulièrement inquiétant",
       "desc": "La rougeole connaît une flambée sans précédent aux États-Unis, avec un nombre de cas jamais atteint depuis plus de trente ans. Derrière cette résurgence se cache un recul de la vaccination qui inquiète les experts, alors que le virus circule désormais dans la quasi-totalité du pays. Une...",
@@ -111,16 +121,6 @@
       "date_formatted": "23 July 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
-      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
-      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
-      "image": null,
-      "date": "2026-07-23T14:01:16+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "Inserm",
-      "type": "science"
     },
     {
       "title": "Canicule de juin : jamais depuis 2003 la France n’avait enregistré autant de décès liés à la chaleur",
@@ -303,16 +303,6 @@
       "type": "presse"
     },
     {
-      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
-      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
-      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
-      "image": null,
-      "date": "2026-07-21T08:00:02+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer",
       "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-voici-piste-infectieuse-exploree-chercheurs-comprendre-origine-maladie-alzheimer-w2t8-136201/#xtor%3DRSS-8",
@@ -450,126 +440,6 @@
       "date": "2026-07-10T08:28:54+00:00",
       "date_formatted": "10 July 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
