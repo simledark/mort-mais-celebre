@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-07-25T12:55:03.207070+00:00",
-  "count": 59,
+  "generated_at": "2026-07-25T18:46:09.113810+00:00",
+  "count": 60,
   "articles": [
     {
-      "title": "Des odeurs aux neurones, des scientifiques français commencent à percer le mystère de l’effet «madeleine de Proust»",
-      "desc": "Comment les effluves agréables de l’enfance s’ancrent-elles dans notre mémoire, jusqu’à procurer une sensation de bien-être à l’âge adulte ? Pour le comprendre, des chercheurs sont allés faire un tour du côté de notre bulbe olfactif, et de quelques autres zones de notre cerveau.",
-      "url": "https://www.liberation.fr/sciences/biologie/des-odeurs-aux-neurones-des-scientifiques-francais-commencent-a-percer-le-mystere-de-leffet-madeleine-de-proust-20260725_GDZ5Z6NYOBDUVHJY3X5C5ICJ6A/",
+      "title": "Patient bizarre : les médecins suspectent des métastases dans son cerveau, ce que révèle l’IRM est moins grave mais plus effrayant",
+      "desc": "Un homme a consulté après deux semaines de maux de tête et un léger changement de comportement. Un scanner a révélé des lésions évoquant des métastases cancéreuses. Mais les médecins n’ont trouvé aucune localisation de cancer primitif. Une IRM et des tests sérologiques ont permis de trouver la...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-patient-bizarre-medecins-suspectent-metastases-son-cerveau-ce-revele-irm-moins-grave-mais-plus-effrayant-136086/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/c/6/2c61a693ea_50258408_douleur-maux-tete.jpg",
+      "date": "2026-07-25T20:03:10+00:00",
+      "date_formatted": "25 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Kyiv frappe des régions russes jusqu’à l’Oural, 11 morts dans une ville occupée du sud de l’Ukraine",
+      "desc": "L’Ukraine a attaqué ce samedi 25 juillet un «camp de vacances» à Kyrylivka, village au bord de la mer d’Azov occupé par les Russes.",
+      "url": "https://www.liberation.fr/international/europe/kyiv-frappe-des-regions-russes-jusqua-loural-11-morts-dans-une-ville-occupee-du-sud-de-lukraine-20260725_JIY37KG2NZBHJEJEHJCXK5IYXM/",
       "image": null,
-      "date": "2026-07-25T10:17:00+00:00",
+      "date": "2026-07-25T13:29:19+00:00",
+      "date_formatted": "25 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Impressionnisme : au MuMA, le jeune Monet dans un Havre de paix",
+      "desc": "Mort il y a exactement cent ans, le père de l’impressionnisme est mis à l’honneur dans le musée de la ville de son enfance, entre carnets inédits, portraits incisifs et natures mortes.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/impressionnisme-au-muma-le-jeune-monet-dans-un-havre-de-paix-20260725_MUNQGCWKURGAVA6UG2QPXCIPGI/",
+      "image": null,
+      "date": "2026-07-25T12:52:00+00:00",
       "date_formatted": "25 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -31,6 +51,16 @@
       "date_formatted": "24 July 2026",
       "source": "Futura Santé",
       "type": "science"
+    },
+    {
+      "title": "Chine : La mort d’une enfant lors d’un essai de thérapie génique passée sous silence",
+      "desc": "Une fillette de six ans est morte après une thérapie génique expérimentale en Chine. Son décès n’a pas été signalé par les chercheurs, relançant les questions sur la transparence des essais cliniques",
+      "url": "https://www.20minutes.fr/monde/chine/4236225-20260724-chine-mort-enfant-lors-essai-therapie-genique-passee-sous-silence?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/VwqQSGl2QDSWO7roqn0-bCk/1200x768_en-laboratoire-confin-a-les-virus-vecteurs-sont-separes-des-cellules-et-du-milieu-de-culture-par-filtration-au-genethon-laboratoire-de-production-de-virus-vecteurs-medicaments-de-therapie-genique-ils-servent-a-amener-dans-des-cellules-malades-une-copie-normale-d-un-gene-defaillant-l-ouverture-du-futur-centre-genethon-bioprod-de-l-afm-permettra-de-mener-cette-production-a-grande-echelle-pour-des-essais-de-therapie-genique-chez-l-homme-evry-france-24-11-2010-credit-durand-florence-sipa-1011251128",
+      "date": "2026-07-24T20:07:46+00:00",
+      "date_formatted": "24 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
     },
     {
       "title": "Le gouvernement précise sa feuille de route d’économies pour la santé, ciblant les médicaments, les soins dentaires et les transports sanitaires",
@@ -390,26 +420,6 @@
       "date": "2026-07-20T07:12:32+00:00",
       "date_formatted": "20 July 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Patient bizarre : des cas inquiétants de « diarrhée explosive » se multiplient aux États-Unis",
-      "desc": "L’origine de la maladie, très certainement alimentaire, n’a pas été identifiée à ce jour. Les Centres américains de contrôle et de prévention des maladies (CDC) ont recensé 145 cas entre le 1er mai et le 16 juin 2026. Dans le Michigan, l’épidémie est en progression rapide, portant le nombre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parasites-patient-bizarre-cas-inquietants-diarrhee-explosive-multiplient-etats-unis-136028/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/5/9/0591b84840_50258247_douleur-diarrhee.jpg",
-      "date": "2026-07-18T20:01:30+00:00",
-      "date_formatted": "18 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Alzheimer : voici la piste prometteuse explorée par des chercheurs américains pour aider le cerveau à éliminer les plaques amyloïdes",
-      "desc": "Et si le cerveau possédait déjà les outils pour combattre Alzheimer, mais qu'il lui manquait juste un coup de pouce pour s'en servir ? Des chercheurs viennent d'activer un système de nettoyage naturel qui aspire les plaques toxiques et préserve la mémoire. Une piste inédite, encore au stade de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-voici-piste-prometteuse-exploree-chercheurs-americains-aider-cerveau-eliminer-plaques-amyloides-k2m6-136209/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/8/a/d8ae04c334_50258088_astrocytes-alzheimer-cerveau.jpg",
-      "date": "2026-07-18T18:00:00+00:00",
-      "date_formatted": "18 July 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
