@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-26T01:27:50.069339+00:00",
-  "count": 61,
+  "generated_at": "2026-07-26T08:03:28.581012+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "«C’est la première fois que je vois la ville morte comme ça» : Eysines, largement évacuée à cause du mégafeu en Gironde, est désertée de ses habitants",
+      "desc": "Cette commune de 25 000 habitants de l’agglomération de Bordeaux a été partiellement évacuée dans la nuit de vendredi à samedi. Les résidents n’ont pas encore le droit de rentrer chez eux, même si certains ont bravé les interdictions de la préfecture. Reportage dans une ville fantôme.",
+      "url": "https://www.liberation.fr/societe/cest-la-premiere-fois-que-je-vois-la-ville-morte-comme-ca-eysines-largement-evacuee-a-cause-du-megafeu-en-gironde-est-desertee-de-ses-habitants-20260726_OEJ5EFA4QZBHBHZRQOCAMHNKEU/",
+      "image": null,
+      "date": "2026-07-26T07:07:23+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un véhicule fonce dans la foule à la Gay Pride de Berlin : un mort et 16 blessés",
+      "desc": "Trois personnes sont toujours entre la vie et la mort après l’attaque perpétrée samedi soir, lors Christopher Street Day. Un avis de recherche a été émis ce dimanche 26 juillet pour retrouver un suspect lié «au milieu islamiste».",
+      "url": "https://www.liberation.fr/international/europe/un-vehicule-fonce-dans-la-foule-a-la-gay-pride-de-berlin-un-mort-et-16-blesses-20260726_VYJYTLUBG5DU5NS24CQ6N6QK5U/",
+      "image": null,
+      "date": "2026-07-26T06:42:09+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au Musée d’art et d’histoire Paul-Eluard de Saint-Denis, une exposition remonte l’histoire des pratiques et croyances de guérison",
+      "desc": "Présentée dans l’ancien carmel dyonisien, « Croire et guérir » réunit des œuvres, documents et objets illustrant l’évolution et la diversité des réponses apportées à la maladie, fondées sur la science, les traditions populaires ou la foi.",
+      "url": "https://www.lemonde.fr/culture/article/2026/07/26/au-musee-d-art-et-d-histoire-paul-eluard-de-saint-denis-une-exposition-remonte-l-histoire-des-pratiques-et-croyances-de-guerison_6732760_3246.html",
+      "image": "https://img.lemde.fr/2026/07/15/2413/0/4024/2012/644/322/60/0/86ba433_upload-1-w5yic5xwjpek-apothicairerie-de-saint-denis-musee-paul-eluard-sabine-le-ne-chet.JPG",
+      "date": "2026-07-26T06:00:11+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "En Cisjordanie occupée, deux villages palestiniens attaqués par des colons israéliens : «On ne les avait jamais vus si nombreux»",
+      "desc": "Tell et Sarra, situés dans le nord du territoire, ont subi vendredi 24 juillet au matin une série d’attaques violentes au lourd bilan : quatre morts palestiniens et deux israéliens.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-cisjordanie-occupee-deux-villages-palestiniens-attaques-par-des-colons-israeliens-on-ne-les-avait-jamais-vus-si-nombreux-20260726_J4A4CNFKTJA5FF744ABPGMPFHU/",
+      "image": null,
+      "date": "2026-07-26T05:55:44+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Patient bizarre : les médecins suspectent des métastases dans son cerveau, ce que révèle l’IRM est moins grave mais plus effrayant",
       "desc": "Un homme a consulté après deux semaines de maux de tête et un léger changement de comportement. Un scanner a révélé des lésions évoquant des métastases cancéreuses. Mais les médecins n’ont trouvé aucune localisation de cancer primitif. Une IRM et des tests sérologiques ont permis de trouver la...",
@@ -28,16 +68,6 @@
       "url": "https://www.liberation.fr/international/europe/kyiv-frappe-des-regions-russes-jusqua-loural-11-morts-dans-une-ville-occupee-du-sud-de-lukraine-20260725_JIY37KG2NZBHJEJEHJCXK5IYXM/",
       "image": null,
       "date": "2026-07-25T13:29:19+00:00",
-      "date_formatted": "25 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Impressionnisme : au MuMA, le jeune Monet dans un Havre de paix",
-      "desc": "Mort il y a exactement cent ans, le père de l’impressionnisme est mis à l’honneur dans le musée de la ville de son enfance, entre carnets inédits, portraits incisifs et natures mortes.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/impressionnisme-au-muma-le-jeune-monet-dans-un-havre-de-paix-20260725_MUNQGCWKURGAVA6UG2QPXCIPGI/",
-      "image": null,
-      "date": "2026-07-25T12:52:00+00:00",
       "date_formatted": "25 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -411,16 +441,6 @@
       "date_formatted": "20 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "« La France met un prix sur les vies sauvées sur ses routes, mais elle se garde de le faire sur celles que les canicules emportent »",
-      "desc": "Dans une tribune au « Monde », l’économiste Jérôme Mathis juge que le jour où la France appliquera aux morts des fortes chaleurs le même calcul qu’aux infrastructures routières, l’inaction climatique apparaîtra pour ce qu’elle est : un choix coûteux, payé en vies humaines.",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/20/la-france-met-un-prix-sur-les-vies-sauvees-sur-ses-routes-mais-elle-se-garde-de-le-faire-sur-celles-que-les-canicules-emportent_6726946_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/c4672f4_upload-1-ujmazdjtr0fc-frame-841.jpg",
-      "date": "2026-07-20T10:00:01+00:00",
-      "date_formatted": "20 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "USA : une laitue à l'origine des “diarrhées explosives“",
