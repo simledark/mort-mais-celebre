@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-07-26T08:03:28.581012+00:00",
-  "count": 63,
+  "generated_at": "2026-07-26T12:52:45.743793+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title": "Une enquête ouverte en Chine sur la mort dissimulée d'une fillette lors d'une expérience de thérapie génique",
+      "desc": "Ce décès d'une fillette de 6 ans, atteinte d'une maladie génétique rare, n'avait pas été mentionné dans une étude publiée dans la revue \"Nature\".",
+      "url": "https://www.franceinfo.fr/monde/chine/une-enquete-ouverte-en-chine-sur-la-mort-dissimulee-d-une-fillette-lors-d-une-experience-de-therapie-genique_8122769.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mMrpoHsXzyF4W-bMOdHt2_B1WRY/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/26/6a65e3c6616d5573286313.jpg",
+      "date": "2026-07-26T12:39:07+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Et si on cessait de fumer et de boire",
+      "desc": "Une fois passé le choc culturel de cette décision, les bénéfices sanitaires seraient évidents : on pourrait s'attendre à éviter près de 110 000 décès prématurés chaque année.",
+      "url": "https://www.sciencesetavenir.fr/sante/on-cessait-de-fumer-et-de-boire_193242?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/18/cover-r4x3w1200-6a3d1f926690e-12956-726562-k2-k1-1727350-jpg.jpg",
+      "date": "2026-07-26T12:00:00+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "François Morellet au centre Pompidou-Metz : liberté j’écris ton nombre",
+      "desc": "Dans une riche rétrospective, l’institution messine célèbre le centenaire de la naissance de l’artiste français mort en 2016, dont les œuvres géométriques naviguaient entre raison et déraison, sobriété et exubérance.",
+      "url": "https://www.liberation.fr/culture/arts/francois-morellet-au-centre-pompidou-metz-liberte-jecris-ton-nombre-20260726_KHGPQ2BRPJABZDUJ2W5QKKYT3E/",
+      "image": null,
+      "date": "2026-07-26T11:35:00+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "A Montmartre, une soupe à l’oignon très parisienne",
+      "desc": "Chaque jour, «Libé» vous propose une recette de la région ou de la ville d’arrivée du Tour de France, trouvée par nos soins. Aujourd’hui, un classique de la capitale et de Chez Eugène dans le XVIIIe arrondissement.",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/a-montmartre-une-soupe-a-loignon-tres-parisienne-20260726_4G22MV2VIBBUJPCK6PF4ZJTLQQ/",
+      "image": null,
+      "date": "2026-07-26T09:16:00+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "«C’est la première fois que je vois la ville morte comme ça» : Eysines, largement évacuée à cause du mégafeu en Gironde, est désertée de ses habitants",
       "desc": "Cette commune de 25 000 habitants de l’agglomération de Bordeaux a été partiellement évacuée dans la nuit de vendredi à samedi. Les résidents n’ont pas encore le droit de rentrer chez eux, même si certains ont bravé les interdictions de la préfecture. Reportage dans une ville fantôme.",
       "url": "https://www.liberation.fr/societe/cest-la-premiere-fois-que-je-vois-la-ville-morte-comme-ca-eysines-largement-evacuee-a-cause-du-megafeu-en-gironde-est-desertee-de-ses-habitants-20260726_OEJ5EFA4QZBHBHZRQOCAMHNKEU/",
       "image": null,
       "date": "2026-07-26T07:07:23+00:00",
-      "date_formatted": "26 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un véhicule fonce dans la foule à la Gay Pride de Berlin : un mort et 16 blessés",
-      "desc": "Trois personnes sont toujours entre la vie et la mort après l’attaque perpétrée samedi soir, lors Christopher Street Day. Un avis de recherche a été émis ce dimanche 26 juillet pour retrouver un suspect lié «au milieu islamiste».",
-      "url": "https://www.liberation.fr/international/europe/un-vehicule-fonce-dans-la-foule-a-la-gay-pride-de-berlin-un-mort-et-16-blesses-20260726_VYJYTLUBG5DU5NS24CQ6N6QK5U/",
-      "image": null,
-      "date": "2026-07-26T06:42:09+00:00",
       "date_formatted": "26 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -58,16 +88,6 @@
       "url": "https://www.liberation.fr/international/europe/en-espagne-de-nombreux-evacues-et-toujours-linquietude-20260725_IBFQMMQP2RC3PKBWYNBTUU45PA/",
       "image": null,
       "date": "2026-07-25T18:52:20+00:00",
-      "date_formatted": "25 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Kyiv frappe des régions russes jusqu’à l’Oural, 11 morts dans une ville occupée du sud de l’Ukraine",
-      "desc": "L’Ukraine a attaqué ce samedi 25 juillet un «camp de vacances» à Kyrylivka, village au bord de la mer d’Azov occupé par les Russes.",
-      "url": "https://www.liberation.fr/international/europe/kyiv-frappe-des-regions-russes-jusqua-loural-11-morts-dans-une-ville-occupee-du-sud-de-lukraine-20260725_JIY37KG2NZBHJEJEHJCXK5IYXM/",
-      "image": null,
-      "date": "2026-07-25T13:29:19+00:00",
       "date_formatted": "25 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -211,16 +231,6 @@
       "date_formatted": "23 July 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Canicule de juin : jamais depuis 2003 la France n’avait enregistré autant de décès liés à la chaleur",
-      "desc": "Avec 5 764 décès supplémentaires enregistrés en juin, la canicule a provoqué une surmortalité de 36 % en France. Un bilan inédit depuis 2003, avec une hausse particulièrement marquée en Île-de-France.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-de-juin-jamais-depuis-2003-la-france-n-avait-enregistre-autant-de-deces-lies-a-la-chaleur_8118941.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/XYku43-3X4-WjTQcAeKeAatmQ6o/0x20:795x468/432x243/filters:format(jpg):quality(50)/2026/07/23/6a61d17f4adb7075655442.jpg",
-      "date": "2026-07-23T10:47:38+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Canicule de juin : une surmortalité record depuis 2003",
