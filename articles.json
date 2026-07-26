@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-07-26T12:52:45.743793+00:00",
-  "count": 64,
+  "generated_at": "2026-07-26T18:52:17.511126+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title": "A Berlin, après l’attentat islamiste contre la Marche des fiertés : «C’est notre société qui est attaquée»",
+      "desc": "Au lendemain de l’attaque au fourgon-bélier contre le défilé LGBT+ qui a fait 1 mort et 29 blessés dans la capitale allemande, habitants et responsables politiques partagent leur sidération. Ce dimanche, la police annonçait avoir tué le conducteur du véhicule.",
+      "url": "https://www.liberation.fr/international/europe/a-berlin-apres-lattentat-islamiste-contre-la-marche-des-fiertes-cest-notre-societe-qui-est-attaquee-20260726_E2CQQHM7PZAK7JAKHIMRRVU6HE/",
+      "image": null,
+      "date": "2026-07-26T17:48:22+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un cancer transmissible découvert chez des poissons",
+      "desc": "Trente pour cent des poissons-chats du lac Memphrémagog, dans le Vermont, sont contaminés par ce mélanome, à l’origine inconnue.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/26/un-cancer-transmissible-decouvert-chez-des-poissons_6733354_1650684.html",
+      "image": "https://img.lemde.fr/2026/07/24/180/0/1440/720/644/322/60/0/337018d_upload-1-siccav1jv1wg-bullhead-fish-cancer-53-of-55.jpg",
+      "date": "2026-07-26T16:00:05+00:00",
+      "date_formatted": "26 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "Une enquête ouverte en Chine sur la mort dissimulée d'une fillette lors d'une expérience de thérapie génique",
       "desc": "Ce décès d'une fillette de 6 ans, atteinte d'une maladie génétique rare, n'avait pas été mentionné dans une étude publiée dans la revue \"Nature\".",
       "url": "https://www.franceinfo.fr/monde/chine/une-enquete-ouverte-en-chine-sur-la-mort-dissimulee-d-une-fillette-lors-d-une-experience-de-therapie-genique_8122769.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mMrpoHsXzyF4W-bMOdHt2_B1WRY/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/26/6a65e3c6616d5573286313.jpg",
+      "image": "https://www.franceinfo.fr/pictures/Oi70P_KQLJnAvU_-gqSbd1rpKt4/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/26/6a65e3c6616d5573286313.jpg",
       "date": "2026-07-26T12:39:07+00:00",
       "date_formatted": "26 July 2026",
       "source": "France Info Santé",
@@ -23,36 +43,6 @@
       "type": "science"
     },
     {
-      "title": "François Morellet au centre Pompidou-Metz : liberté j’écris ton nombre",
-      "desc": "Dans une riche rétrospective, l’institution messine célèbre le centenaire de la naissance de l’artiste français mort en 2016, dont les œuvres géométriques naviguaient entre raison et déraison, sobriété et exubérance.",
-      "url": "https://www.liberation.fr/culture/arts/francois-morellet-au-centre-pompidou-metz-liberte-jecris-ton-nombre-20260726_KHGPQ2BRPJABZDUJ2W5QKKYT3E/",
-      "image": null,
-      "date": "2026-07-26T11:35:00+00:00",
-      "date_formatted": "26 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "A Montmartre, une soupe à l’oignon très parisienne",
-      "desc": "Chaque jour, «Libé» vous propose une recette de la région ou de la ville d’arrivée du Tour de France, trouvée par nos soins. Aujourd’hui, un classique de la capitale et de Chez Eugène dans le XVIIIe arrondissement.",
-      "url": "https://www.liberation.fr/lifestyle/gastronomie/a-montmartre-une-soupe-a-loignon-tres-parisienne-20260726_4G22MV2VIBBUJPCK6PF4ZJTLQQ/",
-      "image": null,
-      "date": "2026-07-26T09:16:00+00:00",
-      "date_formatted": "26 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«C’est la première fois que je vois la ville morte comme ça» : Eysines, largement évacuée à cause du mégafeu en Gironde, est désertée de ses habitants",
-      "desc": "Cette commune de 25 000 habitants de l’agglomération de Bordeaux a été partiellement évacuée dans la nuit de vendredi à samedi. Les résidents n’ont pas encore le droit de rentrer chez eux, même si certains ont bravé les interdictions de la préfecture. Reportage dans une ville fantôme.",
-      "url": "https://www.liberation.fr/societe/cest-la-premiere-fois-que-je-vois-la-ville-morte-comme-ca-eysines-largement-evacuee-a-cause-du-megafeu-en-gironde-est-desertee-de-ses-habitants-20260726_OEJ5EFA4QZBHBHZRQOCAMHNKEU/",
-      "image": null,
-      "date": "2026-07-26T07:07:23+00:00",
-      "date_formatted": "26 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Au Musée d’art et d’histoire Paul-Eluard de Saint-Denis, une exposition remonte l’histoire des pratiques et croyances de guérison",
       "desc": "Présentée dans l’ancien carmel dyonisien, « Croire et guérir » réunit des œuvres, documents et objets illustrant l’évolution et la diversité des réponses apportées à la maladie, fondées sur la science, les traditions populaires ou la foi.",
       "url": "https://www.lemonde.fr/culture/article/2026/07/26/au-musee-d-art-et-d-histoire-paul-eluard-de-saint-denis-une-exposition-remonte-l-histoire-des-pratiques-et-croyances-de-guerison_6732760_3246.html",
@@ -63,16 +53,6 @@
       "type": "science"
     },
     {
-      "title": "En Cisjordanie occupée, deux villages palestiniens attaqués par des colons israéliens : «On ne les avait jamais vus si nombreux»",
-      "desc": "Tell et Sarra, situés dans le nord du territoire, ont subi vendredi 24 juillet au matin une série d’attaques violentes au lourd bilan : quatre morts palestiniens et deux israéliens.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-cisjordanie-occupee-deux-villages-palestiniens-attaques-par-des-colons-israeliens-on-ne-les-avait-jamais-vus-si-nombreux-20260726_J4A4CNFKTJA5FF744ABPGMPFHU/",
-      "image": null,
-      "date": "2026-07-26T05:55:44+00:00",
-      "date_formatted": "26 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Patient bizarre : les médecins suspectent des métastases dans son cerveau, ce que révèle l’IRM est moins grave mais plus effrayant",
       "desc": "Un homme a consulté après deux semaines de maux de tête et un léger changement de comportement. Un scanner a révélé des lésions évoquant des métastases cancéreuses. Mais les médecins n’ont trouvé aucune localisation de cancer primitif. Une IRM et des tests sérologiques ont permis de trouver la...",
       "url": "https://www.futura-sciences.com/sante/actualites/cerveau-patient-bizarre-medecins-suspectent-metastases-son-cerveau-ce-revele-irm-moins-grave-mais-plus-effrayant-136086/#xtor%3DRSS-8",
@@ -81,16 +61,6 @@
       "date_formatted": "25 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "En Espagne, de nombreux évacués et toujours l’inquiétude",
-      "desc": "Autour de Madrid et d’Avila, 88 000 personnes sont soit confinées, soit hébergées dans des centres d’accueil. Près de Valence, un autre incendie a fait un mort.",
-      "url": "https://www.liberation.fr/international/europe/en-espagne-de-nombreux-evacues-et-toujours-linquietude-20260725_IBFQMMQP2RC3PKBWYNBTUU45PA/",
-      "image": null,
-      "date": "2026-07-25T18:52:20+00:00",
-      "date_formatted": "25 July 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Incendies en Gironde : Asthme, bronchites, maladies chroniques… Quelles sont les conséquences des feux sur la santé ?",
