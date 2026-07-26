@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T18:46:09.113810+00:00",
-  "count": 60,
+  "generated_at": "2026-07-26T01:27:50.069339+00:00",
+  "count": 61,
   "articles": [
     {
       "title": "Patient bizarre : les médecins suspectent des métastases dans son cerveau, ce que révèle l’IRM est moins grave mais plus effrayant",
@@ -11,6 +11,16 @@
       "date_formatted": "25 July 2026",
       "source": "Futura Santé",
       "type": "science"
+    },
+    {
+      "title": "En Espagne, de nombreux évacués et toujours l’inquiétude",
+      "desc": "Autour de Madrid et d’Avila, 88 000 personnes sont soit confinées, soit hébergées dans des centres d’accueil. Près de Valence, un autre incendie a fait un mort.",
+      "url": "https://www.liberation.fr/international/europe/en-espagne-de-nombreux-evacues-et-toujours-linquietude-20260725_IBFQMMQP2RC3PKBWYNBTUU45PA/",
+      "image": null,
+      "date": "2026-07-25T18:52:20+00:00",
+      "date_formatted": "25 July 2026",
+      "source": "Libération",
+      "type": "presse"
     },
     {
       "title": "Kyiv frappe des régions russes jusqu’à l’Oural, 11 morts dans une ville occupée du sud de l’Ukraine",
