@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-28T13:25:31.833127+00:00",
-  "count": 60,
+  "generated_at": "2026-07-28T19:02:27.473428+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title": "Grippe : la vaccination bientôt obligatoire pour les personnels de santé ?",
+      "desc": "La Haute Autorité de santé (HAS) vient de rendre un avis recommandant d’obliger les professionnels de santé à se vacciner contre la grippe. Jusqu’à présent, trop peu de personnels se sont vaccinés selon l’autorité, ce qui augmente le risque de transmission de la maladie chez les patients. Le gouvern",
+      "url": "https://www.franceinfo.fr/sante/grippe-la-vaccination-bientot-obligatoire-pour-les-personnels-de-sante_8125340.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/QPtmxdA9CUJZUJ8YtVQf0dgi_qg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/28/6a688345e6e6b710150084.jpg",
+      "date": "2026-07-28T17:00:01+00:00",
+      "date_formatted": "28 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort à 99 ans de Betye Saar, grande figure de l’art afro-américain",
+      "desc": "Célèbre pour ses assemblages, figure incontournable du Black Arts Movement, l’artiste afro-américaine Betye Saar a transformé les rebuts de l’Amérique en œuvres libératrices pour les noirs.",
+      "url": "https://www.liberation.fr/culture/arts/mort-a-99-ans-de-betye-saar-grande-figure-de-lart-afro-americain-20260728_BFLKXTSIKVHNDCDBZLLV56SBF4/",
+      "image": null,
+      "date": "2026-07-28T16:02:34+00:00",
+      "date_formatted": "28 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un second patient américain atteint d'Ebola a été guéri à Francfort, en Allemagne",
+      "desc": "Le patient \"s'est complètement remis de sa maladie et ne présente plus aucun symptôme\", a écrit dans un communiqué la clinique où il était hospitalisé.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-second-patient-americain-atteint-d-ebola-a-ete-gueri-en-allemagne_8125541.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/liU14uJfug7mZRZRD7lKmeTnSZg/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68ada1c32c3010720765.jpg",
+      "date": "2026-07-28T15:38:14+00:00",
+      "date_formatted": "28 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : Infecté en RDC, un second malade américain guéri du virus en Allemagne",
+      "desc": "Ce patient vient de quitter l’hôpital de Francfort ; il est « complètement guéri et ne présente plus aucun symptôme »",
+      "url": "https://www.20minutes.fr/monde/allemagne/4236727-20260728-ebola-infecte-rdc-second-malade-americain-gueri-virus-allemagne?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Qta3LX7nSFuwp4aLr4S0JCk/1200x768_260706-bunia-6-juillet-2026-xinhua-des-travailleurs-medicaux-effectuent-des-travaux-de-desinfection-dans-un-centre-de-traitement-d-ebola-a-bunia-la-capitale-de-la-province-de-l-ituri-en-republique-democratique-du-congo-le-6-juillet-2026-le-bilan-de-la-derniere-epidemie-d-ebola-en-republique-democratique-du-congo-a-depasse-les-500-morts-selon-un-rapport-publie-dimanche-par-les-autorites-sanitaires-du-pays-xinhua-xin-huashefa-chine-nouvelle-cmxztpe000063-20260707-pepfn0a001-credit-chine-nouvelle-sipa-2607070750",
+      "date": "2026-07-28T14:19:54+00:00",
+      "date_formatted": "28 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Talc et cancer : Johnson & Johnson propose 5,5 milliards de dollars pour clore la bataille judiciaire",
       "desc": "Johnson & Johnson a annoncé être prête à payer 5,5 milliards de dollars pour régler 76.000 plaintes liées à des produits à base de talc accusés de provoquer des cancers ovariens",
