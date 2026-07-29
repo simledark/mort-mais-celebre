@@ -1,14 +1,74 @@
 {
-  "generated_at": "2026-07-29T01:21:24.108485+00:00",
-  "count": 66,
+  "generated_at": "2026-07-29T08:14:49.701730+00:00",
+  "count": 67,
   "articles": [
     {
-      "title": "«Les Matins merveilleux» d’Avril Besson, de beaux rebonds",
-      "desc": "La cinéaste met en scène la quête d’identité de Charlie après le décès de sa grand-mère. Un film rempli de poésie, qui donne envie de vivre.",
-      "url": "https://www.liberation.fr/culture/cinema/les-matins-merveilleux-davril-besson-de-beaux-rebonds-20260728_BKR2OXI4MZFAFELTMFIJVE776Y/",
+      "title": "Tremblement de terre dans le sud-ouest du Japon : nouveau bilan d’au moins 16 morts, 9 000 personnes réfugiées",
+      "desc": "L’incertitude demeure quant au nombre et au sort des personnes qui figuraient dans le centre commercial de la ville de Kashima, où un étage s’est effondré après une explosion consécutive à la secousse.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/tremblement-de-terre-dans-le-sud-ouest-du-japon-nouveau-bilan-de-13-morts-9-000-personnes-refugiees-20260729_4ZVCU2C3WJDH3HYDS3OKYN4FUE/",
       "image": null,
-      "date": "2026-07-28T19:51:00+00:00",
-      "date_formatted": "28 July 2026",
+      "date": "2026-07-29T08:04:18+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les Etats-Unis et l’Arabie saoudite frappent des factions pro-iraniennes en Irak",
+      "desc": "Les deux pays ont visé plusieurs sites logistiques et d’armement, dans la nuit de mardi à mercredi 29 juillet, utilisés par des groupes armés pro iraniens. Les frappes ont fait au moins vingt morts.",
+      "url": "https://www.liberation.fr/international/moyen-orient/les-etats-unis-et-larabie-saoudite-frappent-des-factions-pro-iraniennes-en-irak-20260729_CB6KSFD4UNH6NGG3BYMKXV3BVA/",
+      "image": null,
+      "date": "2026-07-29T07:59:19+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "image": null,
+      "date": "2026-07-29T07:37:42+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Il aimait la guerre» : à Washington, l’hommage à l’ex-sénateur républicain Lindsay Graham fait le trait d’union entre l’Iran, Gaza et l’Ukraine",
+      "desc": "Donald Trump, Volodymyr Zelensky et Benyamin Nétanyahou se sont retrouvés, mardi, à la Cathédrale nationale pour saluer l’héritage de ce proche du président américain, grand défenseur d’Israël et de l’Ukraine, mort le 11 juillet à 71 ans.",
+      "url": "https://www.liberation.fr/international/amerique/il-aimait-la-guerre-a-washington-lhommage-a-lex-senateur-republicain-lindsay-graham-fait-le-trait-dunion-entre-liran-gaza-et-lukraine-20260729_I7QCMXDARFE5TEQX6TTTY3P5I4/",
+      "image": null,
+      "date": "2026-07-29T07:06:54+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le nombre de morts sur les autoroutes a augmenté en 2025",
+      "desc": "Selon le bilan sécurité publié mercredi 29 juillet par l’Association des sociétés françaises d’autoroutes, 162 personnes ont été tuées alors qu’elles étaient 129 en 2024.",
+      "url": "https://www.liberation.fr/societe/le-nombre-de-morts-sur-les-autoroutes-a-augmente-en-2025-20260729_SZFMDF5LR5HKHI27UYNVFASMEU/",
+      "image": null,
+      "date": "2026-07-29T06:51:16+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Cela a dépassé nos attentes » : des chercheurs découvrent comment renforcer la réparation des muscles avec l’âge",
+      "desc": "La masse et la force musculaires diminuent avec l’âge. Des chercheurs ont identifié une molécule susceptible de ralentir ce processus naturel. Une découverte qui pourrait à terme contribuer à préserver l’autonomie et la qualité de vie des personnes âgées.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-cela-depasse-nos-attentes-chercheurs-decouvrent-renforcer-reparation-muscles-age-136574/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/5/3/55359b715f_50258737_muscle-age.jpg",
+      "date": "2026-07-29T06:08:20+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "«Le Triangle d’or» d’Hélène Rosselet-Ruiz, major dame",
+      "desc": "Dans un huis clos qui suit le «couple» formé par la maîtresse d’un prince saoudien et sa domestique, la cinéaste mêle ambiance anxiogène et critique des ultra riches.",
+      "url": "https://www.liberation.fr/culture/cinema/le-triangle-dor-dhelene-rosselet-ruiz-major-dame-20260729_SVNS5K76SJDTVBHRTVIHFC2WFM/",
+      "image": null,
+      "date": "2026-07-29T02:00:00+00:00",
+      "date_formatted": "29 July 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -20,16 +80,6 @@
       "date": "2026-07-28T19:41:06+00:00",
       "date_formatted": "28 July 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L’eurodéputée Chloé Ridel menacée de mort sur les réseaux sociaux, le pôle spécialisé dans la haine en ligne saisi",
-      "desc": "L’élue socialiste de Nîmes avait publié une tribune dans la presse locale pour demander la fermeture, en cas de risque élevé d’incendie, d’un circuit automobile situé dans un massif forestier du Gard. Elle est depuis la cible de nombreuses tentatives d’intimidation.",
-      "url": "https://www.liberation.fr/environnement/climat/leurodeputee-chloe-ridel-menacee-de-mort-sur-les-reseaux-sociaux-le-pole-specialise-dans-la-haine-en-ligne-saisi-20260728_PKM3KRM4IRHTXKOLPGF6QEB4OA/",
-      "image": null,
-      "date": "2026-07-28T19:21:49+00:00",
-      "date_formatted": "28 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -373,16 +423,6 @@
       "type": "presse"
     },
     {
-      "title": "Canicule : Avec 5.764 morts excédentaires en juin, la surmortalité a été « inédite » pour tous les âges",
-      "desc": "L’Île-de-France a été particulièrement touchée, puisque la mortalité a doublé par rapport à son niveau normal, avec 1.999 décès",
-      "url": "https://www.20minutes.fr/planete/canicule/4235815-20260722-canicule-5-764-morts-exces-juin-surmortalite-inedite-tous-ages?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ry6T8pyDRDS6jAgZTxDXKCk/1200x768_une-femme-marche-avec-un-petit-ventilateur-pres-de-la-tour-eiffel-a-paris-pendant-une-vague-de-chaleur-le-samedi-11-juillet-2026-ap-photo-aurelien-morissard-amor113-26192613773509-2607111917",
-      "date": "2026-07-22T14:05:42+00:00",
-      "date_formatted": "22 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : le bilan de l’épidémie dépasse désormais les 1 000 morts en RDC et en Ouganda, selon l’OMS",
       "desc": "« L’épidémie conserve une longueur d’avance sur nous et nous sommes encore dans une phase où nous tentons de rattraper son évolution », avait déclaré mardi Thierno Baldé, un responsable de l’Organisation mondiale de la santé.",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/22/ebola-le-bilan-de-l-epidemie-depasse-desormais-les-1-000-morts-en-rdc-et-en-ouganda-selon-l-organisation-mondiale-de-la-sante_6730028_3212.html",
@@ -433,16 +473,6 @@
       "type": "science"
     },
     {
-      "title": "Protection de l’enfance : Emmanuel Macron promet le financement de sept nouveaux centres de soins",
-      "desc": "Le budget de la Sécurité sociale comprendra une enveloppe de 38 millions d’euros pour « sécuriser » l’ouverture de sept centres portés par l’association Im’pactes. Cela financera « les dépenses d’investissement », le fonctionnement quotidien étant financé par l’Assurance-maladie au titre des soins e",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/21/protection-de-l-enfance-emmanuel-macron-promet-le-financement-de-sept-nouveaux-centres-de-soins_6728864_3224.html",
-      "image": "https://img.lemde.fr/2026/07/21/637/0/7654/3827/644/322/60/0/935a45c_ftp-1-ym2welk4b1yb-a97f7c14a21842f488c53e21173d20ac-0-283f81937b044e8a9512eb3b30775e72.jpg",
-      "date": "2026-07-21T17:14:54+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
       "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
       "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
@@ -450,16 +480,6 @@
       "date": "2026-07-21T08:00:02+00:00",
       "date_formatted": "21 July 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer",
-      "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-voici-piste-infectieuse-exploree-chercheurs-comprendre-origine-maladie-alzheimer-w2t8-136201/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/3/a/53ac5e18fc_50258166_origines-bouche-maladie-alzheimer.jpg",
-      "date": "2026-07-21T08:00:00+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -529,16 +549,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/10/cover-r4x3w1200-6a511d3e14b02-afp-20250305-dpa-pa-250305-99-128628-dpai-v1-highres-100yearoldworksoutatthegym.jpg",
       "date": "2026-07-13T06:20:30+00:00",
       "date_formatted": "13 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "L'épidémie d'Ebola en RDC se propage plus rapidement que toutes les précédentes",
-      "desc": "En RDC, l’épidémie d’Ebola progresse à une vitesse inédite, avec un bilan humain déjà très lourd selon l’OMS et l’Africa CDC.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-d-ebola-en-rdc-se-propage-plus-rapidement-que-toutes-les-precedentes-selon-l-agence-de-sante-de-l-ua_193665?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/10/cover-r4x3w1200-6a50a8079a1d5-ebola4.jpg",
-      "date": "2026-07-10T08:28:54+00:00",
-      "date_formatted": "10 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
