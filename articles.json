@@ -1,25 +1,65 @@
 {
-  "generated_at": "2026-07-29T13:40:25.359254+00:00",
-  "count": 62,
+  "generated_at": "2026-07-29T18:51:15.799775+00:00",
+  "count": 65,
   "articles": [
     {
-      "title": "Autopsie, profil des parents, déni de grossesse… Ce que l’on sait sur les cinq bébés morts retrouvés à Orange",
-      "desc": "Les restes de nouveau-nés ont été découverts dans des cartons par des enquêteurs dans la maison d’une femme qui a accouché le 27 juillet d’un bébé en bonne santé. Elle a été placée en garde à vue ce mercredi 29 juillet, ainsi que son compagnon.",
-      "url": "https://www.liberation.fr/societe/police-justice/a-orange-cinq-corps-de-bebes-retrouves-au-domicile-dun-couple-20260728_UMZTB5Y3WFEMZILW6TMHPGF3D4/",
+      "title": "Ils ont envoyé des virus tueurs de bactéries dans l'espace : voici la stupéfiante découverte de chercheurs américains",
+      "desc": "Un colis de virus et de bactéries livré à la Station spatiale internationale : l'expérience a de quoi surprendre. Elle a pourtant révélé que l'apesanteur transforme ces virus tueurs de bactéries. De retour sur Terre, certains sont devenus cent fois plus efficaces contre des souches résistantes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-ils-ont-envoye-virus-tueurs-bacteries-espace-voici-stupefiante-decouverte-chercheurs-americains-k2m6-136428/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/3/e/f3e2715619_50258423_virus-bacteries-espace-iss.jpg",
+      "date": "2026-07-29T18:00:00+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Incendie en Gironde : pas de TGV vers le sud de Bordeaux, hormis Toulouse, jusqu’au dimanche 2 août inclus",
+      "desc": "Arrêtées depuis dimanche 26 juillet, les circulations entre Bordeaux et Arcachon ou Hendaye via Dax seront de nouveau au point mort lors du premier week-end d’août. Même si l’arrêté préfectoral devait être rapidement levé, les équipes de la SNCF ont besoin de constater les dégâts sur le réseau.",
+      "url": "https://www.liberation.fr/economie/transports/incendie-en-gironde-pas-de-tgv-vers-le-sud-de-bordeaux-hormis-toulouse-jusquau-dimanche-2-aout-inclus-20260729_YXFKJJRUOZC3NAUNWIUJACTL3Q/",
       "image": null,
-      "date": "2026-07-29T12:36:24+00:00",
+      "date": "2026-07-29T17:49:56+00:00",
       "date_formatted": "29 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Le DJ français Kavinsky, 50 ans, retrouvé mort à son domicile parisien",
-      "desc": "Auteur du titre «Nightcall» pour le film «Drive», l’artiste de la French Touch a été retrouvé mort à son domicile du XVIIIe arrondissement de la capitale mardi 28 juillet dans la soirée.",
-      "url": "https://www.liberation.fr/culture/musique/le-dj-francais-kavinsky-50-ans-retrouve-mort-a-son-domicile-parisien-20260729_AUWACGKOGVCYNMWKDXRB42K674/",
+      "title": "Le tarif des mutuelles va-t-il augmenter l’an prochain ?",
+      "desc": "C’est un nouveau coup dur pour vos dépenses de santé. Le gouvernement décide de baisser certains remboursements de l’Assurance maladie. Soins dentaires, médicaments inefficaces, transports sanitaires : un coût qui devrait être assumé par les mutuelles.",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-tarif-des-mutuelles-va-t-il-augmenter-l-an-prochain_8127209.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/jnBFtqL5HmISYvn7IrCzsUmqq4Q/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a09ba59403611777736.jpg",
+      "date": "2026-07-29T17:10:04+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du DJ Kavinsky, mesure d’expulsion contre Xenia Fedorova, incendie en Gironde… L’actu de ce mercredi 29 juillet",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+      "url": "https://www.liberation.fr/international/europe/mort-du-dj-kavinsky-mesure-dexpulsion-contre-xenia-fedorova-incendie-en-gironde-lactu-de-ce-mercredi-29-juillet-20260729_4N7TIXAAXNF7JH4DQ67AAKO6BI/",
       "image": null,
-      "date": "2026-07-29T10:25:51+00:00",
+      "date": "2026-07-29T16:52:11+00:00",
       "date_formatted": "29 July 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des scientifiques japonais pensent avoir identifié la substance à l'origine de la maladie d'Alzheimer",
+      "desc": "Leur découverte va peut-être permettre de créer des médicaments pour prévenir la maladie plutôt que d'essayer de ralentir ses symptômes.",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/des-scientifiques-japonais-pensent-avoir-identifie-la-substance-a-l-origine-de-la-maladie-d-alzheimer_8100002.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/z_R0JbQNPsxXcMVCyyWaiTy0qMs/0x238:3570x2247/432x243/filters:format(jpg):quality(50)/2026/07/29/6a69af57a12b6000781520.jpg",
+      "date": "2026-07-29T16:00:02+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Espagne : Faute de médecin, une femme meurt d’un arrêt cardiaque dans l’ambulance qui la transporte",
+      "desc": "Le décès d’une femme dans une ambulance en Espagne a relancé le débat sur la pénurie de médecins dans les provinces catalanes",
+      "url": "https://www.20minutes.fr/monde/4236891-20260729-espagne-faute-medecin-femme-meurt-arret-cardiaque-ambulance-transporte?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/duBTTGZMTyGSDdWjUyFlbik/1200x768_credit-obligatoire-photo-d-eric-renom-la-presse-shutterstock-14594712o-une-autre-consequence-en-catalogne-de-l-erreur-informatique-dans-le-programme-crowdstrike-a-ete-des-problemes-dans-les-services-d-urgence-et-dans-certains-centres-de-sante-otra-de-las-consecuencias-en-cataluna-del-error-informatico-del-programa-crowdstrike-ha-sido-los-problemas-en-los-servicios-de-emergencias-y-algunos-centros-sanitarios-news-cronaca-barcelone-espagne-vendredi-19-juillet-2024-crowdstrike-affecte-egalement-le-systeme-d-urgence-catalan-barcelone-espagne-19-juillet-2024-shutterstock-editorial-crowdstrike-also-affects-the-c-14594712o-2407191855",
+      "date": "2026-07-29T14:22:36+00:00",
+      "date_formatted": "29 July 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -151,16 +191,6 @@
       "date_formatted": "26 July 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Une enquête ouverte en Chine sur la mort dissimulée d'une fillette lors d'une expérience de thérapie génique",
-      "desc": "Ce décès d'une fillette de 6 ans, atteinte d'une maladie génétique rare, n'avait pas été mentionné dans une étude publiée dans la revue \"Nature\".",
-      "url": "https://www.franceinfo.fr/monde/chine/une-enquete-ouverte-en-chine-sur-la-mort-dissimulee-d-une-fillette-lors-d-une-experience-de-therapie-genique_8122769.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Oi70P_KQLJnAvU_-gqSbd1rpKt4/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/26/6a65e3c6616d5573286313.jpg",
-      "date": "2026-07-26T12:39:07+00:00",
-      "date_formatted": "26 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Et si on cessait de fumer et de boire",
