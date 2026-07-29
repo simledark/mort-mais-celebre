@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-28T19:02:27.473428+00:00",
-  "count": 64,
+  "generated_at": "2026-07-29T01:21:24.108485+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title": "«Les Matins merveilleux» d’Avril Besson, de beaux rebonds",
+      "desc": "La cinéaste met en scène la quête d’identité de Charlie après le décès de sa grand-mère. Un film rempli de poésie, qui donne envie de vivre.",
+      "url": "https://www.liberation.fr/culture/cinema/les-matins-merveilleux-davril-besson-de-beaux-rebonds-20260728_BKR2OXI4MZFAFELTMFIJVE776Y/",
+      "image": null,
+      "date": "2026-07-28T19:51:00+00:00",
+      "date_formatted": "28 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Médicaments génériques : La Sécu fera 24 millions d’euros d’économies en 2027 après des baisses de prix",
+      "desc": "Les baisses de prix de plusieurs médicaments génériques permettront de réaliser environ 24 millions d’euros d’économies pour l’Assurance maladie en 2027. Ces nouveaux tarifs entreront en vigueur le 1er janvier",
+      "url": "https://www.20minutes.fr/sante/4236772-20260728-medicaments-generiques-secu-fera-24-millions-euros-economies-2027-apres-baisses-prix?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/AJqFDOOOQESSdClQ6NKHjyk/1200x768_illustration-photographique-medicaments-07alli-images-dsc-2710-credit-mourad-allili-sipa-2602111250",
+      "date": "2026-07-28T19:41:06+00:00",
+      "date_formatted": "28 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’eurodéputée Chloé Ridel menacée de mort sur les réseaux sociaux, le pôle spécialisé dans la haine en ligne saisi",
+      "desc": "L’élue socialiste de Nîmes avait publié une tribune dans la presse locale pour demander la fermeture, en cas de risque élevé d’incendie, d’un circuit automobile situé dans un massif forestier du Gard. Elle est depuis la cible de nombreuses tentatives d’intimidation.",
+      "url": "https://www.liberation.fr/environnement/climat/leurodeputee-chloe-ridel-menacee-de-mort-sur-les-reseaux-sociaux-le-pole-specialise-dans-la-haine-en-ligne-saisi-20260728_PKM3KRM4IRHTXKOLPGF6QEB4OA/",
+      "image": null,
+      "date": "2026-07-28T19:21:49+00:00",
+      "date_formatted": "28 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Grippe : la vaccination bientôt obligatoire pour les personnels de santé ?",
       "desc": "La Haute Autorité de santé (HAS) vient de rendre un avis recommandant d’obliger les professionnels de santé à se vacciner contre la grippe. Jusqu’à présent, trop peu de personnels se sont vaccinés selon l’autorité, ce qui augmente le risque de transmission de la maladie chez les patients. Le gouvern",
@@ -10,16 +40,6 @@
       "date": "2026-07-28T17:00:01+00:00",
       "date_formatted": "28 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort à 99 ans de Betye Saar, grande figure de l’art afro-américain",
-      "desc": "Célèbre pour ses assemblages, figure incontournable du Black Arts Movement, l’artiste afro-américaine Betye Saar a transformé les rebuts de l’Amérique en œuvres libératrices pour les noirs.",
-      "url": "https://www.liberation.fr/culture/arts/mort-a-99-ans-de-betye-saar-grande-figure-de-lart-afro-americain-20260728_BFLKXTSIKVHNDCDBZLLV56SBF4/",
-      "image": null,
-      "date": "2026-07-28T16:02:34+00:00",
-      "date_formatted": "28 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
