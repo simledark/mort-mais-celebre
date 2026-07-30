@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-07-30T01:14:52.054051+00:00",
-  "count": 51,
+  "generated_at": "2026-07-30T08:03:15.754364+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title": "Séisme au Japon : le bilan monte à au moins 30 morts, les survivants confrontés à de fortes chaleurs",
+      "desc": "Le tremblement de terre de magnitude 7,1 survenu mardi 28 juillet a provoqué d’importants dégâts sur l’île de Kyushu. Ce jeudi 30 juillet au matin, quelque 22 670 foyers et installations restent privés d’électricité et de climatisation.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/seisme-au-japon-le-bilan-monte-a-au-moins-30-morts-les-survivants-confrontes-a-de-fortes-chaleurs-20260730_N5B33ZHUN5HJTOUK2KGOTTOFL4/",
+      "image": null,
+      "date": "2026-07-30T06:56:43+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi le cancer ne frappe pas tout le monde de la même façon ? Une découverte majeure éclaire le rôle de nos gènes",
+      "desc": "Pourquoi l’exposition à un facteur de risque de cancer entraîne une maladie chez certains et pas chez d’autres ? Une étude publiée dans Nature apporte un nouvel éclairage sur cette énigme en révélant un mécanisme jusqu’ici insoupçonné. Une découverte qui pourrait à terme,transformer la...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-ne-frappe-pas-tout-monde-meme-facon-decouverte-majeure-eclaire-role-nos-genes-136608/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/c/7ac025b29e_50258771_genetique-cancer.jpg",
+      "date": "2026-07-30T06:08:49+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ukraine : huit morts dans des bombardements russes, dont six membres d’une même famille",
+      "desc": "Le président Zelensky avait averti mercredi soir d’un fort risque d’une «attaque massive» de Moscou dans la nuit.",
+      "url": "https://www.liberation.fr/international/europe/ukraine-huit-morts-dans-des-bombardements-russes-dont-six-dune-meme-famille-20260730_YSH52DBW5RH5NJLLSFBOWAX55E/",
+      "image": null,
+      "date": "2026-07-30T06:08:38+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Vågor», mots à mots mortels",
+      "desc": "Dans un thriller psychologique addictif, le suédois Ulf Kvensler raconte une imposture littéraire qui va emporter un écrivain dépassé par ses mensonges.",
+      "url": "https://www.liberation.fr/culture/livres/vagor-mots-a-mots-mortels-20260730_3HMLAXPYBNESBKS5LZUNLEYMWE/",
+      "image": null,
+      "date": "2026-07-30T06:00:00+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "En Chine, la mort cachée de « Mei », une fillette de 6 ans, après une thérapie génique soulève de nombreuses questions",
+      "desc": "Atteinte d’une maladie non létale, elle avait été traitée par une thérapie génique expérimentale, révèle une enquête de la revue « Science ».",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
+      "image": "https://img.lemde.fr/2026/07/29/239/0/3000/1500/644/322/60/0/d9ae733_upload-1-ijriqqfxewhp-051-xxjpbee000864-20151017-tppfn0a001.jpg",
+      "date": "2026-07-30T05:30:02+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "George Sand, «une ardeur des sens et des idées» unique",
+      "desc": "A l’occasion des 150 ans de la mort de l’écrivaine, nouvelle salve de parutions, dont un inédit de textes politiques.",
+      "url": "https://www.liberation.fr/culture/livres/george-sand-une-ardeur-des-sens-et-des-idees-unique-20260730_LDYMJXCWSBHIBBWZOZLXJXPCWI/",
+      "image": null,
+      "date": "2026-07-30T04:25:00+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ils ont envoyé des virus tueurs de bactéries dans l'espace : voici la stupéfiante découverte de chercheurs américains",
       "desc": "Un colis de virus et de bactéries livré à la Station spatiale internationale : l'expérience a de quoi surprendre. Elle a pourtant révélé que l'apesanteur transforme ces virus tueurs de bactéries. De retour sur Terre, certains sont devenus cent fois plus efficaces contre des souches résistantes.",
@@ -13,16 +73,6 @@
       "type": "science"
     },
     {
-      "title": "Incendie en Gironde : pas de TGV vers le sud de Bordeaux, hormis Toulouse, jusqu’au dimanche 2 août inclus",
-      "desc": "Arrêtées depuis dimanche 26 juillet, les circulations entre Bordeaux et Arcachon ou Hendaye via Dax seront de nouveau au point mort lors du premier week-end d’août. Même si l’arrêté préfectoral devait être rapidement levé, les équipes de la SNCF ont besoin de constater les dégâts sur le réseau.",
-      "url": "https://www.liberation.fr/economie/transports/incendie-en-gironde-pas-de-tgv-vers-le-sud-de-bordeaux-hormis-toulouse-jusquau-dimanche-2-aout-inclus-20260729_YXFKJJRUOZC3NAUNWIUJACTL3Q/",
-      "image": null,
-      "date": "2026-07-29T17:49:56+00:00",
-      "date_formatted": "29 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Le tarif des mutuelles va-t-il augmenter l’an prochain ?",
       "desc": "C’est un nouveau coup dur pour vos dépenses de santé. Le gouvernement décide de baisser certains remboursements de l’Assurance maladie. Soins dentaires, médicaments inefficaces, transports sanitaires : un coût qui devrait être assumé par les mutuelles.",
       "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-tarif-des-mutuelles-va-t-il-augmenter-l-an-prochain_8127209.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -30,16 +80,6 @@
       "date": "2026-07-29T17:10:04+00:00",
       "date_formatted": "29 July 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort du DJ Kavinsky, mesure d’expulsion contre Xenia Fedorova, incendie en Gironde… L’actu de ce mercredi 29 juillet",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "url": "https://www.liberation.fr/international/europe/mort-du-dj-kavinsky-mesure-dexpulsion-contre-xenia-fedorova-incendie-en-gironde-lactu-de-ce-mercredi-29-juillet-20260729_4N7TIXAAXNF7JH4DQ67AAKO6BI/",
-      "image": null,
-      "date": "2026-07-29T16:52:11+00:00",
-      "date_formatted": "29 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -343,6 +383,16 @@
       "type": "presse"
     },
     {
+      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
+      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
+      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
+      "image": null,
+      "date": "2026-07-23T14:01:16+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Canicule de juin : une surmortalité record depuis 2003",
       "desc": "La canicule qui a frappé la France du 17 juin au 2 juillet a provoqué une surmortalité exceptionnelle, avec 5 764 décès supplémentaires recensés dans un bilan encore provisoire de Santé publique France. Alors que ces chiffres alimentent déjà le débat politique sur l’adaptation au changement climatiq",
       "url": "https://www.sciencesetavenir.fr/sante/canicule-de-juin-une-surmortalite-record-depuis-2003-marquee-aussi-chez-les-jeunes_193897?xtor=RSS-16",
@@ -433,23 +483,13 @@
       "type": "science"
     },
     {
-      "title": "Et si la piste contre Alzheimer venait d'un acide aminé déjà connu ?",
-      "desc": "Et si un acide aminé courant, déjà vendu comme complément alimentaire, pouvait freiner Alzheimer avant les premiers dégâts ? Des chercheurs japonais l'ont testé sur des mouches et des souris, avec des résultats encourageants. Une piste bon marché et sûre, mais qui reste, pour l'heure, au stade...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-piste-alzheimer-venait-acide-amine-deja-connu-k2m6-136283/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/e/8/ae8033dfb3_50258224_alzheimer-acide-amine.jpg",
-      "date": "2026-07-21T18:00:00+00:00",
+      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
+      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
+      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
+      "image": null,
+      "date": "2026-07-21T08:00:02+00:00",
       "date_formatted": "21 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Piqûres de moustiques : toutes les réponses à vos questions",
-      "desc": "« Sus aux moustiques ! » (1/4). Pourquoi les piqûres de moustiques provoquent-elles des démangeaisons ? Certaines personnes sont-elles davantage ciblées que d’autres ? Du mécanisme de la réaction cutanée à la transmission des virus, ce qu’il faut savoir sur ces insectes qui rythment nos étés.",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/21/piqures-de-moustiques-toutes-les-reponses-a-vos-questions_6728083_4355770.html",
-      "image": "https://img.lemde.fr/2026/06/23/580/0/6960/3480/644/322/60/0/0d991e0_upload-1-xenaxqtuoqtn-260611jbalague-lemonde-moustiques-29.jpg",
-      "date": "2026-07-21T05:00:03+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Le Monde Science",
+      "source": "Inserm",
       "type": "science"
     },
     {
@@ -510,6 +550,126 @@
       "date": "2026-07-13T06:20:30+00:00",
       "date_formatted": "13 July 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
