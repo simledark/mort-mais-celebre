@@ -1,20 +1,70 @@
 {
-  "generated_at": "2026-07-30T13:22:06.501173+00:00",
-  "count": 70,
+  "generated_at": "2026-07-30T19:05:50.319103+00:00",
+  "count": 66,
   "articles": [
     {
-      "title": "Guerre en Ukraine : huit morts dans des bombardements russes, un missile touche la Pologne",
-      "desc": "Le président Volodymyr Zelensky avait averti mercredi soir d’un fort risque d’une «attaque massive» de Moscou dans la nuit. Au total, l’armée de l’air ukrainienne a dénombré 74 missiles, dont de nombreux balistiques, et 284 drones.",
-      "url": "https://www.liberation.fr/international/europe/ukraine-huit-morts-dans-des-bombardements-russes-dont-six-dune-meme-famille-20260730_YSH52DBW5RH5NJLLSFBOWAX55E/",
+      "title": "Au CHU de Bordeaux, une organisation millimétrée pour faire face à l’impact de l’incendie : « Si on a tenu, c’est grâce à la solidarité hospitalière »",
+      "desc": "Cellule de crise quotidienne, ouverture de lits, appel aux volontaires… A l’hôpital Pellegrin, centre opérationnel de la prise en charge sanitaire, l’adaptation aux conséquences du mégafeu qui touche la Gironde depuis le 22 juillet s’est faite au jour le jour, selon les besoins.",
+      "url": "https://www.lemonde.fr/societe/article/2026/07/30/au-chu-de-bordeaux-une-organisation-millimetree-pour-faire-face-a-l-impact-de-l-incendie-si-on-a-tenu-c-est-grace-a-la-solidarite-hospitaliere_6737069_3224.html",
+      "image": "https://img.lemde.fr/2026/07/30/648/0/5312/2656/644/322/60/0/df664d4_upload-1-fl9dhy5v0yd6-chubx-004.JPG",
+      "date": "2026-07-30T20:30:06+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au moins neuf morts dans l’entrée de migrants à Ceuta, un morceau d’Europe enclavé au Maroc",
+      "desc": "De très nombreux jeunes hommes, dont des mineurs, se sont introduits illégalement dans ce territoire espagnol, jeudi. L’Espagne et le Maroc annoncent de prochaines expulsions express, pratique condamnée par le droit humanitaire international.",
+      "url": "https://www.liberation.fr/international/europe/au-moins-neuf-morts-dans-lentree-de-migrants-a-ceuta-un-morceau-deurope-enclave-au-maroc-20260730_6EYSCVGVGZBINDZGBF4IMQAMDA/",
       "image": null,
-      "date": "2026-07-30T13:12:38+00:00",
+      "date": "2026-07-30T18:57:46+00:00",
       "date_formatted": "30 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
+      "title": "Suicide de Joris Laurencin en Isère: un drame qui s’inscrit dans un racisme d’atmosphère",
+      "desc": "Harcelé depuis des années en raison de ses origines, le jeune homme de 21 ans s’est donné la mort, dans une région où les déprédations d’extrême droite se multiplient ces dernières années. En parallèle avec la montée du RN.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/suicide-de-joris-laurencin-en-isere-un-drame-qui-sinscrit-dans-un-racisme-datmosphere-20260730_5LHSWNC33RHDJPALPESMPMDGZA/",
+      "image": null,
+      "date": "2026-07-30T18:19:22+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Taxi-boat» : quatre personnes retrouvées mortes dans le Nord et le Pas-de-Calais après avoir essayé de traverser la Manche",
+      "desc": "Dans la nuit de mercredi à jeudi 30 juillet, les corps sans vie de quatre individus ont été retrouvés au large et aux abords du littoral. Quatorze personnes sont décédées en tentant de rejoindre le Royaume-Uni en 2026.",
+      "url": "https://www.liberation.fr/societe/police-justice/taxi-boat-quatre-personnes-retrouvees-mortes-dans-le-nord-et-le-pas-de-calais-apres-avoir-essaye-de-traverser-la-manche-20260730_VVWGTKED4BBWPLI6P5SUONCDEQ/",
+      "image": null,
+      "date": "2026-07-30T16:22:24+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«On a vu des animaux morts, asphyxiés par la fumée» : en Gironde, le difficile sauvetage des animaux domestiques des zones évacuées",
+      "desc": "A Croignon, Mary-Line et David Avril ont mis leurs véhicules spécialisés à disposition pour aider les sinistrés. Plusieurs dizaines d’animaux ont été recueillis, dont certains resteront quelque temps dans leur pension.",
+      "url": "https://www.liberation.fr/environnement/animaux/on-a-vu-des-animaux-morts-asphyxies-par-la-fumee-en-gironde-le-difficile-sauvetage-des-animaux-domestiques-des-zones-evacuees-20260730_SQGCJTYGBNA5VL5L64ICSIYQUQ/",
+      "image": null,
+      "date": "2026-07-30T16:16:11+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pays de Galles : Sa compagne le pousse à consulter, les médecins lui découvrent un cancer du cerveau incurable",
+      "desc": "Un Britannique de 34 ans a découvert qu’il souffrait d’un cancer incurable du cerveau après avoir consulté pour des maux de tête persistants",
+      "url": "https://www.20minutes.fr/monde/4237081-20260730-pays-galles-compagne-pousse-consulter-medecins-decouvrent-cancer-cerveau-incurable?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/U0wZ7w9HRWydYWpHQD3Fxyk/1200x768_l-homme-etait-atteint-d-une-tumeur-au-cerveau-particulierement-agressive",
+      "date": "2026-07-30T15:52:37+00:00",
+      "date_formatted": "30 July 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
       "title": "Ebola : Un vaccin présenté comme « le plus prometteur » va être développé à Singapour",
-      "desc": "Alors que l’épidémie fait rage en RDC, l’entreprise basée à Singapour Hilleman Laboratories a annoncé faire progresser le développement d’un vaccin vers des essais cliniques",
+      "desc": "Alors que l’épidémie fait rage en RDC, l’entreprise Hilleman Laboratories a annoncé faire progresser le développement d’un vaccin vers des essais cliniques",
       "url": "https://www.20minutes.fr/monde/4237040-20260730-ebola-vaccin-presente-comme-plus-prometteur-va-etre-developpe-singapour?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/6GudR5zbS8eab2m9ffbemCk/1200x768_un-medecin-administre-du-serum-a-un-patient-atteint-de-la-maladie-a-virus-ebola-au-centre-de-traitement-ebola-etc-de-rwampara-a-bunia-en-ituri-dans-l-est-de-la-republique-democratique-du-congo-le-13-juillet-2026-les-agents-de-sante-travaillant-a-l-epicentre-de-l-epidemie-d-ebola-en-rd-congo-menacent-de-faire-greve-declarant-a-l-afp-le-13-juillet-qu-ils-n-avaient-pas-ete-payes-depuis-la-detection-du-virus-a-la-mi-mai-cette-maladie-hautement-infectieuse-a-tue-plus-de-700-personnes-parmi-les-quelque-2-000-personnes-infectees-confirmees-en-republique-democratique-du-congo-depuis-la-declaration-de-l-epidemie-le-15-mai-selon-le-dernier-bilan-officiel-publie-le-14-juillet-photo-de-benediction-murhabazi-afp",
       "date": "2026-07-30T12:56:59+00:00",
@@ -43,36 +93,6 @@
       "type": "presse"
     },
     {
-      "title": "L’avocat du terroriste Carlos, condamné à la perpétuité et atteint d’Alzheimer, demande sa remise en liberté",
-      "desc": "«Vaincu» par la maladie selon son conseil, le septuagénaire serait incapable de se souvenir de ses actes dans les années 70 et 80 pour lesquels il a été condamné à la perpétuité, rapporte Ici Auvergne-Rhône-Alpes ce jeudi 30 juillet.",
-      "url": "https://www.liberation.fr/societe/police-justice/lavocat-du-terroriste-carlos-condamne-a-la-perpetuite-et-atteint-dalzheimer-demande-sa-remise-en-liberte-20260730_RPJL6VQTANHOTEXD6CVI3VQSA4/",
-      "image": null,
-      "date": "2026-07-30T09:57:24+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le père de la chanteuse Amy Winehouse condamné à payer plus d’un million d’euros à deux amies de sa fille à l’issue d’un procès",
-      "desc": "Mitch Winehouse accusait les deux femmes d’avoir vendu à son insu des vêtements et accessoires de la star morte en 2011. La juge a affirmé qu’il était au courant, et l’a condamné mercredi 29 juillet à leur verser une somme d’argent.",
-      "url": "https://www.liberation.fr/societe/police-justice/amy-winehouse-le-pere-de-la-chanteuse-condamne-a-payer-pres-dun-million-de-livres-a-deux-amies-de-sa-fille-a-lissue-dun-proces-20260730_AGUF5CQGTZCMZD5KOTEZNKTHC4/",
-      "image": null,
-      "date": "2026-07-30T09:21:39+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Raoul Vaneigem, philosophe libertaire et inspirateur de Mai 68",
-      "desc": "Le penseur belge, mort cette semaine à 92 ans, fut aux côtés de Guy Debord l’une des figures du situationnisme, ce mouvement de contestation radicale du capitalisme et de la «société du spectacle», inspirateur de Mai 68.",
-      "url": "https://www.liberation.fr/idees-et-debats/mort-de-raoul-vaneigem-philosophe-libertaire-et-inspirateur-de-mai-68-20260730_PWO6WEDTXNAQNMGHSDMFOI7NFM/",
-      "image": null,
-      "date": "2026-07-30T08:53:41+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Chikungunya : Un premier cas de contamination autochtone identifié dans le Tarn",
       "desc": "Un deuxième cas autochtone d’infection par le virus du Nil occidental a par ailleurs été détecté dans les Bouches-du-Rhône, après un premier cas mi-juillet dans les Pyrénées-Orientales",
       "url": "https://www.20minutes.fr/sante/4236982-20260730-chikungunya-premier-cas-contamination-autochtone-identifie-tarn?at_medium=display&at_campaign=149",
@@ -80,16 +100,6 @@
       "date": "2026-07-30T08:44:17+00:00",
       "date_formatted": "30 July 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Séisme au Japon : le bilan monte à au moins 30 morts, les survivants confrontés à de fortes chaleurs",
-      "desc": "Le tremblement de terre de magnitude 7,1 survenu mardi 28 juillet a provoqué d’importants dégâts sur l’île de Kyushu. Ce jeudi 30 juillet au matin, quelque 22 670 foyers et installations restent privés d’électricité et de climatisation.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/seisme-au-japon-le-bilan-monte-a-au-moins-30-morts-les-survivants-confrontes-a-de-fortes-chaleurs-20260730_N5B33ZHUN5HJTOUK2KGOTTOFL4/",
-      "image": null,
-      "date": "2026-07-30T06:56:43+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -223,16 +233,6 @@
       "type": "science"
     },
     {
-      "title": "Diarrhées, vomissements, crampes… Les États-Unis confrontés à une vaste épidémie due à un parasite intestinal",
-      "desc": "Une épidémie de cyclosporose touche les États-Unis. Alors que les autorités sanitaires peinent à identifier l'origine précise des contaminations, le scandale relance les critiques sur l'affaiblissement des contrôles alimentaires.",
-      "url": "https://www.franceinfo.fr/monde/usa/diarrhees-vomissements-crampes-les-etats-unis-confrontes-a-une-vaste-epidemie-due-a-un-parasite-intestinal_8124332.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/xPhExEtCELoxflWkFhJdUwKGg_A/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/07/27/6a67880e09c53593926498.jpg",
-      "date": "2026-07-28T07:13:58+00:00",
-      "date_formatted": "28 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Rougeole : face au risque d’encéphalites fatales, la vaccination à grande échelle est la seule option",
       "desc": "Une équipe française décrit le cas d’un homme de 21 ans mort de cette infection, le virus ayant attaqué les cellules de son cerveau. Un plaidoyer pour une vaccination altruiste, alors que ce jeune homme ne pouvait pas être vacciné.",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/28/rougeole-face-au-risque-d-encephalites-fatales-la-vaccination-a-grande-echelle-est-la-seule-option_6734599_1650684.html",
@@ -321,16 +321,6 @@
       "date_formatted": "24 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Chine : La mort d’une enfant lors d’un essai de thérapie génique passée sous silence",
-      "desc": "Une fillette de six ans est morte après une thérapie génique expérimentale en Chine. Son décès n’a pas été signalé par les chercheurs, relançant les questions sur la transparence des essais cliniques",
-      "url": "https://www.20minutes.fr/monde/chine/4236225-20260724-chine-mort-enfant-lors-essai-therapie-genique-passee-sous-silence?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/VwqQSGl2QDSWO7roqn0-bCk/1200x768_en-laboratoire-confin-a-les-virus-vecteurs-sont-separes-des-cellules-et-du-milieu-de-culture-par-filtration-au-genethon-laboratoire-de-production-de-virus-vecteurs-medicaments-de-therapie-genique-ils-servent-a-amener-dans-des-cellules-malades-une-copie-normale-d-un-gene-defaillant-l-ouverture-du-futur-centre-genethon-bioprod-de-l-afm-permettra-de-mener-cette-production-a-grande-echelle-pour-des-essais-de-therapie-genique-chez-l-homme-evry-france-24-11-2010-credit-durand-florence-sipa-1011251128",
-      "date": "2026-07-24T20:07:46+00:00",
-      "date_formatted": "24 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Le gouvernement précise sa feuille de route d’économies pour la santé, ciblant les médicaments, les soins dentaires et les transports sanitaires",
@@ -461,36 +451,6 @@
       "date_formatted": "22 July 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "« Il faut empêcher qu’Ebola ne devienne une menace régionale et internationale »",
-      "desc": "Face aux coupes dans l’aide au développement et au risque d’une plus grande propagation du virus en République démocratique du Congo, un collectif de responsables politiques et du monde de l’entreprise rappelle, dans une tribune au « Monde », qu’aucune société ne peut durablement protéger sa santé e",
-      "url": "https://www.lemonde.fr/idees/article/2026/07/22/il-faut-empecher-qu-ebola-ne-devienne-une-menace-regionale-et-internationale_6730046_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/dc0e248_upload-1-6oyyppysqvd6-frame-807.jpg",
-      "date": "2026-07-22T17:00:09+00:00",
-      "date_formatted": "22 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le piège du « sans sucre » : ces édulcorants très courants sont associés à un cerveau qui vieillit plus vite",
-      "desc": "Après le diabète, les maladies cardiovasculaires ou encore certains cancers, les édulcorants sont une nouvelle fois pointés du doigt. Une vaste étude publiée dans Neurology relance le débat sur leur innocuité. Que faut-il en penser ?",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-piege-sucre-ces-edulcorants-tres-courants-sont-associes-cerveau-vieillit-plus-vite-136430/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/5/b/65be9458c6_50258471_boisson-sucre-cerveau.jpg",
-      "date": "2026-07-22T15:55:50+00:00",
-      "date_formatted": "22 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Canicule en France : 5 764 morts en excès constatées pendant l’épisode de juin, selon Santé publique France",
-      "desc": "Plus de la moitié des excès de décès sont concentrés sur les journées du 25 au 27 juin, relève Santé publique France, qui note que l’épisode du 17 juin au 2 juillet a causé une surmortalité qui n’avait pas été observée depuis la canicule de 2003.",
-      "url": "https://www.lemonde.fr/planete/article/2026/07/22/canicule-en-france-5-764-morts-en-exces-constatees-pendant-l-episode-de-juin-selon-sante-publique-france_6730037_3244.html",
-      "image": "https://img.lemde.fr/2026/06/26/802/0/5000/2500/644/322/60/0/81b1a68_upload-1-kvpau3grzqha-kzihnioglu-soc-metz-hopital-26062026-047.JPG",
-      "date": "2026-07-22T15:38:26+00:00",
-      "date_formatted": "22 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Notre longévité augmente tandis que notre santé décline",
