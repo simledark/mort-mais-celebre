@@ -1,53 +1,63 @@
 {
-  "generated_at": "2026-07-31T08:28:57.294172+00:00",
-  "count": 66,
+  "generated_at": "2026-07-31T13:25:59.135056+00:00",
+  "count": 63,
   "articles": [
     {
-      "title": "Bébés retrouvés morts à Orange : la mère présentée à un juge en vue de sa mise en examen pour «meurtre», son conjoint libéré",
-      "desc": "La femme de 32 ans va être présentée à un juge d’instruction ce vendredi 31 juillet, annonce le parquet d’Avignon. Elle avait été interpellée mercredi à sa sortie d’hôpital, tout comme son conjoint qui a été remis en liberté jeudi.",
-      "url": "https://www.liberation.fr/societe/police-justice/bebes-retrouves-morts-a-orange-la-mere-presentee-a-un-juge-en-vue-de-sa-mise-en-examen-pour-meurtre-son-conjoint-libere-20260731_IZ2KTI7IKRHCVKCEXSWV2C4AHM/",
+      "title": "\"Comme un ballon dans le ventre\" : après les Etats-Unis, la Grande-Bretagne alerte contre une infection qui provoque une \"diarrhée explosive\"",
+      "desc": "Selon les derniers chiffres des autorités américaines, plus de 18 000 personnes dans 45 États différents ont contracté cette maladie.",
+      "url": "https://www.franceinfo.fr/sante/comme-un-ballon-dans-le-ventre-apres-les-etats-unis-la-grande-bretagne-alerte-contre-une-infection-qui-provoque-une-diarrhee-explosive_8130104.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Pn5hG3thk1m4hZasdX8Gg_p4w00/0x72:1024x648/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6ca163969e0340907357.jpg",
+      "date": "2026-07-31T15:21:44+00:00",
+      "date_formatted": "31 July 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer : une étude sur 60 000 personnes révèle un lien inattendu avec ce qui se joue avant 2 ans !",
+      "desc": "Une mesure instaurée pour faire face aux pénuries de l’après-guerre pourrait avoir protégé le cerveau de toute une génération. Les personnes ayant consommé moins de sucre au début de leur vie présentent aujourd’hui moins de cas de maladie d’Alzheimer.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-etude-60-000-personnes-revele-lien-inattendu-ce-joue-avant-2-ans-136647/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/7/1/371976db99_50258879_alzheimer-sucre-memoire-avant-souvenirs.jpg",
+      "date": "2026-07-31T12:47:51+00:00",
+      "date_formatted": "31 July 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Drame de la route en Algérie : un autocar chute dans un ravin, 25 morts",
+      "desc": "L’accident s’est produit à Boumerdès, dans le nord du pays, à 50 kilomètres d’Oran. Selon les secours, le bilan pourrait être revu à la hausse.",
+      "url": "https://www.liberation.fr/international/afrique/drame-de-la-route-en-algerie-un-autocar-chute-dans-un-ravin-25-morts-20260731_GIEQ5APV4BABHFMCEX7GM2GTDA/",
       "image": null,
-      "date": "2026-07-31T08:16:28+00:00",
+      "date": "2026-07-31T12:33:47+00:00",
       "date_formatted": "31 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Au moins 18 morts dans l’entrée de migrants à Ceuta, un morceau d’Europe enclavé au Maroc",
-      "desc": "De très nombreux jeunes hommes, dont des mineurs, se sont introduits illégalement dans ce territoire espagnol, jeudi. L’Espagne et le Maroc annoncent de prochaines expulsions express, pratique condamnée par le droit humanitaire international.",
-      "url": "https://www.liberation.fr/international/europe/au-moins-neuf-morts-dans-lentree-de-migrants-a-ceuta-un-morceau-deurope-enclave-au-maroc-20260730_6EYSCVGVGZBINDZGBF4IMQAMDA/",
+      "title": "Le milliardaire qui voulait ralentir le vieillissement",
+      "desc": "Bryan Johnson, entrepreneur américain obsédé par la longévité, est devenu le symbole contemporain de la quête d'immortalité. Mais que sait réellement la recherche sur le vieillissement ? Entre sénescence cellulaire, télomères et reprogrammation, les scientifiques cherchent moins à inverser le temps ",
+      "url": "https://www.sciencesetavenir.fr/sante/peut-on-vraiment-ralentir-le-vieillissement_194047?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/31/cover-r4x3w1200-6a6c95415cf79-kernel-founder.jpg",
+      "date": "2026-07-31T12:29:54+00:00",
+      "date_formatted": "31 July 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Requiem pour Vaneigem, par Jacques Donguy",
+      "desc": "Contrairement à Guy Debord, récupéré en partie par des écrivains de la nouvelle droite, le philosophe belge mort mardi 27 juillet a continué à défendre jusqu’au bout une certaine radicalité de gauche, inspirante, explique l’écrivain Jacques Donguy, qui a publié le situationniste belge dans sa revue ",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/requiem-pour-vaneigem-par-jacques-donguy-20260731_ME3HZJMI2FAZBNCXGAKLKNPGAU/",
       "image": null,
-      "date": "2026-07-31T07:26:05+00:00",
+      "date": "2026-07-31T10:44:10+00:00",
       "date_formatted": "31 July 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "title": "Mort de Stéphane Ricordel, codirecteur du théâtre du Rond-Point : l’acrobate qui faisait bouger les lignes",
+      "desc": "L’ex-circassien émérite, décédé à 62 ans, n’aura eu de cesse de faire évoluer le spectacle vivant.",
+      "url": "https://www.liberation.fr/culture/scenes/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-lacrobate-qui-faisait-bouger-les-lignes-20260731_GCLZICHUNRHC3PZQU6ZKCXXF3E/",
       "image": null,
-      "date": "2026-07-31T06:53:23+00:00",
-      "date_formatted": "31 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Accord sur le désarmement du Hamas, accalmie du côté des incendies, mort du footballeur Franco Baresi… L’actu de ce vendredi 31 juillet au matin",
-      "desc": "La rédaction de «Libération» compile les principales infos du jour",
-      "url": "https://www.liberation.fr/international/europe/accord-sur-le-desarmement-du-hamas-accalmie-du-cote-des-incendies-mort-du-footballeur-franco-baresi-lactu-de-ce-vendredi-31-juillet-au-matin-20260731_TJYCDEW4MVDT7CIAHPDYIACHEQ/",
-      "image": null,
-      "date": "2026-07-31T06:01:43+00:00",
-      "date_formatted": "31 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Football : Franco Baresi, légendaire défenseur italien, est mort",
-      "desc": "L’AC Milan a annoncé ce vendredi 31 juillet la mort, à 66 ans, de l’un de ses capitaines emblématiques des années 80 et 90. Il était devenu son vice-président honoraire en 2020.",
-      "url": "https://www.liberation.fr/sports/football/football-franco-baresi-legendaire-defenseur-italien-est-mort-20260731_CHIFP54ZWBATBEG2FKYZNNLWLA/",
-      "image": null,
-      "date": "2026-07-31T05:50:56+00:00",
+      "date": "2026-07-31T10:23:35+00:00",
       "date_formatted": "31 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -213,16 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "Un second patient américain atteint d'Ebola a été guéri à Francfort, en Allemagne",
-      "desc": "Le patient \"s'est complètement remis de sa maladie et ne présente plus aucun symptôme\", a écrit dans un communiqué la clinique où il était hospitalisé.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-second-patient-americain-atteint-d-ebola-a-ete-gueri-en-allemagne_8125541.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/liU14uJfug7mZRZRD7lKmeTnSZg/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/07/28/6a68ada1c32c3010720765.jpg",
-      "date": "2026-07-28T15:38:14+00:00",
-      "date_formatted": "28 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : Infecté en RDC, un second malade américain guéri du virus en Allemagne",
       "desc": "Ce patient vient de quitter l’hôpital de Francfort ; il est « complètement guéri et ne présente plus aucun symptôme »",
       "url": "https://www.20minutes.fr/monde/allemagne/4236727-20260728-ebola-infecte-rdc-second-malade-americain-gueri-virus-allemagne?at_medium=display&at_campaign=149",
@@ -281,16 +281,6 @@
       "date_formatted": "27 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Ebola : Un millier de nouveaux cas signalés en dix jours en RDC",
-      "desc": "La maladie, qui se transmet par contact avec les fluides corporels et provoque une fièvre hémorragique, a déjà tué plus de 15.000 personnes en Afrique",
-      "url": "https://www.20minutes.fr/monde/4236479-20260727-ebola-millier-nouveaux-cas-signales-dix-jours-rdc?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/PW7V2baWTnuV-veVfcoGSCk/1200x768_des-agents-de-sante-desinfectent-une-ambulance-au-centre-de-traitement-ebola-de-l-hopital-general-de-bunia-en-ituri-au-congo-le-mercredi-22-juillet-2026-photo-ap-dirole-lotsima-dieudonne-drc103-26203629060754-2607221938",
-      "date": "2026-07-27T07:01:47+00:00",
-      "date_formatted": "27 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Un cancer transmissible découvert chez des poissons",
@@ -453,16 +443,6 @@
       "type": "science"
     },
     {
-      "title": "Alzheimer : des chercheurs identifient un mécanisme naturel qui pourrait protéger le cerveau des effets toxiques de tau",
-      "desc": "Une protéine déjà associée au risque d’Alzheimer pourrait-elle devenir une alliée contre la maladie ? Des chercheurs ont découvert que SORLA agit à plusieurs niveaux pour contenir les dégâts provoqués par tau, préserver les connexions entre les neurones et limiter l’atrophie du cerveau.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-chercheurs-identifient-mecanisme-naturel-pourrait-proteger-cerveau-effets-toxiques-tau-136433/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/6/7/3670d9d418_50258493_alzheimer-proteine.jpg",
-      "date": "2026-07-23T06:01:04+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Notre longévité augmente tandis que notre santé décline",
       "desc": "Grâce aux avancées médicales, les humains vivent plus longtemps, mais passent plus d’années de leurs vies en mauvaise santé, faute de prévention des maladies chroniques.",
       "url": "https://www.sciencesetavenir.fr/sante/l-esperance-de-vie-en-bonne-sante-progresse-plus-lentement-que-l-esperance-de-vie_193885?xtor=RSS-16",
@@ -529,16 +509,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/16/cover-r4x3w1200-6a588206530ae-alzheimer.jpg",
       "date": "2026-07-16T12:17:24+00:00",
       "date_formatted": "16 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Plusieurs États américains touchés par des « diarrhées explosives »",
-      "desc": "Des dizaines d’États américains sont touchés par une épidémie de cyclosporose, une infection parasitaire transmise par l’alimentation qui peut provoquer de violentes diarrhées. Cette flambée intervient alors que, sous l’administration Trump, la déclaration des cas de Cyclospora est devenue facultati",
-      "url": "https://www.sciencesetavenir.fr/sante/un-parasite-responsable-de-diarrhees-explosives-touche-des-americains-dans-plusieurs-etats_193710?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/13/cover-r4x3w1200-6a548de684de7-cyclosporiasis.jpg",
-      "date": "2026-07-13T07:58:07+00:00",
-      "date_formatted": "13 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
