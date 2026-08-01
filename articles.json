@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-08-01T01:29:38.993115+00:00",
-  "count": 63,
+  "generated_at": "2026-08-01T07:58:36.875170+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title": "Un cancer contagieux découvert chez une variété de poisson-chat",
+      "desc": "La barbotte brune, un poisson-chat d'eau douce, est touchée depuis plus de 10 ans par un cancer de la peau qui se transmet, selon les chercheurs, par contact très rapproché.",
+      "url": "https://www.franceinfo.fr/sante/cancer/un-cancer-contagieux-decouvert-chez-une-variete-de-poisson-chat_8131001.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/a-9tdKtVl3izzshCiYByqlsX9No/0x541:5324x3536/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6d824bc9698061879541.jpg",
+      "date": "2026-08-01T07:31:35+00:00",
+      "date_formatted": "1 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Jeffrey Epstein n’était pas le chef d’un complot mais l’entremetteur d’une aristocratie mondialisée, par Christian Salmon",
+      "desc": "Un complot suppose un centre de décision, un plan concerté, une volonté commune. Alors que la mort, le 20 juillet, de Daniel Siad, un des complices du pédocriminel ravive les récits conspirationnistes, les Epstein Files montrent autre chose : le fonctionnement ordinaire d’une élite transnationale do",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/jeffrey-epstein-netait-pas-le-chef-dun-complot-mais-lentremetteur-dune-aristocratie-mondialisee-par-christian-salmon-20260801_K6JPLIEAQBE7PAC7O2QOX2GPCQ/",
+      "image": null,
+      "date": "2026-08-01T06:45:00+00:00",
+      "date_formatted": "1 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Blessures lors des incendies en Gironde : le lourd tribut payé par les pompiers",
+      "desc": "Alors que deux pompiers sont morts depuis le début de cet été de braise, au moins 267 ont été blessés dans le département ces derniers jours. Les syndicats réclament des précisions sur les dégâts causés par les composés toxiques provenant des fumées.",
+      "url": "https://www.liberation.fr/environnement/climat/blessures-lors-des-incendies-en-gironde-le-lourd-tribut-paye-par-les-pompiers-20260801_MTLRTUCYCNB6FCBMENB4DPC3BI/",
+      "image": null,
+      "date": "2026-08-01T03:11:00+00:00",
+      "date_formatted": "1 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ceuta : plus de 48 000 migrants déjà rentrés au Maroc, brouille entre l’Italie et l’Espagne à propos de l’espace Schengen",
       "desc": "Des dizaines de milliers de ressortissants marocains traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, dans le nord du Maroc. Presque 50 000 d’entre eux ont fait le chemin en sens inverse vendredi. Au moins 57 personnes sont mortes dans des mouvements de foule.",
       "url": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
       "image": null,
       "date": "2026-07-31T19:25:34+00:00",
-      "date_formatted": "31 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-07-31T18:28:45+00:00",
       "date_formatted": "31 July 2026",
       "source": "Libération",
       "type": "presse"
@@ -400,16 +420,6 @@
       "date": "2026-07-24T05:00:22+00:00",
       "date_formatted": "24 July 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "En 100 ans, voici la stupéfiante transformation observée par des chercheurs sur la forme des têtes humaines",
-      "desc": "Devant une vieille photo en noir et blanc, on met souvent l'étrangeté des visages sur le compte de la moustache ou de la pose figée. Une étude suggère une explication bien plus profonde : en un siècle à peine, la forme même de notre crâne a changé. Et la génétique n'y est pour rien.",
-      "url": "https://www.futura-sciences.com/sante/actualites/anatomie-100-ans-voici-stupefiante-transformation-observee-chercheurs-forme-tetes-humaines-k2m6-136322/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/5/f/95fec8b764_50258277_anatomie-crane.jpg",
-      "date": "2026-07-23T18:00:00+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
