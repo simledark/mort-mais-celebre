@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-31T19:03:27.213926+00:00",
+  "generated_at": "2026-08-01T01:29:38.993115+00:00",
   "count": 63,
   "articles": [
+    {
+      "title": "Ceuta : plus de 48 000 migrants déjà rentrés au Maroc, brouille entre l’Italie et l’Espagne à propos de l’espace Schengen",
+      "desc": "Des dizaines de milliers de ressortissants marocains traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, dans le nord du Maroc. Presque 50 000 d’entre eux ont fait le chemin en sens inverse vendredi. Au moins 57 personnes sont mortes dans des mouvements de foule.",
+      "url": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
+      "image": null,
+      "date": "2026-07-31T19:25:34+00:00",
+      "date_formatted": "31 July 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
       "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
@@ -13,21 +23,11 @@
       "type": "presse"
     },
     {
-      "title": "Labeyrie, la succession qui agite le bocal de foie gras",
-      "desc": "Mort en 2020 à presque 97 ans, l’industriel landais qui a fondé un empire du luxe gastronomique laisse une fortune de plus de 15 millions d’euros. Mais ses enfants accusent sa seconde femme d’avoir voulu profiter de sa faiblesse.",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/labeyrie-la-succession-qui-agite-le-bocal-de-foie-gras-20260731_X2RBZ462IREY5G3BK6P4EDFCJA/",
-      "image": null,
-      "date": "2026-07-31T16:00:00+00:00",
-      "date_formatted": "31 July 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : en RDC, plus de 3 500 cas recensés en quelques mois, plus que lors de l’épidémie la plus meurtrière de l’histoire du pays",
       "desc": "Vendredi, 3 532 cas de la maladie à virus Ebola ont été confirmés dans cinq provinces du pays, selon les données publiées par les autorités congolaises. Parmi ces 3 532 cas, 1 556 personnes sont mortes.",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html",
       "image": "https://img.lemde.fr/2026/06/29/667/0/4000/2000/644/322/60/0/beffbf1_upload-1-ht0rept1wutm-20-pb-lemonde-eds-croix-rouge-bunia-rdc.jpg",
-      "date": "2026-07-31T15:58:32+00:00",
+      "date": "2026-07-31T15:58:30+00:00",
       "date_formatted": "31 July 2026",
       "source": "Le Monde Santé",
       "type": "presse"
