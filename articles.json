@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-02T08:00:37.180627+00:00",
-  "count": 62,
+  "generated_at": "2026-08-02T12:52:36.099093+00:00",
+  "count": 48,
   "articles": [
+    {
+      "title": "Les kinésithérapeutes pourront réaliser des \"bilans prévention\" dès octobre, dans le but de \"renforcer l'accessibilité du dispositif\"",
+      "desc": "Mis en place en 2024, ce bilan est un temps d'échange gratuit avec un professionnel de santé à des \"âges clés de la vie\". Il vise à sensibiliser sur les comportements favorables à la santé, dans un contexte de vieillissement de la population et d'explosion des maladies chroniques.",
+      "url": "https://www.franceinfo.fr/sante/les-kinesitherapeutes-pourront-realiser-des-bilans-prevention-des-octobre-dans-le-but-de-renforcer-l-accessibilite-du-dispositif_8132222.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/fqe2O5JIxvcJtTNW0VggUuvaKqE/0x152:6000x3527/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f384fa59df904069240.jpg",
+      "date": "2026-08-02T14:31:35+00:00",
+      "date_formatted": "2 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les kinés pourront réaliser des « bilans prévention » dès octobre",
+      "desc": "Les kinés rejoindront cet automne le dispositif « Mon Bilan Prévention » destiné à repérer, entre autres, d’éventuelles maladies ou risque de dépendance, de perte d’au",
+      "url": "https://www.20minutes.fr/sante/4237350-20260802-kines-pourront-realiser-bilans-prevention-octobre?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/mzOfldOeQta_JSmSgj-Teik/1200x768_dossiers-medicaux-de-sante-et-un-stethoscope-le-mans-sarthe-france-10-janvier-2025-07gilemichel-gile092-credit-gile-michel-sipa-2502190931",
+      "date": "2026-08-02T11:19:27+00:00",
+      "date_formatted": "2 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le corps de l’alpiniste Nirmal Purja, mort dans une avalanche au Pakistan, a été retrouvé",
+      "desc": "Le népalo-britannique est mort le 30 juillet après une avalanche dans l’Himalaya, aux côtés de neuf autres alpinistes. Sa dépouille a été repérée par les secours à 5700 mètres d’altitude, annonce le Club alpin du Pakistan ce dimanche 2 août.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/le-corps-de-lalpiniste-nirmal-purja-mort-dans-une-avalanche-au-pakistan-a-ete-retrouve-20260802_6SZAFSSYJJGVNO5NEUPJGBL6AE/",
+      "image": null,
+      "date": "2026-08-02T09:57:15+00:00",
+      "date_formatted": "2 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Gaza : huit morts dans des bombardements israéliens nocturnes après l’accord annoncé sur le désarmement du Hamas",
+      "desc": "Israël, qui n’a pas réagi après l’annonce de l’entente annoncée jeudi par le président américain, continue ses attaques sur le territoire. Elles ont visé des habitations dans la nuit de samedi à dimanche 2 août, rapporte la Défense civile.",
+      "url": "https://www.liberation.fr/international/moyen-orient/gaza-huit-morts-dans-des-bombardements-israeliens-nocturnes-apres-laccord-annonce-sur-le-desarmement-du-hamas-20260802_RJWA7SPLIFABBGJGTZTTV5HWSI/",
+      "image": null,
+      "date": "2026-08-02T09:38:08+00:00",
+      "date_formatted": "2 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Injections esthétiques illégales : \"Combien de morts faudra-t-il encore Madame la Ministre ?\", interpellent 5 000 médecins dans une tribune",
       "desc": "Les praticiens dénoncent la multiplication des actes réalisés par des personnes sans compétences médicales. Deux jeunes femmes sont mortes ces derniers mois après des injections esthétiques illégales. Les médecins réclament un durcissement des sanctions.",
@@ -19,16 +59,6 @@
       "image": null,
       "date": "2026-08-02T06:19:42+00:00",
       "date_formatted": "2 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola en RDC : l’épidémie s’intensifie à un rythme «exceptionnel», 3 605 cas dont 1 587 décès recensés",
-      "desc": "L’Organisation mondiale de la santé parle désormais de la «plus importante épidémie» jamais enregistrée en république démocratique du Congo. Pour sa part, l’Ouganda a déclaré la fin de son épidémie.",
-      "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-lepidemie-sintensifie-a-un-rythme-exceptionnel-3-605-cas-dont-1-587-deces-recenses-20260801_MJTMU6ZLTFFEFA6JTURLOTOXTI/",
-      "image": null,
-      "date": "2026-08-01T16:38:03+00:00",
-      "date_formatted": "1 August 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -203,26 +233,6 @@
       "type": "science"
     },
     {
-      "title": "Le tarif des mutuelles va-t-il augmenter l’an prochain ?",
-      "desc": "C’est un nouveau coup dur pour vos dépenses de santé. Le gouvernement décide de baisser certains remboursements de l’Assurance maladie. Soins dentaires, médicaments inefficaces, transports sanitaires : un coût qui devrait être assumé par les mutuelles.",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-tarif-des-mutuelles-va-t-il-augmenter-l-an-prochain_8127209.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jnBFtqL5HmISYvn7IrCzsUmqq4Q/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a09ba59403611777736.jpg",
-      "date": "2026-07-29T17:10:04+00:00",
-      "date_formatted": "29 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des scientifiques japonais pensent avoir identifié la substance à l'origine de la maladie d'Alzheimer",
-      "desc": "Leur découverte va peut-être permettre de créer des médicaments pour prévenir la maladie plutôt que d'essayer de ralentir ses symptômes.",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/des-scientifiques-japonais-pensent-avoir-identifie-la-substance-a-l-origine-de-la-maladie-d-alzheimer_8100002.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/z_R0JbQNPsxXcMVCyyWaiTy0qMs/0x238:3570x2247/432x243/filters:format(jpg):quality(50)/2026/07/29/6a69af57a12b6000781520.jpg",
-      "date": "2026-07-29T16:00:02+00:00",
-      "date_formatted": "29 July 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Espagne : Faute de médecin, une femme meurt d’un arrêt cardiaque dans l’ambulance qui la transporte",
       "desc": "Le décès d’une femme dans une ambulance en Espagne a relancé le débat sur la pénurie de médecins dans les provinces catalanes",
       "url": "https://www.20minutes.fr/monde/4236891-20260729-espagne-faute-medecin-femme-meurt-arret-cardiaque-ambulance-transporte?at_medium=display&at_campaign=149",
@@ -353,16 +363,6 @@
       "type": "science"
     },
     {
-      "title": "Rougeole : ce qui se passe en ce moment aux États-Unis est particulièrement inquiétant",
-      "desc": "La rougeole connaît une flambée sans précédent aux États-Unis, avec un nombre de cas jamais atteint depuis plus de trente ans. Derrière cette résurgence se cache un recul de la vaccination qui inquiète les experts, alors que le virus circule désormais dans la quasi-totalité du pays. Une...",
-      "url": "https://www.futura-sciences.com/sante/actualites/epidemie-rougeole-ce-passe-ce-moment-etats-unis-particulierement-inquietant-136535/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/2/7/3276518d1c_50258638_2-rougeole.jpg",
-      "date": "2026-07-24T21:33:33+00:00",
-      "date_formatted": "24 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Le gouvernement précise sa feuille de route d’économies pour la santé, ciblant les médicaments, les soins dentaires et les transports sanitaires",
       "desc": "La ministre de la santé, Stéphanie Rist, a confirmé vendredi la hausse sur plusieurs actes médicaux du ticket modérateur, montant non remboursé par l’Assurance-maladie et transféré aux mutuelles, laissant présager de futures augmentations de leurs tarifs. La veille, elle avait annoncé le doublement ",
       "url": "https://www.lemonde.fr/societe/article/2026/07/24/le-gouvernement-precise-sa-feuille-de-route-d-economies-pour-la-sante-ciblant-les-medicaments-les-soins-dentaires-et-les-transports-sanitaires_6731538_3224.html",
@@ -423,16 +423,6 @@
       "type": "presse"
     },
     {
-      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
-      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
-      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
-      "image": null,
-      "date": "2026-07-23T14:01:16+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Canicule de juin : une surmortalité record depuis 2003",
       "desc": "La canicule qui a frappé la France du 17 juin au 2 juillet a provoqué une surmortalité exceptionnelle, avec 5 764 décès supplémentaires recensés dans un bilan encore provisoire de Santé publique France. Alors que ces chiffres alimentent déjà le débat politique sur l’adaptation au changement climatiq",
       "url": "https://www.sciencesetavenir.fr/sante/canicule-de-juin-une-surmortalite-record-depuis-2003-marquee-aussi-chez-les-jeunes_193897?xtor=RSS-16",
@@ -463,16 +453,6 @@
       "type": "science"
     },
     {
-      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
-      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
-      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
-      "image": null,
-      "date": "2026-07-21T08:00:02+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "USA : une laitue à l'origine des “diarrhées explosives“",
       "desc": "Les autorités sanitaires américaines ont identifié la source de l'épidémie de cyclosporose qui touche cinq États : un parasite présent dans de la laitue iceberg servie par la chaîne de fast-food Taco Bell. Plus de 1.600 personnes ont été infectées et 94 hospitalisées, après la consommation de produi",
       "url": "https://www.sciencesetavenir.fr/sante/usa-la-laitue-de-taco-bell-a-l-origine-d-une-epidemie-de-diarrhees-explosives_193853?xtor=RSS-16",
@@ -500,126 +480,6 @@
       "date": "2026-07-16T13:35:59+00:00",
       "date_formatted": "16 July 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
