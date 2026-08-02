@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-02T01:27:16.174817+00:00",
-  "count": 61,
+  "generated_at": "2026-08-02T08:00:37.180627+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title": "Injections esthétiques illégales : \"Combien de morts faudra-t-il encore Madame la Ministre ?\", interpellent 5 000 médecins dans une tribune",
+      "desc": "Les praticiens dénoncent la multiplication des actes réalisés par des personnes sans compétences médicales. Deux jeunes femmes sont mortes ces derniers mois après des injections esthétiques illégales. Les médecins réclament un durcissement des sanctions.",
+      "url": "https://www.franceinfo.fr/sante/injections-esthetiques-illegales-combien-de-morts-faudra-t-il-encore-madame-la-ministre-interpellent-5-000-medecins-dans-une-tribune_8131880.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/oBdq-3qi1VVs-z0dtydYJNMZHZc/0x181:3543x2174/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ed1b3ca825145749614.jpg",
+      "date": "2026-08-02T07:13:54+00:00",
+      "date_formatted": "2 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«L’IA démultiplie notre capacité de réflexion» : l’intelligence artificielle a résolu une conjecture mathématique presque centenaire",
+      "desc": "Pendant la finale de la Coupe du monde de foot, une IA d’Anthropic a résolu la conjecture jacobienne, sur laquelle des générations de spécialistes de géométrie algébrique se cassaient les dents depuis 1939. C’est la deuxième fois cette année qu’un problème aussi costaud a trouvé une solution avec l’",
+      "url": "https://www.liberation.fr/sciences/technologie-innovation/lia-demultiplie-notre-capacite-de-reflexion-lintelligence-artificielle-a-resolu-une-conjecture-mathematique-presque-centenaire-20260802_J6XESJGYLFBCNFQ2ZPLZDJVQOA/",
+      "image": null,
+      "date": "2026-08-02T06:19:42+00:00",
+      "date_formatted": "2 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ebola en RDC : l’épidémie s’intensifie à un rythme «exceptionnel», 3 605 cas dont 1 587 décès recensés",
       "desc": "L’Organisation mondiale de la santé parle désormais de la «plus importante épidémie» jamais enregistrée en république démocratique du Congo. Pour sa part, l’Ouganda a déclaré la fin de son épidémie.",
@@ -20,16 +40,6 @@
       "date": "2026-08-01T15:36:52+00:00",
       "date_formatted": "1 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Séisme au Japon : au moins 36 morts, les recherches dans le centre commercial prennent fin",
-      "desc": "Selon l’exploitant du centre commercial, les sept dernières victimes extraites des décombres sont des employés de commerces locataires.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/seisme-au-japon-au-moins-36-morts-les-recherches-dans-le-centre-commercial-prennent-fin-20260801_XQFYF346HFH7TGJQCOBLMIETNE/",
-      "image": null,
-      "date": "2026-08-01T14:13:34+00:00",
-      "date_formatted": "1 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
