@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-04T13:40:30.068911+00:00",
-  "count": 64,
+  "generated_at": "2026-08-04T19:15:51.589205+00:00",
+  "count": 62,
   "articles": [
     {
-      "title": "\"Les gens venaient dire au revoir\" : le musicien Phil Collins raconte comment son alcoolisme l'a poussé aux portes de la mort en 2024",
+      "title": "The Toxic Avenger, DJ cyberharcelé pour avoir critiqué l’hommage de Bardella à Kavinsky : «Le RN aime une culture morte et inoffensive»",
+      "desc": "L’artiste avait demandé, le 29 juillet sur X, au président du parti d’extrême droite de «s’abstenir» d’encenser le musicien décédé, rappelant l’hostilité du secteur musical envers son courant politique. Menacé par ses soutiens, il envisage de porter plainte.",
+      "url": "https://www.liberation.fr/culture/musique/the-toxic-avenger-dj-cyberharcele-pour-avoir-critique-lhommage-de-bardella-a-kavinsky-le-rn-aime-une-culture-morte-et-inoffensive-20260804_UCUYMLUEHFFZ7FPBNICSUSMJKY/",
+      "image": null,
+      "date": "2026-08-04T16:35:14+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Lens : après l’immolation d’un homme, sa compagne, brûlée par lui, meurt à son tour",
+      "desc": "Près de deux semaines après qu’un trentenaire s’est immolé avant de prendre dans ses bras sa compagne et leur bébé de trois mois, cette dernière est morte dimanche 2 août à l’hôpital. Une enquête a été ouverte par le parquet de Béthune.",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/lens-apres-limmolation-dun-homme-sa-compagne-brulee-par-lui-meurt-a-son-tour-20260804_24L7UG6MEVDHFPZCUVEHK7VJZY/",
+      "image": null,
+      "date": "2026-08-04T16:21:17+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Les gens venaient me dire au revoir\" : le musicien Phil Collins raconte comment son alcoolisme l'a poussé aux portes de la mort en 2024",
       "desc": "Dans un long entretien accordé au \"Sunday Times\", le Britannique âgé de 75 ans évoque son addiction \"tardive\" à l'alcool.",
       "url": "https://www.franceinfo.fr/culture/musique/rock/les-gens-venaient-dire-au-revoir-le-musicien-phil-collins-raconte-comment-son-alcoolisme-l-a-pousse-aux-portes-de-la-mort-en-2024_8134229.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/EZYBWQtGxR-j2niEciCS16RH94g/0x0:2849x1602/432x243/filters:format(jpg):quality(50)/2026/08/04/6a71b6c78b5f3274135127.jpg",
@@ -33,16 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Marseille : un jeune garçon de deux ans retrouvé mort dans un appartement, ses proches en garde à vue",
-      "desc": "La mère de 35 ans, son conjoint de 18 ans et une adolescente ont été placés en garde à vue, après la macabre découverte, dimanche 2 août, dans le XIVe arrondissement de la ville. Les circonstances de la mort ne sont pas encore déterminées.",
-      "url": "https://www.liberation.fr/societe/police-justice/marseille-un-jeune-garcon-de-deux-ans-retrouve-mort-dans-un-appartement-ses-proches-en-garde-a-vue-20260804_XCD4BPSNUBFJRE4IAHJWI6IYQA/",
-      "image": null,
-      "date": "2026-08-04T11:07:23+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Aux Etats-Unis, l'épidémie de \"diarrhées explosives\" fait deux premiers morts",
       "desc": "Deux personnes sont mortes dans l'Etat du Michigan après avoir contracté la cyclosporose. Les Etats-Unis sont en proie à une épidémie de cette infection intestinale, généralement non mortelle.",
       "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-epidemie-de-diarrhees-explosives-fait-de-premiers-morts_8134064.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -53,16 +63,6 @@
       "type": "presse"
     },
     {
-      "title": "Séismes au Venezuela : le nombre de morts réévalué à plus de 6 100 morts",
-      "desc": "1 400 personnes demeurent officiellement disparues dans le double tremblement de terre qui avait touché l’Etat de la Guaira, au nord de Caracas, le 24 juin dernier.",
-      "url": "https://www.liberation.fr/international/amerique/seismes-au-venezuela-le-nombre-de-morts-reevalue-a-plus-de-6-100-morts-20260804_XMYGXKKTQNEFZE46N6BAU7UWHY/",
-      "image": null,
-      "date": "2026-08-04T09:41:17+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "La cellule d'urgence médico-psychologique de Gironde appelle \"les parents des 300 enfants du Porge à venir les voir\"",
       "desc": "Au Porge, 183 maisons ont été détruites par les flammes qui ont ravagé la région depuis le 22 juillet. Après ce genre d'événements, les symptômes de stress post-traumatique sont courants, alerte le responsable de la cellule.",
       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/la-cellule-d-urgence-medico-psychologique-de-gironde-appelle-les-parents-des-300-enfants-du-porge-a-venir-les-voir_8133962.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -70,16 +70,6 @@
       "date": "2026-08-04T08:47:38+00:00",
       "date_formatted": "4 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Quatre morts en Crimée, cinq dans la région de Moscou, perte d’élan des troupes russes en juillet… L’actu de la guerre en Ukraine ce mardi 4 août",
-      "desc": "L’essentiel des informations du jour sur la guerre entre l’Ukraine et la Russie.",
-      "url": "https://www.liberation.fr/international/europe/quatre-morts-en-crimee-cinq-dans-la-region-de-moscou-perte-delan-des-troupes-russes-en-juillet-lactu-de-la-guerre-en-ukraine-ce-mardi-4-aout-20260804_ETVSKUPH5JB2FNLUXPFXKCODQI/",
-      "image": null,
-      "date": "2026-08-04T08:32:39+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -150,16 +140,6 @@
       "date": "2026-08-02T11:19:27+00:00",
       "date_formatted": "2 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Injections esthétiques illégales : \"Combien de morts faudra-t-il encore Madame la Ministre ?\", interpellent 5 000 médecins dans une tribune",
-      "desc": "Les praticiens dénoncent la multiplication des actes réalisés par des personnes sans compétences médicales. Deux jeunes femmes sont mortes ces derniers mois après des injections esthétiques illégales. Les médecins réclament un durcissement des sanctions.",
-      "url": "https://www.franceinfo.fr/sante/injections-esthetiques-illegales-combien-de-morts-faudra-t-il-encore-madame-la-ministre-interpellent-5-000-medecins-dans-une-tribune_8131880.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/oBdq-3qi1VVs-z0dtydYJNMZHZc/0x181:3543x2174/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ed1b3ca825145749614.jpg",
-      "date": "2026-08-02T07:13:54+00:00",
-      "date_formatted": "2 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -459,8 +439,8 @@
       "image": "https://img.lemde.fr/2026/06/23/580/0/6960/3480/644/322/60/0/cd682bc_upload-1-lhewzjimb7hd-260611jbalague-lemonde-moustiques-35.jpg",
       "date": "2026-07-24T05:00:22+00:00",
       "date_formatted": "24 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
