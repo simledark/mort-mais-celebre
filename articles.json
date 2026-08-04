@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-08-04T08:13:33.088299+00:00",
-  "count": 61,
+  "generated_at": "2026-08-04T13:40:30.068911+00:00",
+  "count": 64,
   "articles": [
     {
-      "title": "Aux Etats-Unis, l'épidémie de \"diarrhées explosives\" fait de premiers morts",
+      "title": "\"Les gens venaient dire au revoir\" : le musicien Phil Collins raconte comment son alcoolisme l'a poussé aux portes de la mort en 2024",
+      "desc": "Dans un long entretien accordé au \"Sunday Times\", le Britannique âgé de 75 ans évoque son addiction \"tardive\" à l'alcool.",
+      "url": "https://www.franceinfo.fr/culture/musique/rock/les-gens-venaient-dire-au-revoir-le-musicien-phil-collins-raconte-comment-son-alcoolisme-l-a-pousse-aux-portes-de-la-mort-en-2024_8134229.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/EZYBWQtGxR-j2niEciCS16RH94g/0x0:2849x1602/432x243/filters:format(jpg):quality(50)/2026/08/04/6a71b6c78b5f3274135127.jpg",
+      "date": "2026-08-04T14:20:51+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs",
+      "desc": "Et si la mode du « toujours plus de protéines » n’était pas aussi bonne pour la santé qu’on le pense ? Des chercheurs révèlent pourquoi lever le pied pourrait aider notre organisme à mieux vieillir.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-trop-proteines-pourrait-nuire-vieillissement-bonne-sante-avertissent-chercheurs-136714/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/d/d/3dd84fdf28_50258982_2-proteines-risques.jpg",
+      "date": "2026-08-04T11:43:36+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "\"On voit uniquement les médecins et les infirmières une dizaine de minutes par jour\", témoigne un couple qui a été placé en quarantaine stricte",
+      "desc": "En mai 2026, Julia et Roland Seitre font partie des passagers du navire de croisière MV Hondius touché par des cas d'hantavirus. Après trois décès à bord et une vague d'inquiétude mondiale, ils sont placés en quarantaine stricte pendant 42 jours à l'hôpital Bichat. Quelques mois plus tard, le couple",
+      "url": "https://www.franceinfo.fr/replay-radio/ils-ont-fait-l-actu/on-voit-uniquement-les-medecins-et-les-infirmieres-une-dizaine-de-minutes-par-jour-temoigne-un-couple-qui-a-ete-place-en-quarantaine-stricte_8069729.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/pYCLxSctEQ6Q2P9hrrlO588c3T4/0x391:7490x4605/432x243/filters:format(jpg):quality(50)/2026/08/04/6a71a5d86b21a536325513.jpg",
+      "date": "2026-08-04T11:21:51+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Marseille : un jeune garçon de deux ans retrouvé mort dans un appartement, ses proches en garde à vue",
+      "desc": "La mère de 35 ans, son conjoint de 18 ans et une adolescente ont été placés en garde à vue, après la macabre découverte, dimanche 2 août, dans le XIVe arrondissement de la ville. Les circonstances de la mort ne sont pas encore déterminées.",
+      "url": "https://www.liberation.fr/societe/police-justice/marseille-un-jeune-garcon-de-deux-ans-retrouve-mort-dans-un-appartement-ses-proches-en-garde-a-vue-20260804_XCD4BPSNUBFJRE4IAHJWI6IYQA/",
+      "image": null,
+      "date": "2026-08-04T11:07:23+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aux Etats-Unis, l'épidémie de \"diarrhées explosives\" fait deux premiers morts",
       "desc": "Deux personnes sont mortes dans l'Etat du Michigan après avoir contracté la cyclosporose. Les Etats-Unis sont en proie à une épidémie de cette infection intestinale, généralement non mortelle.",
       "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-epidemie-de-diarrhees-explosives-fait-de-premiers-morts_8134064.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/HOxQiMBaIqaaXYKd7SuZiwG_b58/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/04/6a719a1f1f328322795839.jpg",
-      "date": "2026-08-04T09:57:13+00:00",
+      "date": "2026-08-04T10:23:05+00:00",
       "date_formatted": "4 August 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Séismes au Venezuela : le nombre de morts réévalué à plus de 6 100 morts",
+      "desc": "1 400 personnes demeurent officiellement disparues dans le double tremblement de terre qui avait touché l’Etat de la Guaira, au nord de Caracas, le 24 juin dernier.",
+      "url": "https://www.liberation.fr/international/amerique/seismes-au-venezuela-le-nombre-de-morts-reevalue-a-plus-de-6-100-morts-20260804_XMYGXKKTQNEFZE46N6BAU7UWHY/",
+      "image": null,
+      "date": "2026-08-04T09:41:17+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -23,21 +73,11 @@
       "type": "presse"
     },
     {
-      "title": "Marseille : un jeune garçon de deux ans retrouvé mort dans un appartement, ses proches en garde à vue",
-      "desc": "La mère, son conjoint et une adolescente ont été placés en garde à vue, après la macabre découverte, dimanche 2 août, dans le XIVe arrondissement de la ville.",
-      "url": "https://www.liberation.fr/societe/police-justice/marseille-un-jeune-garcon-de-deux-ans-retrouve-mort-dans-un-appartement-ses-proches-en-garde-a-vue-20260804_XCD4BPSNUBFJRE4IAHJWI6IYQA/",
+      "title": "Quatre morts en Crimée, cinq dans la région de Moscou, perte d’élan des troupes russes en juillet… L’actu de la guerre en Ukraine ce mardi 4 août",
+      "desc": "L’essentiel des informations du jour sur la guerre entre l’Ukraine et la Russie.",
+      "url": "https://www.liberation.fr/international/europe/quatre-morts-en-crimee-cinq-dans-la-region-de-moscou-perte-delan-des-troupes-russes-en-juillet-lactu-de-la-guerre-en-ukraine-ce-mardi-4-aout-20260804_ETVSKUPH5JB2FNLUXPFXKCODQI/",
       "image": null,
-      "date": "2026-08-04T07:25:40+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-08-04T07:03:07+00:00",
+      "date": "2026-08-04T08:32:39+00:00",
       "date_formatted": "4 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -119,16 +159,6 @@
       "image": "https://www.franceinfo.fr/pictures/oBdq-3qi1VVs-z0dtydYJNMZHZc/0x181:3543x2174/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6ed1b3ca825145749614.jpg",
       "date": "2026-08-02T07:13:54+00:00",
       "date_formatted": "2 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'épidémie d'Ebola en République démocratique du Congo s'intensifie à un rythme \"exceptionnel\", avertit l'OMS",
-      "desc": "Déclarée officiellement le 15 mai, avec plusieurs semaines de retard, la flambée actuelle est causée par le variant Bundibugyo, pour lequel il n'existe jusqu'à présent ni vaccin, ni traitement. Elle frappe des régions où la présence de l'Etat est fragile et les infrastructures de santé largement dém",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republiquedemocratique-du-congo-s-intensifie-a-un-rythme-exceptionnel-avertit-l-oms_8131370.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/2W4yXMKbxfQmETfQaXPWlDDXusk/0x600:5760x3840/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6df5e39edb2684967138.jpg",
-      "date": "2026-08-01T15:36:52+00:00",
-      "date_formatted": "1 August 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
