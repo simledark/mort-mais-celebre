@@ -1,36 +1,56 @@
 {
-  "generated_at": "2026-08-04T01:17:31.260970+00:00",
-  "count": 63,
+  "generated_at": "2026-08-04T08:13:33.088299+00:00",
+  "count": 61,
   "articles": [
     {
-      "title": "Angleterre, Pays de Galles, Suède, Serbie… Plusieurs fédérations retirent leur soutien à la réélection de Gianni Infantino",
-      "desc": "Echaudées par le projet mort-né d’ouvrir les Coupes du monde aux investisseurs étrangers, plusieurs fédérations européennes annoncent lundi ne plus soutenir l’Italo-Suisse lors des prochaines élections, en mars 2027.",
-      "url": "https://www.liberation.fr/sports/football/angleterre-pays-de-galles-suede-serbie-plusieurs-federations-retirent-leur-soutien-a-la-reelection-de-gianni-infantino-20260803_OADRCLVSURGRBNFNLKWTINSAMY/",
+      "title": "Aux Etats-Unis, l'épidémie de \"diarrhées explosives\" fait de premiers morts",
+      "desc": "Deux personnes sont mortes dans l'Etat du Michigan après avoir contracté la cyclosporose. Les Etats-Unis sont en proie à une épidémie de cette infection intestinale, généralement non mortelle.",
+      "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-epidemie-de-diarrhees-explosives-fait-de-premiers-morts_8134064.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/HOxQiMBaIqaaXYKd7SuZiwG_b58/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/04/6a719a1f1f328322795839.jpg",
+      "date": "2026-08-04T09:57:13+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La cellule d'urgence médico-psychologique de Gironde appelle \"les parents des 300 enfants du Porge à venir les voir\"",
+      "desc": "Au Porge, 183 maisons ont été détruites par les flammes qui ont ravagé la région depuis le 22 juillet. Après ce genre d'événements, les symptômes de stress post-traumatique sont courants, alerte le responsable de la cellule.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/la-cellule-d-urgence-medico-psychologique-de-gironde-appelle-les-parents-des-300-enfants-du-porge-a-venir-les-voir_8133962.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/rm0jZOt_O6bexoetCnB3JQTR6ds/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/04/6a717f1d7fa61013563979.jpg",
+      "date": "2026-08-04T08:47:38+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Marseille : un jeune garçon de deux ans retrouvé mort dans un appartement, ses proches en garde à vue",
+      "desc": "La mère, son conjoint et une adolescente ont été placés en garde à vue, après la macabre découverte, dimanche 2 août, dans le XIVe arrondissement de la ville.",
+      "url": "https://www.liberation.fr/societe/police-justice/marseille-un-jeune-garcon-de-deux-ans-retrouve-mort-dans-un-appartement-ses-proches-en-garde-a-vue-20260804_XCD4BPSNUBFJRE4IAHJWI6IYQA/",
       "image": null,
-      "date": "2026-08-03T19:15:43+00:00",
-      "date_formatted": "3 August 2026",
+      "date": "2026-08-04T07:25:40+00:00",
+      "date_formatted": "4 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Mort de l’écrivain Marcel Cohen, ancien enfant caché pendant l’Occupation",
-      "desc": "Auteur d’une œuvre attachée à la forme fragmentaire, né dans une famille parisienne juive, originaire de Constantinople, il s’est éteint le 31 juillet à 88 ans.",
-      "url": "https://www.liberation.fr/culture/livres/mort-de-lecrivain-marcel-cohen-ancien-enfant-cache-pendant-loccupation-20260803_TSCRQM5XYNA45GZNAAKR3LPO3I/",
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
       "image": null,
-      "date": "2026-08-03T17:24:41+00:00",
-      "date_formatted": "3 August 2026",
+      "date": "2026-08-04T07:03:07+00:00",
+      "date_formatted": "4 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Comme les pharmaciens et les infirmières, les kinés vont désormais réaliser des bilans prévention",
-      "desc": "A partir d’octobre, ces professionnels de santé pourront effectuer les consultations de prévention à quatre «âges clés» lancées il y a près de deux ans. Objectif : mieux dépister les maladies chroniques ou les addictions et soulager les généralistes dans les déserts médicaux.",
-      "url": "https://www.liberation.fr/societe/sante/comme-les-pharmaciens-et-les-infirmieres-les-kines-vont-desormais-realiser-des-bilans-prevention-20260803_AMCAITTQKFCQJOBGDRLBHOM7GE/",
-      "image": null,
-      "date": "2026-08-03T16:46:06+00:00",
-      "date_formatted": "3 August 2026",
-      "source": "Libération",
-      "type": "presse"
+      "title": "30 minutes au soleil suffisent à bouleverser les bactéries de votre peau : faut-il s’inquiéter ?",
+      "desc": "On le sait, le soleil peut brûler la peau, accélérer son vieillissement et favoriser certains cancers. Mais ses effets ne s’arrêtent peut-être pas là. À la surface de notre corps vit un étonnant écosystème de bactéries, champignons et virus qui participe à notre protection. Or plusieurs études...",
+      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-30-minutes-soleil-suffisent-bouleverser-bacteries-votre-peau-faut-il-inquieter-136684/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/a/5/ca56d8f2f1_50258955_microbiote-peau.jpg",
+      "date": "2026-08-04T06:01:41+00:00",
+      "date_formatted": "4 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Légionellose en Suisse : un mort et vingt-six cas recensés à Bâle",
@@ -40,16 +60,6 @@
       "date": "2026-08-03T16:22:35+00:00",
       "date_formatted": "3 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Retour des derniers évacués en Gironde, rejet du recours de Xenia Fedorova, enquête ouverte après deux suicides au sein des services du Premier ministre… L’actu de ce lundi 3 août",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du lundi 3 août.",
-      "url": "https://www.liberation.fr/international/europe/retour-des-derniers-evacues-en-gironde-rejet-du-recours-de-xenia-fedorova-enquete-ouverte-apres-deux-suicides-au-sein-des-services-du-premier-ministre-lactu-de-ce-lundi-3-aout-20260803_2V3P3XJC7NFPXCLTFJ7GTQP7YQ/",
-      "image": null,
-      "date": "2026-08-03T16:08:13+00:00",
-      "date_formatted": "3 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -133,16 +143,6 @@
       "type": "science"
     },
     {
-      "title": "Un cancer contagieux découvert chez une variété de poisson-chat",
-      "desc": "La barbotte brune, un poisson-chat d'eau douce, est touchée depuis plus de 10 ans par un cancer de la peau qui se transmet, selon les chercheurs, par contact très rapproché.",
-      "url": "https://www.franceinfo.fr/sante/cancer/un-cancer-contagieux-decouvert-chez-une-variete-de-poisson-chat_8131001.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/a-9tdKtVl3izzshCiYByqlsX9No/0x541:5324x3536/432x243/filters:format(jpg):quality(50)/2026/08/01/6a6d824bc9698061879541.jpg",
-      "date": "2026-08-01T07:31:35+00:00",
-      "date_formatted": "1 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : en RDC, plus de 3 500 cas recensés en quelques mois, plus que lors de l’épidémie la plus meurtrière de l’histoire du pays",
       "desc": "Vendredi, 3 532 cas de la maladie à virus Ebola ont été confirmés dans cinq provinces du pays, selon les données publiées par les autorités congolaises. Parmi ces 3 532 cas, 1 556 personnes sont mortes.",
       "url": "https://www.lemonde.fr/afrique/article/2026/07/31/ebola-en-rdc-plus-de-3-500-cas-recenses-en-quelques-mois-plus-que-lors-de-l-epidemie-la-plus-meurtriere-de-l-histoire-du-pays_6737141_3212.html",
@@ -150,16 +150,6 @@
       "date": "2026-07-31T15:58:30+00:00",
       "date_formatted": "31 July 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Comme un ballon dans le ventre\" : après les Etats-Unis, le Royaume-Uni alerte contre une infection qui provoque une \"diarrhée explosive\"",
-      "desc": "Selon les derniers chiffres des autorités américaines, plus de 18 000 personnes dans 45 États différents ont contracté cette maladie.",
-      "url": "https://www.franceinfo.fr/sante/comme-un-ballon-dans-le-ventre-apres-les-etats-unis-la-grande-bretagne-alerte-contre-une-infection-qui-provoque-une-diarrhee-explosive_8130104.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Pn5hG3thk1m4hZasdX8Gg_p4w00/0x72:1024x648/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6ca163969e0340907357.jpg",
-      "date": "2026-07-31T15:47:09+00:00",
-      "date_formatted": "31 July 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -331,16 +321,6 @@
       "date_formatted": "28 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Le chromosome Y est-il menacé ? Voici la fascinante découverte qui pourrait tout changer",
-      "desc": "Le chromosome Y, porteur de l'identité masculine, s'efface progressivement. Cette disparition annonce-t-elle la fin de l'espèce humaine ? Une découverte récente chez les rats épineux du Japon offre une lueur d'espoir. Un nouveau gène sexuel pourrait-il assurer la pérennité de l'Homme ?",
-      "url": "https://www.futura-sciences.com/sante/actualites/chromosome-chromosome-y-il-menace-voici-fascinante-decouverte-pourrait-tout-changer-w2t8-136359/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/6/8/f68c8a6368_50258320_chromosome-y.jpg",
-      "date": "2026-07-28T08:00:00+00:00",
-      "date_formatted": "28 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Rougeole : face au risque d’encéphalites fatales, la vaccination à grande échelle est la seule option",
