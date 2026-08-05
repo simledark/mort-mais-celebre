@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-05T08:12:17.554712+00:00",
-  "count": 61,
+  "generated_at": "2026-08-05T13:30:19.667064+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "Mort de l’écrivain Didier Decoin, prix Goncourt en 1977 et président du jury entre 2020 et 2024",
+      "desc": "Fils du cinéaste Henri Decoin, celui qui était également scénariste avait été couronné par la célèbre distinction pour son roman «John l’Enfer». Il avait ensuite présidé l’Académie entre 2020 et 2024.",
+      "url": "https://www.liberation.fr/culture/mort-de-lecrivain-didier-decoin-prix-goncourt-en-1977-20260805_LM45YCOVWVH6BBU5DB74RMOAYA/",
+      "image": null,
+      "date": "2026-08-05T12:35:18+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire «Jean Pormanove» : les streamers Naruto et Safine condamnés à des peines de prison avec sursis",
+      "desc": "Le tribunal correctionnel de Nice a rendu, ce mercredi 5 août, sa décision concernant Owen Cenazandotti et Safine Hamadi pour les violences volontaires commises dans leurs lives aux concepts ultraviolents où Raphaël Graven est mort en direct en août 2025.",
+      "url": "https://www.liberation.fr/societe/police-justice/affaire-jean-pormanove-les-streamers-naruto-et-safine-bientot-fixes-sur-leur-sort-20260805_BFU2YRSU2RB3ZLLVXROOZVBN4U/",
+      "image": null,
+      "date": "2026-08-05T12:19:56+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Deux morts dans une épidémie de «diarrhées explosives» qui sévit aux Etats-Unis depuis mai",
+      "desc": "Des milliers de personnes à travers quasiment tout le pays sont touchées par une infection liée à un parasite, dont une partie a été reliée à une salade vendue dans le célèbre fast-food Taco Bell. Les cas mortels restent rares, précisent les autorités américaines.",
+      "url": "https://www.liberation.fr/societe/sante/deux-morts-dans-une-epidemie-de-diarrhees-explosives-qui-sevit-aux-etats-unis-depuis-mai-20260805_S3WY5O7MNVHHRAWSGXR74Y7FQI/",
+      "image": null,
+      "date": "2026-08-05T10:03:51+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Etats-Unis : Deux personnes décédées dans le Michigan, victimes de l’épidémie de « diarrhées explosives »",
+      "desc": "L’épidémie de cyclosporose surnommée « diarrhées explosives » a fait deux morts dans le Michigan aux Etats-Unis. L’épidémie aurait été causée par un parasite contenu dans de la laitue vendue par la chaîne de fast-food Taco Bell",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4237879-20260805-etats-unis-deux-personnes-decedees-michigan-victimes-epidemie-diarrhees-explosives?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/j4T8XrS4RjujZz2QV8nagCk/1200x768_les-deux-personnes-decedees",
+      "date": "2026-08-05T09:34:36+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "\"Comment peut-on empêcher deux personnes de s'aimer\" : après le suicide de Caroline Grandjean, sa compagne poursuit son combat",
       "desc": "Près d'un an après le suicide de Caroline Grandjean, victime de harcèlement homophobe dans le Cantal, Christine Grandjean-Paccoud dénonce les défaillances de l'Éducation nationale et attend toujours des avancées de la justice.",
@@ -13,36 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Autopsie, proches en garde à vue… Ce que l’on sait de la mort d’un enfant de deux ans dans un appartement à Marseille",
-      "desc": "La mère de 27 ans et son conjoint ont été placés en garde à vue, après la macabre découverte, dimanche 2 août, dans le XIVe arrondissement de la ville. Une information judiciaire a été ouverte pour «homicide volontaire sur mineur de 15 ans» contre X.",
-      "url": "https://www.liberation.fr/societe/police-justice/marseille-un-jeune-garcon-de-deux-ans-retrouve-mort-dans-un-appartement-ses-proches-en-garde-a-vue-20260804_XCD4BPSNUBFJRE4IAHJWI6IYQA/",
-      "image": null,
-      "date": "2026-08-05T07:08:04+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-08-05T06:54:39+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "15 morts dans des frappes russes sur Kyiv, la canicule reflue, Trump menace de nouveau l’Iran… L’actu de ce mercredi matin",
-      "desc": "La rédaction de «Libération» compile les principales infos du jour.",
-      "url": "https://www.liberation.fr/international/europe/15-morts-dans-des-frappes-russes-sur-kyiv-la-canicule-reflue-trump-menace-de-nouveau-liran-lactu-de-ce-mercredi-matin-20260805_TNTLGMCTN5FNLIAQCACHXDYPKI/",
-      "image": null,
-      "date": "2026-08-05T06:43:01+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "925 noyades en quelques semaines : pourquoi les fortes chaleurs rendent la baignade plus dangereuse",
       "desc": "Depuis le 1er mai, 925 noyades ont été recensées en France, dont 274 mortelles. Derrière cette hausse se dessine un phénomène inquiétant : pendant les canicules, la recherche de fraîcheur conduit davantage de personnes vers les piscines, les cours d’eau et les plans d’eau, parfois non surveillés...",
       "url": "https://www.futura-sciences.com/sante/actualites/accident-vie-925-noyades-quelques-semaines-fortes-chaleurs-rendent-baignade-plus-dangereuse-136650/#xtor%3DRSS-8",
@@ -51,16 +61,6 @@
       "date_formatted": "5 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Détention des médecins palestiniens par Israël : quand soigner devient un crime",
-      "desc": "Arrêté en 2024, le pédiatre Hussam Abu Safiya fait partie de la centaine de docteurs gazaouis détenus dans les geôles israéliennes. S’ils sont ciblés, c’est parce que chaque patient qu’ils ramènent à la stabilité, chaque blessé qu’ils arrachent à la mort, constitue une dérogation à la logique de dés",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/detention-des-medecins-palestiniens-par-israel-quand-soigner-devient-un-crime-20260805_WMKBJMDAYRGKLD5ZKQTMCNXYXA/",
-      "image": null,
-      "date": "2026-08-05T04:32:00+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "\"Les gens venaient me dire au revoir\" : le musicien Phil Collins raconte comment son alcoolisme l'a poussé aux portes de la mort en 2024",
@@ -313,26 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : Infecté en RDC, un second malade américain guéri du virus en Allemagne",
-      "desc": "Ce patient vient de quitter l’hôpital de Francfort ; il est « complètement guéri et ne présente plus aucun symptôme »",
-      "url": "https://www.20minutes.fr/monde/allemagne/4236727-20260728-ebola-infecte-rdc-second-malade-americain-gueri-virus-allemagne?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Qta3LX7nSFuwp4aLr4S0JCk/1200x768_260706-bunia-6-juillet-2026-xinhua-des-travailleurs-medicaux-effectuent-des-travaux-de-desinfection-dans-un-centre-de-traitement-d-ebola-a-bunia-la-capitale-de-la-province-de-l-ituri-en-republique-democratique-du-congo-le-6-juillet-2026-le-bilan-de-la-derniere-epidemie-d-ebola-en-republique-democratique-du-congo-a-depasse-les-500-morts-selon-un-rapport-publie-dimanche-par-les-autorites-sanitaires-du-pays-xinhua-xin-huashefa-chine-nouvelle-cmxztpe000063-20260707-pepfn0a001-credit-chine-nouvelle-sipa-2607070750",
-      "date": "2026-07-28T14:19:54+00:00",
-      "date_formatted": "28 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Talc et cancer : Johnson & Johnson propose 5,5 milliards de dollars pour clore la bataille judiciaire",
-      "desc": "Johnson & Johnson a annoncé être prête à payer 5,5 milliards de dollars pour régler 76.000 plaintes liées à des produits à base de talc accusés de provoquer des cancers ovariens",
-      "url": "https://www.20minutes.fr/sante/4236638-20260728-talc-cancer-johnson-johnson-propose-5-5-milliards-dollars-clore-bataille-judiciaire?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ET98pdYkTyOrtzQ5jovAfyk/1200x768_credit-obligatoire-photo-de-steve-cho-kyewoong-penta-press-shutterstock-15290415az-le-stand-johnson-johnson-sera-presente-lors-du-salon-bio-korea-2025-au-coex-a-seoul-en-coree-du-sud-le-7-mai-2025-la-20e-convention-internationale-bio-korea-est-un-evenement-mondial-de-biosante-proposant-des-partenariats-commerciaux-des-expositions-des-conferences-et-des-salons-d-investissement-2025-bio-korea-seoul-coree-du-sud-07-mai-2025-shutterstock-editorial-2025-bio-korea-seoul-south-ko-15290415az-2505081930",
-      "date": "2026-07-28T08:42:37+00:00",
-      "date_formatted": "28 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Rougeole : face au risque d’encéphalites fatales, la vaccination à grande échelle est la seule option",
       "desc": "Une équipe française décrit le cas d’un homme de 21 ans mort de cette infection, le virus ayant attaqué les cellules de son cerveau. Un plaidoyer pour une vaccination altruiste, alors que ce jeune homme ne pouvait pas être vacciné.",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/28/rougeole-face-au-risque-d-encephalites-fatales-la-vaccination-a-grande-echelle-est-la-seule-option_6734599_1650684.html",
@@ -380,16 +360,6 @@
       "date": "2026-07-26T12:00:00+00:00",
       "date_formatted": "26 July 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Au Musée d’art et d’histoire Paul-Eluard de Saint-Denis, une exposition remonte l’histoire des pratiques et croyances de guérison",
-      "desc": "Présentée dans l’ancien carmel dyonisien, « Croire et guérir » réunit des œuvres, documents et objets illustrant l’évolution et la diversité des réponses apportées à la maladie, fondées sur la science, les traditions populaires ou la foi.",
-      "url": "https://www.lemonde.fr/culture/article/2026/07/26/au-musee-d-art-et-d-histoire-paul-eluard-de-saint-denis-une-exposition-remonte-l-histoire-des-pratiques-et-croyances-de-guerison_6732760_3246.html",
-      "image": "https://img.lemde.fr/2026/07/15/2413/0/4024/2012/644/322/60/0/86ba433_upload-1-w5yic5xwjpek-apothicairerie-de-saint-denis-musee-paul-eluard-sabine-le-ne-chet.JPG",
-      "date": "2026-07-26T06:00:11+00:00",
-      "date_formatted": "26 July 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
