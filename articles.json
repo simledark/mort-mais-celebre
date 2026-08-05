@@ -1,33 +1,63 @@
 {
-  "generated_at": "2026-08-05T13:30:19.667064+00:00",
-  "count": 58,
+  "generated_at": "2026-08-05T19:09:46.907929+00:00",
+  "count": 59,
   "articles": [
     {
-      "title": "Mort de l’écrivain Didier Decoin, prix Goncourt en 1977 et président du jury entre 2020 et 2024",
+      "title": "Chikungunya, dengue, virus du Nil… De nouveaux cas identifiés dans le sud de la France",
+      "desc": "De nouveaux cas autochtones de chikungunya, de dengue et de virus du Nil occidental ont été recensés dans le sud de la France. Santé publique France appelle à une vigilance renforcée",
+      "url": "https://www.20minutes.fr/sante/4237995-20260805-chikungunya-dengue-virus-nil-nouveaux-cas-identifies-sud-france?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/twxQ46VxRxee2rtwUN_9lCk/1200x768_le-moustique-tigre-aedes-albopictus-est-present-et-actif-dans-les-8-departements-de-la-region-ile-de-france-il-est-suivi-de-pres-par-l-agence-regionale-de-sante-car-il-peut-transmettre-des-virus-comme-la-dengue-le-chikungunya-et-le-zika-paris-france-30-07-2026-meigneux-meigneux-01-credit-romuald-meigneux-sipa-2607301136",
+      "date": "2026-08-05T18:53:54+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Carrefour : Daniel Bernard, ex-PDG de l’entreprise, est mort à 80 ans",
+      "desc": "Celui qui était aux commandes du géant de la grande distribution entre 1998 et 2005 a disparu dans la nuit du 4 au 5 août des suites d’une longue maladie.",
+      "url": "https://www.liberation.fr/economie/conso/carrefour-daniel-bernard-ex-pdg-de-lentreprise-est-mort-a-80-ans-20260805_QGWISJFQUZHVDBIJNWHLYPPW3Y/",
+      "image": null,
+      "date": "2026-08-05T16:48:46+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Santé : pour la création d’une mutuelle complémentaire gérée par la Sécurité sociale",
+      "desc": "Alors que la ministre de la Santé, Stéphanie Rist, a annoncé un doublement du plafond des franchises médicales, un collectif de professionnels de santé propose la création d’une mutuelle complémentaire conforme au principe républicain d’égalité face à la maladie.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/sante-pour-la-creation-dune-mutuelle-complementaire-geree-par-la-securite-sociale-20260805_GHX7SAY57RB45JRRPYBSVAONQU/",
+      "image": null,
+      "date": "2026-08-05T16:38:38+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Du mieux dans les incendies, un fondateur de la DZ Mafia arrêté en Algérie, mort de Didier Decoin… L’actu de ce mercredi 5 août",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 5 août 2026.",
+      "url": "https://www.liberation.fr/international/europe/du-mieux-dans-les-incendies-un-fondateur-de-la-dz-mafia-arrete-en-algerie-mort-de-didier-decoin-lactu-de-ce-mercredi-5-aout-20260805_XCWKYDKJYNCS7CO2A7Q3C6BCLY/",
+      "image": null,
+      "date": "2026-08-05T16:17:40+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de l’écrivain Didier Decoin, prix Goncourt en 1977 et président du jury entre 2020 et 2024",
       "desc": "Fils du cinéaste Henri Decoin, celui qui était également scénariste avait été couronné par la célèbre distinction pour son roman «John l’Enfer». Il avait ensuite présidé l’Académie entre 2020 et 2024.",
       "url": "https://www.liberation.fr/culture/mort-de-lecrivain-didier-decoin-prix-goncourt-en-1977-20260805_LM45YCOVWVH6BBU5DB74RMOAYA/",
       "image": null,
-      "date": "2026-08-05T12:35:18+00:00",
+      "date": "2026-08-05T16:16:02+00:00",
       "date_formatted": "5 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Affaire «Jean Pormanove» : les streamers Naruto et Safine condamnés à des peines de prison avec sursis",
-      "desc": "Le tribunal correctionnel de Nice a rendu, ce mercredi 5 août, sa décision concernant Owen Cenazandotti et Safine Hamadi pour les violences volontaires commises dans leurs lives aux concepts ultraviolents où Raphaël Graven est mort en direct en août 2025.",
-      "url": "https://www.liberation.fr/societe/police-justice/affaire-jean-pormanove-les-streamers-naruto-et-safine-bientot-fixes-sur-leur-sort-20260805_BFU2YRSU2RB3ZLLVXROOZVBN4U/",
+      "title": "Présidentielle 2027 : Gabriel Attal visé à son tour par «une ingérence en provenance de Russie»",
+      "desc": "Des faux reportages usurpant l’identité de plusieurs médias dont «Libération» affirment que le président de Renaissance présente «des signes de la maladie de Parkinson» ou plaide pour une politique plus favorable à l’égard des squatteurs de logements vides.",
+      "url": "https://www.liberation.fr/politique/presidentielle-2027-gabriel-attal-vise-a-son-tour-par-une-ingerence-en-provenance-de-russie-20260805_3ADS475V65E3JCJA2C7SXECSZY/",
       "image": null,
-      "date": "2026-08-05T12:19:56+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Deux morts dans une épidémie de «diarrhées explosives» qui sévit aux Etats-Unis depuis mai",
-      "desc": "Des milliers de personnes à travers quasiment tout le pays sont touchées par une infection liée à un parasite, dont une partie a été reliée à une salade vendue dans le célèbre fast-food Taco Bell. Les cas mortels restent rares, précisent les autorités américaines.",
-      "url": "https://www.liberation.fr/societe/sante/deux-morts-dans-une-epidemie-de-diarrhees-explosives-qui-sevit-aux-etats-unis-depuis-mai-20260805_S3WY5O7MNVHHRAWSGXR74Y7FQI/",
-      "image": null,
-      "date": "2026-08-05T10:03:51+00:00",
+      "date": "2026-08-05T16:15:09+00:00",
       "date_formatted": "5 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -263,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Pourquoi le cancer ne frappe pas tout le monde de la même façon ? Une découverte majeure éclaire le rôle de nos gènes",
-      "desc": "Pourquoi l’exposition à un facteur de risque de cancer entraîne une maladie chez certains et pas chez d’autres ? Une étude publiée dans Nature apporte un nouvel éclairage sur cette énigme en révélant un mécanisme jusqu’ici insoupçonné. Une découverte qui pourrait à terme,transformer la...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-ne-frappe-pas-tout-monde-meme-facon-decouverte-majeure-eclaire-role-nos-genes-136608/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/c/7ac025b29e_50258771_genetique-cancer.jpg",
-      "date": "2026-07-30T06:08:49+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ils ont des lésions d’Alzheimer mais pas de démence : des chercheurs ont découvert pourquoi",
       "desc": "Près de 1,5 million de personnes sont atteintes de la maladie d’Alzheimer et de maladies apparentées en France. Une nouvelle étude révèle pourquoi certains cerveaux semblent résister aux lésions de la maladie et conserver leurs capacités cognitives.",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-ils-ont-lesions-alzheimer-mais-pas-demence-chercheurs-ont-decouvert-136615/#xtor%3DRSS-8",
@@ -299,16 +319,6 @@
       "image": "https://img.20mn.fr/duBTTGZMTyGSDdWjUyFlbik/1200x768_credit-obligatoire-photo-d-eric-renom-la-presse-shutterstock-14594712o-une-autre-consequence-en-catalogne-de-l-erreur-informatique-dans-le-programme-crowdstrike-a-ete-des-problemes-dans-les-services-d-urgence-et-dans-certains-centres-de-sante-otra-de-las-consecuencias-en-cataluna-del-error-informatico-del-programa-crowdstrike-ha-sido-los-problemas-en-los-servicios-de-emergencias-y-algunos-centros-sanitarios-news-cronaca-barcelone-espagne-vendredi-19-juillet-2024-crowdstrike-affecte-egalement-le-systeme-d-urgence-catalan-barcelone-espagne-19-juillet-2024-shutterstock-editorial-crowdstrike-also-affects-the-c-14594712o-2407191855",
       "date": "2026-07-29T14:22:36+00:00",
       "date_formatted": "29 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Médicaments génériques : La Sécu fera 24 millions d’euros d’économies en 2027 après des baisses de prix",
-      "desc": "Les baisses de prix de plusieurs médicaments génériques permettront de réaliser environ 24 millions d’euros d’économies pour l’Assurance maladie en 2027. Ces nouveaux tarifs entreront en vigueur le 1er janvier",
-      "url": "https://www.20minutes.fr/sante/4236772-20260728-medicaments-generiques-secu-fera-24-millions-euros-economies-2027-apres-baisses-prix?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/AJqFDOOOQESSdClQ6NKHjyk/1200x768_illustration-photographique-medicaments-07alli-images-dsc-2710-credit-mourad-allili-sipa-2602111250",
-      "date": "2026-07-28T19:41:06+00:00",
-      "date_formatted": "28 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
     },
