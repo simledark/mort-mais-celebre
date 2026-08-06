@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-05T19:09:46.907929+00:00",
-  "count": 59,
+  "generated_at": "2026-08-06T01:18:21.301891+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Chikungunya, dengue, West Nile… De nouveaux cas autochtones identifiés dans le sud de la France",
+      "desc": "Santé publique France a recensé plusieurs cas de maladies transmises par des moustiques sur le territoire français. Jusqu’à présent, les cas étaient importés par des personnes ayant voyagé dans des régions où ces virus circulent.",
+      "url": "https://www.liberation.fr/societe/sante/chikungunya-dengue-west-nile-de-nouveaux-cas-autochtones-identifies-dans-le-sud-de-la-france-20260805_VFDFJOOTXZBN5IVKTUQNOTWWAE/",
+      "image": null,
+      "date": "2026-08-05T21:19:41+00:00",
+      "date_formatted": "5 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Chikungunya, dengue, virus du Nil… De nouveaux cas identifiés dans le sud de la France",
       "desc": "De nouveaux cas autochtones de chikungunya, de dengue et de virus du Nil occidental ont été recensés dans le sud de la France. Santé publique France appelle à une vigilance renforcée",
@@ -28,36 +38,6 @@
       "url": "https://www.liberation.fr/idees-et-debats/tribunes/sante-pour-la-creation-dune-mutuelle-complementaire-geree-par-la-securite-sociale-20260805_GHX7SAY57RB45JRRPYBSVAONQU/",
       "image": null,
       "date": "2026-08-05T16:38:38+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Du mieux dans les incendies, un fondateur de la DZ Mafia arrêté en Algérie, mort de Didier Decoin… L’actu de ce mercredi 5 août",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 5 août 2026.",
-      "url": "https://www.liberation.fr/international/europe/du-mieux-dans-les-incendies-un-fondateur-de-la-dz-mafia-arrete-en-algerie-mort-de-didier-decoin-lactu-de-ce-mercredi-5-aout-20260805_XCWKYDKJYNCS7CO2A7Q3C6BCLY/",
-      "image": null,
-      "date": "2026-08-05T16:17:40+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de l’écrivain Didier Decoin, prix Goncourt en 1977 et président du jury entre 2020 et 2024",
-      "desc": "Fils du cinéaste Henri Decoin, celui qui était également scénariste avait été couronné par la célèbre distinction pour son roman «John l’Enfer». Il avait ensuite présidé l’Académie entre 2020 et 2024.",
-      "url": "https://www.liberation.fr/culture/mort-de-lecrivain-didier-decoin-prix-goncourt-en-1977-20260805_LM45YCOVWVH6BBU5DB74RMOAYA/",
-      "image": null,
-      "date": "2026-08-05T16:16:02+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Présidentielle 2027 : Gabriel Attal visé à son tour par «une ingérence en provenance de Russie»",
-      "desc": "Des faux reportages usurpant l’identité de plusieurs médias dont «Libération» affirment que le président de Renaissance présente «des signes de la maladie de Parkinson» ou plaide pour une politique plus favorable à l’égard des squatteurs de logements vides.",
-      "url": "https://www.liberation.fr/politique/presidentielle-2027-gabriel-attal-vise-a-son-tour-par-une-ingerence-en-provenance-de-russie-20260805_3ADS475V65E3JCJA2C7SXECSZY/",
-      "image": null,
-      "date": "2026-08-05T16:15:09+00:00",
       "date_formatted": "5 August 2026",
       "source": "Libération",
       "type": "presse"
