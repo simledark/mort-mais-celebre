@@ -1,46 +1,36 @@
 {
-  "generated_at": "2026-08-06T08:10:53.442503+00:00",
-  "count": 57,
+  "generated_at": "2026-08-06T13:29:19.282072+00:00",
+  "count": 54,
   "articles": [
     {
-      "title": "Mort de deux réservistes israéliens, les excuses de la Fifa, dernier espoir pour Duralex… L’actu de ce jeudi 6 août au matin",
-      "desc": "La rédaction de «Libération» compile les principales infos du jour",
-      "url": "https://www.liberation.fr/international/europe/mort-de-deux-reservistes-israeliens-les-excuses-de-la-fifa-dernier-espoir-pour-duralex-lactu-de-ce-jeudi-6-aout-au-matin-20260806_3XXNLDKDPBD6LCDXDJIPOFHNYQ/",
+      "title": "Enfin une nouvelle piste : modifier le microbiote pourrait rendre certains traitements contre le cancer plus efficaces",
+      "desc": "Et s’il était possible de rendre les chimiothérapies plus efficaces en agissant sur la flore intestinale ? C’est ce que suggèrent des chercheurs dont les travaux ont été publiés dans la revue Nature Materials.",
+      "url": "https://www.futura-sciences.com/sante/actualites/microbiotes-enfin-nouvelle-piste-modifier-microbiote-pourrait-rendre-certains-traitements-cancer-plus-efficaces-136718/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/2/8/d289b58f53_50259060_2-microbiote-bacteries.jpg",
+      "date": "2026-08-06T11:31:59+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "«Les escargots sèchent sur place» : entre canicules à répétition et manque d’eau, les mollusques en bavent",
+      "desc": "Dans les élevages de Bourgogne et de l’est du pays, les gastéropodes manquent de verdure pour se cacher et la chaleur leur coupe la faim. Les producteurs font déjà face à une mortalité record et craignent, pour certains, de devoir mettre la clé sous la porte.",
+      "url": "https://www.liberation.fr/environnement/agriculture/les-escargots-sechent-sur-place-entre-canicules-a-repetition-et-manque-deau-les-mollusques-en-bavent-20260806_MPNXSDHLSREPVIDPFD47ETJI5M/",
       "image": null,
-      "date": "2026-08-06T06:57:44+00:00",
+      "date": "2026-08-06T10:48:25+00:00",
       "date_formatted": "6 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-08-06T06:57:27+00:00",
+      "title": "Mortalité infantile : La situation se dégrade en France",
+      "desc": "La mortalité infantile continue de progresser en France, plaçant le pays parmi les mauvais élèves européens. Révélé par Le Canard enchaîné, un rapport de l’Inspection générale des affaires sociales (Igas), qui n’avait pas été rendu public jusqu’ici, propose plusieurs pistes pour enrayer cette dégrad",
+      "url": "https://www.sciencesetavenir.fr/sante/derriere-la-hausse-de-la-mortalite-infantile-un-rapport-pointe-des-causes-multiples_194137?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2025/05/13/cover-r4x3w1200-6a744da29192a-4bd13985eca0918bb51ea99138575cae3576a570-jpg.jpg",
+      "date": "2026-08-06T08:55:37+00:00",
       "date_formatted": "6 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«On leur montre qu’elles ne sont pas seules avec leurs problèmes» : à Lyon, une consultation pionnière pour les femmes à l’âge de la ménopause",
-      "desc": "Bouffées de chaleur, sueurs nocturnes, insomnie ou douleurs articulaires : les Hospices civils lyonnais ont ouvert en 2025 un centre de prise en charge des symptômes sévères qui affectent près d’un quart des femmes à l’approche ou lors de l’arrêt de l’ovulation.",
-      "url": "https://www.liberation.fr/societe/sante/on-leur-montre-quelles-ne-sont-pas-seules-avec-leurs-problemes-a-lyon-une-consultation-pionniere-pour-les-femmes-a-lage-de-la-menopause-20260806_3UKR62TULZDCRLVRK5NYSH5MTQ/",
-      "image": null,
-      "date": "2026-08-06T06:11:00+00:00",
-      "date_formatted": "6 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Chikungunya, dengue, West Nile… De nouveaux cas autochtones identifiés dans le sud de la France",
-      "desc": "Santé publique France a recensé plusieurs cas de maladies transmises par des moustiques sur le territoire français. Jusqu’à présent, les cas étaient importés par des personnes ayant voyagé dans des régions où ces virus circulent.",
-      "url": "https://www.liberation.fr/societe/sante/chikungunya-dengue-west-nile-de-nouveaux-cas-autochtones-identifies-dans-le-sud-de-la-france-20260805_VFDFJOOTXZBN5IVKTUQNOTWWAE/",
-      "image": null,
-      "date": "2026-08-05T21:19:41+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Chikungunya, dengue, virus du Nil… De nouveaux cas identifiés dans le sud de la France",
@@ -63,10 +53,10 @@
       "type": "presse"
     },
     {
-      "title": "\"Comment peut-on empêcher deux personnes de s'aimer\" : après le suicide de Caroline Grandjean, sa compagne poursuit son combat",
+      "title": "\"Comment peut-on empêcher deux personnes de s'aimer ?\" : après le suicide de Caroline Grandjean, sa compagne poursuit son combat",
       "desc": "Près d'un an après le suicide de Caroline Grandjean, victime de harcèlement homophobe dans le Cantal, Christine Grandjean-Paccoud dénonce les défaillances de l'Éducation nationale et attend toujours des avancées de la justice.",
       "url": "https://www.franceinfo.fr/replay-radio/ils-ont-fait-l-actu/comment-peut-on-empecher-deux-personnes-de-s-aimer-apres-le-suicide-de-caroline-grandjean-sa-compagne-poursuit-son-combat_8069723.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/q8FuOWfOzKBYGxXQHovYu96wMOw/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/08/05/6a72d9f768106029191729.png",
+      "image": "https://www.franceinfo.fr/pictures/AeR14i95ELs8hZylx_ZI1S0wPxw/0x300:1600x1200/432x243/filters:format(jpg):quality(50)/2026/08/06/6a744866e16f7400764284.jpg",
       "date": "2026-08-05T08:48:35+00:00",
       "date_formatted": "5 August 2026",
       "source": "France Info Santé",
@@ -273,16 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "Ils ont des lésions d’Alzheimer mais pas de démence : des chercheurs ont découvert pourquoi",
-      "desc": "Près de 1,5 million de personnes sont atteintes de la maladie d’Alzheimer et de maladies apparentées en France. Une nouvelle étude révèle pourquoi certains cerveaux semblent résister aux lésions de la maladie et conserver leurs capacités cognitives.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-ils-ont-lesions-alzheimer-mais-pas-demence-chercheurs-ont-decouvert-136615/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/8/2/e8258805d5_50258835_alzheimer-cerveau.jpg",
-      "date": "2026-07-30T06:03:59+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "En Chine, la mort cachée de « Mei », une fillette de 6 ans, après une thérapie génique soulève de nombreuses questions",
       "desc": "Atteinte d’une maladie non létale, l’enfant avait été traitée en 2025 par une thérapie génique expérimentale, révèle une enquête de la revue « Science ».",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
@@ -439,16 +419,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/20/cover-r4x3w1200-6a5dc619f27c5-taco.jpg",
       "date": "2026-07-20T07:12:32+00:00",
       "date_formatted": "20 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Et si on guérissait tous les cancers",
-      "desc": "Le cancer est aujourd'hui la première cause de mortalité en France, avec 162 000 décès annuels. Mais si cette maladie devenait totalement guérissable, les conséquences sanitaires, économiques et sociales pourraient bien être tout aussi importantes que cette révolution médicale elle-même !",
-      "url": "https://www.sciencesetavenir.fr/sante/on-guerissait-tous-les-cancers_193233?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/18/cover-r4x3w1200-6a3d1f8c38653-12956-726537-k2-k1-1727285-jpg.jpg",
-      "date": "2026-07-18T12:00:00+00:00",
-      "date_formatted": "18 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
