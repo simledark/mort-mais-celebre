@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-08-06T13:29:19.282072+00:00",
-  "count": 54,
+  "generated_at": "2026-08-06T23:46:12.040447+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Hantavirus : un touriste Franco-Argentin testé positif",
+      "desc": "Le ministère de la Santé a annoncé ce jeudi 6 août la détection d'un nouveau cas importé de hantavirus. Il s'agit d'un voyageur franco-argentin qui a traversé la Normandie et l'Île-de-France durant la seconde moitié de juillet, avant d'être testé positif.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-touriste-franco-argentin-teste-positif_8137607.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/wS4SF2GHY1q1LssgdW9eQJF75Ck/0x1:1378x777/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74d28c406a8991684211.jpg",
+      "date": "2026-08-06T23:34:47+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : un touriste de passage en France testé positif",
+      "desc": "Les autorités sanitaires ont été informées d'un cas d'hantavirus sur le territoire français. Le patient concerné, \"isolé avec sa famille en Espagne, est une personne en voyage touristique qui a transité en France la deuxième quinzaine du mois\", a annoncé le ministère de la Santé.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-touriste-de-passage-en-france-teste-positif_8137643.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/vZpZizVOPQWovCDmPpNt-sLoD3A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/06/6a74da1e62cfe921426028.jpg",
+      "date": "2026-08-06T22:00:01+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation",
+      "desc": "Cette retraitée rapatriée en mai dans un état grave a été \"transférée dans un centre de convalescence\", a précisé jeudi le ministère.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-francaise-contaminee-a-l-hantavirus-au-printemps-sur-le-mv-hondius-est-sortie-de-reanimation_8137370.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1C1PaYMECQaP1XoxM6JsDVI3SCY/0x625:6000x4000/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74aa3348556886820555.jpg",
+      "date": "2026-08-06T17:38:47+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet",
+      "desc": "Des analyses ont confirmé ce jeudi 6 août que l’individu, qui est passé par l’Ile-de-France, la Normandie et la Nouvelle-Aquitaine a été infecté par la souche Andes, la même que celle du navire «MV Hondius». Les autorités sanitaires hexagonales sont en train d’établir les mesures à mettre en place.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-un-patient-positif-isole-en-espagne-a-transite-en-france-fin-juillet-20260806_4D46O3MR7BH47AQ4L7NYTIVVQ4/",
+      "image": null,
+      "date": "2026-08-06T17:20:55+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé",
+      "desc": "Le patient n'a eu que peu de symptômes et n'en présente plus. \"A ce stade, nous ne sommes pas face à un virus présentant une circulation diffuse dans la population\", a affirmé le ministère.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/un-cas-d-hantavirus-detecte-chez-un-touriste-ayant-sejourne-en-france-en-juillet-annonce-le-ministere-de-la-sante_8137283.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/lTwKUnZ7oDaZECIDsfUyjWwOSts/0x41:7490x4254/432x243/filters:format(jpg):quality(50)/2026/08/06/6a7496727f76e122429562.jpg",
+      "date": "2026-08-06T16:24:47+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Incendies, hantavirus, crise à la Fifa… L’actu de ce jeudi 6 août",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du jeudi 6 août 2026.",
+      "url": "https://www.liberation.fr/international/europe/incendies-hantavirus-crise-a-la-fifa-lactu-de-ce-jeudi-6-aout-20260806_EFSYORKSFZFWBIIIFTE5KZSDHU/",
+      "image": null,
+      "date": "2026-08-06T16:12:50+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : La Française contaminée au printemps sur le MV Hondius est sortie de réanimation",
+      "desc": "La seule Française contaminée par le hantavirus lors de l’épidémie sur le navire MV Hondius est sortie de réanimation après presque trois mois d’hospitalisation dans un établissement parisien et a été transférée dans un centre de convalescence",
+      "url": "https://www.20minutes.fr/sante/4238126-20260806-hantavirus-francaise-contaminee-printemps-mv-hondius-sortie-reanimation?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/m-dPgW8bRA2w6myPi58quik/1200x768_des-personnes-protegees-transportent-des-objets-non-identifies-alors-qu-elles-debarquent-du-navire-de-croisiere-mv-hondius-apres-son-arrivee-au-port-de-rotterdam-aux-pays-bas-le-lundi-18-mai-2026-ap-photo-patrick-post-xvm189-26138509178998-2605181611",
+      "date": "2026-08-06T16:08:31+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Tristan, ou comment la mort de l’auteur de «Bonne, bonne humeur ce matin» rappelle que la vie punk est pleine de rebondissements",
+      "desc": "Sous ce pseudo-prénom, il y avait Tristam Nada, chanteur des Guilty Razors un des premiers et meilleurs groupes punks français. Il est mort mercredi 5 août à l’âge de 68 ans.",
+      "url": "https://www.liberation.fr/culture/musique/tristan-ou-comment-la-mort-de-lauteur-de-bonne-bonne-humeur-ce-matin-rappelle-que-la-vie-punk-est-pleine-de-rebondissements-20260806_QHNAB5I7GJF7PKHOPXJ2VSZM6Y/",
+      "image": null,
+      "date": "2026-08-06T16:00:30+00:00",
+      "date_formatted": "6 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Enfin une nouvelle piste : modifier le microbiote pourrait rendre certains traitements contre le cancer plus efficaces",
       "desc": "Et s’il était possible de rendre les chimiothérapies plus efficaces en agissant sur la flore intestinale ? C’est ce que suggèrent des chercheurs dont les travaux ont été publiés dans la revue Nature Materials.",
@@ -11,16 +91,6 @@
       "date_formatted": "6 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«Les escargots sèchent sur place» : entre canicules à répétition et manque d’eau, les mollusques en bavent",
-      "desc": "Dans les élevages de Bourgogne et de l’est du pays, les gastéropodes manquent de verdure pour se cacher et la chaleur leur coupe la faim. Les producteurs font déjà face à une mortalité record et craignent, pour certains, de devoir mettre la clé sous la porte.",
-      "url": "https://www.liberation.fr/environnement/agriculture/les-escargots-sechent-sur-place-entre-canicules-a-repetition-et-manque-deau-les-mollusques-en-bavent-20260806_MPNXSDHLSREPVIDPFD47ETJI5M/",
-      "image": null,
-      "date": "2026-08-06T10:48:25+00:00",
-      "date_formatted": "6 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Mortalité infantile : La situation se dégrade en France",
@@ -73,16 +143,6 @@
       "type": "science"
     },
     {
-      "title": "\"Les gens venaient me dire au revoir\" : le musicien Phil Collins raconte comment son alcoolisme l'a poussé aux portes de la mort en 2024",
-      "desc": "Dans un long entretien accordé au \"Sunday Times\", le Britannique âgé de 75 ans évoque son addiction \"tardive\" à l'alcool.",
-      "url": "https://www.franceinfo.fr/culture/musique/rock/les-gens-venaient-dire-au-revoir-le-musicien-phil-collins-raconte-comment-son-alcoolisme-l-a-pousse-aux-portes-de-la-mort-en-2024_8134229.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/EZYBWQtGxR-j2niEciCS16RH94g/0x0:2849x1602/432x243/filters:format(jpg):quality(50)/2026/08/04/6a71b6c78b5f3274135127.jpg",
-      "date": "2026-08-04T14:20:51+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs",
       "desc": "Et si la mode du « toujours plus de protéines » n’était pas aussi bonne pour la santé qu’on le pense ? Des chercheurs révèlent pourquoi lever le pied pourrait aider notre organisme à mieux vieillir.",
       "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-trop-proteines-pourrait-nuire-vieillissement-bonne-sante-avertissent-chercheurs-136714/#xtor%3DRSS-8",
@@ -91,36 +151,6 @@
       "date_formatted": "4 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "\"On voit uniquement les médecins et les infirmières une dizaine de minutes par jour\", témoigne un couple qui a été placé en quarantaine stricte",
-      "desc": "En mai 2026, Julia et Roland Seitre font partie des passagers du navire de croisière MV Hondius touché par des cas d'hantavirus. Après trois décès à bord et une vague d'inquiétude mondiale, ils sont placés en quarantaine stricte pendant 42 jours à l'hôpital Bichat. Quelques mois plus tard, le couple",
-      "url": "https://www.franceinfo.fr/replay-radio/ils-ont-fait-l-actu/on-voit-uniquement-les-medecins-et-les-infirmieres-une-dizaine-de-minutes-par-jour-temoigne-un-couple-qui-a-ete-place-en-quarantaine-stricte_8069729.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/pYCLxSctEQ6Q2P9hrrlO588c3T4/0x391:7490x4605/432x243/filters:format(jpg):quality(50)/2026/08/04/6a71a5d86b21a536325513.jpg",
-      "date": "2026-08-04T11:21:51+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Aux Etats-Unis, l'épidémie de \"diarrhées explosives\" fait deux premiers morts",
-      "desc": "Deux personnes sont mortes dans l'Etat du Michigan après avoir contracté la cyclosporose. Les Etats-Unis sont en proie à une épidémie de cette infection intestinale, généralement non mortelle.",
-      "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-epidemie-de-diarrhees-explosives-fait-de-premiers-morts_8134064.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/HOxQiMBaIqaaXYKd7SuZiwG_b58/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/04/6a719a1f1f328322795839.jpg",
-      "date": "2026-08-04T10:23:05+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La cellule d'urgence médico-psychologique de Gironde appelle \"les parents des 300 enfants du Porge à venir les voir\"",
-      "desc": "Au Porge, 183 maisons ont été détruites par les flammes qui ont ravagé la région depuis le 22 juillet. Après ce genre d'événements, les symptômes de stress post-traumatique sont courants, alerte le responsable de la cellule.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/la-cellule-d-urgence-medico-psychologique-de-gironde-appelle-les-parents-des-300-enfants-du-porge-a-venir-les-voir_8133962.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/rm0jZOt_O6bexoetCnB3JQTR6ds/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/04/6a717f1d7fa61013563979.jpg",
-      "date": "2026-08-04T08:47:38+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "30 minutes au soleil suffisent à bouleverser les bactéries de votre peau : faut-il s’inquiéter ?",
@@ -269,26 +299,6 @@
       "image": "https://img.lemde.fr/2026/07/29/239/0/3000/1500/644/322/60/0/d9ae733_upload-1-ijriqqfxewhp-051-xxjpbee000864-20151017-tppfn0a001.jpg",
       "date": "2026-07-30T05:30:02+00:00",
       "date_formatted": "30 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Espagne : Faute de médecin, une femme meurt d’un arrêt cardiaque dans l’ambulance qui la transporte",
-      "desc": "Le décès d’une femme dans une ambulance en Espagne a relancé le débat sur la pénurie de médecins dans les provinces catalanes",
-      "url": "https://www.20minutes.fr/monde/4236891-20260729-espagne-faute-medecin-femme-meurt-arret-cardiaque-ambulance-transporte?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/duBTTGZMTyGSDdWjUyFlbik/1200x768_credit-obligatoire-photo-d-eric-renom-la-presse-shutterstock-14594712o-une-autre-consequence-en-catalogne-de-l-erreur-informatique-dans-le-programme-crowdstrike-a-ete-des-problemes-dans-les-services-d-urgence-et-dans-certains-centres-de-sante-otra-de-las-consecuencias-en-cataluna-del-error-informatico-del-programa-crowdstrike-ha-sido-los-problemas-en-los-servicios-de-emergencias-y-algunos-centros-sanitarios-news-cronaca-barcelone-espagne-vendredi-19-juillet-2024-crowdstrike-affecte-egalement-le-systeme-d-urgence-catalan-barcelone-espagne-19-juillet-2024-shutterstock-editorial-crowdstrike-also-affects-the-c-14594712o-2407191855",
-      "date": "2026-07-29T14:22:36+00:00",
-      "date_formatted": "29 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Rougeole : face au risque d’encéphalites fatales, la vaccination à grande échelle est la seule option",
-      "desc": "Une équipe française décrit le cas d’un homme de 21 ans mort de cette infection, le virus ayant attaqué les cellules de son cerveau. Un plaidoyer pour une vaccination altruiste, alors que ce jeune homme ne pouvait pas être vacciné.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/28/rougeole-face-au-risque-d-encephalites-fatales-la-vaccination-a-grande-echelle-est-la-seule-option_6734599_1650684.html",
-      "image": "https://img.lemde.fr/2026/07/23/458/0/5500/2750/644/322/60/0/30707be_upload-1-xxcahvmsztxe-2026-02-09t025522z-653904131-rc2mhjab0dg7-rtrmadp-3-mexico-health-measles.JPG",
-      "date": "2026-07-28T06:00:18+00:00",
-      "date_formatted": "28 July 2026",
       "source": "Le Monde Science",
       "type": "science"
     },
