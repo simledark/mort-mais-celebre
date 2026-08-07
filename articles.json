@@ -1,26 +1,96 @@
 {
-  "generated_at": "2026-08-07T12:35:37.242200+00:00",
-  "count": 58,
+  "generated_at": "2026-08-07T18:36:27.133437+00:00",
+  "count": 59,
   "articles": [
     {
-      "title": "Un adolescent armé d’un pistolet tue 7 personnes, dont 5 dans un lycée près de Bangkok en Thaïlande",
-      "desc": "Le tireur, âgé de 14 ans, a d’abord tué ses grands-parents avant de se rendre dans son établissement scolaire où il a abattu cinq personnes, deux enseignants et trois membres de l’encadrement scolaire. Il est mort dans des circonstances encore à préciser.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/un-adolescent-arme-dun-pistolet-tue-8-personnes-dont-6-dans-un-lycee-pres-de-bangkok-en-thailande-20260807_DJVISF53KJGI3GQX7S6SGRM24I/",
+      "title": "L'OMS appelle à organiser un essai clinique avec l'ancien vaccin Ervebo pour lutter contre l'épidémie d'Ebola en République démocratique du Congo",
+      "desc": "Certaines données préliminaires sont encourageantes, et aucun problème de sécurité majeur n'a été relevé. A terme, l'objectif reste de trouver un vaccin spécifique.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-appelle-a-organiser-un-essai-clinique-avec-l-ancien-vaccin-ervebo-pour-lutter-contre-le-nouveau-variant-d-ebola-qui-sevit-en-republique-democratique-du-congo_8138966.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/p2cwqR4SOXtz9kmZEWXwGWTp8wY/0x325:6240x3835/432x243/filters:format(jpg):quality(50)/2026/08/07/6a7613d47eeab171651276.jpg",
+      "date": "2026-08-07T19:33:58+00:00",
+      "date_formatted": "7 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Personne n’a soutenu que la taille d’une maternité détermine mécaniquement la mortalité infantile »",
+      "desc": "Trois gynécologues-obstétriciens dénoncent, dans une tribune au « Monde », la manière dont l’inspection générale des affaires sociales a négligé le rôle de la fermeture des petites maternités dans la hausse de la mortalité infantile en France.",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/07/personne-n-a-soutenu-que-la-taille-d-une-maternite-determine-mecaniquement-la-mortalite-infantile_6740521_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
+      "date": "2026-08-07T18:00:03+00:00",
+      "date_formatted": "7 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "OpenAI, Anthropic, Meta… Derrière l’épidémie d’IA hackeuses, l’efficace marketing de la peur des géants de la tech",
+      "desc": "Depuis fin juillet, les mastodontes de l’intelligence artificielle signalent les uns après les autres des cas alarmants de modèles d’IA qui auraient échappé à leur contrôle pour pirater d’autres sociétés. Un effet domino à la bonne odeur de coup de com.",
+      "url": "https://www.liberation.fr/economie/economie-numerique/openai-anthropic-meta-derriere-lepidemie-dia-hackeuses-lefficace-marketing-de-la-peur-des-geants-de-la-tech-20260807_CUHPUOQRHJDEZAFJUBEVNZNZVU/",
       "image": null,
-      "date": "2026-08-07T10:40:15+00:00",
+      "date": "2026-08-07T17:29:59+00:00",
       "date_formatted": "7 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet",
-      "desc": "Des analyses ont confirmé jeudi 6 août que l’individu, qui est passé par l’Ile-de-France, la Normandie et la Nouvelle-Aquitaine, a été infecté par la souche Andes, la même que celle du navire «MV Hondius». Les autorités sanitaires hexagonales sont en train d’établir les mesures à mettre en place.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-un-patient-positif-isole-en-espagne-a-transite-en-france-fin-juillet-20260806_4D46O3MR7BH47AQ4L7NYTIVVQ4/",
+      "title": "Mort du musicien William Orbit, producteur de Madonna, Blur, Britney Spears…",
+      "desc": "C’est son travail sur «Ray of Light» en 1998 avec la reine de la pop qui le propulse sur le devant de la scène électronique. Il est mort à 69 ans.",
+      "url": "https://www.liberation.fr/culture/musique/mort-du-musicien-william-orbit-producteur-de-madonna-blur-britney-spears-20260807_WIGTAQBMXZGMJAJXJPRELEO7AY/",
       "image": null,
-      "date": "2026-08-07T10:21:33+00:00",
+      "date": "2026-08-07T17:22:36+00:00",
       "date_formatted": "7 August 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Un nouveau virus détecté dans une dizaine d’élevages bovins de l’est de la France",
+      "desc": "Relevé dans cinq départements français, ainsi qu’en Allemagne et en Suisse, ce nouveau virus qui se transmet par des piqûres de moucherons, bénéficie d’une propagation rapide, mais reste «pour l’instant» bénin, selon les chercheurs.",
+      "url": "https://www.liberation.fr/environnement/agriculture/un-nouveau-virus-detecte-dans-une-dizaine-delevages-bovins-de-lest-de-la-france-20260807_SBKXOKDWBZHQBKVEUETI45RXQQ/",
+      "image": null,
+      "date": "2026-08-07T16:33:16+00:00",
+      "date_formatted": "7 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Stan Lee, le père des super-héros, aux prises avec les vautours",
+      "desc": "La guerre de succession du créateur de Spider-Man, Hulk et des X-Men s’est jouée à couteaux tirés avant sa mort. L’entourage de ce scénariste de génie, qui a enrichi Marvel puis Disney, a multiplié les coups bas pour s’accaparer sa fortune et s’arroger le contrôle de sa très profitable propriété int",
+      "url": "https://www.liberation.fr/culture/cinema/stan-lee-le-pere-des-super-heros-aux-prises-avec-les-vautours-20260807_XCXAUYJDNNC5HLFPKSW7ZNPOKI/",
+      "image": null,
+      "date": "2026-08-07T16:00:00+00:00",
+      "date_formatted": "7 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Transmissible entre humains, sans lien avec le \"MV Hondius\"... Ce que l'on sait du cas d'hantavirus détecté chez un touriste franco-argentin isolé en Espagne",
+      "desc": "Les autorités sanitaires françaises recommandent vendredi l'isolement à domicile des personnes ayant été en contact étroit avec un touriste franco-argentin testé positif à la souche Andes de l'hantavirus. Elles assurent toutefois que le risque de transmission est \"très faible\".",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/passe-par-la-france-en-juillet-isole-en-espagne-ce-que-l-on-sait-du-touriste-franco-argentin-chez-lequel-un-cas-d-hantavirus-a-ete-detecte_8138522.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/CjZrboJQfbXBmWnBK8dHoa-LcME/0x512:3333x2387/432x243/filters:format(jpg):quality(50)/2026/08/07/6a75c2304446a160333036.jpg",
+      "date": "2026-08-07T15:04:10+00:00",
+      "date_formatted": "7 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : Risque faible de transmission, l’isolement recommandé pour les proches du touriste franco-argentin",
+      "desc": "Les proches du touriste franco-argentin diagnostiqué positif à l’hantavirus en France avant de s’isoler en Espagne sont invités à s’isoler. Selon les autorités françaises, le risque de transmission reste tout de même faible",
+      "url": "https://www.20minutes.fr/sante/4238245-20260807-hantavirus-risque-faible-transmission-isolement-recommande-proches-touriste-franco-argentin?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-UaDNDJ_RDGGAsyIU2Y3ZSk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8709-credit-mourad-allili-sipa-2605121211",
+      "date": "2026-08-07T14:41:34+00:00",
+      "date_formatted": "7 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Rougeole: un cas dans le parc d'attractions Universal Studios",
+      "desc": "Cela devait arriver: confrontés à leur plus grave épidémie de rougeole en 35 ans, les autorités des Etats-Unis ont détecté une personne infectée ayant visité le parc d'attractions Universal Studios le 26 juillet. Elles recommandent aux visiteurs présents ce jour-là de contacter urgemment un médecin.",
+      "url": "https://www.sciencesetavenir.fr/sante/un-cas-de-rougeole-dans-le-parc-d-attractions-universal-studios-en-californie_194154?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/07/cover-r4x3w1200-6a75a86d357ea-08980f95b56a234d346f0f6818f7f3d82693fceb-jpg.jpg",
+      "date": "2026-08-07T13:28:54+00:00",
+      "date_formatted": "7 August 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Grossesses multiples, précarité… Ce que dit le rapport sur la mortalité infantile en France",
@@ -30,16 +100,6 @@
       "date": "2026-08-07T10:13:46+00:00",
       "date_formatted": "7 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Crise de Ceuta : le Maroc doit offrir à sa jeunesse la liberté de rester, par Mahi Binebine",
-      "desc": "Dès 1999, avec son livre «Cannibales», l’écrivain marocain écrivait sur la tragédie des jeunes du Maroc qui tentent de s’enfuir en Europe. Avec la crise de Ceuta, l’histoire se répète. Mais tant que des enfants grandiront en croyant que leur avenir commence de l’autre côté de la mer, nous continuero",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/crise-de-ceuta-le-maroc-doit-offrir-a-sa-jeunesse-la-liberte-de-rester-par-mahi-binebine-20260807_LISNDZO6UNDNBKI4JH7EQJQVSM/",
-      "image": null,
-      "date": "2026-08-07T10:02:50+00:00",
-      "date_formatted": "7 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -71,26 +131,6 @@
       "date_formatted": "7 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Laissons les morts hanter nos maisons pour mieux les habiter, par Grégory Delaplace",
-      "desc": "Pour l’anthropologue, hanter et habiter sont deux faces d’une même pièce : habiter un lieu, c’est savoir de quoi ou par qui il est hanté. Venir de quelque part, c’est trimballer des fantômes.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/laissons-les-morts-hanter-nos-maisons-pour-mieux-les-habiter-par-gregory-delaplace-20260807_46KFREPMTZDPLBCXXN6KLKFJMQ/",
-      "image": null,
-      "date": "2026-08-07T08:00:00+00:00",
-      "date_formatted": "7 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un rapport interroge les causes de la forte mortalité infantile en France et balaie la problématique des petites maternités",
-      "desc": "Le document a dormi dans les tiroirs de l’exécutif pendant huit mois, puis a été publié discrètement le 4 août après un article du «Canard Enchaîné» révélant son existence. Il dresse quelques pistes, et ne juge pas pertinent de poursuivre la politique de fermeture des petites structures, suivie depu",
-      "url": "https://www.liberation.fr/societe/sante/un-rapport-interroge-les-causes-de-la-forte-mortalite-infantile-en-france-et-balaie-la-problematique-des-petites-maternites-20260807_ER55RE5WOJEUXLPKPTSVSD5H4U/",
-      "image": null,
-      "date": "2026-08-07T07:35:49+00:00",
-      "date_formatted": "7 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Hausse de la mortalité infantile : un rapport de l’IGAS « relativise » le rôle de la fermeture des petites maternités",
@@ -190,16 +230,6 @@
       "date": "2026-08-05T09:34:36+00:00",
       "date_formatted": "5 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Comment peut-on empêcher deux personnes de s'aimer ?\" : après le suicide de Caroline Grandjean, sa compagne poursuit son combat",
-      "desc": "Près d'un an après le suicide de Caroline Grandjean, victime de harcèlement homophobe dans le Cantal, Christine Grandjean-Paccoud dénonce les défaillances de l'Éducation nationale et attend toujours des avancées de la justice.",
-      "url": "https://www.franceinfo.fr/replay-radio/ils-ont-fait-l-actu/comment-peut-on-empecher-deux-personnes-de-s-aimer-apres-le-suicide-de-caroline-grandjean-sa-compagne-poursuit-son-combat_8069723.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/AeR14i95ELs8hZylx_ZI1S0wPxw/0x300:1600x1200/432x243/filters:format(jpg):quality(50)/2026/08/06/6a744866e16f7400764284.jpg",
-      "date": "2026-08-05T08:48:35+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -343,16 +373,6 @@
       "type": "presse"
     },
     {
-      "title": "Chikungunya : Un premier cas de contamination autochtone identifié dans le Tarn",
-      "desc": "Un deuxième cas autochtone d’infection par le virus du Nil occidental a par ailleurs été détecté dans les Bouches-du-Rhône, après un premier cas mi-juillet dans les Pyrénées-Orientales",
-      "url": "https://www.20minutes.fr/sante/4236982-20260730-chikungunya-premier-cas-contamination-autochtone-identifie-tarn?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/sPst-4lFQVS_tVq_NUhO9ik/1200x768_un-moustique-aedes-albopictus-pique-la-peau-et-suce-le-sang-que-ce-soit-sous-le-nom-de-moustique-tigre-ou-de-moustique-zebre-cet-insecte-est-du-genre-a-transmettre-le-virus-du-chikungunya-sur-l-ile-francaise-de-la-reunion-dans-l-ocean-indien-au-23-fevrier-les-moustiques-n-etaient-pas-nes-porteurs-du-virus-mais-ils-l-attrapaient-plutot-d-un-individu-pour-le-transmettre-a-un-autre-sur-785-000-habitants-de-l-ile-110-000-ont-ete-infectes-le-taux-d-infection-est-de-15-000-nouveaux-cas-par-semaine-25-02-1998",
-      "date": "2026-07-30T08:44:17+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "En Chine, la mort cachée de « Mei », une fillette de 6 ans, après une thérapie génique soulève de nombreuses questions",
       "desc": "Atteinte d’une maladie non létale, l’enfant avait été traitée en 2025 par une thérapie génique expérimentale, révèle une enquête de la revue « Science ».",
       "url": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
@@ -401,16 +421,6 @@
       "date_formatted": "26 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Le gouvernement précise sa feuille de route d’économies pour la santé, ciblant les médicaments, les soins dentaires et les transports sanitaires",
-      "desc": "La ministre de la santé, Stéphanie Rist, a confirmé vendredi la hausse sur plusieurs actes médicaux du ticket modérateur, montant non remboursé par l’Assurance-maladie et transféré aux mutuelles, laissant présager de futures augmentations de leurs tarifs. La veille, elle avait annoncé le doublement ",
-      "url": "https://www.lemonde.fr/societe/article/2026/07/24/le-gouvernement-precise-sa-feuille-de-route-d-economies-pour-la-sante-ciblant-les-medicaments-les-soins-dentaires-et-les-transports-sanitaires_6731538_3224.html",
-      "image": "https://img.lemde.fr/2026/06/26/2063/0/5333/2666/644/322/60/0/2e43c79_upload-1-oz1z5n3ldkcp-jmug260626021.jpg",
-      "date": "2026-07-24T19:27:59+00:00",
-      "date_formatted": "24 July 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Deux enfants épileptiques ont été soignés par thérapie génique",
