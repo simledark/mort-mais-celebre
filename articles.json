@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-08T12:21:11.753605+00:00",
-  "count": 57,
+  "generated_at": "2026-08-08T18:19:20.297160+00:00",
+  "count": 56,
   "articles": [
     {
       "title": "Tour de France : la lauréate sortante Pauline Ferrand-Prévot abandonne avant la 8e étape",
-      "desc": "Lâchée au classement et possiblement touchée par un virus, «PFP» a jeté l’éponge samedi avant le départ de la 8e et avant-dernière étape entre Sisteron et Nice.",
+      "desc": "Lâchée au classement et touchée par un virus, «PFP» a jeté l’éponge samedi avant le départ de la 8e et avant-dernière étape entre Sisteron et Nice, la plus longue de l’épreuve.",
       "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-la-laureate-sortante-pauline-ferrand-prevot-abandonne-avant-la-8e-etape-20260808_GMZ32KMRXZFQ7NTBSFKA62JXVQ/",
       "image": null,
-      "date": "2026-08-08T12:02:17+00:00",
+      "date": "2026-08-08T12:41:26+00:00",
+      "date_formatted": "8 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Catherine Dasté, pionnière du théâtre pour jeunes",
+      "desc": "Veuve du chanteur Graeme Allwright, celle qui fut également comédienne avait créé, en compagnie de Françoise Dolto, le Centre dramatique pour l’enfance au théâtre de Sartrouville. Elle est morte jeudi 8 août à l’âge de 96 ans, a fait part sa famille ce samedi.",
+      "url": "https://www.liberation.fr/culture/arts/mort-de-catherine-daste-pionniere-du-theatre-pour-jeunes-20260808_BB7SRFI7SBB4JHWOAGERAGSLRU/",
+      "image": null,
+      "date": "2026-08-08T12:36:37+00:00",
       "date_formatted": "8 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -18,16 +28,6 @@
       "url": "https://www.liberation.fr/lifestyle/voyages/ma-pire-rando-jai-peur-de-mendormir-on-reste-colles-sinon-on-se-dit-quon-va-mourir-20260808_DQ6IHV7GYVFGLITWGAOAHZIOKQ/",
       "image": null,
       "date": "2026-08-08T08:40:00+00:00",
-      "date_formatted": "8 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-08-08T07:00:00+00:00",
       "date_formatted": "8 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -361,16 +361,6 @@
       "date_formatted": "30 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "En Chine, la mort cachée de « Mei », une fillette de 6 ans, après une thérapie génique soulève de nombreuses questions",
-      "desc": "Atteinte d’une maladie non létale, l’enfant avait été traitée en 2025 par une thérapie génique expérimentale, révèle une enquête de la revue « Science ».",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/30/en-chine-la-mort-cachee-d-une-enfant-dans-un-essai-clinique-souleve-de-nombreuses-questions_6736653_1650684.html",
-      "image": "https://img.lemde.fr/2026/07/29/239/0/3000/1500/644/322/60/0/d9ae733_upload-1-ijriqqfxewhp-051-xxjpbee000864-20151017-tppfn0a001.jpg",
-      "date": "2026-07-30T05:30:02+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Défiance vaccinale: La rougeole frappe durement les Etats-Unis",
