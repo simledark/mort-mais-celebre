@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-08-08T06:30:32.675756+00:00",
-  "count": 54,
+  "generated_at": "2026-08-08T12:21:11.753605+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Tour de France : la lauréate sortante Pauline Ferrand-Prévot abandonne avant la 8e étape",
+      "desc": "Lâchée au classement et possiblement touchée par un virus, «PFP» a jeté l’éponge samedi avant le départ de la 8e et avant-dernière étape entre Sisteron et Nice.",
+      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-la-laureate-sortante-pauline-ferrand-prevot-abandonne-avant-la-8e-etape-20260808_GMZ32KMRXZFQ7NTBSFKA62JXVQ/",
+      "image": null,
+      "date": "2026-08-08T12:02:17+00:00",
+      "date_formatted": "8 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ma pire rando : «J’ai peur de m’endormir. On reste collés, sinon on se dit qu’on va mourir !»",
+      "desc": "En randonnée, il y a le marcheur qui anticipe le moindre pépin et celui qui part la fleur au fusil. Jusqu’au jour où la catastrophe arrive. Dans ce quinzième épisode, Anaïs se souvient d’un bivouac glaçant dans les Pyrénées.",
+      "url": "https://www.liberation.fr/lifestyle/voyages/ma-pire-rando-jai-peur-de-mendormir-on-reste-colles-sinon-on-se-dit-quon-va-mourir-20260808_DQ6IHV7GYVFGLITWGAOAHZIOKQ/",
+      "image": null,
+      "date": "2026-08-08T08:40:00+00:00",
+      "date_formatted": "8 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "image": null,
+      "date": "2026-08-08T07:00:00+00:00",
+      "date_formatted": "8 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "L'OMS appelle à organiser un essai clinique avec l'ancien vaccin Ervebo pour lutter contre l'épidémie d'Ebola en République démocratique du Congo",
       "desc": "Certaines données préliminaires sont encourageantes, et aucun problème de sécurité majeur n'a été relevé. A terme, l'objectif reste de trouver un vaccin spécifique.",
@@ -14,7 +44,7 @@
     },
     {
       "title": "« Personne n’a soutenu que la taille d’une maternité détermine mécaniquement la mortalité infantile »",
-      "desc": "Trois gynécologues-obstétriciens dénoncent, dans une tribune au « Monde », la manière dont l’inspection générale des affaires sociales a négligé le rôle de la fermeture des petites maternités dans la hausse de la mortalité infantile en France.",
+      "desc": "Trois gynécologues-obstétriciens dénoncent, dans une tribune au « Monde », la manière dont l’inspection générale des affaires sociales a négligé le rôle de la fermeture des petites maternités dans la mortalité infantile en France.",
       "url": "https://www.lemonde.fr/idees/article/2026/08/07/personne-n-a-soutenu-que-la-taille-d-une-maternite-determine-mecaniquement-la-mortalite-infantile_6740521_3232.html",
       "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
       "date": "2026-08-07T18:00:03+00:00",
