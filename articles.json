@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-08-09T12:23:07.864596+00:00",
-  "count": 54,
+  "generated_at": "2026-08-09T18:21:08.471282+00:00",
+  "count": 51,
   "articles": [
     {
-      "title": "Ebola en RDC : «Une épidémie de cette ampleur, c’est du jamais-vu»",
-      "desc": "Spécialiste des épidémies à Médecins sans frontières, John Johnson décrypte, pour «Libération» , les raisons d’une virulence sans précédent au cœur de la région des Grands Lacs depuis l’identification de la maladie, il y a cinquante ans.",
-      "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-une-epidemie-de-cette-ampleur-cest-du-jamais-vu-20260809_6HDJWBKIUVE27I5XAC6U4NIZAI/",
+      "title": "La comédienne Dominique Frot est morte à l’âge de 68 ans",
+      "desc": "Connue pour son rôle dans la série «Soda» et dans de nombreux longs métrages, la sœur cadette de Catherine Frot est morte vendredi 9 août, ont annoncé ce dimanche sa famille et son agent.",
+      "url": "https://www.liberation.fr/culture/cinema/la-comedienne-dominique-frot-est-morte-a-lage-de-68-ans-20260809_6Q72BX7IORB3RB2ZCB3ID4C7GI/",
       "image": null,
-      "date": "2026-08-09T12:03:00+00:00",
+      "date": "2026-08-09T14:13:48+00:00",
+      "date_formatted": "9 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Christian Bernard, fondateur du Mamco de Genève",
+      "desc": "Le commissaire d’exposition et directeur de musée, qui a contribué à révéler toute une série d’artistes aujourd’hui sur le devant de la scène, est mort jeudi 6 août à 76 ans.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-de-christian-bernard-fondateur-du-mamco-de-geneve-20260809_M5GGABFZT5C5ZCWMC5U6BUWYOA/",
+      "image": null,
+      "date": "2026-08-09T12:40:32+00:00",
       "date_formatted": "9 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -31,16 +41,6 @@
       "date_formatted": "9 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«C’est vraiment triste à voir» : le cancer de la prostate de Joe Biden s’est aggravé, selon son fils Hunter",
-      "desc": "L’ancien président démocrate, 83 ans, avait révélé en mai 2025 être atteint d’une «forme agressive» du cancer de la prostate, et suit toujours un traitement par hormones.",
-      "url": "https://www.liberation.fr/international/amerique/le-cancer-de-la-prostate-de-joe-biden-sest-aggrave-selon-son-fils-hunter-20260809_EK7TTLOLDNBPNKEIK7YER53QT4/",
-      "image": null,
-      "date": "2026-08-09T06:10:16+00:00",
-      "date_formatted": "9 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "L'OMS appelle à organiser un essai clinique avec l'ancien vaccin Ervebo pour lutter contre l'épidémie d'Ebola en République démocratique du Congo",
@@ -143,26 +143,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : un touriste Franco-Argentin testé positif",
-      "desc": "Le ministère de la Santé a annoncé ce jeudi 6 août la détection d'un nouveau cas importé de hantavirus. Il s'agit d'un voyageur franco-argentin qui a traversé la Normandie et l'Île-de-France durant la seconde moitié de juillet, avant d'être testé positif.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-touriste-franco-argentin-teste-positif_8137607.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/wS4SF2GHY1q1LssgdW9eQJF75Ck/0x1:1378x777/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74d28c406a8991684211.jpg",
-      "date": "2026-08-06T23:34:47+00:00",
-      "date_formatted": "6 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : un touriste de passage en France testé positif",
-      "desc": "Les autorités sanitaires ont été informées d'un cas d'hantavirus sur le territoire français. Le patient concerné, \"isolé avec sa famille en Espagne, est une personne en voyage touristique qui a transité en France la deuxième quinzaine du mois\", a annoncé le ministère de la Santé.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-touriste-de-passage-en-france-teste-positif_8137643.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/vZpZizVOPQWovCDmPpNt-sLoD3A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/06/6a74da1e62cfe921426028.jpg",
-      "date": "2026-08-06T22:00:01+00:00",
-      "date_formatted": "6 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : La Française contaminée au printemps sur le MV Hondius est sortie de réanimation",
       "desc": "La seule Française contaminée par le hantavirus lors de l’épidémie sur le navire MV Hondius est sortie de réanimation après presque trois mois d’hospitalisation. Elle a été transférée dans un centre de convalescence",
       "url": "https://www.20minutes.fr/sante/4238126-20260806-hantavirus-francaise-contaminee-printemps-mv-hondius-sortie-reanimation?at_medium=display&at_campaign=149",
@@ -261,16 +241,6 @@
       "date_formatted": "3 August 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Démence : ce que les États doivent changer pour protéger notre cerveau au-delà des conseils habituels",
-      "desc": "Manger équilibré, rester actif, entretenir sa vie sociale… Ces conseils restent essentiels, mais ils ne suffisent plus à eux seuls. Dans ses nouvelles recommandations, l’Organisation Mondiale de la Santé peaufine sa stratégie de prévention de la démence et met en lumière des leviers d’action...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-demence-ce-etats-doivent-changer-proteger-notre-cerveau-dela-conseils-habituels-136451/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/f/5/7f5f4cd370_50258927_action-etats-demence.jpg",
-      "date": "2026-08-03T11:03:45+00:00",
-      "date_formatted": "3 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Les kinés pourront réaliser des « bilans prévention » dès octobre",
