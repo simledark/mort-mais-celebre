@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-09T06:34:39.509908+00:00",
-  "count": 57,
+  "generated_at": "2026-08-09T12:23:07.864596+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "Ebola en RDC : «Une épidémie de cette ampleur, c’est du jamais-vu»",
+      "desc": "Spécialiste des épidémies à Médecins sans frontières, John Johnson décrypte, pour «Libération» , les raisons d’une virulence sans précédent au cœur de la région des Grands Lacs depuis l’identification de la maladie, il y a cinquante ans.",
+      "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-une-epidemie-de-cette-ampleur-cest-du-jamais-vu-20260809_6HDJWBKIUVE27I5XAC6U4NIZAI/",
+      "image": null,
+      "date": "2026-08-09T12:03:00+00:00",
+      "date_formatted": "9 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "On pense d'abord au cœur… pourtant, ces trois facteurs pourraient vous priver de 13 ans de vie sans démence",
+      "desc": "Et si quelques gestes de prévention à l’âge mûr permettaient de conserver ses capacités cognitives pendant plus d’une décennie supplémentaire ? Une vaste étude suivie durant 26 ans met en lumière un levier majeur pour repousser l’apparition de la démence… avec des résultats bien plus...",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-on-pense-abord-coeur-pourtant-ces-trois-facteurs-pourraient-vous-priver-13-ans-vie-demence-136818/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/1/8/a18aef155c_50259166_vieillissement-cerveau.jpg",
+      "date": "2026-08-09T09:29:10+00:00",
+      "date_formatted": "9 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Et si l'origine de la maladie d'Alzheimer se trouvait dans notre bouche ? Voici la fascinante piste explorée par des chercheurs",
       "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
@@ -13,32 +33,12 @@
       "type": "science"
     },
     {
-      "title": "Le cancer de la prostate de Joe Biden s’est aggravé, selon son fils Hunter",
+      "title": "«C’est vraiment triste à voir» : le cancer de la prostate de Joe Biden s’est aggravé, selon son fils Hunter",
       "desc": "L’ancien président démocrate, 83 ans, avait révélé en mai 2025 être atteint d’une «forme agressive» du cancer de la prostate, et suit toujours un traitement par hormones.",
       "url": "https://www.liberation.fr/international/amerique/le-cancer-de-la-prostate-de-joe-biden-sest-aggrave-selon-son-fils-hunter-20260809_EK7TTLOLDNBPNKEIK7YER53QT4/",
       "image": null,
       "date": "2026-08-09T06:10:16+00:00",
       "date_formatted": "9 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Tour de France : la lauréate sortante Pauline Ferrand-Prévot abandonne avant la 8e étape",
-      "desc": "Lâchée au classement et touchée par un virus, «PFP» a jeté l’éponge samedi avant le départ de la 8e et avant-dernière étape entre Sisteron et Nice, la plus longue de l’épreuve.",
-      "url": "https://www.liberation.fr/sports/cyclisme/tour-de-france-la-laureate-sortante-pauline-ferrand-prevot-abandonne-avant-la-8e-etape-20260808_GMZ32KMRXZFQ7NTBSFKA62JXVQ/",
-      "image": null,
-      "date": "2026-08-08T12:41:26+00:00",
-      "date_formatted": "8 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Catherine Dasté, pionnière du théâtre pour jeunes",
-      "desc": "Veuve du chanteur Graeme Allwright, celle qui fut également comédienne avait créé, en compagnie de Françoise Dolto, le Centre dramatique pour l’enfance au théâtre de Sartrouville. Elle est morte jeudi 8 août à l’âge de 96 ans, a fait part sa famille ce samedi.",
-      "url": "https://www.liberation.fr/culture/arts/mort-de-catherine-daste-pionniere-du-theatre-pour-jeunes-20260808_BB7SRFI7SBB4JHWOAGERAGSLRU/",
-      "image": null,
-      "date": "2026-08-08T12:36:37+00:00",
-      "date_formatted": "8 August 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -73,7 +73,7 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : Risque faible de transmission, l’isolement recommandé pour les proches du touriste franco-argentin",
+      "title": "Hantavirus : L’isolement recommandé pour les proches du touriste franco-argentin avec un risque faible de transmission",
       "desc": "Les proches du touriste franco-argentin diagnostiqué positif à l’hantavirus en France avant de s’isoler en Espagne sont invités à s’isoler. Selon les autorités françaises, le risque de transmission reste tout de même faible",
       "url": "https://www.20minutes.fr/sante/4238245-20260807-hantavirus-risque-faible-transmission-isolement-recommande-proches-touriste-franco-argentin?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/-UaDNDJ_RDGGAsyIU2Y3ZSk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8709-credit-mourad-allili-sipa-2605121211",
@@ -158,26 +158,6 @@
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-touriste-de-passage-en-france-teste-positif_8137643.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/vZpZizVOPQWovCDmPpNt-sLoD3A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/06/6a74da1e62cfe921426028.jpg",
       "date": "2026-08-06T22:00:01+00:00",
-      "date_formatted": "6 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La Française contaminée à l'hantavirus au printemps sur le MV Hondius est sortie de réanimation",
-      "desc": "Cette retraitée rapatriée en mai dans un état grave a été \"transférée dans un centre de convalescence\", a précisé jeudi le ministère.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/la-francaise-contaminee-a-l-hantavirus-au-printemps-sur-le-mv-hondius-est-sortie-de-reanimation_8137370.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/1C1PaYMECQaP1XoxM6JsDVI3SCY/0x625:6000x4000/432x243/filters:format(jpg):quality(50)/2026/08/06/6a74aa3348556886820555.jpg",
-      "date": "2026-08-06T17:38:47+00:00",
-      "date_formatted": "6 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé",
-      "desc": "Le patient n'a eu que peu de symptômes et n'en présente plus. \"A ce stade, nous ne sommes pas face à un virus présentant une circulation diffuse dans la population\", a affirmé le ministère.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/un-cas-d-hantavirus-detecte-chez-un-touriste-ayant-sejourne-en-france-en-juillet-annonce-le-ministere-de-la-sante_8137283.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/lTwKUnZ7oDaZECIDsfUyjWwOSts/0x41:7490x4254/432x243/filters:format(jpg):quality(50)/2026/08/06/6a7496727f76e122429562.jpg",
-      "date": "2026-08-06T16:24:47+00:00",
       "date_formatted": "6 August 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -358,16 +338,6 @@
       "url": "https://www.20minutes.fr/monde/4237040-20260730-ebola-vaccin-presente-comme-plus-prometteur-va-etre-developpe-singapour?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/6GudR5zbS8eab2m9ffbemCk/1200x768_un-medecin-administre-du-serum-a-un-patient-atteint-de-la-maladie-a-virus-ebola-au-centre-de-traitement-ebola-etc-de-rwampara-a-bunia-en-ituri-dans-l-est-de-la-republique-democratique-du-congo-le-13-juillet-2026-les-agents-de-sante-travaillant-a-l-epicentre-de-l-epidemie-d-ebola-en-rd-congo-menacent-de-faire-greve-declarant-a-l-afp-le-13-juillet-qu-ils-n-avaient-pas-ete-payes-depuis-la-detection-du-virus-a-la-mi-mai-cette-maladie-hautement-infectieuse-a-tue-plus-de-700-personnes-parmi-les-quelque-2-000-personnes-infectees-confirmees-en-republique-democratique-du-congo-depuis-la-declaration-de-l-epidemie-le-15-mai-selon-le-dernier-bilan-officiel-publie-le-14-juillet-photo-de-benediction-murhabazi-afp",
       "date": "2026-07-30T12:56:59+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Nice : Deux femmes incarcérées après le décès d’une cliente lors d’un soin esthétique clandestin",
-      "desc": "Une jeune femme venue lundi dans un salon d’esthétique à Nice pour un soin au Botox a fait un malaise juste après une injection de lidocaïne, un produit anesthésiant, et n’a pas pu être réanimée",
-      "url": "https://www.20minutes.fr/faits_divers/faits-divers-nice/4237006-20260730-soin-esthetique-mortel-nice-deux-femmes-incarcerees-apres-deces-cliente-lors-injection-clandestine?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/QHdbMLmHQ1ahmTvqbI2w7ik/1200x768_comblement-des-rides-avec-de-l-acide-hyaluronique-et-du-botox-les-rides-du-sourcil-les-pattes-d-oie-les-rides-du-front-le-25-05-2015-photographie-d-aline-morcillo-hans-lucas-comblement-utilise-de-l-acide-hyaluronique-et-du-botox-ride-du-lion-pattes-d-oies-maneges-frontales-le-25-05-25-photographie-d-aline-morcillo-hans-lucas-photo-d-aline-morcillo-hans-lucas-via-afp",
-      "date": "2026-07-30T10:16:49+00:00",
       "date_formatted": "30 July 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
