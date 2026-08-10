@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-08-10T00:47:21.186839+00:00",
-  "count": 50,
+  "generated_at": "2026-08-10T07:04:24.287245+00:00",
+  "count": 52,
   "articles": [
     {
-      "title": "La comédienne Dominique Frot est morte à l’âge de 68 ans",
-      "desc": "Connue pour son rôle dans la série «Soda» et dans de nombreux longs métrages, la sœur cadette de Catherine Frot est morte vendredi 9 août, ont annoncé ce dimanche sa famille et son agent.",
-      "url": "https://www.liberation.fr/culture/cinema/la-comedienne-dominique-frot-est-morte-a-lage-de-68-ans-20260809_6Q72BX7IORB3RB2ZCB3ID4C7GI/",
-      "image": null,
-      "date": "2026-08-09T14:13:48+00:00",
-      "date_formatted": "9 August 2026",
-      "source": "Libération",
+      "title": "Ce médicament pris contre l'insomnie pourrait ouvrir une nouvelle piste contre Alzheimer",
+      "desc": "Une étude récente offre un espoir dans la lutte contre la maladie d'Alzheimer. Des chercheurs ont découvert qu'un somnifère courant pourrait réduire l'accumulation de protéines nocives dans le cerveau. Cette avancée pourrait-elle ouvrir de nouvelles perspectives thérapeutiques ? Plongeons dans...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-ce-medicament-pris-insomnie-pourrait-ouvrir-nouvelle-piste-alzheimer-w2t8-136816/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/d/7/fd7098e142_50259157_medicament-somnifere-alzheimer.jpg",
+      "date": "2026-08-10T08:00:00+00:00",
+      "date_formatted": "10 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cannibalisme : quand la conquête de l’Ouest tourne au cauchemar",
+      "desc": "« Sept nuances de cannibalisme » (5/7). En 1846, des pionniers en route pour la Californie, bloqués par la neige dans la Sierra Nevada, ont dû se résoudre à manger certains membres du convoi, morts de faim et d’épuisement. L’expédition Donner fait encore l’objet d’investigations scientifiques, notam",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/10/cannibalisme-quand-la-conquete-de-l-ouest-tourne-au-cauchemar_6743080_3451060.html",
+      "image": "https://img.lemde.fr/2026/07/09/898/0/2136/1068/644/322/60/0/43a4e5e_upload-1-lnjfx1qudza5-cannibale5.jpg",
+      "date": "2026-08-10T06:00:14+00:00",
+      "date_formatted": "10 August 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Alerte sur la santé des pompiers",
+      "desc": "Depuis le début des incendies en France, quatre pompiers sont morts et près de 130 ont été intoxiqués par les fumées. Avec l’accélération des feux de végétation causée par le dérèglement climatique, des syndicats alertent sur un “désastre sanitaire” à venir dans les rangs des soldats du feu. À long ",
+      "url": "https://www.franceinfo.fr/faits-divers/incendie/alerte-sur-la-sante-des-pompiers_8138615.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/HuI2bVmk1kEr0LiEQ2_v7iOG0jQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/07/6a75de5d4474d033040988.jpg",
+      "date": "2026-08-10T06:00:01+00:00",
+      "date_formatted": "10 August 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
