@@ -1,35 +1,155 @@
 {
-  "generated_at": "2026-08-11T06:43:36.625006+00:00",
-  "count": 53,
+  "generated_at": "2026-08-11T12:36:14.281716+00:00",
+  "count": 45,
   "articles": [
     {
-      "title": "\"Beaucoup ont le sida\" : à Marseille, la consommation de crack explose dans les rues du centre-ville",
-      "desc": "Depuis l'abandon d'un projet de Halte soins addictions, il y a deux ans, les petites associations de la cité phocéenne tentent malgré tout de limiter les risques de maladies auprès des consommateurs de drogue.",
-      "url": "https://www.franceinfo.fr/sante/drogue-addictions/beaucoup-ont-le-sida-a-marseille-la-consommation-de-crack-explose-dans-les-rues-du-centre-ville_8142299.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ASAQk9f0Q6iNGLGumqUd--gI6pM/0x403:4195x2760/432x243/filters:format(jpg):quality(50)/2025/08/06/maxnewsworldsix423484-68932385b4016207651543.jpg",
-      "date": "2026-08-11T06:58:34+00:00",
+      "title": "La nouvelle épidémie d'Ebola a franchi le cap des 2 000 morts en République démocratique du Congo",
+      "desc": "La maladie a tué plus de 15 000 personnes en Afrique au cours des 50 dernières années.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-a-franchi-le-cap-des-2-000-morts-en-republique-democratique-du-congo_8143049.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ldOo832skQFJGGHmKzxZ1Z96qAk/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7af5f7daa79568238079.jpg",
+      "date": "2026-08-11T13:19:36+00:00",
       "date_formatted": "11 August 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
     {
-      "title": "Jean-Jacques Muyembe, virologue congolais : « Ebola se propage à une vitesse que nous n’avions encore jamais observée »",
-      "desc": "Le codécouvreur du virus, en 1976, revient, dans un entretien au « Monde », sur l’actuelle propagation de l’épidémie due à Ebola en République démocratique du Congo. En seulement trois mois, le nombre de morts s’approche du bilan humain de l’épidémie de 2018, qui avait duré vingt-deux mois.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/11/jean-jacques-muyembe-virologue-congolais-ebola-se-propage-a-une-vitesse-que-nous-n-avions-encore-jamais-observee_6743759_3212.html",
-      "image": "https://img.lemde.fr/2026/05/20/635/0/5407/2703/644/322/60/0/d25ee75_ftp-1-ads3coq5symv-5091175-01-06.jpg",
-      "date": "2026-08-11T06:30:08+00:00",
+      "title": "En Colombie, «le tremblement de terre a duré une minute qui a semblé une éternité»",
+      "desc": "Le puissant séisme qui a frappé l’ouest du pays lundi 10 août a fait au moins 169 morts et 600 blessés, laissant une impression de désolation et des habitants hébétés.",
+      "url": "https://www.liberation.fr/international/en-colombie-le-tremblement-de-terre-a-dure-une-minute-qui-a-semble-une-eternite-20260811_H4WEF56FPBA7ZBERVHN6QDF3V4/",
+      "image": null,
+      "date": "2026-08-11T12:28:49+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 169 morts et 600 blessés dans l’ouest du pays",
+      "desc": "D’intenses secousses ont été ressenties jusqu’à Bogotá lundi. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali. Six aéroports ont été mis à l’arrêt.",
+      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "image": null,
+      "date": "2026-08-11T12:22:14+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : l’épidémie a fait plus de 2 000 morts en RDC",
+      "desc": "Ce bilan rapproche l’épidémie actuelle de celle qui avait sévi entre 2018 et 2020, la plus meurtrière à ce jour en République démocratique du Congo avec près de 2 300 morts.",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/ebola-l-epidemie-a-fait-plus-de-2-000-morts-en-rdc_6743790_3210.html",
+      "image": "https://img.lemde.fr/2026/07/31/555/0/6953/3476/644/322/60/0/00da1dc_ftp-1-hvqcuq9a2w0a-2026-07-31t085519z-246925543-rc23hlakm9nk-rtrmadp-3-health-ebola.JPG",
+      "date": "2026-08-11T12:06:32+00:00",
       "date_formatted": "11 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 111 morts et 87 blessés dans l’ouest du pays",
-      "desc": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août au matin. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays. Six aéroports ont été mis à l’arrêt.",
-      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "title": "\"Il y a des points de deal directement en centre-ville\" : la consommation de crack explose dans les rues de Marseille",
+      "desc": "Depuis l'abandon d'un projet de Halte soins addictions, il y a deux ans, les petites associations de la cité phocéenne tentent malgré tout de limiter les risques de maladies auprès des consommateurs de drogue.",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/beaucoup-ont-le-sida-a-marseille-la-consommation-de-crack-explose-dans-les-rues-du-centre-ville_8142299.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ASAQk9f0Q6iNGLGumqUd--gI6pM/0x403:4195x2760/432x243/filters:format(jpg):quality(50)/2025/08/06/maxnewsworldsix423484-68932385b4016207651543.jpg",
+      "date": "2026-08-11T11:35:58+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "RDC: Ebola a déjà tué plus de 2.000 personnes",
+      "desc": "La 17e épidémie d'Ebola devient la seconde la plus meurtrière en RDC avec près de 2300 morts. Le seul vaccin homologué existant s'apprête à être évalué directement en phase 3 dans le pays. Parallèlement, trois autres candidats vaccins sont entrés en développement.",
+      "url": "https://www.sciencesetavenir.fr/sante/rdc-l-epidemie-causee-par-le-virus-ebola-franchit-le-cap-des-2-000-morts_194206?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/11/cover-r4x3w1200-6a7af44997d3b-9e035aafcfd6c488f9d2d63aecd8aa2e6059f021-jpg.jpg",
+      "date": "2026-08-11T11:26:06+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "La longévité à toute épreuve de «l’Empereur» Laurent Cathala, maire de Créteil",
+      "desc": "Le socialiste est l’édile le plus ancien de France, à la tête de la préfecture du Val-de-Marne depuis 1977 – cas unique pour une ville de cette taille. Jusqu’ici sans casserole, son règne sans partage face à une opposition morcelée et résignée vient d’être entaché par des soupçons de favoritisme dan",
+      "url": "https://www.liberation.fr/societe/ville/la-longevite-a-toute-epreuve-de-lempereur-laurent-cathala-maire-de-creteil-20260811_UM7JAW7KKNBQLEXQV7X2XOBMRI/",
       "image": null,
-      "date": "2026-08-11T06:17:01+00:00",
+      "date": "2026-08-11T10:52:11+00:00",
       "date_formatted": "11 August 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Toulouse : deux enquêtes ouvertes après la mort d’un adolescent lors d’une course-poursuite",
+      "desc": "Un conducteur de scooter de 17 ans est mort vendredi soir. Le parquet de Toulouse a ouvert deux enquêtes : pour recherche des causes de la mort, et refus d’obtempérer aggravé par la mise en danger d’autrui et violences volontaires sur dépositaires de l’autorité publique.",
+      "url": "https://www.liberation.fr/societe/police-justice/toulouse-deux-enquetes-ouvertes-apres-la-mort-dun-adolescent-lors-dune-course-poursuite-20260811_YODNJNQ4JJFFNBQJUFQIYBPATI/",
+      "image": null,
+      "date": "2026-08-11T10:46:55+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "En RDC, l’épidémie d’Ebola franchit le cap des 2 000 morts",
+      "desc": "Le bilan de cette 17e vague se rapproche dangereusement de celle de 2018-2020, qui avec près de 2 300 victimes était jusqu’à présent la plus meurtrière jamais enregistrée.",
+      "url": "https://www.liberation.fr/international/afrique/en-rdc-lepidemie-debola-franchit-le-cap-des-2-000-morts-20260811_GTSMHW2OMNA45E72GQCGYSME2E/",
+      "image": null,
+      "date": "2026-08-11T10:36:33+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Lorsqu’on légifère sur la fin de vie, on a le devoir de reconnaître les aidants »",
+      "desc": "La loi sur l’aide à mourir ne garantit aucun soutien psychologique à « ceux qui restent une fois que tout est fini », alertent la médecin Hélène Rossinot et le chercheur Mickaël Worms-Ehrminger, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/11/lorsqu-on-legifere-sur-la-fin-de-vie-on-a-le-devoir-de-reconnaitre-les-aidants_6743771_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0dd3d9d_upload-1-4c5bcsqpqy19-frame-1202.jpg",
+      "date": "2026-08-11T10:00:09+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Neuf morts dans des attaques russes, missiles balistiques nord-coréens, censure du parti antiguerre russe… L’actu de la guerre en Ukraine ce mardi 11 août",
+      "desc": "L’essentiel des informations du jour sur la guerre entre Kyiv et Moscou.",
+      "url": "https://www.liberation.fr/international/neuf-morts-dans-des-attaques-russes-missiles-balistiques-nord-coreens-censure-du-parti-antiguerre-russe-lactu-de-la-guerre-en-ukraine-ce-mardi-11-aout-20260811_BGLZYZEDZRFFZG7HE7SUPBN6ZQ/",
+      "image": null,
+      "date": "2026-08-11T09:23:01+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Soudain» avec Virginie Efira : l’une pour l’autre",
+      "desc": "Double prix d’interprétation à Cannes, le film de Ryusuke Hamaguchi, avec l’actrice belge et Tao Okamoto, suit l’amitié entre une directrice d’Ehpad et une artiste atteinte d’un cancer. Un mélodrame thérapeutique qui révèle une profonde mélancolie.",
+      "url": "https://www.liberation.fr/culture/cinema/soudain-de-ryusuke-hamaguchi-et-avec-virginie-efira-lune-pour-lautre-20260811_YA4E3Y2VIVFMHMFJ73DF6KKW3U/",
+      "image": null,
+      "date": "2026-08-11T09:22:00+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Syrie : le président déchu Bachar al-Assad condamné à la peine de mort par contumace",
+      "desc": "L’ex-dirigeant, qui a fui avec sa famille à Moscou lors de la prise de Damas en décembre 2024, a été reconnu ce mardi 11 août coupable de «crimes de guerre» et de «crimes contre l’humanité».",
+      "url": "https://www.liberation.fr/international/moyen-orient/syrie-le-president-dechu-bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-20260811_7RGPHXAGZFFSZB6AHZKQNGGVXI/",
+      "image": null,
+      "date": "2026-08-11T09:06:38+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Etats-Unis : Donald Trump continue son offensive complotiste contre les vaccins",
+      "desc": "Le président des Etats-Unis a signé lundi 10 août un décret appelant à espacer la couverture vaccinale des enfants, tout en faisant allusion à un lien entre la vaccination et l’autisme. Le tout en pleine épidémie de rougeole dans le pays.",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-donald-trump-continue-son-offensive-complotiste-contre-les-vaccins-20260811_O3L3GHR4DRAHNOR6NGOARC73HI/",
+      "image": null,
+      "date": "2026-08-11T08:31:46+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Ebola se propage à une vitesse que nous n’avions encore jamais observée » : l’alerte de Jean-Jacques Muyembe, codécouvreur du virus",
+      "desc": "Le virologue congolais, qui a mis au jour le virus en 1976, revient, dans un entretien au « Monde », sur l’actuelle propagation de l’épidémie due à Ebola en République démocratique du Congo. En seulement trois mois, le nombre de morts s’approche du bilan humain de l’épidémie de 2018, qui avait duré ",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/11/jean-jacques-muyembe-virologue-congolais-ebola-se-propage-a-une-vitesse-que-nous-n-avions-encore-jamais-observee_6743759_3212.html",
+      "image": "https://img.lemde.fr/2026/05/20/635/0/5407/2703/644/322/60/0/d25ee75_ftp-1-ads3coq5symv-5091175-01-06.jpg",
+      "date": "2026-08-11T06:30:05+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -253,42 +373,12 @@
       "type": "science"
     },
     {
-      "title": "Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs",
-      "desc": "Et si la mode du « toujours plus de protéines » n’était pas aussi bonne pour la santé qu’on le pense ? Des chercheurs révèlent pourquoi lever le pied pourrait aider notre organisme à mieux vieillir.",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-trop-proteines-pourrait-nuire-vieillissement-bonne-sante-avertissent-chercheurs-136714/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/d/d/3dd84fdf28_50258982_2-proteines-risques.jpg",
-      "date": "2026-08-04T11:43:36+00:00",
-      "date_formatted": "4 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Légionellose en Suisse : un mort et vingt-six cas recensés à Bâle",
-      "desc": "Les autorités sanitaires du canton soupçonnent des tours de refroidissement installées sur un immeuble de bureaux d’être à l’origine de la contamination.",
-      "url": "https://www.lemonde.fr/international/article/2026/08/03/legionellose-en-suisse-un-mort-et-vingt-six-cas-recenses-a-bale_6737372_3210.html",
-      "image": "https://img.lemde.fr/2026/08/03/104/0/742/371/644/322/60/0/217fce7_upload-1-rmb5qzsoqsn5-capture-d-ecran-du-2026-08-03-15-47-03.png",
-      "date": "2026-08-03T16:22:35+00:00",
-      "date_formatted": "3 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Phil Collins révèle qu’il a failli mourir en 2024 à cause de sa consommation d’alcool excessive",
       "desc": "Le chanteur de Genesis a dû être hospitalisé à deux reprises cette année-là",
       "url": "https://www.20minutes.fr/arts-stars/people/4237639-20260803-phil-collins-revele-failli-mourir-2024-cause-consommation-alcool-excessive?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/0fXT8qXyRJ-MJO6fFlZawyk/1200x768_birmingham-royaume-uni-20210920-phil-collins-se-produit-lors-de-la-tournee-de-retrouvailles-de-genesis-last-domino-le-premier-soir-genesis-se-produira-lors-de-la-premiere-soiree-de-leur-tournee-de-retrouvailles-last-domino-a-l-utilita-arena-de-birmingham-il-s-agit-de-la-premiere-performance-live-du-groupe-en-13-ans-sur-la-photo-phil-collins-photo-de-cover-images-instarimages-com-ad2ci134-jpg-il-s-agit-d-une-image-editoriale-geree-par-les-droits-veuillez-contacter-instar-images-llc-pour-obtenir-des-informations-sur-les-frais-de-licence-et-les-droits-a-l-adresse-sales-instarimages-com-ou-appelez-le-1-212-414-0207-cette-image-ne-peut-etre-publiee-d-aucune-maniere-qui-soit-ou-pourrait-etre-consideree-comme-etant-diffamatoire-calomnieuse-pornographique-ou-obscene-veuillez-consulter-notre-service-commercial-pour-toute-precision-necessaire-avant-la-publication-et-l-utilisation-instar-images-llc-se-reserve-le-droit-de-poursuivre-les-utilisateurs-non-autorises-de-ce-materiel-si-vous-violez-nos-droits-de-propriete-intellectuelle-ou-nos-droits-d-auteur-vous-pouvez-etre-responsable-des-dommages-et-interets-de-la-perte-de-revenus-des-benefices-que-vous-pourriez-tirer-de-l-utilisation-non-autorisee-de-ce-materiel-et-le-cas-echeant-des-frais-de-collecte-et-ou-de-toute-indemnisation-legale-accordee-avec-phil-collins-ou-birmingham-angleterre-royaume-uni-quand-20-septembre-2021-credit-cover-images-instarimages-com",
       "date": "2026-08-03T15:49:10+00:00",
       "date_formatted": "3 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les kinés pourront réaliser des « bilans prévention » dès octobre",
-      "desc": "Les kinés rejoindront cet automne le dispositif « Mon Bilan Prévention » destiné à repérer, entre autres, d’éventuelles maladies ou risque de dépendance, de perte d’au",
-      "url": "https://www.20minutes.fr/sante/4237350-20260802-kines-pourront-realiser-bilans-prevention-octobre?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/mzOfldOeQta_JSmSgj-Teik/1200x768_dossiers-medicaux-de-sante-et-un-stethoscope-le-mans-sarthe-france-10-janvier-2025-07gilemichel-gile092-credit-gile-michel-sipa-2502190931",
-      "date": "2026-08-02T11:19:27+00:00",
-      "date_formatted": "2 August 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
     },
@@ -311,26 +401,6 @@
       "date_formatted": "31 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Pays de Galles : Sa compagne le pousse à consulter, les médecins lui découvrent un cancer du cerveau incurable",
-      "desc": "Un Britannique de 34 ans a découvert qu’il souffrait d’un cancer incurable du cerveau après avoir consulté pour des maux de tête persistants",
-      "url": "https://www.20minutes.fr/monde/4237081-20260730-pays-galles-compagne-pousse-consulter-medecins-decouvrent-cancer-cerveau-incurable?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/U0wZ7w9HRWydYWpHQD3Fxyk/1200x768_l-homme-etait-atteint-d-une-tumeur-au-cerveau-particulierement-agressive",
-      "date": "2026-07-30T15:52:37+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : Un vaccin présenté comme « le plus prometteur » va être développé à Singapour",
-      "desc": "Alors que l’épidémie fait rage en RDC, l’entreprise Hilleman Laboratories a annoncé faire progresser le développement d’un vaccin vers des essais cliniques",
-      "url": "https://www.20minutes.fr/monde/4237040-20260730-ebola-vaccin-presente-comme-plus-prometteur-va-etre-developpe-singapour?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/6GudR5zbS8eab2m9ffbemCk/1200x768_un-medecin-administre-du-serum-a-un-patient-atteint-de-la-maladie-a-virus-ebola-au-centre-de-traitement-ebola-etc-de-rwampara-a-bunia-en-ituri-dans-l-est-de-la-republique-democratique-du-congo-le-13-juillet-2026-les-agents-de-sante-travaillant-a-l-epicentre-de-l-epidemie-d-ebola-en-rd-congo-menacent-de-faire-greve-declarant-a-l-afp-le-13-juillet-qu-ils-n-avaient-pas-ete-payes-depuis-la-detection-du-virus-a-la-mi-mai-cette-maladie-hautement-infectieuse-a-tue-plus-de-700-personnes-parmi-les-quelque-2-000-personnes-infectees-confirmees-en-republique-democratique-du-congo-depuis-la-declaration-de-l-epidemie-le-15-mai-selon-le-dernier-bilan-officiel-publie-le-14-juillet-photo-de-benediction-murhabazi-afp",
-      "date": "2026-07-30T12:56:59+00:00",
-      "date_formatted": "30 July 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Défiance vaccinale: La rougeole frappe durement les Etats-Unis",
@@ -373,16 +443,6 @@
       "type": "science"
     },
     {
-      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
-      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
-      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
-      "image": null,
-      "date": "2026-07-23T14:01:16+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "Canicule de juin : une surmortalité record depuis 2003",
       "desc": "La canicule qui a frappé la France du 17 juin au 2 juillet a provoqué une surmortalité exceptionnelle, avec 5 764 décès supplémentaires recensés dans un bilan encore provisoire de Santé publique France. Alors que ces chiffres alimentent déjà le débat politique sur l’adaptation au changement climatiq",
       "url": "https://www.sciencesetavenir.fr/sante/canicule-de-juin-une-surmortalite-record-depuis-2003-marquee-aussi-chez-les-jeunes_193897?xtor=RSS-16",
@@ -390,146 +450,6 @@
       "date": "2026-07-23T08:35:22+00:00",
       "date_formatted": "23 July 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Notre longévité augmente tandis que notre santé décline",
-      "desc": "Grâce aux avancées médicales, les humains vivent plus longtemps, mais passent plus d’années de leurs vies en mauvaise santé, faute de prévention des maladies chroniques.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-esperance-de-vie-en-bonne-sante-progresse-plus-lentement-que-l-esperance-de-vie_193885?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/21/cover-r4x3w1200-6a5fd748928d3-afp-20260625-apaimg-005627075-v1-highres-themeimagenursingnursingstaffnursingho.jpg",
-      "date": "2026-07-22T09:33:38+00:00",
-      "date_formatted": "22 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
-      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
-      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
-      "image": null,
-      "date": "2026-07-21T08:00:02+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
