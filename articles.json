@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-08-11T12:36:14.281716+00:00",
-  "count": 45,
+  "generated_at": "2026-08-11T18:43:08.544096+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Comment les vagues de chaleur dégradent les conditions de soins dans les hôpitaux ?",
+      "desc": "Entre surmortalité, limitation de soin et dégradation de matériel : des praticiens racontent l’hôpital pendant les canicules.",
+      "url": "https://www.lemonde.fr/videos/video/2026/08/11/comment-les-vagues-de-chaleur-degradent-les-conditions-de-soins-dans-les-hopitaux_6744060_1669088.html",
+      "image": "https://img.lemde.fr/2026/07/30/854/0/5312/2656/644/322/60/0/17ca521_upload-1-ik0gtho40jwe-chubx-023.JPG",
+      "date": "2026-08-11T19:27:54+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hypersomnie idiopathique : un sommeil interminable, suivi d’une somnolence persistante",
+      "desc": "« Etranges nuits » (5/7). Cette maladie neurologique rare, qui apparaît généralement à l’adolescence, touche une à deux personnes sur 10 000. Le traitement est proche de celui de la narcolepsie.",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/11/hypersomnie-idiopathique-un-sommeil-interminable-suivi-d-une-somnolence-persistante_6744022_3451060.html",
+      "image": "https://img.lemde.fr/2026/07/09/0/75/2828/1414/644/322/60/0/10f032a_upload-1-lr1m9ok0gokd-76d3829fhmdr7jxfyv3etrangenuitrvb.jpg",
+      "date": "2026-08-11T19:00:05+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Dominique Libault, haut fonctionnaire et pionnier de la protection sociale, est mort à 64 ans",
+      "desc": "L’énarque, qui a dirigé la Sécurité sociale pendant dix ans, était particulièrement investi sur les champs de l’autonomie et du grand âge. Plusieurs membres du gouvernement lui ont rendu hommage ce mardi 11 août.",
+      "url": "https://www.liberation.fr/societe/dominique-libault-haut-fonctionnaire-et-pionnier-de-la-protection-sociale-est-mort-a-64-ans-20260811_A5SNF2TIBRD47CKSPTNJBPOUGY/",
+      "image": null,
+      "date": "2026-08-11T18:39:01+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Sécheresse : la production de lait de chèvre mise à rude épreuve",
+      "desc": "En Dordogne comme en Ariège, les éleveurs de chèvres font face aux conséquences de la canicule. Entre mortalité, baisse de production de lait et adaptation de la fabrication du fromage, la filière redoute les effets durables des sécheresses.",
+      "url": "https://www.franceinfo.fr/sante/alimentation/secheresse-la-production-de-lait-de-chevre-mise-a-rude-epreuve_8143217.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/EiuPI34aUKoTtscIpckEXS5x-fY/0x44:844x519/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b23f78ce4a073948126.jpg",
+      "date": "2026-08-11T18:04:42+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Vieillir moins vite sans changer votre alimentation ? Cette habitude culturelle étonne les scientifiques",
+      "desc": "Un an de moins sur l'horloge biologique, et un rythme de vieillissement ralenti de 4 %. Ce serait le bénéfice associé à une sortie culturelle hebdomadaire, selon une étude britannique portant sur 3 500 adultes. Des chercheurs y voient un comportement de santé à part entière, au même titre que...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-moins-vite-changer-votre-alimentation-cette-habitude-culturelle-etonne-scientifiques-k2m6-136849/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/4/b/b4b48efe1b_50259184_sante-mentale-musee-vieillissement.jpg",
+      "date": "2026-08-11T18:00:00+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Mort du cinéaste Vincent Dieutre, l’aventurier intérieur",
+      "desc": "Le cinéaste singulier, arpenteur mélancolique, est mort à 65 ans. De «Rome désolée» à «This Is the End», il a construit une œuvre intime et queer, mêlant les villes, les amours, l’art et le désir de se réinventer.",
+      "url": "https://www.liberation.fr/culture/cinema/mort-du-cineaste-vincent-dieutre-laventurier-interieur-20260811_RBK4ZZKDTBCTJG26IEV43E4O3A/",
+      "image": null,
+      "date": "2026-08-11T17:55:33+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 240 morts et plus de 1 300 blessés dans l’ouest du pays",
+      "desc": "D’intenses secousses ont été ressenties jusqu’à Bogotá lundi. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays.",
+      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "image": null,
+      "date": "2026-08-11T17:22:34+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La canicule s’étend sauf au Nord, au moins 13 Français détenus en Asie pour trafic de drogues, abolition de la peine de mort au Liban… L’actu de ce mardi 11 août",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du 11 août.",
+      "url": "https://www.liberation.fr/international/europe/la-canicule-setend-sauf-au-nord-au-moins-13-francais-detenus-en-asie-pour-trafic-de-drogues-abolition-de-la-peine-de-mort-au-liban-lactu-de-ce-mardi-11-aout-20260811_Y3WW7POWBNGRZO5DKJDAGJDOW4/",
+      "image": null,
+      "date": "2026-08-11T16:43:56+00:00",
+      "date_formatted": "11 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "La nouvelle épidémie d'Ebola a franchi le cap des 2 000 morts en République démocratique du Congo",
       "desc": "La maladie a tué plus de 15 000 personnes en Afrique au cours des 50 dernières années.",
@@ -10,26 +90,6 @@
       "date": "2026-08-11T13:19:36+00:00",
       "date_formatted": "11 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En Colombie, «le tremblement de terre a duré une minute qui a semblé une éternité»",
-      "desc": "Le puissant séisme qui a frappé l’ouest du pays lundi 10 août a fait au moins 169 morts et 600 blessés, laissant une impression de désolation et des habitants hébétés.",
-      "url": "https://www.liberation.fr/international/en-colombie-le-tremblement-de-terre-a-dure-une-minute-qui-a-semble-une-eternite-20260811_H4WEF56FPBA7ZBERVHN6QDF3V4/",
-      "image": null,
-      "date": "2026-08-11T12:28:49+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 169 morts et 600 blessés dans l’ouest du pays",
-      "desc": "D’intenses secousses ont été ressenties jusqu’à Bogotá lundi. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali. Six aéroports ont été mis à l’arrêt.",
-      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
-      "image": null,
-      "date": "2026-08-11T12:22:14+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -63,36 +123,6 @@
       "type": "science"
     },
     {
-      "title": "La longévité à toute épreuve de «l’Empereur» Laurent Cathala, maire de Créteil",
-      "desc": "Le socialiste est l’édile le plus ancien de France, à la tête de la préfecture du Val-de-Marne depuis 1977 – cas unique pour une ville de cette taille. Jusqu’ici sans casserole, son règne sans partage face à une opposition morcelée et résignée vient d’être entaché par des soupçons de favoritisme dan",
-      "url": "https://www.liberation.fr/societe/ville/la-longevite-a-toute-epreuve-de-lempereur-laurent-cathala-maire-de-creteil-20260811_UM7JAW7KKNBQLEXQV7X2XOBMRI/",
-      "image": null,
-      "date": "2026-08-11T10:52:11+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Toulouse : deux enquêtes ouvertes après la mort d’un adolescent lors d’une course-poursuite",
-      "desc": "Un conducteur de scooter de 17 ans est mort vendredi soir. Le parquet de Toulouse a ouvert deux enquêtes : pour recherche des causes de la mort, et refus d’obtempérer aggravé par la mise en danger d’autrui et violences volontaires sur dépositaires de l’autorité publique.",
-      "url": "https://www.liberation.fr/societe/police-justice/toulouse-deux-enquetes-ouvertes-apres-la-mort-dun-adolescent-lors-dune-course-poursuite-20260811_YODNJNQ4JJFFNBQJUFQIYBPATI/",
-      "image": null,
-      "date": "2026-08-11T10:46:55+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "En RDC, l’épidémie d’Ebola franchit le cap des 2 000 morts",
-      "desc": "Le bilan de cette 17e vague se rapproche dangereusement de celle de 2018-2020, qui avec près de 2 300 victimes était jusqu’à présent la plus meurtrière jamais enregistrée.",
-      "url": "https://www.liberation.fr/international/afrique/en-rdc-lepidemie-debola-franchit-le-cap-des-2-000-morts-20260811_GTSMHW2OMNA45E72GQCGYSME2E/",
-      "image": null,
-      "date": "2026-08-11T10:36:33+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "« Lorsqu’on légifère sur la fin de vie, on a le devoir de reconnaître les aidants »",
       "desc": "La loi sur l’aide à mourir ne garantit aucun soutien psychologique à « ceux qui restent une fois que tout est fini », alertent la médecin Hélène Rossinot et le chercheur Mickaël Worms-Ehrminger, dans une tribune au « Monde ».",
       "url": "https://www.lemonde.fr/idees/article/2026/08/11/lorsqu-on-legifere-sur-la-fin-de-vie-on-a-le-devoir-de-reconnaitre-les-aidants_6743771_3232.html",
@@ -100,46 +130,6 @@
       "date": "2026-08-11T10:00:09+00:00",
       "date_formatted": "11 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Neuf morts dans des attaques russes, missiles balistiques nord-coréens, censure du parti antiguerre russe… L’actu de la guerre en Ukraine ce mardi 11 août",
-      "desc": "L’essentiel des informations du jour sur la guerre entre Kyiv et Moscou.",
-      "url": "https://www.liberation.fr/international/neuf-morts-dans-des-attaques-russes-missiles-balistiques-nord-coreens-censure-du-parti-antiguerre-russe-lactu-de-la-guerre-en-ukraine-ce-mardi-11-aout-20260811_BGLZYZEDZRFFZG7HE7SUPBN6ZQ/",
-      "image": null,
-      "date": "2026-08-11T09:23:01+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Soudain» avec Virginie Efira : l’une pour l’autre",
-      "desc": "Double prix d’interprétation à Cannes, le film de Ryusuke Hamaguchi, avec l’actrice belge et Tao Okamoto, suit l’amitié entre une directrice d’Ehpad et une artiste atteinte d’un cancer. Un mélodrame thérapeutique qui révèle une profonde mélancolie.",
-      "url": "https://www.liberation.fr/culture/cinema/soudain-de-ryusuke-hamaguchi-et-avec-virginie-efira-lune-pour-lautre-20260811_YA4E3Y2VIVFMHMFJ73DF6KKW3U/",
-      "image": null,
-      "date": "2026-08-11T09:22:00+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Syrie : le président déchu Bachar al-Assad condamné à la peine de mort par contumace",
-      "desc": "L’ex-dirigeant, qui a fui avec sa famille à Moscou lors de la prise de Damas en décembre 2024, a été reconnu ce mardi 11 août coupable de «crimes de guerre» et de «crimes contre l’humanité».",
-      "url": "https://www.liberation.fr/international/moyen-orient/syrie-le-president-dechu-bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-20260811_7RGPHXAGZFFSZB6AHZKQNGGVXI/",
-      "image": null,
-      "date": "2026-08-11T09:06:38+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Etats-Unis : Donald Trump continue son offensive complotiste contre les vaccins",
-      "desc": "Le président des Etats-Unis a signé lundi 10 août un décret appelant à espacer la couverture vaccinale des enfants, tout en faisant allusion à un lien entre la vaccination et l’autisme. Le tout en pleine épidémie de rougeole dans le pays.",
-      "url": "https://www.liberation.fr/international/amerique/etats-unis-donald-trump-continue-son-offensive-complotiste-contre-les-vaccins-20260811_O3L3GHR4DRAHNOR6NGOARC73HI/",
-      "image": null,
-      "date": "2026-08-11T08:31:46+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -178,16 +168,6 @@
       "url": "https://www.franceinfo.fr/sante/l-agence-nationale-du-medicament-alerte-contre-la-promotion-illegale-de-therapies-cellulaires-sans-aucun-fondement-scientifique-sur-internet_8141885.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/PxyvrdlyjzcMm4q3pA_B1gWOaZY/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/10/6a79d5ae0e50b688744707.jpg",
       "date": "2026-08-10T16:19:38+00:00",
-      "date_formatted": "10 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Alerte sur la santé des pompiers",
-      "desc": "Depuis le début des incendies en France, quatre pompiers sont morts et près de 130 ont été intoxiqués par les fumées. Avec l’accélération des feux de végétation causée par le dérèglement climatique, des syndicats alertent sur un “désastre sanitaire” à venir dans les rangs des soldats du feu. À long ",
-      "url": "https://www.franceinfo.fr/faits-divers/incendie/alerte-sur-la-sante-des-pompiers_8138615.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/HuI2bVmk1kEr0LiEQ2_v7iOG0jQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/07/6a75de5d4474d033040988.jpg",
-      "date": "2026-08-10T10:04:06+00:00",
       "date_formatted": "10 August 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -443,6 +423,16 @@
       "type": "science"
     },
     {
+      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
+      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
+      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
+      "image": null,
+      "date": "2026-07-23T14:01:16+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Canicule de juin : une surmortalité record depuis 2003",
       "desc": "La canicule qui a frappé la France du 17 juin au 2 juillet a provoqué une surmortalité exceptionnelle, avec 5 764 décès supplémentaires recensés dans un bilan encore provisoire de Santé publique France. Alors que ces chiffres alimentent déjà le débat politique sur l’adaptation au changement climatiq",
       "url": "https://www.sciencesetavenir.fr/sante/canicule-de-juin-une-surmortalite-record-depuis-2003-marquee-aussi-chez-les-jeunes_193897?xtor=RSS-16",
@@ -450,6 +440,136 @@
       "date": "2026-07-23T08:35:22+00:00",
       "date_formatted": "23 July 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
+      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
+      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
+      "image": null,
+      "date": "2026-07-21T08:00:02+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
+      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
+      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
+      "image": null,
+      "date": "2026-05-21T15:07:03+00:00",
+      "date_formatted": "21 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
+      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
+      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
+      "image": null,
+      "date": "2026-05-20T23:05:57+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
+      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
+      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
+      "image": null,
+      "date": "2026-05-20T15:49:59+00:00",
+      "date_formatted": "20 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
+      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
+      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
+      "image": null,
+      "date": "2026-05-06T13:49:51+00:00",
+      "date_formatted": "6 May 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
+      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
+      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
+      "image": null,
+      "date": "2026-04-30T09:44:28+00:00",
+      "date_formatted": "30 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
+      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
+      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
+      "image": null,
+      "date": "2026-04-27T13:36:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
