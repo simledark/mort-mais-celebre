@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-10T18:39:23.282563+00:00",
-  "count": 53,
+  "generated_at": "2026-08-11T00:46:49.667834+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "\"Une juste et belle reconnaissance\" : dix ans après avoir été gravement brûlé, Lucas Canuel rêve toujours de devenir pompier professionnel",
+      "desc": "Il y a dix ans jour pour jour, Lucas Canuel, jeune sapeur-pompier volontaire, était piégé par les flammes. L'un de ses collègues est mort, lui a passé trois mois dans le coma et a traversé des moments très difficiles, mais poursuit son rêve de devenir pompier professionnel.",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/une-juste-et-belle-reconnaissance-dix-ans-apres-avoir-ete-gravement-brule-lucas-canuel-reve-toujours-de-devenir-pompier-professionnel_8142308.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/PTXNm2joHnMYoMJSEa6aGF2gkvg/0x50:1355x813/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a183345af7280726834.jpg",
+      "date": "2026-08-10T22:14:04+00:00",
+      "date_formatted": "10 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 111 morts et 87 blessés dans l’ouest du pays",
+      "desc": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août au matin. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays. Six aéroports ont été mis à l’arrêt.",
+      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "image": null,
+      "date": "2026-08-10T18:52:37+00:00",
+      "date_formatted": "10 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Guerre au Moyen-Orient : Trump annonce qu’il va réclamer des «compensations» à l’Iran",
       "desc": "Le président américain affirme ce lundi 10 août que Téhéran doit payer pour les morts liées à des attaques menées par l’Iran ces dernières décennies contre ses adversaires à l’étranger ou contre des manifestants iraniens. Ce qui rend encore plus improbable un accord rapide entre les deux pays.",
@@ -20,16 +40,6 @@
       "date": "2026-08-10T17:46:28+00:00",
       "date_formatted": "10 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Colombie : un fort séisme de magnitude 7,4 dans l’ouest du pays, le bilan s’alourdit à 69 morts",
-      "desc": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août. Des victimes sont à déplorer dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays. Six aéroports ont été mis à l’arrêt en raison des dégâts matériels.",
-      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
-      "image": null,
-      "date": "2026-08-10T17:24:27+00:00",
-      "date_formatted": "10 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
