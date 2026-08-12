@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-08-12T12:39:16.743063+00:00",
-  "count": 56,
+  "generated_at": "2026-08-12T18:44:02.990993+00:00",
+  "count": 54,
   "articles": [
     {
-      "title": "Après l’incendie, les sinistrés du Porge tentent de rebâtir leur vie : «On se croirait dans l’après-guerre, quand les gens avaient tout perdu»",
-      "desc": "Près de deux semaines après le mégafeu qui a ravagé 183 maisons dans cette commune de Gironde, l’une des plus endeuillées, la maison France Services Victimes guide les habitants dans ce temps de l’après. Entre relogement, assurance et impôts, «Libé» a passé une journée dans ce centre de crise.",
-      "url": "https://www.liberation.fr/societe/on-se-croirait-dans-lapres-guerre-quand-les-gens-avaient-tout-perdu-apres-lincendie-les-sinistres-du-porge-tentent-de-rebatir-leur-vie-20260812_LQJB5S3TGJBZPL2SPT2MJYFASE/",
+      "title": "Canicule et mortalité : logements, inégalités sociales et hôpitaux en tension, ces enjeux essentiels mis de côté",
+      "desc": "Le gouvernement axe sa communication sur des mesures comportementales individuelles, de prévention ou de vigilance, mais ne met pas l’accent sur un certain nombre de questions centrales, si l’on veut lutter contre les effets sanitaires les plus graves.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/12/canicule-et-mortalite-logements-inegalites-sociales-et-hopitaux-en-tension-ces-enjeux-essentiels-mis-de-cote_6745069_3224.html",
+      "image": "https://img.lemde.fr/2026/07/21/562/0/6735/3367/644/322/60/0/cb0bc97_ftp-1-fe02plla6aom-2026-07-21t060726z-1185403991-rc28emaeum4d-rtrmadp-3-europe-weather-france-deaths.JPG",
+      "date": "2026-08-12T16:00:03+00:00",
+      "date_formatted": "12 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Deux-Sèvres : trois morts dans un incendie parti d’un champ, enquête ouverte pour homicide involontaire",
+      "desc": "Les premiers corps retrouvés, totalement calcinés, n’étaient pas identifiables, selon la gendarmerie. Plusieurs départs de feu ont été signalés dans ce champ de Lhoumois.",
+      "url": "https://www.liberation.fr/societe/police-justice/deux-sevres-un-incendie-parti-dun-champ-brule-une-maison-trois-morts-20260812_3RA4GGEPAVFYNEXJXRPW7YUKWQ/",
       "image": null,
-      "date": "2026-08-12T10:12:10+00:00",
+      "date": "2026-08-12T15:28:06+00:00",
       "date_formatted": "12 August 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : la croisade des établissements de santé catholiques pour introduire une clause de conscience collective",
+      "desc": "Le Conseil constitutionnel doit se prononcer d’ici à dimanche 16 août sur cinq saisines d’opposants à la proposition de loi adoptée à l’Assemblée mi-juillet. Ils soutiennent la demande des établissements médico-sociaux catholiques d’obtenir le droit de ne pas pratiquer l’aide à mourir.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
+      "image": "https://img.lemde.fr/2026/08/11/869/0/2000/1000/644/322/60/0/6e119ac_upload-1-cdtjvptm15ti-aquindo-clausedeconscience.jpg",
+      "date": "2026-08-12T15:02:31+00:00",
+      "date_formatted": "12 August 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -23,16 +43,6 @@
       "type": "science"
     },
     {
-      "title": "Deux-Sèvres : un incendie parti d’un champ brûle une maison, trois morts",
-      "desc": "Les premiers corps retrouvés, totalement calcinés, n’étaient pas identifiables, selon la gendarmerie. Plusieurs départs de feu ont été signalés dans ce champ de Lhoumois.",
-      "url": "https://www.liberation.fr/societe/police-justice/deux-sevres-un-incendie-parti-dun-champ-brule-une-maison-trois-morts-20260812_3RA4GGEPAVFYNEXJXRPW7YUKWQ/",
-      "image": null,
-      "date": "2026-08-12T09:35:15+00:00",
-      "date_formatted": "12 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "« Nous ne nous attendions pas à ça » : les microplastiques pourraient être liés à trois grandes maladies chroniques",
       "desc": "Les microplastiques. Ils sont partout. Et les scientifiques cherchent désormais à déterminer si cette omniprésence dans notre environnement pourrait nuire à notre santé. Ils rapportent aujourd’hui un lien avec plusieurs maladies chroniques comme l’hypertension, le diabète ou les accidents...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-nous-ne-nous-attendions-pas-ca-microplastiques-pourraient-etre-lies-trois-grandes-maladies-chroniques-w2t8-136851/#xtor%3DRSS-8",
@@ -41,26 +51,6 @@
       "date_formatted": "12 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Séisme en Colombie : au moins 216 morts et plus de 1 600 blessés selon un dernier bilan, des rescapés secourus",
-      "desc": "Trois jours après la catastrophe, de nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays, tandis que les recherches de survivants se poursuivent.",
-      "url": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
-      "image": null,
-      "date": "2026-08-12T07:16:35+00:00",
-      "date_formatted": "12 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-08-12T07:03:16+00:00",
-      "date_formatted": "12 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Incendie en Gironde : plus de 1 500 consultations en deux semaines assurées par la cellule d'urgence médico-psychologique",
@@ -170,16 +160,6 @@
       "date": "2026-08-11T06:30:05+00:00",
       "date_formatted": "11 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Une juste et belle reconnaissance\" : dix ans après avoir été gravement brûlé, Lucas Canuel rêve toujours de devenir pompier professionnel",
-      "desc": "Il y a dix ans jour pour jour, Lucas Canuel, jeune sapeur-pompier volontaire, était piégé par les flammes. L'un de ses collègues est mort, lui a passé trois mois dans le coma et a traversé des moments très difficiles, mais poursuit son rêve de devenir pompier professionnel.",
-      "url": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/une-juste-et-belle-reconnaissance-dix-ans-apres-avoir-ete-gravement-brule-lucas-canuel-reve-toujours-de-devenir-pompier-professionnel_8142308.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/PTXNm2joHnMYoMJSEa6aGF2gkvg/0x50:1355x813/432x243/filters:format(jpg):quality(50)/2026/08/10/6a7a183345af7280726834.jpg",
-      "date": "2026-08-10T22:14:04+00:00",
-      "date_formatted": "10 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
