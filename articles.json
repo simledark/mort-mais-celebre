@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-08-13T07:07:31.783059+00:00",
-  "count": 55,
+  "generated_at": "2026-08-13T12:40:11.878172+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "Pourquoi l'épidémie d'Ebola qui se répand en République démocratique du Congo est en passe de devenir la plus importante de l'histoire",
+      "desc": "Le virus hautement mortel a déjà fait plus de 2 000 morts en deux mois, à cause notamment d'un rythme de transmission exceptionnel, relève l'OMS.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/pourquoi-l-epidemie-d-ebola-qui-se-repand-en-republique-democratique-du-congo-est-en-passe-de-devenir-la-plus-importante-de-l-histoire_8145854.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/YiKDsi4H6x9ALk1RhGomvl9-v8M/0x16:3000x1704/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d80fdb892c735731541.jpg",
+      "date": "2026-08-13T11:02:07+00:00",
+      "date_formatted": "13 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La sécheresse favorise aussi... la propagation de certaines maladies infectieuses",
+      "desc": "Dans une étude publiée mercredi 12 août, des chercheurs établissent trois mécanismes écologiques provoqués par le manque d’eau, qui entraînent une diffusion accrue de virus ou bactéries à l’origine du choléra, de la dengue, de la Maladie du sommeil ou de la fièvre du Nil occidental.",
+      "url": "https://www.liberation.fr/environnement/climat/la-secheresse-favorise-aussi-la-propagation-de-certaines-maladies-infectieuses-20260813_5C2XLHQ2RFE5FLHIANST4C346Q/",
+      "image": null,
+      "date": "2026-08-13T10:53:13+00:00",
+      "date_formatted": "13 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "image": null,
+      "date": "2026-08-13T08:36:19+00:00",
+      "date_formatted": "13 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Les troubles du sommeil précéderaient de plusieurs années les premiers symptômes de la maladie de Charcot",
       "desc": "Des chercheurs de l'Inserm viennent de faire un pas en avant dans la compréhension de la maladie de Charcot (SLA), offrant l'espoir d'une nouvelle piste thérapeutique pour ralentir sa progression. Ils ont identifié l’implication de l’hypothalamus et découvert que les altérations du sommeil...",
@@ -13,33 +43,13 @@
       "type": "science"
     },
     {
-      "title": "Séisme en Colombie : le bilan monte à 265 morts et 500 disparus, la recherche de survivants entre dans une phase critique",
-      "desc": "Le président colombien a revu le bilan du tremblement de terre à la hausse, au moment où le sauvetage des disparus devient particulièrement urgent.",
-      "url": "https://www.liberation.fr/international/amerique/seisme-en-colombie-le-bilan-monte-a-265-morts-et-500-disparus-la-recherche-de-survivants-dans-une-phase-decisive-20260813_XMMZMXONV5EPROMX4RYJOMWJD4/",
-      "image": null,
-      "date": "2026-08-13T06:59:47+00:00",
+      "title": "Deux morts, 41 cas… La légionellose en pleine recrudescence en Savoie",
+      "desc": "Selon un bilan de l’ARS Auvergne-Rhône-Alpes, 41 cas de légionellose ont été déclarés aux autorités sanitaires en Savoie entre le 1er juin et le 10 août",
+      "url": "https://www.20minutes.fr/societe/4238967-20260813-deux-morts-41-cas-legionellose-pleine-recrudescence-savoie?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/yDSDeEHUQS2D5D4dC8kaQik/1200x768_le-service-des-urgences-de-l-hopital-pellegrin-qui-fait-partie-du-chu-de-bordeaux-pendant-la-canicule-qui-sevit-en-france-le-departement-de-la-gironde-est-en-alerte-rouge-en-raison-de-la-canicule-a-bordeaux-le-23-juin-2026-amezugo-urgences-5-credit-ugo-amez-sipa-2606231212",
+      "date": "2026-08-13T04:32:51+00:00",
       "date_formatted": "13 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Rosa Montero : quand un clone humain mène l’enquête",
-      "desc": "Dans «Des animaux difficiles», l’autrice espagnole décrit un monde sous l’emprise de l’intelligence artificielle où même les machines rêvent d’immortalité.",
-      "url": "https://www.liberation.fr/culture/livres/rosa-montero-quand-un-clone-humain-mene-lenquete-20260813_NXYFJO7LFRC7JH4QDHD4PPZGRM/",
-      "image": null,
-      "date": "2026-08-13T05:55:00+00:00",
-      "date_formatted": "13 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Vladimir Nabokov vs Edmund Wilson : la traduction de la discorde",
-      "desc": "Entre le romancier russe exilé aux Etats-Unis et le critique du «New Yorker», figure majeure de la vie intellectuelle américaine, vingt ans d’une amitié aussi riche qu’intime se fracasseront quand l’écrivain décidera de traduire «Eugène Onéguine». Jusqu’à régler leurs comptes par journaux interposés",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/vladimir-nabokov-vs-edmund-wilson-la-traduction-de-la-discorde-20260813_MQ6K4CTMENBAFIJJC5KGZKVHPQ/",
-      "image": null,
-      "date": "2026-08-13T05:00:00+00:00",
-      "date_formatted": "13 August 2026",
-      "source": "Libération",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -50,16 +60,6 @@
       "date": "2026-08-12T20:47:47+00:00",
       "date_formatted": "12 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’Olivier Echaudemaison, maquilleur de stars et ancien directeur créatif chez Guerlain",
-      "desc": "Le spécialiste de la beauté est mort à l’âge de 84 ans, a annoncé mercredi 12 août, la marque de luxe qu’il avait rejointe en 2000.",
-      "url": "https://www.liberation.fr/culture/mort-dolivier-echaudemaison-maquilleur-de-stars-et-ancien-directeur-creatif-chez-guerlain-20260812_ANWMRC7WOJG3LEIHJ5EBWHSERI/",
-      "image": null,
-      "date": "2026-08-12T20:03:55+00:00",
-      "date_formatted": "12 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -133,16 +133,6 @@
       "type": "science"
     },
     {
-      "title": "Sécheresse : la production de lait de chèvre mise à rude épreuve",
-      "desc": "En Dordogne comme en Ariège, les éleveurs de chèvres font face aux conséquences de la canicule. Entre mortalité, baisse de production de lait et adaptation de la fabrication du fromage, la filière redoute les effets durables des sécheresses.",
-      "url": "https://www.franceinfo.fr/sante/alimentation/secheresse-la-production-de-lait-de-chevre-mise-a-rude-epreuve_8143217.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/EiuPI34aUKoTtscIpckEXS5x-fY/0x44:844x519/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7b23f78ce4a073948126.jpg",
-      "date": "2026-08-11T18:04:42+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Vieillir moins vite sans changer votre alimentation ? Cette habitude culturelle étonne les scientifiques",
       "desc": "Un an de moins sur l'horloge biologique, et un rythme de vieillissement ralenti de 4 %. Ce serait le bénéfice associé à une sortie culturelle hebdomadaire, selon une étude britannique portant sur 3 500 adultes. Des chercheurs y voient un comportement de santé à part entière, au même titre que...",
       "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-moins-vite-changer-votre-alimentation-cette-habitude-culturelle-etonne-scientifiques-k2m6-136849/#xtor%3DRSS-8",
@@ -151,16 +141,6 @@
       "date_formatted": "11 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "La nouvelle épidémie d'Ebola a franchi le cap des 2 000 morts en République démocratique du Congo",
-      "desc": "La maladie a tué plus de 15 000 personnes en Afrique au cours des 50 dernières années.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-a-franchi-le-cap-des-2-000-morts-en-republique-democratique-du-congo_8143049.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ldOo832skQFJGGHmKzxZ1Z96qAk/0x100:1024x676/432x243/filters:format(jpg):quality(50)/2026/08/11/6a7af5f7daa79568238079.jpg",
-      "date": "2026-08-11T13:19:36+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola : l’épidémie a fait plus de 2 000 morts en RDC",
@@ -329,16 +309,6 @@
       "image": "https://img.20mn.fr/j4T8XrS4RjujZz2QV8nagCk/1200x768_les-deux-personnes-decedees",
       "date": "2026-08-05T09:34:36+00:00",
       "date_formatted": "5 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Phil Collins révèle qu’il a failli mourir en 2024 à cause de sa consommation d’alcool excessive",
-      "desc": "Le chanteur de Genesis a dû être hospitalisé à deux reprises cette année-là",
-      "url": "https://www.20minutes.fr/arts-stars/people/4237639-20260803-phil-collins-revele-failli-mourir-2024-cause-consommation-alcool-excessive?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/0fXT8qXyRJ-MJO6fFlZawyk/1200x768_birmingham-royaume-uni-20210920-phil-collins-se-produit-lors-de-la-tournee-de-retrouvailles-de-genesis-last-domino-le-premier-soir-genesis-se-produira-lors-de-la-premiere-soiree-de-leur-tournee-de-retrouvailles-last-domino-a-l-utilita-arena-de-birmingham-il-s-agit-de-la-premiere-performance-live-du-groupe-en-13-ans-sur-la-photo-phil-collins-photo-de-cover-images-instarimages-com-ad2ci134-jpg-il-s-agit-d-une-image-editoriale-geree-par-les-droits-veuillez-contacter-instar-images-llc-pour-obtenir-des-informations-sur-les-frais-de-licence-et-les-droits-a-l-adresse-sales-instarimages-com-ou-appelez-le-1-212-414-0207-cette-image-ne-peut-etre-publiee-d-aucune-maniere-qui-soit-ou-pourrait-etre-consideree-comme-etant-diffamatoire-calomnieuse-pornographique-ou-obscene-veuillez-consulter-notre-service-commercial-pour-toute-precision-necessaire-avant-la-publication-et-l-utilisation-instar-images-llc-se-reserve-le-droit-de-poursuivre-les-utilisateurs-non-autorises-de-ce-materiel-si-vous-violez-nos-droits-de-propriete-intellectuelle-ou-nos-droits-d-auteur-vous-pouvez-etre-responsable-des-dommages-et-interets-de-la-perte-de-revenus-des-benefices-que-vous-pourriez-tirer-de-l-utilisation-non-autorisee-de-ce-materiel-et-le-cas-echeant-des-frais-de-collecte-et-ou-de-toute-indemnisation-legale-accordee-avec-phil-collins-ou-birmingham-angleterre-royaume-uni-quand-20-septembre-2021-credit-cover-images-instarimages-com",
-      "date": "2026-08-03T15:49:10+00:00",
-      "date_formatted": "3 August 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
     },
