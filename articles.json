@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-14T00:55:01.920165+00:00",
-  "count": 50,
+  "generated_at": "2026-08-14T07:03:49.047266+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire",
+      "desc": "La maladie d'Alzheimer est difficile à diagnostiquer, car ses symptômes apparaissent progressivement et peuvent être confondus avec d'autres troubles. Pourtant, un diagnostic précoce aide à ralentir son évolution. Parmi les signes les plus précoces, les troubles du langage sont souvent sous-estimés.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ces-troubles-langage-peuvent-apparaitre-bien-avant-pertes-memoire-w2t8-136855/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/5/c/a5cb1d39e0_50259189_troubles-langage-alzheimer.jpg",
+      "date": "2026-08-14T08:00:00+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Quiz : Clint Eastwood, pour une poignée de septième art",
+      "desc": "(24/30) Combien de films a-t-il réalisés ? Qui l’a immortalisé en chanson ? Combien de fois a-t-il tourné avec Sergio Leone ?",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-clint-eastwood-pour-une-poignee-de-septieme-art-20260814_CJ4DLY4TPNCH7D3UEHVER2ZDG4/",
+      "image": null,
+      "date": "2026-08-14T04:02:00+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Une IA crée des virus inconnus : espoir contre les bactéries résistantes ou menace pour votre sécurité ?",
       "desc": "Et si l’intelligence artificielle pouvait imaginer les futurs alliés de la médecine ? En concevant les génomes de virus capables de s’attaquer aux bactéries, des chercheurs ont ouvert une nouvelle piste contre l’antibiorésistance. Une prouesse prometteuse qui oblige aussi à réfléchir dès...",
