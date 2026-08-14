@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-08-14T12:36:03.706998+00:00",
-  "count": 53,
+  "generated_at": "2026-08-14T18:37:43.953770+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "«Le matin du 4 décembre, j’ai tiré sur M. Thompson et il est mort» : Luigi Mangione reconnaît avoir tué le PDG de UnitedHealthcare",
+      "desc": "L’homme de 28 ans a admis ce vendredi 14 août sa culpabilité en plaidant coupable pour des faits de harcèlement devant une juge fédérale de New York. Le parquet a déjà annoncé qu’il allait requérir la prison à vie.",
+      "url": "https://www.liberation.fr/international/amerique/le-matin-du-4-decembre-jai-tire-sur-m-thompson-et-il-est-mort-luigi-mangione-reconnait-avoir-tue-le-pdg-de-unitedhealthcare-20260814_KD3SBY4HRVHGNIBOIF2R2UU7JI/",
+      "image": null,
+      "date": "2026-08-14T18:08:29+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du cycliste britannique Finlay Tarling, percuté par une voiture lors du Tour du Portugal",
+      "desc": "Le coureur de l’équipe NSN Development Team a été tué ce vendredi 14 août par un véhicule qui circulait semble-t-il en sens inverse sur le parcours de la huitième étape.",
+      "url": "https://www.liberation.fr/sports/cyclisme/mort-du-cycliste-britannique-finlay-tarling-percute-par-une-voiture-lors-du-tour-du-portugal-20260814_CTCXQEF6RFFEJOJS5BAECMKP4I/",
+      "image": null,
+      "date": "2026-08-14T17:16:31+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le Conseil constitutionnel valide la loi sur la fin de vie, les établissements catholiques obtiennent leur « clause de conscience »",
+      "desc": "Dans une décision rendue vendredi 14 août, l’institution assure « la liberté personnelle » d’un malade d’accéder à l’administration d’une substance létale à sa demande et après accord d’un médecin. En revanche, la décision exempte les établissements privés et associatifs de l’obligation de permettre",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/14/le-conseil-constitutionnel-valide-la-loi-sur-la-fin-de-vie-les-etablissements-catholiques-obtiennent-leur-clause-de-conscience_6746261_3224.html",
+      "image": "https://img.lemde.fr/2026/07/15/143/0/2500/1250/644/322/60/0/93a863d_upload-1-fsu0ipqi0nah-jmug260715027.jpg",
+      "date": "2026-08-14T15:49:20+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : le Conseil constitutionnel valide la loi créant un droit à l’aide à mourir, en émettant trois réserves",
+      "desc": "Le Conseil juge notamment qu’un établissement privé peut refuser de pratiquer l’aide à mourir « lorsqu’une telle procédure est manifestement contraire aux missions statutaires ou au projet de l’établissement » et à condition qu’il ne soit pas seul à pouvoir répondre aux « besoins locaux ».",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/14/fin-de-vie-le-conseil-constitutionnel-valide-la-loi-creant-un-droit-a-l-aide-a-mourir-en-emettant-trois-reserves_6746258_3224.html",
+      "image": "https://img.lemde.fr/2026/08/14/0/0/5102/2551/644/322/60/0/724e03a_upload-1-lsugnbgpgy3z-000-48cf4zq.jpg",
+      "date": "2026-08-14T15:22:44+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "image": null,
+      "date": "2026-08-14T14:24:54+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : Le Conseil constitutionnel valide la loi sur l’aide à mourir, avec quelques réserves",
+      "desc": "Les Sages ont validé vendredi l’ensemble de la loi créant un droit à l’aide à mourir. Ils encadrent toutefois la possibilité pour certains établissements privés de refuser de pratiquer l’acte",
+      "url": "https://www.20minutes.fr/societe/4239244-20260814-fin-vie-conseil-constitutionnel-valide-loi-aide-mourir-quelques-reserves?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/q7XfFnJrQliL3i_Vyiu7yCk/1200x768_les-soins-aux-personnes-agees-couvrent-divers-services-et-soutiens-destines-aux-personnes-agees-notamment-les-maisons-de-retraite-les-soins-de-fin-de-vie-et-l-assistance-medicale-il-implique-des-professionnels-de-sante-tels-que-des-medecins-des-infirmieres-et-des-soignants-pour-traiter-des-maladies-telles-que-la-maladie-d-alzheimer-et-la-maladie-de-parkinson-le-soutien-comprend-egalement-la-readaptation-les-aides-a-la-mobilite-et-les-therapies-visant-a-ameliorer-le-bien-etre-et-la-qualite-de-vie-biau-christine-sipa2984-credit-christine-biau-sipa-2502261510",
+      "date": "2026-08-14T13:08:25+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Ils mangent sans grossir : copier ce détail dans leurs gènes pourrait faire la différence pour votre santé",
       "desc": "Des chercheurs évoquent la piste génétique pour expliquer le fait que certaines personnes ne grossissent pas malgré leur alimentation et que d’autres prennent du poids au moindre écart.",
@@ -20,16 +80,6 @@
       "date": "2026-08-14T10:30:06+00:00",
       "date_formatted": "14 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Au Japon, cinq morts lors de pluies diluviennes «sans précédent» près de Tokyo",
-      "desc": "Les météorologistes ont émis pour la première fois le niveau d’alerte maximal dans le département de Chiba jeudi 13 août. 26 000 foyers sont privés d’électricité et 6 000 personnes sont restées bloquées à l’aéroport de Narita.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/au-japon-cinq-morts-lors-de-pluies-diluviennes-sans-precedent-pres-de-tokyo-20260814_OOWEUQAQK5BBTFC77EDQ6KG2U4/",
-      "image": null,
-      "date": "2026-08-14T08:57:37+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -233,26 +283,6 @@
       "type": "science"
     },
     {
-      "title": "On pense d'abord au cœur… pourtant, ces trois facteurs pourraient vous priver de 13 ans de vie sans démence",
-      "desc": "Et si quelques gestes de prévention à l’âge mûr permettaient de conserver ses capacités cognitives pendant plus d’une décennie supplémentaire ? Une vaste étude suivie durant 26 ans met en lumière un levier majeur pour repousser l’apparition de la démence… avec des résultats bien plus...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-on-pense-abord-coeur-pourtant-ces-trois-facteurs-pourraient-vous-priver-13-ans-vie-demence-136818/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/1/8/a18aef155c_50259166_vieillissement-cerveau.jpg",
-      "date": "2026-08-09T09:29:10+00:00",
-      "date_formatted": "9 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Et si l'origine de la maladie d'Alzheimer se trouvait dans notre bouche ? Voici la fascinante piste explorée par des chercheurs",
-      "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-origine-maladie-alzheimer-trouvait-notre-bouche-voici-fascinante-piste-exploree-chercheurs-w2t8-136725/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/b/c/bbc2947641_50258985_2-alzheimer-bacteries-bouche.jpg",
-      "date": "2026-08-09T08:00:00+00:00",
-      "date_formatted": "9 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Hantavirus : L’isolement recommandé pour les proches du touriste franco-argentin avec un risque faible de transmission",
       "desc": "Les proches du touriste franco-argentin diagnostiqué positif à l’hantavirus en France avant de s’isoler en Espagne sont invités à s’isoler. Selon les autorités françaises, le risque de transmission reste tout de même faible",
       "url": "https://www.20minutes.fr/sante/4238245-20260807-hantavirus-risque-faible-transmission-isolement-recommande-proches-touriste-franco-argentin?at_medium=display&at_campaign=149",
@@ -311,16 +341,6 @@
       "date_formatted": "6 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Chikungunya, dengue, virus du Nil… De nouveaux cas identifiés dans le sud de la France",
-      "desc": "De nouveaux cas autochtones de chikungunya, de dengue et de virus du Nil occidental ont été recensés dans le sud de la France. Santé publique France appelle à une vigilance renforcée",
-      "url": "https://www.20minutes.fr/sante/4237995-20260805-chikungunya-dengue-virus-nil-nouveaux-cas-identifies-sud-france?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/twxQ46VxRxee2rtwUN_9lCk/1200x768_le-moustique-tigre-aedes-albopictus-est-present-et-actif-dans-les-8-departements-de-la-region-ile-de-france-il-est-suivi-de-pres-par-l-agence-regionale-de-sante-car-il-peut-transmettre-des-virus-comme-la-dengue-le-chikungunya-et-le-zika-paris-france-30-07-2026-meigneux-meigneux-01-credit-romuald-meigneux-sipa-2607301136",
-      "date": "2026-08-05T18:53:54+00:00",
-      "date_formatted": "5 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Et si l'espérance de vie venait à baisser",
@@ -390,16 +410,6 @@
       "date": "2026-07-23T14:01:16+00:00",
       "date_formatted": "23 July 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Canicule de juin : une surmortalité record depuis 2003",
-      "desc": "La canicule qui a frappé la France du 17 juin au 2 juillet a provoqué une surmortalité exceptionnelle, avec 5 764 décès supplémentaires recensés dans un bilan encore provisoire de Santé publique France. Alors que ces chiffres alimentent déjà le débat politique sur l’adaptation au changement climatiq",
-      "url": "https://www.sciencesetavenir.fr/sante/canicule-de-juin-une-surmortalite-record-depuis-2003-marquee-aussi-chez-les-jeunes_193897?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/22/cover-r4x3w1200-6a60e5f8d5a8e-4df736cd5ec3a6208de490992e1419e7b37e606e-jpg.jpg",
-      "date": "2026-07-23T08:35:22+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
