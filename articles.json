@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-08-14T07:03:49.047266+00:00",
-  "count": 52,
+  "generated_at": "2026-08-14T12:36:03.706998+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Ils mangent sans grossir : copier ce détail dans leurs gènes pourrait faire la différence pour votre santé",
+      "desc": "Des chercheurs évoquent la piste génétique pour expliquer le fait que certaines personnes ne grossissent pas malgré leur alimentation et que d’autres prennent du poids au moindre écart.",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-ils-mangent-grossir-copier-ce-detail-leurs-genes-pourrait-faire-difference-votre-sante-136926/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/4/e/14e14add22_50259374_alimentation-grossir-surpoids.jpg",
+      "date": "2026-08-14T13:02:23+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Pour lutter contre Ebola, la réponse internationale prise de vitesse",
+      "desc": "Depuis l’épidémie ouest-africaine de 2014-2016 et celle de Covid-19 en 2020, la « préparation aux pandémies » est devenue un mot d’ordre international. Cela n’a pas empêché de nouvelles failles d’apparaître à l’occasion de cette nouvelle crise. L’argent, même lorsqu’il est disponible, arrive souvent",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/14/pour-lutter-contre-ebola-la-reponse-internationale-prise-de-vitesse_6746231_3232.html",
+      "image": "https://img.lemde.fr/2026/08/12/688/0/8256/4128/644/322/60/0/aadd6ce_ftp-1-3hpct7nvdq2s-9d9d9801489b4d87907a7f539f83fdf6-3-f93bdce5db7b4cd5befbc571ae85a75f.jpg",
+      "date": "2026-08-14T10:30:06+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au Japon, cinq morts lors de pluies diluviennes «sans précédent» près de Tokyo",
+      "desc": "Les météorologistes ont émis pour la première fois le niveau d’alerte maximal dans le département de Chiba jeudi 13 août. 26 000 foyers sont privés d’électricité et 6 000 personnes sont restées bloquées à l’aéroport de Narita.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/au-japon-cinq-morts-lors-de-pluies-diluviennes-sans-precedent-pres-de-tokyo-20260814_OOWEUQAQK5BBTFC77EDQ6KG2U4/",
+      "image": null,
+      "date": "2026-08-14T08:57:37+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire",
       "desc": "La maladie d'Alzheimer est difficile à diagnostiquer, car ses symptômes apparaissent progressivement et peuvent être confondus avec d'autres troubles. Pourtant, un diagnostic précoce aide à ralentir son évolution. Parmi les signes les plus précoces, les troubles du langage sont souvent sous-estimés.",
@@ -11,16 +41,6 @@
       "date_formatted": "14 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Quiz : Clint Eastwood, pour une poignée de septième art",
-      "desc": "(24/30) Combien de films a-t-il réalisés ? Qui l’a immortalisé en chanson ? Combien de fois a-t-il tourné avec Sergio Leone ?",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-clint-eastwood-pour-une-poignee-de-septieme-art-20260814_CJ4DLY4TPNCH7D3UEHVER2ZDG4/",
-      "image": null,
-      "date": "2026-08-14T04:02:00+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Une IA crée des virus inconnus : espoir contre les bactéries résistantes ou menace pour votre sécurité ?",
@@ -40,16 +60,6 @@
       "date": "2026-08-13T18:50:40+00:00",
       "date_formatted": "13 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Dans le Finistère, enquête ouverte sur la mort d’une fillette de 2 ans après une possible intoxication alimentaire",
-      "desc": "L’enfant est morte le 1er août à l’hôpital de Brest, quelques jours après avoir mangé dans un restaurant de Quimper où elle aurait contracté la bactérie E.coli, selon sa mère. «A ce stade», les analyses dans l’établissement n’ont rien révélé, précise le parquet ce jeudi.",
-      "url": "https://www.liberation.fr/societe/police-justice/dans-le-finistere-enquete-ouverte-sur-la-mort-dune-fillette-de-deux-ans-apres-une-possible-intoxication-alimentaire-20260813_2N54RJFTP5DAZAN6BLMAUQAGM4/",
-      "image": null,
-      "date": "2026-08-13T17:57:42+00:00",
-      "date_formatted": "13 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
