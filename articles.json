@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-14T18:37:43.953770+00:00",
-  "count": 54,
+  "generated_at": "2026-08-15T00:31:49.356471+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Un décès \"toutes les 30 minutes\" : l'ONU appelle le monde à \"se réveiller\" face à l'épidémie d'Ebola en République démocratique du Congo",
+      "desc": "L'épidémie \"est la plus rapide jamais enregistrée\" dans l'histoire du virus, a alerté, vendredi, le chef des affaires humanitaires de l'ONU.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-deces-toutes-les-30-minutes-l-onu-appelle-le-monde-a-se-reveiller-face-a-l-epidemie-d-ebola-en-republique-democratique-du-congo_8148134.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/UbsE2AvY5Pk-irSZdu6YThwVuTo/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f8f7da2a7e540089132.jpg",
+      "date": "2026-08-14T23:58:43+00:00",
+      "date_formatted": "14 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "«Le matin du 4 décembre, j’ai tiré sur M. Thompson et il est mort» : Luigi Mangione reconnaît avoir tué le PDG de UnitedHealthcare",
       "desc": "L’homme de 28 ans a admis ce vendredi 14 août sa culpabilité en plaidant coupable pour des faits de harcèlement devant une juge fédérale de New York. Le parquet a déjà annoncé qu’il allait requérir la prison à vie.",
@@ -40,16 +50,6 @@
       "date": "2026-08-14T15:22:44+00:00",
       "date_formatted": "14 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-08-14T14:24:54+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -150,16 +150,6 @@
       "date": "2026-08-13T04:32:51+00:00",
       "date_formatted": "13 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une enquête ouverte après la mort d'une résidente d'un Ehpad en Seine-Maritime",
-      "desc": "Une plainte a été déposée par la fille de la défunte.",
-      "url": "https://www.franceinfo.fr/societe/prise-en-charge-des-personnes-agees/maltraitance-dans-les-ehpad/une-enquete-ouverte-apres-la-mort-d-une-residente-d-un-ehpad-en-seine-maritime_8145281.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jafe2pqCPHAQGcvscF86oVYUfY0/432x243/filters:format(jpg):quality(50)/2026/06/25/6a3cfade66874817140461.jpg",
-      "date": "2026-08-12T20:47:47+00:00",
-      "date_formatted": "12 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
