@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-15T12:13:34.134492+00:00",
+  "generated_at": "2026-08-15T18:10:46.247999+00:00",
   "count": 55,
   "articles": [
+    {
+      "title": "Sud du Liban : neuf morts, dont des enfants, dans des frappes israéliennes",
+      "desc": "C’est le bilan le plus meurtrier depuis des accords conclus en juin, qui avaient vu une baisse des hostilités entre Israël et le Hezbollah. Le mouvement pro-iranien a promis une «riposte».",
+      "url": "https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/",
+      "image": null,
+      "date": "2026-08-15T14:32:37+00:00",
+      "date_formatted": "15 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Deux séismes secouent l’Indonésie, au moins 38 morts",
       "desc": "Un puissant séisme de magnitude 7,7 a secoué samedi matin l’est de l’Indonésie, faisant au moins 38 morts et poussant des milliers d’habitants des côtes à évacuer de crainte d’une montée des eaux. Un second, de magnitude 6,9, a suivi.",
@@ -43,20 +53,10 @@
       "type": "science"
     },
     {
-      "title": "Guerre de succession : le savoir haïr des baronnes de Rothschild",
-      "desc": "Depuis la mort de Benjamin, sa mère, Nadine, célèbre pour ses traités de bonnes manières, et sa femme, Ariane, qui a repris la haute main sur l’empire familial, se déchirent en public. Deux caractères opposés avec, en jeu, une part de l’inestimable patrimoine du clan.",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/guerre-de-succession-le-savoir-hair-des-baronnes-de-rothschild-20260815_HQQI2QLER5AI5O5VERMZ5GRF6M/",
-      "image": null,
-      "date": "2026-08-15T07:06:00+00:00",
-      "date_formatted": "15 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Un décès \"toutes les 30 minutes\" : l'ONU appelle le monde à \"se réveiller\" face à l'épidémie d'Ebola en République démocratique du Congo",
-      "desc": "L'épidémie \"est la plus rapide jamais enregistrée\" dans l'histoire du virus, a alerté, vendredi, le chef des affaires humanitaires de l'ONU.",
+      "desc": "\"Nous avons besoin de rapidité, de moyens à grande échelle et de solidarité\" pour éviter \"que ce virus ne prenne encore davantage d'avance sur nous\", a imploré Tom Fletcher, chef des affaires humanitaires de l'ONU",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-deces-toutes-les-30-minutes-l-onu-appelle-le-monde-a-se-reveiller-face-a-l-epidemie-d-ebola-en-republique-democratique-du-congo_8148134.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/UbsE2AvY5Pk-irSZdu6YThwVuTo/0x312:6000x3687/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f8f7da2a7e540089132.jpg",
+      "image": "https://www.franceinfo.fr/pictures/KB98kbGe0Ox64AYFBCycPkuWqLY/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f8f7da2a7e540089132.jpg",
       "date": "2026-08-14T23:58:43+00:00",
       "date_formatted": "14 August 2026",
       "source": "France Info Santé",
