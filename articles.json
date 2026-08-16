@@ -1,44 +1,64 @@
 {
-  "generated_at": "2026-08-16T06:18:50.525809+00:00",
+  "generated_at": "2026-08-16T12:14:05.821614+00:00",
   "count": 55,
   "articles": [
     {
-      "title": "Sud du Liban : neuf morts, dont des enfants, dans des frappes israéliennes",
-      "desc": "C’est le bilan le plus meurtrier depuis des accords conclus en juin, qui avaient vu une baisse des hostilités entre Israël et le Hezbollah. Le mouvement pro-iranien a promis une «riposte».",
-      "url": "https://www.liberation.fr/international/moyen-orient/sud-du-liban-neuf-morts-dont-des-enfants-dans-des-frappes-israeliennes-20260815_TGA5K3NGVRCDRL5QCHCKCVOPXE/",
+      "title": "Accident d’un car polonais en Hongrie : Varsovie envoie un avion sanitaire à Budapest",
+      "desc": "L’autocar qui venait de Serbie s’est renversé dans la nuit sur l’autoroute faisant 12 morts et au moins 10 blessés graves. Il s’agit du plus grave accident de bus survenu dans le pays depuis la catastrophe de Siófok en 2003.",
+      "url": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/",
       "image": null,
-      "date": "2026-08-15T14:32:37+00:00",
-      "date_formatted": "15 August 2026",
+      "date": "2026-08-16T10:33:29+00:00",
+      "date_formatted": "16 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Deux séismes secouent l’Indonésie, au moins 38 morts",
-      "desc": "Un puissant séisme de magnitude 7,7 a secoué samedi matin l’est de l’Indonésie, faisant au moins 38 morts et poussant des milliers d’habitants des côtes à évacuer de crainte d’une montée des eaux. Un second, de magnitude 6,9, a suivi.",
+      "title": "Eric Ciotti toujours pas raccord avec le RN sur les retraites",
+      "desc": "Dans une interview au «JDD», le maire de Nice «espère une évolution» de ses alliés d’extrême droite, notamment sur le report de l’âge légal de départ et la question de la capitalisation.",
+      "url": "https://www.liberation.fr/politique/elections/eric-ciotti-toujours-pas-raccord-avec-le-rn-sur-les-retraites-20260816_6AI4DTOYRRDJRNTM7AGCDTZBLQ/",
+      "image": null,
+      "date": "2026-08-16T10:00:04+00:00",
+      "date_formatted": "16 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La maladie d’Alzheimer selon Marine",
+      "desc": "Pendant tous les week-ends de cet été, nous écoutons dans cette chronique des chansons qui s’inspirent de l’actualité et de l’air du temps de ces quelques dernières années – aujourd’hui, « Dalida » de Marine.",
+      "url": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/la-maladie-d-alzheimer-selon-marine_8070233.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/bzZaah8MMNT8eQJ3OCIellEUWCc/8x0:1015x566/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d93837854c936470443.jpg",
+      "date": "2026-08-16T10:00:01+00:00",
+      "date_formatted": "16 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Avec ces Français qui se jettent à l’eau pour, tôt ou tard, apprendre à nager : «C’est une question de survie»",
+      "desc": "Ils sont plus de onze millions à ne pas savoir se déplacer dans l’eau. Entre angoisses indépassables, écart social et pénurie d’équipements et de professionnels, «Libération» a tenté de comprendre les raisons de ce phénomène, lors d’un été encore marqué par de nombreuses noyades mortelles.",
+      "url": "https://www.liberation.fr/societe/avec-ces-francais-qui-se-jettent-a-leau-pour-tot-ou-tard-apprendre-a-nager-cest-une-question-de-survie-20260816_SCNZTNNJQZEJJENEOKQYHEPZ5U/",
+      "image": null,
+      "date": "2026-08-16T09:52:08+00:00",
+      "date_formatted": "16 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Il y a une pression esthétique» : pourquoi la protection solaire est parfois négligée",
+      "desc": "Malgré les campagnes de prévention sur les risques de cancers et de problèmes de peau liés au soleil, les professionnels alertent sur le manque de vigilance. Raisons pratiques, économiques, sociales… «Libé» a cherché à comprendre les réfractaires.",
+      "url": "https://www.liberation.fr/lifestyle/beaute/il-y-a-une-pression-esthetique-pourquoi-la-protection-solaire-est-parfois-negligee-20260816_YXLXYABUQNBRFAKVGOGMZPCHC4/",
+      "image": null,
+      "date": "2026-08-16T08:40:00+00:00",
+      "date_formatted": "16 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Séismes en Indonésie : au moins 48 morts et des milliers d’évacués",
+      "desc": "Un puissant séisme de magnitude 7,7, puis plus de 300 répliques, ont secoué samedi 15 août l’Indonésie. Des milliers d’habitants ont fui les côtes par crainte d’une montée des eaux.",
       "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/",
       "image": null,
-      "date": "2026-08-15T11:49:23+00:00",
-      "date_formatted": "15 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Jason Arday, ancien plus jeune professeur noir de Cambridge, retrouvé mort après des accusations de plagiat",
-      "desc": "Au cœur d’un retentissant scandale de plagiat sur fond de racisme, le docteur en sociologie de 41 ans a été retrouvé mort vendredi 14 août chez lui. Sa famille dénonce une «campagne de harcèlement».",
-      "url": "https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/",
-      "image": null,
-      "date": "2026-08-15T11:45:23+00:00",
-      "date_formatted": "15 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort à 19 ans du cycliste britannique Finlay Tarling, percuté par une voiture lors du Tour du Portugal",
-      "desc": "Le coureur de l’équipe NSN Development Team a été tué ce vendredi 14 août par un véhicule qui circulait semble-t-il en sens inverse sur le parcours de la huitième étape.",
-      "url": "https://www.liberation.fr/sports/cyclisme/mort-du-cycliste-britannique-finlay-tarling-percute-par-une-voiture-lors-du-tour-du-portugal-20260814_CTCXQEF6RFFEJOJS5BAECMKP4I/",
-      "image": null,
-      "date": "2026-08-15T11:08:33+00:00",
-      "date_formatted": "15 August 2026",
+      "date": "2026-08-16T08:09:01+00:00",
+      "date_formatted": "16 August 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -243,16 +263,6 @@
       "type": "science"
     },
     {
-      "title": "Vieillir moins vite sans changer votre alimentation ? Cette habitude culturelle étonne les scientifiques",
-      "desc": "Un an de moins sur l'horloge biologique, et un rythme de vieillissement ralenti de 4 %. Ce serait le bénéfice associé à une sortie culturelle hebdomadaire, selon une étude britannique portant sur 3 500 adultes. Des chercheurs y voient un comportement de santé à part entière, au même titre que...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-moins-vite-changer-votre-alimentation-cette-habitude-culturelle-etonne-scientifiques-k2m6-136849/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/4/b/b4b48efe1b_50259184_sante-mentale-musee-vieillissement.jpg",
-      "date": "2026-08-11T18:00:00+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ebola : l’épidémie a fait plus de 2 000 morts en RDC",
       "desc": "Ce bilan rapproche l’épidémie actuelle de celle qui avait sévi entre 2018 et 2020, la plus meurtrière à ce jour en République démocratique du Congo avec près de 2 300 morts.",
       "url": "https://www.lemonde.fr/international/article/2026/08/11/ebola-l-epidemie-a-fait-plus-de-2-000-morts-en-rdc_6743790_3210.html",
@@ -331,16 +341,6 @@
       "date_formatted": "7 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : La Française contaminée au printemps sur le MV Hondius est sortie de réanimation",
-      "desc": "La seule Française contaminée par le hantavirus lors de l’épidémie sur le navire MV Hondius est sortie de réanimation après presque trois mois d’hospitalisation. Elle a été transférée dans un centre de convalescence",
-      "url": "https://www.20minutes.fr/sante/4238126-20260806-hantavirus-francaise-contaminee-printemps-mv-hondius-sortie-reanimation?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/m-dPgW8bRA2w6myPi58quik/1200x768_des-personnes-protegees-transportent-des-objets-non-identifies-alors-qu-elles-debarquent-du-navire-de-croisiere-mv-hondius-apres-son-arrivee-au-port-de-rotterdam-aux-pays-bas-le-lundi-18-mai-2026-ap-photo-patrick-post-xvm189-26138509178998-2605181611",
-      "date": "2026-08-06T16:08:31+00:00",
-      "date_formatted": "6 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Mortalité infantile : La situation se dégrade en France",
