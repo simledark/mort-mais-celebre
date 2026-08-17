@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-17T12:17:48.996507+00:00",
-  "count": 57,
+  "generated_at": "2026-08-17T18:20:03.709467+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "La mort du professeur Jason Arday, symptôme tragique de la privatisation de l’université britannique",
+      "desc": "Avec le désengagement de l’Etat, les universités se financent via des frais de scolarité exorbitants et doivent répondre aux attentes d’étudiants-consommateurs : Cambridge a affiché Jason Arday comme un «poster boy» de la diversité faute d’une procédure de recrutement juste humaine et transparente, ",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-mort-du-professeur-jason-arday-symptome-tragique-de-la-privatisation-de-luniversite-britannique-20260817_UFQOKR5B25H4FJ5R2OH7NPV7UE/",
+      "image": null,
+      "date": "2026-08-17T17:20:00+00:00",
+      "date_formatted": "17 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Screaming Mad George, génie surréaliste des effets spéciaux",
+      "desc": "Flamboyant et excentrique, le maquilleur et réalisateur d’effets spéciaux a marqué toute une époque avec son travail sur «le Cauchemar de Freddy», «Society» ou «Predator». Son décès survenu en février à l’âge de 69 ans, a été annoncé le 17 août.",
+      "url": "https://www.liberation.fr/culture/cinema/mort-de-screaming-mad-george-genie-surrealiste-des-effets-speciaux-20260817_RH4C5UODZZGKFKO4HFMUNLFGDY/",
+      "image": null,
+      "date": "2026-08-17T15:30:43+00:00",
+      "date_formatted": "17 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aide à mourir : « La liberté de refus d’un établissement privé pourrait rendre illusoire l’exercice d’un droit de la personne en fin de vie »",
+      "desc": "En reconnaissant le principe d’une clause de conscience collective dans sa décision du 14 août, le Conseil constitutionnel a tracé une limite, sans écrire le mode d’emploi, estime un collectif de militants du droit à l’aide à mourir, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/17/aide-a-mourir-la-liberte-de-refus-d-un-etablissement-prive-pourrait-rendre-illusoire-l-exercice-d-un-droit-de-la-personne-en-fin-de-vie_6748223_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
+      "date": "2026-08-17T15:30:06+00:00",
+      "date_formatted": "17 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Il ignorait que sa victime était morte : en Floride, un homme avoue un meurtre remontant à 1987",
+      "desc": "Depuis près de quarante ans, le meurtre de Melissa Taylor gardait son mystère. Son auteur s’est dénoncé au mois de juillet, affirmant qu’il ne pensait pas l’avoir tuée, mais assommée durant un cambriolage.",
+      "url": "https://www.liberation.fr/societe/police-justice/il-ignorait-que-sa-victime-etait-morte-en-floride-un-homme-avoue-un-meurtre-remontant-a-1987-20260817_Y6NDN6675NGOFL3Q7F3BURK4UQ/",
+      "image": null,
+      "date": "2026-08-17T15:04:46+00:00",
+      "date_formatted": "17 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ebola en RDC : l’épidémie devient la plus meurtrière de l’histoire du pays en seulement trois mois",
       "desc": "Sur les 4 945 cas de contaminations confirmées, 2 325 personnes sont mortes, selon le dernier bilan des autorités congolaises.",
@@ -13,16 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Que Ibtissame Lachgar puisse enfin quitter sa cellule et recevoir des soins, par Leïla Slimani",
-      "desc": "La romancière franco-marocaine relaie l’appel au secours de la sœur de la militante féministe emprisonnée depuis un an pour avoir posté un selfie où elle arborait un tee-shirt dont l’inscription porterait «atteinte à l’Islam». Sans soins immédiats et appropriés, elle risque l’amputation et la mort.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/que-ibtissame-lachgar-puisse-enfin-quitter-sa-cellule-et-recevoir-des-soins-par-leila-slimani-20260817_3Q37JULR5RHLPLEQ6BM3F3BOLI/",
-      "image": null,
-      "date": "2026-08-17T11:42:20+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "L'épidémie d'Ebola a fait plus de 2 300 morts en République démocratique du Congo, et est désormais la plus meurtrière de l'histoire du pays",
       "desc": "L'épidémie \"est la plus rapide jamais enregistrée\" et \"tue une personne toutes les 30 minutes\", selon le chef des affaires humanitaires de l'ONU.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-de-la-republique-democratique-du-congo-avec-plus-de-2-300-morts_8150732.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -30,26 +60,6 @@
       "date": "2026-08-17T10:54:22+00:00",
       "date_formatted": "17 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cambodge : mort du peintre Bou Meng, rare survivant de S-21, la sinistre prison des Khmers rouges à Phnom Penh",
-      "desc": "Décédé à l’âge de 85 ans, Bou Meng avait dû sa survie à ses talents de peintre dans l’ex-centre de torture et d’exécution du PCK. Avant de devenir un témoin clé dans le procès contre Duch, l’ex-directeur du pénitencier.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/cambodge-mort-du-peintre-bou-meng-rare-survivant-de-s-21-la-sinistre-prison-des-khmers-rouges-a-phnom-penh-20260817_JTXJPQ7E7ZE6ZMW4EI23NX4L3E/",
-      "image": null,
-      "date": "2026-08-17T10:44:35+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : l’épidémie devient la plus meurtrière de l’histoire de la république démocratique du Congo, avec plus de 2 000 morts",
-      "desc": "La crise sanitaire que subit la RDC depuis la déclaration officielle du virus le 15 mai bat des records de mortalité. Le pays souffre de l’absence de vaccin contre la souche Bundibugyo, mais les recherches continuent.",
-      "url": "https://www.liberation.fr/societe/sante/ebola-lepidemie-devient-la-plus-meurtriere-de-lhistoire-de-la-republique-democratique-du-congo-avec-plus-de-2-000-morts-20260817_MYQLYLSLDBDIRFHM2VH7PIZUQ4/",
-      "image": null,
-      "date": "2026-08-17T09:31:22+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -83,31 +93,11 @@
       "type": "presse"
     },
     {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-08-17T06:49:00+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort à 36 ans de Hayden Panettiere, éternelle «cheerleader» de la série «Heroes»",
-      "desc": "L’actrice américaine, également connue pour «Nashville» et quelques «Scream», a perdu la vie ce week-end, dans des circonstances encore inconnues.",
-      "url": "https://www.liberation.fr/culture/series/mort-a-36-ans-de-hayden-panettiere-eternelle-cheerleader-de-la-serie-heroes-20260817_OGBUR5A4AZCDHJWNQIFJZAJDY4/",
-      "image": null,
-      "date": "2026-08-17T06:13:44+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Cannibalisme : l’étrange maladie du kuru, rançon de festins mortuaires",
       "desc": "« Sept nuances de cannibalisme » (6/7). Dans les années 1950, une épidémie d’origine inconnue décime une ethnie de Papouasie-Nouvelle-Guinée. Ethnologues et médecins finiront par établir le rôle de l’anthropophagie funéraire dans la transmission d’une encéphalopathie à prions.",
       "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/17/cannibalisme-l-etrange-maladie-du-kuru-rancon-de-festins-mortuaires_6747962_3451060.html",
       "image": "https://img.lemde.fr/2026/07/09/620/0/2136/1068/644/322/60/0/ef04509_upload-1-hvva1eyfokxs-cannibale6-copie.jpg",
-      "date": "2026-08-17T05:30:12+00:00",
+      "date": "2026-08-17T05:30:06+00:00",
       "date_formatted": "17 August 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -409,26 +399,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/27/cover-r4x3w1200-6a67254d6b23a-bebe.jpg",
       "date": "2026-07-27T11:26:07+00:00",
       "date_formatted": "27 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Chine: une thérapie génique cause la mort d'une enfant de 6 ans",
-      "desc": "Une université chinoise a déclaré dimanche avoir ouvert une enquête à la suite d'informations diffusées par des médias, selon lesquelles un essai d'édition génique aurait entraîné la mort d'une fillette de six ans, un décès qui n’avait pas été mentionné dans une étude publiée.",
-      "url": "https://www.sciencesetavenir.fr/sante/chine-deces-dissimule-d-une-fillette-lors-d-une-therapie-genique_193960?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/27/cover-r4x3w1200-6a6705bfaeec1-dna.jpg",
-      "date": "2026-07-27T08:02:36+00:00",
-      "date_formatted": "27 July 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Et si on cessait de fumer et de boire",
-      "desc": "Une fois passé le choc culturel de cette décision, les bénéfices sanitaires seraient évidents : on pourrait s'attendre à éviter près de 110 000 décès prématurés chaque année.",
-      "url": "https://www.sciencesetavenir.fr/sante/on-cessait-de-fumer-et-de-boire_193242?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/18/cover-r4x3w1200-6a3d1f926690e-12956-726562-k2-k1-1727350-jpg.jpg",
-      "date": "2026-07-26T12:00:00+00:00",
-      "date_formatted": "26 July 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
