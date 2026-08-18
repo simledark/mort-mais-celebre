@@ -1,33 +1,43 @@
 {
-  "generated_at": "2026-08-18T00:31:02.181454+00:00",
+  "generated_at": "2026-08-18T06:21:06.236681+00:00",
   "count": 54,
   "articles": [
+    {
+      "title": "Alzheimer : un somnifère courant montre des résultats encourageants dans une étude",
+      "desc": "Un espoir inattendu émerge dans la lutte contre Alzheimer. Une étude récente révèle qu'un médicament couramment prescrit pour l'insomnie pourrait avoir des effets bénéfiques sur cette maladie neurodégénérative. Cette découverte ouvre de nouvelles perspectives pour ralentir la progression...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-somnifere-courant-montre-resultats-encourageants-etude-w2t8-136991/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/5/9/259eadbfd4_50259403_somnifere-maladie-alzheimer.jpg",
+      "date": "2026-08-18T08:00:00+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "« Nous n’avions encore jamais rien observé de tel chez un mammifère » : elles vivent avec nos virus les plus redoutés !",
+      "desc": "Si notre organisme réagit parfois violemment aux infections, les chauves-souris, elles, cohabitent paisiblement avec ces pathogènes. Une étude récente révèle une anomalie génétique unique chez ce petit mammifère, qui éclaire d'un jour nouveau leur incroyable tolérance.",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-nous-navions-encore-jamais-rien-observe-tel-chez-mammifere-elles-vivent-nos-virus-plus-redoutes-136780/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/6/4/8648530dde_50259106_3-chauve-souris.jpg",
+      "date": "2026-08-18T07:03:44+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Avec la brigade fluviale de Paris, entre prévention et interventions : «On peut être très bon nageur et se noyer»",
+      "desc": "Face à la multiplication des épisodes de chaleurs extrêmes, le nombre de noyades mortelles explose. Des policiers parcourent quotidiennement les eaux franciliennes pour informer, contrôler, ou sauver.",
+      "url": "https://www.liberation.fr/societe/avec-la-brigade-fluviale-de-paris-entre-prevention-et-interventions-on-peut-etre-tres-bon-nageur-et-se-noyer-20260818_6NRHPL4JEVCIRJ3W67LQ74EW54/",
+      "image": null,
+      "date": "2026-08-18T05:50:00+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "La Cisjordanie livrée à la terreur des colons israéliens",
       "desc": "Face à la multiplication des violences encouragées par plusieurs ministres israéliens, qui, au sein de la communauté internationale, aura le courage de bloquer le projet mortifère des colons ?",
       "url": "https://www.liberation.fr/idees-et-debats/editorial/la-cisjordanie-livree-a-la-terreur-des-colons-israeliens-20260817_XD7NZ7LYINCMRM3EX3KHJXRGGE/",
       "image": null,
       "date": "2026-08-17T18:22:27+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "La mort du professeur Jason Arday, symptôme tragique de la privatisation de l’université britannique",
-      "desc": "Avec le désengagement de l’Etat, les universités se financent via des frais de scolarité exorbitants et doivent répondre aux attentes d’étudiants-consommateurs : Cambridge a affiché Jason Arday comme un «poster boy» de la diversité faute d’une procédure de recrutement juste humaine et transparente, ",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-mort-du-professeur-jason-arday-symptome-tragique-de-la-privatisation-de-luniversite-britannique-20260817_UFQOKR5B25H4FJ5R2OH7NPV7UE/",
-      "image": null,
-      "date": "2026-08-17T17:20:00+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Screaming Mad George, génie surréaliste des effets spéciaux",
-      "desc": "Flamboyant et excentrique, le maquilleur et réalisateur d’effets spéciaux a marqué toute une époque avec son travail sur «le Cauchemar de Freddy», «Society» ou «Predator». Son décès survenu en février à l’âge de 69 ans, a été annoncé le 17 août.",
-      "url": "https://www.liberation.fr/culture/cinema/mort-de-screaming-mad-george-genie-surrealiste-des-effets-speciaux-20260817_RH4C5UODZZGKFKO4HFMUNLFGDY/",
-      "image": null,
-      "date": "2026-08-17T15:30:43+00:00",
       "date_formatted": "17 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -228,16 +238,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/esperance-vie-vous-pensez-devoir-faire-10-000-pas-jour-realite-bien-differente-apres-60-ans-k2m6-136874/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/1/a/d1a9ac9445_50259205_nombre-pas-marche-pied.jpg",
       "date": "2026-08-13T16:00:00+00:00",
-      "date_formatted": "13 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Les troubles du sommeil précéderaient de plusieurs années les premiers symptômes de la maladie de Charcot",
-      "desc": "Des chercheurs de l'Inserm viennent de faire un pas en avant dans la compréhension de la maladie de Charcot (SLA), offrant l'espoir d'une nouvelle piste thérapeutique pour ralentir sa progression. Ils ont identifié l’implication de l’hypothalamus et découvert que les altérations du sommeil...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-troubles-sommeil-precederaient-plusieurs-annees-premiers-symptomes-maladie-charcot-w2t8-136853/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/a/1/0a1d081289_50259187_maladie-charcot-troubles-sommeil.jpg",
-      "date": "2026-08-13T08:00:00+00:00",
       "date_formatted": "13 August 2026",
       "source": "Futura Santé",
       "type": "science"
