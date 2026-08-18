@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-08-18T12:19:25.829229+00:00",
+  "generated_at": "2026-08-18T18:18:41.666362+00:00",
   "count": 58,
   "articles": [
+    {
+      "title": "Aux Etats-Unis, le procès de Lindsay Clancy, jugée pour le meurtre de ses trois enfants, met en lumière une maladie rare, la \"psychose post-partum\"",
+      "desc": "Les avocats de l'infirmière de 36 ans invoquent ce trouble psychiatrique pour défendre son irresponsabilité pénale. Les procureurs estiment eux que la mère de famille a tué ses enfants \"de manière délibérée et méticuleuse\".",
+      "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-proces-de-lindsay-clancy-jugee-pour-le-meurtre-de-ses-trois-enfants-met-en-lumiere-une-maladie-rare-la-psychose-post-partum_8151923.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/wRUwRmjD3SX72eRvOE-GFKYSd_o/0x0:5333x3000/432x243/filters:format(jpg):quality(50)/2026/08/18/6a841f826bd7c120534542.jpg",
+      "date": "2026-08-18T17:25:54+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Sophie Adenot dans l’espace, mort d’Yvette Roudy, ingérences contre Attal et Philippe… L’actu de ce mardi 18 août",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mardi 18 août.",
+      "url": "https://www.liberation.fr/international/europe/sophie-adenot-dans-lespace-mort-dyvette-roudy-ingerences-contre-attal-et-philippe-lactu-de-ce-mardi-18-aout-20260818_HPFXPGF5FJBJ5FB6JNHESOLO5U/",
+      "image": null,
+      "date": "2026-08-18T16:45:07+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Sécheresse en Bretagne : «L’irrigation systématique est une maladaptation au changement climatique»",
+      "desc": "François Lecompte, chercheur à l’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement, analyse les contours du maraîchage breton de demain, entre adaptation des cycles, gestion des parcelles et génétique.",
+      "url": "https://www.liberation.fr/societe/secheresse-en-bretagne-lirrigation-systematique-est-une-maladaptation-au-changement-climatique-20260818_VJPBGUW2SFAVNDQEMETZXTDZNU/",
+      "image": null,
+      "date": "2026-08-18T16:34:47+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort accidentelle du producteur d’«OSS 117» Nicolas Altmayer et de Mathilde Favier, responsable chez Dior",
+      "desc": "Le couple a été tué lundi sur une route départementale des Deux-Sèvres. Le parquet de Niort a ouvert a ouvert une enquête pour «homicide involontaire par conducteur», afin de déterminer les circonstances exactes des faits.",
+      "url": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
+      "image": null,
+      "date": "2026-08-18T16:01:03+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "John Crowley, dans un autre des mondes",
+      "desc": "L’auteur américain des fabuleux «Kra» et de «Petit, grand ou le Parlement des fées» est mort le 8 août à 83 ans.",
+      "url": "https://www.liberation.fr/culture/livres/john-crowley-dans-un-autre-des-mondes-20260818_QKTYEXCH5NDUBGVDLVLCAY7QXM/",
+      "image": null,
+      "date": "2026-08-18T15:53:00+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Publicités illégales de thérapies cellulaires : «Leurs promoteurs jouent sur la méconnaissance pour vendre du rêve»",
+      "desc": "L’Agence française du médicament a récemment sanctionné deux sociétés turques vantant les effets prétendus de leurs traitements – non autorisés – contre des maladies graves. Le directeur général adjoint de l’institution explique cette décision face à un phénomène dangereux qui prend de l’ampleur.",
+      "url": "https://www.liberation.fr/societe/sante/publicites-illegales-de-therapies-cellulaires-leurs-promoteurs-jouent-sur-la-meconnaissance-pour-vendre-du-reve-20260818_J4WMIIDIUZGQ5ED6ESNISBLBJY/",
+      "image": null,
+      "date": "2026-08-18T15:37:34+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’épidémie d’Ebola en RDC est « loin d’être maîtrisée » et il existe un « risque élevé d’une propagation internationale »",
+      "desc": "Actuellement, l’OMS juge le niveau de risque pour la santé publique « très élevé » pour la RDC, « élevé » pour l’Ouganda et les autres pays frontaliers de la RDC, et « faible » pour le reste de l’Afrique et du monde.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/18/ebola-en-rdc-l-epidemie-est-loin-d-etre-maitrisee-alerte-le-chef-de-l-oms_6749057_3212.html",
+      "image": "https://img.lemde.fr/2026/08/12/398/0/6000/3000/644/322/60/0/5165053_ftp-1-llk3tgpshbbu-4ae68f807e53439bb4ca78fb6a2ab473-0-90d4124c0cc54b97ad2a72544958cdbb.jpg",
+      "date": "2026-08-18T15:08:21+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Une résidente d'Ephad de Rennes retrouvée morte dans des conditions suspectes",
       "desc": "Le parquet de Rennes explique mardi à franceinfo que la femme a été retrouvée, dimanche, avec un oreiller sur le visage. Une enquête est ouverte pour \"meurtre sur personne vulnérable\".",
@@ -23,36 +93,6 @@
       "type": "science"
     },
     {
-      "title": "Mort accidentelle du producteur d’«OSS 117» Nicolas Altmayer et de Mathilde Favier, responsable chez Dior",
-      "desc": "Le couple a été tué lundi sur une route départementale des Deux-Sèvres. Le parquet de Niort a ouvert a ouvert une enquête pour «homicide involontaire par conducteur», afin de déterminer les circonstances exactes des faits.",
-      "url": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
-      "image": null,
-      "date": "2026-08-18T10:38:18+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Découverte avec un oreiller sur le visage» : une enquête ouverte pour meurtre après la mort suspecte d’une résidente d’un Ehpad à Rennes",
-      "desc": "La femme de 82 ans était «invalide» et «pas autonome» selon une source policière à l’AFP. Son corps a été retrouvé dimanche 16 août dans la soirée.",
-      "url": "https://www.liberation.fr/societe/police-justice/decouverte-avec-un-oreiller-sur-le-visage-une-enquete-ouverte-pour-meurtre-apres-la-mort-suspecte-dune-residente-dun-ehpad-a-rennes-20260818_7L2NNOINFZALFBU4DCJ7ANSSBY/",
-      "image": null,
-      "date": "2026-08-18T10:19:55+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Les Reines de Ring de Delphine Blast",
-      "desc": "La Quinzaine de photographie nantaise fête ses 30 ans et le bicentenaire de la photographie autour du thème «Collection», du 25 septembre au 1er novembre, explorant pionniers, archives et pratiques contemporaines dans tous les lieux du festival. La série «Boxing Queens» y est exposée au Jardin Saint",
-      "url": "https://www.liberation.fr/culture/photographie/les-reines-de-ring-de-delphine-blast-20260818_QNEIHYSLWBH6BJXCM3UTZY2J5A/",
-      "image": null,
-      "date": "2026-08-18T10:00:00+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "\"Ni traitement ni vaccin\" : comment l'épidémie actuelle d'Ebola est devenue la plus mortelle de l'histoire de la République démocratique du Congo",
       "desc": "Entre un variant peu connu, pour lequel peu de recherches sont disponibles, et un contexte social et politique délicat, la nouvelle épidémie a déjà fait 2 300 morts, bien plus que celle ayant eu lieu de 2018 à 2020.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/ni-traitement-ni-vaccin-comment-l-epidemie-actuelle-d-ebola-est-devenue-la-plus-mortelle-de-l-histoire-de-la-republique-democratique-du-congo_8151389.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -60,16 +100,6 @@
       "date": "2026-08-18T08:26:11+00:00",
       "date_formatted": "18 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une pluie de 620 drones ukrainiens fait trois blessés dans la région de Moscou, Kyiv déplore 10 morts dans une frappe de roquette russe",
-      "desc": "L’Ukraine vise la capitale et les sites de l’entreprise Wildberries pour atteindre l’économie et l’opinion publique. Moscou a intensifié ses frappes, faisant d’août le mois le plus meurtrier pour les civils en Ukraine depuis mai 2022.",
-      "url": "https://www.liberation.fr/international/europe/une-pluie-de-620-drones-ukrainiens-fait-trois-blesses-dans-la-region-de-moscou-kyiv-deplore-10-morts-dans-une-frappe-de-roquette-russe-20260818_VJTQ5Z7SQZBJHEGUXO755CSJNA/",
-      "image": null,
-      "date": "2026-08-18T08:23:25+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -81,16 +111,6 @@
       "date_formatted": "18 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Double séisme au Venezuela : un nouveau bilan fait état de 6 438 morts",
-      "desc": "Après les tremblements de terre qui ont frappé en juin le littoral vénézuélien, le président du Parlement a communiqué les nouveaux chiffres du drame lundi 17 août. Les secouristes cherchent toujours des survivants dans les décombres.",
-      "url": "https://www.liberation.fr/international/amerique/httpswwwliberationfrsocieteeducationlallocation-de-rentree-scolaire-versee-ce-mardi-a-3-millions-de-familles-20260818-bvtk3oxssvb3npfwypxuxmsdfi-20260818_7GSRYPOIR5DP5NPQVVDBFRKYII/",
-      "image": null,
-      "date": "2026-08-18T07:51:24+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "« Nous n’avions encore jamais rien observé de tel chez un mammifère » : elles vivent avec nos virus les plus redoutés !",
@@ -363,16 +383,6 @@
       "type": "presse"
     },
     {
-      "title": "« Ebola se propage à une vitesse que nous n’avions encore jamais observée » : l’alerte de Jean-Jacques Muyembe, codécouvreur du virus",
-      "desc": "Le virologue congolais, qui a mis au jour le virus en 1976, revient, dans un entretien au « Monde », sur l’actuelle propagation de l’épidémie due à Ebola en République démocratique du Congo. En seulement trois mois, le nombre de morts s’approche du bilan humain de l’épidémie de 2018, qui avait duré ",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/11/jean-jacques-muyembe-virologue-congolais-ebola-se-propage-a-une-vitesse-que-nous-n-avions-encore-jamais-observee_6743759_3212.html",
-      "image": "https://img.lemde.fr/2026/05/20/635/0/5407/2703/644/322/60/0/d25ee75_ftp-1-ads3coq5symv-5091175-01-06.jpg",
-      "date": "2026-08-11T06:30:05+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : L’isolement recommandé pour les proches du touriste franco-argentin avec un risque faible de transmission",
       "desc": "Les proches du touriste franco-argentin diagnostiqué positif à l’hantavirus en France avant de s’isoler en Espagne sont invités à s’isoler. Selon les autorités françaises, le risque de transmission reste tout de même faible",
       "url": "https://www.20minutes.fr/sante/4238245-20260807-hantavirus-risque-faible-transmission-isolement-recommande-proches-touriste-franco-argentin?at_medium=display&at_campaign=149",
@@ -391,16 +401,6 @@
       "date_formatted": "7 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Grossesses multiples, précarité… Ce que dit le rapport sur la mortalité infantile en France",
-      "desc": "Discrètement publié en ce début août, un rapport de l’Igas avance quelques pistes pour enrayer la forte mortalité infantile en France, sans juger pertinente la poursuite d’une politique de fermeture des petites maternités",
-      "url": "https://www.20minutes.fr/societe/4238191-20260807-grossesses-multiples-precarite-dit-rapport-mortalite-infantile-france?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ZW6EeihhTlGEr6QjcYKWNSk/1200x768_un-rapport-de-l-igas-publie-debut-aout-avance-quelques-pistes-pour-enrayer-la-forte-mortalite-infantile-en-france",
-      "date": "2026-08-07T10:13:46+00:00",
-      "date_formatted": "7 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Hantavirus: quarantaine pour les contacts du touriste infecté",
