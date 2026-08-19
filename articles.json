@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-19T06:22:05.126494+00:00",
-  "count": 57,
+  "generated_at": "2026-08-19T12:19:14.935500+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
+      "desc": "L’ancien socialiste, marcheur de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
+      "url": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/",
+      "image": null,
+      "date": "2026-08-19T12:00:04+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aide à mourir : dans les établissements privés, les dangers de l’exception confessionnelle",
+      "desc": "En admettant que certaines structures de soin, notamment catholiques, puissent refuser que l’aide à mourir soit pratiquée dans leurs murs, le Conseil constitutionnel fragilise l’égalité d’accès à ce droit, déplorent François Blot, médecin réanimateur, et Elsa Walter, vice-présidente de l’ADMD.",
+      "url": "https://www.liberation.fr/idees-et-debats/aide-a-mourir-dans-les-etablissements-prives-les-dangers-de-lexception-confessionnelle-20260819_U42KBRPK2BAK7AYK34LZY4MKMU/",
+      "image": null,
+      "date": "2026-08-19T11:41:00+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du sociologue grec Konstantinos Tsoukalas, penseur du «nous tous»",
+      "desc": "L’un des derniers intellectuels grecs à la renommée internationale est décédé le 18 août à Athènes. Il laisse derrière lui une œuvre vaste, qui dissèque notamment les mécanismes de corruption du pouvoir et l’emprise de l’individualisme dans les sociétés occidentales.",
+      "url": "https://www.liberation.fr/idees-et-debats/mort-du-sociologue-grec-konstantinos-tsoukalas-penseur-du-nous-tous-20260819_FE32YWSUFFAO3D27KLPQIH3HPU/",
+      "image": null,
+      "date": "2026-08-19T11:06:01+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Procès de Meta : des parents endeuillés estiment que les réseaux sociaux ont poussé leurs enfants au suicide",
+      "desc": "Mise en cause par de nombreux États américains, l'entreprise Meta est dans l'œil du cyclone. Alors que son procès s'ouvre en Californie, certains estiment que le groupe de Mark Zuckerberg a volontairement rendu accro toute une génération.",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/proces-de-meta-des-parents-endeuilles-estiment-que-les-reseaux-sociaux-ont-pousse-leurs-enfants-au-suicide_8153273.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/itA-hub-IcLuEyhLSSjOV64_LJc/61x0:1473x794/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8562d1d1711615944947.jpg",
+      "date": "2026-08-19T10:02:52+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La loi sur l'aide à mourir promulguée par le président Macron",
+      "desc": "La loi créant un droit à l'aide à mourir a été publiée mercredi au Journal officiel dans le sillage de sa promulgation par le président de la République Emmanuel Macron, après plusieurs années de débats.",
+      "url": "https://www.sciencesetavenir.fr/sante/la-loi-sur-l-aide-a-mourir-promulguee-par-le-president-macron_194331?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/19/cover-r4x3w1200-6a852f6cc53ad-2b035a6a41438b62dc2e8deb841e3399bb78d054-jpg.jpg",
+      "date": "2026-08-19T08:38:02+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "L'épidémie d'Ebola en République démocratique du Congo est \"loin d'être maîtrisée\", prévient l'OMS",
       "desc": "\"Près de 5 000 personnes ont désormais été infectées et plus de 2 300 sont décédées\", a rapporté mardi le responsable de l'OMS, Tedros Adhanom Ghebreyesus, qui pointe un risque \"élevé\" de propagation internationale.",
@@ -13,6 +63,16 @@
       "type": "presse"
     },
     {
+      "title": "Légionellose en Savoie : 3 morts et 46 cas recensés depuis le début du mois de juin",
+      "desc": "Les investigations sont en cours pour déterminer l’origine de la contamination, annonce l’ARS mardi 18 août. Cette maladie infectieuse qui touche le poumon est provoquée par une bactérie qui prolifère dans l’eau douce.",
+      "url": "https://www.liberation.fr/societe/sante/legionellose-en-savoie-3-morts-et-46-cas-recenses-depuis-le-debut-du-mois-de-juin-20260819_RM2JJMH43RDAJP5H7IQIPDNCUE/",
+      "image": null,
+      "date": "2026-08-19T07:11:37+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Le ballet épigénétique derrière la floraison des plantes mis au jour",
       "desc": "La vitesse de fleurissement et la quantité de pétales produits par les plantes à fleurs dépendent d’un mécanisme bien orchestré mais complexe. Des chercheurs sont parvenus à déterminer les acteurs et leurs rôles lors de la transition entre la phase végétative et la phase reproductrice.",
       "url": "https://www.lemonde.fr/sciences/article/2026/08/19/le-ballet-epigenetique-derriere-la-floraison-des-plantes-mis-au-jour_6749467_1650684.html",
@@ -21,16 +81,6 @@
       "date_formatted": "19 August 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "VPN, avatar 3D et vente de comptes vérifiés : un marché en préparation pour contourner l’interdiction des réseaux sociaux aux moins de 15 ans",
-      "desc": "Après la censure du Conseil constitutionnel, le gouvernement refuse d’abandonner sa loi pour bannir l’accès aux plateformes aux plus jeunes. Une aubaine pour les différents outils permettant de tromper les vérifications de l’âge, qui sont prêts à se développer.",
-      "url": "https://www.liberation.fr/lifestyle/vpn-avatar-3d-et-vente-de-comptes-verifies-un-marche-en-preparation-pour-contourner-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-20260819_NEBNR4YJTFB3PEGNWPO4ZZTWIA/",
-      "image": null,
-      "date": "2026-08-19T04:05:00+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "L’aide à mourir officiellement autorisée en France après la promulgation de la loi par Emmanuel Macron",
@@ -54,7 +104,7 @@
     },
     {
       "title": "Légionellose en Savoie : 46 cas depuis le mois de juin, une troisième personne est morte",
-      "desc": "L’Agence régionale de santé poursuit ses analyses pour tenter de déterminer l’origine de la contamination. La maladie infectieuse est mortelle dans environ 10 % des cas.",
+      "desc": "L’agence régionale de santé poursuit ses analyses pour tenter de déterminer l’origine de la contamination. La maladie infectieuse est mortelle dans environ 10 % des cas.",
       "url": "https://www.lemonde.fr/societe/article/2026/08/19/legionellose-en-savoie-46-cas-depuis-juin-une-troisieme-personne-est-morte_6749223_3224.html",
       "image": "https://img.lemde.fr/2025/09/26/660/0/4800/2400/644/322/60/0/6fd162e_upload-1-n6xoh8ft317k-maxnewsspecialtwo346954.jpg",
       "date": "2026-08-19T01:34:24+00:00",
@@ -309,16 +359,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/5/c/a5cb1d39e0_50259189_troubles-langage-alzheimer.jpg",
       "date": "2026-08-14T08:00:00+00:00",
       "date_formatted": "14 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Une IA crée des virus inconnus : espoir contre les bactéries résistantes ou menace pour votre sécurité ?",
-      "desc": "Et si l’intelligence artificielle pouvait imaginer les futurs alliés de la médecine ? En concevant les génomes de virus capables de s’attaquer aux bactéries, des chercheurs ont ouvert une nouvelle piste contre l’antibiorésistance. Une prouesse prometteuse qui oblige aussi à réfléchir dès...",
-      "url": "https://www.futura-sciences.com/sante/actualites/antibioresistance-ia-cree-virus-inconnus-espoir-bacteries-resistantes-menace-votre-securite-136906/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/8/c/08c007c38c_50259356_bacteriophage-bacterie-infection.jpg",
-      "date": "2026-08-13T21:01:51+00:00",
-      "date_formatted": "13 August 2026",
       "source": "Futura Santé",
       "type": "science"
     },
