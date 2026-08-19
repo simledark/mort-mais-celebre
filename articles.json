@@ -1,35 +1,185 @@
 {
-  "generated_at": "2026-08-19T12:19:14.935500+00:00",
-  "count": 61,
+  "generated_at": "2026-08-19T18:15:32.965724+00:00",
+  "count": 71,
   "articles": [
     {
+      "title": "Une étude pointe des problèmes éthiques \"généralisés\" dans des publications scientifiques de l'IHU de Marseille",
+      "desc": "Des scientifiques ont passé au crible près de 2 700 publications scientifiques émanant de l'institut hospitalo-universitaire en maladies infectieuses de Marseille, anciennement dirigé par Didier Raoult. Ils ont mis au jour \"des problèmes d'ordre éthique ou juridique\" dans 853 d'entre elles.",
+      "url": "https://www.franceinfo.fr/sante/des-problemes-ethiques-generalises-ont-ete-identifies-dans-des-etudes-scientifiques-de-l-ihu-de-marseille_8153318.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Qn01V16f33Hi5YVCct41bnqDqjA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8567c5914c3340040367.jpg",
+      "date": "2026-08-19T18:07:39+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Avec trois morts et 46 cas depuis juin, la légionellose inquiète les habitants en Savoie",
+      "desc": "Alerte sanitaire en Savoie : le département est touché par une recrudescence des cas de légionellose. Au total, 46 personnes ont été infectées en deux mois, et trois sont désormais décédées. En cause, la contamination du réseau d'eau privé.",
+      "url": "https://www.franceinfo.fr/sante/maladie/trois-morts-et-46-cas-depuis-juin-la-legionellose-inquiete-les-habitants-en-savoie_8153624.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/KBx8-UDB4gAmlGU_d9YYSgndtGQ/132x0:1284x648/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859efabbac0398687415.jpg",
+      "date": "2026-08-19T17:32:57+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Etats-Unis : Natalie Harp, l’assistante ultraloyale de Trump qui pose question",
+      "desc": "Elle s’est fait connaître en 2019 en affirmant que le locataire de la Maison Blanche l’avait sauvée de son cancer des os. Le dévouement et la proximité de la trentenaire avec le milliardaire octogénaire interrogent désormais la presse et l’opposition américaines.",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-natalie-harp-lassistante-ultraloyale-de-trump-qui-pose-question-20260819_CQYQUCKN7JCRVHFRP7DDDUMY2U/",
+      "image": null,
+      "date": "2026-08-19T17:20:20+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de François Patriat, propos «inhumains» d’un ministre israélien, le corps de l’influenceuse Sonia Bellina… L’actu de ce mercredi 19 août",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du 19 août.",
+      "url": "https://www.liberation.fr/international/europe/mort-de-francois-patriat-propos-inhumains-dun-ministre-israelien-le-corps-de-linfluenceuse-sonia-bellina-lactu-de-ce-mercredi-19-aout-20260819_2RCBHTML5RF7JHY53R6YOMUDYE/",
+      "image": null,
+      "date": "2026-08-19T16:52:19+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la peau : Deux laboratoires américains annoncent des résultats encourageant pour un vaccin thérapeutique",
+      "desc": "Les laboratoires Merck et Moderna annoncent des résultats positifs en phase 3 pour leur vaccin personnalisé à ARN messager contre le mélanome avancé, associé à l’immunothérapie Keytruda",
+      "url": "https://www.20minutes.fr/sante/4239956-20260819-cancer-peau-deux-laboratoires-americains-annoncent-resultats-encourageant-vaccin-therapeutique?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/3nM07ZoqQ5KSP3m3bRZymik/1200x768_depuis-la-premiere-vague-pand-a-mique-de-covid19-les-chercheurs-de-la-faculte-de-pharmacie-de-tours-travaillent-sur-un-vaccin-nasal-contre-le-virus-sur-cette-photo-fanny-boursin-chercheuse-travaille-sur-la-purification-et-la-concentration-de-la-proteine-photographie-charles-bury-sipa-30-01-23-tours-france-burycharles-bury003-credit-charles-bury-sipa-2301310913",
+      "date": "2026-08-19T16:35:54+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
       "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
-      "desc": "L’ancien socialiste, marcheur de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
+      "desc": "L’ancien socialiste, «marcheur» de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
       "url": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/",
       "image": null,
-      "date": "2026-08-19T12:00:04+00:00",
+      "date": "2026-08-19T16:32:40+00:00",
       "date_formatted": "19 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Aide à mourir : dans les établissements privés, les dangers de l’exception confessionnelle",
-      "desc": "En admettant que certaines structures de soin, notamment catholiques, puissent refuser que l’aide à mourir soit pratiquée dans leurs murs, le Conseil constitutionnel fragilise l’égalité d’accès à ce droit, déplorent François Blot, médecin réanimateur, et Elsa Walter, vice-présidente de l’ADMD.",
-      "url": "https://www.liberation.fr/idees-et-debats/aide-a-mourir-dans-les-etablissements-prives-les-dangers-de-lexception-confessionnelle-20260819_U42KBRPK2BAK7AYK34LZY4MKMU/",
+      "title": "Mort de Nicolas Altmayer et Mathilde Favier : le parquet ouvre une information judiciaire pour «homicide involontaire»",
+      "desc": "Le conducteur du poids lourd ayant percuté lundi le véhicule du couple dans les Deux-Sèvres a été déféré et présenté à un juge d’instruction «aux fins de placement sous contrôle judiciaire», a indiqué mercredi le vice-procureur de Niort.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-de-nicolas-altmayer-et-mathilde-favier-le-parquet-ouvre-une-information-judiciaire-pour-homicide-involontaire-20260819_ZJLPR2CD6VFV7C5TYE4Z2EQ5WI/",
       "image": null,
-      "date": "2026-08-19T11:41:00+00:00",
+      "date": "2026-08-19T16:13:57+00:00",
       "date_formatted": "19 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Mort du sociologue grec Konstantinos Tsoukalas, penseur du «nous tous»",
-      "desc": "L’un des derniers intellectuels grecs à la renommée internationale est décédé le 18 août à Athènes. Il laisse derrière lui une œuvre vaste, qui dissèque notamment les mécanismes de corruption du pouvoir et l’emprise de l’individualisme dans les sociétés occidentales.",
-      "url": "https://www.liberation.fr/idees-et-debats/mort-du-sociologue-grec-konstantinos-tsoukalas-penseur-du-nous-tous-20260819_FE32YWSUFFAO3D27KLPQIH3HPU/",
+      "title": "Stan Lee, le père des super-héros, aux prises avec les vautours",
+      "desc": "La guerre de succession du créateur de Spider-Man, Hulk et des X-Men s’est jouée à couteaux tirés avant sa mort. L’entourage de ce scénariste de génie, qui a enrichi Marvel puis Disney, a multiplié les coups bas pour s’accaparer sa fortune et s’arroger le contrôle de sa très profitable propriété int",
+      "url": "https://www.liberation.fr/culture/cinema/stan-lee-le-pere-des-super-heros-aux-prises-avec-les-vautours-20260807_XCXAUYJDNNC5HLFPKSW7ZNPOKI/",
       "image": null,
-      "date": "2026-08-19T11:06:01+00:00",
+      "date": "2026-08-19T16:13:06+00:00",
       "date_formatted": "19 August 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le médicament Tavneos, destiné à traiter des maladies auto-immunes rares, retiré du marché car jugé trop dangereux",
+      "desc": "Ce médicament, qui vise à traiter des maladies inflammatoires rares des vaisseaux sanguins, est prescrit à 600 patients en France.",
+      "url": "https://www.franceinfo.fr/sante/le-medicament-tavneos-retire-du-marche-car-juge-trop-dangereux_8153687.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/zZb1IdG6ifWdG6TQy69pzCxlF4c/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b41d89da7970879390.jpg",
+      "date": "2026-08-19T15:58:38+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les laboratoires Moderna et Merck annoncent des résultats encourageants pour un vaccin thérapeutique contre le cancer de la peau",
+      "desc": "Leur thérapie, combinée à l'immunothérapie Keytruda, a amélioré de manière \"statistiquement significative\" la survie sans récidive chez des patients ayant un mélanome de stade avancé, et préalablement opérés.",
+      "url": "https://www.franceinfo.fr/sante/cancer/les-laboratoires-moderna-et-merck-annoncent-des-resultats-encourageants-pour-un-vaccin-therapeutique-contre-le-cancer-de-la-peau_8153651.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/MRCZzXXih8DXvCMBjpyMk_pkA6Q/0x0:4664x2623/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85aec6b6af6103481577.jpg",
+      "date": "2026-08-19T15:44:15+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le médicament Tavneos, destiné à traiter certaines maladies auto-immunes rares, retiré du marché en France après plusieurs morts à l’étranger",
+      "desc": "Au printemps, le groupe Kissei, qui commercialise Tavneos au Japon, a fait état d’une vingtaine de morts parmi les patients traités depuis l’introduction du médicament sur le marché japonais en 2022. En France, selon l’ANSM, il est prescrit à 600 patients.",
+      "url": "https://www.lemonde.fr/sante/article/2026/08/19/le-medicament-tavneos-retire-du-marche-francais-apres-le-signalement-de-plusieurs-morts-a-l-etranger_6749876_1651302.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/38ec457_upload-1-pp9dio4dwjlw-frame-340.jpg",
+      "date": "2026-08-19T15:42:28+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Mort d’Hayden Panettiere : Qu’est-ce que le Narcan, le médicament retrouvé à côté du corps de l’actrice ?",
+      "desc": "Un antidote contre les overdoses aux opioïdes, nommé « Narcan », a été retrouvé aux côtés de la comédienne",
+      "url": "https://www.20minutes.fr/sante/4239931-20260819-mort-hayden-panettiere-narcan-medicament-retrouve-cote-corps-actrice?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/lBfEvFg3QnSdK6atZP380ik/1200x768_dossier-hayden-panettiere-est-mort-a-36-ans-l-actrice-americaine-hayden-panettiere-est-decedee-a-annonce-son-pere-dans-un-communique-dimanche-soir-16-aout-2026-elle-avait-36-ans-hollywood-los-angeles-californie-etats-unis-13-septembre-l-actrice-mannequin-chanteuse-et-militante-americaine-hayden-panettiere-arrive-a-la-premiere-a-los-angeles-de-blonde-de-netflix-qui-se-tient-au-tcl-chinese-theatre-imax-le-13-septembre-2022-a-hollywood-los-angeles-californie-etats-unis-photo-de-xavier-collin-image-press-agency-sipa-usa-72433502-2608170801",
+      "date": "2026-08-19T15:39:21+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : L’archevêque de Paris appelle à refuser de bénéficier de l’aide à mourir",
+      "desc": "L’archevêque de Paris, Laurent Ulrich, a estimé qu’il appartenait à chacun de choisir de ne pas demander à bénéficier de ce « droit nouveau » alors que la loi sur l’aide à mourir a été publiée mercredi au Journal officiel",
+      "url": "https://www.20minutes.fr/societe/4239935-20260819-fin-vie-archeveque-paris-appelle-refuser-beneficier-aide-mourir?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/6U0W_h3nQuCKconzRSNRPCk/1200x768_l-archeveque-de-paris-laurent-ulrich-assiste-a-une-visite-avec-la-ministre-francaise-de-la-culture-catherine-pegard-invisible-et-l-artiste-francaise-claire-tabouret-invisible-des-ateliers-simon-marq-une-entreprise-familiale-seculaire-de-maitres-verriers-a-reims-dans-le-nord-est-de-la-france-le-23-juillet-2026-l-artiste-claire-tabouret-concoit-les-six-vitraux-qui-seront-places-dans-le-bas-cote-sud-de-la-nef-de-la-cathedrale-notre-dame-de-paris-ces-vitraux-contemporains-sont-fabriques-par-l-atelier-des-maitres-verriers-simon-marq-photo-de-francois-lo-presti-afp",
+      "date": "2026-08-19T15:38:16+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pendant la canicule du début du mois de juillet, \"1 243 décès en excès\" ont été recensés, annonce Santé publique France",
+      "desc": "Cette augmentation de la mortalité ne peut toutefois pas encore être imputé avec certitude à la chaleur. Les autorités sanitaires le sauront à la fin de l'été, une fois que toutes les données auront été analysées.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pendant-la-canicule-du-debut-du-mois-de-juillet-1-243-deces-en-exces-ont-ete-recenses-annonce-sante-publique-france_8153282.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/6TT7j2KQTZ7vd56B6oDqulSMJM0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85642d0fdb8749446754.jpg",
+      "date": "2026-08-19T15:34:56+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Diabète : des scientifiques chinois développent une \"bonne bactérie\" pour remplacer les injections d'insuline",
+      "desc": "Des chercheurs chinois ont mis au point une bactérie génétiquement modifiée capable de détecter les variations de la glycémie et de produire automatiquement des hormones pour la réguler.",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/diabete-des-scientifiques-chinois-developpent-une-bonne-bacterie-pour-remplacer-les-injections-d-insuline_8127545.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/n0Ey0KF_JDI14Y6EJImGOkveEKQ/0x110:2121x1304/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8587d7ad4cb932608002.jpg",
+      "date": "2026-08-19T15:30:02+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Canicule : 7 300 « morts en excès » ont été recensés cet été en France pendant les périodes de fortes chaleurs successives",
+      "desc": "Entre le 3 et le 22 juillet, « 1 243 décès en excès » ont été recensés par Santé publique France. Ils s’ajoutent aux 5 764 morts en excès enregistrés du 17 au 30 juin, et aux 300 autres lors du premier épisode caniculaire de l’année, du 24 au 28 mai.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/canicule-1-243-morts-en-exces-ont-ete-recenses-entre-le-3-et-le-22-juillet-par-sante-publique-france_6749871_3224.html",
+      "image": "https://img.lemde.fr/2026/08/19/302/0/6000/3000/644/322/60/0/b73789c_upload-1-mpab3jazutzc-2026-07-09t135152z-98742372-rc29amatj4um-rtrmadp-3-europe-weather-france-hospital.JPG",
+      "date": "2026-08-19T15:04:59+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les supercentenaires ont une immunité optimisée",
+      "desc": "La population de cellules immunitaires change chez les personnes à l’âge très avancé, probablement pour ralentir le vieillissement et mieux les protéger contre le cancer.",
+      "url": "https://www.sciencesetavenir.fr/sante/supercentenaires-pourquoi-leur-systeme-immunitaire-vieillit-differemment_194344?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/19/cover-r4x3w1200-6a85ac30a48ef-afp-20240514-hl-qtop-2383801-v1-highres-francesupercentenary.jpg",
+      "date": "2026-08-19T15:00:00+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Jugé trop dangereux, un médicament rare retiré du marché français",
+      "desc": "Destiné à traiter certaines maladies auto-immunes rares, le Tavneos faisait l’objet d’alertes au niveau mondial",
+      "url": "https://www.20minutes.fr/sante/4239916-20260819-juge-trop-dangereux-medicament-rare-retire-marche-francais?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/ENxTcwMBRIaqaUVVkN-ybg/1200x768_illustration-hopital-pres-rennes",
+      "date": "2026-08-19T13:47:13+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -60,16 +210,6 @@
       "date": "2026-08-19T07:50:58+00:00",
       "date_formatted": "19 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Légionellose en Savoie : 3 morts et 46 cas recensés depuis le début du mois de juin",
-      "desc": "Les investigations sont en cours pour déterminer l’origine de la contamination, annonce l’ARS mardi 18 août. Cette maladie infectieuse qui touche le poumon est provoquée par une bactérie qui prolifère dans l’eau douce.",
-      "url": "https://www.liberation.fr/societe/sante/legionellose-en-savoie-3-morts-et-46-cas-recenses-depuis-le-debut-du-mois-de-juin-20260819_RM2JJMH43RDAJP5H7IQIPDNCUE/",
-      "image": null,
-      "date": "2026-08-19T07:11:37+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -213,16 +353,6 @@
       "type": "presse"
     },
     {
-      "title": "L'épidémie d'Ebola a fait plus de 2 300 morts en République démocratique du Congo, et est désormais la plus meurtrière de l'histoire du pays",
-      "desc": "L'épidémie \"est la plus rapide jamais enregistrée\" et \"tue une personne toutes les 30 minutes\", selon le chef des affaires humanitaires de l'ONU.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-de-la-republique-democratique-du-congo-avec-plus-de-2-300-morts_8150732.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ykkwFF2hwyUvB-xyI-7Czysbn9g/0x73:1024x649/432x243/filters:format(jpg):quality(50)/2026/08/17/6a82cb8ec51a1669796035.jpg",
-      "date": "2026-08-17T10:54:22+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola en RDC : l'épidémie \"tue une personne toutes les 30 minutes\"",
       "desc": "Plus rapide que toutes les précédentes flambées, l'épidémie d'Ebola en cours en RDC a déjà fait plus de 2.300 morts en trois mois. Défiance des populations, soignants non payés, financement insuffisant : la riposte peine à suivre le rythme de la propagation.",
       "url": "https://www.sciencesetavenir.fr/sante/rdc-l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-du-pays_194303?xtor=RSS-16",
@@ -273,16 +403,6 @@
       "type": "science"
     },
     {
-      "title": "La maladie d’Alzheimer selon Marine",
-      "desc": "Pendant tous les week-ends de cet été, nous écoutons dans cette chronique des chansons qui s’inspirent de l’actualité et de l’air du temps de ces quelques dernières années – aujourd’hui, « Dalida » de Marine.",
-      "url": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/la-maladie-d-alzheimer-selon-marine_8070233.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/bzZaah8MMNT8eQJ3OCIellEUWCc/8x0:1015x566/432x243/filters:format(jpg):quality(50)/2026/08/13/6a7d93837854c936470443.jpg",
-      "date": "2026-08-16T10:00:01+00:00",
-      "date_formatted": "16 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Longtemps considéré comme inutile, cet organe retiré en chirurgie divise aujourd'hui les scientifiques",
       "desc": "Une petite glande logée derrière le sternum, longtemps jugée inutile passé l'adolescence, et retirée sans état d'âme au cours de certaines opérations du cœur. Une étude américaine associe pourtant son ablation à un risque de décès et de cancer doublé en cinq ans. Des travaux plus récents ne...",
       "url": "https://www.futura-sciences.com/sante/actualites/organe-longtemps-considere-comme-inutile-cet-organe-retire-chirurgie-divise-aujourdhui-scientifiques-k2m6-136896/#xtor%3DRSS-8",
@@ -291,16 +411,6 @@
       "date_formatted": "15 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Un décès \"toutes les 30 minutes\" : l'ONU appelle le monde à \"se réveiller\" face à l'épidémie d'Ebola en République démocratique du Congo",
-      "desc": "\"Nous avons besoin de rapidité, de moyens à grande échelle et de solidarité\" pour éviter \"que ce virus ne prenne encore davantage d'avance sur nous\", a imploré Tom Fletcher, chef des affaires humanitaires de l'ONU",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-deces-toutes-les-30-minutes-l-onu-appelle-le-monde-a-se-reveiller-face-a-l-epidemie-d-ebola-en-republique-democratique-du-congo_8148134.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/KB98kbGe0Ox64AYFBCycPkuWqLY/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/08/14/6a7f8f7da2a7e540089132.jpg",
-      "date": "2026-08-14T23:58:43+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Le Conseil constitutionnel valide la loi sur la fin de vie, les établissements catholiques obtiennent leur « clause de conscience »",
@@ -399,16 +509,6 @@
       "image": "https://img.lemde.fr/2026/08/11/869/0/2000/1000/644/322/60/0/6e119ac_upload-1-cdtjvptm15ti-aquindo-clausedeconscience.jpg",
       "date": "2026-08-12T15:02:31+00:00",
       "date_formatted": "12 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Comment les vagues de chaleur dégradent les conditions de soins dans les hôpitaux ?",
-      "desc": "Entre surmortalité, limitation de soin et dégradation de matériel, des praticiens racontent l’hôpital pendant les canicules.",
-      "url": "https://www.lemonde.fr/videos/video/2026/08/11/comment-les-vagues-de-chaleur-degradent-les-conditions-de-soins-dans-les-hopitaux_6744060_1669088.html",
-      "image": "https://img.lemde.fr/2026/07/30/854/0/5312/2656/644/322/60/0/17ca521_upload-1-ik0gtho40jwe-chubx-023.JPG",
-      "date": "2026-08-11T19:27:52+00:00",
-      "date_formatted": "11 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
