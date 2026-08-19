@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-18T18:18:41.666362+00:00",
-  "count": 58,
+  "generated_at": "2026-08-19T00:31:23.443370+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Légionellose en Savoie : 46 cas depuis juin, une troisième personne est morte",
+      "desc": "L’Agence régionale de santé poursuit ses analyses pour tenter de déterminer l’origine de la contamination. La maladie infectieuse est mortelle dans environ 10 % des cas.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/legionellose-en-savoie-46-cas-depuis-juin-une-troisieme-personne-est-morte_6749223_3224.html",
+      "image": "https://img.lemde.fr/2025/09/26/660/0/4800/2400/644/322/60/0/6fd162e_upload-1-n6xoh8ft317k-maxnewsspecialtwo346954.jpg",
+      "date": "2026-08-19T01:34:28+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Savoie : Une troisième personne est décédée de la légionellose, 46 cas recensés depuis juin",
+      "desc": "Les autorités sanitaires ont indiqué mardi qu’elles poursuivaient leurs investigations autour de Chambéry, où se concentre la majorité des contaminations. Sur les trois décès, deux d’entre eux sont liés à un réseau d’eau privé",
+      "url": "https://www.20minutes.fr/sante/4239793-20260818-savoie-troisieme-personne-decedee-legionellose-46-cas-recenses-depuis-juin?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/G9pBMxVzRzWK_Ljw-b0Ayyk/1200x768_illustration-d-un-infirmier-discutant-avec-un-patient-dans-sa-chambre-au-service-cardiologie-du-chu-laennec-nantes-ouest-benayacheadil-sipa-30595-credit-adil-benayache-sipa-2409161152",
+      "date": "2026-08-18T19:55:58+00:00",
+      "date_formatted": "18 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Aux Etats-Unis, le procès de Lindsay Clancy, jugée pour le meurtre de ses trois enfants, met en lumière une maladie rare, la \"psychose post-partum\"",
       "desc": "Les avocats de l'infirmière de 36 ans invoquent ce trouble psychiatrique pour défendre son irresponsabilité pénale. Les procureurs estiment eux que la mère de famille a tué ses enfants \"de manière délibérée et méticuleuse\".",
@@ -28,36 +48,6 @@
       "url": "https://www.liberation.fr/societe/secheresse-en-bretagne-lirrigation-systematique-est-une-maladaptation-au-changement-climatique-20260818_VJPBGUW2SFAVNDQEMETZXTDZNU/",
       "image": null,
       "date": "2026-08-18T16:34:47+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort accidentelle du producteur d’«OSS 117» Nicolas Altmayer et de Mathilde Favier, responsable chez Dior",
-      "desc": "Le couple a été tué lundi sur une route départementale des Deux-Sèvres. Le parquet de Niort a ouvert a ouvert une enquête pour «homicide involontaire par conducteur», afin de déterminer les circonstances exactes des faits.",
-      "url": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
-      "image": null,
-      "date": "2026-08-18T16:01:03+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "John Crowley, dans un autre des mondes",
-      "desc": "L’auteur américain des fabuleux «Kra» et de «Petit, grand ou le Parlement des fées» est mort le 8 août à 83 ans.",
-      "url": "https://www.liberation.fr/culture/livres/john-crowley-dans-un-autre-des-mondes-20260818_QKTYEXCH5NDUBGVDLVLCAY7QXM/",
-      "image": null,
-      "date": "2026-08-18T15:53:00+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Publicités illégales de thérapies cellulaires : «Leurs promoteurs jouent sur la méconnaissance pour vendre du rêve»",
-      "desc": "L’Agence française du médicament a récemment sanctionné deux sociétés turques vantant les effets prétendus de leurs traitements – non autorisés – contre des maladies graves. Le directeur général adjoint de l’institution explique cette décision face à un phénomène dangereux qui prend de l’ampleur.",
-      "url": "https://www.liberation.fr/societe/sante/publicites-illegales-de-therapies-cellulaires-leurs-promoteurs-jouent-sur-la-meconnaissance-pour-vendre-du-reve-20260818_J4WMIIDIUZGQ5ED6ESNISBLBJY/",
-      "image": null,
-      "date": "2026-08-18T15:37:34+00:00",
       "date_formatted": "18 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -371,26 +361,6 @@
       "date_formatted": "11 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "« Lorsqu’on légifère sur la fin de vie, on a le devoir de reconnaître les aidants »",
-      "desc": "La loi sur l’aide à mourir ne garantit aucun soutien psychologique à « ceux qui restent une fois que tout est fini », alertent la médecin Hélène Rossinot et le chercheur Mickaël Worms-Ehrminger, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/11/lorsqu-on-legifere-sur-la-fin-de-vie-on-a-le-devoir-de-reconnaitre-les-aidants_6743771_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0dd3d9d_upload-1-4c5bcsqpqy19-frame-1202.jpg",
-      "date": "2026-08-11T10:00:09+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : L’isolement recommandé pour les proches du touriste franco-argentin avec un risque faible de transmission",
-      "desc": "Les proches du touriste franco-argentin diagnostiqué positif à l’hantavirus en France avant de s’isoler en Espagne sont invités à s’isoler. Selon les autorités françaises, le risque de transmission reste tout de même faible",
-      "url": "https://www.20minutes.fr/sante/4238245-20260807-hantavirus-risque-faible-transmission-isolement-recommande-proches-touriste-franco-argentin?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/-UaDNDJ_RDGGAsyIU2Y3ZSk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8709-credit-mourad-allili-sipa-2605121211",
-      "date": "2026-08-07T14:41:34+00:00",
-      "date_formatted": "7 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Rougeole: un cas dans le parc d'attractions Universal Studios",
