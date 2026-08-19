@@ -1,13 +1,63 @@
 {
-  "generated_at": "2026-08-19T00:31:23.443370+00:00",
-  "count": 55,
+  "generated_at": "2026-08-19T06:22:05.126494+00:00",
+  "count": 57,
   "articles": [
     {
-      "title": "Légionellose en Savoie : 46 cas depuis juin, une troisième personne est morte",
+      "title": "L'épidémie d'Ebola en République démocratique du Congo est \"loin d'être maîtrisée\", prévient l'OMS",
+      "desc": "\"Près de 5 000 personnes ont désormais été infectées et plus de 2 300 sont décédées\", a rapporté mardi le responsable de l'OMS, Tedros Adhanom Ghebreyesus, qui pointe un risque \"élevé\" de propagation internationale.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-est-loin-d-etre-maitrisee-previent-l-oms_8153150.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Tcy9_L-AFHQc95w8UKEaiHoqbvw/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8543f30b7b9412761107.jpg",
+      "date": "2026-08-19T07:50:58+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le ballet épigénétique derrière la floraison des plantes mis au jour",
+      "desc": "La vitesse de fleurissement et la quantité de pétales produits par les plantes à fleurs dépendent d’un mécanisme bien orchestré mais complexe. Des chercheurs sont parvenus à déterminer les acteurs et leurs rôles lors de la transition entre la phase végétative et la phase reproductrice.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/19/le-ballet-epigenetique-derriere-la-floraison-des-plantes-mis-au-jour_6749467_1650684.html",
+      "image": "https://img.lemde.fr/2026/08/17/480/0/5760/2880/644/322/60/0/b9b37f7_upload-1-v1hdqhavlpjr-cea-dcom-0007944-ori.jpg",
+      "date": "2026-08-19T06:30:13+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "VPN, avatar 3D et vente de comptes vérifiés : un marché en préparation pour contourner l’interdiction des réseaux sociaux aux moins de 15 ans",
+      "desc": "Après la censure du Conseil constitutionnel, le gouvernement refuse d’abandonner sa loi pour bannir l’accès aux plateformes aux plus jeunes. Une aubaine pour les différents outils permettant de tromper les vérifications de l’âge, qui sont prêts à se développer.",
+      "url": "https://www.liberation.fr/lifestyle/vpn-avatar-3d-et-vente-de-comptes-verifies-un-marche-en-preparation-pour-contourner-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-20260819_NEBNR4YJTFB3PEGNWPO4ZZTWIA/",
+      "image": null,
+      "date": "2026-08-19T04:05:00+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’aide à mourir officiellement autorisée en France après la promulgation de la loi par Emmanuel Macron",
+      "desc": "Le texte, validé par le Conseil constitutionnel avec quelques réserves, a été publié, mercredi 19 août, au « Journal officiel ». Il crée un droit à l’aide à mourir, sous plusieurs conditions, pour certains patients.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/19/l-aide-a-mourir-officiellement-autorisee-en-france-apres-la-promulgation-de-la-loi-par-emmanuel-macron_6749291_3224.html",
+      "image": "https://img.lemde.fr/2026/07/15/500/0/6000/3000/644/322/60/0/0b4818f_ftp-1-yivsds8awrha-2026-07-15t173223z-995237890-rc2hemanbt5d-rtrmadp-3-france-politics-assisted-dying.JPG",
+      "date": "2026-08-19T03:19:02+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Emmanuel Macron a promulgué la loi sur l’aide à mourir",
+      "desc": "La loi légalise sous des conditions drastiques une forme d’assistance au suicide et l’euthanasie",
+      "url": "https://www.20minutes.fr/societe/4239812-20260819-emmanuel-macron-promulgue-loi-aide-mourir?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/4tSD693RT1OW_q2LIxoYqik/1200x768_un-cadre-de-nuit-aupres-d-un-patient-en-fin-de-vie-au-dechocage-urgences-un-an-apres-le-debut-de-la-crise-sanitaire-les-soignants-ne-voient-pas-le-bout-du-tunnel-la-lassitude-a-succede-a-la-tm-adrenaline-le-ressentiment-a-la-solidarite-reportage-a-l-hopital-delafontaine-a-saint-denis-en-premiere-ligne-face-a-la-pandemie-un-an-apres-le-debut-de-la-crise-sanitaire-les-soignants-ne-voient-pas-le-bout-du-tunnel-la-lassitude-a-succede-a-l-adrenaline-le-ressentiment-a-succede-a-la-solidarite-reportage-a-l-hopital-delafontaine-a-saint-denis-en-premiere-ligne-face-a-la-pandemie-driguez-marin-1911-21335-2105121451-credit-marin-driguez-sipa-2105121456",
+      "date": "2026-08-19T01:39:05+00:00",
+      "date_formatted": "19 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Légionellose en Savoie : 46 cas depuis le mois de juin, une troisième personne est morte",
       "desc": "L’Agence régionale de santé poursuit ses analyses pour tenter de déterminer l’origine de la contamination. La maladie infectieuse est mortelle dans environ 10 % des cas.",
       "url": "https://www.lemonde.fr/societe/article/2026/08/19/legionellose-en-savoie-46-cas-depuis-juin-une-troisieme-personne-est-morte_6749223_3224.html",
       "image": "https://img.lemde.fr/2025/09/26/660/0/4800/2400/644/322/60/0/6fd162e_upload-1-n6xoh8ft317k-maxnewsspecialtwo346954.jpg",
-      "date": "2026-08-19T01:34:28+00:00",
+      "date": "2026-08-19T01:34:24+00:00",
       "date_formatted": "19 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -30,26 +80,6 @@
       "date": "2026-08-18T17:25:54+00:00",
       "date_formatted": "18 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Sophie Adenot dans l’espace, mort d’Yvette Roudy, ingérences contre Attal et Philippe… L’actu de ce mardi 18 août",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mardi 18 août.",
-      "url": "https://www.liberation.fr/international/europe/sophie-adenot-dans-lespace-mort-dyvette-roudy-ingerences-contre-attal-et-philippe-lactu-de-ce-mardi-18-aout-20260818_HPFXPGF5FJBJ5FB6JNHESOLO5U/",
-      "image": null,
-      "date": "2026-08-18T16:45:07+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Sécheresse en Bretagne : «L’irrigation systématique est une maladaptation au changement climatique»",
-      "desc": "François Lecompte, chercheur à l’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement, analyse les contours du maraîchage breton de demain, entre adaptation des cycles, gestion des parcelles et génétique.",
-      "url": "https://www.liberation.fr/societe/secheresse-en-bretagne-lirrigation-systematique-est-une-maladaptation-au-changement-climatique-20260818_VJPBGUW2SFAVNDQEMETZXTDZNU/",
-      "image": null,
-      "date": "2026-08-18T16:34:47+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -338,16 +368,6 @@
       "url": "https://www.lemonde.fr/videos/video/2026/08/11/comment-les-vagues-de-chaleur-degradent-les-conditions-de-soins-dans-les-hopitaux_6744060_1669088.html",
       "image": "https://img.lemde.fr/2026/07/30/854/0/5312/2656/644/322/60/0/17ca521_upload-1-ik0gtho40jwe-chubx-023.JPG",
       "date": "2026-08-11T19:27:52+00:00",
-      "date_formatted": "11 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : l’épidémie a fait plus de 2 000 morts en RDC",
-      "desc": "Ce bilan rapproche l’épidémie actuelle de celle qui avait sévi entre 2018 et 2020, la plus meurtrière à ce jour en République démocratique du Congo avec près de 2 300 morts.",
-      "url": "https://www.lemonde.fr/international/article/2026/08/11/ebola-l-epidemie-a-fait-plus-de-2-000-morts-en-rdc_6743790_3210.html",
-      "image": "https://img.lemde.fr/2026/07/31/555/0/6953/3476/644/322/60/0/00da1dc_ftp-1-hvqcuq9a2w0a-2026-07-31t085519z-246925543-rc23hlakm9nk-rtrmadp-3-health-ebola.JPG",
-      "date": "2026-08-11T12:06:32+00:00",
       "date_formatted": "11 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
