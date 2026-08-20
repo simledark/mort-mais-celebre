@@ -1,35 +1,85 @@
 {
-  "generated_at": "2026-08-20T06:22:46.925984+00:00",
-  "count": 68,
+  "generated_at": "2026-08-20T12:21:10.463361+00:00",
+  "count": 69,
   "articles": [
     {
-      "title": "Des frappes russes font neuf morts à Kyiv et dans sa région",
-      "desc": "Plus de quatre ans après le début de l’invasion de l’Ukraine par la Russie, les frappes se sont intensifiées des deux côtés du front, faisant un nombre croissant de victimes civiles.",
-      "url": "https://www.liberation.fr/international/europe/des-frappes-russes-font-neuf-morts-a-kyiv-et-dans-sa-region-20260820_CSTSXA4QIZCP5BSW3LSRAARDKI/",
+      "title": "La proche de Lena Situations, Gisèle Journo, ciblée sur les réseaux : enquête ouverte pour cyberharcèlement et menace de mort",
+      "desc": "Attaquée pour la republication de contenus pro armée israélienne sur TikTok, la directrice de l’agence Gisèle Paris, qui gère des créateurs de contenus, a subi une vague de haine antisémite sur Internet.",
+      "url": "https://www.liberation.fr/societe/police-justice/la-proche-de-lena-situations-gisele-journo-ciblee-sur-les-reseaux-enquete-ouverte-pour-cyberharcelement-et-menace-de-mort-20260820_TLRKEYAEPBBS5DTLHLCE5VZ3JA/",
       "image": null,
-      "date": "2026-08-20T06:12:00+00:00",
+      "date": "2026-08-20T12:07:06+00:00",
       "date_formatted": "20 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Une vingtaine de cas autochtones de Chikungunya identifiés dans l'Hexagone",
-      "desc": "La présence régulière de cas de chikungunya dans l'Hexagone, transmis par le moustique tigre, témoigne de l'implantation persistante de cette maladie depuis plusieurs années sur le territoire.",
+      "title": "Le vaccin contre le cancer de la peau représente \"un réel espoir,\" souligne l’oncologue Suzette Delaloge",
+      "desc": "Les laboratoires Moderna et Merck ont annoncé les premiers résultats d'un vaccin destiné à lutter contre les rechutes du cancer de la peau. S'il faut encore attendre les données consolidées, l’oncologue Suzette Delaloge détaille le fonctionnement de médicament très innovant.",
+      "url": "https://www.franceinfo.fr/sante/cancer/le-vaccin-contre-le-cancer-de-la-peau-represente-un-reel-espoir-souligne-l-oncologue-suzette-delaloge_8154662.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/l25ABnjTvIzXhj9HXKxCZeTRVwg/0x25:2047x1175/432x243/filters:format(jpg):quality(50)/2018/10/10/php7tDKWD.jpg",
+      "date": "2026-08-20T12:01:48+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "14 000 en Allemagne, près de 4 500 en Espagne... L’Europe compte ses morts dues aux chaleurs extrêmes",
+      "desc": "Avec des températures jusqu’à 41 degrés, la semaine du 22 au 28 juin a été particulièrement meurtrière.",
+      "url": "https://www.liberation.fr/international/europe/allemagne-14-000-deces-lies-a-la-chaleur-cet-ete-pire-que-le-record-de-2018-20260820_THJAHV2XVVBNLIOUGG7XM236UI/",
+      "image": null,
+      "date": "2026-08-20T10:48:46+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la peau : un vaccin à ARN messager testé par Moderna et Merck pourrait diminuer de manière «significative» le risque de récidive",
+      "desc": "Le 19 août, les laboratoires américains ont fait part de résultats encourageants à la suite d’un essai clinique mené sur plus de 1 000 patients. Deux chercheurs français, qui n’ont pas participé à ces travaux, saluent une «bonne nouvelle» en attendant de voir les données complètes de l’étude.",
+      "url": "https://www.liberation.fr/societe/sante/cancer-de-la-peau-un-vaccin-a-arn-messager-teste-par-moderna-et-merck-pourrait-diminuer-de-maniere-significative-le-risque-de-recidive-20260820_HRJIPCKWJVAZPDCNZIE54FOMKI/",
+      "image": null,
+      "date": "2026-08-20T09:53:55+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le médicament Tavneos, indiqué pour certaines maladies rares, retiré du marché car jugé trop dangereux",
+      "desc": "L’Agence nationale de sécurité du médicament a déclenché le 19 août le rappel de tous les lots disponibles en France. Les 600 patients suivant ce traitement doivent consulter leur médecin et ne pas l’arrêter seuls.",
+      "url": "https://www.liberation.fr/societe/sante/le-medicament-tavneos-indique-pour-certaines-maladies-rares-retire-du-marche-car-juge-trop-dangereux-20260820_K2NLG5SIQVGX5AZCGT3HISHLRE/",
+      "image": null,
+      "date": "2026-08-20T09:47:46+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du footballeur Robert Mouynet, dernier survivant de l’équipe de France troisième de la Coupe du monde 1958",
+      "desc": "L’ancien défenseur de Toulouse, Lyon et Cannes avait 96 ans. Blessé, il avait participé sans jouer à l’épopée glorieuse des Bleus de Raymond Kopa et Just Fontaine, éliminés en demi-finale par le Brésil de Pelé.",
+      "url": "https://www.liberation.fr/sports/football/mort-du-footballeur-robert-mouynet-dernier-survivant-de-lequipe-de-france-troisieme-de-la-coupe-du-monde-1958-20260820_HQSXGGYO4RHZDJFR6JDHN46TRA/",
+      "image": null,
+      "date": "2026-08-20T09:11:09+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "image": null,
+      "date": "2026-08-20T07:00:00+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Une vingtaine de cas autochtones de chikungunya identifiés dans l'Hexagone",
+      "desc": "La présence régulière de cas de chikungunya, transmis par le moustique-tigre, témoigne de l'implantation persistante de cette maladie depuis plusieurs années sur le territoire.",
       "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/une-vingtaine-de-cas-autochtones-de-chikungunya-identifies-dans-l-hexagone_8154161.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/uLlnFQdDgxwmXMxhkqxWGuYRyxs/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8626f74443e422534422.jpg",
       "date": "2026-08-19T23:58:53+00:00",
       "date_formatted": "19 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Guerre à Gaza : deux ans après la mort de Hind Rajab, Israël reconnaît avoir tiré sur la voiture dans laquelle se trouvait l’enfant de 5 ans",
-      "desc": "L’armée israélienne a relevé ce mercredi des «manquements présumés» ayant mené en janvier 2024 à la mort de la fillette. Une enquête concernant le meurtre de 15 secouristes et travailleurs humanitaires en mars 2025 va également être ouverte.",
-      "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-deux-ans-apres-la-mort-de-la-petite-hind-rajab-5-ans-israel-annonce-louverture-dune-enquete-20260819_UNRIFWBNTNE57HJKII6RHYZNM4/",
-      "image": null,
-      "date": "2026-08-19T18:13:40+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -243,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Aux Etats-Unis, le procès de Lindsay Clancy, jugée pour le meurtre de ses trois enfants, met en lumière une maladie rare, la \"psychose post-partum\"",
-      "desc": "Les avocats de l'infirmière de 36 ans invoquent ce trouble psychiatrique pour défendre son irresponsabilité pénale. Les procureurs estiment eux que la mère de famille a tué ses enfants \"de manière délibérée et méticuleuse\".",
-      "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-proces-de-lindsay-clancy-jugee-pour-le-meurtre-de-ses-trois-enfants-met-en-lumiere-une-maladie-rare-la-psychose-post-partum_8151923.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/wRUwRmjD3SX72eRvOE-GFKYSd_o/0x0:5333x3000/432x243/filters:format(jpg):quality(50)/2026/08/18/6a841f826bd7c120534542.jpg",
-      "date": "2026-08-18T17:25:54+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "L’épidémie d’Ebola en RDC est « loin d’être maîtrisée » et il existe un « risque élevé d’une propagation internationale »",
       "desc": "Actuellement, l’OMS juge le niveau de risque pour la santé publique « très élevé » pour la RDC, « élevé » pour l’Ouganda et les autres pays frontaliers de la RDC, et « faible » pour le reste de l’Afrique et du monde.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/18/ebola-en-rdc-l-epidemie-est-loin-d-etre-maitrisee-alerte-le-chef-de-l-oms_6749057_3212.html",
@@ -260,16 +300,6 @@
       "date": "2026-08-18T15:08:21+00:00",
       "date_formatted": "18 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une résidente d'Ephad de Rennes retrouvée morte dans des conditions suspectes",
-      "desc": "Le parquet de Rennes explique mardi à franceinfo que la femme a été retrouvée, dimanche, avec un oreiller sur le visage. Une enquête est ouverte pour \"meurtre sur personne vulnérable\".",
-      "url": "https://www.franceinfo.fr/sante/senior/maltraitance-dans-les-ehpad/rennes-une-residente-d-ephad-de-rennes-retrouvee-morte-dans-des-conditions-suspectes_8152034.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/wA-qKDlZ48Sg0dkcfxFSgdOy6Vo/0x0:4314x2426/432x243/filters:format(jpg):quality(50)/2026/07/29/6a69ed8da1c9a542314315.jpg",
-      "date": "2026-08-18T11:51:02+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -433,16 +463,6 @@
       "type": "presse"
     },
     {
-      "title": "Alzheimer : ces troubles du langage peuvent apparaître bien avant les pertes de mémoire",
-      "desc": "La maladie d'Alzheimer est difficile à diagnostiquer, car ses symptômes apparaissent progressivement et peuvent être confondus avec d'autres troubles. Pourtant, un diagnostic précoce aide à ralentir son évolution. Parmi les signes les plus précoces, les troubles du langage sont souvent sous-estimés.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ces-troubles-langage-peuvent-apparaitre-bien-avant-pertes-memoire-w2t8-136855/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/5/c/a5cb1d39e0_50259189_troubles-langage-alzheimer.jpg",
-      "date": "2026-08-14T08:00:00+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ebola en RDC : l’épidémie s’étend à une sixième province et menace le Soudan du Sud",
       "desc": "Une personne est morte de la maladie dans la province du Bas-Uele (nord), frontalière de la République centrafricaine et jusqu’à présent épargnée.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/13/ebola-en-rdc-l-epidemie-s-etend-a-une-sixieme-province-et-menace-le-soudan-du-sud_6745827_3212.html",
@@ -450,16 +470,6 @@
       "date": "2026-08-13T18:50:40+00:00",
       "date_formatted": "13 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Deux morts, 41 cas… La légionellose en pleine recrudescence en Savoie",
-      "desc": "Selon un bilan de l’ARS Auvergne-Rhône-Alpes, 41 cas de légionellose ont été déclarés aux autorités sanitaires en Savoie entre le 1er juin et le 10 août",
-      "url": "https://www.20minutes.fr/societe/4238967-20260813-deux-morts-41-cas-legionellose-pleine-recrudescence-savoie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/yDSDeEHUQS2D5D4dC8kaQik/1200x768_le-service-des-urgences-de-l-hopital-pellegrin-qui-fait-partie-du-chu-de-bordeaux-pendant-la-canicule-qui-sevit-en-france-le-departement-de-la-gironde-est-en-alerte-rouge-en-raison-de-la-canicule-a-bordeaux-le-23-juin-2026-amezugo-urgences-5-credit-ugo-amez-sipa-2606231212",
-      "date": "2026-08-13T04:32:51+00:00",
-      "date_formatted": "13 August 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
