@@ -1,15 +1,95 @@
 {
-  "generated_at": "2026-08-20T12:21:10.463361+00:00",
-  "count": 69,
+  "generated_at": "2026-08-20T18:20:00.059182+00:00",
+  "count": 70,
   "articles": [
     {
-      "title": "La proche de Lena Situations, Gisèle Journo, ciblée sur les réseaux : enquête ouverte pour cyberharcèlement et menace de mort",
-      "desc": "Attaquée pour la republication de contenus pro armée israélienne sur TikTok, la directrice de l’agence Gisèle Paris, qui gère des créateurs de contenus, a subi une vague de haine antisémite sur Internet.",
-      "url": "https://www.liberation.fr/societe/police-justice/la-proche-de-lena-situations-gisele-journo-ciblee-sur-les-reseaux-enquete-ouverte-pour-cyberharcelement-et-menace-de-mort-20260820_TLRKEYAEPBBS5DTLHLCE5VZ3JA/",
+      "title": "\"[La récidive], je n'y pense pas du tout\" : l'espoir d'un vaccin contre le cancer, une première mondiale",
+      "desc": "C’est une avancée majeure : un vaccin pour lutter contre les récidives du cancer de la peau. Le 20 Heures a rencontré en exclusivité l’un des rares patients français à avoir bénéficié des essais, qui sont très encourageants.",
+      "url": "https://www.franceinfo.fr/sante/cancer/la-recidive-je-n-y-pense-pas-du-tout-l-espoir-d-un-vaccin-contre-le-cancer-une-premiere-mondiale_8155388.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/-2Z-Bl0aXnm5SYcs6bfZrCrvvGE/0x96:1144x740/432x243/filters:format(jpg):quality(50)/2026/08/20/6a874420e32de263943452.png",
+      "date": "2026-08-20T20:15:09+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la peau : bientôt un vaccin ?",
+      "desc": "Les laboratoires américains Merck et Moderna ont annoncé des résultats positifs lors de la dernière phase d'essais cliniques de leur vaccin expérimental à ARN messager contre le cancer de la peau.",
+      "url": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-peau-bientot-un-vaccin_8155181.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/YXaRHDgJHi5dmL3u1zdT_9_fR6U/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/20/6a871af5bfff4914699761.jpg",
+      "date": "2026-08-20T20:00:01+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Relâcher des millions de moustiques pour faire baisser leur population : le principe surprend",
+      "desc": "32 millions de moustiques lâchés dans la nature, non pas pour piquer, mais pour stopper la propagation de maladies. Le projet de la filiale de Google fait autant parler les scientifiques que le grand public. Une initiative aussi audacieuse que méconnue qui mérite qu'on s'y attarde sérieusement.",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-relacher-millions-moustiques-faire-baisser-leur-population-principe-surprend-k2m6-137044/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/9/5/59597c1802_50259538_bacterie-moustique-femelles.jpg",
+      "date": "2026-08-20T18:00:00+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Mort de l’influenceuse Sonia Bellina : l’un des deux hommes en garde à vue a été libéré",
+      "desc": "Selon un communiqué du procureur de la République de Nîmes, le suspect a été libéré faute d’éléments permettant d’établir sa participation au déroulement des faits. Un autre homme est toujours en garde à vue.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-de-linfluenceuse-sonia-bellina-lun-des-deux-hommes-en-garde-a-vue-a-ete-libere-20260820_JKV5CC5JBJEGJBZQAHZWX6JLOM/",
       "image": null,
-      "date": "2026-08-20T12:07:06+00:00",
+      "date": "2026-08-20T17:30:35+00:00",
       "date_formatted": "20 August 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Face à l'épidémie d'Ebola, l'Organisation mondiale de la santé fournit 70 000 doses de vaccin Ervebo à la RDC",
+      "desc": "L'épidémie a déjà fait près de 2 500 morts en République démocratique du Congo, selon l'OMS. Elle continue de se propager à une vitesse sans précédent.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/face-a-l-epidemie-d-ebola-l-organisation-mondiale-de-la-sante-fournit-70-000-doses-de-vaccin-ervebo-a-la-rdc_8155055.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mYBYkkxPDyVEX3ntEq7xpCG-rPU/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8710657f8aa252725280.jpg",
+      "date": "2026-08-20T16:34:38+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de l’enseignant de Cambridge Jason Arday : l’université de Gand suspend le chercheur qui l’a accusé de plagiat",
+      "desc": "Licencié de Cambridge en 2024 pour racisme, Nathan Cofnas avait été nommé en Belgique en mai dernier.",
+      "url": "https://www.liberation.fr/international/europe/mort-de-lenseignant-de-cambridge-jason-arday-luniversite-de-gand-suspend-le-chercheur-qui-la-accuse-de-plagiat-20260820_BJLBAF5MSFBSHMVLHL4QMNQ4MY/",
+      "image": null,
+      "date": "2026-08-20T16:31:53+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Triple infanticide dans le Massachusetts : Qu’est-ce que la psychose post-partum, invoquée par l’accusée ?",
+      "desc": "Les avocats de Lindsay Clancy, ancienne infirmière ayant tué ses trois jeunes enfants en 2023 avant de tenter de se suicider, expliquent son geste par un trouble psychiatrique peu connu : la psychose post-partum",
+      "url": "https://www.20minutes.fr/sante/4239904-20260820-triple-infanticide-massachusetts-psychose-post-partum-invoquee-accusee?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/5J1Xma1kQQO-ThMAqcPWWik/1200x768_lindsay-clancy-ecoute-lors-de-son-proces-pour-meurtre-le-mercredi-19-aout-2026-a-plymouth-au-massachusetts-amanda-sabga-the-boston-herald-via-ap-piscine-maboh306-26231617048984-photo-de-piscine-2608191935",
+      "date": "2026-08-20T16:23:56+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Aveyron : ouverture d’une enquête après la mort d’une adolescente lors d’une promenade à cheval",
+      "desc": "Le centre équestre de Najac, à l’origine de la balade au cours de laquelle l’accident tragique a eu lieu le 7 août, a été fermé de façon temporaire pour une durée «illimitée». La préfecture pointe du doigt la «non-conformité» de certains équipements.",
+      "url": "https://www.liberation.fr/sports/aveyron-ouverture-dune-enquete-apres-la-mort-dune-adolescente-lors-dune-promenade-a-cheval-20260820_VBKIW4CCNVBE3P6F5QEZXYOIQU/",
+      "image": null,
+      "date": "2026-08-20T16:18:31+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola en RDC : l’OMS déploie 70 000 doses du vaccin Ervebo",
+      "desc": "Le vaccin est homologué contre la souche Zaïre du virus, mais pas contre la souche Bundibugyo qui sévit actuellement dans le pays. Il pourrait toutefois offrir une certaine protection.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/20/ebola-en-rdc-l-oms-deploie-70-000-doses-du-vaccin-ervebo_6750970_3212.html",
+      "image": "https://img.lemde.fr/2026/08/20/536/0/4928/2464/644/322/60/0/36824b8_ftp-1-b21wfpyj4exy-5879798-01-06.jpg",
+      "date": "2026-08-20T14:44:36+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -20,56 +100,6 @@
       "date": "2026-08-20T12:01:48+00:00",
       "date_formatted": "20 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "14 000 en Allemagne, près de 4 500 en Espagne... L’Europe compte ses morts dues aux chaleurs extrêmes",
-      "desc": "Avec des températures jusqu’à 41 degrés, la semaine du 22 au 28 juin a été particulièrement meurtrière.",
-      "url": "https://www.liberation.fr/international/europe/allemagne-14-000-deces-lies-a-la-chaleur-cet-ete-pire-que-le-record-de-2018-20260820_THJAHV2XVVBNLIOUGG7XM236UI/",
-      "image": null,
-      "date": "2026-08-20T10:48:46+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer de la peau : un vaccin à ARN messager testé par Moderna et Merck pourrait diminuer de manière «significative» le risque de récidive",
-      "desc": "Le 19 août, les laboratoires américains ont fait part de résultats encourageants à la suite d’un essai clinique mené sur plus de 1 000 patients. Deux chercheurs français, qui n’ont pas participé à ces travaux, saluent une «bonne nouvelle» en attendant de voir les données complètes de l’étude.",
-      "url": "https://www.liberation.fr/societe/sante/cancer-de-la-peau-un-vaccin-a-arn-messager-teste-par-moderna-et-merck-pourrait-diminuer-de-maniere-significative-le-risque-de-recidive-20260820_HRJIPCKWJVAZPDCNZIE54FOMKI/",
-      "image": null,
-      "date": "2026-08-20T09:53:55+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le médicament Tavneos, indiqué pour certaines maladies rares, retiré du marché car jugé trop dangereux",
-      "desc": "L’Agence nationale de sécurité du médicament a déclenché le 19 août le rappel de tous les lots disponibles en France. Les 600 patients suivant ce traitement doivent consulter leur médecin et ne pas l’arrêter seuls.",
-      "url": "https://www.liberation.fr/societe/sante/le-medicament-tavneos-indique-pour-certaines-maladies-rares-retire-du-marche-car-juge-trop-dangereux-20260820_K2NLG5SIQVGX5AZCGT3HISHLRE/",
-      "image": null,
-      "date": "2026-08-20T09:47:46+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort du footballeur Robert Mouynet, dernier survivant de l’équipe de France troisième de la Coupe du monde 1958",
-      "desc": "L’ancien défenseur de Toulouse, Lyon et Cannes avait 96 ans. Blessé, il avait participé sans jouer à l’épopée glorieuse des Bleus de Raymond Kopa et Just Fontaine, éliminés en demi-finale par le Brésil de Pelé.",
-      "url": "https://www.liberation.fr/sports/football/mort-du-footballeur-robert-mouynet-dernier-survivant-de-lequipe-de-france-troisieme-de-la-coupe-du-monde-1958-20260820_HQSXGGYO4RHZDJFR6JDHN46TRA/",
-      "image": null,
-      "date": "2026-08-20T09:11:09+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
-      "desc": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
-      "image": null,
-      "date": "2026-08-20T07:00:00+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -231,16 +261,6 @@
       "date_formatted": "19 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "L'épidémie d'Ebola en République démocratique du Congo est \"loin d'être maîtrisée\", prévient l'OMS",
-      "desc": "\"Près de 5 000 personnes ont désormais été infectées et plus de 2 300 sont décédées\", a rapporté mardi le responsable de l'OMS, Tedros Adhanom Ghebreyesus, qui pointe un risque \"élevé\" de propagation internationale.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-est-loin-d-etre-maitrisee-previent-l-oms_8153150.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Tcy9_L-AFHQc95w8UKEaiHoqbvw/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8543f30b7b9412761107.jpg",
-      "date": "2026-08-19T07:50:58+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Le ballet épigénétique derrière la floraison des plantes mis au jour",
@@ -441,16 +461,6 @@
       "date_formatted": "14 August 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Ils mangent sans grossir : copier ce détail dans leurs gènes pourrait faire la différence pour votre santé",
-      "desc": "Des chercheurs évoquent la piste génétique pour expliquer le fait que certaines personnes ne grossissent pas malgré leur alimentation et que d’autres prennent du poids au moindre écart.",
-      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-ils-mangent-grossir-copier-ce-detail-leurs-genes-pourrait-faire-difference-votre-sante-136926/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/4/e/14e14add22_50259374_alimentation-grossir-surpoids.jpg",
-      "date": "2026-08-14T13:02:23+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Pour lutter contre Ebola, la réponse internationale prise de vitesse",
