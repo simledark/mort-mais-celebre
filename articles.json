@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-08-21T06:23:37.581369+00:00",
-  "count": 66,
+  "generated_at": "2026-08-21T12:21:06.579911+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title": "Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU",
+      "desc": "Face à une épidémie sans précédent, la riposte contre Ebola en RDC est freinée par le manque de moyens et la défiance de la population, alors que des essais de vaccin sont en cours.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/21/ebola-en-rdc-l-epidemie-progresse-de-facon-exponentielle-et-depasse-2-500-morts-alerte-l-onu_6752079_3212.html",
+      "image": "https://img.lemde.fr/2026/08/18/405/0/6000/3000/644/322/60/0/aa032b6_ftp-1-lqphkfmzvkv9-f46a4913ab68446eb47e968601f299fe-0-32f63b0e81134a9aafcbe0889b442451.jpg",
+      "date": "2026-08-21T13:16:09+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L'épidémie d'Ebola en République démocratique du Congo \"progresse de façon exponentielle\", alerte l'ONU",
+      "desc": "A ce jour, le virus a fait \"plus de 2 500 morts\", a rapporté vendredi un responsable chargé de coordonner la réponse des Nations unie à cette épidémie/",
+      "url": "https://www.franceinfo.fr/monde/afrique/republique-democratique-du-congo/l-epidemie-d-ebola-en-republique-democratique-du-congo-progresse-de-facon-exponentielle-alerte-l-onu_8156126.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/TyznrkD2svJxJ7ha-VUAxsR-bOE/0x66:1024x642/432x243/filters:format(jpg):quality(50)/2026/08/21/6a882196c8e38397402536.jpg",
+      "date": "2026-08-21T12:00:16+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Emojis «👍» ou «🙏» : ce que les smileys que vous envoyez par messages disent de votre âge",
+      "desc": "Vous répondez honnêtement par un pouce en l’air à vos SMS ? Alors, vous êtes clairement dépassés. Les émoticones utilisés sont généralement un bon indicateur de votre âge, selon des données Google et Reddit récoltées par le «New York Times».",
+      "url": "https://www.liberation.fr/lifestyle/hightech/emojis-ou-ce-que-les-smileys-que-vous-envoyez-par-messages-disent-de-votre-age-20260821_35QEWMPYIFCUFMTSOZMYSWIQDI/",
+      "image": null,
+      "date": "2026-08-21T11:45:00+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le Covid-19 pourrait réveiller des virus cachés dans votre corps, même si vous êtes en bonne santé !",
+      "desc": "Le Covid-19 pourrait-il réveiller des virus endormis dans notre organisme, comme l’Epstein-Barr ou les herpèsvirus ? Une étude de l'université du Texas révèle que l’infection pourrait réactiver des virus dormants et cela, même chez des personnes en bonne santé. Ce phénomène pourrait expliquer...",
+      "url": "https://www.futura-sciences.com/sante/actualites/covid-19-covid-19-pourrait-reveiller-virus-caches-votre-corps-meme-si-vous-etes-bonne-sante-137181/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/d/5/0d5820b6ed_50259734_covid-19-virus-dormants.jpg",
+      "date": "2026-08-21T11:13:26+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Israël : Ben-Gvir se filme devant le chantier d’une potence et multiplie les provocations à l’approche des élections",
+      "desc": "Le ministre d’extrême droite de la Sécurité nationale ne cesse de s’enorgueillir de «sa» loi introduisant la peine de mort pour les Palestiniens déclarés coupables d’attentats meurtriers.",
+      "url": "https://www.liberation.fr/international/moyen-orient/israel-ben-gvir-se-filme-devant-le-chantier-dune-potence-et-multiplie-les-provocations-a-lapproche-des-elections-20260821_43LVGZ7WPZEJXHVO24MPR6RT2Q/",
+      "image": null,
+      "date": "2026-08-21T10:49:34+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Dans les rues d’un Paris perdu, avec Eugène Atget",
+      "desc": "La série «Une vie dans les marges», qui documente la vie des chiffonniers et vanniers du début du XXe siècle, est exposée dans le cadre de la Quinzaine photographique nantaise, du 25 septembre au 1er novembre.",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/dans-les-rues-dun-paris-perdu-avec-eugene-atget-20260821_LGTNYN4DCVHTVC6D2ZHAV3HUSA/",
+      "image": null,
+      "date": "2026-08-21T10:00:00+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la peau : un vaccin à ARN messager testé par Moderna et Merck pourrait diminuer de manière «significative» la récidive",
+      "desc": "Le 19 août, les laboratoires américains ont fait part de résultats encourageants à la suite d’un essai clinique mené sur plus de 1 000 patients. Deux chercheurs français, qui n’ont pas participé à ces travaux, saluent une «bonne nouvelle» en attendant de voir les données complètes de l’étude.",
+      "url": "https://www.liberation.fr/societe/sante/cancer-de-la-peau-un-vaccin-a-arn-messager-teste-par-moderna-et-merck-pourrait-diminuer-de-maniere-significative-le-risque-de-recidive-20260820_HRJIPCKWJVAZPDCNZIE54FOMKI/",
+      "image": null,
+      "date": "2026-08-21T08:39:48+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Et si la maladie d'Alzheimer était aussi liée à une bactérie présente dans notre bouche ?",
       "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
@@ -37,19 +107,9 @@
       "desc": "Du 18 au 23 juillet, cette femme âgée de 85 ans est restée six jours et cinq nuits sur un brancard, faute d’un lit disponible dans le service correspondant à sa pathologie. Des « investigations sont en cours », assure le centre hospitalier.",
       "url": "https://www.lemonde.fr/societe/article/2026/08/21/nino-anne-dupieux-patiente-brancard-aux-urgences-d-orleans-pendant-six-jours-c-est-grace-aux-soignants-que-j-ai-tenu_6751531_3224.html",
       "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/33590f8_upload-1-w8z2nvdwrzwv-frame-245.jpg",
-      "date": "2026-08-21T05:30:08+00:00",
+      "date": "2026-08-21T05:30:02+00:00",
       "date_formatted": "21 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Quiz : connaissez-vous vraiment «la Cité de la peur» par cœur ?",
-      "desc": "(29/30) Quelle était la première voiture d’Odile Deray ? Que n’est PAS «la Carioca» ? Comment est mort le père du commissaire Bialès ?",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-connaissez-vous-vraiment-la-cite-de-la-peur-par-coeur-20260821_3VLOR75SYBDNRDUMQYBVWV7YLE/",
-      "image": null,
-      "date": "2026-08-21T04:00:00+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -91,6 +151,16 @@
       "date_formatted": "20 August 2026",
       "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "Moderna saluée par Wall Street pour l’efficacité promise d’un traitement utilisant l’ARN messager contre le cancer de la peau",
+      "desc": "La biotech et le laboratoire Merck ont annoncé, mercredi 19 août, avoir obtenu des résultats probants dans la lutte contre le mélanome, lors de la dernière phase d’un essai clinique. En réaction, l’action Moderna a quasi triplé en une séance boursière.",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/20/moderna-saluee-par-wall-street-pour-l-efficacite-promise-d-un-traitement-utilisant-l-arn-messager-contre-le-cancer-de-la-peau_6751196_3234.html",
+      "image": "https://img.lemde.fr/2026/08/20/319/0/5481/2740/644/322/60/0/0d93e9f_upload-1-dhsvfwyjexny-gettyimages-2151784515.jpg",
+      "date": "2026-08-20T19:31:22+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "Relâcher des millions de moustiques pour faire baisser leur population : le principe surprend",
@@ -139,26 +209,6 @@
       "image": "https://www.franceinfo.fr/pictures/l25ABnjTvIzXhj9HXKxCZeTRVwg/0x25:2047x1175/432x243/filters:format(jpg):quality(50)/2018/10/10/php7tDKWD.jpg",
       "date": "2026-08-20T12:01:48+00:00",
       "date_formatted": "20 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une vingtaine de cas autochtones de chikungunya identifiés dans l'Hexagone",
-      "desc": "La présence régulière de cas de chikungunya, transmis par le moustique-tigre, témoigne de l'implantation persistante de cette maladie depuis plusieurs années sur le territoire.",
-      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/une-vingtaine-de-cas-autochtones-de-chikungunya-identifies-dans-l-hexagone_8154161.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/uLlnFQdDgxwmXMxhkqxWGuYRyxs/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8626f74443e422534422.jpg",
-      "date": "2026-08-19T23:58:53+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une étude pointe des problèmes éthiques \"généralisés\" dans des publications scientifiques de l'IHU de Marseille",
-      "desc": "Des scientifiques ont passé au crible près de 2 700 publications scientifiques émanant de l'institut hospitalo-universitaire en maladies infectieuses de Marseille, anciennement dirigé par Didier Raoult. Ils ont mis au jour \"des problèmes d'ordre éthique ou juridique\" dans 853 d'entre elles.",
-      "url": "https://www.franceinfo.fr/sante/des-problemes-ethiques-generalises-ont-ete-identifies-dans-des-etudes-scientifiques-de-l-ihu-de-marseille_8153318.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Qn01V16f33Hi5YVCct41bnqDqjA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8567c5914c3340040367.jpg",
-      "date": "2026-08-19T18:07:39+00:00",
-      "date_formatted": "19 August 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
@@ -403,16 +453,6 @@
       "type": "science"
     },
     {
-      "title": "Longtemps considéré comme inutile, cet organe retiré en chirurgie divise aujourd'hui les scientifiques",
-      "desc": "Une petite glande logée derrière le sternum, longtemps jugée inutile passé l'adolescence, et retirée sans état d'âme au cours de certaines opérations du cœur. Une étude américaine associe pourtant son ablation à un risque de décès et de cancer doublé en cinq ans. Des travaux plus récents ne...",
-      "url": "https://www.futura-sciences.com/sante/actualites/organe-longtemps-considere-comme-inutile-cet-organe-retire-chirurgie-divise-aujourdhui-scientifiques-k2m6-136896/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/2/a/92af365b21_50259237_ablation-organe-thymus.jpg",
-      "date": "2026-08-15T10:00:00+00:00",
-      "date_formatted": "15 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Le Conseil constitutionnel valide la loi sur la fin de vie, les établissements catholiques obtiennent leur « clause de conscience »",
       "desc": "Dans une décision rendue vendredi 14 août, l’institution assure « la liberté personnelle » d’un malade d’accéder à l’administration d’une substance létale à sa demande et après accord d’un médecin. En revanche, la décision exempte les établissements privés et associatifs de l’obligation de permettre",
       "url": "https://www.lemonde.fr/societe/article/2026/08/14/le-conseil-constitutionnel-valide-la-loi-sur-la-fin-de-vie-les-etablissements-catholiques-obtiennent-leur-clause-de-conscience_6746261_3224.html",
@@ -449,16 +489,6 @@
       "image": "https://img.lemde.fr/2026/08/12/688/0/8256/4128/644/322/60/0/aadd6ce_ftp-1-3hpct7nvdq2s-9d9d9801489b4d87907a7f539f83fdf6-3-f93bdce5db7b4cd5befbc571ae85a75f.jpg",
       "date": "2026-08-14T10:30:06+00:00",
       "date_formatted": "14 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola en RDC : l’épidémie s’étend à une sixième province et menace le Soudan du Sud",
-      "desc": "Une personne est morte de la maladie dans la province du Bas-Uele (nord), frontalière de la République centrafricaine et jusqu’à présent épargnée.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/13/ebola-en-rdc-l-epidemie-s-etend-a-une-sixieme-province-et-menace-le-soudan-du-sud_6745827_3212.html",
-      "image": "https://img.lemde.fr/2026/08/12/500/0/6000/3000/644/322/60/0/58c46b7_ftp-1-bokkmh97awqe-6d28df5c19144e9f83c230f1886ae3dc-2-f9cb19d83ddf48c1b0ddf3393f0f6a8e.jpg",
-      "date": "2026-08-13T18:50:40+00:00",
-      "date_formatted": "13 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
