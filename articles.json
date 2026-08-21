@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-21T00:33:39.116218+00:00",
-  "count": 67,
+  "generated_at": "2026-08-21T06:23:37.581369+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title": "Et si la maladie d'Alzheimer était aussi liée à une bactérie présente dans notre bouche ?",
+      "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-maladie-alzheimer-etait-aussi-liee-bacterie-presente-notre-bouche-w2t8-136994/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/b/4/6b4826a976_50259408_bacterie-bouche-alzheimer.jpg",
+      "date": "2026-08-21T08:00:00+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Comment profiter des grillades tout en limitant les risques cancérigènes ?",
+      "desc": "La cuisson au barbecue peut favoriser la présence de composés cancérigènes dans la viande. Des chercheurs de l'université du Kansas ont toutefois identifié plusieurs moyens pour en limiter la formation, notamment grâce aux herbes de Provence.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/comment-profiter-des-grillades-tout-en-limitant-les-risques-cancerigenes_8129867.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/b6UQGnfJ_psIsUqmWZXMi95uHAA/0x207:2132x1407/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86f78aec2bd751066965.jpg",
+      "date": "2026-08-21T07:33:33+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les patients saluent la première reconnaissance officielle du syndrome de fatigue chronique par l'Assurance-maladie",
+      "desc": "L'Assurance maladie ne relie donc plus l'encéphalomyélite myalgique à un trouble psychiatrique ou psychologique, rapporte vendredi France Inter. Une reconnaissance \"institutionnelle\" qualifiée \"d'étape importante\" par une association de patients.",
+      "url": "https://www.franceinfo.fr/sante/les-patients-saluent-la-premiere-reconnaissance-officielle-du-syndrome-de-fatigue-chronique-par-l-assurance-maladie_8155820.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/UGnLjybeKroCMobZvYe0nYBkvy0/0x270:5184x3186/432x243/filters:format(jpg):quality(50)/2026/08/21/6a87e15021896423891949.jpg",
+      "date": "2026-08-21T07:27:54+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Nino-Anne Dupieux, « patiente brancard » aux urgences d’Orléans pendant six jours : « C’est grâce aux soignants que j’ai tenu »",
+      "desc": "Du 18 au 23 juillet, cette femme âgée de 85 ans est restée six jours et cinq nuits sur un brancard, faute d’un lit disponible dans le service correspondant à sa pathologie. Des « investigations sont en cours », assure le centre hospitalier.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/21/nino-anne-dupieux-patiente-brancard-aux-urgences-d-orleans-pendant-six-jours-c-est-grace-aux-soignants-que-j-ai-tenu_6751531_3224.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/33590f8_upload-1-w8z2nvdwrzwv-frame-245.jpg",
+      "date": "2026-08-21T05:30:08+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quiz : connaissez-vous vraiment «la Cité de la peur» par cœur ?",
+      "desc": "(29/30) Quelle était la première voiture d’Odile Deray ? Que n’est PAS «la Carioca» ? Comment est mort le père du commissaire Bialès ?",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-connaissez-vous-vraiment-la-cite-de-la-peur-par-coeur-20260821_3VLOR75SYBDNRDUMQYBVWV7YLE/",
+      "image": null,
+      "date": "2026-08-21T04:00:00+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"Ça isole énormément, je suis tout le temps éteinte\" : l’hypersomnie, ou quand dormir devient une maladie",
       "desc": "Les personnes atteintes d’hypersomnie peuvent dormir des heures, parfois même des jours. Une maladie rare, qui bouleverse la vie. Rencontre avec Léna, qui a découvert ce trouble tardivement.",
@@ -51,16 +101,6 @@
       "date_formatted": "20 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mort de l’influenceuse Sonia Bellina : l’un des deux hommes en garde à vue a été libéré",
-      "desc": "Selon un communiqué du procureur de la République de Nîmes, le suspect a été libéré faute d’éléments permettant d’établir sa participation au déroulement des faits. Un autre homme est toujours en garde à vue.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-de-linfluenceuse-sonia-bellina-lun-des-deux-hommes-en-garde-a-vue-a-ete-libere-20260820_JKV5CC5JBJEGJBZQAHZWX6JLOM/",
-      "image": null,
-      "date": "2026-08-20T17:30:35+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Face à l'épidémie d'Ebola, l'Organisation mondiale de la santé fournit 70 000 doses de vaccin Ervebo à la RDC",
@@ -133,26 +173,6 @@
       "type": "presse"
     },
     {
-      "title": "Le médicament Tavneos, destiné à traiter des maladies auto-immunes rares, retiré du marché car jugé trop dangereux",
-      "desc": "Ce médicament, qui vise à traiter des maladies inflammatoires rares des vaisseaux sanguins, est prescrit à 600 patients en France.",
-      "url": "https://www.franceinfo.fr/sante/le-medicament-tavneos-retire-du-marche-car-juge-trop-dangereux_8153687.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zZb1IdG6ifWdG6TQy69pzCxlF4c/0x46:1024x622/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85b41d89da7970879390.jpg",
-      "date": "2026-08-19T15:58:38+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les laboratoires Moderna et Merck annoncent des résultats encourageants pour un vaccin thérapeutique contre le cancer de la peau",
-      "desc": "Leur thérapie, combinée à l'immunothérapie Keytruda, a amélioré de manière \"statistiquement significative\" la survie sans récidive chez des patients ayant un mélanome de stade avancé, et préalablement opérés.",
-      "url": "https://www.franceinfo.fr/sante/cancer/les-laboratoires-moderna-et-merck-annoncent-des-resultats-encourageants-pour-un-vaccin-therapeutique-contre-le-cancer-de-la-peau_8153651.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/MRCZzXXih8DXvCMBjpyMk_pkA6Q/0x0:4664x2623/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85aec6b6af6103481577.jpg",
-      "date": "2026-08-19T15:44:15+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Le médicament Tavneos, destiné à traiter certaines maladies auto-immunes rares, retiré du marché en France après plusieurs morts à l’étranger",
       "desc": "Au printemps, le groupe Kissei, qui commercialise Tavneos au Japon, a fait état d’une vingtaine de morts parmi les patients traités depuis l’introduction du médicament sur le marché japonais en 2022. En France, selon l’ANSM, il est prescrit à 600 patients.",
       "url": "https://www.lemonde.fr/sante/article/2026/08/19/le-medicament-tavneos-retire-du-marche-francais-apres-le-signalement-de-plusieurs-morts-a-l-etranger_6749876_1651302.html",
@@ -180,16 +200,6 @@
       "date": "2026-08-19T15:38:16+00:00",
       "date_formatted": "19 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Diabète : des scientifiques chinois développent une \"bonne bactérie\" pour remplacer les injections d'insuline",
-      "desc": "Des chercheurs chinois ont mis au point une bactérie génétiquement modifiée capable de détecter les variations de la glycémie et de produire automatiquement des hormones pour la réguler.",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/diabete-des-scientifiques-chinois-developpent-une-bonne-bacterie-pour-remplacer-les-injections-d-insuline_8127545.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/n0Ey0KF_JDI14Y6EJImGOkveEKQ/0x110:2121x1304/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8587d7ad4cb932608002.jpg",
-      "date": "2026-08-19T15:30:02+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -449,26 +459,6 @@
       "image": "https://img.lemde.fr/2026/08/12/500/0/6000/3000/644/322/60/0/58c46b7_ftp-1-bokkmh97awqe-6d28df5c19144e9f83c230f1886ae3dc-2-f9cb19d83ddf48c1b0ddf3393f0f6a8e.jpg",
       "date": "2026-08-13T18:50:40+00:00",
       "date_formatted": "13 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicule et mortalité : logements, inégalités sociales et hôpitaux en tension, ces enjeux essentiels mis de côté",
-      "desc": "Le gouvernement axe sa communication sur des mesures comportementales individuelles, de prévention ou de vigilance, mais ne met pas l’accent sur un certain nombre de questions centrales, si l’on veut lutter contre les effets sanitaires les plus graves.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/12/canicule-et-mortalite-logements-inegalites-sociales-et-hopitaux-en-tension-ces-enjeux-essentiels-mis-de-cote_6745069_3224.html",
-      "image": "https://img.lemde.fr/2026/07/21/562/0/6735/3367/644/322/60/0/cb0bc97_ftp-1-fe02plla6aom-2026-07-21t060726z-1185403991-rc28emaeum4d-rtrmadp-3-europe-weather-france-deaths.JPG",
-      "date": "2026-08-12T16:00:03+00:00",
-      "date_formatted": "12 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : la croisade des établissements de santé catholiques pour introduire une clause de conscience collective",
-      "desc": "Le Conseil constitutionnel doit se prononcer d’ici à dimanche 16 août sur cinq saisines d’opposants à la proposition de loi adoptée à l’Assemblée mi-juillet. Ils soutiennent la demande des établissements médico-sociaux catholiques d’obtenir le droit de ne pas pratiquer l’aide à mourir.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/12/fin-de-vie-la-croisade-des-etablissements-de-sante-catholiques-pour-introduire-une-clause-de-conscience-collective_6745063_3224.html",
-      "image": "https://img.lemde.fr/2026/08/11/869/0/2000/1000/644/322/60/0/6e119ac_upload-1-cdtjvptm15ti-aquindo-clausedeconscience.jpg",
-      "date": "2026-08-12T15:02:31+00:00",
-      "date_formatted": "12 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
