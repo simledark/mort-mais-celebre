@@ -1,13 +1,93 @@
 {
-  "generated_at": "2026-08-21T12:21:06.579911+00:00",
-  "count": 69,
+  "generated_at": "2026-08-21T18:19:20.148801+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title": "Le virus du Nil occidental transmis par des moustiques détecté dans 12 pays européens",
+      "desc": "Principalement transmis par des moustiques, ce virus peut provoquer des atteintes neurologiques chez l'être humain.",
+      "url": "https://www.franceinfo.fr/sante/le-virus-du-nil-occidental-transmis-par-des-moustiques-detecte-dans-12-pays-europeens_8156669.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Dhz2KIb0y258h1c6clUHvsF6sfc/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8890ba72f02453702194.jpg",
+      "date": "2026-08-21T19:57:13+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quand dormir devient une maladie",
+      "desc": "L’hypersomnie, une maladie rare, qui bouleverse la vie, comme celle de Léna qui a découvert ce trouble sur le tard, après des tests car ses parents étaient inquiets.",
+      "url": "https://www.franceinfo.fr/sante/maladie/sommeil/quand-dormir-devient-une-maladie_8156414.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/4nSAebtMMf_taSHG9Ybk2T4y5W0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/21/6a885cf0c0077884758638.jpg",
+      "date": "2026-08-21T19:00:01+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre en Ukraine : une attaque russe sur un centre commercial en plein jour fait au moins 18 morts et plus de 120 blessés",
+      "desc": "Le bilan des frappes de drones russes lancés ce vendredi contre Kryvyï Rig, la ville natale de Volodymyr Zelensky, au centre du pays, risque d’évoluer. Le président ukrainien a dénoncé une attaque «cynique et ignoble».",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-attaque-russe-sur-un-centre-commercial-en-plein-jour-fait-au-moins-18-morts-et-120-blesses-20260821_UDZX4F6HFBFDTBJ5NC4EAFDN7U/",
+      "image": null,
+      "date": "2026-08-21T17:43:10+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. \"Si un seul cas arrive à Kinshasa, ce sera catastrophique\" : en RDC, des équipes médicales inspectent des bateaux pour tenter de freiner l'épidémie d'Ebola",
+      "desc": "Des équipes de dépistage contrôlent la température et tout symptôme inquiétant chez les passagers de bateaux surchargés et insalubres. Elles font tout pour éviter que le virus arrive dans la capitale de plus de 17 millions d'habitants.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-si-un-seul-cas-arrive-a-kinshasa-ce-sera-catastrophique-en-rdc-des-equipes-medicales-inspectent-des-bateaux-pour-tenter-de-freiner-l-epidemie-d-ebola_8156399.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/HSpx4t41xEMnBAgqNBV3EjRTT80/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8864db1e041950238345.jpg",
+      "date": "2026-08-21T17:19:55+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La Birmanie enregistre une épidémie de choléra sur fond de baisse de la couverture vaccinale des enfants",
+      "desc": "Flambée de contaminations bactériennes à Rangoun favorisée par des inondations massives, réémergence de maladies par manque de vaccination… le pays, en défaillance médicale, continue de payer un lourd tribut à la guerre civile en matière de santé.",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/21/la-birmanie-enregistre-une-epidemie-de-cholera-sur-fond-de-baisse-de-la-couverture-vaccinale-des-enfants_6752263_3244.html",
+      "image": "https://img.lemde.fr/2026/08/14/89/0/2853/1426/644/322/60/0/bf8ac8f_ftp-1-9cgnvxhtjx5t-c341fb072a7346eb9e306ded6e3f7b53-0-6fc281652e9c4d4f9eccb5467a590434.jpg",
+      "date": "2026-08-21T17:00:08+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ils ambiancent l'hôpital",
+      "desc": "Ces bénévoles mettent l'ambiance à l'hôpital trois fois par semaine pour aider des ados atteints d'un cancer à oublier la maladie le temps d'un moment. L'association s'appelle Aïda, et les 2 000 bénévoles ont en moyenne 19 ans. On les a suivis.",
+      "url": "https://www.franceinfo.fr/sante/hopital/ils-ambiancent-l-hopital_8156285.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/rinxXLqh41cJL49YOkEcK7hfr_0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/21/6a8848c9b8947070688577.jpg",
+      "date": "2026-08-21T17:00:02+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Sonia Bellina : un suspect mis en examen et placé en détention provisoire pour assassinat",
+      "desc": "L’homme de 32 ans avait déjà fait l’objet de plusieurs condamnations, dont une pour violences conjugales en 2023. Il a reconnu avoir eu des relations tarifées avec l’influenceuse la veille et la nuit des faits, annonce le parquet de Nîmes.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-de-sonia-bellina-un-suspect-mis-en-examen-et-place-en-detention-provisoire-pour-assassinat-20260821_SOGDKC7IFFBDNG26SSFBV56GTA/",
+      "image": null,
+      "date": "2026-08-21T16:21:28+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’assurance maladie reconnaît officiellement le «syndrome de fatigue chronique», et ne le qualifie plus de trouble psychiatrique",
+      "desc": "L’encéphalomyélite myalgique se traduit par un épuisement quotidien et très invalidant. Les associations saluent ce changement effectué au début du mois d’août, une première étape pour mieux prendre en charge les malades, plusieurs centaines de milliers en France selon les estimations.",
+      "url": "https://www.liberation.fr/societe/sante/lassurance-maladie-reconnait-officiellement-le-syndrome-de-fatigue-chronique-et-ne-le-qualifie-plus-de-trouble-psychiatrique-20260821_QIGDXKD4LJEATBFBF4MXMTDSPE/",
+      "image": null,
+      "date": "2026-08-21T15:33:07+00:00",
+      "date_formatted": "21 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU",
       "desc": "Face à une épidémie sans précédent, la riposte contre Ebola en RDC est freinée par le manque de moyens et la défiance de la population, alors que des essais de vaccin sont en cours.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/21/ebola-en-rdc-l-epidemie-progresse-de-facon-exponentielle-et-depasse-2-500-morts-alerte-l-onu_6752079_3212.html",
       "image": "https://img.lemde.fr/2026/08/18/405/0/6000/3000/644/322/60/0/aa032b6_ftp-1-lqphkfmzvkv9-f46a4913ab68446eb47e968601f299fe-0-32f63b0e81134a9aafcbe0889b442451.jpg",
-      "date": "2026-08-21T13:16:09+00:00",
+      "date": "2026-08-21T13:16:07+00:00",
       "date_formatted": "21 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -23,16 +103,6 @@
       "type": "presse"
     },
     {
-      "title": "Emojis «👍» ou «🙏» : ce que les smileys que vous envoyez par messages disent de votre âge",
-      "desc": "Vous répondez honnêtement par un pouce en l’air à vos SMS ? Alors, vous êtes clairement dépassés. Les émoticones utilisés sont généralement un bon indicateur de votre âge, selon des données Google et Reddit récoltées par le «New York Times».",
-      "url": "https://www.liberation.fr/lifestyle/hightech/emojis-ou-ce-que-les-smileys-que-vous-envoyez-par-messages-disent-de-votre-age-20260821_35QEWMPYIFCUFMTSOZMYSWIQDI/",
-      "image": null,
-      "date": "2026-08-21T11:45:00+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Le Covid-19 pourrait réveiller des virus cachés dans votre corps, même si vous êtes en bonne santé !",
       "desc": "Le Covid-19 pourrait-il réveiller des virus endormis dans notre organisme, comme l’Epstein-Barr ou les herpèsvirus ? Une étude de l'université du Texas révèle que l’infection pourrait réactiver des virus dormants et cela, même chez des personnes en bonne santé. Ce phénomène pourrait expliquer...",
       "url": "https://www.futura-sciences.com/sante/actualites/covid-19-covid-19-pourrait-reveiller-virus-caches-votre-corps-meme-si-vous-etes-bonne-sante-137181/#xtor%3DRSS-8",
@@ -41,36 +111,6 @@
       "date_formatted": "21 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Israël : Ben-Gvir se filme devant le chantier d’une potence et multiplie les provocations à l’approche des élections",
-      "desc": "Le ministre d’extrême droite de la Sécurité nationale ne cesse de s’enorgueillir de «sa» loi introduisant la peine de mort pour les Palestiniens déclarés coupables d’attentats meurtriers.",
-      "url": "https://www.liberation.fr/international/moyen-orient/israel-ben-gvir-se-filme-devant-le-chantier-dune-potence-et-multiplie-les-provocations-a-lapproche-des-elections-20260821_43LVGZ7WPZEJXHVO24MPR6RT2Q/",
-      "image": null,
-      "date": "2026-08-21T10:49:34+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Dans les rues d’un Paris perdu, avec Eugène Atget",
-      "desc": "La série «Une vie dans les marges», qui documente la vie des chiffonniers et vanniers du début du XXe siècle, est exposée dans le cadre de la Quinzaine photographique nantaise, du 25 septembre au 1er novembre.",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/dans-les-rues-dun-paris-perdu-avec-eugene-atget-20260821_LGTNYN4DCVHTVC6D2ZHAV3HUSA/",
-      "image": null,
-      "date": "2026-08-21T10:00:00+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer de la peau : un vaccin à ARN messager testé par Moderna et Merck pourrait diminuer de manière «significative» la récidive",
-      "desc": "Le 19 août, les laboratoires américains ont fait part de résultats encourageants à la suite d’un essai clinique mené sur plus de 1 000 patients. Deux chercheurs français, qui n’ont pas participé à ces travaux, saluent une «bonne nouvelle» en attendant de voir les données complètes de l’étude.",
-      "url": "https://www.liberation.fr/societe/sante/cancer-de-la-peau-un-vaccin-a-arn-messager-teste-par-moderna-et-merck-pourrait-diminuer-de-maniere-significative-le-risque-de-recidive-20260820_HRJIPCKWJVAZPDCNZIE54FOMKI/",
-      "image": null,
-      "date": "2026-08-21T08:39:48+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Et si la maladie d'Alzheimer était aussi liée à une bactérie présente dans notre bouche ?",
@@ -123,36 +163,6 @@
       "type": "presse"
     },
     {
-      "title": "Première mondiale : l'espoir d'un vaccin contre le cancer",
-      "desc": "C’est une avancée majeure : un vaccin pour lutter contre les cancers de la peau est en cours de tests cliniques. Objectif : limiter les risques de récidive du mélanome. Le 20h a rencontré en exclusivité l'un des rares patients français à avoir bénéficié des essais et ils sont très encourageants.",
-      "url": "https://www.franceinfo.fr/sante/vaccins/premiere-mondiale-l-espoir-d-un-vaccin-contre-le-cancer_8155433.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/FwxWmSV4_2xluMW4ikgLWNul_Dg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/20/6a87512a994e4766507336.jpg",
-      "date": "2026-08-20T21:11:30+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"[La récidive], je n'y pense pas du tout\" : l'espoir d'un vaccin contre le cancer, une première mondiale",
-      "desc": "C’est une avancée majeure : un vaccin pour lutter contre les récidives du cancer de la peau. Le 20 Heures a rencontré en exclusivité l’un des rares patients français à avoir bénéficié des essais, qui sont très encourageants.",
-      "url": "https://www.franceinfo.fr/sante/cancer/la-recidive-je-n-y-pense-pas-du-tout-l-espoir-d-un-vaccin-contre-le-cancer-une-premiere-mondiale_8155388.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/-2Z-Bl0aXnm5SYcs6bfZrCrvvGE/0x96:1144x740/432x243/filters:format(jpg):quality(50)/2026/08/20/6a874420e32de263943452.png",
-      "date": "2026-08-20T20:15:09+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer de la peau : bientôt un vaccin ?",
-      "desc": "Les laboratoires américains Merck et Moderna ont annoncé des résultats positifs lors de la dernière phase d'essais cliniques de leur vaccin expérimental à ARN messager contre le cancer de la peau.",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-peau-bientot-un-vaccin_8155181.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/YXaRHDgJHi5dmL3u1zdT_9_fR6U/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/20/6a871af5bfff4914699761.jpg",
-      "date": "2026-08-20T20:00:01+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Moderna saluée par Wall Street pour l’efficacité promise d’un traitement utilisant l’ARN messager contre le cancer de la peau",
       "desc": "La biotech et le laboratoire Merck ont annoncé, mercredi 19 août, avoir obtenu des résultats probants dans la lutte contre le mélanome, lors de la dernière phase d’un essai clinique. En réaction, l’action Moderna a quasi triplé en une séance boursière.",
       "url": "https://www.lemonde.fr/economie/article/2026/08/20/moderna-saluee-par-wall-street-pour-l-efficacite-promise-d-un-traitement-utilisant-l-arn-messager-contre-le-cancer-de-la-peau_6751196_3234.html",
@@ -173,16 +183,6 @@
       "type": "science"
     },
     {
-      "title": "Face à l'épidémie d'Ebola, l'Organisation mondiale de la santé fournit 70 000 doses de vaccin Ervebo à la RDC",
-      "desc": "L'épidémie a déjà fait près de 2 500 morts en République démocratique du Congo, selon l'OMS. Elle continue de se propager à une vitesse sans précédent.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/face-a-l-epidemie-d-ebola-l-organisation-mondiale-de-la-sante-fournit-70-000-doses-de-vaccin-ervebo-a-la-rdc_8155055.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mYBYkkxPDyVEX3ntEq7xpCG-rPU/0x105:1024x681/432x243/filters:format(jpg):quality(50)/2026/08/20/6a8710657f8aa252725280.jpg",
-      "date": "2026-08-20T16:34:38+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Triple infanticide dans le Massachusetts : Qu’est-ce que la psychose post-partum, invoquée par l’accusée ?",
       "desc": "Les avocats de Lindsay Clancy, ancienne infirmière ayant tué ses trois jeunes enfants en 2023 avant de tenter de se suicider, expliquent son geste par un trouble psychiatrique peu connu : la psychose post-partum",
       "url": "https://www.20minutes.fr/sante/4239904-20260820-triple-infanticide-massachusetts-psychose-post-partum-invoquee-accusee?at_medium=display&at_campaign=149",
@@ -200,16 +200,6 @@
       "date": "2026-08-20T14:44:36+00:00",
       "date_formatted": "20 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le vaccin contre le cancer de la peau représente \"un réel espoir,\" souligne l’oncologue Suzette Delaloge",
-      "desc": "Les laboratoires Moderna et Merck ont annoncé les premiers résultats d'un vaccin destiné à lutter contre les rechutes du cancer de la peau. S'il faut encore attendre les données consolidées, l’oncologue Suzette Delaloge détaille le fonctionnement de médicament très innovant.",
-      "url": "https://www.franceinfo.fr/sante/cancer/le-vaccin-contre-le-cancer-de-la-peau-represente-un-reel-espoir-souligne-l-oncologue-suzette-delaloge_8154662.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/l25ABnjTvIzXhj9HXKxCZeTRVwg/0x25:2047x1175/432x243/filters:format(jpg):quality(50)/2018/10/10/php7tDKWD.jpg",
-      "date": "2026-08-20T12:01:48+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -468,26 +458,6 @@
       "url": "https://www.lemonde.fr/societe/article/2026/08/14/fin-de-vie-le-conseil-constitutionnel-valide-la-loi-creant-un-droit-a-l-aide-a-mourir-en-emettant-trois-reserves_6746258_3224.html",
       "image": "https://img.lemde.fr/2026/08/14/0/0/5102/2551/644/322/60/0/724e03a_upload-1-lsugnbgpgy3z-000-48cf4zq.jpg",
       "date": "2026-08-14T15:22:44+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : Le Conseil constitutionnel valide la loi sur l’aide à mourir, avec quelques réserves",
-      "desc": "Les Sages ont validé vendredi l’ensemble de la loi créant un droit à l’aide à mourir. Ils encadrent toutefois la possibilité pour certains établissements privés de refuser de pratiquer l’acte",
-      "url": "https://www.20minutes.fr/societe/4239244-20260814-fin-vie-conseil-constitutionnel-valide-loi-aide-mourir-quelques-reserves?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/q7XfFnJrQliL3i_Vyiu7yCk/1200x768_les-soins-aux-personnes-agees-couvrent-divers-services-et-soutiens-destines-aux-personnes-agees-notamment-les-maisons-de-retraite-les-soins-de-fin-de-vie-et-l-assistance-medicale-il-implique-des-professionnels-de-sante-tels-que-des-medecins-des-infirmieres-et-des-soignants-pour-traiter-des-maladies-telles-que-la-maladie-d-alzheimer-et-la-maladie-de-parkinson-le-soutien-comprend-egalement-la-readaptation-les-aides-a-la-mobilite-et-les-therapies-visant-a-ameliorer-le-bien-etre-et-la-qualite-de-vie-biau-christine-sipa2984-credit-christine-biau-sipa-2502261510",
-      "date": "2026-08-14T13:08:25+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Pour lutter contre Ebola, la réponse internationale prise de vitesse",
-      "desc": "Depuis l’épidémie ouest-africaine de 2014-2016 et celle de Covid-19 en 2020, la « préparation aux pandémies » est devenue un mot d’ordre international. Cela n’a pas empêché de nouvelles failles d’apparaître à l’occasion de cette nouvelle crise. L’argent, même lorsqu’il est disponible, arrive souvent",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/14/pour-lutter-contre-ebola-la-reponse-internationale-prise-de-vitesse_6746231_3232.html",
-      "image": "https://img.lemde.fr/2026/08/12/688/0/8256/4128/644/322/60/0/aadd6ce_ftp-1-3hpct7nvdq2s-9d9d9801489b4d87907a7f539f83fdf6-3-f93bdce5db7b4cd5befbc571ae85a75f.jpg",
-      "date": "2026-08-14T10:30:06+00:00",
       "date_formatted": "14 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
