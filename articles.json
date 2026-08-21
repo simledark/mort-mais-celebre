@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-20T18:20:00.059182+00:00",
-  "count": 70,
+  "generated_at": "2026-08-21T00:33:39.116218+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title": "\"Ça isole énormément, je suis tout le temps éteinte\" : l’hypersomnie, ou quand dormir devient une maladie",
+      "desc": "Les personnes atteintes d’hypersomnie peuvent dormir des heures, parfois même des jours. Une maladie rare, qui bouleverse la vie. Rencontre avec Léna, qui a découvert ce trouble tardivement.",
+      "url": "https://www.franceinfo.fr/sante/ca-isole-enormement-je-suis-tout-le-temps-eteinte-l-hypersomnie-ou-quand-dormir-devient-une-maladie_8155436.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/cBtIVwGLO_F_xWOorOc2phRIzcI/0x150:1562x1029/432x243/filters:format(jpg):quality(50)/2026/08/20/6a875348c7d5b971682272.png",
+      "date": "2026-08-20T22:25:28+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Première mondiale : l'espoir d'un vaccin contre le cancer",
+      "desc": "C’est une avancée majeure : un vaccin pour lutter contre les cancers de la peau est en cours de tests cliniques. Objectif : limiter les risques de récidive du mélanome. Le 20h a rencontré en exclusivité l'un des rares patients français à avoir bénéficié des essais et ils sont très encourageants.",
+      "url": "https://www.franceinfo.fr/sante/vaccins/premiere-mondiale-l-espoir-d-un-vaccin-contre-le-cancer_8155433.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/FwxWmSV4_2xluMW4ikgLWNul_Dg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/20/6a87512a994e4766507336.jpg",
+      "date": "2026-08-20T21:11:30+00:00",
+      "date_formatted": "20 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "\"[La récidive], je n'y pense pas du tout\" : l'espoir d'un vaccin contre le cancer, une première mondiale",
       "desc": "C’est une avancée majeure : un vaccin pour lutter contre les récidives du cancer de la peau. Le 20 Heures a rencontré en exclusivité l’un des rares patients français à avoir bénéficié des essais, qui sont très encourageants.",
@@ -53,16 +73,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort de l’enseignant de Cambridge Jason Arday : l’université de Gand suspend le chercheur qui l’a accusé de plagiat",
-      "desc": "Licencié de Cambridge en 2024 pour racisme, Nathan Cofnas avait été nommé en Belgique en mai dernier.",
-      "url": "https://www.liberation.fr/international/europe/mort-de-lenseignant-de-cambridge-jason-arday-luniversite-de-gand-suspend-le-chercheur-qui-la-accuse-de-plagiat-20260820_BJLBAF5MSFBSHMVLHL4QMNQ4MY/",
-      "image": null,
-      "date": "2026-08-20T16:31:53+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Triple infanticide dans le Massachusetts : Qu’est-ce que la psychose post-partum, invoquée par l’accusée ?",
       "desc": "Les avocats de Lindsay Clancy, ancienne infirmière ayant tué ses trois jeunes enfants en 2023 avant de tenter de se suicider, expliquent son geste par un trouble psychiatrique peu connu : la psychose post-partum",
       "url": "https://www.20minutes.fr/sante/4239904-20260820-triple-infanticide-massachusetts-psychose-post-partum-invoquee-accusee?at_medium=display&at_campaign=149",
@@ -70,16 +80,6 @@
       "date": "2026-08-20T16:23:56+00:00",
       "date_formatted": "20 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Aveyron : ouverture d’une enquête après la mort d’une adolescente lors d’une promenade à cheval",
-      "desc": "Le centre équestre de Najac, à l’origine de la balade au cours de laquelle l’accident tragique a eu lieu le 7 août, a été fermé de façon temporaire pour une durée «illimitée». La préfecture pointe du doigt la «non-conformité» de certains équipements.",
-      "url": "https://www.liberation.fr/sports/aveyron-ouverture-dune-enquete-apres-la-mort-dune-adolescente-lors-dune-promenade-a-cheval-20260820_VBKIW4CCNVBE3P6F5QEZXYOIQU/",
-      "image": null,
-      "date": "2026-08-20T16:18:31+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -118,16 +118,6 @@
       "url": "https://www.franceinfo.fr/sante/des-problemes-ethiques-generalises-ont-ete-identifies-dans-des-etudes-scientifiques-de-l-ihu-de-marseille_8153318.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/Qn01V16f33Hi5YVCct41bnqDqjA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8567c5914c3340040367.jpg",
       "date": "2026-08-19T18:07:39+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Avec trois morts et 46 cas depuis juin, la légionellose inquiète les habitants en Savoie",
-      "desc": "Alerte sanitaire en Savoie : le département est touché par une recrudescence des cas de légionellose. Au total, 46 personnes ont été infectées en deux mois, et trois sont désormais décédées. En cause, la contamination du réseau d'eau privé.",
-      "url": "https://www.franceinfo.fr/sante/maladie/trois-morts-et-46-cas-depuis-juin-la-legionellose-inquiete-les-habitants-en-savoie_8153624.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/KBx8-UDB4gAmlGU_d9YYSgndtGQ/132x0:1284x648/432x243/filters:format(jpg):quality(50)/2026/08/19/6a859efabbac0398687415.jpg",
-      "date": "2026-08-19T17:32:57+00:00",
       "date_formatted": "19 August 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -193,16 +183,6 @@
       "type": "presse"
     },
     {
-      "title": "Pendant la canicule du début du mois de juillet, \"1 243 décès en excès\" ont été recensés, annonce Santé publique France",
-      "desc": "Cette augmentation de la mortalité ne peut toutefois pas encore être imputé avec certitude à la chaleur. Les autorités sanitaires le sauront à la fin de l'été, une fois que toutes les données auront été analysées.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pendant-la-canicule-du-debut-du-mois-de-juillet-1-243-deces-en-exces-ont-ete-recenses-annonce-sante-publique-france_8153282.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/6TT7j2KQTZ7vd56B6oDqulSMJM0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/19/6a85642d0fdb8749446754.jpg",
-      "date": "2026-08-19T15:34:56+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Diabète : des scientifiques chinois développent une \"bonne bactérie\" pour remplacer les injections d'insuline",
       "desc": "Des chercheurs chinois ont mis au point une bactérie génétiquement modifiée capable de détecter les variations de la glycémie et de produire automatiquement des hormones pour la réguler.",
       "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/diabete-des-scientifiques-chinois-developpent-une-bonne-bacterie-pour-remplacer-les-injections-d-insuline_8127545.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -240,16 +220,6 @@
       "date": "2026-08-19T13:47:13+00:00",
       "date_formatted": "19 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Procès de Meta : des parents endeuillés estiment que les réseaux sociaux ont poussé leurs enfants au suicide",
-      "desc": "Mise en cause par de nombreux États américains, l'entreprise Meta est dans l'œil du cyclone. Alors que son procès s'ouvre en Californie, certains estiment que le groupe de Mark Zuckerberg a volontairement rendu accro toute une génération.",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/proces-de-meta-des-parents-endeuilles-estiment-que-les-reseaux-sociaux-ont-pousse-leurs-enfants-au-suicide_8153273.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/itA-hub-IcLuEyhLSSjOV64_LJc/61x0:1473x794/432x243/filters:format(jpg):quality(50)/2026/08/19/6a8562d1d1711615944947.jpg",
-      "date": "2026-08-19T10:02:52+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
