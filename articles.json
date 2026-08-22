@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-08-22T12:14:15.859625+00:00",
-  "count": 67,
+  "generated_at": "2026-08-22T18:11:56.212954+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title": "Guerre en Ukraine : une attaque russe sur un centre commercial en plein jour fait au moins 16 morts et 130 blessés",
+      "desc": "Le bilan des frappes de drones lancés vendredi contre Kryvyï Rig, la ville natale de Volodymyr Zelensky, au centre du pays, risque d’évoluer. Le président ukrainien a dénoncé une attaque «cynique et ignoble».",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-attaque-russe-sur-un-centre-commercial-en-plein-jour-fait-au-moins-18-morts-et-120-blesses-20260821_UDZX4F6HFBFDTBJ5NC4EAFDN7U/",
+      "image": null,
+      "date": "2026-08-22T13:31:20+00:00",
+      "date_formatted": "22 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "S’envoyer en l’air dans l’espace est-il l’ultime tabou ?",
+      "desc": "Des milliards sont investis dans les fusées, mais la sexualité des astronautes reste peu abordée. Simon Dubé, sexologue, et Camille Pelletier, autrice de science-fiction, dénoncent un «angle mort» de la conquête spatiale.",
+      "url": "https://www.liberation.fr/lifestyle/intimites/senvoyer-en-lair-dans-lespace-est-il-lultime-tabou-20260822_LTR5FPCZMBAQ7CUA6FDCEOMTHA/",
+      "image": null,
+      "date": "2026-08-22T13:27:00+00:00",
+      "date_formatted": "22 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un mort et trois blessés après une attaque à l’épée dans un lycée de Suède",
+      "desc": "L’assaillant a été arrêté par la police après avoir tué une lycéenne de 17 ans, et a été placé en détention. A ce stade, le mobile n’est pas connu.",
+      "url": "https://www.liberation.fr/international/europe/plusieurs-blesses-apres-une-attaque-a-larme-blanche-dans-un-lycee-de-suede-20260821_BWV2XQ6RABGFXCR7X3XSRCXWNI/",
+      "image": null,
+      "date": "2026-08-22T12:14:26+00:00",
+      "date_formatted": "22 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "LGBT, aborigène, ONU… 30 histoires de drapeaux sans pays",
       "desc": "A damiers, avec des cercles enlacés, des planisphères, un arc-en-ciel… Tour du monde des étendards que vous ne trouverez jamais à une frontière.",
@@ -30,26 +60,6 @@
       "date": "2026-08-22T08:09:48+00:00",
       "date_formatted": "22 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Guerre en Ukraine : une attaque russe sur un centre commercial en plein jour fait au moins 16 morts et 130 blessés",
-      "desc": "Le bilan des frappes de drones lancés vendredi contre Kryvyï Rig, la ville natale de Volodymyr Zelensky, au centre du pays, risque d’évoluer. Le président ukrainien a dénoncé une attaque «cynique et ignoble».",
-      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-attaque-russe-sur-un-centre-commercial-en-plein-jour-fait-au-moins-18-morts-et-120-blesses-20260821_UDZX4F6HFBFDTBJ5NC4EAFDN7U/",
-      "image": null,
-      "date": "2026-08-22T07:03:57+00:00",
-      "date_formatted": "22 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un mort et trois blessés après une attaque à l’épée dans un lycée de Suède",
-      "desc": "L’assaillant a été arrêté par la police et est en détention. A ce stade, le mobile n’est pas connu.",
-      "url": "https://www.liberation.fr/international/europe/plusieurs-blesses-apres-une-attaque-a-larme-blanche-dans-un-lycee-de-suede-20260821_BWV2XQ6RABGFXCR7X3XSRCXWNI/",
-      "image": null,
-      "date": "2026-08-22T07:02:36+00:00",
-      "date_formatted": "22 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
