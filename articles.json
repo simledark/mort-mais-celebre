@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-22T06:18:16.583056+00:00",
-  "count": 66,
+  "generated_at": "2026-08-22T12:14:15.859625+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title": "LGBT, aborigène, ONU… 30 histoires de drapeaux sans pays",
+      "desc": "A damiers, avec des cercles enlacés, des planisphères, un arc-en-ciel… Tour du monde des étendards que vous ne trouverez jamais à une frontière.",
+      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/lgbt-aborigene-onu-30-histoires-de-drapeaux-sans-pays-20260822_GSNSM7R5OFHJXB46BKKWUZWJLU/",
+      "image": null,
+      "date": "2026-08-22T12:06:00+00:00",
+      "date_formatted": "22 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Talc : la plus grosse proposition d'accord jamais formulée pourrait solder des années de procédures",
+      "desc": "76 000 plaignants. 5,5 milliards de dollars. Un géant pharmaceutique acculé par des dizaines de milliers de familles qui l'accusent d'avoir vendu un produit cancérigène pendant des décennies. L'affaire Johnson & Johnson et son talc bébé représente l'un des plus grands scandales sanitaires de...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-talc-plus-grosse-proposition-accord-jamais-formulee-pourrait-solder-annees-procedures-k2m6-137048/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/c/9/6c98ef67bd_50259547_scandale-sanitaire-talc-amiante.jpg",
+      "date": "2026-08-22T10:00:00+00:00",
+      "date_formatted": "22 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Préservatifs non conformes vendus : des risques pour la santé",
       "desc": "L'alerte a été donnée par les autorités de santé : plus de 40 000 préservatifs vendus en pharmacie et en grande surface depuis avril dernier ont été jugés non conformes. Des risques de grossesses non désirées ou de transmissions de maladie existent.",
@@ -10,6 +30,26 @@
       "date": "2026-08-22T08:09:48+00:00",
       "date_formatted": "22 August 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre en Ukraine : une attaque russe sur un centre commercial en plein jour fait au moins 16 morts et 130 blessés",
+      "desc": "Le bilan des frappes de drones lancés vendredi contre Kryvyï Rig, la ville natale de Volodymyr Zelensky, au centre du pays, risque d’évoluer. Le président ukrainien a dénoncé une attaque «cynique et ignoble».",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-attaque-russe-sur-un-centre-commercial-en-plein-jour-fait-au-moins-18-morts-et-120-blesses-20260821_UDZX4F6HFBFDTBJ5NC4EAFDN7U/",
+      "image": null,
+      "date": "2026-08-22T07:03:57+00:00",
+      "date_formatted": "22 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un mort et trois blessés après une attaque à l’épée dans un lycée de Suède",
+      "desc": "L’assaillant a été arrêté par la police et est en détention. A ce stade, le mobile n’est pas connu.",
+      "url": "https://www.liberation.fr/international/europe/plusieurs-blesses-apres-une-attaque-a-larme-blanche-dans-un-lycee-de-suede-20260821_BWV2XQ6RABGFXCR7X3XSRCXWNI/",
+      "image": null,
+      "date": "2026-08-22T07:02:36+00:00",
+      "date_formatted": "22 August 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -53,16 +93,6 @@
       "type": "presse"
     },
     {
-      "title": "Guerre en Ukraine : une attaque russe sur un centre commercial en plein jour fait au moins 18 morts et plus de 120 blessés",
-      "desc": "Le bilan des frappes de drones russes lancés ce vendredi contre Kryvyï Rig, la ville natale de Volodymyr Zelensky, au centre du pays, risque d’évoluer. Le président ukrainien a dénoncé une attaque «cynique et ignoble».",
-      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-attaque-russe-sur-un-centre-commercial-en-plein-jour-fait-au-moins-18-morts-et-120-blesses-20260821_UDZX4F6HFBFDTBJ5NC4EAFDN7U/",
-      "image": null,
-      "date": "2026-08-21T17:43:10+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "REPORTAGE. \"Si un seul cas arrive à Kinshasa, ce sera catastrophique\" : en RDC, des équipes médicales inspectent des bateaux pour tenter de freiner l'épidémie d'Ebola",
       "desc": "Des équipes de dépistage contrôlent la température et tout symptôme inquiétant chez les passagers de bateaux surchargés et insalubres. Elles font tout pour éviter que le virus arrive dans la capitale de plus de 17 millions d'habitants.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-si-un-seul-cas-arrive-a-kinshasa-ce-sera-catastrophique-en-rdc-des-equipes-medicales-inspectent-des-bateaux-pour-tenter-de-freiner-l-epidemie-d-ebola_8156399.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -90,16 +120,6 @@
       "date": "2026-08-21T17:00:02+00:00",
       "date_formatted": "21 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Sonia Bellina : un suspect mis en examen et placé en détention provisoire pour assassinat",
-      "desc": "L’homme de 32 ans avait déjà fait l’objet de plusieurs condamnations, dont une pour violences conjugales en 2023. Il a reconnu avoir eu des relations tarifées avec l’influenceuse la veille et la nuit des faits, annonce le parquet de Nîmes.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-de-sonia-bellina-un-suspect-mis-en-examen-et-place-en-detention-provisoire-pour-assassinat-20260821_SOGDKC7IFFBDNG26SSFBV56GTA/",
-      "image": null,
-      "date": "2026-08-21T16:21:28+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -141,16 +161,6 @@
       "date_formatted": "21 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Comment profiter des grillades tout en limitant les risques cancérigènes ?",
-      "desc": "La cuisson au barbecue peut favoriser la présence de composés cancérigènes dans la viande. Des chercheurs de l'université du Kansas ont toutefois identifié plusieurs moyens pour en limiter la formation, notamment grâce aux herbes de Provence.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/comment-profiter-des-grillades-tout-en-limitant-les-risques-cancerigenes_8129867.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/b6UQGnfJ_psIsUqmWZXMi95uHAA/0x207:2132x1407/432x243/filters:format(jpg):quality(50)/2026/08/20/6a86f78aec2bd751066965.jpg",
-      "date": "2026-08-21T07:33:33+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Nino-Anne Dupieux, « patiente brancard » aux urgences d’Orléans pendant six jours : « C’est grâce aux soignants que j’ai tenu »",
