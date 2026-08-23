@@ -1,10 +1,40 @@
 {
-  "generated_at": "2026-08-23T12:15:15.709065+00:00",
-  "count": 71,
+  "generated_at": "2026-08-23T18:11:18.325691+00:00",
+  "count": 68,
   "articles": [
     {
-      "title": "Le pape Léon XIV appelle à redoubler d'efforts contre l'épidémie d'Ebola en RD Congo",
-      "desc": "L'épidémie d'Ebola, la plus meurtrière de l'histoire de la RDC, a déjà fait des milliers de victimes",
+      "title": "Ebola en RDC : cent jours d’une épidémie hors de contrôle",
+      "desc": "La 17e épidémie de cette fièvre hémorragique infectieuse se propage depuis la mi-mai dans l’est de la république démocratique du Congo à une vitesse sans précédent. Avec un taux de létalité de 50 %, elle a déjà fait plus de 2 400 morts.",
+      "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-cent-jours-dune-epidemie-hors-de-controle-20260823_6G4WLXS5IREHDBIPT4CYJ7AKYI/",
+      "image": null,
+      "date": "2026-08-23T17:30:59+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le gouvernement détruit l’assurance maladie solidaire au prétexte de mieux la sauvegarder",
+      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Aujourd’hui il revient sur la séquence du frein sur la hausse des franchises, qui cache le déremboursement de nombreux soins par la Sécu.",
+      "url": "https://www.liberation.fr/societe/sante/le-gouvernement-detruit-lassurance-maladie-solidaire-au-pretexte-de-mieux-la-sauvegarder-20260823_G24MQ2WRXFGVHH4CN75L2O5HIQ/",
+      "image": null,
+      "date": "2026-08-23T15:29:05+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Moustiques, la grande invasion",
+      "desc": "À l'origine ils vivaient dans les forêts. Mais cela fait bien longtemps qu'ils en sont sortis pour notre plus grand malheur. Les moustiques, vecteurs de maladies qui tuent chaque année 1 million de personnes dans le monde, sont sans doute les seuls animaux que certains pourraient vouloir éradiquer. ",
+      "url": "https://www.franceinfo.fr/sante/moustiques-la-grande-invasion_8158187.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Fg7B5QUYu93TLQjTWjLWzR9aOZI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/23/6a8ab82b6f2a3328859379.jpg",
+      "date": "2026-08-23T15:00:01+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le pape Léon XIV appelle à redoubler d'efforts contre l'épidémie d'Ebola en République démocratique du Congo",
+      "desc": "L'épidémie d'Ebola la plus meurtrière de l'histoire de la RDC a déjà fait des milliers de victimes.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-pape-leon-xiv-appelle-a-redoubler-d-efforts-contre-l-epidemie-d-ebola-en-rd-congo_8158370.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/UAsHhZ75zYmroTIx_0tq4Z78-_c/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8ae01c9500d669875429.jpg",
       "date": "2026-08-23T13:58:00+00:00",
@@ -21,26 +51,6 @@
       "date_formatted": "23 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Accident mortel après un refus d’obtempérer : deux policiers municipaux en garde à vue dans l’Oise",
-      "desc": "Le parquet de Compiègne cherche à établir précisément l’enchaînement des faits ayant conduit au drame. Le passager du véhicule, légèrement blessé, a lui aussi été placé en garde à vue.",
-      "url": "https://www.liberation.fr/societe/police-justice/accident-mortel-apres-un-refus-dobtemperer-deux-policiers-municipaux-en-garde-a-vue-dans-loise-20260823_J3L4Y6MJI5AGLJKV7NZW2HKJIQ/",
-      "image": null,
-      "date": "2026-08-23T09:47:10+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "301 morts par noyade depuis le 19 juin : «Un triste bilan», déplore la ministre des Sports",
-      "desc": "«Beaucoup de personnes ont cherché la fraîcheur» pendant les vagues de chaleur, explique Marina Ferrari. Des «comportements à risque» qui ont contribué à alourdir le bilan.",
-      "url": "https://www.liberation.fr/societe/301-morts-par-noyade-depuis-le-19-juin-un-triste-bilan-deplore-la-ministre-des-sports-20260823_HHJWPT6XEVE7ZONPXIB6ZG55HU/",
-      "image": null,
-      "date": "2026-08-23T08:45:20+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "RD Congo : une épidémie très meurtrière d'Ebola",
@@ -70,36 +80,6 @@
       "date": "2026-08-23T07:57:12+00:00",
       "date_formatted": "23 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Dans le Mercantour, des ados diabétiques sur le chemin des sommets : «Jamais je n’aurais pensé être capable de faire ça»",
-      "desc": "Sur les sentiers escarpés des Alpes-Maritimes, le «dépassement de soi, le calme et la nature» s’ouvrent à un groupe de jeunes diabétiques de type 1, accompagnés par un guide lui aussi atteint par cette pathologie. Une première pour beaucoup, qui découvrent être capables de randonner.",
-      "url": "https://www.liberation.fr/societe/sante/dans-le-mercantour-des-ados-diabetiques-sur-le-chemin-des-sommets-jamais-je-naurais-pense-etre-capable-de-faire-ca-20260823_XJJG4WWNWBG53LTDWUJTKKIAXE/",
-      "image": null,
-      "date": "2026-08-23T05:40:00+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "En Vendée, un couple résiste aux menaces d’un corbeau homophobe : «Notre crainte est qu’il mette le feu à la maison»",
-      "desc": "Jean-Luc et Alain font l’objet d’une campagne de harcèlement depuis près de deux ans. Après le dépôt de quatorze plaintes, dont plusieurs pour menaces de mort, ils regrettent un soutien trop timide de certains élus locaux.",
-      "url": "https://www.liberation.fr/societe/sexualite-et-genres/en-vendee-un-couple-resiste-aux-menaces-dun-corbeau-homophobe-notre-crainte-est-quil-mette-le-feu-a-la-maison-20260823_ZTCGEUBTI5CLXBHJ7DJDCSV4DU/",
-      "image": null,
-      "date": "2026-08-23T05:17:00+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Démarrage compliqué pour le nouveau congé de naissance : «Je passais mes journées à envoyer des mails aux RH»",
-      "desc": "Alors que le congé supplémentaire de naissance est entré en vigueur le 1er juillet, certains parents doivent faire face aux indemnisations tardives, au stress des dossiers à gérer et des appels répétés à l’Assurance maladie.",
-      "url": "https://www.liberation.fr/societe/familles/demarrage-complique-pour-le-nouveau-conge-de-naissance-je-passais-mes-journees-a-envoyer-des-mails-aux-rh-20260823_AKR6UPDIQ5HONI7BJVRRLE5QIM/",
-      "image": null,
-      "date": "2026-08-23T04:05:00+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -180,16 +160,6 @@
       "date": "2026-08-21T17:00:08+00:00",
       "date_formatted": "21 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ils ambiancent l'hôpital",
-      "desc": "Ces bénévoles mettent l'ambiance à l'hôpital trois fois par semaine pour aider des ados atteints d'un cancer à oublier la maladie le temps d'un moment. L'association s'appelle Aïda, et les 2 000 bénévoles ont en moyenne 19 ans. On les a suivis.",
-      "url": "https://www.franceinfo.fr/sante/hopital/ils-ambiancent-l-hopital_8156285.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/rinxXLqh41cJL49YOkEcK7hfr_0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/21/6a8848c9b8947070688577.jpg",
-      "date": "2026-08-21T17:00:02+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
