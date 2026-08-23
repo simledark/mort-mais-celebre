@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-08-23T06:19:59.740821+00:00",
-  "count": 70,
+  "generated_at": "2026-08-23T12:15:15.709065+00:00",
+  "count": 71,
   "articles": [
+    {
+      "title": "Le pape Léon XIV appelle à redoubler d'efforts contre l'épidémie d'Ebola en RD Congo",
+      "desc": "L'épidémie d'Ebola, la plus meurtrière de l'histoire de la RDC, a déjà fait des milliers de victimes",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-pape-leon-xiv-appelle-a-redoubler-d-efforts-contre-l-epidemie-d-ebola-en-rd-congo_8158370.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/UAsHhZ75zYmroTIx_0tq4Z78-_c/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8ae01c9500d669875429.jpg",
+      "date": "2026-08-23T13:58:00+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de l'estomac : les scientifiques alertent sur une bactérie très répandue mais souvent ignorée",
+      "desc": "15,6 millions : c'est le nombre de cancers de l'estomac que les chercheurs anticipent pour les générations nées entre 2008 et 2017. Trois cas sur quatre seraient liés à une seule bactérie, détectable et traitable. Une opportunité de prévention massive que l'on ne peut pas se permettre d'ignorer.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-estomac-cancer-estomac-scientifiques-alertent-bacterie-tres-repandue-mais-souvent-ignoree-k2m6-137050/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/b/e/ebeba4f1d4_50259491_cancer-estomac-bacterie.jpg",
+      "date": "2026-08-23T10:00:00+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Accident mortel après un refus d’obtempérer : deux policiers municipaux en garde à vue dans l’Oise",
+      "desc": "Le parquet de Compiègne cherche à établir précisément l’enchaînement des faits ayant conduit au drame. Le passager du véhicule, légèrement blessé, a lui aussi été placé en garde à vue.",
+      "url": "https://www.liberation.fr/societe/police-justice/accident-mortel-apres-un-refus-dobtemperer-deux-policiers-municipaux-en-garde-a-vue-dans-loise-20260823_J3L4Y6MJI5AGLJKV7NZW2HKJIQ/",
+      "image": null,
+      "date": "2026-08-23T09:47:10+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "301 morts par noyade depuis le 19 juin : «Un triste bilan», déplore la ministre des Sports",
+      "desc": "«Beaucoup de personnes ont cherché la fraîcheur» pendant les vagues de chaleur, explique Marina Ferrari. Des «comportements à risque» qui ont contribué à alourdir le bilan.",
+      "url": "https://www.liberation.fr/societe/301-morts-par-noyade-depuis-le-19-juin-un-triste-bilan-deplore-la-ministre-des-sports-20260823_HHJWPT6XEVE7ZONPXIB6ZG55HU/",
+      "image": null,
+      "date": "2026-08-23T08:45:20+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "RD Congo : une épidémie très meurtrière d'Ebola",
+      "desc": "En à peine trois mois, l'épidémie d'Ebola qui frappe la République Démocratique du Congo est hors de contrôle. Plus de 2500 personnes ont perdu la vie et quelque 5300 ont été infectées.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/rd-congo-une-epidemie-tres-meurtriere-d-ebola_8158076.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/UcP--J07Euo00DfhCupZoB0i5dY/93x0:1608x852/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8a9252885eb107208080.jpg",
+      "date": "2026-08-23T08:25:30+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Bien avant les pertes de mémoire, Alzheimer s'attaque à un mécanisme essentiel de votre cerveau",
       "desc": "Et si la maladie d’Alzheimer ne faisait pas que voler les souvenirs ? Une équipe américaine révèle qu’elle dérègle aussi l’horloge interne du cerveau, bouleversant le rythme des cellules chargées de nettoyer les fameuses plaques amyloïdes.",
@@ -11,6 +61,16 @@
       "date_formatted": "23 August 2026",
       "source": "Futura Santé",
       "type": "science"
+    },
+    {
+      "title": "Macédoine du Nord : Cinq morts infectés par le virus du Nil occidental",
+      "desc": "Cinq décès ont été recensés ce samedi en Macédoine du Nord dus à cette infection transmise par les moustiques et pour laquelle il n’existe pas de traitement",
+      "url": "https://www.20minutes.fr/monde/4240374-20260823-macedoine-nord-cinq-personnes-meurent-virus-nil-occidental?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/cOIRCA7AQGG6l2FkWs6hWCk/1200x768_un-moustique-tigre-est-perche-sur-l-avant-bras-d-une-personne-dans-le-cimetiere-de-terre-cabade-le-26-mai-2026-a-toulouse-dans-le-sud-de-la-france-un-tigre-moustique-est-pose-sur-l-avant-bras-d-une-personne-dans-le-cimetiere-de-terre-cabade-le-26-mai-2026-a-toulouse-dans-le-sud-de-la-france-scheiber-scheiber0477-credit-fred-scheiber-sipa-2605271620",
+      "date": "2026-08-23T07:57:12+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
     },
     {
       "title": "Dans le Mercantour, des ados diabétiques sur le chemin des sommets : «Jamais je n’aurais pensé être capable de faire ça»",
@@ -39,46 +99,6 @@
       "image": null,
       "date": "2026-08-23T04:05:00+00:00",
       "date_formatted": "23 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Guerre en Ukraine : une attaque russe sur un centre commercial en plein jour fait au moins 16 morts et 130 blessés",
-      "desc": "Le bilan des frappes de drones lancés vendredi contre Kryvyï Rig, la ville natale de Volodymyr Zelensky, au centre du pays, risque d’évoluer. Le président ukrainien a dénoncé une attaque «cynique et ignoble».",
-      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-une-attaque-russe-sur-un-centre-commercial-en-plein-jour-fait-au-moins-18-morts-et-120-blesses-20260821_UDZX4F6HFBFDTBJ5NC4EAFDN7U/",
-      "image": null,
-      "date": "2026-08-22T13:31:20+00:00",
-      "date_formatted": "22 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "S’envoyer en l’air dans l’espace est-il l’ultime tabou ?",
-      "desc": "Des milliards sont investis dans les fusées, mais la sexualité des astronautes reste peu abordée. Simon Dubé, sexologue, et Camille Pelletier, autrice de science-fiction, dénoncent un «angle mort» de la conquête spatiale.",
-      "url": "https://www.liberation.fr/lifestyle/intimites/senvoyer-en-lair-dans-lespace-est-il-lultime-tabou-20260822_LTR5FPCZMBAQ7CUA6FDCEOMTHA/",
-      "image": null,
-      "date": "2026-08-22T13:27:00+00:00",
-      "date_formatted": "22 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un mort et trois blessés après une attaque à l’épée dans un lycée de Suède",
-      "desc": "L’assaillant a été arrêté par la police après avoir tué une lycéenne de 17 ans, et a été placé en détention. A ce stade, le mobile n’est pas connu.",
-      "url": "https://www.liberation.fr/international/europe/plusieurs-blesses-apres-une-attaque-a-larme-blanche-dans-un-lycee-de-suede-20260821_BWV2XQ6RABGFXCR7X3XSRCXWNI/",
-      "image": null,
-      "date": "2026-08-22T12:14:26+00:00",
-      "date_formatted": "22 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "LGBT, aborigène, ONU… 30 histoires de drapeaux sans pays",
-      "desc": "A damiers, avec des cercles enlacés, des planisphères, un arc-en-ciel… Tour du monde des étendards que vous ne trouverez jamais à une frontière.",
-      "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/lgbt-aborigene-onu-30-histoires-de-drapeaux-sans-pays-20260822_GSNSM7R5OFHJXB46BKKWUZWJLU/",
-      "image": null,
-      "date": "2026-08-22T12:06:00+00:00",
-      "date_formatted": "22 August 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -488,16 +508,6 @@
       "url": "https://www.lemonde.fr/societe/article/2026/08/14/le-conseil-constitutionnel-valide-la-loi-sur-la-fin-de-vie-les-etablissements-catholiques-obtiennent-leur-clause-de-conscience_6746261_3224.html",
       "image": "https://img.lemde.fr/2026/07/15/143/0/2500/1250/644/322/60/0/93a863d_upload-1-fsu0ipqi0nah-jmug260715027.jpg",
       "date": "2026-08-14T15:49:20+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : le Conseil constitutionnel valide la loi créant un droit à l’aide à mourir, en émettant trois réserves",
-      "desc": "Le Conseil juge notamment qu’un établissement privé peut refuser de pratiquer l’aide à mourir « lorsqu’une telle procédure est manifestement contraire aux missions statutaires ou au projet de l’établissement » et à condition qu’il ne soit pas seul à pouvoir répondre aux « besoins locaux ».",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/14/fin-de-vie-le-conseil-constitutionnel-valide-la-loi-creant-un-droit-a-l-aide-a-mourir-en-emettant-trois-reserves_6746258_3224.html",
-      "image": "https://img.lemde.fr/2026/08/14/0/0/5102/2551/644/322/60/0/724e03a_upload-1-lsugnbgpgy3z-000-48cf4zq.jpg",
-      "date": "2026-08-14T15:22:44+00:00",
       "date_formatted": "14 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
