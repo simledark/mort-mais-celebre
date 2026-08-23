@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-23T00:34:10.360810+00:00",
-  "count": 67,
+  "generated_at": "2026-08-23T06:19:59.740821+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title": "Bien avant les pertes de mémoire, Alzheimer s'attaque à un mécanisme essentiel de votre cerveau",
+      "desc": "Et si la maladie d’Alzheimer ne faisait pas que voler les souvenirs ? Une équipe américaine révèle qu’elle dérègle aussi l’horloge interne du cerveau, bouleversant le rythme des cellules chargées de nettoyer les fameuses plaques amyloïdes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-bien-avant-pertes-memoire-alzheimer-attaque-mecanisme-essentiel-votre-cerveau-w2t8-136998/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/f/b/1fb9db68f2_50259418_rythme-circadien-signes-alzheimer.jpg",
+      "date": "2026-08-23T08:00:00+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Dans le Mercantour, des ados diabétiques sur le chemin des sommets : «Jamais je n’aurais pensé être capable de faire ça»",
+      "desc": "Sur les sentiers escarpés des Alpes-Maritimes, le «dépassement de soi, le calme et la nature» s’ouvrent à un groupe de jeunes diabétiques de type 1, accompagnés par un guide lui aussi atteint par cette pathologie. Une première pour beaucoup, qui découvrent être capables de randonner.",
+      "url": "https://www.liberation.fr/societe/sante/dans-le-mercantour-des-ados-diabetiques-sur-le-chemin-des-sommets-jamais-je-naurais-pense-etre-capable-de-faire-ca-20260823_XJJG4WWNWBG53LTDWUJTKKIAXE/",
+      "image": null,
+      "date": "2026-08-23T05:40:00+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "En Vendée, un couple résiste aux menaces d’un corbeau homophobe : «Notre crainte est qu’il mette le feu à la maison»",
+      "desc": "Jean-Luc et Alain font l’objet d’une campagne de harcèlement depuis près de deux ans. Après le dépôt de quatorze plaintes, dont plusieurs pour menaces de mort, ils regrettent un soutien trop timide de certains élus locaux.",
+      "url": "https://www.liberation.fr/societe/sexualite-et-genres/en-vendee-un-couple-resiste-aux-menaces-dun-corbeau-homophobe-notre-crainte-est-quil-mette-le-feu-a-la-maison-20260823_ZTCGEUBTI5CLXBHJ7DJDCSV4DU/",
+      "image": null,
+      "date": "2026-08-23T05:17:00+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Démarrage compliqué pour le nouveau congé de naissance : «Je passais mes journées à envoyer des mails aux RH»",
+      "desc": "Alors que le congé supplémentaire de naissance est entré en vigueur le 1er juillet, certains parents doivent faire face aux indemnisations tardives, au stress des dossiers à gérer et des appels répétés à l’Assurance maladie.",
+      "url": "https://www.liberation.fr/societe/familles/demarrage-complique-pour-le-nouveau-conge-de-naissance-je-passais-mes-journees-a-envoyer-des-mails-aux-rh-20260823_AKR6UPDIQ5HONI7BJVRRLE5QIM/",
+      "image": null,
+      "date": "2026-08-23T04:05:00+00:00",
+      "date_formatted": "23 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Guerre en Ukraine : une attaque russe sur un centre commercial en plein jour fait au moins 16 morts et 130 blessés",
       "desc": "Le bilan des frappes de drones lancés vendredi contre Kryvyï Rig, la ville natale de Volodymyr Zelensky, au centre du pays, risque d’évoluer. Le président ukrainien a dénoncé une attaque «cynique et ignoble».",
@@ -431,16 +471,6 @@
       "date_formatted": "17 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Cannibalisme : l’étrange maladie du kuru, rançon de festins mortuaires",
-      "desc": "« Sept nuances de cannibalisme » (6/7). Dans les années 1950, une épidémie d’origine inconnue décime une ethnie de Papouasie-Nouvelle-Guinée. Ethnologues et médecins finiront par établir le rôle de l’anthropophagie funéraire dans la transmission d’une encéphalopathie à prions.",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/17/cannibalisme-l-etrange-maladie-du-kuru-rancon-de-festins-mortuaires_6747962_3451060.html",
-      "image": "https://img.lemde.fr/2026/07/09/620/0/2136/1068/644/322/60/0/ef04509_upload-1-hvva1eyfokxs-cannibale6-copie.jpg",
-      "date": "2026-08-17T05:30:06+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Deux chiens ne font plus éternuer : pourquoi Alfie et Bailey pourraient changer la vie des allergiques",
