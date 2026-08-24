@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-08-24T12:21:37.371275+00:00",
-  "count": 65,
+  "generated_at": "2026-08-24T18:21:24.492981+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "« Un handicap établi une fois n’a pas à être plaidé sans fin »",
+      "desc": "Guillaume Adam, responsable associatif et autiste, souligne, dans une tribune au « Monde », l’angle mort qu’est le handicap invisible dans le débat public. Ceux qui en souffrent s’épuisent à le taire, à le camoufler ou à devoir en prouver sans cesse la réalité auprès des institutions.",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/24/un-handicap-etabli-une-fois-n-a-pas-a-etre-plaide-sans-fin_6755548_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/10f5d75_upload-1-vkh5yy2ntv4i-frame-835.jpg",
+      "date": "2026-08-24T18:00:05+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Candidature de Raphaël Glucksmann, interdiction du portable au lycée, mort de Philippe Bouvard… L’actu de ce lundi 24 août",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du lundi 24 août.",
+      "url": "https://www.liberation.fr/international/europe/candidature-de-raphael-glucksmann-interdiction-du-portable-au-lycee-mort-de-philippe-bouvard-lactu-de-ce-lundi-24-aout-20260824_TE5FKYZK5VGZXEAH6OGKN5HG7U/",
+      "image": null,
+      "date": "2026-08-24T16:20:52+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des chercheurs lillois révèlent des variants rares du gène PLCG2 qui multiplient le risque de développer la maladie d’Alzheimer",
+      "desc": "Une équipe de chercheurs lillois de l’Inserm, de l’Université de Lille, de l’Institut Pasteur de Lille et du CHU de Lille, avec plusieurs partenaires internationaux, publie dans Nature Genetics une découverte qui éclaire les mécanismes de la maladie d’Alzheimer. PLCG2, gène déjà connu pour son assoc",
+      "url": "https://presse.inserm.fr/des-chercheurs-lillois-revelent-des-variants-rares-du-gene-plcg2-qui-multiplient-le-risque-de-developper-la-maladie-dalzheimer/73151/",
+      "image": null,
+      "date": "2026-08-24T16:04:30+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : six membres de la Croix-Rouge blessés la semaine dernière dans des attaques en République démocratique du Congo",
+      "desc": "Les organisations impliquées dans la riposte à l’épidémie évoluent dans une région particulièrement troublée, où une myriade de groupes armés sont actifs et commettent des massacres en toute impunité.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/24/ebola-six-membres-de-la-croix-rouge-blesses-la-semaine-derniere-dans-des-attaques-en-republique-democratique-du-congo_6755436_3212.html",
+      "image": "https://img.lemde.fr/2026/06/09/649/0/5500/2750/644/322/60/0/25ae74b_ftp-1-h2q6jsyeiwuy-2026-06-09t201754z-729318552-rc2odlagypgl-rtrmadp-3-health-ebola-usa-eu.JPG",
+      "date": "2026-08-24T15:24:55+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : ce qui s’est produit en seulement 20 jours révèle une situation devenue critique",
+      "desc": "En seulement 100 jours, l’épidémie d’Ebola en République démocratique du Congo a déjà fait plus de 2 500 morts et dépassé le bilan de la précédente flambée, pourtant la plus meurtrière de l’histoire du pays. Pourquoi le virus progresse-t-il aujourd’hui à une vitesse aussi vertigineuse ? Entre un...",
+      "url": "https://www.futura-sciences.com/sante/actualites/ebola-ebola-ce-produit-seulement-20-jours-revele-situation-devenue-critique-137264/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/4/7/347b35b191_50259882_ebola-rdc.jpg",
+      "date": "2026-08-24T15:21:49+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "VIH : deux hommes séropositifs, victimes de harcèlement et de menaces de mort, entament une grève de la faim pour dénoncer la « sérophobie »",
+      "desc": "En grève de la faim devant le palais de justice de Reims, Christophe Paco affirme se faire harceler en raison de sa séropositivité et avoir déposé plusieurs plaintes, toutes classées sans suite. Il a été rejoint par l’influenceur niçois Nicolas Aragona connu, sous le pseudonyme « Supersero ».",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/24/vih-deux-hommes-seropositifs-victimes-de-harcelement-et-de-menaces-de-mort-entament-une-greve-de-la-faim-pour-denoncer-la-serophobie_6755403_3224.html",
+      "image": "https://img.lemde.fr/2026/08/24/612/0/1080/540/644/322/60/0/e208718_upload-1-pf3rmqthjaku-38987.jpg",
+      "date": "2026-08-24T15:12:40+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Avec une nouvelle plainte, Eva Ionesco poursuit son combat pour faire cesser la vente de clichés pédopornographiques issus de son enfance",
+      "desc": "La réalisatrice a engagé une seconde procédure pénale contre l’avocat Emmanuel Pierrat, exécuteur testamentaire de sa mère, la photographe Irina Ionesco, qui l’a immortalisée dénudée et dans des poses sexualisées de 2 à 16 ans. Elle suspecte le conseil de détenir et de vendre des photos interdites.",
+      "url": "https://www.liberation.fr/societe/police-justice/avec-une-nouvelle-plainte-eva-ionesco-poursuit-son-combat-pour-faire-cesser-la-vente-de-cliches-pedopornographiques-issus-de-son-enfance-20260824_THBXQRLTJJASXFSBIOEZACOAFQ/",
+      "image": null,
+      "date": "2026-08-24T15:10:00+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’entarteur belge Noël Godin est mort à 80 ans après s’être «follement amusé»",
+      "desc": "L’homme n’aimait rien tant que de balancer de la chantilly sur «les pompeux cornichons», notamment BHL. Le plus beau trophée de ce lettré, érudit, anar et cinéphile : le patron de Microsoft Bill Gates.",
+      "url": "https://www.liberation.fr/international/europe/lentarteur-belge-noel-godin-est-mort-a-80-ans-apres-setre-follement-amuse-20260824_3EYG56G5QNEPVGLMRBVHPIRQOU/",
+      "image": null,
+      "date": "2026-08-24T13:54:16+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Derrière un cas de cholestérol sanguin élevé, un demi-siècle d’erreur de diagnostic",
       "desc": "Un taux élevé de LDL-cholestérol (« mauvais cholestérol »), qui résistait aux traitements depuis des décennies, cachait une maladie que personne n’avait songé à rechercher.",
@@ -11,16 +91,6 @@
       "date_formatted": "24 August 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Mort de Philippe Bouvard, grosse tête de gondole",
-      "desc": "Figure du «Figaro» et de «France-Soir», l’animateur mort ce 24 août à 96 ans, était surtout connu pour avoir présenté pendant trente-sept ans les «Grosses Têtes», émission-phare de RTL, emblème de l’humour populaire.",
-      "url": "https://www.liberation.fr/economie/medias/mort-de-philippe-bouvard-grosse-tete-de-gondole-20260824_JCN5JNLLPBAJTPCIITH5YJ5NRA/",
-      "image": null,
-      "date": "2026-08-24T07:05:57+00:00",
-      "date_formatted": "24 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Moustiques, la grande invasion",
@@ -93,16 +163,6 @@
       "type": "science"
     },
     {
-      "title": "Préservatifs non conformes vendus : des risques pour la santé",
-      "desc": "L'alerte a été donnée par les autorités de santé : plus de 40 000 préservatifs vendus en pharmacie et en grande surface depuis avril dernier ont été jugés non conformes. Des risques de grossesses non désirées ou de transmissions de maladie existent.",
-      "url": "https://www.franceinfo.fr/sante/preservatifs-non-conformes-vendus-des-risques-pour-la-sante_8157101.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/u0ORkW6Z0WrTOgaBImSO320CkzY/34x0:1537x845/432x243/filters:format(jpg):quality(50)/2026/08/22/6a893d1a657b8338373415.jpg",
-      "date": "2026-08-22T08:09:48+00:00",
-      "date_formatted": "22 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "La canicule, piège silencieux pour les personnes atteintes de maladies chroniques",
       "desc": "Les malades qui souffrent d’insuffisance cardiaque, rénale ou de troubles psychiatriques sont particulièrement fragiles lors des vagues de chaleur. Le corps médical se heurte à plusieurs difficultés pour adapter et maintenir leurs traitements.",
       "url": "https://www.lemonde.fr/sante/article/2026/08/22/la-canicule-piege-silencieux-pour-les-personnes-atteintes-de-maladies-chroniques_6752521_1651302.html",
@@ -111,16 +171,6 @@
       "date_formatted": "22 August 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Le virus du Nil occidental transmis par des moustiques détecté dans 12 pays européens",
-      "desc": "Principalement transmis par des moustiques, ce virus peut provoquer des atteintes neurologiques chez l'être humain.",
-      "url": "https://www.franceinfo.fr/sante/le-virus-du-nil-occidental-transmis-par-des-moustiques-detecte-dans-12-pays-europeens_8156669.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Dhz2KIb0y258h1c6clUHvsF6sfc/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8890ba72f02453702194.jpg",
-      "date": "2026-08-21T20:24:03+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Royaume-Uni : Le python « Jodie Foster » se remet d’un cancer grâce à un traitement de pointe",
@@ -323,16 +373,6 @@
       "type": "presse"
     },
     {
-      "title": "Emmanuel Macron a promulgué la loi sur l’aide à mourir",
-      "desc": "La loi légalise sous des conditions drastiques une forme d’assistance au suicide et l’euthanasie",
-      "url": "https://www.20minutes.fr/societe/4239812-20260819-emmanuel-macron-promulgue-loi-aide-mourir?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/4tSD693RT1OW_q2LIxoYqik/1200x768_un-cadre-de-nuit-aupres-d-un-patient-en-fin-de-vie-au-dechocage-urgences-un-an-apres-le-debut-de-la-crise-sanitaire-les-soignants-ne-voient-pas-le-bout-du-tunnel-la-lassitude-a-succede-a-la-tm-adrenaline-le-ressentiment-a-la-solidarite-reportage-a-l-hopital-delafontaine-a-saint-denis-en-premiere-ligne-face-a-la-pandemie-un-an-apres-le-debut-de-la-crise-sanitaire-les-soignants-ne-voient-pas-le-bout-du-tunnel-la-lassitude-a-succede-a-l-adrenaline-le-ressentiment-a-succede-a-la-solidarite-reportage-a-l-hopital-delafontaine-a-saint-denis-en-premiere-ligne-face-a-la-pandemie-driguez-marin-1911-21335-2105121451-credit-marin-driguez-sipa-2105121456",
-      "date": "2026-08-19T01:39:05+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Légionellose en Savoie : 46 cas depuis le mois de juin, une troisième personne est morte",
       "desc": "L’agence régionale de santé poursuit ses analyses pour tenter de déterminer l’origine de la contamination. La maladie infectieuse est mortelle dans environ 10 % des cas.",
       "url": "https://www.lemonde.fr/societe/article/2026/08/19/legionellose-en-savoie-46-cas-depuis-juin-une-troisieme-personne-est-morte_6749223_3224.html",
@@ -383,26 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Aide à mourir : « La liberté de refus d’un établissement privé pourrait rendre illusoire l’exercice d’un droit de la personne en fin de vie »",
-      "desc": "En reconnaissant le principe d’une clause de conscience collective dans sa décision du 14 août, le Conseil constitutionnel a tracé une limite, sans écrire le mode d’emploi, estime un collectif de militants du droit à l’aide à mourir, dans une tribune au « Monde ».",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/17/aide-a-mourir-la-liberte-de-refus-d-un-etablissement-prive-pourrait-rendre-illusoire-l-exercice-d-un-droit-de-la-personne-en-fin-de-vie_6748223_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
-      "date": "2026-08-17T15:30:03+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola en RDC : l’épidémie devient la plus meurtrière de l’histoire du pays en seulement trois mois",
-      "desc": "Sur les 4 945 cas de contaminations confirmées, 2 325 personnes sont mortes, selon le dernier bilan des autorités congolaises.",
-      "url": "https://www.lemonde.fr/international/article/2026/08/17/ebola-en-rdc-l-epidemie-devient-la-plus-meurtriere-de-l-histoire-du-pays-en-seulement-trois-mois_6748146_3210.html",
-      "image": "https://img.lemde.fr/2026/08/12/603/0/6000/3000/644/322/60/0/5abc941_ftp-1-w5ozaf2ogc26-ab72ac0188b04d54877720f6fbe4e6ad-0-3ba04dc592c84c3599a0afd9658274d9.jpg",
-      "date": "2026-08-17T12:00:07+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola en RDC : l'épidémie \"tue une personne toutes les 30 minutes\"",
       "desc": "Plus rapide que toutes les précédentes flambées, l'épidémie d'Ebola en cours en RDC a déjà fait plus de 2.300 morts en trois mois. Défiance des populations, soignants non payés, financement insuffisant : la riposte peine à suivre le rythme de la propagation.",
       "url": "https://www.sciencesetavenir.fr/sante/rdc-l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-du-pays_194303?xtor=RSS-16",
@@ -421,36 +441,6 @@
       "date_formatted": "17 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mortalité infantile : « Le débat se concentre sur l’organisation des maternités, alors que les déterminants sont ailleurs »",
-      "desc": "Si la restructuration de l’offre obstétricale est indispensable, l’organisation et la qualité des soins délivrés aux grands prématurés représentent un enjeu central et largement oublié, estiment la présidente de SOS Préma, Charlotte Bouvard, et le pédiatre Jean-Christophe Rozé, dans une tribune au «",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/17/mortalite-infantile-le-debat-se-concentre-sur-l-organisation-des-maternites-alors-que-les-determinants-sont-ailleurs_6747973_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
-      "date": "2026-08-17T07:00:16+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Deux chiens ne font plus éternuer : pourquoi Alfie et Bailey pourraient changer la vie des allergiques",
-      "desc": "Alfie et Bailey ressemblent à tous les autres beagles, à une différence près : leur organisme ne produit plus le principal allergène du chien. Une prouesse génétique qui pourrait ouvrir de nouvelles perspectives aux personnes allergiques, mais qui soulève encore de nombreuses questions.",
-      "url": "https://www.futura-sciences.com/sante/actualites/allergies-deux-chiens-ne-font-plus-eternuer-alfie-bailey-pourraient-changer-vie-allergiques-136943/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/5/4/654045a9d2_50259386_chiens-beagles-crispr.jpg",
-      "date": "2026-08-16T17:28:59+00:00",
-      "date_formatted": "16 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Le Conseil constitutionnel valide la loi sur la fin de vie, les établissements catholiques obtiennent leur « clause de conscience »",
-      "desc": "Dans une décision rendue vendredi 14 août, l’institution assure « la liberté personnelle » d’un malade d’accéder à l’administration d’une substance létale à sa demande et après accord d’un médecin. En revanche, la décision exempte les établissements privés et associatifs de l’obligation de permettre",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/14/le-conseil-constitutionnel-valide-la-loi-sur-la-fin-de-vie-les-etablissements-catholiques-obtiennent-leur-clause-de-conscience_6746261_3224.html",
-      "image": "https://img.lemde.fr/2026/07/15/143/0/2500/1250/644/322/60/0/93a863d_upload-1-fsu0ipqi0nah-jmug260715027.jpg",
-      "date": "2026-08-14T15:49:20+00:00",
-      "date_formatted": "14 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "RDC: Ebola a déjà tué plus de 2.000 personnes",
@@ -639,16 +629,6 @@
       "image": null,
       "date": "2026-04-30T09:44:28+00:00",
       "date_formatted": "30 April 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique précoce",
-      "desc": "Touchant un nombre croissant de patients, le cancer du pancréas demeure l’un des plus agressifs en raison de la capacité des cellules cancéreuses à résister aux traitements conventionnels, comme la chimiothérapie. L’article Cancer du pancréas : un anticorps fait ses preuves dans un essai clinique pr",
-      "url": "https://presse.inserm.fr/cancer-du-pancreas-un-anticorps-fait-ses-preuves-dans-un-essai-clinique-precoce/72744/",
-      "image": null,
-      "date": "2026-04-27T13:36:06+00:00",
-      "date_formatted": "27 April 2026",
       "source": "Inserm",
       "type": "science"
     }
