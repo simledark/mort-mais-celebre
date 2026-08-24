@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-24T00:33:17.180495+00:00",
-  "count": 68,
+  "generated_at": "2026-08-24T06:32:34.535025+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "Incendie à Crans-Montana : Jacques Moretti en détention provisoire pour violences conjugales",
+      "desc": "Le propriétaire du bar Le Constellation, dont l’incendie a fait 41 morts et 115 blessés la nuit du 1ᵉʳ de l’an, a été interpellé mi-août au domicile du couple en Suisse.",
+      "url": "https://www.liberation.fr/societe/police-justice/incendie-a-crans-montana-jacques-moretti-en-detention-provisoire-pour-violences-conjugales-20260824_37DCTOYYCVEH3DQGIXF2355GGQ/",
+      "image": null,
+      "date": "2026-08-24T05:24:10+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ebola en RDC : cent jours d’une épidémie hors de contrôle",
       "desc": "La 17e épidémie de cette fièvre hémorragique infectieuse se propage depuis la mi-mai dans l’est de la république démocratique du Congo à une vitesse sans précédent. Avec un taux de létalité de 50 %, elle a déjà fait plus de 2 400 morts.",
       "url": "https://www.liberation.fr/international/afrique/ebola-en-rdc-cent-jours-dune-epidemie-hors-de-controle-20260823_6G4WLXS5IREHDBIPT4CYJ7AKYI/",
       "image": null,
       "date": "2026-08-23T17:30:59+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le gouvernement détruit l’assurance maladie solidaire au prétexte de mieux la sauvegarder",
-      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Aujourd’hui il revient sur la séquence du frein sur la hausse des franchises, qui cache le déremboursement de nombreux soins par la Sécu.",
-      "url": "https://www.liberation.fr/societe/sante/le-gouvernement-detruit-lassurance-maladie-solidaire-au-pretexte-de-mieux-la-sauvegarder-20260823_G24MQ2WRXFGVHH4CN75L2O5HIQ/",
-      "image": null,
-      "date": "2026-08-23T15:29:05+00:00",
       "date_formatted": "23 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -130,26 +130,6 @@
       "date": "2026-08-21T19:01:08+00:00",
       "date_formatted": "21 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Quand dormir devient une maladie",
-      "desc": "L’hypersomnie, une maladie rare, qui bouleverse la vie, comme celle de Léna qui a découvert ce trouble sur le tard, après des tests car ses parents étaient inquiets.",
-      "url": "https://www.franceinfo.fr/sante/maladie/sommeil/quand-dormir-devient-une-maladie_8156414.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/4nSAebtMMf_taSHG9Ybk2T4y5W0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/21/6a885cf0c0077884758638.jpg",
-      "date": "2026-08-21T19:00:01+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "REPORTAGE. \"Si un seul cas arrive à Kinshasa, ce sera catastrophique\" : en RDC, des équipes médicales inspectent des bateaux pour tenter de freiner l'épidémie d'Ebola",
-      "desc": "Des équipes de dépistage contrôlent la température et tout symptôme inquiétant chez les passagers de bateaux surchargés et insalubres. Elles font tout pour éviter que le virus arrive dans la capitale de plus de 17 millions d'habitants.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/reportage-si-un-seul-cas-arrive-a-kinshasa-ce-sera-catastrophique-en-rdc-des-equipes-medicales-inspectent-des-bateaux-pour-tenter-de-freiner-l-epidemie-d-ebola_8156399.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/HSpx4t41xEMnBAgqNBV3EjRTT80/0x0:3000x1687/432x243/filters:format(jpg):quality(50)/2026/08/21/6a8864db1e041950238345.jpg",
-      "date": "2026-08-21T17:19:55+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -360,16 +340,6 @@
       "date": "2026-08-19T01:34:24+00:00",
       "date_formatted": "19 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Savoie : Une troisième personne est décédée de la légionellose, 46 cas recensés depuis juin",
-      "desc": "Les autorités sanitaires ont indiqué mardi qu’elles poursuivaient leurs investigations autour de Chambéry, où se concentre la majorité des contaminations. Sur les trois décès, deux d’entre eux sont liés à un réseau d’eau privé",
-      "url": "https://www.20minutes.fr/sante/4239793-20260818-savoie-troisieme-personne-decedee-legionellose-46-cas-recenses-depuis-juin?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/G9pBMxVzRzWK_Ljw-b0Ayyk/1200x768_illustration-d-un-infirmier-discutant-avec-un-patient-dans-sa-chambre-au-service-cardiologie-du-chu-laennec-nantes-ouest-benayacheadil-sipa-30595-credit-adil-benayache-sipa-2409161152",
-      "date": "2026-08-18T19:55:58+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
