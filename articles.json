@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-08-25T06:23:26.938357+00:00",
-  "count": 60,
+  "generated_at": "2026-08-25T12:22:07.033521+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "Cette maladie autrefois réservée aux adultes explose chez les adolescents : sa progression sidère les chercheurs",
+      "desc": "Longtemps considéré comme une maladie de l’adulte, le diabète de type 2 s’invite désormais chez les plus jeunes. Au Colorado, son incidence chez les 10-19 ans a été multipliée par près de 10 en vingt ans. Plus inquiétant encore : lorsqu’il apparaît à l’adolescence, il peut évoluer beaucoup plus...",
+      "url": "https://www.futura-sciences.com/sante/actualites/diabete-type-2-cette-maladie-autrefois-reservee-adultes-explose-chez-adolescents-progression-sidere-chercheurs-137280/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/5/9/e596656a56_50259938_maladie-chez-jeunes.jpg",
+      "date": "2026-08-25T13:21:06+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "En Afghanistan, l’Unicef estime qu’un million d’enfants pourraient mourir de malnutrition",
+      "desc": "Dans le pays meurtri par les séismes et les désastres climatiques, le Fonds des Nations unies pour l’enfance a prévenu ce mardi 25 août qu’un million d’enfants risquent de mourir en l’absence d’aide humanitaire.",
+      "url": "https://www.liberation.fr/international/en-afghanistan-lunicef-estime-quun-million-denfants-pourraient-mourir-de-malnutrition-20260825_IYGYTCHDEJDT3H6LGWDSX5XFBE/",
+      "image": null,
+      "date": "2026-08-25T11:43:48+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’artiste palestinien Sliman Mansour est mort",
+      "desc": "Le peintre et sculpteur, dont les œuvres dépeignaient les traditions palestiniennes et la lutte de son peuple sous l’occupation israélienne, est décédé lundi 24 août à l’âge de 79 ans.",
+      "url": "https://www.liberation.fr/culture/lartiste-palestinien-sliman-mansour-est-mort-20260825_RR7LWITSMJAY7M6HDK3ANO6T4U/",
+      "image": null,
+      "date": "2026-08-25T11:15:49+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Dodo la Saumure», proxénète rendu célèbre par l’affaire DSK, est mort",
+      "desc": "Protagoniste de l’affaire du Carlton de Lille, Dominique Alderweireld s’est éteint en Belgique à 77 ans.",
+      "url": "https://www.liberation.fr/societe/police-justice/dodo-la-saumure-proxenete-rendu-celebre-par-laffaire-dsk-est-mort-20260825_LXFN4QW4NNGHNAIPODOZB2QIGQ/",
+      "image": null,
+      "date": "2026-08-25T11:09:01+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Rajeunir des cellules humaines : un premier essai clinique vient d'obtenir le feu vert américain",
+      "desc": "Réinitialiser l'horloge biologique d'une cellule sans lui faire perdre son identité : le principe existe depuis vingt ans et a valu un prix Nobel à son inventeur. Une entreprise américaine vient de franchir une première étape réglementaire vers un essai chez l'humain. L'objectif visé n'est pas...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-rajeunir-cellules-humaines-premier-essai-clinique-vient-obtenir-feu-vert-americain-k2m6-137126/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/d/3/ad32623b45_50259580_reprogrammation-cellulaire-vieillissement.jpg",
+      "date": "2026-08-25T10:00:00+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Sécurité sociale : Des séances de kiné moins bien remboursées ?",
+      "desc": "L’Assurance maladie pointe le remboursement des séances de kiné qui est passé, en une décennie, de 3,6 milliards d’euros à 5,3 milliards d’euros",
+      "url": "https://www.20minutes.fr/sante/4240790-20260825-securite-sociale-seances-kine-moins-bien-remboursees?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Dm_kERnnRWyyWsF4E-bcPik/1200x768_mal-de-dos-d-un-adolescent-traite-par-des-seances-de-kinesitherapie-massage-et-etirement-sous-lampes-chauffantes-boulogne-france-19-12-2011-credit-durand-florence-sipa-1112201016",
+      "date": "2026-08-25T07:59:45+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une exposition élevée et persistante au bruit routier au début de l’enfance est associée à un risque accru de difficultés émotionnelles et relationnelles à 10 ans",
+      "desc": "En Europe, plus d’une personne sur cinq est exposée de manière chronique à des niveaux de bruit liés au transport considérés comme nocifs pour la santé; le trafic routier en constitue la principale source. Si les effets du bruit sur la santé cardiovasculaire sont relativement bien documentés, l’impa",
+      "url": "https://presse.inserm.fr/une-exposition-elevee-et-persistante-au-bruit-routier-au-debut-de-lenfance-est-associee-a-un-risque-accru-de-difficultes-emotionnelles-et-relationnelles-a-10-ans/73139/",
+      "image": null,
+      "date": "2026-08-25T07:00:59+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un touriste français meurt dans la Vallée de la mort sous 47 °C",
+      "desc": "Pierre Michel Formosa et son compagnon de voyage circulaient en voiture sur une route isolée de ce désert de Californie, courant août, lorsque leur véhicule s’est embourbé. L’homme de 68 ans a voulu continuer à pied mais n’a pas survécu, ont expliqué les autorités américaines.",
+      "url": "https://www.liberation.fr/international/amerique/un-touriste-francais-meurt-dans-la-vallee-de-la-mort-sous-47-c-20260825_RPWLRQPXQFCYDGBC65SJNJLQO4/",
+      "image": null,
+      "date": "2026-08-25T06:57:52+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Charente-Maritime : Une étude inédite menée sur une maladie pulmonaire méconnue",
       "desc": "Des médecins ont lancé en août des recherches sur le littoral de Charente-Maritime afin de mieux comprendre l’œdème pulmonaire d’immersion",
@@ -263,16 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Mort d’Hayden Panettiere : Qu’est-ce que le Narcan, le médicament retrouvé à côté du corps de l’actrice ?",
-      "desc": "Un antidote contre les overdoses aux opioïdes, nommé « Narcan », a été retrouvé aux côtés de la comédienne",
-      "url": "https://www.20minutes.fr/sante/4239931-20260819-mort-hayden-panettiere-narcan-medicament-retrouve-cote-corps-actrice?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/lBfEvFg3QnSdK6atZP380ik/1200x768_dossier-hayden-panettiere-est-mort-a-36-ans-l-actrice-americaine-hayden-panettiere-est-decedee-a-annonce-son-pere-dans-un-communique-dimanche-soir-16-aout-2026-elle-avait-36-ans-hollywood-los-angeles-californie-etats-unis-13-septembre-l-actrice-mannequin-chanteuse-et-militante-americaine-hayden-panettiere-arrive-a-la-premiere-a-los-angeles-de-blonde-de-netflix-qui-se-tient-au-tcl-chinese-theatre-imax-le-13-septembre-2022-a-hollywood-los-angeles-californie-etats-unis-photo-de-xavier-collin-image-press-agency-sipa-usa-72433502-2608170801",
-      "date": "2026-08-19T15:39:21+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Fin de vie : L’archevêque de Paris appelle à refuser de bénéficier de l’aide à mourir",
       "desc": "L’archevêque de Paris, Laurent Ulrich, a estimé qu’il appartenait à chacun de choisir de ne pas demander à bénéficier de ce « droit nouveau » alors que la loi sur l’aide à mourir a été publiée mercredi au Journal officiel",
       "url": "https://www.20minutes.fr/societe/4239935-20260819-fin-vie-archeveque-paris-appelle-refuser-beneficier-aide-mourir?at_medium=display&at_campaign=149",
@@ -303,16 +373,6 @@
       "type": "science"
     },
     {
-      "title": "Jugé trop dangereux, un médicament rare retiré du marché français",
-      "desc": "Destiné à traiter certaines maladies auto-immunes rares, le Tavneos faisait l’objet d’alertes au niveau mondial",
-      "url": "https://www.20minutes.fr/sante/4239916-20260819-juge-trop-dangereux-medicament-rare-retire-marche-francais?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ENxTcwMBRIaqaUVVkN-ybg/1200x768_illustration-hopital-pres-rennes",
-      "date": "2026-08-19T13:47:13+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "La loi sur l'aide à mourir promulguée par le président Macron",
       "desc": "La loi créant un droit à l'aide à mourir a été publiée mercredi au Journal officiel dans le sillage de sa promulgation par le président de la République Emmanuel Macron, après plusieurs années de débats.",
       "url": "https://www.sciencesetavenir.fr/sante/la-loi-sur-l-aide-a-mourir-promulguee-par-le-president-macron_194331?xtor=RSS-16",
@@ -320,16 +380,6 @@
       "date": "2026-08-19T08:38:02+00:00",
       "date_formatted": "19 August 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Le ballet épigénétique derrière la floraison des plantes mis au jour",
-      "desc": "La vitesse de fleurissement et la quantité de pétales produits par les plantes à fleurs dépendent d’un mécanisme bien orchestré mais complexe. Des chercheurs sont parvenus à déterminer les acteurs et leurs rôles lors de la transition entre la phase végétative et la phase reproductrice.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/08/19/le-ballet-epigenetique-derriere-la-floraison-des-plantes-mis-au-jour_6749467_1650684.html",
-      "image": "https://img.lemde.fr/2026/08/17/480/0/5760/2880/644/322/60/0/b9b37f7_upload-1-v1hdqhavlpjr-cea-dcom-0007944-ori.jpg",
-      "date": "2026-08-19T06:30:13+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
@@ -400,16 +450,6 @@
       "date": "2026-08-17T09:21:12+00:00",
       "date_formatted": "17 August 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Oubliez les 10 000 pas par jour : voici combien d'étages monter pour réduire le risque d'infarctus de 40 %",
-      "desc": "Avant d'appuyer sur le bouton de l'ascenseur, lisez ceci. Selon des chercheurs, monter des marches quotidiennement est l’une des habitudes les plus sous-estimées pour booster sa longévité et prévenir les maladies graves. Mais combien d'étages faut-il réellement gravir pour en tirer un maximum de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/coeur-oubliez-10-000-pas-jour-voici-etages-monter-reduire-risque-infarctus-40-137018/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/1/b/21be6bd3b8_50259467_escaliers-marches.jpg",
-      "date": "2026-08-17T07:02:04+00:00",
-      "date_formatted": "17 August 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -589,16 +629,6 @@
       "image": null,
       "date": "2026-05-06T13:49:51+00:00",
       "date_formatted": "6 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Immunothérapie intratumorale : mobiliser l’immunité contre le cancer en évitant les toxicités contre l’organisme",
-      "desc": "L’étude NIVIPIT, promue par Gustave Roussy et menée par des chercheurs et chercheuses de l’Inserm et de l’université Paris-Saclay, montre le bénéfice, autant sur le plan de l’efficacité que de la sûreté, de l’administration intratumorale d’un traitement d’immunothérapie habituellement utilisé en int",
-      "url": "https://presse.inserm.fr/immunotherapie-intratumorale-mobiliser-limmunite-contre-le-cancer-en-evitant-les-toxicites-contre-lorganisme/72831/",
-      "image": null,
-      "date": "2026-04-30T09:44:28+00:00",
-      "date_formatted": "30 April 2026",
       "source": "Inserm",
       "type": "science"
     }
