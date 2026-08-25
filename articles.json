@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-08-25T12:22:07.033521+00:00",
-  "count": 63,
+  "generated_at": "2026-08-25T18:20:52.900868+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title": "Mort de Dolly Parton, légende de la musique country",
+      "desc": "La chanteuse américaine, autrice et compositrice, était âgée de 80 ans.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-dolly-parton-legende-de-la-musique-country-20260825_FD3XEKDDONHXFCFJN3U6EG4OVA/",
+      "image": null,
+      "date": "2026-08-25T18:17:16+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "VIH : deux hommes séropositifs en grève de la faim, victimes de harcèlement et de menaces de mort, seront reçus par Aurore Bergé le 2 septembre",
+      "desc": "Ils ont commencé lundi matin leur grève de la faim devant le tribunal de Reims. Ils appellent à des rassemblements devant tous les palais de justice en France mercredi à 18 heures.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/25/vih-deux-hommes-seropositifs-en-greve-de-la-faim-victimes-de-harcelement-et-de-menaces-de-mort-seront-recus-par-aurore-berge-le-2-septembre_6756610_3224.html",
+      "image": "https://img.lemde.fr/2026/08/25/481/0/1080/540/644/322/60/0/3ad4f1f_upload-1-fedcvciwo6ec-786390850-1849720036189485-7195952215157472115-n.jpg",
+      "date": "2026-08-25T18:16:11+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "En RDC, la colère des soignants, en première ligne face à Ebola, mais rarement payés",
+      "desc": "Depuis début juillet, les agents de santé confrontés à l’épidémie multiplient les grèves sporadiques pour réclamer le paiement de leur salaire. Le gouvernement a reconnu des détournements de fonds qui fragilisent la riposte contre la maladie à virus Ebola.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/25/en-rdc-la-colere-des-soignants-en-premiere-ligne-face-a-ebola-mais-rarement-payes_6756602_3212.html",
+      "image": "https://img.lemde.fr/2026/08/06/313/0/5000/2500/644/322/60/0/59512f0_ftp-1-xifeyt6cbrv1-43f5651fc593443d9e191a3b74d20ac3-1-8c4215a4a16344c6835a2b295a973f93.jpg",
+      "date": "2026-08-25T18:00:01+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une première… Le cancer du sein d’une hôtesse de l’air reconnu comme maladie professionnelle",
+      "desc": "Sophie Lainault, hôtesse de l’air âgée de 59 ans, vient d’obtenir la reconnaissance de son cancer du sein comme maladie professionnelle",
+      "url": "https://www.20minutes.fr/sante/4240947-20260825-premiere-cancer-sein-hotesse-air-reconnu-comme-maladie-professionnelle?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/sqTxACtPTginQq6fHBmErik/1200x768_extreme-photographer-de-getty-images-signature",
+      "date": "2026-08-25T17:09:38+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Etats-Unis : Une fillette de 8 ans meurt d’amibes « mangeuses de cerveau » après s’être baignée dans un lac",
+      "desc": "Une Américaine de huit ans est morte samedi en Louisiane des suites d’une infection par une amibe « mangeuse de cerveau » contractée en se baignant dans un lac, une infection rare mais presque toujours mortelle, rapporte « The Guardian »",
+      "url": "https://www.20minutes.fr/faits_divers/4240906-20260825-etats-unis-fillette-8-ans-meurt-amibes-mangeuses-cerveau-apres-etre-baignee-lac?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/lKylSYhXRqSOVg6aVVS2bik/1200x768_une-fillette-de-huit-ans-originaire-de-louisiane-est-decedee-apres-avoir-ete-infectee-par-naegleria-fowleri-une-amibe-mangeuse-de-cerveau-suite-a-une-baignade-dans-le-lac-de-clairborne-aux-etats-unis-capture-d-ecran-facebook-love-for-lillian",
+      "date": "2026-08-25T14:55:05+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "NFL : Un joueur sur quatre, décédé entre 2016 et 2021, souffrait d’une maladie neurodégénérative",
+      "desc": "Une étude menée sur des joueurs décédés montrent qu’un quart d’entre eux étaient touchés par une encéphalopathie traumatique chronique",
+      "url": "https://www.20minutes.fr/sport/4240900-20260825-nfl-joueur-quatre-decede-entre-2016-2021-souffrait-maladie-neurodegenerative?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/UsTLhRXmSE-4PpBWpWwSeyk/1200x768_le-joueur-serre-des-titans-du-tennessee-daniel-bellinger-82-est-plaque-par-le-gardien-des-seahawks-de-seattle-d-anthony-bell-23-le-secondeur-chris-paul-jr-49-et-le-plaqueur-uso-seumalo-92-apres-avoir-capte-une-passe-pendant-la-premiere-moitie-d-un-match-de-football-de-pre-saison-de-la-nfl-le-dimanche-23-aout-2026-a-nashville-dans-le-tennessee-photo-ap-george-walker-iv-tncn148-26236042936123-2608241611",
+      "date": "2026-08-25T13:52:22+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Cette maladie autrefois réservée aux adultes explose chez les adolescents : sa progression sidère les chercheurs",
       "desc": "Longtemps considéré comme une maladie de l’adulte, le diabète de type 2 s’invite désormais chez les plus jeunes. Au Colorado, son incidence chez les 10-19 ans a été multipliée par près de 10 en vingt ans. Plus inquiétant encore : lorsqu’il apparaît à l’adolescence, il peut évoluer beaucoup plus...",
@@ -11,36 +71,6 @@
       "date_formatted": "25 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "En Afghanistan, l’Unicef estime qu’un million d’enfants pourraient mourir de malnutrition",
-      "desc": "Dans le pays meurtri par les séismes et les désastres climatiques, le Fonds des Nations unies pour l’enfance a prévenu ce mardi 25 août qu’un million d’enfants risquent de mourir en l’absence d’aide humanitaire.",
-      "url": "https://www.liberation.fr/international/en-afghanistan-lunicef-estime-quun-million-denfants-pourraient-mourir-de-malnutrition-20260825_IYGYTCHDEJDT3H6LGWDSX5XFBE/",
-      "image": null,
-      "date": "2026-08-25T11:43:48+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "L’artiste palestinien Sliman Mansour est mort",
-      "desc": "Le peintre et sculpteur, dont les œuvres dépeignaient les traditions palestiniennes et la lutte de son peuple sous l’occupation israélienne, est décédé lundi 24 août à l’âge de 79 ans.",
-      "url": "https://www.liberation.fr/culture/lartiste-palestinien-sliman-mansour-est-mort-20260825_RR7LWITSMJAY7M6HDK3ANO6T4U/",
-      "image": null,
-      "date": "2026-08-25T11:15:49+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Dodo la Saumure», proxénète rendu célèbre par l’affaire DSK, est mort",
-      "desc": "Protagoniste de l’affaire du Carlton de Lille, Dominique Alderweireld s’est éteint en Belgique à 77 ans.",
-      "url": "https://www.liberation.fr/societe/police-justice/dodo-la-saumure-proxenete-rendu-celebre-par-laffaire-dsk-est-mort-20260825_LXFN4QW4NNGHNAIPODOZB2QIGQ/",
-      "image": null,
-      "date": "2026-08-25T11:09:01+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Rajeunir des cellules humaines : un premier essai clinique vient d'obtenir le feu vert américain",
@@ -71,16 +101,6 @@
       "date_formatted": "25 August 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Un touriste français meurt dans la Vallée de la mort sous 47 °C",
-      "desc": "Pierre Michel Formosa et son compagnon de voyage circulaient en voiture sur une route isolée de ce désert de Californie, courant août, lorsque leur véhicule s’est embourbé. L’homme de 68 ans a voulu continuer à pied mais n’a pas survécu, ont expliqué les autorités américaines.",
-      "url": "https://www.liberation.fr/international/amerique/un-touriste-francais-meurt-dans-la-vallee-de-la-mort-sous-47-c-20260825_RPWLRQPXQFCYDGBC65SJNJLQO4/",
-      "image": null,
-      "date": "2026-08-25T06:57:52+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Charente-Maritime : Une étude inédite menée sur une maladie pulmonaire méconnue",
@@ -323,16 +343,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancer de la peau : Deux laboratoires américains annoncent des résultats encourageant pour un vaccin thérapeutique",
-      "desc": "Les laboratoires Merck et Moderna annoncent des résultats positifs en phase 3 pour leur vaccin personnalisé à ARN messager contre le mélanome avancé, associé à l’immunothérapie Keytruda",
-      "url": "https://www.20minutes.fr/sante/4239956-20260819-cancer-peau-deux-laboratoires-americains-annoncent-resultats-encourageant-vaccin-therapeutique?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/3nM07ZoqQ5KSP3m3bRZymik/1200x768_depuis-la-premiere-vague-pand-a-mique-de-covid19-les-chercheurs-de-la-faculte-de-pharmacie-de-tours-travaillent-sur-un-vaccin-nasal-contre-le-virus-sur-cette-photo-fanny-boursin-chercheuse-travaille-sur-la-purification-et-la-concentration-de-la-proteine-photographie-charles-bury-sipa-30-01-23-tours-france-burycharles-bury003-credit-charles-bury-sipa-2301310913",
-      "date": "2026-08-19T16:35:54+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Le médicament Tavneos, destiné à traiter certaines maladies auto-immunes rares, retiré du marché en France après plusieurs morts à l’étranger",
       "desc": "Au printemps, le groupe Kissei, qui commercialise Tavneos au Japon, a fait état d’une vingtaine de morts parmi les patients traités depuis l’introduction du médicament sur le marché japonais en 2022. En France, selon l’ANSM, il est prescrit à 600 patients.",
       "url": "https://www.lemonde.fr/sante/article/2026/08/19/le-medicament-tavneos-retire-du-marche-francais-apres-le-signalement-de-plusieurs-morts-a-l-etranger_6749876_1651302.html",
@@ -341,16 +351,6 @@
       "date_formatted": "19 August 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Fin de vie : L’archevêque de Paris appelle à refuser de bénéficier de l’aide à mourir",
-      "desc": "L’archevêque de Paris, Laurent Ulrich, a estimé qu’il appartenait à chacun de choisir de ne pas demander à bénéficier de ce « droit nouveau » alors que la loi sur l’aide à mourir a été publiée mercredi au Journal officiel",
-      "url": "https://www.20minutes.fr/societe/4239935-20260819-fin-vie-archeveque-paris-appelle-refuser-beneficier-aide-mourir?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/6U0W_h3nQuCKconzRSNRPCk/1200x768_l-archeveque-de-paris-laurent-ulrich-assiste-a-une-visite-avec-la-ministre-francaise-de-la-culture-catherine-pegard-invisible-et-l-artiste-francaise-claire-tabouret-invisible-des-ateliers-simon-marq-une-entreprise-familiale-seculaire-de-maitres-verriers-a-reims-dans-le-nord-est-de-la-france-le-23-juillet-2026-l-artiste-claire-tabouret-concoit-les-six-vitraux-qui-seront-places-dans-le-bas-cote-sud-de-la-nef-de-la-cathedrale-notre-dame-de-paris-ces-vitraux-contemporains-sont-fabriques-par-l-atelier-des-maitres-verriers-simon-marq-photo-de-francois-lo-presti-afp",
-      "date": "2026-08-19T15:38:16+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Canicule : 7 300 « morts en excès » ont été recensés cet été en France pendant les périodes de fortes chaleurs successives",
@@ -403,16 +403,6 @@
       "type": "presse"
     },
     {
-      "title": "L’épidémie d’Ebola en RDC est « loin d’être maîtrisée » et il existe un « risque élevé d’une propagation internationale »",
-      "desc": "Actuellement, l’OMS juge le niveau de risque pour la santé publique « très élevé » pour la RDC, « élevé » pour l’Ouganda et les autres pays frontaliers de la RDC, et « faible » pour le reste de l’Afrique et du monde.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/18/ebola-en-rdc-l-epidemie-est-loin-d-etre-maitrisee-alerte-le-chef-de-l-oms_6749057_3212.html",
-      "image": "https://img.lemde.fr/2026/08/12/398/0/6000/3000/644/322/60/0/5165053_ftp-1-llk3tgpshbbu-4ae68f807e53439bb4ca78fb6a2ab473-0-90d4124c0cc54b97ad2a72544958cdbb.jpg",
-      "date": "2026-08-18T15:08:21+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "« La plupart des effets inattendus se sont révélés positifs » : les surprises d’Ozempic, Wegovy et Mounjaro… au-delà du poids",
       "desc": "Ces traitements de l’obésité et d’autres maladies métaboliques (diabète) ne cessent de faire parler d’eux ces dernières années pour leurs effets spectaculaires sur la perte de poids. Dans un éditorial, des chercheurs reviennent sur les effets inattendus de ces médicaments, qu’ils soient positifs...",
       "url": "https://www.futura-sciences.com/sante/actualites/obesite-plupart-effets-inattendus-sont-reveles-positifs-surprises-ozempic-wegovy-mounjaro-dela-poids-137119/#xtor%3DRSS-8",
@@ -428,16 +418,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-somnifere-courant-montre-resultats-encourageants-etude-w2t8-136991/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/5/9/259eadbfd4_50259403_somnifere-maladie-alzheimer.jpg",
       "date": "2026-08-18T08:00:00+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "« Nous n’avions encore jamais rien observé de tel chez un mammifère » : elles vivent avec nos virus les plus redoutés !",
-      "desc": "Si notre organisme réagit parfois violemment aux infections, les chauves-souris, elles, cohabitent paisiblement avec ces pathogènes. Une étude récente révèle une anomalie génétique unique chez ce petit mammifère, qui éclaire d'un jour nouveau leur incroyable tolérance.",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-nous-navions-encore-jamais-rien-observe-tel-chez-mammifere-elles-vivent-nos-virus-plus-redoutes-136780/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/6/4/8648530dde_50259106_3-chauve-souris.jpg",
-      "date": "2026-08-18T07:03:44+00:00",
       "date_formatted": "18 August 2026",
       "source": "Futura Santé",
       "type": "science"
