@@ -1,7 +1,107 @@
 {
-  "generated_at": "2026-08-26T12:24:12.879479+00:00",
-  "count": 70,
+  "generated_at": "2026-08-26T19:29:16.149813+00:00",
+  "count": 73,
   "articles": [
+    {
+      "title": "Le bilan provisoire des canicules vient bousculer ce que l’on croyait savoir sur leurs victimes",
+      "desc": "On imagine spontanément les personnes âgées comme les premières victimes des canicules. Pourtant, les chiffres racontent une histoire bien plus inquiétante : dès 45 ans, la surmortalité s’envole, et les 15-64 ans ne sont pas épargnés. Accidents, noyades, violences, alcool, suicides… Quand le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/canicule-bilan-provisoire-canicules-vient-bousculer-ce-on-croyait-savoir-leurs-victimes-137335/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/c/a/5cabd3d4a6_50260026_chaleur-extreme.jpg",
+      "date": "2026-08-26T21:08:15+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : les Etats-Unis approuvent un traitement qui a doublé la durée de survie des patients",
+      "desc": "Lors de l’essai clinique, la moitié des patients l’ayant pris avaient survécu plus de treize mois, soit une durée deux fois plus longue que pour le groupe sous chimiothérapie.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/26/cancer-du-pancreas-les-etats-unis-approuvent-un-traitement-qui-a-double-la-duree-de-survie-des-patients_6757431_1650684.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/38ec457_upload-1-pp9dio4dwjlw-frame-340.jpg",
+      "date": "2026-08-26T20:30:30+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Etats-Unis : Un traitement prometteur contre le cancer du pancréas approuvé",
+      "desc": "Le Rasonque vient d’être approuvé par l’Agence américaine du médicament et promet de rajouter de précieux mois d’existence aux malades souffrant d’un cancer du pancréas",
+      "url": "https://www.20minutes.fr/sante/4241155-20260826-etats-unis-traitement-prometteur-contre-cancer-pancreas-approuve?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/hkAOhXrzRWGC1nQh2c_Kuyk/1200x768_voir-plus-de",
+      "date": "2026-08-26T19:06:16+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Légionellose en Savoie : un restaurant de Chambéry identifié comme l’une des sources de l’infection",
+      "desc": "Trente des 48 cas recensés de cette maladie ont fréquenté le même restaurant, de type buffet asiatique, selon l’Agence régionale de santé. Deux décès ont été confirmés, dont un client de l’établissement.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/26/legionellose-en-savoie-un-restaurant-de-chambery-identifie-comme-l-une-des-sources-de-l-infection_6757406_3224.html",
+      "image": "https://img.lemde.fr/2025/07/17/173/0/3000/1500/644/322/60/0/9e1e69a_upload-1-ce1dmbounuhh-frame-253.jpg",
+      "date": "2026-08-26T17:57:00+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«C’était absolument déchirant» : les inondations au Népal et au Tibet font au moins 160 morts",
+      "desc": "Des torrents de boue ont provoqué ce mercredi 26 août une catastrophe sans précédent dans le pays. Des victimes sont aussi à déplorer de l’autre côté de la frontière, dans le Tibet chinois.",
+      "url": "https://www.liberation.fr/environnement/coulees-de-boues-au-nepal-8-morts-et-384-personnes-portes-disparues-20260826_T5645WCW3ZF5DG462RWDNCOOD4/",
+      "image": null,
+      "date": "2026-08-26T17:01:26+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Tim Curry, star du «Rocky Horror Picture Show» et de «Ça»",
+      "desc": "L’acteur de 80 ans, reconnaissable à son large sourire et à sa voix de baryton, avait connu le succès grâce à ses rôles de méchants extravagants.",
+      "url": "https://www.liberation.fr/culture/cinema/mort-de-tim-curry-star-du-rocky-horror-picture-show-et-de-ca-20260826_YMHHFNCZDNACLBQA47SADALZBY/",
+      "image": null,
+      "date": "2026-08-26T16:55:13+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’IA générative à l’Ecole n’est pas seulement une affaire scolaire",
+      "desc": "L’utilisation pédagogique des outils génératifs dès la 6e ne peut être envisagée sans une réflexion sur ses impacts sur la santé mentale, le cyberharcèlement et la vie émotionnelle des élèves, estime Hafid Adnani, inspecteur d’académie et inspecteur pédagogique régional.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/lia-generative-a-lecole-nest-pas-seulement-une-affaire-scolaire-20260826_54B7AENW6BEJBLWM2JPKNRUXV4/",
+      "image": null,
+      "date": "2026-08-26T16:27:35+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Comment bien retirer une tique",
+      "desc": "🧐 Les tiques sont particulièrement présentes en été et une simple balade dans les hautes herbes peut suffire à en ramener une. Julien Ménielle nous explique les gestes pour la retirer correctement, sans augmenter le risque de transmission de maladies.",
+      "url": "https://www.franceinfo.fr/sante/comment-bien-retirer-une-tique_8147291.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/t2jFNmqtMmdPEvc08-ylwDzFcr0/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/14/6a7ed6697bc2b670504256.jpg",
+      "date": "2026-08-26T16:00:01+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Allemagne : C’est quoi ce « paludisme d’aéroport » qui vient de faire un mort à Francfort ?",
+      "desc": "Un employé de l’aéroport de Francfort est décédé du paludisme après l’arrivée probable d’un moustique infecté à bord d’un avion",
+      "url": "https://www.20minutes.fr/sante/4241116-20260826-allemagne-quoi-paludisme-aeroport-vient-faire-mort-francfort?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/TbWekti7Rd6F1hTxwciz3Ck/1200x768_09-juillet-2026-hesse-francfort-sur-le-main-les-vacanciers-passent-devant-un-grand-panneau-d-information-dans-le-terminal-1-rien-qu-en-2025-l-aeroport-de-francfort-a-accueilli-environ-63-2-millions-de-passagers-photo-jennifer-bruckner-dpa-ur-newsml-dpa-com-20090101-260709-99-14130-jennifer-bruckner-dpa-sipa-2607091650",
+      "date": "2026-08-26T15:25:20+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fraudes : L’Assurance maladie devrait s’attaquer davantage aux professionnels de santé, estime un rapport",
+      "desc": "La chasse aux fraudeurs par l’Assurance maladie devrait se concentrer plus sur les professionnels de santé, et moins sur les particuliers",
+      "url": "https://www.20minutes.fr/sante/4241068-20260826-fraudes-assurance-maladie-devrait-attaquer-plus-professionnels-sante-particuliers-selon-rapport?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/fEu3Obq7QTKaSnEVnLZ_bCk/1200x768_photo-ilklustration-d-un-arret-de-travail-du-medecin-07allilimages-16040141-credit-mourad-allili-sipa-2604161503",
+      "date": "2026-08-26T12:59:06+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Nogent-sur-Marne : Un habitant infecté par le chikungunya",
       "desc": "Testé positif le 19 août, ce patient est le premier cas autochtone du virus dans la région d’Île-de-France en 2026, selon les informations du « Parisien »",
@@ -23,26 +123,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort de Péter Nádas, le maître hongrois du roman-fleuve",
-      "desc": "Classés parmi les plus grands écrivains européens contemporains, son œuvre a exploré les traumatismes du XXe siècle tout en demeurant critique de la politique actuelle. Le romancier et essayiste est mort chez lui ce mercredi 26 août.",
-      "url": "https://www.liberation.fr/culture/livres/mort-de-peter-nadas-le-maitre-hongrois-du-roman-fleuve-20260826_BOQQAL6KXJCR7EKLCLRKG2YE54/",
-      "image": null,
-      "date": "2026-08-26T12:15:15+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Inondations au Népal : 19 morts et 384 personnes portées disparues",
-      "desc": "Des torrents d’eau boueuse ont provoqué une catastrophe sans précédent dans le pays. Le Premier ministre a annoncé convoquer une réunion d’urgence. On compte aussi des victimes en Chine où le président Xi Jinping s’est exprimé, mais n’a annoncé aucun bilan officiel.",
-      "url": "https://www.liberation.fr/environnement/coulees-de-boues-au-nepal-8-morts-et-384-personnes-portes-disparues-20260826_T5645WCW3ZF5DG462RWDNCOOD4/",
-      "image": null,
-      "date": "2026-08-26T12:00:54+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Rougeole aux Etats-Unis : où en est l’épidémie et pourquoi elle inquiète",
       "desc": "Le pays fait face à une épidémie inédite de rougeole sur fond de vaccino-scepticisme de l’administration Trump et d’une partie des Américains, alors que la maladie était éliminée depuis 2000.",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/08/26/rougeole-aux-etats-unis-ou-en-est-l-epidemie-et-pourquoi-elle-inquiete_6757358_4355770.html",
@@ -53,16 +133,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort de Dolly Parton : derrière l’icône, une géante de la musique country",
-      "desc": "Superstar depuis six décennies, la chanteuse disparue mardi 25 août était avant tout une immense songwriteuse, mélodiste, chroniqueuse, et poétesse de la condition états-unienne, féminine et laborieuse au XXe siècle.",
-      "url": "https://www.liberation.fr/culture/musique/mort-de-dolly-parton-derriere-licone-une-geante-de-la-musique-country-20260826_TIDYHNLUCJEIVE5XMHGOI2AYNE/",
-      "image": null,
-      "date": "2026-08-26T10:40:22+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Le cancer du sein d'une hôtesse de l'air reconnu comme maladie professionnelle, \"une première\" dans le secteur aérien en France, selon l'avocate de la patiente",
       "desc": "Le tribunal a souligné l'impact du travail de nuit, de l'exposition aux rayonnements ionisants et au tabagisme passif de la plaignante.",
       "url": "https://www.franceinfo.fr/sante/le-cancer-du-sein-d-une-hotesse-de-l-air-reconnu-comme-maladie-professionnelle-une-premiere-dans-le-secteur-aerien-en-france-selon-l-avocate-de-la-patiente_8161973.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -70,26 +140,6 @@
       "date": "2026-08-26T09:44:18+00:00",
       "date_formatted": "26 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les Etats-Unis enregistrent deux morts de la rougeole chez des personnes non vaccinées, l’épidémie flambe",
-      "desc": "Après avoir éradiqué cette maladie hautement contagieuse en 2000, le pays vit désormais sa pire épidémie depuis trois décennies, avec plus de 2700 cas recensés en 2026. Un recul en lien avec les politiques vaccino-septiques de Trump.",
-      "url": "https://www.liberation.fr/international/amerique/les-etats-unis-enregistrent-deux-morts-de-la-rougeole-chez-des-personnes-non-vaccinees-lepidemie-flambe-20260826_BFTJ5RGQJZAPHD2LENZ6HFZ4XQ/",
-      "image": null,
-      "date": "2026-08-26T09:39:33+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Barack Obama, Beyoncé, Jane Fonda… les Etats-Unis sans clivages face à la mort de Dolly Parton",
-      "desc": "De Fox News à CNN, de Trump à Biden, à Los Angeles comme dans le Tennessee, les Américains semblent pour une fois unis après l’annonce de la mort de la chanteuse, mardi à 80 ans.",
-      "url": "https://www.liberation.fr/international/amerique/barack-obama-beyonce-jane-fonda-les-etats-unis-sans-clivages-face-a-la-mort-de-dolly-parton-20260826_WITGXO4ZSVHNHEKU5BIFFCYQDU/",
-      "image": null,
-      "date": "2026-08-26T09:26:51+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -110,16 +160,6 @@
       "date": "2026-08-26T09:00:35+00:00",
       "date_formatted": "26 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une hôtesse de l’air obtient de la justice la reconnaissance de son cancer du sein comme maladie professionnelle",
-      "desc": "Aujourd’hui âgée de 59 ans et en rémission de sa maladie, elle a fait valoir son travail de nuit, son exposition au tabagisme passif et aux rayonnements ionisants. Cette décision inédite en France pourrait ouvrir la voie à d’autres catégories de personnels navigants.",
-      "url": "https://www.liberation.fr/economie/social/une-hotesse-de-lair-obtient-de-la-justice-la-reconnaissance-de-son-cancer-du-sein-comme-maladie-professionnelle-20260826_FENBTS26PNEVFBTXDJ62VBOZBE/",
-      "image": null,
-      "date": "2026-08-26T08:19:39+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -471,16 +511,6 @@
       "date_formatted": "21 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Moderna saluée par Wall Street pour l’efficacité promise d’un traitement utilisant l’ARN messager contre le cancer de la peau",
-      "desc": "La biotech et le laboratoire Merck ont annoncé, mercredi 19 août, avoir obtenu des résultats probants dans la lutte contre le mélanome, lors de la dernière phase d’un essai clinique. En réaction, l’action Moderna a quasi triplé en une séance boursière.",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/20/moderna-saluee-par-wall-street-pour-l-efficacite-promise-d-un-traitement-utilisant-l-arn-messager-contre-le-cancer-de-la-peau_6751196_3234.html",
-      "image": "https://img.lemde.fr/2026/08/20/319/0/5481/2740/644/322/60/0/0d93e9f_upload-1-dhsvfwyjexny-gettyimages-2151784515.jpg",
-      "date": "2026-08-20T19:31:22+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Relâcher des millions de moustiques pour faire baisser leur population : le principe surprend",
