@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-08-25T18:20:52.900868+00:00",
-  "count": 61,
+  "generated_at": "2026-08-26T00:33:17.257421+00:00",
+  "count": 62,
   "articles": [
     {
+      "title": "Rougeole aux Etats-Unis : deux nouveaux décès en Pennsylvanie",
+      "desc": "Ces morts, qui s’ajoutent trois autres décomptées en 2025, sont survenues chez des personnes qui n’étaient pas vaccinées, un quart de siècle après que la maladie avait été déclarée éliminée du pays grâce à la vaccination.",
+      "url": "https://www.lemonde.fr/international/article/2026/08/26/rougeole-aux-etats-unis-deux-nouveaux-deces-en-pennsylvanie_6756663_3210.html",
+      "image": "https://img.lemde.fr/2026/08/25/336/0/4032/2016/644/322/60/0/0e67a25_upload-1-w9wqsdakwnmv-2025-03-14t190045z-1887334777-rc20ddaf6vvh-rtrmadp-3-usa-health-measles-new-york.JPG",
+      "date": "2026-08-26T00:40:27+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Assurance-maladie : mutuelles, professionnels de santé et associations de patients inquiets de la hausse du ticket modérateur et des plafonds des franchises",
+      "desc": "Avec le déremboursement d’actes médicaux et l’augmentation des plafonds des franchises sur les soins, le gouvernement cible les usagers du système de santé pour combler le déficit de l’Assurance-maladie. Un choix qui écorne le principe de solidarité, regrettent nombre d’acteurs de la santé.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/25/assurance-maladie-mutuelles-professionnels-de-sante-et-associations-de-patients-inquiets-de-la-hausse-du-ticket-moderateur-et-des-plafonds-des-franchises_6756628_3224.html",
+      "image": "https://img.lemde.fr/2026/08/25/277/0/2185/1092/644/322/60/0/91d9e90_upload-1-knmebtqwdpgf-image1.jpeg",
+      "date": "2026-08-25T23:19:56+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Mort de Dolly Parton, transparence salariale, un million d’enfants en malnutrition en Afghanistan… L’actu de ce mardi 25 août",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mardi 25 août.",
+      "url": "https://www.liberation.fr/international/europe/transparence-salariale-sophie-adenot-dans-lespace-un-million-denfants-en-malnutrition-en-afghanistan-lactu-de-ce-mardi-25-aout-20260825_YKOJF5IBFJC6XE3EFTA4TEZP44/",
+      "image": null,
+      "date": "2026-08-25T19:34:34+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Mort de Dolly Parton, légende de la musique country",
-      "desc": "La chanteuse américaine, autrice et compositrice, était âgée de 80 ans.",
+      "desc": "La chanteuse américaine, autrice et compositrice, était âgée de 80 ans. En soixante ans de carrière, elle aura sorti des dizaines d’albums et vendu plus de cent millions de disques.",
       "url": "https://www.liberation.fr/culture/musique/mort-de-dolly-parton-legende-de-la-musique-country-20260825_FD3XEKDDONHXFCFJN3U6EG4OVA/",
       "image": null,
-      "date": "2026-08-25T18:17:16+00:00",
+      "date": "2026-08-25T19:04:55+00:00",
       "date_formatted": "25 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -381,26 +411,6 @@
       "date_formatted": "19 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "L’aide à mourir officiellement autorisée en France après la promulgation de la loi par Emmanuel Macron",
-      "desc": "Le texte, validé par le Conseil constitutionnel avec quelques réserves, a été publié, mercredi 19 août, au « Journal officiel ». Il crée un droit à l’aide à mourir, sous plusieurs conditions, pour certains patients.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/19/l-aide-a-mourir-officiellement-autorisee-en-france-apres-la-promulgation-de-la-loi-par-emmanuel-macron_6749291_3224.html",
-      "image": "https://img.lemde.fr/2026/07/15/500/0/6000/3000/644/322/60/0/0b4818f_ftp-1-yivsds8awrha-2026-07-15t173223z-995237890-rc2hemanbt5d-rtrmadp-3-france-politics-assisted-dying.JPG",
-      "date": "2026-08-19T03:19:02+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Légionellose en Savoie : 46 cas depuis le mois de juin, une troisième personne est morte",
-      "desc": "L’agence régionale de santé poursuit ses analyses pour tenter de déterminer l’origine de la contamination. La maladie infectieuse est mortelle dans environ 10 % des cas.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/19/legionellose-en-savoie-46-cas-depuis-juin-une-troisieme-personne-est-morte_6749223_3224.html",
-      "image": "https://img.lemde.fr/2025/09/26/660/0/4800/2400/644/322/60/0/6fd162e_upload-1-n6xoh8ft317k-maxnewsspecialtwo346954.jpg",
-      "date": "2026-08-19T01:34:24+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "« La plupart des effets inattendus se sont révélés positifs » : les surprises d’Ozempic, Wegovy et Mounjaro… au-delà du poids",
