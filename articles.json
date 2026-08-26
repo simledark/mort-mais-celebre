@@ -1,10 +1,50 @@
 {
-  "generated_at": "2026-08-26T00:33:17.257421+00:00",
+  "generated_at": "2026-08-26T06:25:29.360250+00:00",
   "count": 62,
   "articles": [
     {
-      "title": "Rougeole aux Etats-Unis : deux nouveaux décès en Pennsylvanie",
-      "desc": "Ces morts, qui s’ajoutent trois autres décomptées en 2025, sont survenues chez des personnes qui n’étaient pas vaccinées, un quart de siècle après que la maladie avait été déclarée éliminée du pays grâce à la vaccination.",
+      "title": "L'âge est le principal facteur de risque de fausse couche, selon une étude",
+      "desc": "La probabilité qu'une grossesse se termine par une fausse couche chez les femmes de moins de 20 ans dépasse 10%, selon l'Institut national d'études démographiques. Elle diminue ensuite et atteint jusqu'à 23% à 45 ans.",
+      "url": "https://www.franceinfo.fr/sante/l-age-est-le-principal-facteur-de-risque-de-fausse-couche-selon-une-etude_8161895.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/4nx7fFVMzLImAnRoCPDXngzbkQE/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8e80c65a650851016862.jpg",
+      "date": "2026-08-26T08:02:02+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une mutation génétique rare réduit de 60 % le risque de maladies cardio-vasculaires",
+      "desc": "En analysant le génome de plus d’un million d’individus, une équipe internationale a débusqué un gène dont les mutations, présentes chez une personne sur 7 000, confèrent une saine répartition des graisses corporelles, des taux de lipides sanguins bénéfiques, un bon niveau de contrôle glycémique…",
+      "url": "https://www.lemonde.fr/sciences/article/2026/08/26/une-mutation-genetique-rare-reduit-de-60-le-risque-de-maladies-cardio-vasculaires_6756909_1650684.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/4851c4d_upload-1-fkmv0fsx3cfw-frame-252.jpg",
+      "date": "2026-08-26T06:30:09+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Assurance maladie, qui fraude le plus ?",
+      "desc": "70 % du montant de la fraude à l’Assurance maladie est dû aux professionnels de santé.",
+      "url": "https://www.franceinfo.fr/sante/assurance-maladie-qui-fraude-le-plus_8161070.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/iFoOHDUfRNpaqk92_FQib_kdtZQ/0x0:720x1280/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/25/6a8daff635344170771515.jpg",
+      "date": "2026-08-26T06:00:13+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Propagation exponentielle, mortalité proche de 50%, pas de vaccin... Ce que l'on sait de l'épidémie d'Ebola la plus meurtrière de l'histoire de la RDC",
+      "desc": "L'OMS a appelé les autorités de la République démocratique du Congo à prendre des mesures pour limiter les grands rassemblements et tenter d'enrayer la propagation du virus.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/propagation-exponentielle-mortalite-proche-de-50-pas-de-vaccin-ce-que-l-on-sait-de-l-epidemie-d-ebola-la-plus-meurtriere-de-l-histoire-de-la-rdc_8159393.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_P_oVaTwe9BAnLVlYNKPPI9H8Xg/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/08/24/6a8c5cf85c4a2246663966.jpg",
+      "date": "2026-08-26T05:56:00+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Rougeole aux Etats-Unis : deux nouveaux décès en Pennsylvanie",
+      "desc": "Ces morts, qui s’ajoutent aux trois autres décomptées en 2025, sont survenues chez des personnes qui n’étaient pas vaccinées, un quart de siècle après que la maladie avait été déclarée éliminée du pays grâce à la vaccination.",
       "url": "https://www.lemonde.fr/international/article/2026/08/26/rougeole-aux-etats-unis-deux-nouveaux-deces-en-pennsylvanie_6756663_3210.html",
       "image": "https://img.lemde.fr/2026/08/25/336/0/4032/2016/644/322/60/0/0e67a25_upload-1-w9wqsdakwnmv-2025-03-14t190045z-1887334777-rc20ddaf6vvh-rtrmadp-3-usa-health-measles-new-york.JPG",
       "date": "2026-08-26T00:40:27+00:00",
@@ -13,11 +53,11 @@
       "type": "presse"
     },
     {
-      "title": "Assurance-maladie : mutuelles, professionnels de santé et associations de patients inquiets de la hausse du ticket modérateur et des plafonds des franchises",
-      "desc": "Avec le déremboursement d’actes médicaux et l’augmentation des plafonds des franchises sur les soins, le gouvernement cible les usagers du système de santé pour combler le déficit de l’Assurance-maladie. Un choix qui écorne le principe de solidarité, regrettent nombre d’acteurs de la santé.",
+      "title": "La hausse du ticket modérateur et des plafonds des franchises médicales, des mesures décriées par mutuelles, professionnels de santé et associations de patients",
+      "desc": "Le gouvernement cible les usagers du système de santé pour combler le déficit de l’Assurance-maladie. Un choix qui écorne le principe de solidarité, regrettent nombre d’acteurs de la santé.",
       "url": "https://www.lemonde.fr/societe/article/2026/08/25/assurance-maladie-mutuelles-professionnels-de-sante-et-associations-de-patients-inquiets-de-la-hausse-du-ticket-moderateur-et-des-plafonds-des-franchises_6756628_3224.html",
       "image": "https://img.lemde.fr/2026/08/25/277/0/2185/1092/644/322/60/0/91d9e90_upload-1-knmebtqwdpgf-image1.jpeg",
-      "date": "2026-08-25T23:19:56+00:00",
+      "date": "2026-08-25T23:19:55+00:00",
       "date_formatted": "25 August 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -213,16 +253,6 @@
       "type": "presse"
     },
     {
-      "title": "Le pape Léon XIV appelle à redoubler d'efforts contre l'épidémie d'Ebola en République démocratique du Congo",
-      "desc": "L'épidémie d'Ebola la plus meurtrière de l'histoire de la RDC a déjà fait des milliers de victimes.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-pape-leon-xiv-appelle-a-redoubler-d-efforts-contre-l-epidemie-d-ebola-en-rd-congo_8158370.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/UAsHhZ75zYmroTIx_0tq4Z78-_c/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8ae01c9500d669875429.jpg",
-      "date": "2026-08-23T13:58:00+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer de l'estomac : les scientifiques alertent sur une bactérie très répandue mais souvent ignorée",
       "desc": "15,6 millions : c'est le nombre de cancers de l'estomac que les chercheurs anticipent pour les générations nées entre 2008 et 2017. Trois cas sur quatre seraient liés à une seule bactérie, détectable et traitable. Une opportunité de prévention massive que l'on ne peut pas se permettre d'ignorer.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-estomac-cancer-estomac-scientifiques-alertent-bacterie-tres-repandue-mais-souvent-ignoree-k2m6-137050/#xtor%3DRSS-8",
@@ -231,16 +261,6 @@
       "date_formatted": "23 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "RD Congo : une épidémie très meurtrière d'Ebola",
-      "desc": "En à peine trois mois, l'épidémie d'Ebola qui frappe la République Démocratique du Congo est hors de contrôle. Plus de 2500 personnes ont perdu la vie et quelque 5300 ont été infectées.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/rd-congo-une-epidemie-tres-meurtriere-d-ebola_8158076.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/UcP--J07Euo00DfhCupZoB0i5dY/93x0:1608x852/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8a9252885eb107208080.jpg",
-      "date": "2026-08-23T08:25:30+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Bien avant les pertes de mémoire, Alzheimer s'attaque à un mécanisme essentiel de votre cerveau",
@@ -379,16 +399,6 @@
       "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/38ec457_upload-1-pp9dio4dwjlw-frame-340.jpg",
       "date": "2026-08-19T15:42:28+00:00",
       "date_formatted": "19 August 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Canicule : 7 300 « morts en excès » ont été recensés cet été en France pendant les périodes de fortes chaleurs successives",
-      "desc": "Entre le 3 et le 22 juillet, « 1 243 décès en excès » ont été recensés par Santé publique France. Ils s’ajoutent aux 5 764 morts en excès enregistrés du 17 au 30 juin, et aux 300 autres lors du premier épisode caniculaire de l’année, du 24 au 28 mai.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/19/canicule-1-243-morts-en-exces-ont-ete-recenses-entre-le-3-et-le-22-juillet-par-sante-publique-france_6749871_3224.html",
-      "image": "https://img.lemde.fr/2026/08/19/302/0/6000/3000/644/322/60/0/b73789c_upload-1-mpab3jazutzc-2026-07-09t135152z-98742372-rc29amatj4um-rtrmadp-3-europe-weather-france-hospital.JPG",
-      "date": "2026-08-19T15:04:59+00:00",
-      "date_formatted": "19 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
@@ -418,16 +428,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/obesite-plupart-effets-inattendus-sont-reveles-positifs-surprises-ozempic-wegovy-mounjaro-dela-poids-137119/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/0/1/601acf16f1_50259572_ozempic-autres-effets.jpg",
       "date": "2026-08-18T11:43:19+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Alzheimer : un somnifère courant montre des résultats encourageants dans une étude",
-      "desc": "Un espoir inattendu émerge dans la lutte contre Alzheimer. Une étude récente révèle qu'un médicament couramment prescrit pour l'insomnie pourrait avoir des effets bénéfiques sur cette maladie neurodégénérative. Cette découverte ouvre de nouvelles perspectives pour ralentir la progression...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-somnifere-courant-montre-resultats-encourageants-etude-w2t8-136991/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/5/9/259eadbfd4_50259403_somnifere-maladie-alzheimer.jpg",
-      "date": "2026-08-18T08:00:00+00:00",
       "date_formatted": "18 August 2026",
       "source": "Futura Santé",
       "type": "science"
