@@ -1,16 +1,156 @@
 {
-  "generated_at": "2026-08-26T06:25:29.360250+00:00",
-  "count": 62,
+  "generated_at": "2026-08-26T12:24:12.879479+00:00",
+  "count": 70,
   "articles": [
     {
+      "title": "Nogent-sur-Marne : Un habitant infecté par le chikungunya",
+      "desc": "Testé positif le 19 août, ce patient est le premier cas autochtone du virus dans la région d’Île-de-France en 2026, selon les informations du « Parisien »",
+      "url": "https://www.20minutes.fr/sante/4241037-20260826-nogent-marne-habitant-infecte-chikungunya?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/gImyCAf0QfCJUsyogMR3vyk/1200x768_anti-moustique-tigre-l-astuce-imparable-que-j-ai-teste-et-qui-change-tout",
+      "date": "2026-08-26T12:17:42+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pays-Bas : Un homme atteint du virus du Nil occidental décède",
+      "desc": "Un patient atteint de la fièvre du Nil occidental est décédé dans un hôpital dans la province d’Utrecht, dans le centre des Pays-Bas, où il avait contracté le virus",
+      "url": "https://www.20minutes.fr/sante/4241064-20260826-pays-bas-homme-atteint-virus-nil-occidental-decede?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/rLA7KJV1S-2XCgLTWQn5gSk/1200x768_present-chez-les-oiseaux-le-virus-du-nil-occidental-peut-etre-transmis-a-l-homme-par-des-moustiques-s-etant-nourris-du-sang-d-un-oiseau-infecte",
+      "date": "2026-08-26T12:17:18+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Péter Nádas, le maître hongrois du roman-fleuve",
+      "desc": "Classés parmi les plus grands écrivains européens contemporains, son œuvre a exploré les traumatismes du XXe siècle tout en demeurant critique de la politique actuelle. Le romancier et essayiste est mort chez lui ce mercredi 26 août.",
+      "url": "https://www.liberation.fr/culture/livres/mort-de-peter-nadas-le-maitre-hongrois-du-roman-fleuve-20260826_BOQQAL6KXJCR7EKLCLRKG2YE54/",
+      "image": null,
+      "date": "2026-08-26T12:15:15+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Inondations au Népal : 19 morts et 384 personnes portées disparues",
+      "desc": "Des torrents d’eau boueuse ont provoqué une catastrophe sans précédent dans le pays. Le Premier ministre a annoncé convoquer une réunion d’urgence. On compte aussi des victimes en Chine où le président Xi Jinping s’est exprimé, mais n’a annoncé aucun bilan officiel.",
+      "url": "https://www.liberation.fr/environnement/coulees-de-boues-au-nepal-8-morts-et-384-personnes-portes-disparues-20260826_T5645WCW3ZF5DG462RWDNCOOD4/",
+      "image": null,
+      "date": "2026-08-26T12:00:54+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Rougeole aux Etats-Unis : où en est l’épidémie et pourquoi elle inquiète",
+      "desc": "Le pays fait face à une épidémie inédite de rougeole sur fond de vaccino-scepticisme de l’administration Trump et d’une partie des Américains, alors que la maladie était éliminée depuis 2000.",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/08/26/rougeole-aux-etats-unis-ou-en-est-l-epidemie-et-pourquoi-elle-inquiete_6757358_4355770.html",
+      "image": "https://img.lemde.fr/2026/08/25/320/0/3840/1920/644/322/60/0/d6f12bb_upload-1-ibimwun6c9hr-media-d-appel-light.png",
+      "date": "2026-08-26T11:55:18+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Dolly Parton : derrière l’icône, une géante de la musique country",
+      "desc": "Superstar depuis six décennies, la chanteuse disparue mardi 25 août était avant tout une immense songwriteuse, mélodiste, chroniqueuse, et poétesse de la condition états-unienne, féminine et laborieuse au XXe siècle.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-dolly-parton-derriere-licone-une-geante-de-la-musique-country-20260826_TIDYHNLUCJEIVE5XMHGOI2AYNE/",
+      "image": null,
+      "date": "2026-08-26T10:40:22+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le cancer du sein d'une hôtesse de l'air reconnu comme maladie professionnelle, \"une première\" dans le secteur aérien en France, selon l'avocate de la patiente",
+      "desc": "Le tribunal a souligné l'impact du travail de nuit, de l'exposition aux rayonnements ionisants et au tabagisme passif de la plaignante.",
+      "url": "https://www.franceinfo.fr/sante/le-cancer-du-sein-d-une-hotesse-de-l-air-reconnu-comme-maladie-professionnelle-une-premiere-dans-le-secteur-aerien-en-france-selon-l-avocate-de-la-patiente_8161973.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ajMzAwSrqvBXQm0Y-BxOtyOYAUo/0x32:1024x608/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8e95be1b616610589990.jpg",
+      "date": "2026-08-26T09:44:18+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les Etats-Unis enregistrent deux morts de la rougeole chez des personnes non vaccinées, l’épidémie flambe",
+      "desc": "Après avoir éradiqué cette maladie hautement contagieuse en 2000, le pays vit désormais sa pire épidémie depuis trois décennies, avec plus de 2700 cas recensés en 2026. Un recul en lien avec les politiques vaccino-septiques de Trump.",
+      "url": "https://www.liberation.fr/international/amerique/les-etats-unis-enregistrent-deux-morts-de-la-rougeole-chez-des-personnes-non-vaccinees-lepidemie-flambe-20260826_BFTJ5RGQJZAPHD2LENZ6HFZ4XQ/",
+      "image": null,
+      "date": "2026-08-26T09:39:33+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Barack Obama, Beyoncé, Jane Fonda… les Etats-Unis sans clivages face à la mort de Dolly Parton",
+      "desc": "De Fox News à CNN, de Trump à Biden, à Los Angeles comme dans le Tennessee, les Américains semblent pour une fois unis après l’annonce de la mort de la chanteuse, mardi à 80 ans.",
+      "url": "https://www.liberation.fr/international/amerique/barack-obama-beyonce-jane-fonda-les-etats-unis-sans-clivages-face-a-la-mort-de-dolly-parton-20260826_WITGXO4ZSVHNHEKU5BIFFCYQDU/",
+      "image": null,
+      "date": "2026-08-26T09:26:51+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’origine professionnelle du cancer du sein d’une hôtesse de l’air reconnue pour la première fois en France, selon son avocate",
+      "desc": "Cette décision inédite pourrait encourager d’autres catégories de personnel navigant à faire reconnaître l’origine professionnelle de leur maladie, malgré un parcours souvent semé d’obstacles administratifs.",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/26/l-origine-professionnelle-du-cancer-du-sein-d-une-hotesse-de-l-air-reconnue-pour-la-premiere-fois-en-france-selon-son-avocate_6757182_3224.html",
+      "image": "https://img.lemde.fr/2026/08/26/183/0/5000/2500/644/322/60/0/1228a47_upload-1-lswpg4xzu0gz-000-a2p46nq.jpg",
+      "date": "2026-08-26T09:04:53+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "PODCAST. La country perd une star, le rap en cherche une et une grève de la faim contre la sérophobie : ça dit quoi ce 26 août ?",
+      "desc": "Ce mercredi 26 août, l'icône de la country américaine Dolly Parton est morte à 80 ans, Nouvelle École revient et deux militants séropositifs appellent à la manifestation pour que la sérophobie soit punie par la loi.",
+      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-country-perd-une-star-le-rap-en-cherche-une-et-une-greve-de-la-faim-contre-la-serophobie-ca-dit-quoi-ce-26-aout_8154170.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/aF-Wf-IJ1NzE4d0XlaF5ondZLO8/0x113:2176x1337/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8e8ebf38050397136397.jpg",
+      "date": "2026-08-26T09:00:35+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une hôtesse de l’air obtient de la justice la reconnaissance de son cancer du sein comme maladie professionnelle",
+      "desc": "Aujourd’hui âgée de 59 ans et en rémission de sa maladie, elle a fait valoir son travail de nuit, son exposition au tabagisme passif et aux rayonnements ionisants. Cette décision inédite en France pourrait ouvrir la voie à d’autres catégories de personnels navigants.",
+      "url": "https://www.liberation.fr/economie/social/une-hotesse-de-lair-obtient-de-la-justice-la-reconnaissance-de-son-cancer-du-sein-comme-maladie-professionnelle-20260826_FENBTS26PNEVFBTXDJ62VBOZBE/",
+      "image": null,
+      "date": "2026-08-26T08:19:39+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "L'âge est le principal facteur de risque de fausse couche, selon une étude",
-      "desc": "La probabilité qu'une grossesse se termine par une fausse couche chez les femmes de moins de 20 ans dépasse 10%, selon l'Institut national d'études démographiques. Elle diminue ensuite et atteint jusqu'à 23% à 45 ans.",
+      "desc": "La probabilité qu'une grossesse se termine par une fausse couche chez les femmes de moins de 20 ans dépasse 10%, selon l'Institut national d'études démographiques. Elle diminue ensuite, mais atteint jusqu'à 23% à 45 ans.",
       "url": "https://www.franceinfo.fr/sante/l-age-est-le-principal-facteur-de-risque-de-fausse-couche-selon-une-etude_8161895.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/4nx7fFVMzLImAnRoCPDXngzbkQE/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8e80c65a650851016862.jpg",
+      "image": "https://www.franceinfo.fr/pictures/srKlcYjFHqGWuV8WldKabrauRag/0x25:1024x601/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8e80c65a650851016862.jpg",
       "date": "2026-08-26T08:02:02+00:00",
       "date_formatted": "26 August 2026",
       "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "En fonction de l’âge, les femmes ont plus ou moins de risques de faire une fausse couche",
+      "desc": "Entre 10 et 14 % des grossesses se terminent par une fausse couche et la grande majorité ont lieu pendant le premier trimestre de la grossesse, selon une étude de l’Ined",
+      "url": "https://www.20minutes.fr/sante/4240995-20260826-fonction-age-femmes-plus-moins-risques-faire-fausse-couche?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/pEYwdYldR8SSeR2MaVkEoCk/1200x768_photo-symbolique-enregistrement-gestuel-sur-le-theme-de-la-fausse-couche-l-image-echographique-d-un-enfant-a-naitre-se-trouve-a-cote-d-un-animal-en-peluche-tandis-qu-une-femme-en-arriere-plan-met-son-visage-dans-ses-mains-berlin-le-22-aout-2023-photo-de-thomas-trutschel-photothek-dpa-picture-alliance-via-afp",
+      "date": "2026-08-26T07:35:33+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Que faut-il savoir sur le vaccin à ARN contre le mélanome ?",
+      "desc": "Moderna a annoncé des résultats très positifs pour son premier vaccin à ARN contre le cancer. Voici cinq points pour comprendre cette avancée.",
+      "url": "https://www.sciencesetavenir.fr/sante/que-faut-il-savoir-sur-le-vaccin-a-arn-contre-le-melanome_194434?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/25/cover-r4x3w1200-6a8d98e6bbd29-afp-20260819-bsip-016961-069-v1-highres-dubreuilhsmelanomaoftheeyelid.jpg",
+      "date": "2026-08-26T07:13:28+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Une mutation génétique rare réduit de 60 % le risque de maladies cardio-vasculaires",
@@ -43,7 +183,7 @@
       "type": "presse"
     },
     {
-      "title": "Rougeole aux Etats-Unis : deux nouveaux décès en Pennsylvanie",
+      "title": "Rougeole aux Etats-Unis : deux nouveaux morts en Pennsylvanie",
       "desc": "Ces morts, qui s’ajoutent aux trois autres décomptées en 2025, sont survenues chez des personnes qui n’étaient pas vaccinées, un quart de siècle après que la maladie avait été déclarée éliminée du pays grâce à la vaccination.",
       "url": "https://www.lemonde.fr/international/article/2026/08/26/rougeole-aux-etats-unis-deux-nouveaux-deces-en-pennsylvanie_6756663_3210.html",
       "image": "https://img.lemde.fr/2026/08/25/336/0/4032/2016/644/322/60/0/0e67a25_upload-1-w9wqsdakwnmv-2025-03-14t190045z-1887334777-rc20ddaf6vvh-rtrmadp-3-usa-health-measles-new-york.JPG",
@@ -53,34 +193,14 @@
       "type": "presse"
     },
     {
-      "title": "La hausse du ticket modérateur et des plafonds des franchises médicales, des mesures décriées par mutuelles, professionnels de santé et associations de patients",
-      "desc": "Le gouvernement cible les usagers du système de santé pour combler le déficit de l’Assurance-maladie. Un choix qui écorne le principe de solidarité, regrettent nombre d’acteurs de la santé.",
+      "title": "La hausse du ticket modérateur et celle des plafonds des franchises médicales, des décisions critiquées par les mutuelles, les professionnels de santé et les associations de patients",
+      "desc": "Le gouvernement cible les usagers pour combler le déficit de l’Assurance-maladie. Un choix qui écorne le principe de solidarité, regrettent nombre d’acteurs de la santé.",
       "url": "https://www.lemonde.fr/societe/article/2026/08/25/assurance-maladie-mutuelles-professionnels-de-sante-et-associations-de-patients-inquiets-de-la-hausse-du-ticket-moderateur-et-des-plafonds-des-franchises_6756628_3224.html",
       "image": "https://img.lemde.fr/2026/08/25/277/0/2185/1092/644/322/60/0/91d9e90_upload-1-knmebtqwdpgf-image1.jpeg",
       "date": "2026-08-25T23:19:55+00:00",
       "date_formatted": "25 August 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Mort de Dolly Parton, transparence salariale, un million d’enfants en malnutrition en Afghanistan… L’actu de ce mardi 25 août",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mardi 25 août.",
-      "url": "https://www.liberation.fr/international/europe/transparence-salariale-sophie-adenot-dans-lespace-un-million-denfants-en-malnutrition-en-afghanistan-lactu-de-ce-mardi-25-aout-20260825_YKOJF5IBFJC6XE3EFTA4TEZP44/",
-      "image": null,
-      "date": "2026-08-25T19:34:34+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Dolly Parton, légende de la musique country",
-      "desc": "La chanteuse américaine, autrice et compositrice, était âgée de 80 ans. En soixante ans de carrière, elle aura sorti des dizaines d’albums et vendu plus de cent millions de disques.",
-      "url": "https://www.liberation.fr/culture/musique/mort-de-dolly-parton-legende-de-la-musique-country-20260825_FD3XEKDDONHXFCFJN3U6EG4OVA/",
-      "image": null,
-      "date": "2026-08-25T19:04:55+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "VIH : deux hommes séropositifs en grève de la faim, victimes de harcèlement et de menaces de mort, seront reçus par Aurore Bergé le 2 septembre",
@@ -96,7 +216,7 @@
       "title": "En RDC, la colère des soignants, en première ligne face à Ebola, mais rarement payés",
       "desc": "Depuis début juillet, les agents de santé confrontés à l’épidémie multiplient les grèves sporadiques pour réclamer le paiement de leur salaire. Le gouvernement a reconnu des détournements de fonds qui fragilisent la riposte contre la maladie à virus Ebola.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/25/en-rdc-la-colere-des-soignants-en-premiere-ligne-face-a-ebola-mais-rarement-payes_6756602_3212.html",
-      "image": "https://img.lemde.fr/2026/08/06/313/0/5000/2500/644/322/60/0/59512f0_ftp-1-xifeyt6cbrv1-43f5651fc593443d9e191a3b74d20ac3-1-8c4215a4a16344c6835a2b295a973f93.jpg",
+      "image": "https://img.lemde.fr/2026/08/06/190/0/5000/2500/644/322/60/0/59512f0_ftp-1-xifeyt6cbrv1-43f5651fc593443d9e191a3b74d20ac3-1-8c4215a4a16344c6835a2b295a973f93.jpg",
       "date": "2026-08-25T18:00:01+00:00",
       "date_formatted": "25 August 2026",
       "source": "Le Monde Santé",
@@ -243,16 +363,6 @@
       "type": "science"
     },
     {
-      "title": "Moustiques, la grande invasion",
-      "desc": "À l'origine ils vivaient dans les forêts. Mais cela fait bien longtemps qu'ils en sont sortis pour notre plus grand malheur. Les moustiques, vecteurs de maladies qui tuent chaque année 1 million de personnes dans le monde, sont sans doute les seuls animaux que certains pourraient vouloir éradiquer. ",
-      "url": "https://www.franceinfo.fr/sante/moustiques-la-grande-invasion_8158187.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Fg7B5QUYu93TLQjTWjLWzR9aOZI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/23/6a8ab82b6f2a3328859379.jpg",
-      "date": "2026-08-23T15:00:01+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer de l'estomac : les scientifiques alertent sur une bactérie très répandue mais souvent ignorée",
       "desc": "15,6 millions : c'est le nombre de cancers de l'estomac que les chercheurs anticipent pour les générations nées entre 2008 et 2017. Trois cas sur quatre seraient liés à une seule bactérie, détectable et traitable. Une opportunité de prévention massive que l'on ne peut pas se permettre d'ignorer.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-estomac-cancer-estomac-scientifiques-alertent-bacterie-tres-repandue-mais-souvent-ignoree-k2m6-137050/#xtor%3DRSS-8",
@@ -383,26 +493,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola en RDC : l’OMS déploie 70 000 doses du vaccin Ervebo",
-      "desc": "Le vaccin est homologué contre la souche Zaïre du virus, mais pas contre la souche Bundibugyo qui sévit actuellement dans le pays. Il pourrait toutefois offrir une certaine protection.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/20/ebola-en-rdc-l-oms-deploie-70-000-doses-du-vaccin-ervebo_6750970_3212.html",
-      "image": "https://img.lemde.fr/2026/08/20/536/0/4928/2464/644/322/60/0/36824b8_ftp-1-b21wfpyj4exy-5879798-01-06.jpg",
-      "date": "2026-08-20T14:44:36+00:00",
-      "date_formatted": "20 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le médicament Tavneos, destiné à traiter certaines maladies auto-immunes rares, retiré du marché en France après plusieurs morts à l’étranger",
-      "desc": "Au printemps, le groupe Kissei, qui commercialise Tavneos au Japon, a fait état d’une vingtaine de morts parmi les patients traités depuis l’introduction du médicament sur le marché japonais en 2022. En France, selon l’ANSM, il est prescrit à 600 patients.",
-      "url": "https://www.lemonde.fr/sante/article/2026/08/19/le-medicament-tavneos-retire-du-marche-francais-apres-le-signalement-de-plusieurs-morts-a-l-etranger_6749876_1651302.html",
-      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/38ec457_upload-1-pp9dio4dwjlw-frame-340.jpg",
-      "date": "2026-08-19T15:42:28+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Les supercentenaires ont une immunité optimisée",
       "desc": "La population de cellules immunitaires change chez les personnes à l’âge très avancé, probablement pour ralentir le vieillissement et mieux les protéger contre le cancer.",
       "url": "https://www.sciencesetavenir.fr/sante/supercentenaires-pourquoi-leur-systeme-immunitaire-vieillit-differemment_194344?xtor=RSS-16",
@@ -420,16 +510,6 @@
       "date": "2026-08-19T08:38:02+00:00",
       "date_formatted": "19 August 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "« La plupart des effets inattendus se sont révélés positifs » : les surprises d’Ozempic, Wegovy et Mounjaro… au-delà du poids",
-      "desc": "Ces traitements de l’obésité et d’autres maladies métaboliques (diabète) ne cessent de faire parler d’eux ces dernières années pour leurs effets spectaculaires sur la perte de poids. Dans un éditorial, des chercheurs reviennent sur les effets inattendus de ces médicaments, qu’ils soient positifs...",
-      "url": "https://www.futura-sciences.com/sante/actualites/obesite-plupart-effets-inattendus-sont-reveles-positifs-surprises-ozempic-wegovy-mounjaro-dela-poids-137119/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/0/1/601acf16f1_50259572_ozempic-autres-effets.jpg",
-      "date": "2026-08-18T11:43:19+00:00",
-      "date_formatted": "18 August 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
