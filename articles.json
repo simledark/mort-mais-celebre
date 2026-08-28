@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-27T16:58:21.701264+00:00",
-  "count": 82,
+  "generated_at": "2026-08-28T01:50:40.094854+00:00",
+  "count": 84,
   "articles": [
+    {
+      "title": "Mort de Yayoi Kusama, une vision hors norme",
+      "desc": "L’immense artiste japonaise disparue le 14 août, qui résidait depuis la fin des années 70 dans un hôpital psychiatrique, avait apprivoisé ses hallucinations, sublimées par une esthétique entre le monumental et les contes de fées.",
+      "url": "https://www.liberation.fr/culture/mort-de-yayoi-kusama-une-vision-hors-norme-20260827_ACL7ERGHWVFNROJSEEELAMF7IU/",
+      "image": null,
+      "date": "2026-08-27T18:55:51+00:00",
+      "date_formatted": "27 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Le cancer du sein d'une hôtesse de l'air reconnu comme maladie professionnelle",
       "desc": "Le cancer du sein de Sophie Lainault, hôtesse de l'air pendant 30 ans, a été reconnu comme maladie professionnelle, \"une première\" dans le secteur aérien. Le tribunal a souligné l'impact du travail de nuit, de l'exposition aux rayonnements ionisants et au tabagisme passif subi par la plaignante.",
@@ -10,6 +20,36 @@
       "date": "2026-08-27T18:48:36+00:00",
       "date_formatted": "27 August 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Yayoi Kusama, une artiste de pois",
+      "desc": "Véritable icône de l’art contemporain, l’extravagante Japonaise, qui vivait à l’hôpital psychiatrique depuis cinquante ans, a semé ses citrouilles et petits pois dans les musées de toute la planète. Elle est morte le 14 août à 97 ans.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-a-97-ans-de-yayoi-kusama-princesse-de-lart-aux-petits-pois-20260827_IMJRCFKLSVDVZC5GGBWOQQ4TUI/",
+      "image": null,
+      "date": "2026-08-27T18:25:08+00:00",
+      "date_formatted": "27 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Crue au Népal : en pleine désolation, la peur d’un nouveau déluge",
+      "desc": "La crue destructrice de mercredi 26 août a créé des retenues d’eau qui menacent de rompre, dans une région frontalière à l’accès difficile. Le bilan, toujours incertain, s’élève au moins à 392 morts et plus de 1 400 disparus.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/crue-au-nepal-en-pleine-desolation-la-peur-dun-nouveau-deluge-20260827_FG2TPJX6DNAFVOCAVCKSG3SDV4/",
+      "image": null,
+      "date": "2026-08-27T18:07:15+00:00",
+      "date_formatted": "27 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Yayoi Kusama : au Japon, des hommages multimédias et multigénérationnels",
+      "desc": "Saluant le parcours d’une «avant-gardiste mondialement connue» sans trop s’attarder sur ses difficultés, les médias nippons ont republié des archives liées à l’artiste disparue le 14 août, honorée aussi bien sur les réseaux sociaux que dans les centres commerciaux.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-de-yayoi-kusama-au-japon-des-hommages-multimedias-et-multigenerationnels-20260827_KNXE3D6LZ5B2TJXIXMIEIWR26A/",
+      "image": null,
+      "date": "2026-08-27T17:45:42+00:00",
+      "date_formatted": "27 August 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -23,7 +63,7 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Inondations au Népal : près de 400 morts, plus de 1 400 personnes disparues, dont quatre Français",
+      "title": "Inondations au Népal : près de 400 morts, plus de 1 400 personnes disparues, dont quatre Français",
       "desc": "La crue a été provoquée par l’effondrement d’un glacier. De nombreux touristes étrangers figurent parmi les disparus.",
       "url": "https://www.liberation.fr/international/en-direct-coulees-de-boue-en-chine-et-au-nepal-quatre-francais-parmi-les-disparus-selon-loffice-nepalais-du-tourisme-20260827_VL5NPBRYLREPLKICEKYJABAHNY/",
       "image": null,
@@ -50,16 +90,6 @@
       "date": "2026-08-27T16:12:31+00:00",
       "date_formatted": "27 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN IMAGES - Yayoi Kusama, de l’avant-garde new-yorkaise à la reconnaissance planétaire",
-      "desc": "L’artiste japonaise Yayoi Kusama est morte à l’âge de 97 ans. Considérée comme précurseure d’Andy Warhol et de Keith Haring, elle a créé une œuvre entêtante, marquée en peinture par la répétition de motifs, notamment du filet et du point.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/en-images-yayoi-kusama-de-lavant-garde-new-yorkaise-a-la-reconnaissance-planetaire-20260827_I3DU65O6EVAXREYVOJLQ6K3JBM/",
-      "image": null,
-      "date": "2026-08-27T14:38:59+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -580,16 +610,6 @@
       "date": "2026-08-21T19:01:08+00:00",
       "date_formatted": "21 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La Birmanie enregistre une épidémie de choléra sur fond de baisse de la couverture vaccinale des enfants",
-      "desc": "Flambée de contaminations bactériennes à Rangoun favorisée par des inondations massives, réémergence de maladies par manque de vaccination… le pays, en défaillance médicale, continue de payer un lourd tribut à la guerre civile en matière de santé.",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/21/la-birmanie-enregistre-une-epidemie-de-cholera-sur-fond-de-baisse-de-la-couverture-vaccinale-des-enfants_6752263_3244.html",
-      "image": "https://img.lemde.fr/2026/08/14/89/0/2853/1426/644/322/60/0/bf8ac8f_ftp-1-9cgnvxhtjx5t-c341fb072a7346eb9e306ded6e3f7b53-0-6fc281652e9c4d4f9eccb5467a590434.jpg",
-      "date": "2026-08-21T17:00:08+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
