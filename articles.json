@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-08-28T01:50:40.094854+00:00",
-  "count": 84,
+  "generated_at": "2026-08-28T17:48:04.501203+00:00",
+  "count": 72,
   "articles": [
     {
-      "title": "Mort de Yayoi Kusama, une vision hors norme",
-      "desc": "L’immense artiste japonaise disparue le 14 août, qui résidait depuis la fin des années 70 dans un hôpital psychiatrique, avait apprivoisé ses hallucinations, sublimées par une esthétique entre le monumental et les contes de fées.",
-      "url": "https://www.liberation.fr/culture/mort-de-yayoi-kusama-une-vision-hors-norme-20260827_ACL7ERGHWVFNROJSEEELAMF7IU/",
+      "title": "Vrai ou faux. Les arrêts de travail courts sont-ils prescrits en \"open bar\" comme l'affirme Edouard Philippe ?",
+      "desc": "Face au coût des arrêts maladies, le candidat dans la course pour l'Elysée Édouard Philippe a affirmé vouloir \"mettre fin\" à ce qu'il qualifie \"d'open bar des arrêts de travail\". Les contours de leur délivrance sont-ils aussi flous qu'il l'affirme ? Les téléconsultations posent-elles problème ? Fran",
+      "url": "https://www.franceinfo.fr/sante/les-arrets-de-travail-courts-sont-ils-prescrits-en-open-bar-comme-l-affirme-edouard-philippe_8166740.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GKCKhVk1qpHvyHLSNpNtIAQ5XiM/0x0:3252x1829/432x243/filters:format(jpg)/2026/08/28/6a91aa02a3b0c045389661.jpg",
+      "date": "2026-08-28T17:51:48+00:00",
+      "date_formatted": "28 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Israël mène une frappe en Cisjordanie, et dit avoir tué «trois terroristes»",
+      "desc": "Parmi les morts figure Qaïs Bitawi, décrit comme «l’un des dirigeants les plus éminents des Brigades d’Al-Qods». Une telle opération est rare dans ce territoire palestinien.",
+      "url": "https://www.liberation.fr/international/moyen-orient/israel-mene-une-frappe-en-cisjordanie-et-dit-avoir-tue-trois-terroristes-20260828_LNMGBPBH5JCANLXWCU7FH3P3ZY/",
       "image": null,
-      "date": "2026-08-27T18:55:51+00:00",
-      "date_formatted": "27 August 2026",
+      "date": "2026-08-28T17:26:32+00:00",
+      "date_formatted": "28 August 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus",
+      "desc": "Après la crue monstre causée mercredi par l’effondrement d’un glacier, les autorités font état d’au moins 584 morts. De nombreux touristes étrangers manquent encore à l’appel.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-pres-de-470-morts-les-secours-recherchent-encore-plus-de-1-400-personnes-disparues-20260828_3YH7G5YVINEDNCRRIXJI2QORLM/",
+      "image": null,
+      "date": "2026-08-28T17:06:10+00:00",
+      "date_formatted": "28 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aux États-Unis, une IA fabrique des virus qui combattent les bactéries",
+      "desc": "Des chercheurs de la prestigieuse université californienne de Stanford ont développé une intelligence artificielle capable de créer des virus bactériophages.",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-ia-fabrique-des-virus-qui-combattent-les-bacteries_8138975.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/W0lu18bbUPkxZdqIxCaIiAaKcEU/0x79:1024x655/432x243/filters:format(jpg)/2026/08/28/6a912f488b914585452525.jpg",
+      "date": "2026-08-28T15:30:02+00:00",
+      "date_formatted": "28 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer : ces ondes cérébrales pourraient trahir la maladie bien avant les premiers symptômes",
+      "desc": "Certaines ondes cérébrales lentes, détectables par un simple électroencéphalogramme, pourraient signaler un risque accru de développer la maladie d’Alzheimer. Des chercheurs de l’Inserm ont observé une association entre leur amplitude et les marqueurs cérébraux de la maladie. Un biomarqueur...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ces-ondes-cerebrales-pourraient-trahir-maladie-bien-avant-premiers-symptomes-137372/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/8/e/38e774bed4_50260077_alzheimer-biomarqueur-precoce.jpg",
+      "date": "2026-08-28T13:33:59+00:00",
+      "date_formatted": "28 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Une vaste étude révèle que ceux qui dorment ce nombre d’heures chaque jour vieillissent moins vite que les autres",
+      "desc": "Et si vos nuits en disaient long sur l’âge réel de votre organisme ? Une vaste étude menée auprès de près de 500 000 personnes révèle un lien frappant entre la durée du sommeil et le vieillissement biologique de nombreux organes. Cerveau, cœur, foie, reins, poumons… les effets observés dessinent...",
+      "url": "https://www.futura-sciences.com/sante/actualites/sommeil-vaste-etude-revele-ceux-dorment-ce-nombre-heures-chaque-jour-vieillissent-moins-vite-autres-137363/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/e/d/5edb7a7cee_50260057_temps-sommeil.jpg",
+      "date": "2026-08-28T05:03:10+00:00",
+      "date_formatted": "28 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Le cancer du sein d'une hôtesse de l'air reconnu comme maladie professionnelle",
@@ -23,36 +73,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort de Yayoi Kusama, une artiste de pois",
-      "desc": "Véritable icône de l’art contemporain, l’extravagante Japonaise, qui vivait à l’hôpital psychiatrique depuis cinquante ans, a semé ses citrouilles et petits pois dans les musées de toute la planète. Elle est morte le 14 août à 97 ans.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-a-97-ans-de-yayoi-kusama-princesse-de-lart-aux-petits-pois-20260827_IMJRCFKLSVDVZC5GGBWOQQ4TUI/",
-      "image": null,
-      "date": "2026-08-27T18:25:08+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Crue au Népal : en pleine désolation, la peur d’un nouveau déluge",
-      "desc": "La crue destructrice de mercredi 26 août a créé des retenues d’eau qui menacent de rompre, dans une région frontalière à l’accès difficile. Le bilan, toujours incertain, s’élève au moins à 392 morts et plus de 1 400 disparus.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/crue-au-nepal-en-pleine-desolation-la-peur-dun-nouveau-deluge-20260827_FG2TPJX6DNAFVOCAVCKSG3SDV4/",
-      "image": null,
-      "date": "2026-08-27T18:07:15+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Yayoi Kusama : au Japon, des hommages multimédias et multigénérationnels",
-      "desc": "Saluant le parcours d’une «avant-gardiste mondialement connue» sans trop s’attarder sur ses difficultés, les médias nippons ont republié des archives liées à l’artiste disparue le 14 août, honorée aussi bien sur les réseaux sociaux que dans les centres commerciaux.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-de-yayoi-kusama-au-japon-des-hommages-multimedias-et-multigenerationnels-20260827_KNXE3D6LZ5B2TJXIXMIEIWR26A/",
-      "image": null,
-      "date": "2026-08-27T17:45:42+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "L’OMS déclare la fin de l’épidémie causée par le virus Ebola en Ouganda",
       "desc": "En l’absence de nouvelle contamination recensée 42 jours après la sortie du dernier malade de l’hôpital, l’Organisation a déclaré la fin de l’épidémie en Ouganda. L’épidémie continue cependant de faire rage en République démocratique du Congo.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/27/l-oms-declare-la-fin-de-l-epidemie-causee-par-le-virus-ebola-en-ouganda_6758488_3212.html",
@@ -60,26 +80,6 @@
       "date": "2026-08-27T17:36:33+00:00",
       "date_formatted": "27 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Inondations au Népal : près de 400 morts, plus de 1 400 personnes disparues, dont quatre Français",
-      "desc": "La crue a été provoquée par l’effondrement d’un glacier. De nombreux touristes étrangers figurent parmi les disparus.",
-      "url": "https://www.liberation.fr/international/en-direct-coulees-de-boue-en-chine-et-au-nepal-quatre-francais-parmi-les-disparus-selon-loffice-nepalais-du-tourisme-20260827_VL5NPBRYLREPLKICEKYJABAHNY/",
-      "image": null,
-      "date": "2026-08-27T16:47:18+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Fifa : l’UEFA prépare une plainte pour «gestion déloyale» contre Infantino",
-      "desc": "L’instance européenne estime dans une requête préliminaire que le projet mort-né du Suisse d’ouvrir le Coupe du monde à des investisseurs privés «a infligé un préjudice direct et concret à la réputation de la Fifa».",
-      "url": "https://www.liberation.fr/sports/football/fifa-luefa-prepare-une-plainte-pour-gestion-deloyale-contre-infantino-20260827_2OMLDO2I2VAUTAGHQYQBA6QJ2I/",
-      "image": null,
-      "date": "2026-08-27T16:33:38+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -223,16 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "Comment bien retirer une tique",
-      "desc": "🧐 Les tiques sont particulièrement présentes en été et une simple balade dans les hautes herbes peut suffire à en ramener une. Julien Ménielle nous explique les gestes pour la retirer correctement, sans augmenter le risque de transmission de maladies.",
-      "url": "https://www.franceinfo.fr/sante/comment-bien-retirer-une-tique_8147291.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/AGTPp18-xjnwAUX55tHRk3r97vo/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/14/6a7ed6697bc2b670504256.jpg",
-      "date": "2026-08-26T16:00:01+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Allemagne : C’est quoi ce « paludisme d’aéroport » qui vient de faire un mort à Francfort ?",
       "desc": "Un employé de l’aéroport de Francfort est décédé du paludisme après l’arrivée probable d’un moustique infecté à bord d’un avion",
       "url": "https://www.20minutes.fr/sante/4241116-20260826-allemagne-quoi-paludisme-aeroport-vient-faire-mort-francfort?at_medium=display&at_campaign=149",
@@ -283,16 +273,6 @@
       "type": "presse"
     },
     {
-      "title": "Le cancer du sein d'une hôtesse de l'air reconnu comme maladie professionnelle, \"une première\" dans le secteur aérien en France, selon l'avocate de la patiente",
-      "desc": "Le tribunal a souligné l'impact du travail de nuit, de l'exposition aux rayonnements ionisants et au tabagisme passif de la plaignante.",
-      "url": "https://www.franceinfo.fr/sante/le-cancer-du-sein-d-une-hotesse-de-l-air-reconnu-comme-maladie-professionnelle-une-premiere-dans-le-secteur-aerien-en-france-selon-l-avocate-de-la-patiente_8161973.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/M0Dr9i_wXB_Bg2LiARCavmQlOvA/0x32:1024x608/432x243/filters:format(jpg)/2026/08/26/6a8e95be1b616610589990.jpg",
-      "date": "2026-08-26T09:44:18+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "L’origine professionnelle du cancer du sein d’une hôtesse de l’air reconnue pour la première fois en France, selon son avocate",
       "desc": "Cette décision inédite pourrait encourager d’autres catégories de personnel navigant à faire reconnaître l’origine professionnelle de leur maladie, malgré un parcours souvent semé d’obstacles administratifs.",
       "url": "https://www.lemonde.fr/societe/article/2026/08/26/l-origine-professionnelle-du-cancer-du-sein-d-une-hotesse-de-l-air-reconnue-pour-la-premiere-fois-en-france-selon-son-avocate_6757182_3224.html",
@@ -300,26 +280,6 @@
       "date": "2026-08-26T09:04:53+00:00",
       "date_formatted": "26 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "PODCAST. La country perd une star, le rap en cherche une et une grève de la faim contre la sérophobie : ça dit quoi ce 26 août ?",
-      "desc": "Ce mercredi 26 août, l'icône de la country américaine Dolly Parton est morte à 80 ans, Nouvelle École revient et deux militants séropositifs appellent à la manifestation pour que la sérophobie soit punie par la loi.",
-      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-country-perd-une-star-le-rap-en-cherche-une-et-une-greve-de-la-faim-contre-la-serophobie-ca-dit-quoi-ce-26-aout_8154170.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/BH0RST0RhkUyTFwPFkiM5k9P-04/0x113:2176x1337/432x243/filters:format(jpg)/2026/08/26/6a8e8ebf38050397136397.jpg",
-      "date": "2026-08-26T09:00:35+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'âge est le principal facteur de risque de fausse couche, selon une étude",
-      "desc": "La probabilité qu'une grossesse se termine par une fausse couche chez les femmes de moins de 20 ans dépasse 10%, selon l'Institut national d'études démographiques. Elle diminue ensuite, mais atteint jusqu'à 23% à 45 ans.",
-      "url": "https://www.franceinfo.fr/sante/l-age-est-le-principal-facteur-de-risque-de-fausse-couche-selon-une-etude_8161895.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/z-P05tJySG7iIeRVhtQycSKQ-88/0x25:1024x601/432x243/filters:format(jpg)/2026/08/26/6a8e80c65a650851016862.jpg",
-      "date": "2026-08-26T08:02:02+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -351,26 +311,6 @@
       "date_formatted": "26 August 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Assurance maladie, qui fraude le plus ?",
-      "desc": "70 % du montant de la fraude à l’Assurance maladie est dû aux professionnels de santé.",
-      "url": "https://www.franceinfo.fr/sante/assurance-maladie-qui-fraude-le-plus_8161070.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/8VI90fFWsvr7EK9bvDiRdd-bD9M/0x0:720x1280/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/25/6a8daff635344170771515.jpg",
-      "date": "2026-08-26T06:00:13+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Propagation exponentielle, mortalité proche de 50%, pas de vaccin... Ce que l'on sait de l'épidémie d'Ebola la plus meurtrière de l'histoire de la RDC",
-      "desc": "L'OMS a appelé les autorités de la République démocratique du Congo à prendre des mesures pour limiter les grands rassemblements et tenter d'enrayer la propagation du virus.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/propagation-exponentielle-mortalite-proche-de-50-pas-de-vaccin-ce-que-l-on-sait-de-l-epidemie-d-ebola-la-plus-meurtriere-de-l-histoire-de-la-rdc_8159393.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cpY9I492gNP1ge0hqFD5xG2gi98/0x53:1024x629/432x243/filters:format(jpg)/2026/08/24/6a8c5cf85c4a2246663966.jpg",
-      "date": "2026-08-26T05:56:00+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Rougeole aux Etats-Unis : deux nouveaux morts en Pennsylvanie",
@@ -569,66 +509,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/f/b/1fb9db68f2_50259418_rythme-circadien-signes-alzheimer.jpg",
       "date": "2026-08-23T08:00:00+00:00",
       "date_formatted": "23 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Macédoine du Nord : Cinq morts infectés par le virus du Nil occidental",
-      "desc": "Cinq décès ont été recensés ce samedi en Macédoine du Nord dus à cette infection transmise par les moustiques et pour laquelle il n’existe pas de traitement",
-      "url": "https://www.20minutes.fr/monde/4240374-20260823-macedoine-nord-cinq-personnes-meurent-virus-nil-occidental?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/cOIRCA7AQGG6l2FkWs6hWCk/1200x768_un-moustique-tigre-est-perche-sur-l-avant-bras-d-une-personne-dans-le-cimetiere-de-terre-cabade-le-26-mai-2026-a-toulouse-dans-le-sud-de-la-france-un-tigre-moustique-est-pose-sur-l-avant-bras-d-une-personne-dans-le-cimetiere-de-terre-cabade-le-26-mai-2026-a-toulouse-dans-le-sud-de-la-france-scheiber-scheiber0477-credit-fred-scheiber-sipa-2605271620",
-      "date": "2026-08-23T07:57:12+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Talc : la plus grosse proposition d'accord jamais formulée pourrait solder des années de procédures",
-      "desc": "76 000 plaignants. 5,5 milliards de dollars. Un géant pharmaceutique acculé par des dizaines de milliers de familles qui l'accusent d'avoir vendu un produit cancérigène pendant des décennies. L'affaire Johnson & Johnson et son talc bébé représente l'un des plus grands scandales sanitaires de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-talc-plus-grosse-proposition-accord-jamais-formulee-pourrait-solder-annees-procedures-k2m6-137048/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/c/9/6c98ef67bd_50259547_scandale-sanitaire-talc-amiante.jpg",
-      "date": "2026-08-22T10:00:00+00:00",
-      "date_formatted": "22 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "La canicule, piège silencieux pour les personnes atteintes de maladies chroniques",
-      "desc": "Les malades qui souffrent d’insuffisance cardiaque, rénale ou de troubles psychiatriques sont particulièrement fragiles lors des vagues de chaleur. Le corps médical se heurte à plusieurs difficultés pour adapter et maintenir leurs traitements.",
-      "url": "https://www.lemonde.fr/sante/article/2026/08/22/la-canicule-piege-silencieux-pour-les-personnes-atteintes-de-maladies-chroniques_6752521_1651302.html",
-      "image": "https://img.lemde.fr/2026/08/21/329/0/8000/4000/644/322/60/0/49a20d6_upload-1-ntayful4g1sg-000-b82x2we.jpg",
-      "date": "2026-08-22T05:00:00+00:00",
-      "date_formatted": "22 August 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Royaume-Uni : Le python « Jodie Foster » se remet d’un cancer grâce à un traitement de pointe",
-      "desc": "Un python de 4,5 mètres du zoo de Chester est en rémission après avoir reçu une électrochimiothérapie contre une tumeur cancéreuse. Ce traitement inédit chez un serpent ouvre une nouvelle piste en médecine vétérinaire",
-      "url": "https://www.20minutes.fr/sante/4240295-20260821-royaume-uni-python-jodie-foster-remet-cancer-grace-traitement-pointe?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/8yISiPPrTRevAGlS5bDJPCk/1200x768_17-juillet-2025-kebumen-centre-de-java-indonesie-mundiing-aji-un-amoureux-des-pythons-malayopython-reticulatus-nettoie-la-cage-a-serpents-de-sa-maison-du-hameau-de-gunungsari-sous-district-de-pejagoan-regence-de-kebumen-centre-de-java-le-17-juillet-2025-10-pythons-sont-devenus-monnaie-courante-pour-les-residents-locaux-munding-aji-s-occupe-de-10-serpents-mesurant-6-a-10-metres-et-pesant-de-100-a-400-kg-dans-son-jardin-sa-famille-est-amie-avec-les-animaux-rampants-depuis-15-ans-les-serpents-proviennent-non-seulement-de-l-ile-de-java-mais-aussi-de-sumatra-et-de-kalimantan-ses-serpents-de-compagnie-portent-egalement-des-noms-en-plus-d-errer-dans-la-maison-le-python-dispose-egalement-d-une-cage-speciale-pour-se-tremper-dans-l-eau-se-reposer-et-manger-soin-des-serpents-nettoyez-simplement-la-terre-et-nourrissez-le-une-fois-par-mois-avec-un-serpent-qui-recoit-10-poulets-et-certains-en-depensent-20-en-un-seul-repas-credit-image-dasril-roszandi-zuma-press-wire-sipa60039324-000001-zeus-2507271212",
-      "date": "2026-08-21T19:01:08+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le Covid-19 pourrait réveiller des virus cachés dans votre corps, même si vous êtes en bonne santé !",
-      "desc": "Le Covid-19 pourrait-il réveiller des virus endormis dans notre organisme, comme l’Epstein-Barr ou les herpèsvirus ? Une étude de l'université du Texas révèle que l’infection pourrait réactiver des virus dormants et cela, même chez des personnes en bonne santé. Ce phénomène pourrait expliquer...",
-      "url": "https://www.futura-sciences.com/sante/actualites/covid-19-covid-19-pourrait-reveiller-virus-caches-votre-corps-meme-si-vous-etes-bonne-sante-137181/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/d/5/0d5820b6ed_50259734_covid-19-virus-dormants.jpg",
-      "date": "2026-08-21T11:13:26+00:00",
-      "date_formatted": "21 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Et si la maladie d'Alzheimer était aussi liée à une bactérie présente dans notre bouche ?",
-      "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-maladie-alzheimer-etait-aussi-liee-bacterie-presente-notre-bouche-w2t8-136994/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/b/4/6b4826a976_50259408_bacterie-bouche-alzheimer.jpg",
-      "date": "2026-08-21T08:00:00+00:00",
-      "date_formatted": "21 August 2026",
       "source": "Futura Santé",
       "type": "science"
     },
