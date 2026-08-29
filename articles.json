@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-28T17:48:04.501203+00:00",
-  "count": 72,
+  "generated_at": "2026-08-29T01:14:29.779347+00:00",
+  "count": 74,
   "articles": [
+    {
+      "title": "Inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus",
+      "desc": "Après la crue monstre causée mercredi par l’effondrement d’un glacier, les autorités font état d’au moins 584 morts. De nombreux touristes étrangers manquent encore à l’appel.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-pres-de-470-morts-les-secours-recherchent-encore-plus-de-1-400-personnes-disparues-20260828_3YH7G5YVINEDNCRRIXJI2QORLM/",
+      "image": null,
+      "date": "2026-08-28T20:00:15+00:00",
+      "date_formatted": "28 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tremblement de terre, lac proglaciaire ou éboulement : quelle est la cause réelle de la coulée de boue mortelle au Népal ?",
+      "desc": "Les premières analyses scientifiques, l’étude des images satellites, les données sismiques et les vidéos de la catastrophe permettent d’en savoir plus sur son origine exacte.",
+      "url": "https://www.liberation.fr/checknews/tremblement-de-terre-lac-proglaciaire-ou-eboulement-quelle-est-la-cause-reelle-de-la-coulee-de-boue-mortelle-au-nepal-20260828_U24L27BTN5G3LI372BUTPOFQ5I/",
+      "image": null,
+      "date": "2026-08-28T18:15:22+00:00",
+      "date_formatted": "28 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Vrai ou faux. Les arrêts de travail courts sont-ils prescrits en \"open bar\" comme l'affirme Edouard Philippe ?",
       "desc": "Face au coût des arrêts maladies, le candidat dans la course pour l'Elysée Édouard Philippe a affirmé vouloir \"mettre fin\" à ce qu'il qualifie \"d'open bar des arrêts de travail\". Les contours de leur délivrance sont-ils aussi flous qu'il l'affirme ? Les téléconsultations posent-elles problème ? Fran",
@@ -13,21 +33,21 @@
       "type": "presse"
     },
     {
-      "title": "Israël mène une frappe en Cisjordanie, et dit avoir tué «trois terroristes»",
-      "desc": "Parmi les morts figure Qaïs Bitawi, décrit comme «l’un des dirigeants les plus éminents des Brigades d’Al-Qods». Une telle opération est rare dans ce territoire palestinien.",
-      "url": "https://www.liberation.fr/international/moyen-orient/israel-mene-une-frappe-en-cisjordanie-et-dit-avoir-tue-trois-terroristes-20260828_LNMGBPBH5JCANLXWCU7FH3P3ZY/",
+      "title": "Inondations au Népal et au Tibet : le poste-frontière de Gyirong au cœur de la dévastation",
+      "desc": "Environ 700 secouristes ont enfin atteint, ce vendredi 28 août, la zone la plus touchée par le déluge de boue et de glace à la frontière entre la Chine et le Népal. Le bilan officiel de cinq morts côté chinois risque de s’alourdir.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/inondations-au-nepal-et-au-tibet-le-poste-frontiere-de-gyirong-au-coeur-de-la-devastation-20260828_AMHG4IXHXFAITEBGGO4CHN4IIM/",
       "image": null,
-      "date": "2026-08-28T17:26:32+00:00",
+      "date": "2026-08-28T17:48:55+00:00",
       "date_formatted": "28 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus",
-      "desc": "Après la crue monstre causée mercredi par l’effondrement d’un glacier, les autorités font état d’au moins 584 morts. De nombreux touristes étrangers manquent encore à l’appel.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-pres-de-470-morts-les-secours-recherchent-encore-plus-de-1-400-personnes-disparues-20260828_3YH7G5YVINEDNCRRIXJI2QORLM/",
+      "title": "Israël mène une frappe en Cisjordanie, et dit avoir tué «trois terroristes»",
+      "desc": "Parmi les morts figure Qaïs Bitawi, décrit comme «l’un des dirigeants les plus éminents des Brigades d’Al-Qods». Une telle opération est rare dans ce territoire palestinien.",
+      "url": "https://www.liberation.fr/international/moyen-orient/israel-mene-une-frappe-en-cisjordanie-et-dit-avoir-tue-trois-terroristes-20260828_LNMGBPBH5JCANLXWCU7FH3P3ZY/",
       "image": null,
-      "date": "2026-08-28T17:06:10+00:00",
+      "date": "2026-08-28T17:26:32+00:00",
       "date_formatted": "28 August 2026",
       "source": "Libération",
       "type": "presse"
