@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-29T11:52:44.258320+00:00",
-  "count": 72,
+  "generated_at": "2026-08-29T15:50:50.365631+00:00",
+  "count": 73,
   "articles": [
+    {
+      "title": "«Nous n’oublierons pas le silence» : un an après le suicide de Caroline Grandjean, des proches toujours sous le choc et une enquête à l’arrêt",
+      "desc": "Plus de deux cents personnes se sont réunies samedi 29 août à Aurillac, en hommage à la directrice d’école, harcelée en raison de son homosexualité. Autour de sa veuve, anciens élèves, enseignants et anonymes réclament justice et refusent l’oubli.",
+      "url": "https://www.liberation.fr/societe/nous-noublierons-pas-le-silence-un-an-apres-le-suicide-de-caroline-grandjean-des-proches-toujours-sous-le-choc-et-une-enquete-a-larret-20260829_BCIGYD3PDVD3NI7GSCHHCWPTMY/",
+      "image": null,
+      "date": "2026-08-29T15:03:18+00:00",
+      "date_formatted": "29 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Peut-on attraper le paludisme en Europe sans voyager ? Ces six cas, dont deux décès, montrent que oui !",
       "desc": "Ils n’avaient pas quitté l’Allemagne, et pourtant ils ont contracté le paludisme. À l’aéroport de Francfort, six employés ont été infectés par cette maladie habituellement importée par des voyageurs revenant de régions tropicales. Deux d’entre eux sont morts. Les autorités soupçonnent des...",
@@ -13,21 +23,21 @@
       "type": "science"
     },
     {
-      "title": "Guerre en Ukraine : 37 morts après une frappe russe sur un entrepôt près de Kyiv, les autorités dénoncent une «négligence criminelle»",
-      "desc": "Un drone a visé dans la nuit de vendredi 28 août un entrepôt stockant des matières explosives près de la capitale ukrainienne, provoquant un vaste incendie et relançant les critiques sur le non-respect des normes de sécurité après un précédent en juillet.",
-      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-au-moins-27-morts-apres-une-frappe-russe-sur-un-entrepot-pres-de-kyiv-les-autorites-denoncent-une-negligence-criminelle-20260829_DOO3VBXCVNCUHGGJXRW6M5SASU/",
+      "title": "EN DIRECT - Inondations au Népal et au Tibet : 682 morts et près de 3 000 disparus",
+      "desc": "Trois jours après les violentes coulées de boue qui ont tout emporté sur leur passage dans des vallées himalayennes mercredi, le bilan continue de s’aggraver. Les autorités népalaises et chinoises font désormais état de 682 morts et de près de 3 000 disparus.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-633-morts-et-pres-de-3-000-disparus-20260829_I4IYKFXZPZE67N4YKPDEWLCLOU/",
       "image": null,
-      "date": "2026-08-29T11:29:54+00:00",
+      "date": "2026-08-29T12:58:56+00:00",
       "date_formatted": "29 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Inondations au Népal et au Tibet : 633 morts et près de 3 000 disparus",
-      "desc": "Trois jours après les violentes coulées de boue qui ont tout emporté sur leur passage dans des vallées himalayennes mercredi, le bilan continue de s’aggraver. Les autorités népalaises et chinoises font désormais état de 633 morts et de près de 3 000 disparus.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-633-morts-et-pres-de-3-000-disparus-20260829_I4IYKFXZPZE67N4YKPDEWLCLOU/",
+      "title": "Guerre en Ukraine : 37 morts après une frappe russe sur un entrepôt près de Kyiv, les autorités dénoncent une «négligence criminelle»",
+      "desc": "Un drone a visé dans la nuit de vendredi 28 août un entrepôt stockant des matières explosives près de la capitale ukrainienne, provoquant un vaste incendie et relançant les critiques sur le non-respect des normes de sécurité après un précédent en juillet.",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-au-moins-27-morts-apres-une-frappe-russe-sur-un-entrepot-pres-de-kyiv-les-autorites-denoncent-une-negligence-criminelle-20260829_DOO3VBXCVNCUHGGJXRW6M5SASU/",
       "image": null,
-      "date": "2026-08-29T11:03:14+00:00",
+      "date": "2026-08-29T11:29:54+00:00",
       "date_formatted": "29 August 2026",
       "source": "Libération",
       "type": "presse"
