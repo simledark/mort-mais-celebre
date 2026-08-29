@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-08-29T01:14:29.779347+00:00",
-  "count": 74,
+  "generated_at": "2026-08-29T11:52:44.258320+00:00",
+  "count": 72,
   "articles": [
     {
-      "title": "Inondations au Népal et au Tibet : le Quai d’Orsay confirme que quatre Français sont portés disparus",
-      "desc": "Après la crue monstre causée mercredi par l’effondrement d’un glacier, les autorités font état d’au moins 584 morts. De nombreux touristes étrangers manquent encore à l’appel.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-pres-de-470-morts-les-secours-recherchent-encore-plus-de-1-400-personnes-disparues-20260828_3YH7G5YVINEDNCRRIXJI2QORLM/",
+      "title": "Peut-on attraper le paludisme en Europe sans voyager ? Ces six cas, dont deux décès, montrent que oui !",
+      "desc": "Ils n’avaient pas quitté l’Allemagne, et pourtant ils ont contracté le paludisme. À l’aéroport de Francfort, six employés ont été infectés par cette maladie habituellement importée par des voyageurs revenant de régions tropicales. Deux d’entre eux sont morts. Les autorités soupçonnent des...",
+      "url": "https://www.futura-sciences.com/sante/actualites/paludisme-peut-on-attraper-paludisme-europe-voyager-ces-six-cas-deux-deces-montrent-oui-137403/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/2/a/82aef8ccd7_50260145_moustique-aeroport.jpg",
+      "date": "2026-08-29T13:38:48+00:00",
+      "date_formatted": "29 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Guerre en Ukraine : 37 morts après une frappe russe sur un entrepôt près de Kyiv, les autorités dénoncent une «négligence criminelle»",
+      "desc": "Un drone a visé dans la nuit de vendredi 28 août un entrepôt stockant des matières explosives près de la capitale ukrainienne, provoquant un vaste incendie et relançant les critiques sur le non-respect des normes de sécurité après un précédent en juillet.",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-au-moins-27-morts-apres-une-frappe-russe-sur-un-entrepot-pres-de-kyiv-les-autorites-denoncent-une-negligence-criminelle-20260829_DOO3VBXCVNCUHGGJXRW6M5SASU/",
       "image": null,
-      "date": "2026-08-28T20:00:15+00:00",
-      "date_formatted": "28 August 2026",
+      "date": "2026-08-29T11:29:54+00:00",
+      "date_formatted": "29 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Tremblement de terre, lac proglaciaire ou éboulement : quelle est la cause réelle de la coulée de boue mortelle au Népal ?",
-      "desc": "Les premières analyses scientifiques, l’étude des images satellites, les données sismiques et les vidéos de la catastrophe permettent d’en savoir plus sur son origine exacte.",
-      "url": "https://www.liberation.fr/checknews/tremblement-de-terre-lac-proglaciaire-ou-eboulement-quelle-est-la-cause-reelle-de-la-coulee-de-boue-mortelle-au-nepal-20260828_U24L27BTN5G3LI372BUTPOFQ5I/",
+      "title": "EN DIRECT - Inondations au Népal et au Tibet : 633 morts et près de 3 000 disparus",
+      "desc": "Trois jours après les violentes coulées de boue qui ont tout emporté sur leur passage dans des vallées himalayennes mercredi, le bilan continue de s’aggraver. Les autorités népalaises et chinoises font désormais état de 633 morts et de près de 3 000 disparus.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-633-morts-et-pres-de-3-000-disparus-20260829_I4IYKFXZPZE67N4YKPDEWLCLOU/",
       "image": null,
-      "date": "2026-08-28T18:15:22+00:00",
-      "date_formatted": "28 August 2026",
+      "date": "2026-08-29T11:03:14+00:00",
+      "date_formatted": "29 August 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Et si une mauvaise audition dans le bruit était un signal d'alerte précoce de la démence ?",
+      "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-si-mauvaise-audition-bruit-etait-signal-alerte-precoce-demence-w2t8-137063/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/3/e/03e7cc9fa0_50259499_audition-symptomes-demence.jpg",
+      "date": "2026-08-29T08:00:00+00:00",
+      "date_formatted": "29 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Vrai ou faux. Les arrêts de travail courts sont-ils prescrits en \"open bar\" comme l'affirme Edouard Philippe ?",
@@ -33,23 +53,13 @@
       "type": "presse"
     },
     {
-      "title": "Inondations au Népal et au Tibet : le poste-frontière de Gyirong au cœur de la dévastation",
-      "desc": "Environ 700 secouristes ont enfin atteint, ce vendredi 28 août, la zone la plus touchée par le déluge de boue et de glace à la frontière entre la Chine et le Népal. Le bilan officiel de cinq morts côté chinois risque de s’alourdir.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/inondations-au-nepal-et-au-tibet-le-poste-frontiere-de-gyirong-au-coeur-de-la-devastation-20260828_AMHG4IXHXFAITEBGGO4CHN4IIM/",
-      "image": null,
-      "date": "2026-08-28T17:48:55+00:00",
+      "title": "Londres : Atteint d’une tumeur au cerveau, il guérit après une opération unique au monde assistée en direct par l’IA",
+      "desc": "Pour la première fois de l’Histoire, l’IA a permis d’aider les chirurgiens d’un hôpital londonien à opérer avec succès un homme atteint d’une tumeur au cerveau",
+      "url": "https://www.20minutes.fr/sante/4241528-20260828-londres-atteint-tumeur-cerveau-guerit-apres-operation-unique-monde-assistee-direct-ia?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/aQ00gnG9TcCbNZs9ytYhHSk/1200x768_lit-hopital-illustration",
+      "date": "2026-08-28T16:17:36+00:00",
       "date_formatted": "28 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Israël mène une frappe en Cisjordanie, et dit avoir tué «trois terroristes»",
-      "desc": "Parmi les morts figure Qaïs Bitawi, décrit comme «l’un des dirigeants les plus éminents des Brigades d’Al-Qods». Une telle opération est rare dans ce territoire palestinien.",
-      "url": "https://www.liberation.fr/international/moyen-orient/israel-mene-une-frappe-en-cisjordanie-et-dit-avoir-tue-trois-terroristes-20260828_LNMGBPBH5JCANLXWCU7FH3P3ZY/",
-      "image": null,
-      "date": "2026-08-28T17:26:32+00:00",
-      "date_formatted": "28 August 2026",
-      "source": "Libération",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -188,16 +198,6 @@
       "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/c-est-un-vrai-soulagement-son-cancer-du-sein-officiellement-reconnu-comme-maladie-professionnelle_8164235.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/1Hy-SFE9wRcMmUk_FKMnujjA2ak/130x0:1554x801/432x243/filters:format(jpg)/2026/08/26/6a8f50473cdda860250405.png",
       "date": "2026-08-26T22:46:46+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les médecins généralistes libéraux travaillent en moyenne 46 heures par semaine, selon une étude de la Drees",
-      "desc": "Le temps de travail déclaré varie selon le sexe et l'âge du médecin. Les femmes médecins généralistes travaillent 44 heures en moyenne, contre 48 heures et 30 minutes pour les hommes.",
-      "url": "https://www.franceinfo.fr/sante/les-medecins-generalistes-liberaux-travaillent-en-moyenne-46-heures-par-semaine-selon-une-etude-de-la-drees_8164136.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/_68g9cGaO7O0yU4D-Rxh4BDQLtk/0x53:4410x2533/432x243/filters:format(jpg)/2026/08/26/6a8f41d8b5168354117180.jpg",
-      "date": "2026-08-26T21:46:50+00:00",
       "date_formatted": "26 August 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -443,16 +443,6 @@
       "type": "science"
     },
     {
-      "title": "Charente-Maritime : Une étude inédite menée sur une maladie pulmonaire méconnue",
-      "desc": "Des médecins ont lancé en août des recherches sur le littoral de Charente-Maritime afin de mieux comprendre l’œdème pulmonaire d’immersion",
-      "url": "https://www.20minutes.fr/sante/4240634-20260825-charente-maritime-etude-inedite-menee-maladie-pulmonaire-meconnue?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/yDSDeEHUQS2D5D4dC8kaQik/1200x768_le-service-des-urgences-de-l-hopital-pellegrin-qui-fait-partie-du-chu-de-bordeaux-pendant-la-canicule-qui-sevit-en-france-le-departement-de-la-gironde-est-en-alerte-rouge-en-raison-de-la-canicule-a-bordeaux-le-23-juin-2026-amezugo-urgences-5-credit-ugo-amez-sipa-2606231212",
-      "date": "2026-08-25T04:47:36+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Un handicap établi une fois n’a pas à être plaidé sans fin »",
       "desc": "Guillaume Adam, responsable associatif et autiste, souligne, dans une tribune au « Monde », l’angle mort qu’est le handicap invisible dans le débat public. Ceux qui en souffrent s’épuisent à le taire, à le camoufler ou à devoir en prouver sans cesse la réalité auprès des institutions.",
       "url": "https://www.lemonde.fr/idees/article/2026/08/24/un-handicap-etabli-une-fois-n-a-pas-a-etre-plaide-sans-fin_6755548_3232.html",
@@ -518,16 +508,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-estomac-cancer-estomac-scientifiques-alertent-bacterie-tres-repandue-mais-souvent-ignoree-k2m6-137050/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/b/e/ebeba4f1d4_50259491_cancer-estomac-bacterie.jpg",
       "date": "2026-08-23T10:00:00+00:00",
-      "date_formatted": "23 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Bien avant les pertes de mémoire, Alzheimer s'attaque à un mécanisme essentiel de votre cerveau",
-      "desc": "Et si la maladie d’Alzheimer ne faisait pas que voler les souvenirs ? Une équipe américaine révèle qu’elle dérègle aussi l’horloge interne du cerveau, bouleversant le rythme des cellules chargées de nettoyer les fameuses plaques amyloïdes.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-bien-avant-pertes-memoire-alzheimer-attaque-mecanisme-essentiel-votre-cerveau-w2t8-136998/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/f/b/1fb9db68f2_50259418_rythme-circadien-signes-alzheimer.jpg",
-      "date": "2026-08-23T08:00:00+00:00",
       "date_formatted": "23 August 2026",
       "source": "Futura Santé",
       "type": "science"
