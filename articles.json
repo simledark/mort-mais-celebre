@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-30T10:49:49.459397+00:00",
-  "count": 69,
+  "generated_at": "2026-08-30T15:36:46.853082+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title": "Au moins sept morts après le naufrage d’un ferry transportant environ 270 passagers au large des côtes de Chypre Nord",
+      "desc": "Selon un premier bilan donné ce dimanche 30 août par le Premier ministre de la République turque de Chypre du Nord, 172 personnes ont pu être secourues. L’opération de sauvetage est encore en cours, alors que le ferry a complètement coulé.",
+      "url": "https://www.liberation.fr/international/europe/des-morts-apres-le-naufrage-dun-ferry-transportant-environ-270-passagers-au-large-des-cotes-de-chypre-nord-20260830_ETHT3OPWFNDTLAOLZ5XBJNYA5E/",
+      "image": null,
+      "date": "2026-08-30T14:18:34+00:00",
+      "date_formatted": "30 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Une morte, cinq blessés et des suspects en fuite… Ce que l’on sait des coups de feu tirés dans une rave party en Suisse",
       "desc": "Plusieurs personnes ont été touchées, dont une mortellement, par des coups de feu dans la nuit de samedi à dimanche à Aarau, près de Zurich. Un important dispositif policier a été déployé.",
       "url": "https://www.liberation.fr/international/europe/suisse-des-coups-de-feu-tires-dans-une-rave-party-plusieurs-victimes-selon-la-police-20260830_AM45OLUJABG3DF7YNWA4B2R35M/",
       "image": null,
-      "date": "2026-08-30T10:38:52+00:00",
+      "date": "2026-08-30T14:06:27+00:00",
       "date_formatted": "30 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Inondations au Népal et au Tibet : 750 morts et plus de 3 000 disparus",
-      "desc": "Trois jours après les violentes coulées de boue qui ont tout emporté sur leur passage dans des vallées himalayennes mercredi, le bilan continue de s’aggraver. Les autorités népalaises et chinoises font désormais état de 750 morts et de plus de 3 000 disparus.",
+      "title": "EN DIRECT - Inondations au Népal et au Tibet : 797 morts et plus de 3 000 disparus",
+      "desc": "Quatre jours après les violentes coulées de boue qui ont tout emporté sur leur passage dans des vallées himalayennes mercredi, le bilan continue de s’aggraver. Les autorités népalaises et chinoises font désormais état de 797 morts et de plus de 3 000 disparus.",
       "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-633-morts-et-pres-de-3-000-disparus-20260829_I4IYKFXZPZE67N4YKPDEWLCLOU/",
       "image": null,
-      "date": "2026-08-30T09:42:41+00:00",
-      "date_formatted": "30 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Patatras pour le grand tétras dans les Vosges : «On ne peut pas réintroduire un animal sans restaurer son milieu naturel»",
-      "desc": "Après la décision de l’Etat d’arrêter le programme de réintroduction du gallinacé, en raison notamment de la mort des individus déplacés depuis la Norvège, des associations écologistes demandent la restauration des écosystèmes du massif.",
-      "url": "https://www.liberation.fr/environnement/biodiversite/patatras-pour-le-grand-tetras-dans-les-vosges-on-ne-peut-pas-reintroduire-un-animal-sans-restaurer-son-milieu-naturel-20260830_LUDMJ3J3ENAZ7G7T5J777AF6BY/",
-      "image": null,
-      "date": "2026-08-30T06:03:00+00:00",
+      "date": "2026-08-30T13:41:47+00:00",
       "date_formatted": "30 August 2026",
       "source": "Libération",
       "type": "presse"
@@ -180,16 +180,6 @@
       "date": "2026-08-27T06:00:01+00:00",
       "date_formatted": "27 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les Etats-Unis approuvent un traitement décrit comme prometteur contre le cancer du pancréas",
-      "desc": "Impliquant une nouvelle molécule, le daraxonrasib, ce traitement s'est montré bien plus efficace qu'une chimiothérapie classique lors de son essai clinique.",
-      "url": "https://www.franceinfo.fr/sante/cancer/les-etats-unis-approuvent-un-traitement-prometteur-contre-le-cancer-du-pancreas_8164199.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/MS5VabMN9vHT4b--V-ssszVngiA/0x20:7850x4436/432x243/filters:format(jpg)/2026/08/26/6a8f60bc5d184064440971.jpg",
-      "date": "2026-08-26T23:56:02+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
