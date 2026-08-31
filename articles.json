@@ -1,36 +1,106 @@
 {
-  "generated_at": "2026-08-31T11:59:22.627843+00:00",
+  "generated_at": "2026-08-31T18:48:20.039592+00:00",
   "count": 69,
   "articles": [
     {
-      "title": "Mort de Jean-François Leroy, fervent défenseur du photojournalisme et fondateur du festival Visa pour l’image",
-      "desc": "Le journaliste est mort à 69 ans des suites d’un cancer, ce lundi 31 août. Il avait cofondé le rendez-vous perpignanais qui visait à «témoigner, mettre en lumière des réalités que nous ignorerions» sans la photographie.",
-      "url": "https://www.liberation.fr/culture/photographie/mort-de-jean-francois-leroy-fondateur-du-festival-de-photojournalisme-visa-pour-limage-20260831_XT73CLDMPNBZFEXE5332O5DGZQ/",
+      "title": "Ebola en RDC : l’épidémie dépasse les 6 000 cas confirmés et les 2 900 morts, annoncent les autorités",
+      "desc": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre laquelle il n’existe ni vaccin ni traitement.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/08/31/ebola-en-rdc-l-epidemie-depasse-les-6-000-cas-confirmes-et-les-2-900-morts-annoncent-les-autorites_6762743_3212.html",
+      "image": "https://img.lemde.fr/2026/08/31/500/0/6000/3000/644/322/60/0/23633fc_ftp-1-5avuoaqzofub-17a395fafbd24eab8808d45e06c7caab-1-dc5072e1ea334e2183001e0db58f387f.jpg",
+      "date": "2026-08-31T20:11:23+00:00",
+      "date_formatted": "31 August 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Edouard Balladur s’est arrêté",
+      "desc": "Figure de la droite depuis l’époque gaulliste, rival malheureux de Jacques Chirac à la présidentielle de 1995, l’ancien Premier ministre est mort ce lundi 31 août à l’âge de 97 ans.",
+      "url": "https://www.liberation.fr/politique/edouard-balladur-sest-arrete-20260831_FYUSDLCXVRCV5PKW4IIWQ7TCPM/",
       "image": null,
-      "date": "2026-08-31T11:21:03+00:00",
+      "date": "2026-08-31T18:42:18+00:00",
       "date_formatted": "31 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Une morte, cinq blessés et un suspect de 43 ans arrêté… Ce que l’on sait des coups de feu tirés dans une rave party en Suisse",
-      "desc": "Au surlendemain des tirs qui ont touché plusieurs personnes dont une mortellement, à Aarau, près de Zurich, la police locale a annoncé l’interpellation d’un suspect.",
-      "url": "https://www.liberation.fr/international/europe/suisse-des-coups-de-feu-tires-dans-une-rave-party-plusieurs-victimes-selon-la-police-20260830_AM45OLUJABG3DF7YNWA4B2R35M/",
+      "title": "Peptides illicites : l’agence du médicament interdit la commercialisation d’un nouveau produit vendu en ligne",
+      "desc": "Comme elle l’avait déjà fait en juillet avec d’autres substances, l’ANSM interdit la vente de «FastPen 40 mg». En cause, les allégations infondées sur les bienfaits de ces molécules pour des performances sportives ou contre le vieillissement.",
+      "url": "https://www.liberation.fr/societe/sante/peptides-illicites-lagence-du-medicament-interdit-la-commercialisation-dun-nouveau-produit-vendu-en-ligne-20260831_UEHVEQNR25AGVGJXYTRB6BFSR4/",
       "image": null,
-      "date": "2026-08-31T11:17:16+00:00",
+      "date": "2026-08-31T18:11:43+00:00",
       "date_formatted": "31 August 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Naufrage d’un bateau au large de la Chypre du Nord : 18 personnes toujours portées disparues, huit morts",
-      "desc": "Selon les autorités de la république autoproclamée, les recherches se poursuivent. Neuf personnes, dont le capitaine du navire, ont été présentées lundi à un juge.",
-      "url": "https://www.liberation.fr/international/europe/des-morts-apres-le-naufrage-dun-ferry-transportant-environ-270-passagers-au-large-des-cotes-de-chypre-nord-20260830_ETHT3OPWFNDTLAOLZ5XBJNYA5E/",
+      "title": "Alzheimer : des scientifiques découvrent un mystérieux « germe » qui pourrait jouer un rôle clé dans la maladie",
+      "desc": "L'accumulation de protéines toxiques dans le cerveau des malades d'Alzheimer commence une vingtaine d'années avant les premiers symptômes. Restait à comprendre ce qui l'amorce. Une équipe japonaise pense avoir identifié le point de départ : une sorte de germe sur lequel les protéines viennent...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-scientifiques-decouvrent-mysterieux-germe-pourrait-jouer-role-cle-maladie-k2m6-137189/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/d/a/9daf2a2b48_50259718_alzheimer-germe-cerveau.jpg",
+      "date": "2026-08-31T18:00:00+00:00",
+      "date_formatted": "31 August 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Inondations au Népal et au Tibet : le bilan s’alourdit à 955 morts et 4 471 disparus, les sauveteurs évoquent des «difficultés considérables»",
+      "desc": "Cinq jours après les violentes coulées de boue qui ont ravagé les vallées himalayennes au Népal et au Tibet mercredi, le nombre de victimes continue de grimper.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-le-bilan-saggrave-a-903-morts-et-4-247-disparus-20260831_SS75HNV6OZC47NMWSR6ZRX2PBI/",
       "image": null,
-      "date": "2026-08-31T10:56:40+00:00",
+      "date": "2026-08-31T17:40:40+00:00",
       "date_formatted": "31 August 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "L'épidémie d'Ebola en République démocratique du Congo dépasse les 6 000 cas confirmés",
+      "desc": "Il s'agit de l'épidémie la plus meurtrière qu'ait dû affronter le pays.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-6-000-cas-confirmes_8170892.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/whmApm7DtwcRzbQxD4GYcgMRAzw/0x67:1280x787/432x243/filters:format(jpg)/2026/08/31/6a95931fbcf03529418597.jpg",
+      "date": "2026-08-31T16:46:43+00:00",
+      "date_formatted": "31 August 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Etats-Unis : au moins deux morts et environ 15 personnes recherchées après une crue soudaine dans le Grand Canyon",
+      "desc": "Des vidéos tournées par des randonneurs montrent un torrent d’eau boueuse déferlant le long d’un sentier et sous des passerelles, ainsi que des troncs d’arbres et d’autres débris emportés par les rivières en crue.",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-environ-15-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-20260831_S7OERN5WBJHE3N7WMVH24ACJ24/",
+      "image": null,
+      "date": "2026-08-31T16:41:06+00:00",
+      "date_formatted": "31 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«C’est trop long» : cinq mois après leur mort dans la Manche, deux corps d’exilés pas encore restitués à leur famille",
+      "desc": "Un rassemblement s’est tenu ce lundi 31 août devant le tribunal de Dunkerque à l’initiative des proches de Jasmeet Singh et Nagmeldin Adam, un Afghan et un Soudanais qui ont péri en tentant la traversée vers l’Angleterre. Ils demandent à pouvoir enfin organiser leurs funérailles.",
+      "url": "https://www.liberation.fr/societe/immigration/cest-trop-long-cinq-mois-apres-leur-mort-dans-la-manche-deux-corps-dexiles-pas-encore-restitues-a-leur-famille-20260831_64ZDGNSFAREC3BRQM4YVS5GO5U/",
+      "image": null,
+      "date": "2026-08-31T16:32:44+00:00",
+      "date_formatted": "31 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cinq morts à Gaza, un Britannique expulsé par Israël, le «mensonge» occidental d’une solution à deux Etats… L’actu du conflit au Moyen-Orient ce lundi 31 août.",
+      "desc": "L’essentiel des informations du jour sur la situation en Cisjordanie et dans la bande de Gaza.",
+      "url": "https://www.liberation.fr/international/moyen-orient/cinq-morts-a-gaza-un-britannique-expulse-par-israel-le-mensonge-occidental-dune-solution-a-deux-etats-lactu-du-conflit-au-moyen-orient-ce-lundi-31-aout-20260831_G6QCWTJNVBATDGV53M3FEACF7I/",
+      "image": null,
+      "date": "2026-08-31T16:30:51+00:00",
+      "date_formatted": "31 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
+      "desc": "L'épidémie d'Ebola a déjà fait plus de 2.500 morts en République démocratique du Congo (RDC) et \"progresse de façon exponentielle\", a alerté vendredi Julien Harneis, coordinateur principal d’Ebola pour les Nations unies.",
+      "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-d-ebola-en-rdc-progresse-de-facon-exponentielle-alerte-l-onu_194380?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/21/cover-r4x3w1200-6a88386137dbe-bd5f44983db67da7528013a010fbd19264e48657-jpg.jpg",
+      "date": "2026-08-31T16:15:06+00:00",
+      "date_formatted": "31 August 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Le vrai ou faux. Qui des arrêts courts ou des arrêts longs coûtent le plus cher à l'Assurance maladie ?",
@@ -40,16 +110,6 @@
       "date": "2026-08-31T10:36:44+00:00",
       "date_formatted": "31 August 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Vidéos voyeuristes, vols, licenciements de dissidents… A l’Hôtel de Crillon, une culture du tout permis qui scandalise",
-      "desc": "D’anciens employés du palace parisien dénoncent le laxisme et l’arbitraire délétère de la hiérarchie, contre laquelle s’est aggravée la défiance depuis le décès tragique d’une employée.",
-      "url": "https://www.liberation.fr/culture/videos-voyeuristes-vols-licenciements-de-dissidents-a-lhotel-de-crillon-une-culture-du-tout-permis-qui-scandalise-20260831_J4I2BCSSOVBZLEYAMMZCWQYODU/",
-      "image": null,
-      "date": "2026-08-31T09:46:22+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -71,26 +131,6 @@
       "date_formatted": "31 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Pédocriminalité : l’Eglise va changer son instance de réparation des victimes",
-      "desc": "L’Instance nationale indépendante, créée en 2021, a reçu près de 2000 demandes. Mais son mandat arrive à échéance et elle sera remplacée le 1er septembre par «Renaître», des cellules d’écoute dans les diocèses, ce qui inquiète certains collectifs.",
-      "url": "https://www.liberation.fr/societe/religions/pedocriminalite-leglise-va-changer-son-instance-de-reparation-des-victimes-20260831_MPZLNFESSVAGNJB77J672PZMLI/",
-      "image": null,
-      "date": "2026-08-31T07:42:15+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Inondations au Népal : une centaine d’ouvriers d’une centrale hydroélectrique toujours bloqués dans un tunnel et coupés du monde",
-      "desc": "Cinq jours après les violentes coulées de boue qui ont ravagé les vallées himalayennes au Népal et au Tibet mercredi, le bilan des victimes continue de grimper. Les autorités font état ce lundi de 919 morts et 4793 disparus.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-le-bilan-saggrave-a-903-morts-et-4-247-disparus-20260831_SS75HNV6OZC47NMWSR6ZRX2PBI/",
-      "image": null,
-      "date": "2026-08-31T06:42:51+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Arrêts maladie à durée limitée, interdiction du portable au lycée, taxe sur les vêtements… Voici tout ce qui change au 1er septembre",
@@ -379,8 +419,8 @@
       "image": "https://img.lemde.fr/2026/08/25/277/0/2185/1092/644/322/60/0/91d9e90_upload-1-knmebtqwdpgf-image1.jpeg",
       "date": "2026-08-25T23:19:55+00:00",
       "date_formatted": "25 August 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "VIH : deux hommes séropositifs en grève de la faim, victimes de harcèlement et de menaces de mort, seront reçus par Aurore Bergé le 2 septembre",
@@ -423,36 +463,6 @@
       "type": "presse"
     },
     {
-      "title": "NFL : Un joueur sur quatre, décédé entre 2016 et 2021, souffrait d’une maladie neurodégénérative",
-      "desc": "Une étude menée sur des joueurs décédés montrent qu’un quart d’entre eux étaient touchés par une encéphalopathie traumatique chronique",
-      "url": "https://www.20minutes.fr/sport/4240900-20260825-nfl-joueur-quatre-decede-entre-2016-2021-souffrait-maladie-neurodegenerative?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/UsTLhRXmSE-4PpBWpWwSeyk/1200x768_le-joueur-serre-des-titans-du-tennessee-daniel-bellinger-82-est-plaque-par-le-gardien-des-seahawks-de-seattle-d-anthony-bell-23-le-secondeur-chris-paul-jr-49-et-le-plaqueur-uso-seumalo-92-apres-avoir-capte-une-passe-pendant-la-premiere-moitie-d-un-match-de-football-de-pre-saison-de-la-nfl-le-dimanche-23-aout-2026-a-nashville-dans-le-tennessee-photo-ap-george-walker-iv-tncn148-26236042936123-2608241611",
-      "date": "2026-08-25T13:52:22+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cette maladie autrefois réservée aux adultes explose chez les adolescents : sa progression sidère les chercheurs",
-      "desc": "Longtemps considéré comme une maladie de l’adulte, le diabète de type 2 s’invite désormais chez les plus jeunes. Au Colorado, son incidence chez les 10-19 ans a été multipliée par près de 10 en vingt ans. Plus inquiétant encore : lorsqu’il apparaît à l’adolescence, il peut évoluer beaucoup plus...",
-      "url": "https://www.futura-sciences.com/sante/actualites/diabete-type-2-cette-maladie-autrefois-reservee-adultes-explose-chez-adolescents-progression-sidere-chercheurs-137280/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/5/9/e596656a56_50259938_maladie-chez-jeunes.jpg",
-      "date": "2026-08-25T13:21:06+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Rajeunir des cellules humaines : un premier essai clinique vient d'obtenir le feu vert américain",
-      "desc": "Réinitialiser l'horloge biologique d'une cellule sans lui faire perdre son identité : le principe existe depuis vingt ans et a valu un prix Nobel à son inventeur. Une entreprise américaine vient de franchir une première étape réglementaire vers un essai chez l'humain. L'objectif visé n'est pas...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-rajeunir-cellules-humaines-premier-essai-clinique-vient-obtenir-feu-vert-americain-k2m6-137126/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/d/3/ad32623b45_50259580_reprogrammation-cellulaire-vieillissement.jpg",
-      "date": "2026-08-25T10:00:00+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Une exposition élevée et persistante au bruit routier au début de l’enfance est associée à un risque accru de difficultés émotionnelles et relationnelles à 10 ans",
       "desc": "En Europe, plus d’une personne sur cinq est exposée de manière chronique à des niveaux de bruit liés au transport considérés comme nocifs pour la santé; le trafic routier en constitue la principale source. Si les effets du bruit sur la santé cardiovasculaire sont relativement bien documentés, l’impa",
       "url": "https://presse.inserm.fr/une-exposition-elevee-et-persistante-au-bruit-routier-au-debut-de-lenfance-est-associee-a-un-risque-accru-de-difficultes-emotionnelles-et-relationnelles-a-10-ans/73139/",
@@ -481,16 +491,6 @@
       "date_formatted": "24 August 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Ebola : six membres de la Croix-Rouge blessés la semaine dernière dans des attaques en République démocratique du Congo",
-      "desc": "Les organisations impliquées dans la riposte à l’épidémie évoluent dans une région particulièrement troublée, où une myriade de groupes armés sont actifs et commettent des massacres en toute impunité.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/24/ebola-six-membres-de-la-croix-rouge-blesses-la-semaine-derniere-dans-des-attaques-en-republique-democratique-du-congo_6755436_3212.html",
-      "image": "https://img.lemde.fr/2026/06/09/649/0/5500/2750/644/322/60/0/25ae74b_ftp-1-h2q6jsyeiwuy-2026-06-09t201754z-729318552-rc2odlagypgl-rtrmadp-3-health-ebola-usa-eu.JPG",
-      "date": "2026-08-24T15:24:55+00:00",
-      "date_formatted": "24 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Les supercentenaires ont une immunité optimisée",
