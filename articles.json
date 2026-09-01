@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T18:48:20.039592+00:00",
-  "count": 69,
+  "generated_at": "2026-09-01T02:20:17.381076+00:00",
+  "count": 68,
   "articles": [
     {
       "title": "Ebola en RDC : l’épidémie dépasse les 6 000 cas confirmés et les 2 900 morts, annoncent les autorités",
@@ -13,8 +13,18 @@
       "type": "presse"
     },
     {
-      "title": "Edouard Balladur s’est arrêté",
-      "desc": "Figure de la droite depuis l’époque gaulliste, rival malheureux de Jacques Chirac à la présidentielle de 1995, l’ancien Premier ministre est mort ce lundi 31 août à l’âge de 97 ans.",
+      "title": "Inondations au Népal et au Tibet : le bilan s’alourdit à 955 morts et 4 471 disparus, les sauveteurs évoquent des «difficultés considérables»",
+      "desc": "Cinq jours après les violentes coulées de boue qui ont ravagé les vallées himalayennes au Népal et au Tibet mercredi, le nombre de victimes continue de grimper.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-le-bilan-saggrave-a-903-morts-et-4-247-disparus-20260831_SS75HNV6OZC47NMWSR6ZRX2PBI/",
+      "image": null,
+      "date": "2026-08-31T19:49:28+00:00",
+      "date_formatted": "31 August 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Edouard Balladur à 97 ans : l’ancien Premier ministre s’est arrêté",
+      "desc": "Figure de la droite depuis l’époque gaulliste, rival malheureux de Jacques Chirac à la présidentielle de 1995, l’ex-Premier ministre est mort ce lundi 31 août.",
       "url": "https://www.liberation.fr/politique/edouard-balladur-sest-arrete-20260831_FYUSDLCXVRCV5PKW4IIWQ7TCPM/",
       "image": null,
       "date": "2026-08-31T18:42:18+00:00",
@@ -41,16 +51,6 @@
       "date_formatted": "31 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Inondations au Népal et au Tibet : le bilan s’alourdit à 955 morts et 4 471 disparus, les sauveteurs évoquent des «difficultés considérables»",
-      "desc": "Cinq jours après les violentes coulées de boue qui ont ravagé les vallées himalayennes au Népal et au Tibet mercredi, le nombre de victimes continue de grimper.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-le-bilan-saggrave-a-903-morts-et-4-247-disparus-20260831_SS75HNV6OZC47NMWSR6ZRX2PBI/",
-      "image": null,
-      "date": "2026-08-31T17:40:40+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "L'épidémie d'Ebola en République démocratique du Congo dépasse les 6 000 cas confirmés",
@@ -559,16 +559,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2025/05/13/cover-r4x3w1200-6a744da29192a-4bd13985eca0918bb51ea99138575cae3576a570-jpg.jpg",
       "date": "2026-08-06T08:55:37+00:00",
       "date_formatted": "6 August 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Et si l'espérance de vie venait à baisser",
-      "desc": "Bien qu'elle ait doublé en un siècle, la durée de vie moyenne voit sa progression ralentir, et parfois même s'inverser, sous l'effet de crises sanitaires, économiques ou sociales. Priorité est désormais donnée à une nouvelle cible : l'espérance de vie en bonne santé.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-esperance-de-vie-venait-a-baisser_193248?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/18/cover-r4x3w1200-6a3d1f96047b0-12956-726577-k2-k1-1727391-jpg.jpg",
-      "date": "2026-08-01T12:00:00+00:00",
-      "date_formatted": "1 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
