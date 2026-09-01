@@ -1,7 +1,127 @@
 {
-  "generated_at": "2026-09-01T02:20:17.381076+00:00",
-  "count": 68,
+  "generated_at": "2026-09-01T10:38:24.799869+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "Le danger du « jet-lag alimentaire » : pourquoi manger à horaires irréguliers est mauvais pour la santé",
+      "desc": "Une étude française menée sur une large cohorte suggère un risque accru de maladies cardio-vasculaires chez les hommes exposés à des rythmes alimentaires très variables entre jours de semaine et de repos.",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/01/le-danger-du-jet-lag-alimentaire-pourquoi-manger-a-horaires-irreguliers-est-mauvais-pour-la-sante_6763402_3244.html",
+      "image": "https://img.lemde.fr/2026/09/01/333/0/4000/2000/644/322/60/0/f5cce35_upload-1-t47ie0uztcqk-000-8tq8cc.jpg",
+      "date": "2026-09-01T12:00:20+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Aux États-Unis, la couverture vaccinale des enfants de maternelle recule",
+      "desc": "C'est l'heure de la rentrée en France. Les enfants qui entrent à l'école ou en crèche sont obligatoirement vaccinés contre la diphtérie, le tétanos ou encore les pneumocoques. Aux États-Unis, au contraire, on peut être scolarisé sans être vacciné, et des maladies qu'on croyait avoir éradiquées font ",
+      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/aux-etats-unis-la-couverture-vaccinale-des-enfants-de-maternelle-recule_8168459.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/SClADvzGyxdohhdciT73k_Nd4Is/0x304:3702x2387/432x243/filters:format(jpg)/2026/09/01/6a969cc7da038400148281.jpg",
+      "date": "2026-09-01T11:38:56+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Arrêts maladie : ce que va changer leur plafonnement pour les médecins et leurs patients",
+      "desc": "Les règles concernant la délivrance des arrêts de travail se durcissent. Plus longs et plus nombreux depuis le Covid, ils vont désormais faire l'objet d'un plafonnement. Explications.",
+      "url": "https://www.franceinfo.fr/sante/arrets-maladie-ce-que-va-changer-leur-plafonnement-pour-les-medecins-et-leurs-patients_8171798.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/j3n0RRX6prmajf2XOL4dqW8oE-4/3x0:1163x653/432x243/filters:format(jpg)/2026/09/01/6a9688d949eec420357814.jpg",
+      "date": "2026-09-01T10:14:48+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Plus de 5 000 personnes sont mortes cet été en Espagne à cause de la chaleur",
+      "desc": "L’Institut de santé Carlos III attribue 5 111 décès aux fortes températures enregistrées en juin, juillet et août. Un record depuis le début des relevés.",
+      "url": "https://www.liberation.fr/international/europe/plus-de-5-000-personnes-sont-mortes-cet-ete-en-espagne-a-cause-de-la-chaleur-20260901_OBY5ZWAHHZF5DDLPTYSZDPRK6U/",
+      "image": null,
+      "date": "2026-09-01T09:43:26+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Crue dans l’Himalaya : le bilan dépasse les 1 000 morts au Népal et en Chine",
+      "desc": "Près de 650 personnes travaillant dans des centrales hydroélectriques sont encore recherchées.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/crue-dans-lhimalaya-le-bilan-depasse-les-1-000-morts-au-nepal-et-en-chine-20260901_BQ27HCK5QFBOHG5P257FM6AK4U/",
+      "image": null,
+      "date": "2026-09-01T09:40:51+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "PODCASTLe RN veut interdire le voile, arrêts maladie limités et préretraite pour Messi : ça dit quoi ce 1er septembre ?",
+      "desc": "Ce mardi 1er septembre, le Rassemblement national veut organiser un référendum sur le port du voile dans l'espace public, la durée des arrêts maladie est désormais limitée et Lionel Messi prend sa retraite internationale.",
+      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/le-rn-veut-interdire-le-voile-arrets-maladie-limites-et-preretraite-pour-messi-ca-dit-quoi-ce-1er-septembre_8161412.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/80sBY0jRyqJULv4x42KzWL8ULjY/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a95f5e50264c800004561.jpg",
+      "date": "2026-09-01T08:55:38+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie",
+      "desc": "Romain, 37 ans, et Bénédicte, 60 ans, racontent les insultes, les agressions et les discriminations qu’ils ont subies en raison de leur séropositivité. Tous deux dénoncent la persistance des préjugés sur le VIH, alors qu’un traitement efficace empêche la transmission du virus.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/les-seropositifs-ne-sont-pas-malades-entre-discriminations-et-idees-recues-le-difficile-combat-contre-la-serophobie_8144933.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/RagBv-9GqXYffdRz2UHd9LqO6UQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/01/6a967ff451b47521514806.png",
+      "date": "2026-09-01T08:42:26+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Loi sur la fin de vie : la clause de conscience des travailleurs et des établissements, un sujet de droit social",
+      "desc": "Le Conseil constitutionnel a considéré que l’ensemble des travailleurs susceptibles de participer à la mise en œuvre de l’aide à mourir, comme les pharmaciens, avaient le droit de refuser, les remettant ainsi sur un pied d’égalité avec les médecins ou les infirmiers, explique, dans sa chronique, le ",
+      "url": "https://www.lemonde.fr/emploi/article/2026/09/01/loi-sur-la-fin-de-vie-la-clause-de-conscience-des-travailleurs-et-des-etablissements-un-sujet-de-droit-social_6763179_1698637.html",
+      "image": "https://img.lemde.fr/2026/08/31/449/0/4951/2475/644/322/60/0/4c698ee_upload-1-3somvpxus2g7-000-9up6yt.jpg",
+      "date": "2026-09-01T08:01:53+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le plafonnement des arrêts maladie va \"rigidifier les choses\", regrette l’association de patients France Assos Santé",
+      "desc": "A partir de ce mardi, le premier arrêt est plafonné à un mois et chaque prolongation ne pourra pas dépasser deux mois. L'association dénonce sur France Inter une mesure \"absurde\" qui provoquera \"un engorgement\" chez les médecins.",
+      "url": "https://www.franceinfo.fr/sante/le-plafonnement-des-arrets-maladie-va-rigidifier-les-choses-regrette-l-association-de-patients-france-assos-sante_8171654.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GaWjT-T7Y_hqYQJMt8VhIYIXMag/0x253:4928x3025/432x243/filters:format(jpg)/2026/09/01/6a96670d95682955776078.jpg",
+      "date": "2026-09-01T07:48:50+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un ancien membre de gang reconnu coupable du meurtre de Tupac Shakur",
+      "desc": "Duane Davis, ancien membre d’un gang rival de celui du rappeur, était jugé pour «meurtre au premier degré avec usage d’une arme mortelle». En l’absence de preuves matérielles, l’accusation s’est basée sur son autobiographie dans laquelle il revendiquait sa responsabilité dans le crime.",
+      "url": "https://www.liberation.fr/international/amerique/un-ancien-membre-de-gang-reconnu-coupable-du-meurtre-de-tupac-shakur-20260901_4CJAHRYUONGZNNMUWQZD7BRUOM/",
+      "image": null,
+      "date": "2026-09-01T06:48:40+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Convertir des cellules cérébrales en neurones pour lutter contre les maladies neurodégénératives",
+      "desc": "Des nanoparticules ont permis de transformer des astrocytes en cellules neuronales dans des modèles d’étude de la maladie d’Alzheimer, apportant des améliorations chez la souris.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/01/convertir-des-cellules-cerebrales-en-neurones-pour-lutter-contre-les-maladies-neurodegeneratives_6763108_1650684.html",
+      "image": "https://img.lemde.fr/2026/08/31/286/0/4519/2259/644/322/60/0/899b0fc_upload-1-8zqq2hfn9rrn-sciencephoto-fr-p3600054.jpg",
+      "date": "2026-09-01T06:30:13+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Mort d’Edouard Balladur, frappes russes sur Kyiv, rentrée des classes… L’actu de ce mardi 1er septembre au matin",
+      "desc": "La rédaction de «Libération» compile les principales infos de ce mardi.",
+      "url": "https://www.liberation.fr/international/europe/mort-dedouard-balladur-frappes-russes-sur-kyiv-rentree-des-classes-lactu-de-ce-mardi-1er-septembre-au-matin-20260901_OQ4ASP6HKBDXJM2WDURA7JMGRA/",
+      "image": null,
+      "date": "2026-09-01T05:43:08+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ebola en RDC : l’épidémie dépasse les 6 000 cas confirmés et les 2 900 morts, annoncent les autorités",
       "desc": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre laquelle il n’existe ni vaccin ni traitement.",
@@ -10,36 +130,6 @@
       "date": "2026-08-31T20:11:23+00:00",
       "date_formatted": "31 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Inondations au Népal et au Tibet : le bilan s’alourdit à 955 morts et 4 471 disparus, les sauveteurs évoquent des «difficultés considérables»",
-      "desc": "Cinq jours après les violentes coulées de boue qui ont ravagé les vallées himalayennes au Népal et au Tibet mercredi, le nombre de victimes continue de grimper.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/en-direct-inondations-au-nepal-et-au-tibet-le-bilan-saggrave-a-903-morts-et-4-247-disparus-20260831_SS75HNV6OZC47NMWSR6ZRX2PBI/",
-      "image": null,
-      "date": "2026-08-31T19:49:28+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’Edouard Balladur à 97 ans : l’ancien Premier ministre s’est arrêté",
-      "desc": "Figure de la droite depuis l’époque gaulliste, rival malheureux de Jacques Chirac à la présidentielle de 1995, l’ex-Premier ministre est mort ce lundi 31 août.",
-      "url": "https://www.liberation.fr/politique/edouard-balladur-sest-arrete-20260831_FYUSDLCXVRCV5PKW4IIWQ7TCPM/",
-      "image": null,
-      "date": "2026-08-31T18:42:18+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Peptides illicites : l’agence du médicament interdit la commercialisation d’un nouveau produit vendu en ligne",
-      "desc": "Comme elle l’avait déjà fait en juillet avec d’autres substances, l’ANSM interdit la vente de «FastPen 40 mg». En cause, les allégations infondées sur les bienfaits de ces molécules pour des performances sportives ou contre le vieillissement.",
-      "url": "https://www.liberation.fr/societe/sante/peptides-illicites-lagence-du-medicament-interdit-la-commercialisation-dun-nouveau-produit-vendu-en-ligne-20260831_UEHVEQNR25AGVGJXYTRB6BFSR4/",
-      "image": null,
-      "date": "2026-08-31T18:11:43+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -63,36 +153,6 @@
       "type": "presse"
     },
     {
-      "title": "Etats-Unis : au moins deux morts et environ 15 personnes recherchées après une crue soudaine dans le Grand Canyon",
-      "desc": "Des vidéos tournées par des randonneurs montrent un torrent d’eau boueuse déferlant le long d’un sentier et sous des passerelles, ainsi que des troncs d’arbres et d’autres débris emportés par les rivières en crue.",
-      "url": "https://www.liberation.fr/international/amerique/etats-unis-environ-15-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-20260831_S7OERN5WBJHE3N7WMVH24ACJ24/",
-      "image": null,
-      "date": "2026-08-31T16:41:06+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«C’est trop long» : cinq mois après leur mort dans la Manche, deux corps d’exilés pas encore restitués à leur famille",
-      "desc": "Un rassemblement s’est tenu ce lundi 31 août devant le tribunal de Dunkerque à l’initiative des proches de Jasmeet Singh et Nagmeldin Adam, un Afghan et un Soudanais qui ont péri en tentant la traversée vers l’Angleterre. Ils demandent à pouvoir enfin organiser leurs funérailles.",
-      "url": "https://www.liberation.fr/societe/immigration/cest-trop-long-cinq-mois-apres-leur-mort-dans-la-manche-deux-corps-dexiles-pas-encore-restitues-a-leur-famille-20260831_64ZDGNSFAREC3BRQM4YVS5GO5U/",
-      "image": null,
-      "date": "2026-08-31T16:32:44+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cinq morts à Gaza, un Britannique expulsé par Israël, le «mensonge» occidental d’une solution à deux Etats… L’actu du conflit au Moyen-Orient ce lundi 31 août.",
-      "desc": "L’essentiel des informations du jour sur la situation en Cisjordanie et dans la bande de Gaza.",
-      "url": "https://www.liberation.fr/international/moyen-orient/cinq-morts-a-gaza-un-britannique-expulse-par-israel-le-mensonge-occidental-dune-solution-a-deux-etats-lactu-du-conflit-au-moyen-orient-ce-lundi-31-aout-20260831_G6QCWTJNVBATDGV53M3FEACF7I/",
-      "image": null,
-      "date": "2026-08-31T16:30:51+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
       "desc": "L'épidémie d'Ebola a déjà fait plus de 2.500 morts en République démocratique du Congo (RDC) et \"progresse de façon exponentielle\", a alerté vendredi Julien Harneis, coordinateur principal d’Ebola pour les Nations unies.",
       "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-d-ebola-en-rdc-progresse-de-facon-exponentielle-alerte-l-onu_194380?xtor=RSS-16",
@@ -103,7 +163,7 @@
       "type": "science"
     },
     {
-      "title": "Le vrai ou faux. Qui des arrêts courts ou des arrêts longs coûtent le plus cher à l'Assurance maladie ?",
+      "title": "Vrai ou faux. Qui des arrêts courts ou des arrêts longs coûtent le plus cher à l'Assurance maladie ?",
       "desc": "Le Premier ministre Sébastien Lecornu et le candidat Horizons à la présidentielle Édouard Philippe ont tous les deux dénoncé le coût des arrêts maladie. Mais c'est davantage la durée des arrêts qui coûte cher que leur quantité.",
       "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/le-vrai-ou-faux-qui-des-arrets-courts-ou-des-arrets-longs-coutent-le-plus-cher-a-l-assurance-maladie_8144840.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/ioc_PdyUcfCH6JITbd4uU8dInBY/0x254:4927x3025/432x243/filters:format(jpg)/2026/08/31/6a953bcb80b7e595166381.jpg",
@@ -180,16 +240,6 @@
       "date": "2026-08-28T16:17:36+00:00",
       "date_formatted": "28 August 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Aux États-Unis, une IA fabrique des virus qui combattent les bactéries",
-      "desc": "Des chercheurs de la prestigieuse université californienne de Stanford ont développé une intelligence artificielle capable de créer des virus bactériophages.",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-ia-fabrique-des-virus-qui-combattent-les-bacteries_8138975.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/W0lu18bbUPkxZdqIxCaIiAaKcEU/0x79:1024x655/432x243/filters:format(jpg)/2026/08/28/6a912f488b914585452525.jpg",
-      "date": "2026-08-28T15:30:02+00:00",
-      "date_formatted": "28 August 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -280,16 +330,6 @@
       "date": "2026-08-26T21:08:15+00:00",
       "date_formatted": "26 August 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du pancréas : les Etats-Unis approuvent un traitement qui a doublé la durée de survie des patients",
-      "desc": "Lors de l’essai clinique, la moitié des patients l’ayant pris avaient survécu plus de treize mois, soit une durée deux fois plus longue que pour le groupe sous chimiothérapie.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/08/26/cancer-du-pancreas-les-etats-unis-approuvent-un-traitement-qui-a-double-la-duree-de-survie-des-patients_6757431_1650684.html",
-      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/38ec457_upload-1-pp9dio4dwjlw-frame-340.jpg",
-      "date": "2026-08-26T20:30:30+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
@@ -393,16 +433,6 @@
       "type": "science"
     },
     {
-      "title": "Une mutation génétique rare réduit de 60 % le risque de maladies cardio-vasculaires",
-      "desc": "En analysant le génome de plus d’un million d’individus, une équipe internationale a débusqué un gène dont les mutations, présentes chez une personne sur 7 000, confèrent une saine répartition des graisses corporelles, des taux de lipides sanguins bénéfiques, un bon niveau de contrôle glycémique…",
-      "url": "https://www.lemonde.fr/sciences/article/2026/08/26/une-mutation-genetique-rare-reduit-de-60-le-risque-de-maladies-cardio-vasculaires_6756909_1650684.html",
-      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/4851c4d_upload-1-fkmv0fsx3cfw-frame-252.jpg",
-      "date": "2026-08-26T06:30:09+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Rougeole aux Etats-Unis : deux nouveaux morts en Pennsylvanie",
       "desc": "Ces morts, qui s’ajoutent aux trois autres décomptées en 2025, sont survenues chez des personnes qui n’étaient pas vaccinées, un quart de siècle après que la maladie avait été déclarée éliminée du pays grâce à la vaccination.",
       "url": "https://www.lemonde.fr/international/article/2026/08/26/rougeole-aux-etats-unis-deux-nouveaux-deces-en-pennsylvanie_6756663_3210.html",
@@ -441,56 +471,6 @@
       "date_formatted": "25 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Une première… Le cancer du sein d’une hôtesse de l’air reconnu comme maladie professionnelle",
-      "desc": "Sophie Lainault, hôtesse de l’air âgée de 59 ans, vient d’obtenir la reconnaissance de son cancer du sein comme maladie professionnelle",
-      "url": "https://www.20minutes.fr/sante/4240947-20260825-premiere-cancer-sein-hotesse-air-reconnu-comme-maladie-professionnelle?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/sqTxACtPTginQq6fHBmErik/1200x768_extreme-photographer-de-getty-images-signature",
-      "date": "2026-08-25T17:09:38+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Etats-Unis : Une fillette de 8 ans meurt d’amibes « mangeuses de cerveau » après s’être baignée dans un lac",
-      "desc": "Une Américaine de huit ans est morte samedi en Louisiane des suites d’une infection par une amibe « mangeuse de cerveau » contractée en se baignant dans un lac, une infection rare mais presque toujours mortelle, rapporte « The Guardian »",
-      "url": "https://www.20minutes.fr/faits_divers/4240906-20260825-etats-unis-fillette-8-ans-meurt-amibes-mangeuses-cerveau-apres-etre-baignee-lac?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/lKylSYhXRqSOVg6aVVS2bik/1200x768_une-fillette-de-huit-ans-originaire-de-louisiane-est-decedee-apres-avoir-ete-infectee-par-naegleria-fowleri-une-amibe-mangeuse-de-cerveau-suite-a-une-baignade-dans-le-lac-de-clairborne-aux-etats-unis-capture-d-ecran-facebook-love-for-lillian",
-      "date": "2026-08-25T14:55:05+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une exposition élevée et persistante au bruit routier au début de l’enfance est associée à un risque accru de difficultés émotionnelles et relationnelles à 10 ans",
-      "desc": "En Europe, plus d’une personne sur cinq est exposée de manière chronique à des niveaux de bruit liés au transport considérés comme nocifs pour la santé; le trafic routier en constitue la principale source. Si les effets du bruit sur la santé cardiovasculaire sont relativement bien documentés, l’impa",
-      "url": "https://presse.inserm.fr/une-exposition-elevee-et-persistante-au-bruit-routier-au-debut-de-lenfance-est-associee-a-un-risque-accru-de-difficultes-emotionnelles-et-relationnelles-a-10-ans/73139/",
-      "image": null,
-      "date": "2026-08-25T07:00:59+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "« Un handicap établi une fois n’a pas à être plaidé sans fin »",
-      "desc": "Guillaume Adam, responsable associatif et autiste, souligne, dans une tribune au « Monde », l’angle mort qu’est le handicap invisible dans le débat public. Ceux qui en souffrent s’épuisent à le taire, à le camoufler ou à devoir en prouver sans cesse la réalité auprès des institutions.",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/24/un-handicap-etabli-une-fois-n-a-pas-a-etre-plaide-sans-fin_6755548_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/10f5d75_upload-1-vkh5yy2ntv4i-frame-835.jpg",
-      "date": "2026-08-24T18:00:05+00:00",
-      "date_formatted": "24 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des chercheurs lillois révèlent des variants rares du gène PLCG2 qui multiplient le risque de développer la maladie d’Alzheimer",
-      "desc": "Une équipe de chercheurs lillois de l’Inserm, de l’Université de Lille, de l’Institut Pasteur de Lille et du CHU de Lille, avec plusieurs partenaires internationaux, publie dans Nature Genetics une découverte qui éclaire les mécanismes de la maladie d’Alzheimer. PLCG2, gène déjà connu pour son assoc",
-      "url": "https://presse.inserm.fr/des-chercheurs-lillois-revelent-des-variants-rares-du-gene-plcg2-qui-multiplient-le-risque-de-developper-la-maladie-dalzheimer/73151/",
-      "image": null,
-      "date": "2026-08-24T16:04:30+00:00",
-      "date_formatted": "24 August 2026",
-      "source": "Inserm",
-      "type": "science"
     },
     {
       "title": "Les supercentenaires ont une immunité optimisée",
@@ -560,126 +540,6 @@
       "date": "2026-08-06T08:55:37+00:00",
       "date_formatted": "6 August 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
-      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
-      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
-      "image": null,
-      "date": "2026-07-23T14:01:16+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
-      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
-      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
-      "image": null,
-      "date": "2026-07-21T08:00:02+00:00",
-      "date_formatted": "21 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
-      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
-      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
-      "image": null,
-      "date": "2026-06-10T14:51:02+00:00",
-      "date_formatted": "10 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
-      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
-      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
-      "image": null,
-      "date": "2026-06-04T14:00:29+00:00",
-      "date_formatted": "4 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : que sait-on du variant Bundibugyo qui circule en RDC et en Ouganda ?",
-      "desc": "Origine, transmission, espoirs pour la recherche… L’ANRS Maladies infectieuses émergentes, agence dédiée, et l’Inserm font le point sur les données scientifiques disponibles sur le variant Bundibugyo d’Ebola, à l’origine d’une épidémie en République démocratique du Congo déclarée comme « urgence san",
-      "url": "https://presse.inserm.fr/canal-detox/ebola-que-sait-on-du-variant-bundibugyo-qui-circule-en-rdc-et-en-ouganda/",
-      "image": null,
-      "date": "2026-05-21T15:07:03+00:00",
-      "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
