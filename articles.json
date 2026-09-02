@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-02T10:04:32.868020+00:00",
-  "count": 69,
+  "generated_at": "2026-09-02T15:28:07.053011+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title": "Arrêts maladie plafonnés : qui est concerné ?",
+      "desc": "Un médecin peut désormais prescrire au maximum 31 jours d’arrêt d’un seul coup. 62 jours pour un renouvellement. Au-delà, il faudra le justifier. L’objectif est de mieux contrôler une dépense qui ne cesse d’augmenter. Faudra-t-il consulter plus souvent ? Cette mesure permettra-t-elle de faire réelle",
+      "url": "https://www.franceinfo.fr/sante/arrets-maladie-plafonnes-qui-est-concerne_8173667.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/6MB6Sv_gjSuGkeM6apc-l4voAsw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a97f68643284608920427.jpg",
+      "date": "2026-09-02T14:00:01+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quand le Premier ministre Edouard Balladur s’immisçait dans les Affaires étrangères",
+      "desc": "De la renégociation des accords Blair House à l’épineux dossier du génocide au Rwanda, l’ex-Premier ministre, mort le 31 août, a joué un rôle prépondérant dans le domaine réservé du président de la République, rappelle l’historien Pierre-Emmanuel Guigo.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/quand-le-premier-ministre-edouard-balladur-simmiscait-dans-les-affaires-etrangeres-20260902_3SQPBSXLMBBNJKVLPO5UC22GS4/",
+      "image": null,
+      "date": "2026-09-02T13:49:00+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des sous-marins nanoscopiques pour échographies ultraprécises",
+      "desc": "Inspirés par une chanson des Beatles, Wiebke Drenckhan et Jean Farago reviennent dans leur Carte blanche au « Monde » sur une magnifique invention qui pourrait améliorer l’imagerie médicale ultrasonore, par exemple en détectant plus tôt la survenue des cancers.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/02/des-sous-marins-nanoscopiques-pour-echographies-ultraprecises_6764367_1650684.html",
+      "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
+      "date": "2026-09-02T12:30:05+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Le bilan de l'épidémie d'Ebola en République démocratique du Congo dépasse les 3 000 morts",
+      "desc": "Avec plus de 6 000 cas confirmés elon les derniers relevés des autorités sanitaires congolaises, cette épidémie est la plus meurtrière qu'ait eu à affronter le pays.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-3-000-morts_8173661.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/k2G1m_P10nDSiPlyiu0E5c-XUOQ/0x146:5760x3386/432x243/filters:format(jpg)/2026/09/02/6a97f7852afb0119954699.jpg",
+      "date": "2026-09-02T12:23:43+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola en RDC : l’épidémie cause plus de 3 000 morts, sur plus de 6 000 cas confirmés",
+      "desc": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre lequel il n’existe ni vaccin ni traitement.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/09/02/ebola-en-rdc-l-epidemie-depasse-la-barre-des-3-000-morts-sur-plus-de-6-000-cas-confirmes_6764364_3212.html",
+      "image": "https://img.lemde.fr/2026/09/01/465/0/4000/2000/644/322/60/0/d2726e2_ftp-1-sxoy7hju11mn-2026-09-01t213141z-1337632565-rc2ndmaakunb-rtrmadp-3-health-ebola-britain-drc.JPG",
+      "date": "2026-09-02T12:22:52+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Une piste prometteuse pour développer un vaccin contre les virus transmis par les moustiques",
       "desc": "Des chercheurs français ont mis en évidence le mécanisme par lequel la salive des moustiques favorise la transmission de virus comme la dengue, le Zika ou la fièvre jaune. Ces travaux ouvrent la voie à un vaccin ciblant la salive du moustique, dont les premiers tests sur des souris sont encourageant",
@@ -10,16 +60,6 @@
       "date": "2026-09-02T09:39:57+00:00",
       "date_formatted": "2 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Jean-Paul Rappeneau, réalisateur de «Cyrano», un cinéaste qui avait de l’allure",
-      "desc": "Aussi rares qu’échevelées, les comédies du réalisateur, peuplées de stars et d’élégance, auront réussi, de «la Vie de château» à «Bon Voyage» en passant par «Tout feu tout flamme» et «Cyrano», à tenir l’équilibre entre légèreté et nostalgie. Il est mort ce mercredi 2 septembre à 94 ans.",
-      "url": "https://www.liberation.fr/culture/cinema/mort-de-jean-paul-rappeneau-un-cineaste-qui-a-de-lallure-20260902_RI6BISXMFZD7DB7DBRXL3TRMJU/",
-      "image": null,
-      "date": "2026-09-02T08:26:37+00:00",
-      "date_formatted": "2 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -163,16 +203,6 @@
       "type": "presse"
     },
     {
-      "title": "REPORTAGE. \"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie",
-      "desc": "Romain, 37 ans, et Bénédicte, 60 ans, racontent les insultes, les agressions et les discriminations qu’ils ont subies en raison de leur séropositivité. Tous deux dénoncent la persistance des préjugés sur le VIH, alors qu’un traitement efficace empêche la transmission du virus.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/les-seropositifs-ne-sont-pas-malades-entre-discriminations-et-idees-recues-le-difficile-combat-contre-la-serophobie_8144933.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/RagBv-9GqXYffdRz2UHd9LqO6UQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/01/6a967ff451b47521514806.png",
-      "date": "2026-09-01T08:42:26+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Loi sur la fin de vie : la clause de conscience des travailleurs et des établissements, un sujet de droit social",
       "desc": "Le Conseil constitutionnel a considéré que l’ensemble des travailleurs susceptibles de participer à la mise en œuvre de l’aide à mourir, comme les pharmaciens, avaient le droit de refuser, les remettant ainsi sur un pied d’égalité avec les médecins ou les infirmiers, explique, dans sa chronique, le ",
       "url": "https://www.lemonde.fr/emploi/article/2026/09/01/loi-sur-la-fin-de-vie-la-clause-de-conscience-des-travailleurs-et-des-etablissements-un-sujet-de-droit-social_6763179_1698637.html",
@@ -180,16 +210,6 @@
       "date": "2026-09-01T08:01:53+00:00",
       "date_formatted": "1 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le plafonnement des arrêts maladie va \"rigidifier les choses\", regrette l’association de patients France Assos Santé",
-      "desc": "A partir de ce mardi, le premier arrêt est plafonné à un mois et chaque prolongation ne pourra pas dépasser deux mois. L'association dénonce sur France Inter une mesure \"absurde\" qui provoquera \"un engorgement\" chez les médecins.",
-      "url": "https://www.franceinfo.fr/sante/le-plafonnement-des-arrets-maladie-va-rigidifier-les-choses-regrette-l-association-de-patients-france-assos-sante_8171654.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/GaWjT-T7Y_hqYQJMt8VhIYIXMag/0x253:4928x3025/432x243/filters:format(jpg)/2026/09/01/6a96670d95682955776078.jpg",
-      "date": "2026-09-01T07:48:50+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -221,16 +241,6 @@
       "date_formatted": "31 August 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "L'épidémie d'Ebola en République démocratique du Congo dépasse les 6 000 cas confirmés",
-      "desc": "Il s'agit de l'épidémie la plus meurtrière qu'ait dû affronter le pays.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-6-000-cas-confirmes_8170892.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/whmApm7DtwcRzbQxD4GYcgMRAzw/0x67:1280x787/432x243/filters:format(jpg)/2026/08/31/6a95931fbcf03529418597.jpg",
-      "date": "2026-08-31T16:46:43+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
@@ -458,26 +468,6 @@
       "url": "https://www.lemonde.fr/societe/article/2026/08/25/assurance-maladie-mutuelles-professionnels-de-sante-et-associations-de-patients-inquiets-de-la-hausse-du-ticket-moderateur-et-des-plafonds-des-franchises_6756628_3224.html",
       "image": "https://img.lemde.fr/2026/08/25/277/0/2185/1092/644/322/60/0/91d9e90_upload-1-knmebtqwdpgf-image1.jpeg",
       "date": "2026-08-25T23:19:55+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "VIH : deux hommes séropositifs en grève de la faim, victimes de harcèlement et de menaces de mort, seront reçus par Aurore Bergé le 2 septembre",
-      "desc": "Ils ont commencé lundi matin leur grève de la faim devant le tribunal de Reims. Ils appellent à des rassemblements devant tous les palais de justice en France mercredi à 18 heures.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/25/vih-deux-hommes-seropositifs-en-greve-de-la-faim-victimes-de-harcelement-et-de-menaces-de-mort-seront-recus-par-aurore-berge-le-2-septembre_6756610_3224.html",
-      "image": "https://img.lemde.fr/2026/08/25/481/0/1080/540/644/322/60/0/3ad4f1f_upload-1-fedcvciwo6ec-786390850-1849720036189485-7195952215157472115-n.jpg",
-      "date": "2026-08-25T18:16:11+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En RDC, la colère des soignants, en première ligne face à Ebola, mais rarement payés",
-      "desc": "Depuis début juillet, les agents de santé confrontés à l’épidémie multiplient les grèves sporadiques pour réclamer le paiement de leur salaire. Le gouvernement a reconnu des détournements de fonds qui fragilisent la riposte contre la maladie à virus Ebola.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/25/en-rdc-la-colere-des-soignants-en-premiere-ligne-face-a-ebola-mais-rarement-payes_6756602_3212.html",
-      "image": "https://img.lemde.fr/2026/08/06/190/0/5000/2500/644/322/60/0/59512f0_ftp-1-xifeyt6cbrv1-43f5651fc593443d9e191a3b74d20ac3-1-8c4215a4a16344c6835a2b295a973f93.jpg",
-      "date": "2026-08-25T18:00:01+00:00",
       "date_formatted": "25 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
