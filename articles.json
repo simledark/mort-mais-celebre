@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-02T01:41:37.584576+00:00",
-  "count": 68,
+  "generated_at": "2026-09-02T10:04:32.868020+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title": "Une piste prometteuse pour développer un vaccin contre les virus transmis par les moustiques",
+      "desc": "Des chercheurs français ont mis en évidence le mécanisme par lequel la salive des moustiques favorise la transmission de virus comme la dengue, le Zika ou la fièvre jaune. Ces travaux ouvrent la voie à un vaccin ciblant la salive du moustique, dont les premiers tests sur des souris sont encourageant",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/une-piste-prometteuse-pour-developper-un-vaccin-contre-les-virus-transmis-par-les-moustiques_8173268.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/vUSvvB9KB3f3EAbmh66_dewRyO0/0x464:5000x3276/432x243/filters:format(jpg)/2026/09/02/6a97cb084c674296331963.jpg",
+      "date": "2026-09-02T09:39:57+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Jean-Paul Rappeneau, réalisateur de «Cyrano», un cinéaste qui avait de l’allure",
+      "desc": "Aussi rares qu’échevelées, les comédies du réalisateur, peuplées de stars et d’élégance, auront réussi, de «la Vie de château» à «Bon Voyage» en passant par «Tout feu tout flamme» et «Cyrano», à tenir l’équilibre entre légèreté et nostalgie. Il est mort ce mercredi 2 septembre à 94 ans.",
+      "url": "https://www.liberation.fr/culture/cinema/mort-de-jean-paul-rappeneau-un-cineaste-qui-a-de-lallure-20260902_RI6BISXMFZD7DB7DBRXL3TRMJU/",
+      "image": null,
+      "date": "2026-09-02T08:26:37+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vieillir en bonne santé : bien traiter sa tension pourrait aussi protéger le cerveau",
+      "desc": "Une étude portant sur 35 000 personnes s’est penchée sur les liens entre santé cardiovasculaire et vieillissement cognitif. Elle explore l’impact d’une prise en charge de l’hypertension, notamment par traitements médicamenteux, sur le maintien des fonctions cérébrales et de la santé mentale avec...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-bonne-sante-bien-traiter-tension-pourrait-aussi-proteger-cerveau-w2t8-137074/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/1/c/01c72fc719_50259503_traiter-hypertension-proteger-cerveau.jpg",
+      "date": "2026-09-02T08:00:00+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Démence : cette vitamine courante est associée à des scores cognitifs 13 % plus élevés",
+      "desc": "Chez les personnes présentant des signes précoces de démence, une supplémentation en vitamine peu coûteuse et accessible à tous pourrait avoir un effet protecteur prometteur.",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-demence-cette-vitamine-courante-associee-scores-cognitifs-13-plus-eleves-137455/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/3/7/83704e4acb_50260238_homme-prenant-comple-ment-alimentaire.jpg",
+      "date": "2026-09-02T05:33:29+00:00",
+      "date_formatted": "2 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Plafonnement des arrêts maladie : \"Sur des arrêts longs, très majoritairement, ce n'est pas là où il y a de l'abus\", estime un économiste de la santé",
       "desc": "Depuis ce mardi 1er septembre, en France, un médecin peut prescrire au maximum 31 jours d’arrêt maladie d’un seul coup et 62 jours pour un renouvellement. Au-delà, il faudra le justifier. L’objectif est notamment de mieux contrôler une dépense qui ne cesse d’augmenter. Mais faudra-t-il consulter plu",
@@ -10,16 +50,6 @@
       "date": "2026-09-01T22:07:02+00:00",
       "date_formatted": "1 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Gaël Lépingle, réalisateur du «Retour avant 15 heures» : «J’ai voulu restituer la puissance poétique du milieu pavillonnaire»",
-      "desc": "Découverte des notes de son père, théâtre du quotidien, vertige de la mort… Le cinéaste, qui travaille dans les marges du cinéma français, raconte à «Libé» la genèse de son beau film proustien.",
-      "url": "https://www.liberation.fr/culture/cinema/gael-lepingle-realisateur-du-retour-avant-15-heures-jai-voulu-restituer-la-puissance-poetique-du-milieu-pavillonnaire-20260901_OEYYW3WNC5B3BNQXBSMUVMTH5I/",
-      "image": null,
-      "date": "2026-09-01T19:15:00+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -123,7 +153,7 @@
       "type": "science"
     },
     {
-      "title": "PODCASTLe RN veut interdire le voile, arrêts maladie limités et préretraite pour Messi : ça dit quoi ce 1er septembre ?",
+      "title": "PODCAST. Le RN veut interdire le voile, arrêts maladie limités et préretraite pour Messi : ça dit quoi ce 1er septembre ?",
       "desc": "Ce mardi 1er septembre, le Rassemblement national veut organiser un référendum sur le port du voile dans l'espace public, la durée des arrêts maladie est désormais limitée et Lionel Messi prend sa retraite internationale.",
       "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/le-rn-veut-interdire-le-voile-arrets-maladie-limites-et-preretraite-pour-messi-ca-dit-quoi-ce-1er-septembre_8161412.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/80sBY0jRyqJULv4x42KzWL8ULjY/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a95f5e50264c800004561.jpg",
@@ -133,7 +163,7 @@
       "type": "presse"
     },
     {
-      "title": "REMPORTAGE. \"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie",
+      "title": "REPORTAGE. \"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie",
       "desc": "Romain, 37 ans, et Bénédicte, 60 ans, racontent les insultes, les agressions et les discriminations qu’ils ont subies en raison de leur séropositivité. Tous deux dénoncent la persistance des préjugés sur le VIH, alors qu’un traitement efficace empêche la transmission du virus.",
       "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/les-seropositifs-ne-sont-pas-malades-entre-discriminations-et-idees-recues-le-difficile-combat-contre-la-serophobie_8144933.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/RagBv-9GqXYffdRz2UHd9LqO6UQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/01/6a967ff451b47521514806.png",
@@ -211,16 +241,6 @@
       "date_formatted": "31 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Vrai ou faux. Qui des arrêts courts ou des arrêts longs coûtent le plus cher à l'Assurance maladie ?",
-      "desc": "Le Premier ministre Sébastien Lecornu et le candidat Horizons à la présidentielle Édouard Philippe ont tous les deux dénoncé le coût des arrêts maladie. Mais c'est davantage la durée des arrêts qui coûte cher que leur quantité.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/le-vrai-ou-faux-qui-des-arrets-courts-ou-des-arrets-longs-coutent-le-plus-cher-a-l-assurance-maladie_8144840.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ioc_PdyUcfCH6JITbd4uU8dInBY/0x254:4927x3025/432x243/filters:format(jpg)/2026/08/31/6a953bcb80b7e595166381.jpg",
-      "date": "2026-08-31T10:36:44+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ?",
@@ -341,16 +361,6 @@
       "date_formatted": "27 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Le bilan provisoire des canicules vient bousculer ce que l’on croyait savoir sur leurs victimes",
-      "desc": "On imagine spontanément les personnes âgées comme les premières victimes des canicules. Pourtant, les chiffres racontent une histoire bien plus inquiétante : dès 45 ans, la surmortalité s’envole, et les 15-64 ans ne sont pas épargnés. Accidents, noyades, violences, alcool, suicides… Quand le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/canicule-bilan-provisoire-canicules-vient-bousculer-ce-on-croyait-savoir-leurs-victimes-137335/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/c/a/5cabd3d4a6_50260026_chaleur-extreme.jpg",
-      "date": "2026-08-26T21:08:15+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Etats-Unis : Un traitement prometteur contre le cancer du pancréas approuvé",
