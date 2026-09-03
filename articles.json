@@ -1,7 +1,107 @@
 {
-  "generated_at": "2026-09-03T01:47:15.063239+00:00",
-  "count": 66,
+  "generated_at": "2026-09-03T10:14:35.883569+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title": "Le travail en décalé nuit à la santé",
+      "desc": "Salut c’est Sarah, ça dit quoi ? Le travail en décalé n’est pas anodin pour votre santé. L’Anses, l'agence de sécurité sanitaire, liste plusieurs conséquences : risques de diabète, de maladies cardiovasculaires voire isolement sociale… Les trois quarts des Français pourraient être concernés.",
+      "url": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/sante-au-travail/le-travail-en-decale-nuit-a-la-sante_8175155.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GG8C6LeQ3AO9kVPlIWcE9VnGe2U/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/03/6a993d1411fc0192909581.png",
+      "date": "2026-09-03T11:26:32+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"C'est la santé bucco-dentaire qui va sans doute être mise à mal\" : les dentistes inquiets après l'annonce de la réduction du taux de remboursement par l'assurance maladie",
+      "desc": "Le gouvernement a confirmé son intention de baisser dès janvier 2027 le taux de remboursement des soins dentaires par la Sécurité sociale. A 60% actuellement, il pourrait passer à 50%, voire même 40%. Les dentistes sont vent debout et alertent sur les conséquences pour la santé des patients.",
+      "url": "https://www.franceinfo.fr/sante/politique-de-sante/c-est-la-sante-bucco-dentaire-qui-va-sans-doute-etre-mise-a-mal-les-dentistes-inquiets-apres-l-annonce-de-la-reduction-du-taux-de-remboursement-par-l-assurance-maladie_8175086.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Nu6PFgZ25uDCDYjLZVtY8eMZ7bw/107x0:1379x715/432x243/filters:format(jpg)/2026/09/03/6a9938209a895733575107.jpg",
+      "date": "2026-09-03T11:05:08+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des jardins thérapeutiques pour soigner les maux du XXIe siècle",
+      "desc": "Cette semaine, «Libé» défriche des jardins qui répondent aux enjeux futurs (sécheresse, biodiversité, santé). Aujourd’hui, des coins de verdure conçus pour combattre la dépression, la démence ou la perte d’autonomie.",
+      "url": "https://www.liberation.fr/lifestyle/design/des-jardins-therapeutiques-pour-soigner-les-maux-du-xxie-siecle-20260903_M74IFEOL7FD6JHEXG7HN5ZFSHU/",
+      "image": null,
+      "date": "2026-09-03T10:09:00+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Quatre corps d’une même famille, dont deux enfants, découverts en Haute-Saône",
+      "desc": "Selon les informations de «l’Est républicain», c’est le père des deux enfants qui a fait feu contre eux, avant de se suicider. La quatrième personne est une femme, dont le lien de filiation avec les autres victimes n’a pas été confirmé.",
+      "url": "https://www.liberation.fr/societe/police-justice/quatre-corps-dune-meme-famille-dont-deux-enfants-decouverts-en-haute-saone-20260903_JKTSXGIDZBFNZAZK6EKCSCCPUA/",
+      "image": null,
+      "date": "2026-09-03T08:45:15+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Diabète de type 2 : de nouveaux sous-types identifiés pour mieux prédire l’évolution de la maladie",
+      "desc": "Des chercheurs et chercheuses de l’Inserm, du CNRS, et de l’Université Paris Cité décrivent pour la première fois différents profils immunitaires chez les patients atteints d’un diabète de type 2. Facilement identifiables avec une simple prise de sang, les patients avec des cellules immunitaires en ",
+      "url": "https://presse.inserm.fr/diabete-de-type-2-de-nouveaux-sous-types-identifies-pour-mieux-predire-levolution-de-la-maladie/73174/",
+      "image": null,
+      "date": "2026-09-03T08:00:08+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "«Si j’étais la famille royale, je ne les aurais pas repris» : Trump «heureux» du départ d’Harry et Meghan des Etats-Unis pour l’Angleterre",
+      "desc": "Le fils cadet de la famille royale et son épouse Meghan Markle semblent avoir renoué avec le roi Charles III, qui se bat contre un cancer, et pourraient s’installer dans une région au nord-ouest de Londres.",
+      "url": "https://www.liberation.fr/international/amerique/si-jetais-la-famille-oyale-je-ne-les-aurais-pas-repris-trump-heureux-du-depart-dharry-et-meghan-des-etats-unis-pour-langleterre-20260903_2BFSA2DV75G2HLPMGEEHJ7XCZU/",
+      "image": null,
+      "date": "2026-09-03T07:23:37+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des physiciens se penchent sur le mystère des grains de sable sauteurs",
+      "desc": "En cherchant à comprendre la raison pour laquelle les grains ne se répartissent pas de façon homogène sur une plaque, les chercheurs ont été mis sur la voie d’une nouvelle loi.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/03/des-physiciens-se-penchent-sur-le-mystere-des-grains-de-sable-sauteurs_6764957_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/02/432/0/5184/2592/644/322/60/0/268ccfd_upload-1-jtawinl4wh4s-img-3794.JPG",
+      "date": "2026-09-03T07:00:03+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Une piste prometteuse pour développer un vaccin contre les virus transmis par les moustiques",
+      "desc": "La salive des moustiques aiderait les virus à mieux nous infecter : des scientifiques ont découvert un mécanisme qui permettrait à certains d'entre eux, comme Zika ou celui du Nil occidental, de contourner nos premières défenses immunitaires dès la piqûre. Une avancée qui ouvre de nouvelles pistes p",
+      "url": "https://www.franceinfo.fr/sante/une-piste-prometteuse-pour-developper-un-vaccin-contre-les-virus-transmis-par-les-moustiques_8174288.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/vXJxGcNsljaxxusSsOEONRQGxhQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a985f563bc47863120160.jpg",
+      "date": "2026-09-03T06:00:19+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la peau : Faute de dermatos, les kinés et infirmiers peuvent repérer des lésions suspectes",
+      "desc": "Face au manque de dermatologues, des kinés, infirmiers et pharmaciens se forment au repérage des lésions cutanées suspectes",
+      "url": "https://www.20minutes.fr/sante/4241933-20260903-cancer-peau-faute-dermatos-kines-infirmiers-peuvent-reperer-lesions-suspectes?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/KjAKE9opTl2e7y7lKmXQzyk/1200x768_pour-faire-face-a-la-penurie-de-dermatologues-des-professionnels-de-sante-se-forment-au-reperage-des-lesions-cutanees-suspectes",
+      "date": "2026-09-03T05:32:37+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Trop de sucre dans le sang pourrait aider les cellules cancéreuses à se protéger du système immunitaire",
+      "desc": "Et si les cellules cancéreuses se cachaient derrière un véritable bouclier de sucre ? Des chercheurs viennent de mettre en évidence un mécanisme qui pourrait les aider à échapper à la surveillance du système immunitaire, et montrent qu’une glycémie élevée pourrait, dans certaines conditions,...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-trop-sucre-sang-pourrait-aider-cellules-cancereuses-proteger-systeme-immunitaire-137468/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/1/a/f1a0d9f902_50260275_cellule-cancereuse-immunite.jpg",
+      "date": "2026-09-03T05:27:13+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Syndrome du canal carpien : une majorité de Français atteints l’imputent au travail, mais très peu le déclarent",
       "desc": "Plus de 70 % des personnes atteintes attribuent leur pathologie au travail, mais 10 % seulement ont fait les démarches nécessaires pour la faire reconnaître en tant que maladie professionnelle.",
@@ -10,26 +110,6 @@
       "date": "2026-09-02T19:49:55+00:00",
       "date_formatted": "2 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Jean-Paul Rappeneau, messe contestée du Pape en France, motion contre la direction à Radio France... L’actu de ce mercredi 2 septembre",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "url": "https://www.liberation.fr/international/europe/mort-de-jean-paul-rappeneau-messe-contestee-du-pape-en-france-motion-contre-la-direction-a-radio-france-lactu-de-ce-mercredi-2-septembre-20260902_RQCSXDNPQBB63FMOC257M6HS4A/",
-      "image": null,
-      "date": "2026-09-02T16:27:23+00:00",
-      "date_formatted": "2 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Crues au Népal et au Tibet : après une semaine de recherches, l’espoir de trouver des rescapés au plus bas",
-      "desc": "Le bilan s’est encore alourdi ce 2 septembre à 1 225 morts et 4 757 disparus.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/crues-au-nepal-et-au-tibet-apres-une-semaine-de-recherches-lespoir-de-trouver-des-rescapes-au-plus-bas-20260902_GGKXOZI3JZDFXIU5JRW5U2UW7U/",
-      "image": null,
-      "date": "2026-09-02T16:05:38+00:00",
-      "date_formatted": "2 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -143,26 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "Deux cas de légionellose identifiés en Haute-Saône, dont un mortel",
-      "desc": "La légionellose est une affection pulmonaire provoquée par une bactérie, la légionelle, qui affecte essentiellement les adultes et peut être grave chez les personnes fragiles.",
-      "url": "https://www.franceinfo.fr/sante/en-haute-saone-deux-cas-de-legionellose-identifies-dont-un-mortel_8172197.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ljUDQ_Tz3Bcj6Z4-pz_DnmnpTO0/0x250:4800x2950/432x243/filters:format(jpg)/2026/09/01/6a96d6c4ab057684812893.jpg",
-      "date": "2026-09-01T15:48:58+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Plafonnement des arrêts maladie : \"C’est du bricolage, l'essentiel des mesures à prendre est ailleurs\", estime un économiste de la santé",
-      "desc": "Les règles concernant la délivrance des arrêts de travail se durcissent. À compter de mardi, le premier arrêt est limité à un mois, et chaque prolongation, sauf exception, ne pourra pas excéder deux mois.",
-      "url": "https://www.franceinfo.fr/sante/plafonnement-des-arrets-maladie-c-est-du-bricolage-l-essentiel-des-mesures-a-prendre-est-ailleurs-estime-un-economiste-de-la-sante_8171837.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/FS92LqoppChqLKGh6MG_wQ9sMkc/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/01/6a96bd20c6913453866673.jpg",
-      "date": "2026-09-01T14:03:50+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Les risques du « jet-lag alimentaire » : pourquoi manger à horaires irréguliers peut nuire à la santé",
       "desc": "Une étude française publiée mardi, menée sur une large cohorte, suggère un risque accru de maladies cardio-vasculaires chez les hommes exposés à des rythmes alimentaires très variables entre jours de semaine et de repos.",
       "url": "https://www.lemonde.fr/planete/article/2026/09/01/le-danger-du-jet-lag-alimentaire-pourquoi-manger-a-horaires-irreguliers-est-mauvais-pour-la-sante_6763402_3244.html",
@@ -170,16 +230,6 @@
       "date": "2026-09-01T12:00:08+00:00",
       "date_formatted": "1 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Aux États-Unis, la couverture vaccinale des enfants de maternelle recule",
-      "desc": "C'est l'heure de la rentrée en France. Les enfants qui entrent à l'école ou en crèche sont obligatoirement vaccinés contre la diphtérie, le tétanos ou encore les pneumocoques. Aux États-Unis, au contraire, on peut être scolarisé sans être vacciné, et des maladies qu'on croyait avoir éradiquées font ",
-      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/aux-etats-unis-la-couverture-vaccinale-des-enfants-de-maternelle-recule_8168459.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/SClADvzGyxdohhdciT73k_Nd4Is/0x304:3702x2387/432x243/filters:format(jpg)/2026/09/01/6a969cc7da038400148281.jpg",
-      "date": "2026-09-01T11:38:56+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -193,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "Arrêts maladie : ce que va changer leur plafonnement pour les médecins et leurs patients",
-      "desc": "Les règles concernant la délivrance des arrêts de travail se durcissent. Plus longs et plus nombreux depuis le Covid, ils vont désormais faire l'objet d'un plafonnement. Explications.",
-      "url": "https://www.franceinfo.fr/sante/arrets-maladie-ce-que-va-changer-leur-plafonnement-pour-les-medecins-et-leurs-patients_8171798.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/j3n0RRX6prmajf2XOL4dqW8oE-4/3x0:1163x653/432x243/filters:format(jpg)/2026/09/01/6a9688d949eec420357814.jpg",
-      "date": "2026-09-01T10:14:48+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Un lien entre « jetlag alimentaire » et risque de maladies cardiovasculaires chez les hommes",
       "desc": "Une équipe d’INRAE, de l’Inserm, de l’université Sorbonne Paris Nord, de l’université Paris Cité et du Cnam publie une première étude sur les liens entre « jetlag alimentaire » et risque de maladies cardiovasculaires. Le jetlag alimentaire correspond au décalage dans le temps entre les heures de pri",
       "url": "https://presse.inserm.fr/un-lien-entre-jetlag-alimentaire-et-risque-de-maladies-cardiovasculaires-chez-les-hommes/73162/",
@@ -211,16 +251,6 @@
       "date_formatted": "1 September 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "PODCAST. Le RN veut interdire le voile, arrêts maladie limités et préretraite pour Messi : ça dit quoi ce 1er septembre ?",
-      "desc": "Ce mardi 1er septembre, le Rassemblement national veut organiser un référendum sur le port du voile dans l'espace public, la durée des arrêts maladie est désormais limitée et Lionel Messi prend sa retraite internationale.",
-      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/le-rn-veut-interdire-le-voile-arrets-maladie-limites-et-preretraite-pour-messi-ca-dit-quoi-ce-1er-septembre_8161412.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/80sBY0jRyqJULv4x42KzWL8ULjY/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a95f5e50264c800004561.jpg",
-      "date": "2026-09-01T08:55:38+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Loi sur la fin de vie : la clause de conscience des travailleurs et des établissements, un sujet de droit social",
@@ -408,16 +438,6 @@
       "url": "https://www.20minutes.fr/sante/4241116-20260826-allemagne-quoi-paludisme-aeroport-vient-faire-mort-francfort?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/TbWekti7Rd6F1hTxwciz3Ck/1200x768_09-juillet-2026-hesse-francfort-sur-le-main-les-vacanciers-passent-devant-un-grand-panneau-d-information-dans-le-terminal-1-rien-qu-en-2025-l-aeroport-de-francfort-a-accueilli-environ-63-2-millions-de-passagers-photo-jennifer-bruckner-dpa-ur-newsml-dpa-com-20090101-260709-99-14130-jennifer-bruckner-dpa-sipa-2607091650",
       "date": "2026-08-26T15:25:20+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fraudes : L’Assurance maladie devrait s’attaquer davantage aux professionnels de santé, estime un rapport",
-      "desc": "La chasse aux fraudeurs par l’Assurance maladie devrait se concentrer plus sur les professionnels de santé, et moins sur les particuliers",
-      "url": "https://www.20minutes.fr/sante/4241068-20260826-fraudes-assurance-maladie-devrait-attaquer-plus-professionnels-sante-particuliers-selon-rapport?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/fEu3Obq7QTKaSnEVnLZ_bCk/1200x768_photo-ilklustration-d-un-arret-de-travail-du-medecin-07allilimages-16040141-credit-mourad-allili-sipa-2604161503",
-      "date": "2026-08-26T12:59:06+00:00",
       "date_formatted": "26 August 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
@@ -649,16 +669,6 @@
       "image": null,
       "date": "2026-05-20T15:49:59+00:00",
       "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
-      "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
-      "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
-      "image": null,
-      "date": "2026-05-06T13:49:51+00:00",
-      "date_formatted": "6 May 2026",
       "source": "Inserm",
       "type": "science"
     }
