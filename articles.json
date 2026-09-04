@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-04T15:17:39.586530+00:00",
-  "count": 60,
+  "generated_at": "2026-09-04T19:58:34.998878+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Plainte contre Emmanuel Grégoire, mort de Tony Gatlif, deux miraculés au Népal… L’actu de ce vendredi 4 septembre",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+      "url": "https://www.liberation.fr/international/europe/plainte-contre-emmanuel-gregoire-mort-de-tony-gatlif-deux-miracules-au-nepal-lactu-de-ce-vendredi-4-septembre-20260904_3YARSFF3XNBX7MGVXKYDI4CMY4/",
+      "image": null,
+      "date": "2026-09-04T16:48:50+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "La vitamine C, c’est surcoté ?",
       "desc": "On entend souvent qu’à l’approche de l’automne, une petite cure de vitamine C, ça aide à garder la forme et à traverser la fin de l’année en évitant les virus. Mais est-ce vrai ? Prendre des compléments est-il bon pour la santé, questionne Julien Ménielle ?",
@@ -20,16 +30,6 @@
       "date": "2026-09-04T15:02:18+00:00",
       "date_formatted": "4 September 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Le virus du Nil occidental commence à devenir un problème important»",
-      "desc": "Depuis la mi-juillet, 39 personnes infectées par ce virus originaire d’Afrique, transmis par le moustique commun, ont été recensées. Un nombre qui illustre «la nouvelle menace» qui plane sur la France, mais aussi sur l’Europe, pose le virologiste Yannick Simonin.",
-      "url": "https://www.liberation.fr/societe/sante/le-virus-du-nil-occidental-commence-a-devenir-un-probleme-important-20260904_IK73HARUEFFCVC4YENN3G2SVMU/",
-      "image": null,
-      "date": "2026-09-04T13:45:58+00:00",
-      "date_formatted": "4 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -128,16 +128,6 @@
       "url": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/sante-au-travail/le-travail-en-decale-nuit-a-la-sante_8175155.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/GG8C6LeQ3AO9kVPlIWcE9VnGe2U/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/03/6a993d1411fc0192909581.png",
       "date": "2026-09-03T11:26:32+00:00",
-      "date_formatted": "3 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"C'est la santé bucco-dentaire qui va sans doute être mise à mal\" : les dentistes inquiets après l'annonce de la réduction du taux de remboursement par l'assurance maladie",
-      "desc": "Le gouvernement a confirmé son intention de baisser dès janvier 2027 le taux de remboursement des soins dentaires par la Sécurité sociale. A 60% actuellement, il pourrait passer à 50%, voire même 40%. Les dentistes sont vent debout et alertent sur les conséquences pour la santé des patients.",
-      "url": "https://www.franceinfo.fr/sante/politique-de-sante/c-est-la-sante-bucco-dentaire-qui-va-sans-doute-etre-mise-a-mal-les-dentistes-inquiets-apres-l-annonce-de-la-reduction-du-taux-de-remboursement-par-l-assurance-maladie_8175086.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Nu6PFgZ25uDCDYjLZVtY8eMZ7bw/107x0:1379x715/432x243/filters:format(jpg)/2026/09/03/6a9938209a895733575107.jpg",
-      "date": "2026-09-03T11:05:08+00:00",
       "date_formatted": "3 September 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -293,16 +283,6 @@
       "type": "presse"
     },
     {
-      "title": "Convertir des cellules cérébrales en neurones pour lutter contre les maladies neurodégénératives",
-      "desc": "Des nanoparticules ont permis de transformer des astrocytes en cellules neuronales dans des modèles d’étude de la maladie d’Alzheimer, apportant des améliorations chez la souris.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/01/convertir-des-cellules-cerebrales-en-neurones-pour-lutter-contre-les-maladies-neurodegeneratives_6763108_1650684.html",
-      "image": "https://img.lemde.fr/2026/08/31/286/0/4519/2259/644/322/60/0/899b0fc_upload-1-8zqq2hfn9rrn-sciencephoto-fr-p3600054.jpg",
-      "date": "2026-09-01T06:30:13+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Ebola en RDC : l’épidémie dépasse les 6 000 cas confirmés et les 2 900 morts, annoncent les autorités",
       "desc": "Déclarée au mois de mai, la flambée actuelle est la pire de l’histoire du pays. Elle est causée par le variant Bundibugyo, contre laquelle il n’existe ni vaccin ni traitement.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/31/ebola-en-rdc-l-epidemie-depasse-les-6-000-cas-confirmes-et-les-2-900-morts-annoncent-les-autorites_6762743_3212.html",
@@ -348,16 +328,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/paludisme-peut-on-attraper-paludisme-europe-voyager-ces-six-cas-deux-deces-montrent-oui-137403/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/2/a/82aef8ccd7_50260145_moustique-aeroport.jpg",
       "date": "2026-08-29T13:38:48+00:00",
-      "date_formatted": "29 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Et si une mauvaise audition dans le bruit était un signal d'alerte précoce de la démence ?",
-      "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-si-mauvaise-audition-bruit-etait-signal-alerte-precoce-demence-w2t8-137063/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/3/e/03e7cc9fa0_50259499_audition-symptomes-demence.jpg",
-      "date": "2026-08-29T08:00:00+00:00",
       "date_formatted": "29 August 2026",
       "source": "Futura Santé",
       "type": "science"
