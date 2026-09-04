@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-04T10:04:00.979748+00:00",
+  "generated_at": "2026-09-04T15:17:39.586530+00:00",
   "count": 60,
   "articles": [
+    {
+      "title": "La vitamine C, c’est surcoté ?",
+      "desc": "On entend souvent qu’à l’approche de l’automne, une petite cure de vitamine C, ça aide à garder la forme et à traverser la fin de l’année en évitant les virus. Mais est-ce vrai ? Prendre des compléments est-il bon pour la santé, questionne Julien Ménielle ?",
+      "url": "https://www.franceinfo.fr/sante/la-vitamine-c-c-est-surcote_8175860.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/k8K8UjfOzx3RkHvdHaxBlCAzU30/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/03/6a99a406ecba6609509239.jpg",
+      "date": "2026-09-04T16:00:02+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Rugby : Atteint de la maladie de Charcot à 31 ans, Jai Arrow a droit à une dérogation spéciale pour arriver à 100 matchs",
+      "desc": "Le joueur de rugby à XIII Jai Arrow a dû prendre sa retraite après avoir appris qu’il était atteint de la maladie de Charcot",
+      "url": "https://www.20minutes.fr/sport/rugby/4242851-20260904-rugby-atteint-maladie-charcot-31-ans-jai-arrow-droit-derogation-speciale-arriver-100-matchs?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/vuMPV7eLSzOCUPnb5hWsmCk/1200x768_jai-arrow-de-south-sydney-prend-le-terrain-pour-un-match-de-rugby-national-contre-les-titans-de-gold-coast-a-gold-coast-en-australie-le-samedi-29-aout-2026-dave-hunt-aa-pimage-via-ap-xmb801-26241189917050-australie-sortie-nouvelle-zelande-absente-papouasie-nouvelle-guinee-sortie-pacifique-sud-aucun-archivage-credit-obligatoire-2608290720",
+      "date": "2026-09-04T15:02:18+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Le virus du Nil occidental commence à devenir un problème important»",
+      "desc": "Depuis la mi-juillet, 39 personnes infectées par ce virus originaire d’Afrique, transmis par le moustique commun, ont été recensées. Un nombre qui illustre «la nouvelle menace» qui plane sur la France, mais aussi sur l’Europe, pose le virologiste Yannick Simonin.",
+      "url": "https://www.liberation.fr/societe/sante/le-virus-du-nil-occidental-commence-a-devenir-un-probleme-important-20260904_IK73HARUEFFCVC4YENN3G2SVMU/",
+      "image": null,
+      "date": "2026-09-04T13:45:58+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les psychédéliques au secours des patients sous chimio",
+      "desc": "Et si les champignons hallucinogènes pouvaient protéger les patients des dégâts de la chimiothérapie ? C’est l’hypothèse surprenante avancée par des chercheurs dans une étude publiée jeudi 3 septembre dans Science. Chez la souris, et sur quelques tissus humains, ils montrent que la psilocybine pourr",
+      "url": "https://www.sciencesetavenir.fr/sante/et-si-les-psychedeliques-nous-permettaient-de-lutter-contre-les-effets-deleteres-de-la-chimio_194652?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/04/cover-r4x3w1200-6a9a64b9e831b-f7f885c965ba8ce4861b6b3f6e406f9d4520a56b-jpg.jpg",
+      "date": "2026-09-04T10:46:47+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Australie : Un enfant de 6 ans meurt du scorbut, une maladie rare disparue depuis deux siècles",
+      "desc": "Le jeune Australien souffrait d’une carence en vitamine C qui a conduit à la dégradation de sa santé et son décès",
+      "url": "https://www.20minutes.fr/sante/4242794-20260904-australie-enfant-6-ans-meurt-scorbut-maladie-rare-disparue-depuis-deux-siecles?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/VEg8hW4QTj2pPUvzGu8t6Ck/1200x768_peluche-enfant-hopital",
+      "date": "2026-09-04T10:29:44+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Canicules : La France a enregistré 7.000 morts supplémentaires jusqu’à fin juillet",
       "desc": "Canicules : La France a enregistré 7.000 morts supplémentaires jusqu’à fin juillet",
@@ -21,16 +71,6 @@
       "date_formatted": "4 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Mort de Tony Gatlif, cinéaste de la fièvre gitane",
-      "desc": "Né à Alger, ayant grandi en France, il aura bâti, avec «Gadjo Dilo» ou «Exils», une œuvre de combat, tant cinématographique que musicale, exaltant la culture tzigane. Il est mort jeudi 3 septembre à 77 ans.",
-      "url": "https://www.liberation.fr/culture/cinema/mort-de-tony-gatlif-cineaste-de-la-fievre-gitane-20260904_557MB6KBXVCGPKL4K7UVYSLGQU/",
-      "image": null,
-      "date": "2026-09-04T08:07:33+00:00",
-      "date_formatted": "4 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Vous pensez simplement mal entendre ? Ce trouble pourrait être lié à un risque accru de démence",
@@ -167,7 +207,7 @@
       "desc": "Inspirés par une chanson des Beatles, Wiebke Drenckhan et Jean Farago reviennent dans leur Carte blanche au « Monde » sur une magnifique invention qui pourrait améliorer l’imagerie médicale ultrasonore, par exemple en détectant plus tôt la survenue des cancers.",
       "url": "https://www.lemonde.fr/sciences/article/2026/09/02/des-sous-marins-nanoscopiques-pour-echographies-ultraprecises_6764367_1650684.html",
       "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
-      "date": "2026-09-02T12:30:05+00:00",
+      "date": "2026-09-02T12:30:03+00:00",
       "date_formatted": "2 September 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -323,16 +363,6 @@
       "type": "science"
     },
     {
-      "title": "Londres : Atteint d’une tumeur au cerveau, il guérit après une opération unique au monde assistée en direct par l’IA",
-      "desc": "Pour la première fois de l’Histoire, l’IA a permis d’aider les chirurgiens d’un hôpital londonien à opérer avec succès un homme atteint d’une tumeur au cerveau",
-      "url": "https://www.20minutes.fr/sante/4241528-20260828-londres-atteint-tumeur-cerveau-guerit-apres-operation-unique-monde-assistee-direct-ia?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/aQ00gnG9TcCbNZs9ytYhHSk/1200x768_lit-hopital-illustration",
-      "date": "2026-08-28T16:17:36+00:00",
-      "date_formatted": "28 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "L’OMS déclare la fin de l’épidémie causée par le virus Ebola en Ouganda",
       "desc": "En l’absence de nouvelle contamination recensée 42 jours après la sortie du dernier malade de l’hôpital, l’Organisation a déclaré la fin de l’épidémie en Ouganda. L’épidémie continue cependant de faire rage en République démocratique du Congo.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/27/l-oms-declare-la-fin-de-l-epidemie-causee-par-le-virus-ebola-en-ouganda_6758488_3212.html",
@@ -340,16 +370,6 @@
       "date": "2026-08-27T17:36:33+00:00",
       "date_formatted": "27 August 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : L’ONU demande plus d’un milliard de dollars d’aide pour lutter contre le virus en RDC",
-      "desc": "Le secrétaire général de l’ONU António Guterres a demandé 1,1 milliard de dollars pour lutter contre l’épidémie d’Ebola en République démocratique du Congo",
-      "url": "https://www.20minutes.fr/sante/4241351-20260827-ebola-onu-demande-plus-milliard-dollars-aide-lutter-contre-virus-rdc?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/RVL3Kc50T-683Kt403_uVyk/1200x768_des-agents-de-sante-desinfectent-une-ambulance-au-centre-de-traitement-ebola-de-l-hopital-general-de-bunia-en-ituri-au-congo-le-mercredi-22-juillet-2026-ap-photo-dirole-lotsima-dieudonne-drc103-26203629060754-2607232240",
-      "date": "2026-08-27T16:12:31+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -401,16 +421,6 @@
       "date_formatted": "26 August 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "L’origine professionnelle du cancer du sein d’une hôtesse de l’air reconnue pour la première fois en France, selon son avocate",
-      "desc": "Cette décision inédite pourrait encourager d’autres catégories de personnel navigant à faire reconnaître l’origine professionnelle de leur maladie, malgré un parcours souvent semé d’obstacles administratifs.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/26/l-origine-professionnelle-du-cancer-du-sein-d-une-hotesse-de-l-air-reconnue-pour-la-premiere-fois-en-france-selon-son-avocate_6757182_3224.html",
-      "image": "https://img.lemde.fr/2026/08/26/183/0/5000/2500/644/322/60/0/1228a47_upload-1-lswpg4xzu0gz-000-a2p46nq.jpg",
-      "date": "2026-08-26T09:04:53+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Que faut-il savoir sur le vaccin à ARN contre le mélanome ?",
@@ -479,16 +489,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/11/cover-r4x3w1200-6a7af44997d3b-9e035aafcfd6c488f9d2d63aecd8aa2e6059f021-jpg.jpg",
       "date": "2026-08-11T11:26:06+00:00",
       "date_formatted": "11 August 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Rougeole: un cas dans le parc d'attractions Universal Studios",
-      "desc": "Cela devait arriver: confrontés à leur plus grave épidémie de rougeole en 35 ans, les autorités des Etats-Unis ont détecté une personne infectée ayant visité le parc d'attractions Universal Studios le 26 juillet. Elles recommandent aux visiteurs présents ce jour-là de contacter urgemment un médecin.",
-      "url": "https://www.sciencesetavenir.fr/sante/un-cas-de-rougeole-dans-le-parc-d-attractions-universal-studios-en-californie_194154?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/07/cover-r4x3w1200-6a75a86d357ea-08980f95b56a234d346f0f6818f7f3d82693fceb-jpg.jpg",
-      "date": "2026-08-07T13:28:54+00:00",
-      "date_formatted": "7 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
