@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-04T01:41:20.611271+00:00",
-  "count": 62,
+  "generated_at": "2026-09-04T10:04:00.979748+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Canicules : La France a enregistré 7.000 morts supplémentaires jusqu’à fin juillet",
+      "desc": "Canicules : La France a enregistré 7.000 morts supplémentaires jusqu’à fin juillet",
+      "url": "https://www.20minutes.fr/tv/videos/4242736-20260904-canicules-france-enregistre-7-000-morts-supplementaires-jusqu-fin-juillet?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-30NoP_6T5imrWA_nMSd3ik/1200x768_ministre-francaise-sante-stephanie-rist-declare-vendredi-4-septembre-environ-7000-deces-supplementaires-enregistres-lors-vagues-chaleur-caniculaires-f",
+      "date": "2026-09-04T09:12:36+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une trithérapie à la naissance pourrait éliminer le VIH",
+      "desc": "Une étude sur des macaques montre qu’il serait possible de se débarrasser complètement du virus responsable du Sida chez les nouveaux-nés, protégeant les bébés nés des mères séropositives.",
+      "url": "https://www.sciencesetavenir.fr/sante/un-triple-traitement-a-la-naissance-eliminerait-le-vih_194618?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/02/cover-r4x3w1200-6a98301d3c9f6-afp-20250611-f0452007-v1-highres-leronlimabmedication.jpg",
+      "date": "2026-09-04T08:36:56+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Mort de Tony Gatlif, cinéaste de la fièvre gitane",
+      "desc": "Né à Alger, ayant grandi en France, il aura bâti, avec «Gadjo Dilo» ou «Exils», une œuvre de combat, tant cinématographique que musicale, exaltant la culture tzigane. Il est mort jeudi 3 septembre à 77 ans.",
+      "url": "https://www.liberation.fr/culture/cinema/mort-de-tony-gatlif-cineaste-de-la-fievre-gitane-20260904_557MB6KBXVCGPKL4K7UVYSLGQU/",
+      "image": null,
+      "date": "2026-09-04T08:07:33+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vous pensez simplement mal entendre ? Ce trouble pourrait être lié à un risque accru de démence",
+      "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-vous-pensez-simplement-mal-entendre-ce-trouble-pourrait-etre-lie-risque-accru-demence-w2t8-137076/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/9/f/f9f6dae3b8_50259505_mal-entendre-symptomes-demence.jpg",
+      "date": "2026-09-04T08:00:00+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Alzheimer et transfusion sanguine : pourquoi des chercheurs appellent déjà à agir, « c’est une préoccupation justifiée »",
+      "desc": "Dans un récent rapport publié dans la prestigieuse revue The Lancet, des scientifiques reviennent sur les preuves selon lesquelles la maladie d’Alzheimer pourrait se transmettre par les transfusions sanguines.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-transfusion-sanguine-chercheurs-appellent-deja-agir-cest-preoccupation-justifiee-137480/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/6/e/86ebd9171c_50260348_alzheimer-transfusion-sanguine.jpg",
+      "date": "2026-09-04T05:27:56+00:00",
+      "date_formatted": "4 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "À armes égales entre les tumeurs et nous",
       "desc": "Ce qui est censé nous soigner serait-il en réalité néfaste pour notre organisme? C'est la question qui se pose à propos des anti-oxydants, molécules thérapeutiques données aux malades. En effet, des chercheurs britanniques viennent de découvrir que les cellules tumorales utilisent exactement ce même",
@@ -11,16 +61,6 @@
       "date_formatted": "3 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Gènes modifiés, «trajectoires moléculaires», effets des Pfas… Une étude révèle les dessous du vieillissement des femmes",
-      "desc": "Grâce à un suivi au long de plus de 300 jumelles au Royaume-Uni, une recherche parue ce jeudi 3 septembre dans la revue «Nature» identifie 5 000 gènes impliqués dans l’avancement de l’âge et les effets sur le corps de polluants éternels.",
-      "url": "https://www.liberation.fr/sciences/genes-modifies-trajectoires-moleculaires-effets-des-pfas-une-etude-revele-les-dessous-du-vieillissement-des-femmes-20260903_7KW2C43MVVHNDLYOLZCNGM44PQ/",
-      "image": null,
-      "date": "2026-09-03T18:00:00+00:00",
-      "date_formatted": "3 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "VIDEO. L'acétamipride provoque-t-il des cancers ? \"Complément d'enquête\" fait le point sur un argument phare des opposants à la loi Duplomb",
@@ -93,16 +133,6 @@
       "type": "science"
     },
     {
-      "title": "Une piste prometteuse pour développer un vaccin contre les virus transmis par les moustiques",
-      "desc": "La salive des moustiques aiderait les virus à mieux nous infecter : des scientifiques ont découvert un mécanisme qui permettrait à certains d'entre eux, comme Zika ou celui du Nil occidental, de contourner nos premières défenses immunitaires dès la piqûre. Une avancée qui ouvre de nouvelles pistes p",
-      "url": "https://www.franceinfo.fr/sante/une-piste-prometteuse-pour-developper-un-vaccin-contre-les-virus-transmis-par-les-moustiques_8174288.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/vXJxGcNsljaxxusSsOEONRQGxhQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a985f563bc47863120160.jpg",
-      "date": "2026-09-03T06:00:19+00:00",
-      "date_formatted": "3 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer de la peau : Faute de dermatos, les kinés et infirmiers peuvent repérer des lésions suspectes",
       "desc": "Face au manque de dermatologues, des kinés, infirmiers et pharmaciens se forment au repérage des lésions cutanées suspectes",
       "url": "https://www.20minutes.fr/sante/4241933-20260903-cancer-peau-faute-dermatos-kines-infirmiers-peuvent-reperer-lesions-suspectes?at_medium=display&at_campaign=149",
@@ -133,16 +163,6 @@
       "type": "presse"
     },
     {
-      "title": "Arrêts maladie plafonnés : qui est concerné ?",
-      "desc": "Un médecin peut désormais prescrire au maximum 31 jours d’arrêt d’un seul coup. 62 jours pour un renouvellement. Au-delà, il faudra le justifier. L’objectif est de mieux contrôler une dépense qui ne cesse d’augmenter. Faudra-t-il consulter plus souvent ? Cette mesure permettra-t-elle de faire réelle",
-      "url": "https://www.franceinfo.fr/sante/arrets-maladie-plafonnes-qui-est-concerne_8173667.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/6MB6Sv_gjSuGkeM6apc-l4voAsw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a97f68643284608920427.jpg",
-      "date": "2026-09-02T14:00:01+00:00",
-      "date_formatted": "2 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Des sous-marins nanoscopiques pour échographies ultraprécises",
       "desc": "Inspirés par une chanson des Beatles, Wiebke Drenckhan et Jean Farago reviennent dans leur Carte blanche au « Monde » sur une magnifique invention qui pourrait améliorer l’imagerie médicale ultrasonore, par exemple en détectant plus tôt la survenue des cancers.",
       "url": "https://www.lemonde.fr/sciences/article/2026/09/02/des-sous-marins-nanoscopiques-pour-echographies-ultraprecises_6764367_1650684.html",
@@ -151,16 +171,6 @@
       "date_formatted": "2 September 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Le bilan de l'épidémie d'Ebola en République démocratique du Congo dépasse les 3 000 morts",
-      "desc": "Avec plus de 6 000 cas confirmés elon les derniers relevés des autorités sanitaires congolaises, cette épidémie est la plus meurtrière qu'ait eu à affronter le pays.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-bilan-de-l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-3-000-morts_8173661.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/k2G1m_P10nDSiPlyiu0E5c-XUOQ/0x146:5760x3386/432x243/filters:format(jpg)/2026/09/02/6a97f7852afb0119954699.jpg",
-      "date": "2026-09-02T12:23:43+00:00",
-      "date_formatted": "2 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola en RDC : l’épidémie cause plus de 3 000 morts, sur plus de 6 000 cas confirmés",
@@ -323,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Alzheimer : ces ondes cérébrales pourraient trahir la maladie bien avant les premiers symptômes",
-      "desc": "Certaines ondes cérébrales lentes, détectables par un simple électroencéphalogramme, pourraient signaler un risque accru de développer la maladie d’Alzheimer. Des chercheurs de l’Inserm ont observé une association entre leur amplitude et les marqueurs cérébraux de la maladie. Un biomarqueur...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ces-ondes-cerebrales-pourraient-trahir-maladie-bien-avant-premiers-symptomes-137372/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/8/e/38e774bed4_50260077_alzheimer-biomarqueur-precoce.jpg",
-      "date": "2026-08-28T13:33:59+00:00",
-      "date_formatted": "28 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "L’OMS déclare la fin de l’épidémie causée par le virus Ebola en Ouganda",
       "desc": "En l’absence de nouvelle contamination recensée 42 jours après la sortie du dernier malade de l’hôpital, l’Organisation a déclaré la fin de l’épidémie en Ouganda. L’épidémie continue cependant de faire rage en République démocratique du Congo.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/27/l-oms-declare-la-fin-de-l-epidemie-causee-par-le-virus-ebola-en-ouganda_6758488_3212.html",
@@ -348,16 +348,6 @@
       "url": "https://www.20minutes.fr/sante/4241351-20260827-ebola-onu-demande-plus-milliard-dollars-aide-lutter-contre-virus-rdc?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/RVL3Kc50T-683Kt403_uVyk/1200x768_des-agents-de-sante-desinfectent-une-ambulance-au-centre-de-traitement-ebola-de-l-hopital-general-de-bunia-en-ituri-au-congo-le-mercredi-22-juillet-2026-ap-photo-dirole-lotsima-dieudonne-drc103-26203629060754-2607232240",
       "date": "2026-08-27T16:12:31+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "« Dawson » : Au lendemain de la mort de James Van Der Beek, une autre actrice de la série a été atteinte d’un cancer",
-      "desc": "Busy Philipps, 47 ans, a été diagnostiquée d’une tumeur au cerveau rare en février 2026",
-      "url": "https://www.20minutes.fr/arts-stars/serie/4241281-20260827-dawson-lendemain-mort-james-van-der-beek-autre-actrice-serie-atteinte-cancer?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/NMfzjDavSIqFtldNctAD1Ck/1200x768_credit-obligatoire-photo-d-oliver-rodriguez-shutterstock-15585840cr-busy-philipps-soiree-d-ouverture-de-liberation-a-broadway-new-york-etats-unis-28-octobre-2025-shutterstock-editorial-liberation-15585840cr-2510291741",
-      "date": "2026-08-27T12:11:32+00:00",
       "date_formatted": "27 August 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
@@ -498,16 +488,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/un-cas-de-rougeole-dans-le-parc-d-attractions-universal-studios-en-californie_194154?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/07/cover-r4x3w1200-6a75a86d357ea-08980f95b56a234d346f0f6818f7f3d82693fceb-jpg.jpg",
       "date": "2026-08-07T13:28:54+00:00",
-      "date_formatted": "7 August 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Hantavirus: quarantaine pour les contacts du touriste infecté",
-      "desc": "Diagnostiqué positif à l'hantavirus en France le 6 août, le touriste franco-argentin est actuellement en Espagne et mis à l'isolement. Les autorités sanitaires françaises ont préconisé la même mesure pour les personnes ayant été en contact avec ce patient.",
-      "url": "https://www.sciencesetavenir.fr/sante/hantavirus-isolement-a-domicile-recommande-pour-les-contacts-du-touriste-infecte_194153?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/07/cover-r4x3w1200-6a759cb56d4af-aa5922bd344eeed2db5213a42f65fcca007b8b49-jpg.jpg",
-      "date": "2026-08-07T09:30:33+00:00",
       "date_formatted": "7 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
