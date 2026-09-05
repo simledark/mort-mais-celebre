@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-09-05T14:06:25.269994+00:00",
-  "count": 56,
+  "generated_at": "2026-09-05T19:38:36.497631+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Créer le vivant, mode d'emploi",
+      "desc": "Façonner la vie : des génomes synthétiques aux cellules artificielles, certains biologistes veulent réaliser ce vieux rêve de l’humanité. Au prix de questions parfois cruciales pour la survie même des formes naturelles du vivant... dont les êtres humains eux-mêmes.",
+      "url": "https://www.sciencesetavenir.fr/sante/vie-artificielle-comment-les-scientifiques-tentent-de-creer-le-vivant_193778?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/15/cover-r4x3w1200-6a5764c651b29-ar-1638031-tf-63424291-1-normal-jpg.jpg",
+      "date": "2026-09-05T14:00:00+00:00",
+      "date_formatted": "5 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Crues au Népal : un troisième rescapé extrait d’un tunnel, les recherches continuent",
       "desc": "L’immense vague d’eau, de glace et de débris qui a déferlé à la frontière du Népal et de la Chine, a fait dans les deux pays 1 375 morts et plus 5 600 disparus, selon les derniers bilans. Plusieurs centaines d’entre eux sont des touristes, des pèlerins ou des ouvriers étrangers.",
       "url": "https://www.liberation.fr/international/asie-pacifique/crues-au-nepal-un-troisieme-rescape-extrait-dun-tunnel-les-recherches-continuent-20260905_SKRPZ4BJIFCNZBM5B47IYA2MOU/",
       "image": null,
       "date": "2026-09-05T10:32:45+00:00",
-      "date_formatted": "5 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«C’est l’horreur, on est sous le choc» : un homme tue ses deux enfants et sa belle-mère en Haute-Saône",
-      "desc": "Selon les premiers éléments, l’enquête s’oriente vers un crime vicariant. Le père aurait ouvert le feu mercredi 2 septembre sur ses deux enfants avant de se suicider. La quatrième victime est une femme de 74 ans, la grand-mère maternelle.",
-      "url": "https://www.liberation.fr/societe/police-justice/quatre-corps-dune-meme-famille-dont-deux-enfants-decouverts-en-haute-saone-20260903_JKTSXGIDZBFNZAZK6EKCSCCPUA/",
-      "image": null,
-      "date": "2026-09-05T10:11:14+00:00",
-      "date_formatted": "5 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Arrêts maladie : quand le «coup de chaleur» disparaît des formulaires",
-      "desc": "Christian Lehmann est médecin et écrivain. En cette rentrée où les politiques dénoncent à tour de rôle les prétendus abus sur les arrêts maladie, il a remarqué un changement notable sur Ameli.",
-      "url": "https://www.liberation.fr/societe/sante/arrets-maladie-quand-le-coup-de-chaleur-disparait-des-formulaires-20260905_YRG6RF6BM5F6VJSR5UWYX6X5BE/",
-      "image": null,
-      "date": "2026-09-05T09:53:19+00:00",
       "date_formatted": "5 September 2026",
       "source": "Libération",
       "type": "presse"
@@ -323,16 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "Alzheimer : des scientifiques découvrent un mystérieux « germe » qui pourrait jouer un rôle clé dans la maladie",
-      "desc": "L'accumulation de protéines toxiques dans le cerveau des malades d'Alzheimer commence une vingtaine d'années avant les premiers symptômes. Restait à comprendre ce qui l'amorce. Une équipe japonaise pense avoir identifié le point de départ : une sorte de germe sur lequel les protéines viennent...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-scientifiques-decouvrent-mysterieux-germe-pourrait-jouer-role-cle-maladie-k2m6-137189/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/d/a/9daf2a2b48_50259718_alzheimer-germe-cerveau.jpg",
-      "date": "2026-08-31T18:00:00+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
       "desc": "L'épidémie d'Ebola a déjà fait plus de 2.500 morts en République démocratique du Congo (RDC) et \"progresse de façon exponentielle\", a alerté vendredi Julien Harneis, coordinateur principal d’Ebola pour les Nations unies.",
       "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-d-ebola-en-rdc-progresse-de-facon-exponentielle-alerte-l-onu_194380?xtor=RSS-16",
@@ -369,16 +349,6 @@
       "image": "https://img.lemde.fr/2026/08/22/480/0/5759/2879/644/322/60/0/b63776a_ftp-1-dc5rjo1mzh91-5894373-01-06.jpg",
       "date": "2026-08-27T06:00:01+00:00",
       "date_formatted": "27 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Légionellose en Savoie : un restaurant de Chambéry identifié comme l’une des sources de l’infection",
-      "desc": "Trente des 48 cas recensés de cette maladie ont fréquenté le même restaurant, de type buffet asiatique, selon l’Agence régionale de santé. Deux décès ont été confirmés, dont un client de l’établissement.",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/26/legionellose-en-savoie-un-restaurant-de-chambery-identifie-comme-l-une-des-sources-de-l-infection_6757406_3224.html",
-      "image": "https://img.lemde.fr/2025/07/17/173/0/3000/1500/644/322/60/0/9e1e69a_upload-1-ce1dmbounuhh-frame-253.jpg",
-      "date": "2026-08-26T17:57:00+00:00",
-      "date_formatted": "26 August 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
