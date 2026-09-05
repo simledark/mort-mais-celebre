@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-09-05T01:42:30.535348+00:00",
-  "count": 54,
+  "generated_at": "2026-09-05T09:33:29.885483+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "Plainte contre Emmanuel Grégoire, mort de Tony Gatlif, deux miraculés au Népal… L’actu de ce vendredi 4 septembre",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "url": "https://www.liberation.fr/international/europe/plainte-contre-emmanuel-gregoire-mort-de-tony-gatlif-deux-miracules-au-nepal-lactu-de-ce-vendredi-4-septembre-20260904_3YARSFF3XNBX7MGVXKYDI4CMY4/",
-      "image": null,
-      "date": "2026-09-04T16:48:50+00:00",
-      "date_formatted": "4 September 2026",
-      "source": "Libération",
+      "title": "Septembre jaune : sur les réseaux sociaux, des internautes sensibilisent contre le suicide",
+      "desc": "Septembre jaune, c’est en ce moment, un mois dédié à la prévention du suicide. Sur TikTok, X, Instagram, les internautes multiplient les publications pour sensibiliser sur cette cause.",
+      "url": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/septembre-jaune-sur-les-reseaux-sociaux-des-internautes-sensibilisent-contre-le-suicide_8145089.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/LjKcNz6FYWVE1Sz1ViSqFVNyzXA/0x91:1071x693/432x243/filters:format(jpg)/2026/09/03/6a993c2161689868796571.png",
+      "date": "2026-09-05T09:33:17+00:00",
+      "date_formatted": "5 September 2026",
+      "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "Voici le lien insoupçonné entre notre alimentation et un type courant de cancer du poumon",
+      "desc": "Une découverte scientifique révèle que notre régime alimentaire pourrait influencer le risque de cancer du poumon. Qui aurait pensé que ce que nous mangeons joue un rôle dans cette maladie traditionnellement associée au tabagisme ? Des chercheurs américains viennent d'identifier un lien entre le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-voici-lien-insoupconne-notre-alimentation-type-courant-cancer-poumon-w2t8-137080/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/0/5/7058c2848e_50232906_cancer-poumon-regime-alimentaire.jpg",
+      "date": "2026-09-05T09:00:00+00:00",
+      "date_formatted": "5 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Et si un virus très répandu contribuait aussi au développement d'Alzheimer ?",
+      "desc": "L’hypothèse d’un lien entre la maladie d’Alzheimer et le virus de l’herpès (HSV-1) refait surface, suggérant que des infections virales pourraient jouer un rôle dans l’apparition de lésions cérébrales caractéristiques de cette pathologie – et peut-être d'autres maladies...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-virus-tres-repandu-contribuait-aussi-developpement-alzheimer-w2t8-137078/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/6/e/06e2b93553_50259506_virus-herpes-cerveau-alzheimer.jpg",
+      "date": "2026-09-05T08:00:00+00:00",
+      "date_formatted": "5 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "La vitamine C, c’est surcoté ?",
@@ -293,26 +313,6 @@
       "type": "science"
     },
     {
-      "title": "Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ?",
-      "desc": "La maladie de Parkinson, qui affecte près de 10 millions de personnes dans le monde, pourrait trouver un traitement inattendu grâce à une découverte récente. Des chercheurs ont établi un lien entre les bactéries intestinales et cette maladie neurodégénérative, ouvrant la voie à une solution...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-si-microbiote-intestinal-jouait-role-cle-maladie-parkinson-w2t8-137069/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/2/5/6258202cb7_50259501_parkinson-microbiote-intestinal.jpg",
-      "date": "2026-08-31T08:00:00+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Peut-on attraper le paludisme en Europe sans voyager ? Ces six cas, dont deux décès, montrent que oui !",
-      "desc": "Ils n’avaient pas quitté l’Allemagne, et pourtant ils ont contracté le paludisme. À l’aéroport de Francfort, six employés ont été infectés par cette maladie habituellement importée par des voyageurs revenant de régions tropicales. Deux d’entre eux sont morts. Les autorités soupçonnent des...",
-      "url": "https://www.futura-sciences.com/sante/actualites/paludisme-peut-on-attraper-paludisme-europe-voyager-ces-six-cas-deux-deces-montrent-oui-137403/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/2/a/82aef8ccd7_50260145_moustique-aeroport.jpg",
-      "date": "2026-08-29T13:38:48+00:00",
-      "date_formatted": "29 August 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "L’OMS déclare la fin de l’épidémie causée par le virus Ebola en Ouganda",
       "desc": "En l’absence de nouvelle contamination recensée 42 jours après la sortie du dernier malade de l’hôpital, l’Organisation a déclaré la fin de l’épidémie en Ouganda. L’épidémie continue cependant de faire rage en République démocratique du Congo.",
       "url": "https://www.lemonde.fr/afrique/article/2026/08/27/l-oms-declare-la-fin-de-l-epidemie-causee-par-le-virus-ebola-en-ouganda_6758488_3212.html",
@@ -419,16 +419,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/17/cover-r4x3w1200-6a82ce0cb10be-2df50a985cd087650695fac2f4082d7e3027d89e-jpg.jpg",
       "date": "2026-08-17T09:21:12+00:00",
       "date_formatted": "17 August 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "RDC: Ebola a déjà tué plus de 2.000 personnes",
-      "desc": "La 17e épidémie d'Ebola devient la seconde la plus meurtrière en RDC avec près de 2300 morts. Le seul vaccin homologué existant s'apprête à être évalué directement en phase 3 dans le pays. Parallèlement, trois autres candidats vaccins sont entrés en développement.",
-      "url": "https://www.sciencesetavenir.fr/sante/rdc-l-epidemie-causee-par-le-virus-ebola-franchit-le-cap-des-2-000-morts_194206?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/11/cover-r4x3w1200-6a7af44997d3b-9e035aafcfd6c488f9d2d63aecd8aa2e6059f021-jpg.jpg",
-      "date": "2026-08-11T11:26:06+00:00",
-      "date_formatted": "11 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
