@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-06T14:30:33.922406+00:00",
-  "count": 58,
+  "generated_at": "2026-09-06T19:41:11.982694+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Yémen : plus de 300 morts dans les affrontements entre Houthis et les forces gouvernementales depuis jeudi",
+      "desc": "Les rebelles soutenus par Téhéran progressent en direction du détroit de Bab el-Mandab, d’autant plus stratégique pour le transport des matières premières que le détroit d’Ormuz est contrôlé par l’Iran.",
+      "url": "https://www.liberation.fr/international/moyen-orient/yemen-plus-de-300-morts-dans-les-affrontements-entre-houthis-et-les-forces-gouvernementales-depuis-jeudi-20260906_QC2HOLC37FEODAMMI6XKXWRJ2U/",
+      "image": null,
+      "date": "2026-09-06T18:18:31+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Assassinat de Federico Martín Aramburú, ou comment la violence de l’extrême droite passe sous silence",
+      "desc": "Les deux militants fascistes Loïk Le Priol, 32 ans, et son ami Romain Bouvier, 35 ans, sont jugés à partir du lundi 7 septembre pour la mort de l’ex-rugbyman argentin. Un non-sujet pour les médias de la bollosphère ?",
+      "url": "https://www.liberation.fr/politique/assassinat-de-federico-martin-aramburu-ou-comment-la-violence-de-lextreme-droite-passe-sous-silence-20260906_Y3Y7OHPEX5H3DN53CKSJBRHFHQ/",
+      "image": null,
+      "date": "2026-09-06T15:30:16+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité",
       "desc": "Et si certaines maladies auto-immunes pouvaient un jour être durablement stoppées plutôt que simplement contenues par des médicaments ? Une thérapie cellulaire conçue à l’origine pour combattre les cancers du sang livre des résultats très encourageants contre une forme sévère de polyarthrite...",
@@ -11,26 +31,6 @@
       "date_formatted": "6 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Cap-Vert : au moins 25 morts, principalement des enfants, dans un accident de la route",
-      "desc": "Le drame a eu lieu lors d’un trajet en bus sur l’île de Fogo. Les accidents de cette ampleur sont rares et les routes globalement en bon état dans cet archipel d’Afrique de l’Ouest de quelque 550 000 habitants, situé en plein Atlantique, au large du Sénégal.",
-      "url": "https://www.liberation.fr/international/afrique/cap-vert-au-moins-25-morts-principalement-des-enfants-dans-un-accident-de-la-route-20260906_PKLW7KG3MBBWFB75S2B5CU3GBI/",
-      "image": null,
-      "date": "2026-09-06T12:49:02+00:00",
-      "date_formatted": "6 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "En Egypte, une célèbre présentatrice télé et onze personnes condamnées à mort par pendaison pour trafic de drogue",
-      "desc": "Sarah Khalifa, 39 ans, qui compte près de 2 millions d’abonnés sur Instagram, a également été condamnée pour «possession et détention illégales d’armes à feu et de munitions», ont annoncé samedi des médias officiels égyptiens.",
-      "url": "https://www.liberation.fr/international/afrique/en-egypte-une-celebre-presentatrice-tele-et-onze-personnes-condamnees-a-mort-par-pendaison-pour-trafic-de-drogue-20260906_5T4Z3SQR3FCOBLZ3TP6K57552M/",
-      "image": null,
-      "date": "2026-09-06T12:34:15+00:00",
-      "date_formatted": "6 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Le fonds d’indemnisation des victimes de pesticides a reçu plus de 1 000 demandes en 2025, un chiffre inédit",
@@ -43,16 +43,6 @@
       "type": "presse"
     },
     {
-      "title": "Fonds d’indemnisation des victimes de pesticides : le cap des 1 000 demandes dépassé pour la première fois en 2025",
-      "desc": "Les demandeurs sont à 92,5% des hommes ayant travaillé dans l’agriculture. Les victimes reconnues peuvent ensuite percevoir des indemnisations sur le temps long en fonction de la pathologie.",
-      "url": "https://www.liberation.fr/environnement/pollution/fonds-dindemnisation-des-victimes-de-pesticides-le-cap-des-1-000-demandes-depasse-pour-la-premiere-fois-en-2025-20260906_HFHIIF3JN5DOPHLAQXUQJEZ2YU/",
-      "image": null,
-      "date": "2026-09-06T10:39:20+00:00",
-      "date_formatted": "6 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Ce secret du thé vert pourrait bien aider votre cerveau à mieux résister au vieillissement",
       "desc": "Le thé vert, riche en antioxydants, semble jouer un rôle protecteur pour le cerveau en réduisant les lésions de la substance blanche chez les personnes âgées. Découvrons comment cette boisson pourrait contribuer à la prévention des troubles cognitifs.",
       "url": "https://www.futura-sciences.com/sante/actualites/demence-ce-secret-vert-pourrait-bien-aider-votre-cerveau-mieux-resister-vieillissement-w2t8-137082/#xtor%3DRSS-8",
@@ -61,16 +51,6 @@
       "date_formatted": "6 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«Nous sommes confrontés à de nombreux défis» : au Népal, les secours toujours à la recherche de survivants",
-      "desc": "Le dernier bilan fait état de 1 341 morts et 4 996 disparus, parmi lesquels des centaines de touristes et de pèlerins étrangers, ainsi qu’environ 900 agents ou ouvriers qui se trouvaient dans des centrales électriques ou des chantiers de barrages lors du désastre.",
-      "url": "https://www.liberation.fr/international/nous-sommes-confrontes-a-de-nombreux-defis-au-nepal-les-secours-toujours-a-la-recherche-de-survivants-20260906_PPL63APIKVHX3H5XV7LE5OUZAQ/",
-      "image": null,
-      "date": "2026-09-06T07:34:00+00:00",
-      "date_formatted": "6 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Créer le vivant, mode d'emploi",
@@ -271,16 +251,6 @@
       "date_formatted": "2 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Des sous-marins nanoscopiques pour échographies ultraprécises",
-      "desc": "Inspirés par une chanson des Beatles, Wiebke Drenckhan et Jean Farago reviennent dans leur Carte blanche au « Monde » sur une magnifique invention qui pourrait améliorer l’imagerie médicale ultrasonore, par exemple en détectant plus tôt la survenue des cancers.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/02/des-sous-marins-nanoscopiques-pour-echographies-ultraprecises_6764367_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
-      "date": "2026-09-02T12:30:03+00:00",
-      "date_formatted": "2 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Ebola en RDC : l’épidémie cause plus de 3 000 morts, sur plus de 6 000 cas confirmés",
