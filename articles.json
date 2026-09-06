@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-06T09:48:21.965287+00:00",
-  "count": 54,
+  "generated_at": "2026-09-06T14:30:33.922406+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité",
+      "desc": "Et si certaines maladies auto-immunes pouvaient un jour être durablement stoppées plutôt que simplement contenues par des médicaments ? Une thérapie cellulaire conçue à l’origine pour combattre les cancers du sang livre des résultats très encourageants contre une forme sévère de polyarthrite...",
+      "url": "https://www.futura-sciences.com/sante/actualites/polyarthrite-polyarthrite-trois-patients-six-remission-apres-therapie-reprogramme-leur-immunite-137516/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/2/0/2204577978_50260372_cellules-t-car-cd-19-polyarthrite.jpg",
+      "date": "2026-09-06T13:43:33+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cap-Vert : au moins 25 morts, principalement des enfants, dans un accident de la route",
+      "desc": "Le drame a eu lieu lors d’un trajet en bus sur l’île de Fogo. Les accidents de cette ampleur sont rares et les routes globalement en bon état dans cet archipel d’Afrique de l’Ouest de quelque 550 000 habitants, situé en plein Atlantique, au large du Sénégal.",
+      "url": "https://www.liberation.fr/international/afrique/cap-vert-au-moins-25-morts-principalement-des-enfants-dans-un-accident-de-la-route-20260906_PKLW7KG3MBBWFB75S2B5CU3GBI/",
+      "image": null,
+      "date": "2026-09-06T12:49:02+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "En Egypte, une célèbre présentatrice télé et onze personnes condamnées à mort par pendaison pour trafic de drogue",
+      "desc": "Sarah Khalifa, 39 ans, qui compte près de 2 millions d’abonnés sur Instagram, a également été condamnée pour «possession et détention illégales d’armes à feu et de munitions», ont annoncé samedi des médias officiels égyptiens.",
+      "url": "https://www.liberation.fr/international/afrique/en-egypte-une-celebre-presentatrice-tele-et-onze-personnes-condamnees-a-mort-par-pendaison-pour-trafic-de-drogue-20260906_5T4Z3SQR3FCOBLZ3TP6K57552M/",
+      "image": null,
+      "date": "2026-09-06T12:34:15+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le fonds d’indemnisation des victimes de pesticides a reçu plus de 1 000 demandes en 2025, un chiffre inédit",
+      "desc": "Le rapport annuel de l’instance souligne par ailleurs un découpage nord-sud, avec plus de demandes venant du nord, notamment des zones Armorique, Maine-et-Loire et Bourgogne. Le cancer de la prostate reste l’affection prédominante dans les demandes.",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/06/le-fonds-d-indemnisation-des-victimes-de-pesticides-a-recu-plus-de-1-000-demandes-en-2025-un-chiffre-inedit_6767193_3244.html",
+      "image": "https://img.lemde.fr/2026/07/20/974/0/8189/4094/644/322/60/0/0bcc3d9_ftp-1-ydehqzsgsj9j-5668848-01-06.jpg",
+      "date": "2026-09-06T11:49:04+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fonds d’indemnisation des victimes de pesticides : le cap des 1 000 demandes dépassé pour la première fois en 2025",
+      "desc": "Les demandeurs sont à 92,5% des hommes ayant travaillé dans l’agriculture. Les victimes reconnues peuvent ensuite percevoir des indemnisations sur le temps long en fonction de la pathologie.",
+      "url": "https://www.liberation.fr/environnement/pollution/fonds-dindemnisation-des-victimes-de-pesticides-le-cap-des-1-000-demandes-depasse-pour-la-premiere-fois-en-2025-20260906_HFHIIF3JN5DOPHLAQXUQJEZ2YU/",
+      "image": null,
+      "date": "2026-09-06T10:39:20+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ce secret du thé vert pourrait bien aider votre cerveau à mieux résister au vieillissement",
       "desc": "Le thé vert, riche en antioxydants, semble jouer un rôle protecteur pour le cerveau en réduisant les lésions de la substance blanche chez les personnes âgées. Découvrons comment cette boisson pourrait contribuer à la prévention des troubles cognitifs.",
@@ -260,16 +310,6 @@
       "date": "2026-09-02T05:33:29+00:00",
       "date_formatted": "2 September 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Ada Yonath, biologiste moléculaire et prix Nobel de chimie, est morte",
-      "desc": "Lauréate du prix Nobel de chimie en 2009 pour la découverte de la structure des ribosomes, capables de fabriquer nos protéines à partir de l’ARN, la scientifique israélienne est morte le 31 août, à l’âge de 87 ans.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/09/01/ada-yonath-biologiste-moleculaire-est-morte_6763510_3382.html",
-      "image": "https://img.lemde.fr/2026/09/01/204/0/2627/1313/644/322/60/0/20895db_upload-1-0zeurd2ds80c-2009-10-07t120000z-1306984952-gm1e5a805lk01-rtrmadp-3-nobel-chemistry.JPG",
-      "date": "2026-09-01T18:42:14+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
