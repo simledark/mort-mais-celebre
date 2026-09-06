@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-06T01:36:20.231810+00:00",
-  "count": 53,
+  "generated_at": "2026-09-06T09:48:21.965287+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "Ce secret du thé vert pourrait bien aider votre cerveau à mieux résister au vieillissement",
+      "desc": "Le thé vert, riche en antioxydants, semble jouer un rôle protecteur pour le cerveau en réduisant les lésions de la substance blanche chez les personnes âgées. Découvrons comment cette boisson pourrait contribuer à la prévention des troubles cognitifs.",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-ce-secret-vert-pourrait-bien-aider-votre-cerveau-mieux-resister-vieillissement-w2t8-137082/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/c/c/fccd88dc78_50259507_vert-cerveau-vieillissement.jpg",
+      "date": "2026-09-06T08:00:00+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "«Nous sommes confrontés à de nombreux défis» : au Népal, les secours toujours à la recherche de survivants",
+      "desc": "Le dernier bilan fait état de 1 341 morts et 4 996 disparus, parmi lesquels des centaines de touristes et de pèlerins étrangers, ainsi qu’environ 900 agents ou ouvriers qui se trouvaient dans des centrales électriques ou des chantiers de barrages lors du désastre.",
+      "url": "https://www.liberation.fr/international/nous-sommes-confrontes-a-de-nombreux-defis-au-nepal-les-secours-toujours-a-la-recherche-de-survivants-20260906_PPL63APIKVHX3H5XV7LE5OUZAQ/",
+      "image": null,
+      "date": "2026-09-06T07:34:00+00:00",
+      "date_formatted": "6 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Créer le vivant, mode d'emploi",
       "desc": "Façonner la vie : des génomes synthétiques aux cellules artificielles, certains biologistes veulent réaliser ce vieux rêve de l’humanité. Au prix de questions parfois cruciales pour la survie même des formes naturelles du vivant... dont les êtres humains eux-mêmes.",
@@ -11,16 +31,6 @@
       "date_formatted": "5 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Crues au Népal : un troisième rescapé extrait d’un tunnel, les recherches continuent",
-      "desc": "L’immense vague d’eau, de glace et de débris qui a déferlé à la frontière du Népal et de la Chine, a fait dans les deux pays 1 375 morts et plus 5 600 disparus, selon les derniers bilans. Plusieurs centaines d’entre eux sont des touristes, des pèlerins ou des ouvriers étrangers.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/crues-au-nepal-un-troisieme-rescape-extrait-dun-tunnel-les-recherches-continuent-20260905_SKRPZ4BJIFCNZBM5B47IYA2MOU/",
-      "image": null,
-      "date": "2026-09-05T10:32:45+00:00",
-      "date_formatted": "5 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Septembre jaune : sur les réseaux sociaux, des internautes sensibilisent contre le suicide",
