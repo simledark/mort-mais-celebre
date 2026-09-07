@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-09-07T10:53:45.446271+00:00",
-  "count": 53,
+  "generated_at": "2026-09-07T16:45:20.025824+00:00",
+  "count": 51,
   "articles": [
     {
-      "title": "Le forcené qui a tué une femme et blessé son compagnon vendredi dans le Finistère est mort à l’hôpital",
-      "desc": "Le parquet supposait que le suspect avait fait une «tentative de suicide» lorsqu’il s’était retranché après le meurtre de sa voisine le vendredi 4 septembre. Une enquête est ouverte pour «assassinat et tentative d’assassinat».",
-      "url": "https://www.liberation.fr/societe/police-justice/le-forcene-qui-a-tue-une-femme-et-blesse-son-compagnon-vendredi-dans-le-finistere-est-mort-a-lhopital-20260907_O42MDTNSBVGZLAQ735FKSFNRSU/",
+      "title": "Infarctus et AVC : ces marques autour des yeux pourraient alerter sur un risque accru, selon une étude",
+      "desc": "L’athérosclérose, qui correspond à l’accumulation de plaques graisseuses dans les artères, est un facteur de risque majeur d’infarctus et d’accident vasculaire cérébral (AVC). Un des signes avant-coureurs de cette maladie pourrait se manifester au niveau des yeux, alertent des chercheurs.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-infarctus-avc-ces-marques-autour-yeux-pourraient-alerter-risque-accru-selon-etude-137578/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/9/a/a9a99476ad_50260474_portrait-regard.jpg",
+      "date": "2026-09-07T18:03:24+00:00",
+      "date_formatted": "7 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Pourquoi la solitude est considérée comme une épidémie néfaste pour la santé mentale et physique",
+      "desc": "En France, près d’une personne sur quatre déclarait se sentir seule en 2025. Un isolement qui touche en particulier les jeunes et les personnes âgées. Et peut représenter une source importante de souffrance. Parmi les leviers possibles, figurent notamment la pratique d’activités de proximité ainsi q",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/07/pourquoi-la-solitude-est-consideree-comme-une-epidemie-nefaste-pour-la-sante-mentale-et-physique_6767969_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/07/1571/0/3780/1890/644/322/60/0/659bd9a_upload-1-1n56yct8782z-hl-sbouillaud-1064812.jpg",
+      "date": "2026-09-07T18:00:27+00:00",
+      "date_formatted": "7 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Après trois ans d’interruption, le football reprend ses droits en Palestine",
+      "desc": "Pour la première fois depuis le 7 octobre 2023 et le début de la guerre entre Israël et le Hamas, des matchs ont eu lieu ce week-end à Gaza, en Cisjordanie et au Liban. L’occasion pour les clubs de rendre hommage aux joueurs, arbitres et responsables morts durant le conflit.",
+      "url": "https://www.liberation.fr/sports/football/apres-trois-ans-dinterruption-le-football-reprend-ses-droits-en-palestine-20260907_DGSOV3D2FBBG3POWRDNAJB23BI/",
       "image": null,
-      "date": "2026-09-07T10:44:25+00:00",
+      "date": "2026-09-07T16:28:17+00:00",
       "date_formatted": "7 September 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Liban : onze morts dans des frappes israéliennes nocturnes sur un village du sud",
-      "desc": "Les victimes sont des habitants d’un immeuble résidentiel de Kfar Remmane, et deux secouristes frappés dans leur véhicule. Israël évoque des violations «répétées» du cessez-le-feu par le Hezbollah.",
-      "url": "https://www.liberation.fr/international/moyen-orient/liban-onze-morts-dans-des-frappes-israeliennes-nocturnes-sur-un-village-du-sud-20260907_YFP63RFTMJE3FJG722GK34AQQY/",
+      "title": "INFO RADIOFRANCE. Hantavirus : 45 personnes ont dû être placées en quarantaine après la détection d'un cas isolé en France cet été",
+      "desc": "Le patient, un adolescent franco-argentin, se trouvait alors en vacances avec sa famille en France et en Espagne.",
+      "url": "https://www.franceinfo.fr/sante/info-radiofrance-45-personnes-ont-du-etre-placees-en-quarantaine-apres-la-detection-d-un-cas-isole-d-hantavirus-en-france-cet-ete_8181029.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/0xh4AaKBTsXjq01u-kNjTVT4xSg/0x53:1024x629/432x243/filters:format(jpg)/2026/05/12/6a0313dcf3104978569968.jpg",
+      "date": "2026-09-07T14:54:07+00:00",
+      "date_formatted": "7 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Minute de silence avant chaque match de la Ligue des champions, journée nationale de deuil, poursuite des fouilles… L’actu de la crue au Népal ce lundi",
+      "desc": "L’essentiel des informations du jour sur les inondations survenues au nord du Népal et au Tibet le 26 août.",
+      "url": "https://www.liberation.fr/international/moyen-orient/minute-de-silence-avant-chaque-match-de-la-ligue-des-champions-journee-nationale-de-deuil-poursuite-des-fouilles-lactu-de-la-crue-au-nepal-ce-lundi-20260907_PV2CPASCCJEBPMJDCUKBNIYKGE/",
       "image": null,
-      "date": "2026-09-07T08:33:37+00:00",
+      "date": "2026-09-07T13:44:19+00:00",
       "date_formatted": "7 September 2026",
       "source": "Libération",
       "type": "presse"
@@ -111,16 +141,6 @@
       "date_formatted": "5 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "La vitamine C, c’est surcoté ?",
-      "desc": "On entend souvent qu’à l’approche de l’automne, une petite cure de vitamine C, ça aide à garder la forme et à traverser la fin de l’année en évitant les virus. Mais est-ce vrai ? Prendre des compléments est-il bon pour la santé, questionne Julien Ménielle ?",
-      "url": "https://www.franceinfo.fr/sante/la-vitamine-c-c-est-surcote_8175860.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/k8K8UjfOzx3RkHvdHaxBlCAzU30/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/03/6a99a406ecba6609509239.jpg",
-      "date": "2026-09-04T16:00:02+00:00",
-      "date_formatted": "4 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Rugby : Atteint de la maladie de Charcot à 31 ans, Jai Arrow a droit à une dérogation spéciale pour arriver à 100 matchs",
@@ -233,26 +253,6 @@
       "type": "science"
     },
     {
-      "title": "Des physiciens se penchent sur le mystère des grains de sable sauteurs",
-      "desc": "En cherchant à comprendre la raison pour laquelle les grains ne se répartissent pas de façon homogène sur une plaque, les chercheurs ont été mis sur la voie d’une nouvelle loi.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/03/des-physiciens-se-penchent-sur-le-mystere-des-grains-de-sable-sauteurs_6764957_1650684.html",
-      "image": "https://img.lemde.fr/2026/09/02/432/0/5184/2592/644/322/60/0/268ccfd_upload-1-jtawinl4wh4s-img-3794.JPG",
-      "date": "2026-09-03T07:00:02+00:00",
-      "date_formatted": "3 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Cancer de la peau : Faute de dermatos, les kinés et infirmiers peuvent repérer des lésions suspectes",
-      "desc": "Face au manque de dermatologues, des kinés, infirmiers et pharmaciens se forment au repérage des lésions cutanées suspectes",
-      "url": "https://www.20minutes.fr/sante/4241933-20260903-cancer-peau-faute-dermatos-kines-infirmiers-peuvent-reperer-lesions-suspectes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/KjAKE9opTl2e7y7lKmXQzyk/1200x768_pour-faire-face-a-la-penurie-de-dermatologues-des-professionnels-de-sante-se-forment-au-reperage-des-lesions-cutanees-suspectes",
-      "date": "2026-09-03T05:32:37+00:00",
-      "date_formatted": "3 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Trop de sucre dans le sang pourrait aider les cellules cancéreuses à se protéger du système immunitaire",
       "desc": "Et si les cellules cancéreuses se cachaient derrière un véritable bouclier de sucre ? Des chercheurs viennent de mettre en évidence un mécanisme qui pourrait les aider à échapper à la surveillance du système immunitaire, et montrent qu’une glycémie élevée pourrait, dans certaines conditions,...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-trop-sucre-sang-pourrait-aider-cellules-cancereuses-proteger-systeme-immunitaire-137468/#xtor%3DRSS-8",
@@ -343,16 +343,6 @@
       "type": "science"
     },
     {
-      "title": "L’OMS déclare la fin de l’épidémie causée par le virus Ebola en Ouganda",
-      "desc": "En l’absence de nouvelle contamination recensée 42 jours après la sortie du dernier malade de l’hôpital, l’Organisation a déclaré la fin de l’épidémie en Ouganda. L’épidémie continue cependant de faire rage en République démocratique du Congo.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/08/27/l-oms-declare-la-fin-de-l-epidemie-causee-par-le-virus-ebola-en-ouganda_6758488_3212.html",
-      "image": "https://img.lemde.fr/2026/08/27/381/0/5807/2903/644/322/60/0/9bab17c_ftp-1-ysn74ha8uh2a-5930600-01-06.jpg",
-      "date": "2026-08-27T17:36:33+00:00",
-      "date_formatted": "27 August 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Maladie de Sjögren : une nouvelle piste pour expliquer la signature interféron des maladies auto-immunes",
       "desc": "Des scientifiques de l'Université Paris-Saclay, de l'Inserm, du CEA, de l'AP-HP, de la fondation Arthritis et leurs partenaires internationaux identifient un mécanisme jusqu'alors inconnu expliquant l'activation chronique de l'interféron dans la maladie de Sjögren, un modèle de maladie auto-immune s",
       "url": "https://presse.inserm.fr/maladie-de-sjogren-une-nouvelle-piste-pour-expliquer-la-signature-interferon-des-maladies-auto-immunes/73189/",
@@ -409,16 +399,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/19/cover-r4x3w1200-6a852f6cc53ad-2b035a6a41438b62dc2e8deb841e3399bb78d054-jpg.jpg",
       "date": "2026-08-19T08:38:02+00:00",
       "date_formatted": "19 August 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ebola en RDC : l'épidémie \"tue une personne toutes les 30 minutes\"",
-      "desc": "Plus rapide que toutes les précédentes flambées, l'épidémie d'Ebola en cours en RDC a déjà fait plus de 2.300 morts en trois mois. Défiance des populations, soignants non payés, financement insuffisant : la riposte peine à suivre le rythme de la propagation.",
-      "url": "https://www.sciencesetavenir.fr/sante/rdc-l-epidemie-d-ebola-devient-la-plus-meurtriere-de-l-histoire-du-pays_194303?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/17/cover-r4x3w1200-6a82ce0cb10be-2df50a985cd087650695fac2f4082d7e3027d89e-jpg.jpg",
-      "date": "2026-08-17T09:21:12+00:00",
-      "date_formatted": "17 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
