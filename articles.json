@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-09-08T10:11:30.161005+00:00",
-  "count": 52,
+  "generated_at": "2026-09-08T15:30:52.241192+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "En 2025, le don de gamètes en hausse mais toujours insuffisant en France : seulement 11 % des sondés en âge de donner se disent prêts à franchir le pas",
-      "desc": "L’Agence de la biomédecine dévoile ce mardi 8 septembre son baromètre 2026. Bilan : malgré une forte adhésion au don (76 % des sondés), le nombre de donneurs, surtout du côté des hommes, reste insuffisant face à une demande multipliée par six depuis l’ouverture de la PMA à toutes les femmes en 2021.",
-      "url": "https://www.liberation.fr/societe/familles/en-2025-le-don-de-gametes-en-hausse-mais-toujours-insuffisant-en-france-seulement-11-des-sondes-en-age-de-donner-se-disent-prets-a-franchir-le-pas-20260908_XNKJBRPT3BB3LJBPGUUAP7ZXPU/",
+      "title": "Le maire de New York publie des documents confidentiels sur la toxicité de l’air après les attentats du 11 Septembre : «Que savait la ville des dangers liés au nuage toxique à Ground Zero ?»",
+      "desc": "Ces dossiers révèlent que des responsables new-yorkais avaient des informations sur les risques pour la santé de l’air empoisonné et les ont dissimulés. En plus des 2 977 victimes le jour des attaques, plus de 9 400 sont morts après, des suites de maladies.",
+      "url": "https://www.liberation.fr/international/amerique/que-savait-la-ville-des-dangers-lies-au-nuage-toxique-a-ground-zero-le-maire-de-new-york-publie-des-documents-confidentiels-sur-la-toxicite-de-lair-apres-les-attentats-du-11-septembre-20260908_6W4LVESK65DIRPDTUDMZX5V3ZI/",
       "image": null,
-      "date": "2026-09-08T10:00:00+00:00",
+      "date": "2026-09-08T14:57:46+00:00",
       "date_formatted": "8 September 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Anna-Claria Ostasenko-Bogdanoff, voyage dans le temps",
+      "desc": "Scénariste et cinéaste, la fille d’Igor Bogdanoff dissèque ses origines familiales et travaille le deuil dans son premier livre.",
+      "url": "https://www.liberation.fr/portraits/anna-claria-ostasenko-bogdanoff-voyage-dans-le-temps-20260908_7LMA3UJZ7BB47EVO5F2SKCAR24/",
+      "image": null,
+      "date": "2026-09-08T13:44:00+00:00",
+      "date_formatted": "8 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Adieu monde cruel» de Félix de Givry, rien ne sert de mourir",
+      "desc": "Evocation ultrasensible de l’adolescence, ce délicat premier film suit la fugue d’un garçon qui a raté son suicide, réfugié dans l’hôtel d’une camarade de classe.",
+      "url": "https://www.liberation.fr/culture/cinema/adieu-monde-cruel-de-felix-de-givry-rien-ne-sert-de-mourir-20260908_7IXPCC377ZAEXG7UOB3Q7C42CE/",
+      "image": null,
+      "date": "2026-09-08T13:37:29+00:00",
+      "date_formatted": "8 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Lenteur du test, confinements tardifs… La gestion d’un cas d’Hantavirus fait polémique à Limoges",
+      "desc": "Un adolescent franco-argentin a voyagé librement pendant deux semaines en attendant le résultat de son test d’hantavirus, qui s’est finalement révélé positif, révèle « France Inter »",
+      "url": "https://www.20minutes.fr/sante/4243630-20260908-lenteur-test-confinements-tardifs-gestion-cas-hantavirus-fait-polemique-limoges?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-UaDNDJ_RDGGAsyIU2Y3ZSk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8709-credit-mourad-allili-sipa-2605121211",
+      "date": "2026-09-08T13:22:36+00:00",
+      "date_formatted": "8 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Essai sur l’IA : Mark Zuckerberg est-il en train de perdre la boule ?",
+      "desc": "Début août, le patron de Meta a publié un texte sur l’intelligence artificielle, dans lequel il s’en prend à Anthropic… dont la maison mère de Facebook, Instagram et WhatsApp est pourtant l’un des plus gros clients. Un manifeste mou, qui sent la fin de règne ou le début d’Alzheimer.",
+      "url": "https://www.liberation.fr/economie/economie-numerique/essai-sur-lia-mark-zuckerberg-est-il-en-train-de-perdre-la-boule-20260908_AP4M37R3OZDZ7GKRSA7LGQVX7Q/",
+      "image": null,
+      "date": "2026-09-08T12:58:00+00:00",
+      "date_formatted": "8 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tiques : un nouveau virus découvert en Chine infecte l’être humain et pourrait aggraver une autre infection",
+      "desc": "Fièvre, fatigue, troubles digestifs… Les symptômes faisaient penser à une infection déjà connue, mais les tests revenaient négatifs. En cherchant ce qui rendait réellement les patients malades, des scientifiques ont découvert un virus transmis par les tiques qui échappait jusqu’ici à leur...",
+      "url": "https://www.futura-sciences.com/sante/actualites/zoonose-tiques-nouveau-virus-decouvert-chine-infecte-etre-humain-pourrait-aggraver-autre-infection-137593/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/3/8/338476cfc2_50260495_tique-nouvelle-maladie.jpg",
+      "date": "2026-09-08T12:25:13+00:00",
+      "date_formatted": "8 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Ils ne fument pas, mais en meurent : le lourd bilan du tabagisme passif",
@@ -21,36 +71,6 @@
       "date_formatted": "8 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Fraude fiscale : Tracfin enregistre un nouveau record de déclarations de soupçon de fraude en 2025",
-      "desc": "Les signalements, près de 300 000, ont progressé d’un tiers en un an, selon cellule rattachée au ministère de l’Economie.",
-      "url": "https://www.liberation.fr/societe/police-justice/fraude-fiscale-tracfin-enregistre-un-nouveau-record-de-declarations-de-soupcon-de-fraude-en-2025-20260908_UW5NJONXQJAGXDES7UBLMIGUJ4/",
-      "image": null,
-      "date": "2026-09-08T08:56:05+00:00",
-      "date_formatted": "8 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Plus de 1,6 million de morts liées au tabagisme passif en 2023",
-      "desc": "La fumée des autres affecte 2,7 milliards de personnes dans le monde, dont 767 millions d’enfants de 0 à 14 ans, selon une étude parue ce mardi dans la revue scientifique «The Lancet».",
-      "url": "https://www.liberation.fr/societe/sante/plus-de-16-million-de-morts-liees-au-tabagisme-passif-en-2023-20260908_T6TXARDL2FCT3P7NYIUTELH4YU/",
-      "image": null,
-      "date": "2026-09-08T07:09:32+00:00",
-      "date_formatted": "8 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "La Russie reprend ses frappes sur Kyiv après trois jours de trêve, Zelensky évoque une possible «désescalade» cet hiver",
-      "desc": "Des attaques aériennes ont fait au moins deux morts dans la capitale ukrainienne ce mardi. Chacun des dirigeants s’est entretenu ce week-end avec des émissaires américains en vue d’une reprise des pourparlers.",
-      "url": "https://www.liberation.fr/international/europe/la-russie-reprend-ses-frappes-sur-kyiv-apres-trois-jours-de-treve-zelensky-evoque-une-possible-desescalade-cet-hiver-20260908_JJUSFCLL3JGURJFIQBVVMMKCSY/",
-      "image": null,
-      "date": "2026-09-08T07:02:51+00:00",
-      "date_formatted": "8 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Infarctus et AVC : ces marques autour des yeux pourraient alerter sur un risque accru, selon une étude",
@@ -198,16 +218,6 @@
       "url": "https://www.20minutes.fr/sante/4242794-20260904-australie-enfant-6-ans-meurt-scorbut-maladie-rare-disparue-depuis-deux-siecles?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/VEg8hW4QTj2pPUvzGu8t6Ck/1200x768_peluche-enfant-hopital",
       "date": "2026-09-04T10:29:44+00:00",
-      "date_formatted": "4 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicules : La France a enregistré 7.000 morts supplémentaires jusqu’à fin juillet",
-      "desc": "Canicules : La France a enregistré 7.000 morts supplémentaires jusqu’à fin juillet",
-      "url": "https://www.20minutes.fr/tv/videos/4242736-20260904-canicules-france-enregistre-7-000-morts-supplementaires-jusqu-fin-juillet?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/-30NoP_6T5imrWA_nMSd3ik/1200x768_ministre-francaise-sante-stephanie-rist-declare-vendredi-4-septembre-environ-7000-deces-supplementaires-enregistres-lors-vagues-chaleur-caniculaires-f",
-      "date": "2026-09-04T09:12:36+00:00",
       "date_formatted": "4 September 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
