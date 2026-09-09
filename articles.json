@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-09T15:26:29.549018+00:00",
+  "generated_at": "2026-09-09T20:08:07.810189+00:00",
   "count": 47,
   "articles": [
+    {
+      "title": "Des chercheurs français et japonais primés pour leurs «découvertes fondamentales» sur la narcolepsie et le sommeil",
+      "desc": "Emmanuel Mignot et Masashi Yanagisawa ont - séparément - réalisé des avancés notables dans la recherche sur cette maladie rare. Elles ont permis la mise au point de traitements et ouvert de nouvelles perspectives.",
+      "url": "https://www.liberation.fr/sciences/des-chercheurs-francais-et-japonais-primes-pour-leurs-decouvertes-fondamentales-sur-la-narcolepsie-et-le-sommeil-20260909_DGM2Y7LBAJELNCXDZCS3LXWBLA/",
+      "image": null,
+      "date": "2026-09-09T17:26:39+00:00",
+      "date_formatted": "9 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Charles Wolf, président d’Initiative Pharma : face au « mur » du vieillissement, « il va falloir investir dans la santé »",
       "desc": "A l’approche de la présentation du budget de la Sécurité sociale pour 2027, le président du nouveau syndicat patronal de l’industrie pharmaceutique appelle à mieux valoriser les médicaments innovants produits ou développés en France. Il assure que ces dépenses supplémentaires bénéficieront à l’écono",
@@ -11,16 +21,6 @@
       "date_formatted": "9 September 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "«Quand je suis entrée ici, j’étais en colère, aujourd’hui ça va» : à Marseille, une unité de soins pour les malades d’Alzheimer",
-      "desc": "L’hôpital Saint Joseph-Montval a ouvert une unité cognitivo-comportementale pour accueillir les personnes atteintes de la maladie après une crise aiguë. Un sas de prise en charge avant de retourner dans leur foyer ou d’être placées en Ehpad.",
-      "url": "https://www.liberation.fr/societe/sante/quand-je-suis-entree-ici-jetais-en-colere-aujourdhui-ca-va-a-marseille-une-unite-de-soins-pour-les-malades-dalzheimer-20260909_HEY77MUTTRGCHACKCMN53VMU7I/",
-      "image": null,
-      "date": "2026-09-09T15:17:31+00:00",
-      "date_formatted": "9 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Vieillir en bonne santé : une sortie culturelle par semaine ralentirait le vieillissement biologique",
@@ -61,6 +61,16 @@
       "date_formatted": "9 September 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
+    },
+    {
+      "title": "Vous en mangez peut-être tous les jours : ces aliments sont associés à davantage de cancers de la prostate, révèle une étude",
+      "desc": "Les aliments ultra-transformés occupent une place croissante dans notre alimentation et leur impact sur la santé interroge. Leur consommation pourrait-elle être associée à un risque accru de cancer chez les hommes ? Des chercheurs ont tenté d’y répondre en analysant les habitudes alimentaires de...",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-vous-mangez-peut-etre-tous-jours-ces-aliments-sont-associes-davantage-cancers-prostate-revele-etude-137603/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/9/5/89570b5acc_50260560_alimentation-cancer-prostate.jpg",
+      "date": "2026-09-09T05:23:35+00:00",
+      "date_formatted": "9 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Avoir des parents qui vivent longtemps augmente-t-il nos chances de vieillir en bonne santé ? Une vaste étude répond",
@@ -208,16 +218,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-voici-lien-insoupconne-notre-alimentation-type-courant-cancer-poumon-w2t8-137080/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/0/5/7058c2848e_50232906_cancer-poumon-regime-alimentaire.jpg",
       "date": "2026-09-05T09:00:00+00:00",
-      "date_formatted": "5 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Et si un virus très répandu contribuait aussi au développement d'Alzheimer ?",
-      "desc": "L’hypothèse d’un lien entre la maladie d’Alzheimer et le virus de l’herpès (HSV-1) refait surface, suggérant que des infections virales pourraient jouer un rôle dans l’apparition de lésions cérébrales caractéristiques de cette pathologie – et peut-être d'autres maladies...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-virus-tres-repandu-contribuait-aussi-developpement-alzheimer-w2t8-137078/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/6/e/06e2b93553_50259506_virus-herpes-cerveau-alzheimer.jpg",
-      "date": "2026-09-05T08:00:00+00:00",
       "date_formatted": "5 September 2026",
       "source": "Futura Santé",
       "type": "science"
