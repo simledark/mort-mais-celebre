@@ -1,25 +1,65 @@
 {
-  "generated_at": "2026-09-09T01:51:40.062430+00:00",
-  "count": 46,
+  "generated_at": "2026-09-09T10:15:16.151613+00:00",
+  "count": 47,
   "articles": [
     {
+      "title": "Vieillir en bonne santé : une sortie culturelle par semaine ralentirait le vieillissement biologique",
+      "desc": "Un an de moins sur l'horloge biologique, et un rythme de vieillissement ralenti de 4 %. Ce serait le bénéfice associé à une sortie culturelle hebdomadaire, selon une étude britannique portant sur 3 500 adultes. Des chercheurs y voient un comportement de santé à part entière, au même titre que...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-bonne-sante-sortie-culturelle-semaine-ralentirait-vieillissement-biologique-k2m6-137277/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/d/5/3d5f1a6585_50259894_sortie-musee-vieillissement.jpg",
+      "date": "2026-09-09T10:00:00+00:00",
+      "date_formatted": "9 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Première :  une xénogreffe transitoire avant un greffon humain",
+      "desc": "Un patient de 66 ans a vécu avec un rein provenant d’un cochon modifié génétiquement pendant neuf mois, en attendant une transplantation avec un rein humain compatible.",
+      "url": "https://www.sciencesetavenir.fr/sante/premiere-une-xenogreffe-permet-a-un-homme-de-survivre-jusqu-a-trouver-un-donneur-humain_194733?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/08/cover-r4x3w1200-6aa00c8cb4b93-afp-20130924-par7667340-v2001-highres.jpg",
+      "date": "2026-09-09T08:53:58+00:00",
+      "date_formatted": "9 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "11-Septembre: la ville de New York a dissimulé des informations sur la toxicité de l'air",
+      "desc": "Près de 10.000 personnes sont mortes des suites de maladies liées aux attaques du 11 Septembre 2001. Le maire de New York, Zohran Mamdani annonce la publication de milliers de documents montrant que les responsables de la ville étaient au courant de la toxicité de l'air et ont nié sa dangerosité.",
+      "url": "https://www.sciencesetavenir.fr/sante/11-septembre-la-ville-de-new-york-a-dissimule-des-informations-sur-la-toxicite-de-l-air_194738?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/08/cover-r4x3w1200-6aa045696dd0d-28c3a4772781f9ff12dfe8befdb621b3ee5e715e-jpg.jpg",
+      "date": "2026-09-09T07:37:26+00:00",
+      "date_formatted": "9 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Thaïlande : Enquête après la mort d’un influenceur britannique venu pour un agrandissement de pénis",
+      "desc": "Igho Ubiribo, un influenceur britannique de 43 ans, est décédé quelques heures après avoir reçu une injection de 40 millilitres d’acide hyaluronique pour une opération d’agrandissement du pénis dans une clinique de Bangkok",
+      "url": "https://www.20minutes.fr/monde/4243761-20260909-thailande-enquete-apres-mort-influenceur-britannique-venu-agrandissement-penis?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/8_OwOJFZSmyxUHxgdCu3ISk/1200x768_des-touristes-se-promenent-dans-la-rue-pietonne-de-pattaya-en-thailande-le-31-aout-2026-ap-photo-sakchai-lalit-xsl110-26244475266652-2609021335",
+      "date": "2026-09-09T07:33:16+00:00",
+      "date_formatted": "9 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Avoir des parents qui vivent longtemps augmente-t-il nos chances de vieillir en bonne santé ? Une vaste étude répond",
+      "desc": "Les enfants de parents centenaires héritent-ils de ce même avantage ? Une étude, la plus exhaustive menée à ce jour, s’est intéressée aux liens entre longévité parentale et santé des enfants. Les résultats sont surprenants.",
+      "url": "https://www.futura-sciences.com/sante/actualites/longevite-avoir-parents-vivent-longtemps-augmente-t-il-nos-chances-vieillir-bonne-sante-vaste-etude-repond-137596/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/f/c/3fc1b5e2c4_50260492_personne-fe-te-100-ans.jpg",
+      "date": "2026-09-09T05:08:59+00:00",
+      "date_formatted": "9 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
       "title": "Covid-19 : Les hospitalisations en hausse, vers une reprise de l’épidémie ?",
-      "desc": "Les passages aux urgences pour suspicion de Covid-19 sont repartis à la hausse en France, tout en restant à un niveau limité, selon un article d’Actu.fr publié ce mardi. Aucun signal préoccupant n’est observé à ce stade",
+      "desc": "Les passages aux urgences pour suspicion de Covid-19 sont repartis à la hausse en France, tout en restant à un niveau limité, selon Actu. Aucun signal préoccupant n’est observé à ce stade",
       "url": "https://www.20minutes.fr/sante/4243712-20260908-covid-19-hospitalisations-hausse-vers-reprise-epidemie?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/HEVppSvPR4u-kJKni9HLOyk/1200x768_vaccin-covid-19-pfizer-lp-8-1-saison-2025-2026-campagne-automnale-de-vaccination-covid-19-variant-lp-8-1-centre-de-vaccination-hancy-nice-france-20-10-2025-syspeo-sys-a013-credit-syspeo-sipa-2510201624",
       "date": "2026-09-08T18:59:51+00:00",
       "date_formatted": "8 September 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les employés du PMU face à un plan social : «C’est un suicide commercial, on envoie des salariés à l’abattoir»",
-      "desc": "L’opérateur historique de paris hippiques, qui voit fuir ses clients, est visé par un plan de sauvegarde de l’emploi. Au total, jusqu’à 139 postes, sur un total de 1 000, pourraient être supprimés.",
-      "url": "https://www.liberation.fr/economie/social/les-employes-du-pmu-face-a-un-plan-social-massif-cest-un-suicide-commercial-on-envoie-des-salaries-a-labattoir-20260908_XNCHIYIBQVFYTNW2LOH5P6F6SM/",
-      "image": null,
-      "date": "2026-09-08T16:07:28+00:00",
-      "date_formatted": "8 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -183,16 +223,6 @@
       "type": "science"
     },
     {
-      "title": "Australie : Un enfant de 6 ans meurt du scorbut, une maladie rare disparue depuis deux siècles",
-      "desc": "Le jeune Australien souffrait d’une carence en vitamine C qui a conduit à la dégradation de sa santé et son décès",
-      "url": "https://www.20minutes.fr/sante/4242794-20260904-australie-enfant-6-ans-meurt-scorbut-maladie-rare-disparue-depuis-deux-siecles?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/VEg8hW4QTj2pPUvzGu8t6Ck/1200x768_peluche-enfant-hopital",
-      "date": "2026-09-04T10:29:44+00:00",
-      "date_formatted": "4 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Une trithérapie à la naissance pourrait éliminer le VIH",
       "desc": "Une étude sur des macaques montre qu’il serait possible de se débarrasser complètement du virus responsable du Sida chez les nouveaux-nés, protégeant les bébés nés des mères séropositives.",
       "url": "https://www.sciencesetavenir.fr/sante/un-triple-traitement-a-la-naissance-eliminerait-le-vih_194618?xtor=RSS-16",
@@ -200,16 +230,6 @@
       "date": "2026-09-04T08:36:56+00:00",
       "date_formatted": "4 September 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Vous pensez simplement mal entendre ? Ce trouble pourrait être lié à un risque accru de démence",
-      "desc": "Une découverte surprenante relie les difficultés auditives en milieu bruyant à un risque accru de démence. Cette étude britannique, menée sur plus de 80 000 adultes, ouvre de nouvelles perspectives dans la prévention de cette maladie neurodégénérative. Quelles sont les implications de ces...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-vous-pensez-simplement-mal-entendre-ce-trouble-pourrait-etre-lie-risque-accru-demence-w2t8-137076/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/9/f/f9f6dae3b8_50259505_mal-entendre-symptomes-demence.jpg",
-      "date": "2026-09-04T08:00:00+00:00",
-      "date_formatted": "4 September 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -338,16 +358,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/supercentenaires-pourquoi-leur-systeme-immunitaire-vieillit-differemment_194344?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/19/cover-r4x3w1200-6a85ac30a48ef-afp-20240514-hl-qtop-2383801-v1-highres-francesupercentenary.jpg",
       "date": "2026-08-19T15:00:00+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "La loi sur l'aide à mourir promulguée par le président Macron",
-      "desc": "La loi créant un droit à l'aide à mourir a été publiée mercredi au Journal officiel dans le sillage de sa promulgation par le président de la République Emmanuel Macron, après plusieurs années de débats.",
-      "url": "https://www.sciencesetavenir.fr/sante/la-loi-sur-l-aide-a-mourir-promulguee-par-le-president-macron_194331?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/19/cover-r4x3w1200-6a852f6cc53ad-2b035a6a41438b62dc2e8deb841e3399bb78d054-jpg.jpg",
-      "date": "2026-08-19T08:38:02+00:00",
       "date_formatted": "19 August 2026",
       "source": "Sciences & Avenir",
       "type": "science"
