@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-10T15:21:26.537996+00:00",
+  "generated_at": "2026-09-10T20:09:44.835717+00:00",
   "count": 47,
   "articles": [
+    {
+      "title": "Limitation des arrêts maladie : \"On risque de laisser des gens dans une forme de détresse sociale\", s'inquiète le syndicat MG France",
+      "desc": "Le gouvernement envisage de limiter la durée d'indemnisation des arrêts maladie de longue durée.",
+      "url": "https://www.franceinfo.fr/sante/limitation-des-arrets-maladie-on-risque-de-laisser-des-gens-dans-une-forme-de-detresse-sociale-s-inquiete-le-syndicat-mg-france_8187230.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/orGZI1LGdUgBhANZuCsfUToC6IQ/0x100:5568x3230/432x243/filters:format(jpg)/2025/04/17/maxnewsspecial376275-6800a64fc8411791369804.jpg",
+      "date": "2026-09-10T20:54:39+00:00",
+      "date_formatted": "10 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pilules contraceptives à base de désogestrel : un risque sanitaire pour 1,6 million de femmes",
+      "desc": "En France, 1,6 million de femmes vont recevoir un courrier à l'initiative de l’Agence nationale de sécurité du médicament. Après la prise de certaines pilules contraceptives, il y aurait un risque très faible de développer dans certains cas une tumeur au cerveau.",
+      "url": "https://www.franceinfo.fr/sante/pilules-contraceptives-a-base-de-desogestrel-un-risque-sanitaire-pour-1-6-million-de-femmes_8186501.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/D8PiAGTUXL07d1ADEVyt3xVPOhM/0x33:822x496/432x243/filters:format(jpg)/2026/09/10/6aa2b64b76643750295696.png",
+      "date": "2026-09-10T17:40:10+00:00",
+      "date_formatted": "10 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "La distribution gratuite de seringues, maillon clé de la lutte contre le VIH aux Seychelles confrontées à une crise de multi-addiction",
       "desc": "Les drogues dures, consommées en partie par injection, se déversent sur l’archipel depuis une quinzaine d’années. Changer les seringues, et éviter leur partage, réduit drastiquement les risques de maladies infectieuses.",
@@ -14,20 +34,10 @@
     },
     {
       "title": "Enfants prématurés : quelles conséquences dans les années qui suivent la naissance ?",
-      "desc": "À l'âge de 10 ans, les enfants nés prématurément affichent globalement une bonne santé mais font face à plus de troubles de l'attention et de soutien scolaire.",
+      "desc": "À l'âge de 10 ans, les enfants nés prématurément affichent globalement une bonne santé mais font face à plus de troubles de l'attention.",
       "url": "https://www.franceinfo.fr/sante/enfants-prematures-quelles-consequences-dans-les-annees-qui-suivent-la-naissance_8186567.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/pNjq-ONEBNnJoqZ7jCgjPW8J-w0/0x72:6000x3445/432x243/filters:format(jpg)/2023/12/19/bebe-6581ad19bd839463912866.jpg",
       "date": "2026-09-10T16:16:56+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Pilules contraceptives à base de désogestrel : un risque sanitaire pour 1,6 million de femmes",
-      "desc": "En France, 1,6 million de femmes vont recevoir un courrier à l'initiative de l’Agence nationale de sécurité du médicament. Après la prise de certaines pilules contraceptives, il y aurait un risque très faible de développer dans certains cas une tumeur au cerveau.",
-      "url": "https://www.franceinfo.fr/sante/pilules-contraceptives-a-base-de-desogestrel-un-risque-sanitaire-pour-1-6-million-de-femmes_8186501.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/D8PiAGTUXL07d1ADEVyt3xVPOhM/0x33:822x496/432x243/filters:format(jpg)/2026/09/10/6aa2b64b76643750295696.png",
-      "date": "2026-09-10T15:53:42+00:00",
       "date_formatted": "10 September 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -40,16 +50,6 @@
       "date": "2026-09-10T14:52:58+00:00",
       "date_formatted": "10 September 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Courts ou longs, les arrêts maladie dans le viseur du gouvernement",
-      "desc": "L’exécutif annonce ce jeudi 10 septembre la parution, d’ici à lundi, de deux décrets visant à réduire la durée maximale d’indemnisation des arrêts longs et sanctionner les arrêts courts abusifs.",
-      "url": "https://www.liberation.fr/societe/courts-ou-longs-les-arrets-maladie-dans-le-viseur-du-gouvernement-20260910_C2D7G2U6RZCMNLISQGCF53A5KI/",
-      "image": null,
-      "date": "2026-09-10T14:49:14+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
