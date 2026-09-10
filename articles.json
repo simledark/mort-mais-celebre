@@ -1,15 +1,35 @@
 {
-  "generated_at": "2026-09-10T01:47:54.191200+00:00",
-  "count": 46,
+  "generated_at": "2026-09-10T10:09:37.970342+00:00",
+  "count": 44,
   "articles": [
     {
-      "title": "Des chercheurs français et japonais primés pour leurs «découvertes fondamentales» sur la narcolepsie et le sommeil",
-      "desc": "Emmanuel Mignot et Masashi Yanagisawa ont - séparément - réalisé des avancés notables dans la recherche sur cette maladie rare. Elles ont permis la mise au point de traitements et ouvert de nouvelles perspectives.",
-      "url": "https://www.liberation.fr/sciences/des-chercheurs-francais-et-japonais-primes-pour-leurs-decouvertes-fondamentales-sur-la-narcolepsie-et-le-sommeil-20260909_DGM2Y7LBAJELNCXDZCS3LXWBLA/",
-      "image": null,
-      "date": "2026-09-09T17:26:39+00:00",
-      "date_formatted": "9 September 2026",
-      "source": "Libération",
+      "title": "Pilules contraceptives à base de désogestrel : \"Il ne faut surtout pas s’inquiéter\", rassure un gynécologue concernant le risque de méningiome",
+      "desc": "L'Agence nationale de sécurité du médicament (ANSM) va alerter 1,6 million de femmes sur un risque de méningiome, une tumeur cérébrale bénigne dans environ 90% des cas, associé à certaines pilules contraceptives.",
+      "url": "https://www.franceinfo.fr/sante/contraception/pilules-contraceptives-a-base-de-desogestrel-il-ne-faut-surtout-pas-s-inquieter-rassure-un-gynecologue-concernant-le-risque-de-meningiome_8185826.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/6trEVJ6IAdEbyn6ZpyIHduhCgjs/0x224:4300x2643/432x243/filters:format(jpg)/2026/09/10/6aa248b38aa15419026551.jpg",
+      "date": "2026-09-10T08:06:55+00:00",
+      "date_formatted": "10 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer : pourquoi le sommeil profond pourrait protéger votre mémoire",
+      "desc": "Une nouvelle étude dévoile comment le sommeil profond pourrait protéger notre mémoire malgré les signes précurseurs d'Alzheimer. Des chercheurs ont observé que les personnes bénéficiant d'un sommeil de qualité préservaient mieux leurs capacités cognitives, même en présence de protéines...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-sommeil-profond-pourrait-proteger-votre-memoire-w2t8-137205/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/d/7/7d722a3e63_50259744_role-sommeil-maladie-alzheimer.jpg",
+      "date": "2026-09-10T08:00:00+00:00",
+      "date_formatted": "10 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Des risques sanitaires croissants avec le réchauffement climatique dans les villes européennes, selon The Lancet",
+      "desc": "Dans une étude consultée par franceinfo, la célèbre revue scientifique met en lumière plusieurs facteurs de risques sanitaires pour les villes en Europe tels que les incendies, l'augmentation des températures ou le risque de maladies infectieuses.",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/des-risques-sanitaires-croissants-avec-le-rechauffement-climatique-dans-les-villes-europeennes-selon-the-lancet_8185361.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/MXchYsrWqjKW6IkrhCXA-ZYzqQw/0x53:1024x629/432x243/filters:format(jpg)/2023/09/04/080-hl-mcohen-2132429-64f607fc0546f912616731.jpg",
+      "date": "2026-09-10T06:55:52+00:00",
+      "date_formatted": "10 September 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -213,16 +233,6 @@
       "type": "science"
     },
     {
-      "title": "Voici le lien insoupçonné entre notre alimentation et un type courant de cancer du poumon",
-      "desc": "Une découverte scientifique révèle que notre régime alimentaire pourrait influencer le risque de cancer du poumon. Qui aurait pensé que ce que nous mangeons joue un rôle dans cette maladie traditionnellement associée au tabagisme ? Des chercheurs américains viennent d'identifier un lien entre le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-voici-lien-insoupconne-notre-alimentation-type-courant-cancer-poumon-w2t8-137080/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/0/5/7058c2848e_50232906_cancer-poumon-regime-alimentaire.jpg",
-      "date": "2026-09-05T09:00:00+00:00",
-      "date_formatted": "5 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Les psychédéliques au secours des patients sous chimio",
       "desc": "Et si les champignons hallucinogènes pouvaient protéger les patients des dégâts de la chimiothérapie ? C’est l’hypothèse surprenante avancée par des chercheurs dans une étude publiée jeudi 3 septembre dans Science. Chez la souris, et sur quelques tissus humains, ils montrent que la psilocybine pourr",
       "url": "https://www.sciencesetavenir.fr/sante/et-si-les-psychedeliques-nous-permettaient-de-lutter-contre-les-effets-deleteres-de-la-chimio_194652?xtor=RSS-16",
@@ -343,16 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Les supercentenaires ont une immunité optimisée",
-      "desc": "La population de cellules immunitaires change chez les personnes à l’âge très avancé, probablement pour ralentir le vieillissement et mieux les protéger contre le cancer.",
-      "url": "https://www.sciencesetavenir.fr/sante/supercentenaires-pourquoi-leur-systeme-immunitaire-vieillit-differemment_194344?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/19/cover-r4x3w1200-6a85ac30a48ef-afp-20240514-hl-qtop-2383801-v1-highres-francesupercentenary.jpg",
-      "date": "2026-08-19T15:00:00+00:00",
-      "date_formatted": "19 August 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
       "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
       "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
@@ -439,26 +439,6 @@
       "image": null,
       "date": "2026-05-21T15:07:03+00:00",
       "date_formatted": "21 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Colorants, conservateurs : trois nouvelles études pointent des liens entre additifs alimentaires et risque accru de cancer, de diabète de type 2, de maladies cardiovasculaires et d’hypertension",
-      "desc": "Parmi les trois millions et demi d’aliments et de boissons répertoriés dans la base de données Open Food Facts World en 2024, plus de 139 000 contiennent au moins un additif colorant alimentaire et plus de 700 000 au moins un conservateur. Trois nouvelles études montrent des associations entre la co",
-      "url": "https://presse.inserm.fr/colorants-conservateurs-trois-nouvelles-etudes-pointent-des-liens-entre-additifs-alimentaires-et-risque-accru-de-cancer-de-maladies-cardiovasculaires-et-dhypertension/72858/",
-      "image": null,
-      "date": "2026-05-20T23:05:57+00:00",
-      "date_formatted": "20 May 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Liaisons dangereuses entre cellules cancéreuses et micro-environnement tumoral dans les cancers du sein lobulaires",
-      "desc": "Les cancers du sein lobulaires surviennent chez 10 à 15% des patientes diagnostiquées avec un cancer du sein. Présentant un risque de récidive important à long terme, ces cancers montrent des spécificités particulières. A la différence des autres cancers du sein, la présence de nombreuses cellules i",
-      "url": "https://presse.inserm.fr/liaisons-dangereuses-entre-cellules-cancereuses-et-micro-environnement-tumoral-dans-les-cancers-du-sein-lobulaires/72920/",
-      "image": null,
-      "date": "2026-05-20T15:49:59+00:00",
-      "date_formatted": "20 May 2026",
       "source": "Inserm",
       "type": "science"
     }
