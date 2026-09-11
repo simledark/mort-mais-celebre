@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-09-11T15:23:10.656339+00:00",
-  "count": 53,
+  "generated_at": "2026-09-11T20:08:51.228215+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "Un train déraille entre Rouen et Caen avec 180 passagers à son bord, «environ 20 blessés»",
+      "desc": "L’accident s’est produit à Cléon, en Seine-Maritime, vers 19h45, vendredi 11 septembre. La préfecture a ouvert une cellule de crise.",
+      "url": "https://www.liberation.fr/economie/transports/un-train-deraille-entre-rouen-et-caen-avec-180-passagers-a-son-bord-environ-20-blesses-20260911_OSSDX2H2DZD4RMMSKDCV2RW4WU/",
+      "image": null,
+      "date": "2026-09-11T19:55:33+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Céline Dion, du baume au cœur derrière la mécanique bien huilée",
+      "desc": "Au-delà de l’opération marketing ou d’une retombée économique bienvenue pour le pays, Céline est aussi une bouffée d’air qui permet à beaucoup de personnes d’aller de l’avant dans une période anxiogène.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/celine-dion-du-baume-au-coeur-derriere-la-mecanique-bien-huilee-20260911_V65ULJYHBNH6NLEZQFGAM46NKQ/",
+      "image": null,
+      "date": "2026-09-11T19:05:00+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Appel à témoignages : vous prenez la pilule, et vous envisagez de changer de contraception, racontez-nous…",
+      "desc": "L’ Agence nationale de sécurité du médicament a envoyé, jeudi, un courrier pour alerter les femmes ayant pris certains types de pilules de l’existence d’un risque faible de développer une tumeur au cerveau. Est-ce un sujet qui vous inquiète et avez-vous déjà souffert d’effets secondaires liés à la c",
+      "url": "https://www.lemonde.fr/societe/appel-temoignages/2026/09/11/appel-a-temoignages-vous-prenez-la-pilule-et-vous-envisagez-de-changer-de-contraception-racontez-nous_6770618_3224.html",
+      "image": "https://img.lemde.fr/2026/09/11/512/0/6143/3071/644/322/60/0/1287830_ftp-1-lst6qm5gxzc7-5057796-01-06.jpg",
+      "date": "2026-09-11T18:34:50+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "A Angers, un hommage à Sarah et Franck, décédés un jour de canicule, et aux autres morts de la rue",
+      "desc": "Le même jour torride de juin, la femme de 37 ans avait été retrouvée morte dans des toilettes publiques tandis que le corps de l’homme de 49 ans reposait sur un banc. Une cérémonie en leur honneur s’est tenue ce vendredi 11 septembre.",
+      "url": "https://www.liberation.fr/societe/a-angers-un-hommage-a-sarah-et-franck-decedes-un-jour-de-canicule-et-aux-autres-morts-de-la-rue-20260911_UM5V44WFVRENJNUO4DHBSF6L3M/",
+      "image": null,
+      "date": "2026-09-11T17:12:11+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Croissance revue à la baisse, les Houthis s’emparent du détroit de Bab el Mandeb, mort de la grande féministe Emma Bonino… L’actu de ce vendredi 11 septembre",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du vendredi 11 septembre",
+      "url": "https://www.liberation.fr/international/europe/croissance-revue-a-la-baisse-les-houthis-semparent-du-detroit-de-bab-el-mandeb-mort-de-la-grande-feministe-emma-bonino-lactu-de-ce-vendredi-11-septembre-20260911_Z7ETTQRGJNDBHGW5VSRW74H54M/",
+      "image": null,
+      "date": "2026-09-11T16:40:59+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de l’Italienne Emma Bonino : du féminisme à l’Europe, les combats d’une militante infatigable",
+      "desc": "Personnalité populaire de la politique italienne, figure majeure de la lutte féministe et de nombreuses causes humanitaires, elle avait été commissaire européenne et ministre des Affaires étrangères. Elle avait 78 ans.",
+      "url": "https://www.liberation.fr/international/europe/italie-emma-bonino-grande-figure-militante-et-feministe-est-morte-20260911_NSH635U7HFALRE4ZKMNFMR4DYU/",
+      "image": null,
+      "date": "2026-09-11T16:32:29+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La claustrophilie des amibes \"mangeuses de cerveau\"",
+      "desc": "Suite au décès de deux enfants infectés par une amibe \"mangeuse de cerveau\", des chercheurs américains ont découverts un mécanisme surprenant, qui pourrait expliquer sa capacité à migrer jusqu'à l'encéphale.",
+      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/des-chercheurs-decouvrent-un-comportement-surprenant-chez-une-amibe-mangeuse-de-cerveau_194751?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/11/cover-r4x3w1200-6aa3d59379c30-meningo-encephalite-amibienne-primitive.jpg",
+      "date": "2026-09-11T15:49:35+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Ebola en RDC : l’épidémie a causé plus de 3 300 morts sur plus de 6 800 cas confirmés et s’étend à une septième province du pays",
       "desc": "Déclarée au mois de mai, cette épidémie est la pire de l’histoire de la République démocratique du Congo. Elle touche désormais le Sud-Ubangui, une région située dans le nord-ouest du pays.",
@@ -279,8 +349,8 @@
       "image": "https://img.lemde.fr/2026/09/07/1571/0/3780/1890/644/322/60/0/659bd9a_upload-1-1n56yct8782z-hl-sbouillaud-1064812.jpg",
       "date": "2026-09-07T18:00:17+00:00",
       "date_formatted": "7 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Près de 1000 enfants morts de la rougeole au Bangladesh",
@@ -420,16 +490,6 @@
       "date": "2026-08-26T10:59:52+00:00",
       "date_formatted": "26 August 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Que faut-il savoir sur le vaccin à ARN contre le mélanome ?",
-      "desc": "Moderna a annoncé des résultats très positifs pour son premier vaccin à ARN contre le cancer. Voici cinq points pour comprendre cette avancée.",
-      "url": "https://www.sciencesetavenir.fr/sante/que-faut-il-savoir-sur-le-vaccin-a-arn-contre-le-melanome_194434?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/25/cover-r4x3w1200-6a8d98e6bbd29-afp-20260819-bsip-016961-069-v1-highres-dubreuilhsmelanomaoftheeyelid.jpg",
-      "date": "2026-08-26T07:13:28+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
