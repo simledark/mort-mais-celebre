@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-10T20:09:44.835717+00:00",
-  "count": 47,
+  "generated_at": "2026-09-11T01:46:27.822627+00:00",
+  "count": 49,
   "articles": [
+    {
+      "title": "Le traitement par CAR T cell, une révolution contre le cancer ?",
+      "desc": "Des avancées dans la science changent déjà la vie de certains malades du cancer, et ce n’est qu’un début. Cette fois, leurs propres défenses immunitaires servent de traitement : des cellules sont prélevées, puis modifiées pour reconnaître et attaquer la maladie. Une technique utilisée contre certain",
+      "url": "https://www.franceinfo.fr/sante/cancer/le-traitement-par-car-t-cell-une-revolution-contre-le-cancer_8187299.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/zVM-eShV3xd9FbneRJkGMgfM5DE/0x82:1494x923/432x243/filters:format(jpg)/2026/09/10/6aa30dfcc6035570455203.png",
+      "date": "2026-09-10T23:12:43+00:00",
+      "date_formatted": "10 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Elle vient me rassurer et me raisonner\" : ces patients et médecins qui s'en remettent à l'intelligence artificielle",
+      "desc": "De l’intelligence artificielle aux traitements contre le cancer, le monde est à l’aube d’une nouvelle révolution en matière de médecine. Avec une nouvelle habitude : demander un avis médical à un écran… France Télévisions a rencontré une patiente qui consulte une IA au moindre symptôme, et un médeci",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/elle-vient-me-rassurer-et-me-raisonner-ces-patients-et-medecins-qui-s-en-remettent-a-l-intelligence-artificielle_8187326.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/jrxSE-uuZwFo-QrEJVCtQoxQIy0/459x0:1533x604/432x243/filters:format(jpg)/2026/09/10/6aa318675e91c394657985.jpg",
+      "date": "2026-09-10T23:03:18+00:00",
+      "date_formatted": "10 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Limitation des arrêts maladie : \"On risque de laisser des gens dans une forme de détresse sociale\", s'inquiète le syndicat MG France",
       "desc": "Le gouvernement envisage de limiter la durée d'indemnisation des arrêts maladie de longue durée.",
