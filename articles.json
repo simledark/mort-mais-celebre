@@ -1,26 +1,36 @@
 {
-  "generated_at": "2026-09-11T10:06:49.693414+00:00",
+  "generated_at": "2026-09-11T15:23:10.656339+00:00",
   "count": 53,
   "articles": [
     {
-      "title": "Italie : Emma Bonino, grande figure militante et féministe, est morte",
-      "desc": "L’une des personnalités politiques les plus populaires dans son pays, est décédée à de 78 ans. Elle a dédié sa vie à de nombreuses causes féministes et humanitaires, du droit au divorce à celui de l’avortement.",
-      "url": "https://www.liberation.fr/international/europe/italie-emma-bonino-grande-figure-militante-et-feministe-est-morte-20260911_NSH635U7HFALRE4ZKMNFMR4DYU/",
-      "image": null,
-      "date": "2026-09-11T09:14:04+00:00",
+      "title": "Ebola en RDC : l’épidémie a causé plus de 3 300 morts sur plus de 6 800 cas confirmés et s’étend à une septième province du pays",
+      "desc": "Déclarée au mois de mai, cette épidémie est la pire de l’histoire de la République démocratique du Congo. Elle touche désormais le Sud-Ubangui, une région située dans le nord-ouest du pays.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/09/11/ebola-en-rdc-l-epidemie-a-cause-plus-de-3-300-morts-sur-plus-de-6-800-cas-confirmes-et-s-etend-a-une-septieme-province-du-pays_6770578_3212.html",
+      "image": "https://img.lemde.fr/2026/09/11/371/0/5000/2500/644/322/60/0/cec7e39_ftp-1-imrcnvin0bx3-2026-09-11t065623z-308121323-rc2egna72sgl-rtrmadp-3-health-ebola-butembo.JPG",
+      "date": "2026-09-11T14:37:51+00:00",
       "date_formatted": "11 September 2026",
-      "source": "Libération",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "«On jette tout notre suivi médical à la poubelle» : en Lorraine, des milliers de dossiers d’anciens mineurs de fond menacés de destruction",
-      "desc": "Par manque de place, les archives départementales de la Moselle envisageraient de se débarrasser de près de 120 000 fiches, indispensables pour faire reconnaître les maladies professionnelles, révèle «Rue89 Strasbourg».",
-      "url": "https://www.liberation.fr/societe/on-jette-tout-notre-suivi-medical-a-la-poubelle-en-lorraine-des-milliers-de-dossiers-danciens-mineurs-de-fond-menaces-de-destruction-20260911_NVDO5H32DBDVNDAR5XM2YN2SEM/",
-      "image": null,
-      "date": "2026-09-11T09:06:42+00:00",
+      "title": "Le café agirait sur un mécanisme clé du vieillissement : voici ce que les chercheurs ont découvert",
+      "desc": "Et si le café ne se contentait pas de nous tenir éveillés ? Des chercheurs viennent de mettre au jour un mécanisme cellulaire qui pourrait expliquer certains des effets bénéfiques associés à la caféine. Une découverte intrigante, qui touche à l’un des processus les plus fondamentaux du vivant…...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cafe-cafe-agirait-mecanisme-cle-vieillissement-voici-ce-chercheurs-ont-decouvert-137662/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/b/8/5b88fe745e_50260660_2-cafe-vieillissement.jpg",
+      "date": "2026-09-11T13:23:26+00:00",
       "date_formatted": "11 September 2026",
-      "source": "Libération",
-      "type": "presse"
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Remettre à zéro le système immunitaire pour lutter contre les maladies auto-immunes",
+      "desc": "Des chercheurs chinois ont mis en place une technique de thérapie génique pour réinitialiser les cellules immunitaires et éviter qu’elles continuent à attaquer le corps.",
+      "url": "https://www.sciencesetavenir.fr/sante/cette-therapie-genique-permet-de-lutter-contre-les-maladies-auto-immunes-de-l-interieur_194778?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/10/cover-r4x3w1200-6aa2bab3e5a9a-afp-20250922-hl-nguyonnet-2893268-v1-highres-francesocietyhandicapillustration.jpg",
+      "date": "2026-09-11T12:03:52+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "En Moselle, les dossiers médicaux de milliers de mineurs lorrains menacés de destruction, faute de place dans les archives",
@@ -228,16 +238,6 @@
       "url": "https://www.20minutes.fr/sante/4243712-20260908-covid-19-hospitalisations-hausse-vers-reprise-epidemie?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/HEVppSvPR4u-kJKni9HLOyk/1200x768_vaccin-covid-19-pfizer-lp-8-1-saison-2025-2026-campagne-automnale-de-vaccination-covid-19-variant-lp-8-1-centre-de-vaccination-hancy-nice-france-20-10-2025-syspeo-sys-a013-credit-syspeo-sipa-2510201624",
       "date": "2026-09-08T18:59:51+00:00",
-      "date_formatted": "8 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Lenteur du test, confinements tardifs… La gestion d’un cas d’Hantavirus fait polémique à Limoges",
-      "desc": "Un adolescent franco-argentin a voyagé librement pendant deux semaines en attendant le résultat de son test d’hantavirus, qui s’est finalement révélé positif, révèle « France Inter »",
-      "url": "https://www.20minutes.fr/sante/4243630-20260908-lenteur-test-confinements-tardifs-gestion-cas-hantavirus-fait-polemique-limoges?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/-UaDNDJ_RDGGAsyIU2Y3ZSk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8709-credit-mourad-allili-sipa-2605121211",
-      "date": "2026-09-08T13:22:36+00:00",
       "date_formatted": "8 September 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
