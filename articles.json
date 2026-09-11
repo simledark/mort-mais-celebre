@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-11T01:46:27.822627+00:00",
-  "count": 49,
+  "generated_at": "2026-09-11T10:06:49.693414+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Italie : Emma Bonino, grande figure militante et féministe, est morte",
+      "desc": "L’une des personnalités politiques les plus populaires dans son pays, est décédée à de 78 ans. Elle a dédié sa vie à de nombreuses causes féministes et humanitaires, du droit au divorce à celui de l’avortement.",
+      "url": "https://www.liberation.fr/international/europe/italie-emma-bonino-grande-figure-militante-et-feministe-est-morte-20260911_NSH635U7HFALRE4ZKMNFMR4DYU/",
+      "image": null,
+      "date": "2026-09-11T09:14:04+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«On jette tout notre suivi médical à la poubelle» : en Lorraine, des milliers de dossiers d’anciens mineurs de fond menacés de destruction",
+      "desc": "Par manque de place, les archives départementales de la Moselle envisageraient de se débarrasser de près de 120 000 fiches, indispensables pour faire reconnaître les maladies professionnelles, révèle «Rue89 Strasbourg».",
+      "url": "https://www.liberation.fr/societe/on-jette-tout-notre-suivi-medical-a-la-poubelle-en-lorraine-des-milliers-de-dossiers-danciens-mineurs-de-fond-menaces-de-destruction-20260911_NVDO5H32DBDVNDAR5XM2YN2SEM/",
+      "image": null,
+      "date": "2026-09-11T09:06:42+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "En Moselle, les dossiers médicaux de milliers de mineurs lorrains menacés de destruction, faute de place dans les archives",
+      "desc": "En l'absence de ces informations médicales clés, le mineur \"aura du mal à faire reconnaître sa maladie professionnelle\", alerte un défenseur syndical.",
+      "url": "https://www.franceinfo.fr/sante/en-moselle-les-dossiers-medicaux-de-milliers-de-mineurs-lorrains-menaces-de-destruction-faute-de-place-dans-les-archives_8187776.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/odzfinuuwwGwU84L0iD9ymanToE/0x468:4032x2736/432x243/filters:format(jpg)/2026/09/11/6aa399cb8ac49114403792.jpg",
+      "date": "2026-09-11T08:07:26+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Voici la quantité exacte de sport à faire chaque semaine pour réduire votre tension",
+      "desc": "L'hypertension artérielle, un fléau silencieux qui touche des milliards de personnes dans le monde. Et si la solution résidait dans une activité physique régulière ? Une étude révolutionnaire menée sur plus de 5 000 individus dévoile l'importance cruciale de l'exercice dès le plus jeune âge....",
+      "url": "https://www.futura-sciences.com/sante/actualites/sport-voici-quantite-exacte-sport-faire-chaque-semaine-reduire-votre-tension-w2t8-137095/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/7/c/d7c5613bb7_50259518_2-activite-physique-hypertension.jpg",
+      "date": "2026-09-11T08:00:00+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Le traitement par CAR T cell, une révolution contre le cancer ?",
       "desc": "Des avancées dans la science changent déjà la vie de certains malades du cancer, et ce n’est qu’un début. Cette fois, leurs propres défenses immunitaires servent de traitement : des cellules sont prélevées, puis modifiées pour reconnaître et attaquer la maladie. Une technique utilisée contre certain",
