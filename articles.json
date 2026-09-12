@@ -1,46 +1,76 @@
 {
-  "generated_at": "2026-09-12T01:52:09.432906+00:00",
-  "count": 57,
+  "generated_at": "2026-09-12T09:41:45.667377+00:00",
+  "count": 59,
   "articles": [
     {
-      "title": "Un train déraille entre Rouen et Caen avec 180 passagers à son bord, une quarantaine de blessés dont une en urgence absolue",
-      "desc": "L’accident s’est produit à Cléon, en Seine-Maritime, vers 19h45, vendredi 11 septembre. La préfecture a ouvert une cellule de crise et une enquête est en cours pour connaître les circonstances.",
-      "url": "https://www.liberation.fr/economie/transports/un-train-deraille-entre-rouen-et-caen-avec-180-passagers-a-son-bord-environ-20-blesses-20260911_OSSDX2H2DZD4RMMSKDCV2RW4WU/",
-      "image": null,
-      "date": "2026-09-11T20:27:56+00:00",
-      "date_formatted": "11 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Céline Dion, du baume au cœur derrière la mécanique bien huilée",
-      "desc": "Au-delà de l’opération marketing ou d’une retombée économique bienvenue pour le pays, Céline est aussi une bouffée d’air qui permet à beaucoup de personnes d’aller de l’avant dans une période anxiogène.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/celine-dion-du-baume-au-coeur-derriere-la-mecanique-bien-huilee-20260911_V65ULJYHBNH6NLEZQFGAM46NKQ/",
-      "image": null,
-      "date": "2026-09-11T19:05:00+00:00",
-      "date_formatted": "11 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Appel à témoignages : vous prenez la pilule, et vous envisagez de changer de contraception, racontez-nous…",
-      "desc": "L’ Agence nationale de sécurité du médicament a envoyé, jeudi, un courrier pour alerter les femmes ayant pris certains types de pilules de l’existence d’un risque faible de développer une tumeur au cerveau. Est-ce un sujet qui vous inquiète et avez-vous déjà souffert d’effets secondaires liés à la c",
-      "url": "https://www.lemonde.fr/societe/appel-temoignages/2026/09/11/appel-a-temoignages-vous-prenez-la-pilule-et-vous-envisagez-de-changer-de-contraception-racontez-nous_6770618_3224.html",
-      "image": "https://img.lemde.fr/2026/09/11/512/0/6143/3071/644/322/60/0/1287830_ftp-1-lst6qm5gxzc7-5057796-01-06.jpg",
-      "date": "2026-09-11T18:34:50+00:00",
-      "date_formatted": "11 September 2026",
-      "source": "Le Monde Science",
+      "title": "À quelle fréquence devriez-vous changer votre éponge de cuisine selon les scientifiques ?",
+      "desc": "Jusqu'à 54 milliards de cellules bactériennes par centimètre cube, soit une densité comparable à celle d'un échantillon de selles. L'éponge de cuisine bat tous les records domestiques. Le passage au micro-ondes, réflexe largement partagé, ne règle pas le problème. Il pourrait même le déplacer.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cuisine-frequence-devriez-vous-changer-votre-eponge-cuisine-selon-scientifiques-k2m6-137317/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/8/8/c882d8020a_50259964_eponge-cuisine-salete-bacteries.jpg",
+      "date": "2026-09-12T10:00:00+00:00",
+      "date_formatted": "12 September 2026",
+      "source": "Futura Santé",
       "type": "science"
     },
     {
-      "title": "A Angers, un hommage à Sarah et Franck, décédés un jour de canicule, et aux autres morts de la rue",
-      "desc": "Le même jour torride de juin, la femme de 37 ans avait été retrouvée morte dans des toilettes publiques tandis que le corps de l’homme de 49 ans reposait sur un banc. Une cérémonie en leur honneur s’est tenue ce vendredi 11 septembre.",
-      "url": "https://www.liberation.fr/societe/a-angers-un-hommage-a-sarah-et-franck-decedes-un-jour-de-canicule-et-aux-autres-morts-de-la-rue-20260911_UM5V44WFVRENJNUO4DHBSF6L3M/",
+      "title": "Des lettres prometteuses pour l'ADN",
+      "desc": "Des biologistes de l’université de San Diego viennent de rajouter des lettres à l’alphabet de l’ADN. Et cela permet littéralement de réécrire la vie.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/des-lettres-prometteuses-pour-l-adn_8167358.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/RDIfAtT9iBWvhJfLlQly73kbs3k/0x100:2136x1302/432x243/filters:format(jpg)/2026/09/10/6aa262bfac06a125719609.jpg",
+      "date": "2026-09-12T09:50:00+00:00",
+      "date_formatted": "12 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Nous saluons une penseuse» : au Palais de Tokyo, un «femmage» politique à la philosophe antivalidiste Charlotte Puiseux",
+      "desc": "Après la mort brutale de l’autrice quelques jours avant la sortie de son dernier livre, le collectif handiféministe les Dévalideuses organisait jeudi 10 septembre un événement pour honorer sa mémoire et son travail.",
+      "url": "https://www.liberation.fr/societe/nous-ne-pleurons-pas-seulement-une-amie-nous-saluons-une-penseuse-au-palais-de-tokyo-un-femmage-politique-a-la-philosophe-antivalidiste-charlotte-puiseux-20260911_KZRFSYSAFNAZBFZ6GJ6RO7GLKQ/",
       "image": null,
-      "date": "2026-09-11T17:12:11+00:00",
-      "date_formatted": "11 September 2026",
+      "date": "2026-09-12T08:27:47+00:00",
+      "date_formatted": "12 September 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Franchises médicales : le plafond annuel passe de 100 à 140 euros le 1er octobre",
+      "desc": "Selon un décret au Journal officiel publié ce samedi, les franchises médicales passeront à 140 euros par an le 1er octobre. Après avoir d’abord annoncé un doublement de ce montant non remboursé par l’Assurance maladie, l’exécutif avait rétropédalé.",
+      "url": "https://www.liberation.fr/societe/sante/franchises-medicales-le-plafond-annuel-passe-de-100-a-140-euros-le-1er-octobre-20260912_A2BTII2DIRADFDYU7JP2ZTJKHI/",
+      "image": null,
+      "date": "2026-09-12T08:24:35+00:00",
+      "date_formatted": "12 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "AVC précoce : votre groupe sanguin pourrait modifier votre niveau de risque",
+      "desc": "Une étude récente révèle un lien surprenant entre le groupe sanguin A et le risque d'accident vasculaire cérébral (AVC) précoce. Cette découverte soulève des questions sur l'impact de notre patrimoine génétique sur notre santé cardiovasculaire. Quelles sont les implications de cette recherche...",
+      "url": "https://www.futura-sciences.com/sante/actualites/genetique-avc-precoce-votre-groupe-sanguin-pourrait-modifier-votre-niveau-risque-w2t8-137207/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/8/1/e81d29bff9_50259750_2-groupe-sanguin-avc.jpg",
+      "date": "2026-09-12T08:00:00+00:00",
+      "date_formatted": "12 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "« Leur taux de mauvais cholestérol a diminué de 52,5 % » : un traitement unique surprend par son efficacité et sa sûreté",
+      "desc": "Des scientifiques travaillent actuellement sur un traitement qui apporte une modification génétique permanente qui pourrait réduire durablement le cholestérol LDL après une seule dose injectée.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cholesterol-leur-taux-mauvais-cholesterol-diminue-525-traitement-unique-surprend-son-efficacite-surete-137656/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/a/1/2a1d973a16_50260604_de-po-ts-graisses-arte-res.jpg",
+      "date": "2026-09-12T06:27:56+00:00",
+      "date_formatted": "12 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Vous prenez la pilule et vous envisagez de changer de contraception ? Racontez-nous…",
+      "desc": "L’ Agence nationale de sécurité du médicament a envoyé, jeudi, un courrier pour alerter les femmes ayant pris certains types de pilules de l’existence d’un risque faible de développer une tumeur au cerveau. Est-ce un sujet qui vous inquiète et avez-vous déjà souffert d’effets secondaires liés à la c",
+      "url": "https://www.lemonde.fr/societe/appel-temoignages/2026/09/11/appel-a-temoignages-vous-prenez-la-pilule-et-vous-envisagez-de-changer-de-contraception-racontez-nous_6770618_3224.html",
+      "image": "https://img.lemde.fr/2026/09/11/512/0/6143/3071/644/322/60/0/1287830_ftp-1-lst6qm5gxzc7-5057796-01-06.jpg",
+      "date": "2026-09-11T18:34:48+00:00",
+      "date_formatted": "11 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "La claustrophilie des amibes \"mangeuses de cerveau\"",
@@ -371,16 +401,6 @@
       "date_formatted": "6 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Ce secret du thé vert pourrait bien aider votre cerveau à mieux résister au vieillissement",
-      "desc": "Le thé vert, riche en antioxydants, semble jouer un rôle protecteur pour le cerveau en réduisant les lésions de la substance blanche chez les personnes âgées. Découvrons comment cette boisson pourrait contribuer à la prévention des troubles cognitifs.",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-ce-secret-vert-pourrait-bien-aider-votre-cerveau-mieux-resister-vieillissement-w2t8-137082/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/c/c/fccd88dc78_50259507_vert-cerveau-vieillissement.jpg",
-      "date": "2026-09-06T08:00:00+00:00",
-      "date_formatted": "6 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Créer le vivant, mode d'emploi",
