@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-12T09:41:45.667377+00:00",
-  "count": 59,
+  "generated_at": "2026-09-12T14:30:56.422000+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "Apple veut vous dire quel âge a votre corps : peut-elle vraiment savoir si vous vieillissez plus vite ou plus lentement que prévu ?",
+      "desc": "Et si votre corps n’avait pas tout à fait l’âge inscrit sur votre carte d’identité ? À l’occasion de la présentation de l’Apple Watch Series 12, Apple a dévoilé une application Santé profondément remaniée, capable d’estimer notre « âge de santé ». Mais comment une montre peut-elle réellement...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-apple-veut-vous-dire-age-votre-corps-peut-elle-vraiment-savoir-si-vous-vieillissez-plus-vite-plus-lentement-prevu-137673/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/8/5/085cf8d947_50260643_montre-connectee.jpg",
+      "date": "2026-09-12T13:21:01+00:00",
+      "date_formatted": "12 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Suicide ou assassinat : la République tchèque exhume le corps de Jan Masaryk et replonge dans les années noires du communisme",
+      "desc": "La dépouille de l’ancien ministre tchécoslovaque des Affaires étrangères, retrouvé mort le 10 mars 1948, a été déterrée pour de nouvelles analyses. De nouveaux éléments donnent à penser qu’il s’agissait d’un homicide.",
+      "url": "https://www.liberation.fr/international/europe/suicide-ou-assassinat-la-republique-tcheque-exhume-le-corps-de-jan-masaryk-et-replonge-dans-les-annees-noires-du-communisme-20260912_2HYLHDOFDRDHHCGI4UCMFJOVDA/",
+      "image": null,
+      "date": "2026-09-12T12:40:00+00:00",
+      "date_formatted": "12 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Perpignan : Les décès liés à la chaleur ont augmenté de plus de 1.000 % en trente ans",
+      "desc": "Perpignan enregistre la plus forte hausse de France de la mortalité associée aux fortes températures, selon « Le Journal Toulousain »",
+      "url": "https://www.20minutes.fr/sante/4244532-20260912-perpignan-deces-lies-chaleur-augmente-plus-1-000-trente-ans?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/0X-wmcNUTTqj2nMRN_qT9yk/1200x768_un-presentoir-de-pharmacie-affiche-une-temperature-de-42-degres-celsius-a-paris-pendant-une-vague-de-chaleur-le-mercredi-29-juillet-2026-ap-photo-aurelien-morissard-amor202-26210592099078-2607291832",
+      "date": "2026-09-12T10:32:36+00:00",
+      "date_formatted": "12 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "À quelle fréquence devriez-vous changer votre éponge de cuisine selon les scientifiques ?",
       "desc": "Jusqu'à 54 milliards de cellules bactériennes par centimètre cube, soit une densité comparable à celle d'un échantillon de selles. L'éponge de cuisine bat tous les records domestiques. Le passage au micro-ondes, réflexe largement partagé, ne règle pas le problème. Il pourrait même le déplacer.",
@@ -20,26 +50,6 @@
       "date": "2026-09-12T09:50:00+00:00",
       "date_formatted": "12 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Nous saluons une penseuse» : au Palais de Tokyo, un «femmage» politique à la philosophe antivalidiste Charlotte Puiseux",
-      "desc": "Après la mort brutale de l’autrice quelques jours avant la sortie de son dernier livre, le collectif handiféministe les Dévalideuses organisait jeudi 10 septembre un événement pour honorer sa mémoire et son travail.",
-      "url": "https://www.liberation.fr/societe/nous-ne-pleurons-pas-seulement-une-amie-nous-saluons-une-penseuse-au-palais-de-tokyo-un-femmage-politique-a-la-philosophe-antivalidiste-charlotte-puiseux-20260911_KZRFSYSAFNAZBFZ6GJ6RO7GLKQ/",
-      "image": null,
-      "date": "2026-09-12T08:27:47+00:00",
-      "date_formatted": "12 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Franchises médicales : le plafond annuel passe de 100 à 140 euros le 1er octobre",
-      "desc": "Selon un décret au Journal officiel publié ce samedi, les franchises médicales passeront à 140 euros par an le 1er octobre. Après avoir d’abord annoncé un doublement de ce montant non remboursé par l’Assurance maladie, l’exécutif avait rétropédalé.",
-      "url": "https://www.liberation.fr/societe/sante/franchises-medicales-le-plafond-annuel-passe-de-100-a-140-euros-le-1er-octobre-20260912_A2BTII2DIRADFDYU7JP2ZTJKHI/",
-      "image": null,
-      "date": "2026-09-12T08:24:35+00:00",
-      "date_formatted": "12 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -313,16 +323,6 @@
       "type": "science"
     },
     {
-      "title": "Covid-19 : Les hospitalisations en hausse, vers une reprise de l’épidémie ?",
-      "desc": "Les passages aux urgences pour suspicion de Covid-19 sont repartis à la hausse en France, tout en restant à un niveau limité, selon Actu. Aucun signal préoccupant n’est observé à ce stade",
-      "url": "https://www.20minutes.fr/sante/4243712-20260908-covid-19-hospitalisations-hausse-vers-reprise-epidemie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/HEVppSvPR4u-kJKni9HLOyk/1200x768_vaccin-covid-19-pfizer-lp-8-1-saison-2025-2026-campagne-automnale-de-vaccination-covid-19-variant-lp-8-1-centre-de-vaccination-hancy-nice-france-20-10-2025-syspeo-sys-a013-credit-syspeo-sipa-2510201624",
-      "date": "2026-09-08T18:59:51+00:00",
-      "date_formatted": "8 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Tiques : un nouveau virus découvert en Chine infecte l’être humain et pourrait aggraver une autre infection",
       "desc": "Fièvre, fatigue, troubles digestifs… Les symptômes faisaient penser à une infection déjà connue, mais les tests revenaient négatifs. En cherchant ce qui rendait réellement les patients malades, des scientifiques ont découvert un virus transmis par les tiques qui échappait jusqu’ici à leur...",
       "url": "https://www.futura-sciences.com/sante/actualites/zoonose-tiques-nouveau-virus-decouvert-chine-infecte-etre-humain-pourrait-aggraver-autre-infection-137593/#xtor%3DRSS-8",
@@ -381,16 +381,6 @@
       "date_formatted": "7 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Polyarthrite : trois patients sur six en rémission après une thérapie qui reprogramme leur immunité",
-      "desc": "Et si certaines maladies auto-immunes pouvaient un jour être durablement stoppées plutôt que simplement contenues par des médicaments ? Une thérapie cellulaire conçue à l’origine pour combattre les cancers du sang livre des résultats très encourageants contre une forme sévère de polyarthrite...",
-      "url": "https://www.futura-sciences.com/sante/actualites/polyarthrite-polyarthrite-trois-patients-six-remission-apres-therapie-reprogramme-leur-immunite-137516/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/2/0/2204577978_50260372_cellules-t-car-cd-19-polyarthrite.jpg",
-      "date": "2026-09-06T13:43:33+00:00",
-      "date_formatted": "6 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Le fonds d’indemnisation des victimes de pesticides a reçu plus de 1 000 demandes en 2025, un chiffre inédit",
