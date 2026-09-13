@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-13T10:43:12.957032+00:00",
-  "count": 57,
+  "generated_at": "2026-09-13T15:11:19.990613+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "TEMOIGNAGES. \"On m'a volé mon choix\" : soignés par radiothérapie pour vaincre leur cancer, des patients regrettent d'avoir été peu écoutés par les équipes médicales",
+      "desc": "Selon une étude de la Ligue contre le cancer, la moitié des patients qui suivent ce traitement affirment ne pas avoir été associés aux décisions prises par leurs médecins. Si aucun d'entre eux ne remet en cause l'efficacité de la radiothérapie, certains auraient aimé une meilleure communication.",
+      "url": "https://www.franceinfo.fr/sante/cancer/temoignages-on-m-a-vole-mon-choix-soignes-par-radiotherapie-pour-vaincre-leur-cancer-des-patients-regrettent-d-avoir-ete-peu-ecoutes-par-les-equipes-medicales_8160827.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/xvP7BfZtRHMl1DlponbSVZoQp78/0x184:3543x2177/432x243/filters:format(jpg)/2026/08/25/6a8d8355cb658360719462.jpg",
+      "date": "2026-09-13T16:38:44+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Savez-vous vraiment ce qu'est l'endométriose ?",
+      "desc": "L’endométriose est une maladie qui touche une à deux femmes sur dix. Longtemps ignorée, négligée, son nom est aujourd’hui plus connu. Mais savez-vous vraiment ce que c'est ?",
+      "url": "https://www.franceinfo.fr/sante/savez-vous-vraiment-ce-qu-est-l-endometriose_8188310.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/vu9XYiib-ic0fbUQcJGtQIdb4CA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa3fa218de9f195209599.jpg",
+      "date": "2026-09-13T16:00:03+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Il imaginait un grand rassemblement tourné vers la mer» : un hommage maritime à Charlie Dalin prévu le 15 septembre à Concarneau",
+      "desc": "Des dizaines de bateaux de course vont célébrer mardi après-midi dans le Finistère la mémoire du skipper mort en juin à 42 ans d’un cancer, qui ne l’avait pas empêché de remporter le Vendée Globe. Ses cendres ont été dispersées dans la mer, révèle sa femme ce dimanche dans «l’Equipe».",
+      "url": "https://www.liberation.fr/sports/il-imaginait-un-grand-rassemblement-tourne-vers-la-mer-un-hommage-maritime-a-charlie-dalin-prevu-le-15-septembre-a-concarneau-20260913_F65X2KEINVDAZBHB5IWTUF7BZU/",
+      "image": null,
+      "date": "2026-09-13T14:38:47+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au moins 76 morts après l’incendie mercredi sur un ferry aux Philippines",
+      "desc": "Un feu aux origines encore inconnues s’est déclaré le 9 septembre au soir à bord du June Aster, à environ 2,2 kilomètres du rivage, au large de l’île touristique de Coron, piégeant de nombreux croisiéristes. Une douzaine de personnes sont toujours portées disparues ce dimanche.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/au-moins-76-morts-apres-lincendie-sur-un-ferry-aux-philippines-20260913_Z2EACRRE3JFPNNHWCWLVVZKYQA/",
+      "image": null,
+      "date": "2026-09-13T13:16:50+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Inde : une artiste menacée d’expulsion vers l’Iran risque la peine de mort pour apostasie",
+      "desc": "Selon des informations obtenues par «Libération», au moins cinq exilés iraniens sont détenus en Inde et pourraient être envoyés à Téhéran.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/inde-waba-artiste-menacee-dexpulsion-vers-liran-risque-la-peine-de-mort-pour-apostasie-20260913_ODJYENZWSBCRHKPH6AW2KEPEXQ/",
+      "image": null,
+      "date": "2026-09-13T13:08:44+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Remplacer le foie sans greffe ?",
       "desc": "Des ingénieurs du MIT (Massachusetts Institute of Technology, à Cambridge aux États-Unis) viennent d’inventer des mini-foies injectables, qui jouent le même rôle que notre foie. Ils pourraient permettre de le remplacer en cas de maladie.",
@@ -33,26 +83,6 @@
       "type": "science"
     },
     {
-      "title": "Au moins 76 morts après l’incendie sur un ferry aux Philippines",
-      "desc": "Un feu aux origines encore inconnues s’est déclaré mercredi soir à bord du June Aster, à environ 2,2 kilomètres du rivage, au large de l’île touristique de Coron, piégeant de nombreux croisiéristes. Une douzaine de personnes sont toujours portées disparues ce dimanche.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/au-moins-76-morts-apres-lincendie-sur-un-ferry-aux-philippines-20260913_Z2EACRRE3JFPNNHWCWLVVZKYQA/",
-      "image": null,
-      "date": "2026-09-13T09:59:24+00:00",
-      "date_formatted": "13 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "TEMOIGNAGES. \"On m'a volé mon choix\" : soignés par radiothérapie pour vaincre leur cancer, des patients regrettent d'avoir été peu écoutés par les équipes médicales",
-      "desc": "Selon une étude de la Ligue contre le cancer, la moitié des patients qui suivent ce traitement affirment ne pas avoir été associés aux décisions prises par leurs médecins. Si aucun d'entre eux ne remet en cause l'efficacité de la radiothérapie, certains auraient aimé une meilleure communication.",
-      "url": "https://www.franceinfo.fr/sante/cancer/temoignages-on-m-a-vole-mon-choix-soignes-par-radiotherapie-pour-vaincre-leur-cancer-des-patients-regrettent-d-avoir-ete-peu-ecoutes-par-les-equipes-medicales_8160827.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/xvP7BfZtRHMl1DlponbSVZoQp78/0x184:3543x2177/432x243/filters:format(jpg)/2026/08/25/6a8d8355cb658360719462.jpg",
-      "date": "2026-09-13T07:06:17+00:00",
-      "date_formatted": "13 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "INFO FRANCEINFO. Un patient sur deux atteint de cancer affirme ne pas avoir été associé aux décisions concernant son traitement par radiothérapie",
       "desc": "La Ligue contre le cancer publie une vaste étude sur la radiothérapie, à laquelle franceinfo a eu accès en exclusivité. Bien que l'efficacité de ce traitement soit largement documentée, de nombreux patients regrettent un manque d'informations de la part du corps médical.",
       "url": "https://www.franceinfo.fr/sante/cancer/info-franceinfo-un-patient-sur-deux-atteint-de-cancer-affirme-ne-pas-avoir-ete-associe-aux-decisions-concernant-son-traitement-par-radiotherapie_8160617.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -60,16 +90,6 @@
       "date": "2026-09-13T07:05:46+00:00",
       "date_formatted": "13 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«On a gagné une sacrée bataille» : c’est reparti pour l’immunisation contre la bronchiolite des nourrissons",
-      "desc": "A partir du 14 septembre, les parents de bébés qui vont vivre leur première épidémie ont le choix entre la vaccination de la mère ou un traitement directement injecté à l’enfant. Le lancement de la campagne est toutefois jugé trop tardif par certains pédiatres.",
-      "url": "https://www.liberation.fr/societe/sante/on-a-gagne-une-sacree-bataille-cest-reparti-pour-limmunisation-contre-la-bronchiolite-des-nourrissons-20260913_XWN7OJIUFJDPHJRL6PGVFZMEYI/",
-      "image": null,
-      "date": "2026-09-13T05:00:00+00:00",
-      "date_formatted": "13 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -228,16 +248,6 @@
       "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/elle-vient-me-rassurer-et-me-raisonner-ces-patients-et-medecins-qui-s-en-remettent-a-l-intelligence-artificielle_8187326.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/jrxSE-uuZwFo-QrEJVCtQoxQIy0/459x0:1533x604/432x243/filters:format(jpg)/2026/09/10/6aa318675e91c394657985.jpg",
       "date": "2026-09-10T23:03:18+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Limitation des arrêts maladie : \"On risque de laisser des gens dans une forme de détresse sociale\", s'inquiète le syndicat MG France",
-      "desc": "Le gouvernement envisage de limiter la durée d'indemnisation des arrêts maladie de longue durée.",
-      "url": "https://www.franceinfo.fr/sante/limitation-des-arrets-maladie-on-risque-de-laisser-des-gens-dans-une-forme-de-detresse-sociale-s-inquiete-le-syndicat-mg-france_8187230.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/orGZI1LGdUgBhANZuCsfUToC6IQ/0x100:5568x3230/432x243/filters:format(jpg)/2025/04/17/maxnewsspecial376275-6800a64fc8411791369804.jpg",
-      "date": "2026-09-10T20:54:39+00:00",
       "date_formatted": "10 September 2026",
       "source": "France Info Santé",
       "type": "presse"
