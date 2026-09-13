@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-09-13T01:43:44.138897+00:00",
+  "generated_at": "2026-09-13T10:43:12.957032+00:00",
   "count": 57,
   "articles": [
+    {
+      "title": "Remplacer le foie sans greffe ?",
+      "desc": "Des ingénieurs du MIT (Massachusetts Institute of Technology, à Cambridge aux États-Unis) viennent d’inventer des mini-foies injectables, qui jouent le même rôle que notre foie. Ils pourraient permettre de le remplacer en cas de maladie.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/remplacer-le-foie-sans-greffe_8149334.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/FSCO4BBBv1prmifNknTG5MgILQY/0x0:2309x1298/432x243/filters:format(jpg)/2026/09/10/6aa2662adfe53384087032.jpg",
+      "date": "2026-09-13T10:00:03+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mieux connaître l'endométriose",
+      "desc": "Voilà une maladie qui touche 10 à 20 % des femmes. Pourtant, l'endométriose reste assez méconnue du grand public. Quelques explications pour en savoir plus.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/mieux-connaitre-l-endometriose_8149319.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/B1iRfV1fWXcBLpW7iqiBvZdHOdo/0x111:2118x1303/432x243/filters:format(jpg)/2026/09/09/6aa199bf9f885411476669.jpg",
+      "date": "2026-09-13T10:00:02+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Vieillir en bonne santé : ce qu'un psychiatre conseille d'emprunter aux personnes de plus de 60 ans",
+      "desc": "Le bien-être émotionnel a tendance à s'améliorer avec l'âge, alors même que la santé, le statut ou les revenus évoluent souvent dans l'autre sens. Ce paradoxe a une explication documentée, et elle ne tient pas à l'âge lui-même mais à la perception du temps qui reste.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-bonne-sante-ce-quun-psychiatre-conseille-emprunter-personnes-plus-60-ans-k2m6-137322/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/0/3/50362c5303_50259978_psychologie-vieillir-sante-mentale.jpg",
+      "date": "2026-09-13T10:00:00+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Au moins 76 morts après l’incendie sur un ferry aux Philippines",
+      "desc": "Un feu aux origines encore inconnues s’est déclaré mercredi soir à bord du June Aster, à environ 2,2 kilomètres du rivage, au large de l’île touristique de Coron, piégeant de nombreux croisiéristes. Une douzaine de personnes sont toujours portées disparues ce dimanche.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/au-moins-76-morts-apres-lincendie-sur-un-ferry-aux-philippines-20260913_Z2EACRRE3JFPNNHWCWLVVZKYQA/",
+      "image": null,
+      "date": "2026-09-13T09:59:24+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "TEMOIGNAGES. \"On m'a volé mon choix\" : soignés par radiothérapie pour vaincre leur cancer, des patients regrettent d'avoir été peu écoutés par les équipes médicales",
+      "desc": "Selon une étude de la Ligue contre le cancer, la moitié des patients qui suivent ce traitement affirment ne pas avoir été associés aux décisions prises par leurs médecins. Si aucun d'entre eux ne remet en cause l'efficacité de la radiothérapie, certains auraient aimé une meilleure communication.",
+      "url": "https://www.franceinfo.fr/sante/cancer/temoignages-on-m-a-vole-mon-choix-soignes-par-radiotherapie-pour-vaincre-leur-cancer-des-patients-regrettent-d-avoir-ete-peu-ecoutes-par-les-equipes-medicales_8160827.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/xvP7BfZtRHMl1DlponbSVZoQp78/0x184:3543x2177/432x243/filters:format(jpg)/2026/08/25/6a8d8355cb658360719462.jpg",
+      "date": "2026-09-13T07:06:17+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "INFO FRANCEINFO. Un patient sur deux atteint de cancer affirme ne pas avoir été associé aux décisions concernant son traitement par radiothérapie",
+      "desc": "La Ligue contre le cancer publie une vaste étude sur la radiothérapie, à laquelle franceinfo a eu accès en exclusivité. Bien que l'efficacité de ce traitement soit largement documentée, de nombreux patients regrettent un manque d'informations de la part du corps médical.",
+      "url": "https://www.franceinfo.fr/sante/cancer/info-franceinfo-un-patient-sur-deux-atteint-de-cancer-affirme-ne-pas-avoir-ete-associe-aux-decisions-concernant-son-traitement-par-radiotherapie_8160617.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/19a98lSK1OMjDWLQteXUv1qHomI/0x273:5315x3263/432x243/filters:format(jpg)/2026/08/25/6a8d55121fe70358398354.jpg",
+      "date": "2026-09-13T07:05:46+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«On a gagné une sacrée bataille» : c’est reparti pour l’immunisation contre la bronchiolite des nourrissons",
+      "desc": "A partir du 14 septembre, les parents de bébés qui vont vivre leur première épidémie ont le choix entre la vaccination de la mère ou un traitement directement injecté à l’enfant. Le lancement de la campagne est toutefois jugé trop tardif par certains pédiatres.",
+      "url": "https://www.liberation.fr/societe/sante/on-a-gagne-une-sacree-bataille-cest-reparti-pour-limmunisation-contre-la-bronchiolite-des-nourrissons-20260913_XWN7OJIUFJDPHJRL6PGVFZMEYI/",
+      "image": null,
+      "date": "2026-09-13T05:00:00+00:00",
+      "date_formatted": "13 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Patient bizarre : elle s’injecte une veuve noire entière et confronte les médecins à un cas hors norme !",
       "desc": "En californie, une femme de 37 ans s’est présentée aux urgences en se plaignant de fortes douleurs musculaires, de maux de tête et d’un sentiment d’anxiété. Elle s'était injectée par voie intraveineuse du venin de veuve noire, potentiellement mortel.",
@@ -66,7 +136,7 @@
       "title": "« Leur taux de mauvais cholestérol a diminué de 52,5 % » : un traitement unique surprend par son efficacité et sa sûreté",
       "desc": "Des scientifiques travaillent actuellement sur un traitement qui apporte une modification génétique permanente qui pourrait réduire durablement le cholestérol LDL après une seule dose injectée.",
       "url": "https://www.futura-sciences.com/sante/actualites/cholesterol-leur-taux-mauvais-cholesterol-diminue-525-traitement-unique-surprend-son-efficacite-surete-137656/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/a/1/2a1d973a16_50260604_de-po-ts-graisses-arte-res.jpg",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/4/2/34258476f1_50260687_graisses-arteres.jpg",
       "date": "2026-09-12T06:27:56+00:00",
       "date_formatted": "12 September 2026",
       "source": "Futura Santé",
@@ -173,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "Pilules contraceptives à base de désogestrel : un risque sanitaire pour 1,6 million de femmes",
-      "desc": "En France, 1,6 million de femmes vont recevoir un courrier à l'initiative de l’Agence nationale de sécurité du médicament. Après la prise de certaines pilules contraceptives, il y aurait un risque très faible de développer dans certains cas une tumeur au cerveau.",
-      "url": "https://www.franceinfo.fr/sante/pilules-contraceptives-a-base-de-desogestrel-un-risque-sanitaire-pour-1-6-million-de-femmes_8186501.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/D8PiAGTUXL07d1ADEVyt3xVPOhM/0x33:822x496/432x243/filters:format(jpg)/2026/09/10/6aa2b64b76643750295696.png",
-      "date": "2026-09-10T17:40:10+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "La distribution gratuite de seringues, maillon clé de la lutte contre le VIH aux Seychelles confrontées à une crise de multi-addiction",
       "desc": "Les drogues dures, consommées en partie par injection, se déversent sur l’archipel depuis une quinzaine d’années. Changer les seringues, et éviter leur partage, réduit drastiquement les risques de maladies infectieuses.",
       "url": "https://www.lemonde.fr/afrique/article/2026/09/10/la-distribution-gratuite-de-seringues-maillon-cle-de-la-lutte-contre-le-vih-aux-seychelles-confrontees-a-une-crise-de-multi-addiction_6769837_3212.html",
@@ -190,16 +250,6 @@
       "date": "2026-09-10T17:00:15+00:00",
       "date_formatted": "10 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Enfants prématurés : quelles conséquences dans les années qui suivent la naissance ?",
-      "desc": "À l'âge de 10 ans, les enfants nés prématurément affichent globalement une bonne santé mais font face à plus de troubles de l'attention.",
-      "url": "https://www.franceinfo.fr/sante/enfants-prematures-quelles-consequences-dans-les-annees-qui-suivent-la-naissance_8186567.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/pNjq-ONEBNnJoqZ7jCgjPW8J-w0/0x72:6000x3445/432x243/filters:format(jpg)/2023/12/19/bebe-6581ad19bd839463912866.jpg",
-      "date": "2026-09-10T16:16:56+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -213,26 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "Arrêts maladies : deux décrets seront publiés dans les prochains jours, dont l'un vise à sanctionner financièrement le \"nomadisme médical\"",
-      "desc": "D'après la Sécurité sociale, 13 000 assurés ont bénéficié de cinq arrêts par cinq généralistes différents en 2024, pour douze jours en moyenne d'arrêt.",
-      "url": "https://www.franceinfo.fr/sante/arrets-maladies-deux-decrets-seront-publies-dans-les-prochains-jours-dont-l-un-vise-a-sanctionner-financierement-le-nomadisme-medical_8186381.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/YAYgPh0yqHEmedBFqE0EHGxgA2U/0x53:1024x629/432x243/filters:format(jpg)/2025/07/17/gettyimages-151056269-687916cb44c5a969584436.jpg",
-      "date": "2026-09-10T14:25:16+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Pilules contraceptives à base de désogestrel : \"Il ne faut surtout pas s’inquiéter\", rassure un gynécologue concernant le risque de méningiome",
-      "desc": "L'Agence nationale de sécurité du médicament (ANSM) va alerter 1,6 million de femmes sur un risque de méningiome, une tumeur cérébrale bénigne dans environ 90% des cas, associé à certaines pilules contraceptives.",
-      "url": "https://www.franceinfo.fr/sante/contraception/pilules-contraceptives-a-base-de-desogestrel-il-ne-faut-surtout-pas-s-inquieter-rassure-un-gynecologue-concernant-le-risque-de-meningiome_8185826.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/6trEVJ6IAdEbyn6ZpyIHduhCgjs/0x224:4300x2643/432x243/filters:format(jpg)/2026/09/10/6aa248b38aa15419026551.jpg",
-      "date": "2026-09-10T08:06:55+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Alzheimer : pourquoi le sommeil profond pourrait protéger votre mémoire",
       "desc": "Une nouvelle étude dévoile comment le sommeil profond pourrait protéger notre mémoire malgré les signes précurseurs d'Alzheimer. Des chercheurs ont observé que les personnes bénéficiant d'un sommeil de qualité préservaient mieux leurs capacités cognitives, même en présence de protéines...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-sommeil-profond-pourrait-proteger-votre-memoire-w2t8-137205/#xtor%3DRSS-8",
@@ -241,16 +271,6 @@
       "date_formatted": "10 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Des risques sanitaires croissants avec le réchauffement climatique dans les villes européennes, selon The Lancet",
-      "desc": "Dans une étude consultée par franceinfo, la célèbre revue scientifique met en lumière plusieurs facteurs de risques sanitaires pour les villes en Europe tels que les incendies, l'augmentation des températures ou le risque de maladies infectieuses.",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/des-risques-sanitaires-croissants-avec-le-rechauffement-climatique-dans-les-villes-europeennes-selon-the-lancet_8185361.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/MXchYsrWqjKW6IkrhCXA-ZYzqQw/0x53:1024x629/432x243/filters:format(jpg)/2023/09/04/080-hl-mcohen-2132429-64f607fc0546f912616731.jpg",
-      "date": "2026-09-10T06:55:52+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Charles Wolf, président d’Initiative Pharma : face au « mur » du vieillissement, « il va falloir investir dans la santé »",
@@ -293,16 +313,6 @@
       "type": "science"
     },
     {
-      "title": "Thaïlande : Enquête après la mort d’un influenceur britannique venu pour un agrandissement de pénis",
-      "desc": "Igho Ubiribo, un influenceur britannique de 43 ans, est décédé quelques heures après avoir reçu une injection de 40 millilitres d’acide hyaluronique pour une opération d’agrandissement du pénis dans une clinique de Bangkok",
-      "url": "https://www.20minutes.fr/monde/4243761-20260909-thailande-enquete-apres-mort-influenceur-britannique-venu-agrandissement-penis?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/8_OwOJFZSmyxUHxgdCu3ISk/1200x768_des-touristes-se-promenent-dans-la-rue-pietonne-de-pattaya-en-thailande-le-31-aout-2026-ap-photo-sakchai-lalit-xsl110-26244475266652-2609021335",
-      "date": "2026-09-09T07:33:16+00:00",
-      "date_formatted": "9 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Vous en mangez peut-être tous les jours : ces aliments sont associés à davantage de cancers de la prostate, révèle une étude",
       "desc": "Les aliments ultra-transformés occupent une place croissante dans notre alimentation et leur impact sur la santé interroge. Leur consommation pourrait-elle être associée à un risque accru de cancer chez les hommes ? Des chercheurs ont tenté d’y répondre en analysant les habitudes alimentaires de...",
       "url": "https://www.futura-sciences.com/sante/actualites/alimentation-vous-mangez-peut-etre-tous-jours-ces-aliments-sont-associes-davantage-cancers-prostate-revele-etude-137603/#xtor%3DRSS-8",
@@ -340,16 +350,6 @@
       "date": "2026-09-08T09:27:30+00:00",
       "date_formatted": "8 September 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Infarctus et AVC : ces marques autour des yeux pourraient alerter sur un risque accru, selon une étude",
-      "desc": "L’athérosclérose, qui correspond à l’accumulation de plaques graisseuses dans les artères, est un facteur de risque majeur d’infarctus et d’accident vasculaire cérébral (AVC). Un des signes avant-coureurs de cette maladie pourrait se manifester au niveau des yeux, alertent des chercheurs.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-infarctus-avc-ces-marques-autour-yeux-pourraient-alerter-risque-accru-selon-etude-137578/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/9/a/a9a99476ad_50260474_portrait-regard.jpg",
-      "date": "2026-09-07T18:03:24+00:00",
-      "date_formatted": "7 September 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
