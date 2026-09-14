@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-14T02:01:35.262131+00:00",
-  "count": 56,
+  "generated_at": "2026-09-14T11:06:15.416945+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Nouvelle campagne de prévention contre la bronchiolite : on fait le point sur les solutions pour protéger les bébés",
+      "desc": "Une nouvelle campagne de prévention s'ouvre lundi pour lutter contre cette maladie respiratoire qui touche près d'un tiers des bébés de moins de 2 ans. Entre des médicaments ou un vaccin, davantage de traitements sont mis à disposition en 2026.",
+      "url": "https://www.franceinfo.fr/sante/nouvelle-campagne-de-prevention-contre-la-bronchiolite-on-fait-le-point-sur-les-solutions-pour-proteger-les-bebes_8190938.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/WNPVuiki9snkmNErojCnRWAVHt4/0x320:3081x2054/432x243/filters:format(jpg)/2026/09/13/6aa6c5dbdcdf4724101926.jpg",
+      "date": "2026-09-14T11:15:38+00:00",
+      "date_formatted": "14 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Carcassonne : enquête ouverte pour «violences volontaires» contre un policier qui a violemment jeté un homme à terre",
+      "desc": "Une vidéo diffusée sur les réseaux sociaux montre la scène tournée le 21 juin pendant la fête de la musique. La victime est, selon «Mediapart», morte treize jours plus tard d’un arrêt cardiaque, sans qu’il ne soit possible à cette heure de lier les deux faits.",
+      "url": "https://www.liberation.fr/societe/police-justice/carcassonne-enquete-ouverte-pour-violences-volontaires-contre-un-policier-qui-a-violemment-jete-un-homme-a-terre-20260914_7HRZAUH7RZHRZI2IY27SKWPGWE/",
+      "image": null,
+      "date": "2026-09-14T10:19:04+00:00",
+      "date_formatted": "14 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : ce médicament vieux de 100 ans ouvre une piste inattendue contre les métastases",
+      "desc": "Un médicament cardiaque vieux de 100 ans, dérivé de la digitale, pourrait bouleverser le traitement du cancer. Des chercheurs suisses ont découvert que la digoxine peut dissoudre les amas de cellules cancéreuses en circulation, limitant potentiellement leur propagation dans l'organisme. Cette...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-ce-medicament-vieux-100-ans-ouvre-piste-inattendue-metastases-w2t8-137211/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/e/d/7ed941d78d_50259755_cancer-medicament-coeur.jpg",
+      "date": "2026-09-14T08:00:00+00:00",
+      "date_formatted": "14 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Arrêts maladie : des médecins s’inquiètent pour leurs patients du durcissement des règles",
+      "desc": "Des généralistes alertent sur les effets à « double tranchant » du plafonnement à un mois de la durée de première prescription, en vigueur depuis le 1ᵉʳ septembre, dans un contexte de hausse des arrêts de travail. Ils insistent sur l’importance d’une prescription par les médecins « au cas par cas ».",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/14/arrets-maladie-des-medecins-s-inquietent-pour-leurs-patients-du-durcissement-des-regles_6773359_3224.html",
+      "image": "https://img.lemde.fr/2026/09/13/173/0/4252/2126/644/322/60/0/b3d5cf8_upload-1-jyh6dsfhnffq-le-monde.jpg",
+      "date": "2026-09-14T06:15:01+00:00",
+      "date_formatted": "14 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ces cellules auraient dû disparaître : comprendre l’un des mécanismes les plus redoutables du cancer",
+      "desc": "La mort cellulaire programmée joue un rôle essentiel dans le renouvellement et le bon fonctionnement de nos tissus. Mais lorsque ce mécanisme se dérègle, certaines cellules échappent à la mort, se multiplient de façon incontrôlée et peuvent favoriser l’apparition de cancers. Décryptage.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-ces-cellules-auraient-disparaitre-comprendre-mecanismes-plus-redoutables-cancer-137663/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/d/6/6d6e1658e1_50260616_3-cellules-cancer.jpg",
+      "date": "2026-09-14T05:28:11+00:00",
+      "date_formatted": "14 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "TEMOIGNAGES. \"On m'a volé mon choix\" : soignés par radiothérapie pour vaincre leur cancer, des patients regrettent d'avoir été peu écoutés par les équipes médicales",
       "desc": "Selon une étude de la Ligue contre le cancer, la moitié des patients qui suivent ce traitement affirment ne pas avoir été associés aux décisions prises par leurs médecins. Si aucun d'entre eux ne remet en cause l'efficacité de la radiothérapie, certains auraient aimé une meilleure communication.",
@@ -20,16 +70,6 @@
       "date": "2026-09-13T16:00:03+00:00",
       "date_formatted": "13 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Il imaginait un grand rassemblement tourné vers la mer» : un hommage maritime à Charlie Dalin prévu le 15 septembre à Concarneau",
-      "desc": "Des dizaines de bateaux de course vont célébrer mardi après-midi dans le Finistère la mémoire du skipper mort en juin à 42 ans d’un cancer, qui ne l’avait pas empêché de remporter le Vendée Globe. Ses cendres ont été dispersées dans la mer, révèle sa femme ce dimanche dans «l’Equipe».",
-      "url": "https://www.liberation.fr/sports/il-imaginait-un-grand-rassemblement-tourne-vers-la-mer-un-hommage-maritime-a-charlie-dalin-prevu-le-15-septembre-a-concarneau-20260913_F65X2KEINVDAZBHB5IWTUF7BZU/",
-      "image": null,
-      "date": "2026-09-13T14:38:47+00:00",
-      "date_formatted": "13 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -213,26 +253,6 @@
       "type": "science"
     },
     {
-      "title": "Le traitement par CAR T cell, une révolution contre le cancer ?",
-      "desc": "Des avancées dans la science changent déjà la vie de certains malades du cancer, et ce n’est qu’un début. Cette fois, leurs propres défenses immunitaires servent de traitement : des cellules sont prélevées, puis modifiées pour reconnaître et attaquer la maladie. Une technique utilisée contre certain",
-      "url": "https://www.franceinfo.fr/sante/cancer/le-traitement-par-car-t-cell-une-revolution-contre-le-cancer_8187299.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zVM-eShV3xd9FbneRJkGMgfM5DE/0x82:1494x923/432x243/filters:format(jpg)/2026/09/10/6aa30dfcc6035570455203.png",
-      "date": "2026-09-10T23:12:43+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Elle vient me rassurer et me raisonner\" : ces patients et médecins qui s'en remettent à l'intelligence artificielle",
-      "desc": "De l’intelligence artificielle aux traitements contre le cancer, le monde est à l’aube d’une nouvelle révolution en matière de médecine. Avec une nouvelle habitude : demander un avis médical à un écran… France Télévisions a rencontré une patiente qui consulte une IA au moindre symptôme, et un médeci",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/elle-vient-me-rassurer-et-me-raisonner-ces-patients-et-medecins-qui-s-en-remettent-a-l-intelligence-artificielle_8187326.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jrxSE-uuZwFo-QrEJVCtQoxQIy0/459x0:1533x604/432x243/filters:format(jpg)/2026/09/10/6aa318675e91c394657985.jpg",
-      "date": "2026-09-10T23:03:18+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "La distribution gratuite de seringues, maillon clé de la lutte contre le VIH aux Seychelles confrontées à une crise de multi-addiction",
       "desc": "Les drogues dures, consommées en partie par injection, se déversent sur l’archipel depuis une quinzaine d’années. Changer les seringues, et éviter leur partage, réduit drastiquement les risques de maladies infectieuses.",
       "url": "https://www.lemonde.fr/afrique/article/2026/09/10/la-distribution-gratuite-de-seringues-maillon-cle-de-la-lutte-contre-le-vih-aux-seychelles-confrontees-a-une-crise-de-multi-addiction_6769837_3212.html",
@@ -323,16 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Tiques : un nouveau virus découvert en Chine infecte l’être humain et pourrait aggraver une autre infection",
-      "desc": "Fièvre, fatigue, troubles digestifs… Les symptômes faisaient penser à une infection déjà connue, mais les tests revenaient négatifs. En cherchant ce qui rendait réellement les patients malades, des scientifiques ont découvert un virus transmis par les tiques qui échappait jusqu’ici à leur...",
-      "url": "https://www.futura-sciences.com/sante/actualites/zoonose-tiques-nouveau-virus-decouvert-chine-infecte-etre-humain-pourrait-aggraver-autre-infection-137593/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/3/8/338476cfc2_50260495_tique-nouvelle-maladie.jpg",
-      "date": "2026-09-08T12:25:13+00:00",
-      "date_formatted": "8 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ils ne fument pas, mais en meurent : le lourd bilan du tabagisme passif",
       "desc": "Près de 2,7 milliards de personnes sont exposées au tabagisme passif dans le monde, dont 767 millions d’enfants. Selon une étude publiée mardi dans The Lancet, cette exposition aurait causé 1,66 million de décès prématurés en 2023.",
       "url": "https://www.sciencesetavenir.fr/sante/le-tabagisme-passif-tue-plus-de-1-6-million-de-personnes-chaque-annee_194719?xtor=RSS-16",
@@ -361,16 +371,6 @@
       "date_formatted": "7 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Une nouvelle arme des cellules cancéreuses découverte : l’émission d’un antioxydant pour affaiblir les cellules immunitaires",
-      "desc": "Une étude dans « Science » montre comment des mélanomes, chez la souris, parviennent à amoindrir les défenses immunitaires. Pour cela, ces tumeurs libèrent une molécule antioxydante qui prive les lymphocytes T d’un signal indispensable à leur pouvoir de détruire les tumeurs.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/07/une-nouvelle-arme-des-cellules-cancereuses-decouverte-l-emission-d-un-antioxydant-pour-affaiblir-les-cellules-immunitaires_6767773_1650684.html",
-      "image": "https://img.lemde.fr/2026/09/04/910/0/4500/2250/644/322/60/0/b1e20af_upload-1-rpzeb87yvqdk-sciencephoto-fr-c0011680.jpg",
-      "date": "2026-09-07T06:30:09+00:00",
-      "date_formatted": "7 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Créer le vivant, mode d'emploi",
@@ -440,16 +440,6 @@
       "date": "2026-09-01T09:14:33+00:00",
       "date_formatted": "1 September 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
-      "desc": "L'épidémie d'Ebola a déjà fait plus de 2.500 morts en République démocratique du Congo (RDC) et \"progresse de façon exponentielle\", a alerté vendredi Julien Harneis, coordinateur principal d’Ebola pour les Nations unies.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-d-ebola-en-rdc-progresse-de-facon-exponentielle-alerte-l-onu_194380?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/21/cover-r4x3w1200-6a88386137dbe-bd5f44983db67da7528013a010fbd19264e48657-jpg.jpg",
-      "date": "2026-08-31T16:15:06+00:00",
-      "date_formatted": "31 August 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
