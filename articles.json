@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-14T11:06:15.416945+00:00",
+  "generated_at": "2026-09-14T17:08:51.538147+00:00",
   "count": 55,
   "articles": [
+    {
+      "title": "«J’ai toujours voulu me suicider en emportant des gens avec moi» : l’auteur d’une attaque au sabre contre des migrants condamné",
+      "desc": "Transparent sur «sa haine des Africains, des musulmans et des Arabes», William M. était poursuivi pour s’en être pris à un camp de migrants, en 2021. Il comparaîtra de nouveau en février pour l’attaque d’un centre culturel kurde l’année suivante, qui a fait trois morts.",
+      "url": "https://www.liberation.fr/societe/immigration/jai-toujours-voulu-me-suicider-en-emportant-des-gens-avec-moi-lauteur-dune-attaque-au-sabre-contre-des-migrants-condamne-20260914_CEQJ6Q5EXFEIXBIVW6EDPZKHHU/",
+      "image": null,
+      "date": "2026-09-14T16:40:04+00:00",
+      "date_formatted": "14 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Intervention policière violente, mort 13 jours plus tard, présence d’un policier municipal raciste : que sait-on de l’enquête ouverte à Carcassonne ?",
+      "desc": "La justice a annoncé ce lundi qu’une enquête avait été ouverte après qu’une vidéo a émergé sur les réseaux sociaux ces derniers jours, montrant un policier jeter un homme violemment au sol, le 21 juin à Carcassonne. Si l’homme est mort treize jours plus tard, ni le parquet ni sa famille ne font de l",
+      "url": "https://www.liberation.fr/societe/police-justice/carcassonne-enquete-ouverte-pour-violences-volontaires-contre-un-policier-qui-a-violemment-jete-un-homme-a-terre-20260914_7HRZAUH7RZHRZI2IY27SKWPGWE/",
+      "image": null,
+      "date": "2026-09-14T15:15:08+00:00",
+      "date_formatted": "14 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Nouvelle campagne de prévention contre la bronchiolite : on fait le point sur les solutions pour protéger les bébés",
       "desc": "Une nouvelle campagne de prévention s'ouvre lundi pour lutter contre cette maladie respiratoire qui touche près d'un tiers des bébés de moins de 2 ans. Entre des médicaments ou un vaccin, davantage de traitements sont mis à disposition en 2026.",
@@ -10,16 +30,6 @@
       "date": "2026-09-14T11:15:38+00:00",
       "date_formatted": "14 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Carcassonne : enquête ouverte pour «violences volontaires» contre un policier qui a violemment jeté un homme à terre",
-      "desc": "Une vidéo diffusée sur les réseaux sociaux montre la scène tournée le 21 juin pendant la fête de la musique. La victime est, selon «Mediapart», morte treize jours plus tard d’un arrêt cardiaque, sans qu’il ne soit possible à cette heure de lier les deux faits.",
-      "url": "https://www.liberation.fr/societe/police-justice/carcassonne-enquete-ouverte-pour-violences-volontaires-contre-un-policier-qui-a-violemment-jete-un-homme-a-terre-20260914_7HRZAUH7RZHRZI2IY27SKWPGWE/",
-      "image": null,
-      "date": "2026-09-14T10:19:04+00:00",
-      "date_formatted": "14 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -289,8 +299,8 @@
       "image": "https://img.lemde.fr/2026/09/08/168/0/2048/1024/644/322/60/0/970c3cb_upload-1-nospxyclax59-web-sanofi-charles-wolf-096.jpg",
       "date": "2026-09-09T17:00:36+00:00",
       "date_formatted": "9 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Vieillir en bonne santé : une sortie culturelle par semaine ralentirait le vieillissement biologique",
@@ -306,7 +316,7 @@
       "title": "Première :  une xénogreffe transitoire avant un greffon humain",
       "desc": "Un patient de 66 ans a vécu avec un rein provenant d’un cochon modifié génétiquement pendant neuf mois, en attendant une transplantation avec un rein humain compatible.",
       "url": "https://www.sciencesetavenir.fr/sante/premiere-une-xenogreffe-permet-a-un-homme-de-survivre-jusqu-a-trouver-un-donneur-humain_194733?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/08/cover-r4x3w1200-6aa00c8cb4b93-afp-20130924-par7667340-v2001-highres.jpg",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/14/cover-r4x3w1200-6aa00c8cb4b93-afp-20130531-bsip-010763-032-v1-midres-hemodialysis.jpg",
       "date": "2026-09-09T08:53:58+00:00",
       "date_formatted": "9 September 2026",
       "source": "Sciences & Avenir",
@@ -408,16 +418,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/cancer-les-tumeurs-etouffent-chimiquement-les-cellules-immunitaires_194643?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/03/cover-r4x3w1200-6a997fc863808-afp-20260819-f0473108-v1-highres-canceramongsthealthycellsillustration.jpg",
       "date": "2026-09-03T18:01:12+00:00",
-      "date_formatted": "3 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Canal carpien : un mal imputé au travail, encore trop peu déclaré",
-      "desc": "Une étude publiée mercredi 3 septembre par Santé publique France révèle qu’un Français sur dix âgé de 20 à 64 ans a souffert d’un syndrome du canal carpien au cours des cinq dernières années. Majoritairement des femmes, ces personnes l’associent largement à leur activité professionnelle, mais sont t",
-      "url": "https://www.sciencesetavenir.fr/sante/canal-carpien-une-majorite-de-francais-l-attribuent-au-travail-peu-le-declarent_194632?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/03/cover-r4x3w1200-6a9941f048e15-canal-carpien.jpg",
-      "date": "2026-09-03T10:41:51+00:00",
       "date_formatted": "3 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
