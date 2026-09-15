@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-15T15:48:28.528082+00:00",
-  "count": 58,
+  "generated_at": "2026-09-15T20:32:51.332865+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title": "«Charlie Dalin voulait quelque chose qui claque» : à Concarneau, un hommage au navigateur rempli de joie",
+      "desc": "Le vainqueur du Vendée Globe, mort en juin à l’âge de 42 ans, avait lui-même inspiré l’événement qui a eu lieu le 15 septembre en Bretagne, qu’il voulait «tout sauf funèbre».",
+      "url": "https://www.liberation.fr/sports/charlie-dalin-voulait-quelque-chose-qui-claque-a-concarneau-un-hommage-rempli-de-joie-au-navigateur-20260915_AW5VJ5JCINAJHBZF7FL3BDF4UQ/",
+      "image": null,
+      "date": "2026-09-15T19:23:08+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort à 85 ans du documentariste chilien Patricio Guzmán",
+      "desc": "Le cinéaste avait notamment réalisé «la Bataille du Chili», sur le renversement de Salvador Allende par Augusto Pinochet.",
+      "url": "https://www.liberation.fr/culture/cinema/mort-a-85-ans-du-documentariste-chilien-patricio-guzman-20260915_QFQR6R7D4NECJCP44HIR7HB7SU/",
+      "image": null,
+      "date": "2026-09-15T18:40:17+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Catherine Ringer : on veut pas l’abandonner",
+      "desc": "Moitié du groupe punk rock Les Rita Mitsouko, la chanteuse à la liberté chevillée au corps et à la repartie cash est morte à 68 ans. Dix-neuf ans après Fred Chichin.",
+      "url": "https://www.liberation.fr/culture/musique/catherine-ringer-celebre-voix-du-groupe-rock-rita-mitsouko-est-morte-20260915_ERQPNYJA35HBXHVBCDM6CT2PKE/",
+      "image": null,
+      "date": "2026-09-15T18:20:30+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "A Mayotte, des fouilles révèlent que la mosquée de Tsingoni, la plus vieille de France, date du XIIIᵉ siècle",
+      "desc": "Classé au titre des monuments historiques depuis 2015, l’édifice a été restauré entre juillet et septembre 2023. Des scientifiques de l’Inrap ont eu recours à la datation au carbone 14 pour revoir l’« âge » du bâtiment.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/15/a-mayotte-des-fouilles-revelent-que-la-mosquee-de-tsingoni-la-plus-vieille-de-france-date-du-xiii-siecle_6774450_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/15/456/0/5472/2736/644/322/60/0/22aa3df_upload-1-zeha13jouulh-1.jpg",
+      "date": "2026-09-15T18:16:41+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Capitalisation, âge pivot… Les pistes de réflexion polémiques du rapport sur la conférence sociale sur le travail et les retraites",
+      "desc": "Sans prendre clairement position, les auteurs de ce document, censé synthétiser plusieurs mois d’échanges entre acteurs sociaux, envisagent l’introduction d’une part de capitalisation dans le système actuel.",
+      "url": "https://www.liberation.fr/economie/social/capitalisation-age-pivot-les-pistes-de-reflexion-polemiques-du-rapport-sur-la-conference-sociale-sur-le-travail-et-les-retraites-20260915_INZJGQHGKBCMBN4IJ7E2S5SAIY/",
+      "image": null,
+      "date": "2026-09-15T17:54:15+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Perrine Dalin : \"Charlie ne s'est pas rendu compte de ce qu'il a transmis aux gens\"",
       "desc": "Vainqueur du Vendée Globe 2024-2025 alors qu'il se savait atteint d'un cancer, Charlie Dalin est mort à 42 ans, en juin 2026. Un hommage lui est rendu mardi 15 septembre en baie de Concarneau. Sa veuve, Perrine Dalin, s'est confiée à franceinfo.",
@@ -10,6 +60,16 @@
       "date": "2026-09-15T17:34:59+00:00",
       "date_formatted": "15 September 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Il avait une connaissance préalable de la présence de nitrate d’ammonium» : des poursuites requises contre l’ex-président Michel Aoun, six ans après l’explosion du port de Beyrouth",
+      "desc": "Le dossier judiciaire, devenu un symbole de l’impunité au Liban, était au point mort depuis 2023 en raison de querelles politiques et juridiques.",
+      "url": "https://www.liberation.fr/international/moyen-orient/il-avait-une-connaissance-prealable-de-la-presence-de-nitrate-dammonium-des-poursuites-requises-contre-lex-president-michel-aoun-six-ans-apres-lexplosion-du-port-de-beyrouth-20260915_UJJXCFAZWZEYTLC3QJQ6AQ3SGM/",
+      "image": null,
+      "date": "2026-09-15T17:29:52+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -27,7 +87,7 @@
       "desc": "Le nombre de morts hebdomadaires a presque doublé dans le Nord-Kivu, alors que la transmission a ralenti dans d’autres régions. L’institution recense 3 475 morts sur 7 200 cas confirmés.",
       "url": "https://www.lemonde.fr/afrique/article/2026/09/15/ebola-en-rdc-l-epidemie-continue-de-s-etendre-de-facon-exponentielle-dans-le-nord-est-du-pays-la-situation-epidemiologique-reste-heterogene-alerte-l-oms_6774435_3212.html",
       "image": "https://img.lemde.fr/2026/09/14/345/0/4080/2040/644/322/60/0/e7cc232_ftp-1-2haqcwemzf9d-2026-09-14t150641z-583533959-rc27inavwnvh-rtrmadp-3-health-ebola-butembo-burial.JPG",
-      "date": "2026-09-15T16:37:57+00:00",
+      "date": "2026-09-15T16:37:54+00:00",
       "date_formatted": "15 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -40,26 +100,6 @@
       "date": "2026-09-15T15:46:43+00:00",
       "date_formatted": "15 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des personnels éducatifs menacés de mort par des parents d’élèves dans des établissements de Gironde et de l’Yonne",
-      "desc": "Un surveillant d’un collège d’Eysines et une enseignante à Véron, au sud de Sens, ont été menacés de mort lundi 14 septembre par des parents d’élèves. Des plaintes ont été déposées et un homme a été placé en garde à vue.",
-      "url": "https://www.liberation.fr/societe/police-justice/des-personnels-educatifs-menaces-de-mort-par-des-parents-deleves-dans-des-etablissement-de-gironde-et-de-lyonne-20260915_CODROCAPABFELDGLF4VSDWUYNY/",
-      "image": null,
-      "date": "2026-09-15T15:33:38+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Catherine Ringer, voix singulière et rebelle des Rita Mitsouko, est morte",
-      "desc": "La chanteuse, emportée par un «cancer foudroyant» dans la nuit du lundi 14 septembre, avait 68 ans. Elle avait formé avec Fred Chichin le célèbre groupe de rock ayant interprété «Marcia Baïla» et «Andy».",
-      "url": "https://www.liberation.fr/culture/musique/catherine-ringer-celebre-voix-du-groupe-rock-rita-mitsouko-est-morte-20260915_ERQPNYJA35HBXHVBCDM6CT2PKE/",
-      "image": null,
-      "date": "2026-09-15T14:40:24+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -201,16 +241,6 @@
       "date_formatted": "14 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "TEMOIGNAGES. \"On m'a volé mon choix\" : soignés par radiothérapie pour vaincre leur cancer, des patients regrettent d'avoir été peu écoutés par les équipes médicales",
-      "desc": "Selon une étude de la Ligue contre le cancer, la moitié des patients qui suivent ce traitement affirment ne pas avoir été associés aux décisions prises par leurs médecins. Si aucun d'entre eux ne remet en cause l'efficacité de la radiothérapie, certains auraient aimé une meilleure communication.",
-      "url": "https://www.franceinfo.fr/sante/cancer/temoignages-on-m-a-vole-mon-choix-soignes-par-radiotherapie-pour-vaincre-leur-cancer-des-patients-regrettent-d-avoir-ete-peu-ecoutes-par-les-equipes-medicales_8160827.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/xvP7BfZtRHMl1DlponbSVZoQp78/0x184:3543x2177/432x243/filters:format(jpg)/2026/08/25/6a8d8355cb658360719462.jpg",
-      "date": "2026-09-13T16:38:44+00:00",
-      "date_formatted": "13 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Savez-vous vraiment ce qu'est l'endométriose ?",
