@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-09-15T10:35:06.066042+00:00",
-  "count": 53,
+  "generated_at": "2026-09-15T15:48:28.528082+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "Perrine Dalin : \"Charlie ne s'est pas rendu compte de ce qu'il a transmis aux gens\"",
+      "desc": "Vainqueur du Vendée Globe 2024-2025 alors qu'il se savait atteint d'un cancer, Charlie Dalin est mort à 42 ans, en juin 2026. Un hommage lui est rendu mardi 15 septembre en baie de Concarneau. Sa veuve, Perrine Dalin, s'est confiée à franceinfo.",
+      "url": "https://www.franceinfo.fr/sports/perrine-dalin-charlie-ne-s-est-pas-rendu-compte-de-ce-qu-il-a-transmis-aux-gens_8193980.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/o2OFmziLhrU4qeQMIAl3qjZs-LA/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/15/6aa9658cded3e197537043.jpg",
+      "date": "2026-09-15T17:34:59+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Nouvelle campagne de prévention contre la bronchiolite : on fait le point sur les solutions pour protéger les bébés",
+      "desc": "Une nouvelle campagne de prévention s'ouvre lundi pour lutter contre cette maladie respiratoire qui touche près d'un tiers des bébés de moins de 2 ans. Entre des médicaments ou un vaccin, davantage de traitements sont mis à disposition en 2026.",
+      "url": "https://www.franceinfo.fr/sante/nouvelle-campagne-de-prevention-contre-la-bronchiolite-on-fait-le-point-sur-les-solutions-pour-proteger-les-bebes_8190938.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/WNPVuiki9snkmNErojCnRWAVHt4/0x320:3081x2054/432x243/filters:format(jpg)/2026/09/13/6aa6c5dbdcdf4724101926.jpg",
+      "date": "2026-09-15T17:26:30+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola en RDC : l’épidémie continue de s’étendre de façon « exponentielle » dans le nord-est du pays ; la situation épidémiologique reste « hétérogène », alerte l’OMS",
+      "desc": "Le nombre de morts hebdomadaires a presque doublé dans le Nord-Kivu, alors que la transmission a ralenti dans d’autres régions. L’institution recense 3 475 morts sur 7 200 cas confirmés.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/09/15/ebola-en-rdc-l-epidemie-continue-de-s-etendre-de-facon-exponentielle-dans-le-nord-est-du-pays-la-situation-epidemiologique-reste-heterogene-alerte-l-oms_6774435_3212.html",
+      "image": "https://img.lemde.fr/2026/09/14/345/0/4080/2040/644/322/60/0/e7cc232_ftp-1-2haqcwemzf9d-2026-09-14t150641z-583533959-rc27inavwnvh-rtrmadp-3-health-ebola-butembo-burial.JPG",
+      "date": "2026-09-15T16:37:57+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "APPEL A TEMOIGNAGES. Après un cancer, vous avez connu des difficultés dans votre vie affective ou professionnelle ? Racontez-nous",
+      "desc": "Franceinfo souhaite donner la parole aux malades qui ont vu leur vie amoureuse ou professionnelle profondément modifiée par la maladie.",
+      "url": "https://www.franceinfo.fr/sante/cancer/appel-a-temoignages-apres-un-cancer-vous-avez-connu-des-difficultes-dans-votre-vie-affective-et-professionnelle-racontez-nous_8193596.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/aMSU3hOsGlNnWlO7fZ1OoWJ85bI/0x209:2000x1334/432x243/filters:format(jpg)/2026/09/15/6aa941adaa37d642131205.jpg",
+      "date": "2026-09-15T15:46:43+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des personnels éducatifs menacés de mort par des parents d’élèves dans des établissements de Gironde et de l’Yonne",
+      "desc": "Un surveillant d’un collège d’Eysines et une enseignante à Véron, au sud de Sens, ont été menacés de mort lundi 14 septembre par des parents d’élèves. Des plaintes ont été déposées et un homme a été placé en garde à vue.",
+      "url": "https://www.liberation.fr/societe/police-justice/des-personnels-educatifs-menaces-de-mort-par-des-parents-deleves-dans-des-etablissement-de-gironde-et-de-lyonne-20260915_CODROCAPABFELDGLF4VSDWUYNY/",
+      "image": null,
+      "date": "2026-09-15T15:33:38+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Catherine Ringer, voix singulière et rebelle des Rita Mitsouko, est morte",
+      "desc": "La chanteuse, emportée par un «cancer foudroyant» dans la nuit du lundi 14 septembre, avait 68 ans. Elle avait formé avec Fred Chichin le célèbre groupe de rock ayant interprété «Marcia Baïla» et «Andy».",
+      "url": "https://www.liberation.fr/culture/musique/catherine-ringer-celebre-voix-du-groupe-rock-rita-mitsouko-est-morte-20260915_ERQPNYJA35HBXHVBCDM6CT2PKE/",
+      "image": null,
+      "date": "2026-09-15T14:40:24+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Prudent ou casse-cou? Extraverti ou timide? Notre personnalité aurait une origine génétique",
+      "desc": "Environ un millier de mutations génétiques seraient liées à des traits de personnalité, ainsi qu’à des risques de santé causés par le comportement.",
+      "url": "https://www.sciencesetavenir.fr/sante/la-personnalite-aurait-une-origine-genetique-et-des-consequences-sur-la-sante_194833?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa934be1f0c5-afp-20251015-f0459816-v1-highres-geneticresearchconceptualillustration.jpg",
+      "date": "2026-09-15T13:05:58+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : l'épidémie ne faiblit pas dans une partie de la RDC",
+      "desc": "Si des signes d'amélioration sont observés dans certaines provinces de la République démocratique du Congo (RDC), la situation reste critique au Nord-Kivu. Le virus y progresse de façon exponentielle, s'alarme l'OMS qui estime que 5000 personnels de santé supplémentaires sont nécessaires pour affron",
+      "url": "https://www.sciencesetavenir.fr/sante/rdc-ebola-continue-de-s-etendre-de-facon-exponentielle-au-nord-kivu_194832?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa93291901a6-c98e3144b57783eef82d3751a6d5090ef9396350-jpg.jpg",
+      "date": "2026-09-15T12:31:34+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Un médicament conçu avec l’IA fait apparaître le sang plusieurs années plus jeune !",
       "desc": "Le médicament, baptisé rentosertib, a été conçu à l’origine pour traiter une maladie pulmonaire. Mais les chercheurs se sont aperçus qu’il avait permis de rajeunir biologiquement le profil sanguin des patients l'ayant testé.",
@@ -13,14 +93,34 @@
       "type": "science"
     },
     {
-      "title": "Catherine Ringer, voix singulière et rebelle des Rita Mitsouko, est morte",
-      "desc": "La chanteuse, emportée par un «cancer foudroyant» dans la nuit du lundi 14 septembre, avait 68 ans.",
-      "url": "https://www.liberation.fr/culture/musique/catherine-ringer-celebre-voix-du-groupe-rock-rita-mitsouko-est-morte-20260915_ERQPNYJA35HBXHVBCDM6CT2PKE/",
-      "image": null,
-      "date": "2026-09-15T10:28:56+00:00",
+      "title": "Diphtérie, variole, poliomyélite, tétanos… Ces maladies éradiquées ou quasi disparues en France grâce à la vaccination",
+      "desc": "Avec la détection d’un cas de diphtérie en France, « 20 Minutes » fait le point sur ces maladies éradiquées ou quasiment disparues grâce à la vaccination",
+      "url": "https://www.20minutes.fr/sante/4245475-20260915-diphterie-variole-poliomyelite-tetanos-maladies-eradiquees-quasi-disparues-france-grace-vaccination?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/y5FibqfsTFq5tdQaOwUyhCk/1200x768_forte-affluence-chez-les-enfants-et-adultes-dans-un-vaccinodrome-du-nord-de-la-france-le-29-decembre-2021-frequentation-elevee-des-enfants-et-des-adultes-dans-un-vaccinodrome-du-nord-de-la-france-29-decembre-2021-greuezfrancois-f1713-2112300801-credit-francois-greuez-sipa-2112300817",
+      "date": "2026-09-15T11:33:00+00:00",
       "date_formatted": "15 September 2026",
-      "source": "Libération",
+      "source": "20 Minutes Santé",
       "type": "presse"
+    },
+    {
+      "title": "Loire-Atlantique : Trois cas positifs au virus du West Nile, transmis par les moustiques",
+      "desc": "Trois cas humains ont été confirmés par l’Agence régionale de Santé. Elle appelle à la plus grande vigilance, selon « Hello Gazette Nantes »",
+      "url": "https://www.20minutes.fr/sante/4245532-20260915-loire-atlantique-trois-cas-positifs-virus-west-nile-transmis-moustiques?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/RiVnWx2WSe6hKTfU66P24Sk/1200x768_un-moustique-piquant-une-personne-illustration",
+      "date": "2026-09-15T11:21:44+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Rares, agressifs mais mieux guéris : 5 choses à savoir sur les cancers pédiatriques",
+      "desc": "À l’occasion des dix ans de « Septembre en or », mois de mobilisation pour les cancers de l’enfant, cinq choses à savoir sur ces cancers rares mais agressifs, dont le taux de survie dépasse 80 % en France, malgré des échecs et des séquelles persistantes.",
+      "url": "https://www.sciencesetavenir.fr/sante/rares-mais-agressifs-mieux-gueris-mais-avec-des-sequelles-5-choses-a-savoir-sur-les-cancers-pediatriques_194831?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa90f41e1fb0-cancer.jpg",
+      "date": "2026-09-15T11:02:18+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Quand une toux chronique réfractaire révèle une maladie génétique",
@@ -71,16 +171,6 @@
       "date_formatted": "15 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Nouvelle campagne de prévention contre la bronchiolite : on fait le point sur les solutions pour protéger les bébés",
-      "desc": "Une nouvelle campagne de prévention s'ouvre lundi pour lutter contre cette maladie respiratoire qui touche près d'un tiers des bébés de moins de 2 ans. Entre des médicaments ou un vaccin, davantage de traitements sont mis à disposition en 2026.",
-      "url": "https://www.franceinfo.fr/sante/nouvelle-campagne-de-prevention-contre-la-bronchiolite-on-fait-le-point-sur-les-solutions-pour-proteger-les-bebes_8190938.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/WNPVuiki9snkmNErojCnRWAVHt4/0x320:3081x2054/432x243/filters:format(jpg)/2026/09/13/6aa6c5dbdcdf4724101926.jpg",
-      "date": "2026-09-14T11:15:38+00:00",
-      "date_formatted": "14 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer : ce médicament vieux de 100 ans ouvre une piste inattendue contre les métastases",
@@ -161,16 +251,6 @@
       "date_formatted": "13 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "INFO FRANCEINFO. Un patient sur deux atteint de cancer affirme ne pas avoir été associé aux décisions concernant son traitement par radiothérapie",
-      "desc": "La Ligue contre le cancer publie une vaste étude sur la radiothérapie, à laquelle franceinfo a eu accès en exclusivité. Bien que l'efficacité de ce traitement soit largement documentée, de nombreux patients regrettent un manque d'informations de la part du corps médical.",
-      "url": "https://www.franceinfo.fr/sante/cancer/info-franceinfo-un-patient-sur-deux-atteint-de-cancer-affirme-ne-pas-avoir-ete-associe-aux-decisions-concernant-son-traitement-par-radiotherapie_8160617.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/19a98lSK1OMjDWLQteXUv1qHomI/0x273:5315x3263/432x243/filters:format(jpg)/2026/08/25/6a8d55121fe70358398354.jpg",
-      "date": "2026-09-13T07:05:46+00:00",
-      "date_formatted": "13 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Patient bizarre : elle s’injecte une veuve noire entière et confronte les médecins à un cas hors norme !",
@@ -303,16 +383,6 @@
       "type": "presse"
     },
     {
-      "title": "Qu’est-ce que le désogestrel et quelles pilules contraceptives sont concernées ?",
-      "desc": "L’agence nationale de la sécurité du médicament envoie des courriers à 1,6 million de femmes concernées par une contraception à base de désogestrel. Celle-ci présente un risque faible de méningiome, une tumeur des méninges",
-      "url": "https://www.20minutes.fr/sante/4244242-20260910-desogestrel-pilules-contraceptives-concernees?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/PDEQwCTSTTKqCO9uCR9Qrik/1200x768_un-employe-de-pharmacie-tient-une-boite-de-75-microgrammes-de-desogestrel-optimizette-ge-au-dessus-d-un-plateau-de-pharmacie-dans-le-centre-de-toulouse-en-occitanie-en-france-le-10-septembre-2026-de-nombreux-emballages-de-medicaments-et-bacs-de-rangement-remplissent-la-zone-de-distribution-environnante-photo-de-gregory-dziedzic-hans-lucas-via-afp",
-      "date": "2026-09-10T14:52:58+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Alzheimer : pourquoi le sommeil profond pourrait protéger votre mémoire",
       "desc": "Une nouvelle étude dévoile comment le sommeil profond pourrait protéger notre mémoire malgré les signes précurseurs d'Alzheimer. Des chercheurs ont observé que les personnes bénéficiant d'un sommeil de qualité préservaient mieux leurs capacités cognitives, même en présence de protéines...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-sommeil-profond-pourrait-proteger-votre-memoire-w2t8-137205/#xtor%3DRSS-8",
@@ -379,26 +449,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/15/cover-r4x3w1200-6a5764c651b29-ar-1638031-tf-63424291-1-normal-jpg.jpg",
       "date": "2026-09-05T14:00:00+00:00",
       "date_formatted": "5 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Les psychédéliques au secours des patients sous chimio",
-      "desc": "Et si les champignons hallucinogènes pouvaient protéger les patients des dégâts de la chimiothérapie ? C’est l’hypothèse surprenante avancée par des chercheurs dans une étude publiée jeudi 3 septembre dans Science. Chez la souris, et sur quelques tissus humains, ils montrent que la psilocybine pourr",
-      "url": "https://www.sciencesetavenir.fr/sante/et-si-les-psychedeliques-nous-permettaient-de-lutter-contre-les-effets-deleteres-de-la-chimio_194652?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/04/cover-r4x3w1200-6a9a64b9e831b-f7f885c965ba8ce4861b6b3f6e406f9d4520a56b-jpg.jpg",
-      "date": "2026-09-04T10:46:47+00:00",
-      "date_formatted": "4 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Une trithérapie à la naissance pourrait éliminer le VIH",
-      "desc": "Une étude sur des macaques montre qu’il serait possible de se débarrasser complètement du virus responsable du Sida chez les nouveaux-nés, protégeant les bébés nés des mères séropositives.",
-      "url": "https://www.sciencesetavenir.fr/sante/un-triple-traitement-a-la-naissance-eliminerait-le-vih_194618?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/02/cover-r4x3w1200-6a98301d3c9f6-afp-20250611-f0452007-v1-highres-leronlimabmedication.jpg",
-      "date": "2026-09-04T08:36:56+00:00",
-      "date_formatted": "4 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
