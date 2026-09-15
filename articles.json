@@ -1,36 +1,76 @@
 {
-  "generated_at": "2026-09-15T02:09:46.067061+00:00",
-  "count": 56,
+  "generated_at": "2026-09-15T10:35:06.066042+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "La lecture à tout âge, antidote contre le décrochage scolaire et la démence sénile",
-      "desc": "Il existe une solution simple, peu coûteuse et efficace pour améliorer les résultats à l’école des plus petits et retarder les troubles cognitifs des plus âgés. Vous êtes en train de l’exercer en ce moment même.",
-      "url": "https://www.liberation.fr/sciences/la-lecture-a-tout-age-antidote-contre-le-decrochage-scolaire-et-la-demence-senile-20260915_7QF76DZ5YVAJJB2TUDJEF7TOFE/",
+      "title": "Un médicament conçu avec l’IA fait apparaître le sang plusieurs années plus jeune !",
+      "desc": "Le médicament, baptisé rentosertib, a été conçu à l’origine pour traiter une maladie pulmonaire. Mais les chercheurs se sont aperçus qu’il avait permis de rajeunir biologiquement le profil sanguin des patients l'ayant testé.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-medicament-concu-ia-fait-apparaitre-sang-plusieurs-annees-plus-jeune-137728/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/1/c/c1c9410963_50260716_me-dicament-main.jpg",
+      "date": "2026-09-15T11:35:51+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Catherine Ringer, voix singulière et rebelle des Rita Mitsouko, est morte",
+      "desc": "La chanteuse, emportée par un «cancer foudroyant» dans la nuit du lundi 14 septembre, avait 68 ans.",
+      "url": "https://www.liberation.fr/culture/musique/catherine-ringer-celebre-voix-du-groupe-rock-rita-mitsouko-est-morte-20260915_ERQPNYJA35HBXHVBCDM6CT2PKE/",
       "image": null,
-      "date": "2026-09-14T23:00:00+00:00",
-      "date_formatted": "14 September 2026",
+      "date": "2026-09-15T10:28:56+00:00",
+      "date_formatted": "15 September 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "La plainte de la mère de la petite Rosa visant Gérald Darmanin classée sans suite",
-      "desc": "L’affaire Rosa est apparue dans la foulée de la mort de Lyhanna. Dans sa plainte, la mère de Rosa reprochait au ministre «de ne pas avoir mis l’institution judiciaire en mesure d’assurer un traitement efficace des plaintes relatives aux violences sexuelles sur mineurs, en dépit de dysfonctionnements",
-      "url": "https://www.liberation.fr/societe/police-justice/la-plainte-de-la-mere-de-la-petite-rosa-visant-gerald-darmanin-classee-sans-suite-20260914_FLM2L3AMKNEBXNJXZLN5KY6MEI/",
-      "image": null,
-      "date": "2026-09-14T19:05:52+00:00",
-      "date_formatted": "14 September 2026",
-      "source": "Libération",
+      "title": "Quand une toux chronique réfractaire révèle une maladie génétique",
+      "desc": "Derrière une toux persistante pendant des années peut se cacher une maladie neurologique rare : le syndrome CANVAS, une affection génétique lentement progressive.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/09/15/quand-une-toux-chronique-refractaire-revele-une-maladie-genetique_6774347_6579630.html",
+      "image": "https://img.lemde.fr/2025/11/08/384/0/4592/2296/644/322/60/0/b875556_upload-1-dzbbm2u2wndh-toux-chronique-refractaire-canvas-maladie-genetique.jpg",
+      "date": "2026-09-15T09:09:17+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Dans les rizières sénégalaises, une alliance contre la bilharziose",
+      "desc": "Au Sénégal, des scientifiques expérimentent l'introduction de poissons dans les rizières pour augmenter les rendements tout en luttant contre la bilharziose, une maladie parasitaire qui touche des millions de personnes en Afrique.",
+      "url": "https://www.sciencesetavenir.fr/sante/senegal-des-poissons-pour-doper-les-rizieres-et-combattre-la-bilharziose_194827?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa8f9269e6a6-senegal-4.jpg",
+      "date": "2026-09-15T08:52:35+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "« Quand Alban est diagnostiqué d’une leucémie, la vie de toute sa famille bascule » : découvrez les extraits d’une BD sur le combat d’une toxicologue contre les cancers pédiatriques",
+      "desc": "Dans la bande dessinée « Pesticides, leurs ravages sur la santé des enfants », à paraître jeudi 17 septembre, les dessins de Marguerite Boutrolle racontent le travail de la toxicologue Laurence Huc et son engagement pour élucider les origines du cluster de cancers pédiatriques de Sainte-Pazanne (Loi",
+      "url": "https://www.lemonde.fr/livres/article/2026/09/15/quand-alban-est-diagnostique-d-une-leucemie-la-vie-de-toute-sa-famille-bascule-une-bd-raconte-le-combat-d-une-toxicologue-contre-les-cancers-pediatriques_6774339_3260.html",
+      "image": "https://img.lemde.fr/2026/09/15/160/0/1920/960/644/322/60/0/7d1da75_upload-1-qgdzrxaldsa7-generated-1789456031225.jpg",
+      "date": "2026-09-15T07:00:04+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "«J’ai toujours voulu me suicider en emportant des gens avec moi» : l’auteur d’une attaque au sabre contre des migrants condamné",
-      "desc": "Transparent sur «sa haine des Africains, des musulmans et des Arabes», William M. était poursuivi pour s’en être pris à un camp de migrants, en 2021. Il comparaîtra de nouveau en février pour l’attaque d’un centre culturel kurde l’année suivante, qui a fait trois morts.",
-      "url": "https://www.liberation.fr/societe/immigration/jai-toujours-voulu-me-suicider-en-emportant-des-gens-avec-moi-lauteur-dune-attaque-au-sabre-contre-des-migrants-condamne-20260914_CEQJ6Q5EXFEIXBIVW6EDPZKHHU/",
-      "image": null,
-      "date": "2026-09-14T16:40:04+00:00",
-      "date_formatted": "14 September 2026",
-      "source": "Libération",
+      "title": "VIDEO. \"Le fait que je parle ouvertement du cancer, cela aide des gens\" : le journaliste Matthieu Lartot raconte comment la maladie a transformé sa vie",
+      "desc": "Le journaliste de France Télévisions Matthieu Lartot, touché à deux reprises par un cancer, témoigne, dans un documentaire qu'il coréalise, sur cette maladie dont il est toujours aussi difficile de parler.",
+      "url": "https://www.franceinfo.fr/sante/cancer/video-le-fait-que-je-parle-ouvertement-du-cancer-cela-aide-des-gens-le-journaliste-matthieu-lartot-raconte-comment-la-maladie-a-transforme-sa-vie_8166110.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/yPBBw-LgLa4txl9cCnMTU721sto/0x0:5568x3132/432x243/filters:format(jpg)/2026/09/08/6aa054f403b42752437964.jpg",
+      "date": "2026-09-15T05:57:05+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "On pensait les antioxydants protecteurs : dans certaines tumeurs, ils pourraient au contraire aider le cancer",
+      "desc": "Les radicaux libres ont mauvaise réputation. Ils endommagent l’ADN et sont associés au vieillissement et au cancer. Mais une découverte surprenante vient bousculer cette vision : certaines cellules immunitaires ont besoin de ces molécules pour s’attaquer aux tumeurs, qui ont justement trouvé le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-on-pensait-antioxydants-protecteurs-certaines-tumeurs-ils-pourraient-contraire-aider-cancer-137724/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/2/5/5256bf6fcd_50260712_complement-antioxydant.jpg",
+      "date": "2026-09-15T05:28:12+00:00",
+      "date_formatted": "15 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Nouvelle campagne de prévention contre la bronchiolite : on fait le point sur les solutions pour protéger les bébés",
@@ -173,16 +213,6 @@
       "type": "science"
     },
     {
-      "title": "Des lettres prometteuses pour l'ADN",
-      "desc": "Des biologistes de l’université de San Diego viennent de rajouter des lettres à l’alphabet de l’ADN. Et cela permet littéralement de réécrire la vie.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/des-lettres-prometteuses-pour-l-adn_8167358.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/RDIfAtT9iBWvhJfLlQly73kbs3k/0x100:2136x1302/432x243/filters:format(jpg)/2026/09/10/6aa262bfac06a125719609.jpg",
-      "date": "2026-09-12T09:50:00+00:00",
-      "date_formatted": "12 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "AVC précoce : votre groupe sanguin pourrait modifier votre niveau de risque",
       "desc": "Une étude récente révèle un lien surprenant entre le groupe sanguin A et le risque d'accident vasculaire cérébral (AVC) précoce. Cette découverte soulève des questions sur l'impact de notre patrimoine génétique sur notre santé cardiovasculaire. Quelles sont les implications de cette recherche...",
       "url": "https://www.futura-sciences.com/sante/actualites/genetique-avc-precoce-votre-groupe-sanguin-pourrait-modifier-votre-niveau-risque-w2t8-137207/#xtor%3DRSS-8",
@@ -253,16 +283,6 @@
       "type": "science"
     },
     {
-      "title": "En Moselle, les dossiers médicaux de milliers de mineurs lorrains menacés de destruction, faute de place dans les archives",
-      "desc": "En l'absence de ces informations médicales clés, le mineur \"aura du mal à faire reconnaître sa maladie professionnelle\", alerte un défenseur syndical.",
-      "url": "https://www.franceinfo.fr/sante/en-moselle-les-dossiers-medicaux-de-milliers-de-mineurs-lorrains-menaces-de-destruction-faute-de-place-dans-les-archives_8187776.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/odzfinuuwwGwU84L0iD9ymanToE/0x468:4032x2736/432x243/filters:format(jpg)/2026/09/11/6aa399cb8ac49114403792.jpg",
-      "date": "2026-09-11T08:07:26+00:00",
-      "date_formatted": "11 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Voici la quantité exacte de sport à faire chaque semaine pour réduire votre tension",
       "desc": "L'hypertension artérielle, un fléau silencieux qui touche des milliards de personnes dans le monde. Et si la solution résidait dans une activité physique régulière ? Une étude révolutionnaire menée sur plus de 5 000 individus dévoile l'importance cruciale de l'exercice dès le plus jeune âge....",
       "url": "https://www.futura-sciences.com/sante/actualites/sport-voici-quantite-exacte-sport-faire-chaque-semaine-reduire-votre-tension-w2t8-137095/#xtor%3DRSS-8",
@@ -313,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Vieillir en bonne santé : une sortie culturelle par semaine ralentirait le vieillissement biologique",
-      "desc": "Un an de moins sur l'horloge biologique, et un rythme de vieillissement ralenti de 4 %. Ce serait le bénéfice associé à une sortie culturelle hebdomadaire, selon une étude britannique portant sur 3 500 adultes. Des chercheurs y voient un comportement de santé à part entière, au même titre que...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-bonne-sante-sortie-culturelle-semaine-ralentirait-vieillissement-biologique-k2m6-137277/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/d/5/3d5f1a6585_50259894_sortie-musee-vieillissement.jpg",
-      "date": "2026-09-09T10:00:00+00:00",
-      "date_formatted": "9 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Première :  une xénogreffe transitoire avant un greffon humain",
       "desc": "Un patient de 66 ans a vécu avec un rein provenant d’un cochon modifié génétiquement pendant neuf mois, en attendant une transplantation avec un rein humain compatible.",
       "url": "https://www.sciencesetavenir.fr/sante/premiere-une-xenogreffe-permet-a-un-homme-de-survivre-jusqu-a-trouver-un-donneur-humain_194733?xtor=RSS-16",
@@ -343,26 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Vous en mangez peut-être tous les jours : ces aliments sont associés à davantage de cancers de la prostate, révèle une étude",
-      "desc": "Les aliments ultra-transformés occupent une place croissante dans notre alimentation et leur impact sur la santé interroge. Leur consommation pourrait-elle être associée à un risque accru de cancer chez les hommes ? Des chercheurs ont tenté d’y répondre en analysant les habitudes alimentaires de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-vous-mangez-peut-etre-tous-jours-ces-aliments-sont-associes-davantage-cancers-prostate-revele-etude-137603/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/9/5/89570b5acc_50260560_alimentation-cancer-prostate.jpg",
-      "date": "2026-09-09T05:23:35+00:00",
-      "date_formatted": "9 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Avoir des parents qui vivent longtemps augmente-t-il nos chances de vieillir en bonne santé ? Une vaste étude répond",
-      "desc": "Les enfants de parents centenaires héritent-ils de ce même avantage ? Une étude, la plus exhaustive menée à ce jour, s’est intéressée aux liens entre longévité parentale et santé des enfants. Les résultats sont surprenants.",
-      "url": "https://www.futura-sciences.com/sante/actualites/longevite-avoir-parents-vivent-longtemps-augmente-t-il-nos-chances-vieillir-bonne-sante-vaste-etude-repond-137596/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/f/c/3fc1b5e2c4_50260492_personne-fe-te-100-ans.jpg",
-      "date": "2026-09-09T05:08:59+00:00",
-      "date_formatted": "9 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ils ne fument pas, mais en meurent : le lourd bilan du tabagisme passif",
       "desc": "Près de 2,7 milliards de personnes sont exposées au tabagisme passif dans le monde, dont 767 millions d’enfants. Selon une étude publiée mardi dans The Lancet, cette exposition aurait causé 1,66 million de décès prématurés en 2023.",
       "url": "https://www.sciencesetavenir.fr/sante/le-tabagisme-passif-tue-plus-de-1-6-million-de-personnes-chaque-annee_194719?xtor=RSS-16",
@@ -371,16 +361,6 @@
       "date_formatted": "8 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Pourquoi la solitude est considérée comme une épidémie néfaste pour la santé mentale et physique",
-      "desc": "En France, près d’une personne sur quatre déclarait se sentir seule en 2025. Un isolement qui touche en particulier les jeunes et les personnes âgées. Et peut représenter une source importante de souffrance. Parmi les leviers possibles, figurent la pratique d’activités de proximité ainsi que le déve",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/07/pourquoi-la-solitude-est-consideree-comme-une-epidemie-nefaste-pour-la-sante-mentale-et-physique_6767969_1650684.html",
-      "image": "https://img.lemde.fr/2026/09/07/1571/0/3780/1890/644/322/60/0/659bd9a_upload-1-1n56yct8782z-hl-sbouillaud-1064812.jpg",
-      "date": "2026-09-07T18:00:17+00:00",
-      "date_formatted": "7 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Près de 1000 enfants morts de la rougeole au Bangladesh",
@@ -419,16 +399,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/02/cover-r4x3w1200-6a98301d3c9f6-afp-20250611-f0452007-v1-highres-leronlimabmedication.jpg",
       "date": "2026-09-04T08:36:56+00:00",
       "date_formatted": "4 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "À armes égales entre les tumeurs et nous",
-      "desc": "Ce qui est censé nous soigner serait-il en réalité néfaste pour notre organisme? C'est la question qui se pose à propos des anti-oxydants, molécules thérapeutiques données aux malades. En effet, des chercheurs britanniques viennent de découvrir que les cellules tumorales utilisent exactement ce même",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-les-tumeurs-etouffent-chimiquement-les-cellules-immunitaires_194643?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/03/cover-r4x3w1200-6a997fc863808-afp-20260819-f0473108-v1-highres-canceramongsthealthycellsillustration.jpg",
-      "date": "2026-09-03T18:01:12+00:00",
-      "date_formatted": "3 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
