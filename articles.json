@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T15:40:31.937190+00:00",
-  "count": 62,
+  "generated_at": "2026-09-16T20:32:47.411531+00:00",
+  "count": 58,
   "articles": [
     {
       "title": "Des cellules cérébrales humaines implantées dans le cerveau de souris",
       "desc": "Une équipe américaine est parvenue à coloniser l’encéphale de rongeurs dépourvus de cortex avec des organoïdes humains, dans le but de disposer de modèles plus réalistes de maladies neurodéveloppementales. Une prouesse technique qui soulève des questions éthiques.",
       "url": "https://www.lemonde.fr/sciences/article/2026/09/16/des-cellules-cerebrales-humaines-implantees-dans-le-cerveau-de-souris_6775425_1650684.html",
       "image": "https://img.lemde.fr/2026/09/16/594/190/3637/1819/644/322/60/0/7a0cf40_upload-1-3kgnjthew8eg-image-1.png",
-      "date": "2026-09-16T17:30:34+00:00",
+      "date": "2026-09-16T17:30:33+00:00",
       "date_formatted": "16 September 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -53,26 +53,6 @@
       "type": "science"
     },
     {
-      "title": "Iran : Amnesty demande des poursuites internationales contre les responsables de la répression lors du mouvement Femme, vie, liberté",
-      "desc": "L’ONG qualifie de crimes contre l’humanité les meurtres, arrestations arbitraires et disparitions forcées de manifestants qui protestaient après la mort de Mahsa Amini.",
-      "url": "https://www.liberation.fr/international/moyen-orient/iran-amnesty-demande-des-poursuites-internationales-contre-les-responsables-de-la-repression-lors-du-mouvement-femme-vie-liberte-20260916_RVMCMWG34NHKXONMA7GHLHC664/",
-      "image": null,
-      "date": "2026-09-16T14:13:29+00:00",
-      "date_formatted": "16 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort du cinéaste Patricio Guzmán, l’œil du Chili",
-      "desc": "Le documentariste a été le précieux archiviste de l’histoire de son pays, notamment des années Allende et du coup d’Etat militaire de 1973. Exilé en France, il est mort à 85 ans, mardi 15 septembre.",
-      "url": "https://www.liberation.fr/culture/cinema/mort-du-cineaste-patricio-guzman-loeil-du-chili-20260916_I3QP2OYF45GFFE4UZ7HRDPCEDM/",
-      "image": null,
-      "date": "2026-09-16T13:47:59+00:00",
-      "date_formatted": "16 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Canicules : Le bilan, toujours provisoire, est de près de 8.000 morts en excès en France",
       "desc": "Ce bilan est voué à s’alourdir puisque les chiffres doivent encore être consolidés, et parce qu’il ne prend pas en compte l’été entier. La période de surveillance va du 1er juin au 15 septembre",
       "url": "https://www.20minutes.fr/planete/4245887-20260916-canicules-bilan-toujours-provisoire-pres-8-000-morts-exces?at_medium=display&at_campaign=149",
@@ -80,16 +60,6 @@
       "date": "2026-09-16T12:51:46+00:00",
       "date_formatted": "16 September 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Canicules en France : au moins 817 morts en excès du 27 juillet au 20 août, près de 8 000 depuis fin mai, selon un bilan provisoire",
-      "desc": "Le bilan publié par Santé publique France ce mercredi 16 septembre est voué à s’alourdir, car la collecte des données n’est pas encore terminée. La surmortalité de cette troisième canicule de l’été a surtout touché les personnes de plus de 75 ans.",
-      "url": "https://www.liberation.fr/societe/sante/canicules-en-france-au-moins-817-morts-en-exces-du-27-juillet-au-20-aout-pres-de-8000-depuis-fin-mai-selon-un-bilan-provisoire-20260916_AP35IRLY5BFGHBB3DXEHINEU7M/",
-      "image": null,
-      "date": "2026-09-16T12:16:05+00:00",
-      "date_formatted": "16 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -378,16 +348,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/cuisine-frequence-devriez-vous-changer-votre-eponge-cuisine-selon-scientifiques-k2m6-137317/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/8/8/c882d8020a_50259964_eponge-cuisine-salete-bacteries.jpg",
       "date": "2026-09-12T10:00:00+00:00",
-      "date_formatted": "12 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "AVC précoce : votre groupe sanguin pourrait modifier votre niveau de risque",
-      "desc": "Une étude récente révèle un lien surprenant entre le groupe sanguin A et le risque d'accident vasculaire cérébral (AVC) précoce. Cette découverte soulève des questions sur l'impact de notre patrimoine génétique sur notre santé cardiovasculaire. Quelles sont les implications de cette recherche...",
-      "url": "https://www.futura-sciences.com/sante/actualites/genetique-avc-precoce-votre-groupe-sanguin-pourrait-modifier-votre-niveau-risque-w2t8-137207/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/8/1/e81d29bff9_50259750_2-groupe-sanguin-avc.jpg",
-      "date": "2026-09-12T08:00:00+00:00",
       "date_formatted": "12 September 2026",
       "source": "Futura Santé",
       "type": "science"
