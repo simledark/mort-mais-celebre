@@ -1,45 +1,95 @@
 {
-  "generated_at": "2026-09-16T02:01:25.372382+00:00",
-  "count": 49,
+  "generated_at": "2026-09-16T10:24:00.609392+00:00",
+  "count": 62,
   "articles": [
     {
-      "title": "Epidemie de rougeole aux Etats-Unis : quatre morts et plus de 3 000 cas recensés, du jamais vu depuis 1991",
-      "desc": "La maladie, très contagieuse, avait été déclarée éliminée du pays en 2000, mais connaît un retour en force ces dernières années, sur fond de baisse des taux de vaccination et de défiance croissante à l’égard des autorités sanitaires.",
+      "title": "Diphtérie à Dunkerque : pourquoi ce cas d’une maladie devenue très rare est pris très au sérieux, ce qu’il faut savoir",
+      "desc": "La diphtérie, cette maladie presque oubliée, refait surface à Dunkerque et soulève des questions : comment une pathologie aussi grave peut-elle réapparaître dans un pays où la vaccination est pourtant obligatoire ? Notre système de santé est-il suffisamment préparé face à des maladies dont on...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-infectieuse-diphterie-dunkerque-ce-cas-maladie-devenue-tres-rare-pris-tres-serieux-ce-quil-faut-savoir-137766/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/8/9/8893d4ac3e_50260784_diphterie-dunkerque.jpg",
+      "date": "2026-09-16T11:33:42+00:00",
+      "date_formatted": "16 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cancer : comment la tumeur berne le système immunitaire",
+      "desc": "Des chercheurs américains ont découvert comment des cellules cancéreuses peuvent retourner un mécanisme du système immunitaire à leur avantage. Grâce à des signaux chimiques, celles-ci parviennent à inhiber l'action des lymphocytes. Explications.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer-pourquoi-le-systeme-immunitaire-peut-favoriser-la-croissance-des-tumeurs_194839?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa9633e02b6f-afp-20231115-f0403497-v1-highres-melanomacellillustration.jpg",
+      "date": "2026-09-16T09:40:43+00:00",
+      "date_formatted": "16 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "L’hélicoptère d’une chaîne de télévision s’écrase alors qu’il couvrait un accident de la route à Los Angeles",
+      "desc": "NBC4 avait dépêché mardi l’appareil qui devait filmer les images d’une collision survenue entre un bus et un SUV. L’accident de l’engin a entraîné la mort de trois personnes dont une au sol.",
+      "url": "https://www.liberation.fr/international/lhelicoptere-dune-chaine-de-television-en-pleine-action-secrase-a-los-angeles-20260916_YJFTHW3VX5GJXBAXEMD67VWOBA/",
+      "image": null,
+      "date": "2026-09-16T08:42:03+00:00",
+      "date_formatted": "16 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Jean-Pierre Serre, le « Mozart des maths », fête son centenaire",
+      "desc": "Cette « grande figure » des mathématiques a été mise à l’honneur d’un colloque organisé mardi à l’Institut Henri-Poincaré, à Paris. Ses travaux ont nourri plusieurs générations de mathématiciens et lui ont notamment valu la médaille Fields et le prix Abel.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/16/jean-pierre-serre-un-monument-des-mathematiques-qui-fete-son-centenaire_6775028_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/11/416/0/4992/2496/644/322/60/0/e003b31_upload-1-l2lln5hl2cgn-002295-013.jpg",
+      "date": "2026-09-16T08:30:08+00:00",
+      "date_formatted": "16 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Mort de Catherine Ringer : derrière «Marcia Baïla», une histoire et une rencontre",
+      "desc": "En 2022, «Libération» racontait l’histoire cachée derrière la chanson culte des Rita Mitsouko.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-catherine-ringer-derriere-marcia-baila-une-histoire-et-une-rencontre-20260916_NCT7SG6WIZB6VN3DETRHQ74OH4/",
+      "image": null,
+      "date": "2026-09-16T08:24:00+00:00",
+      "date_formatted": "16 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les cas de démence vont presque doubler : ces 4 réflexes pourraient protéger votre cerveau",
+      "desc": "Avec 2,2 millions de malades attendus d’ici 25 ans, la démence s’impose comme un défi majeur. Pourtant, certaines habitudes pourraient freiner sa progression.",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-cas-demence-vont-presque-doubler-ces-4-reflexes-pourraient-proteger-votre-cerveau-w2t8-137720/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/a/b/3ab1acd4b9_50260704_demence-reflexes-cerveau.jpg",
+      "date": "2026-09-16T08:00:00+00:00",
+      "date_formatted": "16 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Mort de Catherine Ringer des Rita Mitsouko : «Une présence quasi comme une déesse»",
+      "desc": "Le plasticien Smith, fan du duo avant de les immortaliser en concert puis de photographier la chanteuse pour la der de «Libé», raconte.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-catherine-ringer-des-rita-mitsouko-une-presence-quasi-comme-une-deesse-20260916_DAL3WEQJG5BKBOIVA2U4QSNWYE/",
+      "image": null,
+      "date": "2026-09-16T07:30:00+00:00",
+      "date_formatted": "16 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Si vos ongles prennent cette couleur, cela peut révéler un problème de santé",
+      "desc": "Certaines maladies peuvent se manifester par des changements corporels avant même l’apparition de symptômes. Pour l’insuffisance cardiaque, la cirrhose ou encore la polyarthrite rhumatoïde, un petit changement au niveau de la racine de l’ongle pourrait être un signal d’alarme.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-si-vos-ongles-prennent-cette-couleur-cela-peut-reveler-probleme-sante-137752/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/5/f/05fbce37a5_50260763_couleurs-ongles-sante.jpg",
+      "date": "2026-09-16T05:08:06+00:00",
+      "date_formatted": "16 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Epidémie de rougeole aux Etats-Unis : quatre morts et plus de 3 200 cas recensés, du jamais-vu depuis 1991",
+      "desc": "La maladie, très contagieuse, avait été déclarée éliminée du pays en 2000 mais connaît un retour en force ces dernières années, sur fond de baisse des taux de vaccination et de défiance croissante à l’égard des autorités sanitaires.",
       "url": "https://www.lemonde.fr/international/article/2026/09/16/epidemie-de-rougeole-aux-etats-unis-quatre-morts-et-plus-de-3-000-cas-recenses-du-jamais-depuis-1991_6774547_3210.html",
       "image": "https://img.lemde.fr/2026/09/13/714/0/5712/2856/644/322/60/0/8e385a7_ftp-1-gdgsjk2vxzz5-2026-09-13t234316z-1749562427-rc2v1dahjczd-rtrmadp-3-health-usa-measles-pennsylvania.JPG",
       "date": "2026-09-16T01:11:12+00:00",
       "date_formatted": "16 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Charlie Dalin voulait quelque chose qui claque» : à Concarneau, un hommage au navigateur rempli de joie",
-      "desc": "Le vainqueur du Vendée Globe, mort en juin à l’âge de 42 ans, avait lui-même inspiré l’événement qui a eu lieu le 15 septembre en Bretagne, qu’il voulait «tout sauf funèbre».",
-      "url": "https://www.liberation.fr/sports/charlie-dalin-voulait-quelque-chose-qui-claque-a-concarneau-un-hommage-rempli-de-joie-au-navigateur-20260915_AW5VJ5JCINAJHBZF7FL3BDF4UQ/",
-      "image": null,
-      "date": "2026-09-15T19:23:08+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort à 85 ans du documentariste chilien Patricio Guzmán",
-      "desc": "Le cinéaste avait notamment réalisé «la Bataille du Chili», sur le renversement de Salvador Allende par Augusto Pinochet.",
-      "url": "https://www.liberation.fr/culture/cinema/mort-a-85-ans-du-documentariste-chilien-patricio-guzman-20260915_QFQR6R7D4NECJCP44HIR7HB7SU/",
-      "image": null,
-      "date": "2026-09-15T18:40:17+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Catherine Ringer : on veut pas l’abandonner",
-      "desc": "Moitié du groupe punk rock Les Rita Mitsouko, la chanteuse à la liberté chevillée au corps et à la repartie cash est morte à 68 ans. Dix-neuf ans après Fred Chichin.",
-      "url": "https://www.liberation.fr/culture/musique/catherine-ringer-celebre-voix-du-groupe-rock-rita-mitsouko-est-morte-20260915_ERQPNYJA35HBXHVBCDM6CT2PKE/",
-      "image": null,
-      "date": "2026-09-15T18:20:30+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -53,16 +103,6 @@
       "type": "science"
     },
     {
-      "title": "Capitalisation, âge pivot… Les pistes de réflexion polémiques du rapport sur la conférence sociale sur le travail et les retraites",
-      "desc": "Sans prendre clairement position, les auteurs de ce document, censé synthétiser plusieurs mois d’échanges entre acteurs sociaux, envisagent l’introduction d’une part de capitalisation dans le système actuel.",
-      "url": "https://www.liberation.fr/economie/social/capitalisation-age-pivot-les-pistes-de-reflexion-polemiques-du-rapport-sur-la-conference-sociale-sur-le-travail-et-les-retraites-20260915_INZJGQHGKBCMBN4IJ7E2S5SAIY/",
-      "image": null,
-      "date": "2026-09-15T17:54:15+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Perrine Dalin : \"Charlie ne s'est pas rendu compte de ce qu'il a transmis aux gens\"",
       "desc": "Vainqueur du Vendée Globe 2024-2025 alors qu'il se savait atteint d'un cancer, Charlie Dalin est mort à 42 ans, en juin 2026. Un hommage lui est rendu mardi 15 septembre en baie de Concarneau. Sa veuve, Perrine Dalin, s'est confiée à franceinfo.",
       "url": "https://www.franceinfo.fr/sports/perrine-dalin-charlie-ne-s-est-pas-rendu-compte-de-ce-qu-il-a-transmis-aux-gens_8193980.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -70,16 +110,6 @@
       "date": "2026-09-15T17:34:59+00:00",
       "date_formatted": "15 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Il avait une connaissance préalable de la présence de nitrate d’ammonium» : des poursuites requises contre l’ex-président Michel Aoun, six ans après l’explosion du port de Beyrouth",
-      "desc": "Le dossier judiciaire, devenu un symbole de l’impunité au Liban, était au point mort depuis 2023 en raison de querelles politiques et juridiques.",
-      "url": "https://www.liberation.fr/international/moyen-orient/il-avait-une-connaissance-prealable-de-la-presence-de-nitrate-dammonium-des-poursuites-requises-contre-lex-president-michel-aoun-six-ans-apres-lexplosion-du-port-de-beyrouth-20260915_UJJXCFAZWZEYTLC3QJQ6AQ3SGM/",
-      "image": null,
-      "date": "2026-09-15T17:29:52+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -359,8 +389,8 @@
       "image": "https://img.lemde.fr/2026/09/11/512/0/6143/3071/644/322/60/0/1287830_ftp-1-lst6qm5gxzc7-5057796-01-06.jpg",
       "date": "2026-09-11T18:34:48+00:00",
       "date_formatted": "11 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "La claustrophilie des amibes \"mangeuses de cerveau\"",
@@ -383,16 +413,6 @@
       "type": "presse"
     },
     {
-      "title": "Le café agirait sur un mécanisme clé du vieillissement : voici ce que les chercheurs ont découvert",
-      "desc": "Et si le café ne se contentait pas de nous tenir éveillés ? Des chercheurs viennent de mettre au jour un mécanisme cellulaire qui pourrait expliquer certains des effets bénéfiques associés à la caféine. Une découverte intrigante, qui touche à l’un des processus les plus fondamentaux du vivant…...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cafe-cafe-agirait-mecanisme-cle-vieillissement-voici-ce-chercheurs-ont-decouvert-137662/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/b/8/5b88fe745e_50260660_2-cafe-vieillissement.jpg",
-      "date": "2026-09-11T13:23:26+00:00",
-      "date_formatted": "11 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Remettre à zéro le système immunitaire pour lutter contre les maladies auto-immunes",
       "desc": "Des chercheurs chinois ont mis en place une technique de thérapie génique pour réinitialiser les cellules immunitaires et éviter qu’elles continuent à attaquer le corps.",
       "url": "https://www.sciencesetavenir.fr/sante/cette-therapie-genique-permet-de-lutter-contre-les-maladies-auto-immunes-de-l-interieur_194778?xtor=RSS-16",
@@ -400,16 +420,6 @@
       "date": "2026-09-11T12:03:52+00:00",
       "date_formatted": "11 September 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Voici la quantité exacte de sport à faire chaque semaine pour réduire votre tension",
-      "desc": "L'hypertension artérielle, un fléau silencieux qui touche des milliards de personnes dans le monde. Et si la solution résidait dans une activité physique régulière ? Une étude révolutionnaire menée sur plus de 5 000 individus dévoile l'importance cruciale de l'exercice dès le plus jeune âge....",
-      "url": "https://www.futura-sciences.com/sante/actualites/sport-voici-quantite-exacte-sport-faire-chaque-semaine-reduire-votre-tension-w2t8-137095/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/7/c/d7c5613bb7_50259518_2-activite-physique-hypertension.jpg",
-      "date": "2026-09-11T08:00:00+00:00",
-      "date_formatted": "11 September 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -421,16 +431,6 @@
       "date_formatted": "10 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Alzheimer : pourquoi le sommeil profond pourrait protéger votre mémoire",
-      "desc": "Une nouvelle étude dévoile comment le sommeil profond pourrait protéger notre mémoire malgré les signes précurseurs d'Alzheimer. Des chercheurs ont observé que les personnes bénéficiant d'un sommeil de qualité préservaient mieux leurs capacités cognitives, même en présence de protéines...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-sommeil-profond-pourrait-proteger-votre-memoire-w2t8-137205/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/d/7/7d722a3e63_50259744_role-sommeil-maladie-alzheimer.jpg",
-      "date": "2026-09-10T08:00:00+00:00",
-      "date_formatted": "10 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Charles Wolf, président d’Initiative Pharma : face au « mur » du vieillissement, « il va falloir investir dans la santé »",
@@ -490,6 +490,136 @@
       "date": "2026-09-05T14:00:00+00:00",
       "date_formatted": "5 September 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Diabète de type 2 : de nouveaux sous-types identifiés pour mieux prédire l’évolution de la maladie",
+      "desc": "Des chercheurs et chercheuses de l’Inserm, du CNRS, et de l’Université Paris Cité décrivent pour la première fois différents profils immunitaires chez les patients atteints d’un diabète de type 2. Facilement identifiables avec une simple prise de sang, les patients avec des cellules immunitaires en ",
+      "url": "https://presse.inserm.fr/diabete-de-type-2-de-nouveaux-sous-types-identifies-pour-mieux-predire-levolution-de-la-maladie/73174/",
+      "image": null,
+      "date": "2026-09-03T08:00:08+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un lien entre « jetlag alimentaire » et risque de maladies cardiovasculaires chez les hommes",
+      "desc": "Une équipe d’INRAE, de l’Inserm, de l’université Sorbonne Paris Nord, de l’université Paris Cité et du Cnam publie une première étude sur les liens entre « jetlag alimentaire » et risque de maladies cardiovasculaires. Le jetlag alimentaire correspond au décalage dans le temps entre les heures de pri",
+      "url": "https://presse.inserm.fr/un-lien-entre-jetlag-alimentaire-et-risque-de-maladies-cardiovasculaires-chez-les-hommes/73162/",
+      "image": null,
+      "date": "2026-09-01T09:14:33+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Maladie de Sjögren : une nouvelle piste pour expliquer la signature interféron des maladies auto-immunes",
+      "desc": "Des scientifiques de l'Université Paris-Saclay, de l'Inserm, du CEA, de l'AP-HP, de la fondation Arthritis et leurs partenaires internationaux identifient un mécanisme jusqu'alors inconnu expliquant l'activation chronique de l'interféron dans la maladie de Sjögren, un modèle de maladie auto-immune s",
+      "url": "https://presse.inserm.fr/maladie-de-sjogren-une-nouvelle-piste-pour-expliquer-la-signature-interferon-des-maladies-auto-immunes/73189/",
+      "image": null,
+      "date": "2026-08-26T10:59:52+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une exposition élevée et persistante au bruit routier au début de l’enfance est associée à un risque accru de difficultés émotionnelles et relationnelles à 10 ans",
+      "desc": "En Europe, plus d’une personne sur cinq est exposée de manière chronique à des niveaux de bruit liés au transport considérés comme nocifs pour la santé; le trafic routier en constitue la principale source. Si les effets du bruit sur la santé cardiovasculaire sont relativement bien documentés, l’impa",
+      "url": "https://presse.inserm.fr/une-exposition-elevee-et-persistante-au-bruit-routier-au-debut-de-lenfance-est-associee-a-un-risque-accru-de-difficultes-emotionnelles-et-relationnelles-a-10-ans/73139/",
+      "image": null,
+      "date": "2026-08-25T07:00:59+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des chercheurs lillois révèlent des variants rares du gène PLCG2 qui multiplient le risque de développer la maladie d’Alzheimer",
+      "desc": "Une équipe de chercheurs lillois de l’Inserm, de l’Université de Lille, de l’Institut Pasteur de Lille et du CHU de Lille, avec plusieurs partenaires internationaux, publie dans Nature Genetics une découverte qui éclaire les mécanismes de la maladie d’Alzheimer. PLCG2, gène déjà connu pour son assoc",
+      "url": "https://presse.inserm.fr/des-chercheurs-lillois-revelent-des-variants-rares-du-gene-plcg2-qui-multiplient-le-risque-de-developper-la-maladie-dalzheimer/73151/",
+      "image": null,
+      "date": "2026-08-24T16:04:30+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
+      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
+      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
+      "image": null,
+      "date": "2026-07-23T14:01:16+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
+      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
+      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
+      "image": null,
+      "date": "2026-07-21T08:00:02+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
+      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
+      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
+      "image": null,
+      "date": "2026-06-15T07:00:08+00:00",
+      "date_formatted": "15 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
+      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
+      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
+      "image": null,
+      "date": "2026-06-10T18:00:20+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Les antennes 5G sont-elles dangereuses pour la santé ?",
+      "desc": "La multiplication des antennes 5G suscite des inquiétudes. À ce jour, les données scientifiques disponibles ne permettent toutefois pas d’établir de lien de causalité entre l’exposition aux radiofréquences et la survenue de cancers aux niveaux habituellement observés dans la population. L’article Le",
+      "url": "https://presse.inserm.fr/canal-detox/les-antennes-5g-sont-elles-dangereuses-pour-la-sante/",
+      "image": null,
+      "date": "2026-06-10T14:51:02+00:00",
+      "date_formatted": "10 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des scientifiques découvrent le “code secret” du vieillissement du pancréas",
+      "desc": "Une équipe de scientifiques de l’Université de Lille, d’Imperial College de Londres, du CNRS, de l’Inserm, du CHU de Lille et de l’Institut Pasteur de Lille vient de faire une découverte surprenante : le vieillissement du pancréas ne suit pas, comme on le pensait, un déclin désordonné, mais au contr",
+      "url": "https://presse.inserm.fr/des-scientifiques-decouvrent-le-code-secret-du-vieillissement-du-pancreas/72953/",
+      "image": null,
+      "date": "2026-06-04T14:00:29+00:00",
+      "date_formatted": "4 June 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
