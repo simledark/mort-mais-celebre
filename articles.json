@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-17T02:05:24.709641+00:00",
-  "count": 58,
+  "generated_at": "2026-09-17T10:33:23.118016+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Dax : Fin de l’expérimentation, le Village Alzheimer prend la voie de la pérennisation",
+      "desc": "Vendredi dernier, la ministre déléguée chargée de l’Autonomie, a fait le déplacement jusqu’au Village Alzheimer des Landes, rapporte « Ouest-France »",
+      "url": "https://www.20minutes.fr/societe/4246111-20260917-dax-fin-experimentation-village-alzheimer-prend-voie-perennisation?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/E5QTJ4CfSJWgULf9sTxaRSk/1200x768_le-village-alzheimer-des-landes-a-besoin-chaque-annee-de-8-milliards-d-euros-pour-fonctionner-correctement-photo-d-illustration",
+      "date": "2026-09-17T09:24:03+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les vaccinations infantiles ont baissé dans plusieurs pays de l’UE",
+      "desc": "Dans un rapport paru ce jeudi, des scientifiques se sont penchés sur l’évolution de la couverture vaccinale à l’égard de sept maladies, entre 1980 et 2024. En France, celle-ci a augmenté pour quatre vaccins étudiés, mais a diminué pour trois autres.",
+      "url": "https://www.liberation.fr/international/europe/les-vaccinations-infantiles-ont-baisse-dans-plusieurs-pays-de-lue-20260917_A3UGNM33GRACDJZOVRLKAJOIKM/",
+      "image": null,
+      "date": "2026-09-17T08:29:08+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "France: 8.000 décès en excès après un été de canicules intenses et quasi continues",
+      "desc": "Après un été totalement inédit où la France a vécu sa plus longue période de canicule, il est temps de compter les décès. Trois épisodes se sont succédés causant 8000 morts en excès selon un bilan provisoire qui devrait s'alourdir, la période de surveillance s'étalant du 1er juin au 15 septembre.",
+      "url": "https://www.sciencesetavenir.fr/sante/france-8-000-deces-en-exces-apres-un-ete-de-canicules-quasi-continues_194852?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/16/cover-r4x3w1200-6aaaad14df507-d538d19a0570e1550c0c4322d7c419889e227245-jpg.jpg",
+      "date": "2026-09-17T07:10:29+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Votre âge ne dit peut-être pas tout sur votre vieillissement : le microbiote fait mieux sur la plupart des marqueurs étudiés",
+      "desc": "Et si le vieillissement inflammatoire ne dépendait pas seulement du nombre des années ? Une vaste étude menée auprès de 1 199 adultes révèle que la composition du microbiote intestinal est associée plus fortement que l’âge aux marqueurs de l’inflammation et du vieillissement de l’organisme. Une...",
+      "url": "https://www.futura-sciences.com/sante/actualites/microbiotes-votre-age-ne-dit-peut-etre-pas-tout-votre-vieillissement-microbiote-fait-mieux-plupart-marqueurs-etudies-137696/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/0/d/00df5a8655_50260830_microbiote-age.jpg",
+      "date": "2026-09-17T05:27:09+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Des cellules cérébrales humaines implantées dans le cerveau de souris",
       "desc": "Une équipe américaine est parvenue à coloniser l’encéphale de rongeurs dépourvus de cortex avec des organoïdes humains, dans le but de disposer de modèles plus réalistes de maladies neurodéveloppementales. Une prouesse technique qui soulève des questions éthiques.",
@@ -143,16 +183,6 @@
       "type": "presse"
     },
     {
-      "title": "Nouvelle campagne de prévention contre la bronchiolite : on fait le point sur les solutions pour protéger les bébés",
-      "desc": "Une nouvelle campagne de prévention s'ouvre lundi pour lutter contre cette maladie respiratoire qui touche près d'un tiers des bébés de moins de 2 ans. Entre des médicaments ou un vaccin, davantage de traitements sont mis à disposition en 2026.",
-      "url": "https://www.franceinfo.fr/sante/nouvelle-campagne-de-prevention-contre-la-bronchiolite-on-fait-le-point-sur-les-solutions-pour-proteger-les-bebes_8190938.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/WNPVuiki9snkmNErojCnRWAVHt4/0x320:3081x2054/432x243/filters:format(jpg)/2026/09/13/6aa6c5dbdcdf4724101926.jpg",
-      "date": "2026-09-15T17:26:30+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola en RDC : l’épidémie continue de s’étendre de façon « exponentielle » dans le nord-est du pays ; la situation épidémiologique reste « hétérogène », alerte l’OMS",
       "desc": "Le nombre de morts hebdomadaires a presque doublé dans le Nord-Kivu, alors que la transmission a ralenti dans d’autres régions. L’institution recense 3 475 morts sur 7 200 cas confirmés.",
       "url": "https://www.lemonde.fr/afrique/article/2026/09/15/ebola-en-rdc-l-epidemie-continue-de-s-etendre-de-facon-exponentielle-dans-le-nord-est-du-pays-la-situation-epidemiologique-reste-heterogene-alerte-l-oms_6774435_3212.html",
@@ -263,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "VIDEO. \"Le fait que je parle ouvertement du cancer, cela aide des gens\" : le journaliste Matthieu Lartot raconte comment la maladie a transformé sa vie",
-      "desc": "Le journaliste de France Télévisions Matthieu Lartot, touché à deux reprises par un cancer, témoigne, dans un documentaire qu'il coréalise, sur cette maladie dont il est toujours aussi difficile de parler.",
-      "url": "https://www.franceinfo.fr/sante/cancer/video-le-fait-que-je-parle-ouvertement-du-cancer-cela-aide-des-gens-le-journaliste-matthieu-lartot-raconte-comment-la-maladie-a-transforme-sa-vie_8166110.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/yPBBw-LgLa4txl9cCnMTU721sto/0x0:5568x3132/432x243/filters:format(jpg)/2026/09/08/6aa054f403b42752437964.jpg",
-      "date": "2026-09-15T05:57:05+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "On pensait les antioxydants protecteurs : dans certaines tumeurs, ils pourraient au contraire aider le cancer",
       "desc": "Les radicaux libres ont mauvaise réputation. Ils endommagent l’ADN et sont associés au vieillissement et au cancer. Mais une découverte surprenante vient bousculer cette vision : certaines cellules immunitaires ont besoin de ces molécules pour s’attaquer aux tumeurs, qui ont justement trouvé le...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-on-pensait-antioxydants-protecteurs-certaines-tumeurs-ils-pourraient-contraire-aider-cancer-137724/#xtor%3DRSS-8",
@@ -333,26 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Apple veut vous dire quel âge a votre corps : peut-elle vraiment savoir si vous vieillissez plus vite ou plus lentement que prévu ?",
-      "desc": "Et si votre corps n’avait pas tout à fait l’âge inscrit sur votre carte d’identité ? À l’occasion de la présentation de l’Apple Watch Series 12, Apple a dévoilé une application Santé profondément remaniée, capable d’estimer notre « âge de santé ». Mais comment une montre peut-elle réellement...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-apple-veut-vous-dire-age-votre-corps-peut-elle-vraiment-savoir-si-vous-vieillissez-plus-vite-plus-lentement-prevu-137673/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/8/5/085cf8d947_50260643_montre-connectee.jpg",
-      "date": "2026-09-12T13:21:01+00:00",
-      "date_formatted": "12 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "À quelle fréquence devriez-vous changer votre éponge de cuisine selon les scientifiques ?",
-      "desc": "Jusqu'à 54 milliards de cellules bactériennes par centimètre cube, soit une densité comparable à celle d'un échantillon de selles. L'éponge de cuisine bat tous les records domestiques. Le passage au micro-ondes, réflexe largement partagé, ne règle pas le problème. Il pourrait même le déplacer.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cuisine-frequence-devriez-vous-changer-votre-eponge-cuisine-selon-scientifiques-k2m6-137317/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/8/8/c882d8020a_50259964_eponge-cuisine-salete-bacteries.jpg",
-      "date": "2026-09-12T10:00:00+00:00",
-      "date_formatted": "12 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Vous prenez la pilule et vous envisagez de changer de contraception ? Racontez-nous…",
       "desc": "L’ Agence nationale de sécurité du médicament a envoyé, jeudi, un courrier pour alerter les femmes ayant pris certains types de pilules de l’existence d’un risque faible de développer une tumeur au cerveau. Est-ce un sujet qui vous inquiète et avez-vous déjà souffert d’effets secondaires liés à la c",
       "url": "https://www.lemonde.fr/societe/appel-temoignages/2026/09/11/appel-a-temoignages-vous-prenez-la-pilule-et-vous-envisagez-de-changer-de-contraception-racontez-nous_6770618_3224.html",
@@ -403,16 +403,6 @@
       "type": "presse"
     },
     {
-      "title": "Charles Wolf, président d’Initiative Pharma : face au « mur » du vieillissement, « il va falloir investir dans la santé »",
-      "desc": "A l’approche de la présentation du budget de la Sécurité sociale pour 2027, le président du nouveau syndicat patronal de l’industrie pharmaceutique appelle à mieux valoriser les médicaments innovants produits ou développés en France. Il assure que ces dépenses supplémentaires bénéficieront à l’écono",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/09/charles-wolf-president-d-initiative-pharma-face-au-mur-du-vieillissement-il-va-falloir-investir-dans-la-sante_6768927_3234.html",
-      "image": "https://img.lemde.fr/2026/09/08/168/0/2048/1024/644/322/60/0/970c3cb_upload-1-nospxyclax59-web-sanofi-charles-wolf-096.jpg",
-      "date": "2026-09-09T17:00:36+00:00",
-      "date_formatted": "9 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Première :  une xénogreffe transitoire avant un greffon humain",
       "desc": "Un patient de 66 ans a vécu avec un rein provenant d’un cochon modifié génétiquement pendant neuf mois, en attendant une transplantation avec un rein humain compatible.",
       "url": "https://www.sciencesetavenir.fr/sante/premiere-une-xenogreffe-permet-a-un-homme-de-survivre-jusqu-a-trouver-un-donneur-humain_194733?xtor=RSS-16",
@@ -439,16 +429,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/08/cover-r4x3w1200-6a9faab91f2d5-26fa36803704871e994391495ed8deed7b45bfb2-jpg.jpg",
       "date": "2026-09-08T09:27:30+00:00",
       "date_formatted": "8 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Près de 1000 enfants morts de la rougeole au Bangladesh",
-      "desc": "Avec un millier de cas par jour, l'épidémie de rougeole est l'une des plus vastes jamais recensée au Bangladesh. 200.000 personnes ont été contaminées et le virus a déjà coûté la vie à près de 1000 enfants depuis le début de l'épidémie, six mois plus tôt.",
-      "url": "https://www.sciencesetavenir.fr/sante/au-bangladesh-l-epidemie-de-rougeole-a-contamine-200-000-personnes_194679?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/05/cover-r4x3w1200-6a9be64630913-fef29f9792fa0f7e4234bebd2267c3833d3ecefc-jpg.jpg",
-      "date": "2026-09-07T07:29:02+00:00",
-      "date_formatted": "7 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
