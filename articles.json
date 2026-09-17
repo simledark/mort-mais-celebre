@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-09-17T15:46:16.717020+00:00",
-  "count": 59,
+  "generated_at": "2026-09-17T20:39:34.737005+00:00",
+  "count": 60,
   "articles": [
     {
-      "title": "Présidentielle 2027 : en grand oral devant le secteur du grand âge, les candidats promettent de s’attaquer à l’enjeu du vieillissement de la population",
-      "desc": "Aux assises nationales des Ehpad et au congrès des acteurs du service à la personne, des postulants à l’Elysée, ou leurs émissaires, ont tenté de convaincre qu’ils seront au rendez-vous des propositions, alors que la promesse d’une loi « grand âge » n’a pas été tenue par Emmanuel Macron.",
+      "title": "\"Maintenant, on a le temps de mourir en attendant que quelqu'un arrive\" : 48 heures auprès d'un infirmier libéral dans un désert médical",
+      "desc": "En cette année présidentielle, un visage de France Télévisions vient partager votre quotidien pendant deux jours. Pour ce deuxième numéro de \"48 heures\", Djamel Mazi a accompagné Dominique Cura, infirmier libéral en Dordogne, dans sa tournée, là où les médecins manquent.",
+      "url": "https://www.franceinfo.fr/sante/deserts-medicaux/maintenant-on-a-le-temps-de-mourir-en-attendant-que-quelqu-un-arrive-48-heures-aupres-d-un-infirmier-liberal-dans-un-desert-medical_8198063.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/7OERZNAMLriTbT3sf8T2mjrEmeA/0x35:1049x626/432x243/filters:format(jpg)/2026/09/17/6aac47514659d172347538.jpg",
+      "date": "2026-09-17T22:02:57+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Allemagne : la ville de Francfort victime d’une rare série de «paludisme d’aéroport», un troisième mort annoncé ce jeudi",
+      "desc": "Huit employés de l’aéroport ou des habitants des environs ont été infectés depuis la fin du mois d’août par cette maladie parasitaire, qui circule normalement en Afrique subsaharienne. En cause, des moustiques qui voyagent à bord d’avions en provenance de zones contaminées.",
+      "url": "https://www.liberation.fr/societe/sante/allemagne-la-ville-de-francfort-victime-dune-rare-serie-de-paludisme-daeroport-un-troisieme-mort-annonce-ce-jeudi-20260917_DEJELMKQ2BHLRELJLX272VSTII/",
+      "image": null,
+      "date": "2026-09-17T19:34:59+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Menaces de mort au collège : un père condamné à six mois de prison ferme à Bordeaux",
+      "desc": "Après une altercation entre sa fille et d’autres élèves lundi 14 septembre, l’homme avait menacé «d’égorger» et de «planter» un surveillant et la principale d’un collège d’Eysines. Il a été incarcéré à l’issue de l’audience.",
+      "url": "https://www.liberation.fr/societe/police-justice/menaces-de-mort-au-college-un-pere-condamne-a-six-mois-de-prison-ferme-a-bordeaux-20260917_DPRKXKNK5NDSRA6V24ONBSXA2Q/",
+      "image": null,
+      "date": "2026-09-17T19:05:03+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Allemagne : Le « paludisme d’aéroport » fait un troisième mort à Francfort",
+      "desc": "Une série de cas de « paludisme d’aéroport » préoccupe les autorités allemandes à Francfort. Avec l’annonce ce jeudi d’un nouveau décès et d’une infection parmi des riverains, le bilan s’élève à trois morts",
+      "url": "https://www.20minutes.fr/monde/allemagne/4246343-20260917-allemagne-paludisme-aeroport-fait-troisieme-mort-francfort?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/sfPsc2pUTgK2kD19I-wYHik/1200x768_une-serie-de-paludisme-d-aeroport-transmis-par-des-moustiques-infectes-preoccupe-les-autorites-allemandes-a-francfort-illustration",
+      "date": "2026-09-17T18:34:37+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Présidentielle 2027 : les candidats promettent aux acteurs du grand âge de s’attaquer à l’enjeu du vieillissement de la population",
+      "desc": "Aux Assises nationales des Ehpad et au congrès de la fédération des acteurs du service à la personne, des postulants à l’Elysée, ou leurs émissaires, ont tenté de convaincre qu’ils seront au rendez-vous des propositions, alors que la promesse d’une loi « grand âge » n’a pas été tenue par Emmanuel Ma",
       "url": "https://www.lemonde.fr/societe/article/2026/09/17/presidentielle-2027-en-grand-oral-devant-le-secteur-du-grand-age-les-candidats-promettent-de-s-attaquer-a-l-enjeu-du-vieillissement-de-la-population_6776445_3224.html",
       "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/2c0437a_upload-1-g4o7k5cv9lbl-frame-859.jpg",
-      "date": "2026-09-17T17:14:06+00:00",
+      "date": "2026-09-17T17:14:03+00:00",
       "date_formatted": "17 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -23,16 +63,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort à 89 ans du poète Jean Orizet, cofondateur du Cherche-Midi",
-      "desc": "Né en 1937, l’auteur était une figure reconnue de la scène poétique française, traduit en une vingtaine de langues.",
-      "url": "https://www.liberation.fr/culture/livres/mort-a-89-ans-du-poete-jean-orizet-cofondateur-du-cherche-midi-20260917_ZF3OTPMBSFFXNO5HUO4MBTUIBQ/",
-      "image": null,
-      "date": "2026-09-17T13:31:49+00:00",
-      "date_formatted": "17 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Fibromyalgie : une vaste étude génétique éclaire enfin les origines de la maladie",
       "desc": "Une vaste étude menée sur plus de 2 millions de personnes identifie 26 régions du génome associées à la fibromyalgie. Les résultats renforcent l’hypothèse d’une maladie liée avant tout au fonctionnement du système nerveux et ouvrent de nouvelles pistes pour comprendre ses symptômes et développer des",
       "url": "https://www.sciencesetavenir.fr/sante/fibromyalgie-une-vaste-etude-genetique-eclaire-enfin-les-origines-de-la-maladie_194866?xtor=RSS-16",
@@ -41,16 +71,6 @@
       "date_formatted": "17 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Syrie : premiers verdicts dans le procès de militaires et de partisans de Bachar al-Assad pour des massacres d’alaouites",
-      "desc": "Parmi les quatorze accusés, un militaire a été condamné à une peine de vingt ans de prison, et deux anciens fidèles du dictateur déchu ont été condamnés à la prison à vie et à la pendaison pour les violences de 2025 ayant fait des centaines de morts.",
-      "url": "https://www.liberation.fr/international/moyen-orient/syrie-premiers-verdicts-dans-le-proces-de-militaires-et-de-partisans-de-bachar-al-assad-pour-des-massacres-dalaouites-20260917_ZCO6A3TDQ5GEHBS4YOQTFQFXKM/",
-      "image": null,
-      "date": "2026-09-17T11:26:17+00:00",
-      "date_formatted": "17 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Dax : Fin de l’expérimentation, le Village Alzheimer prend la voie de la pérennisation",
@@ -369,16 +389,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/0/3/50362c5303_50259978_psychologie-vieillir-sante-mentale.jpg",
       "date": "2026-09-13T10:00:00+00:00",
       "date_formatted": "13 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Patient bizarre : elle s’injecte une veuve noire entière et confronte les médecins à un cas hors norme !",
-      "desc": "En californie, une femme de 37 ans s’est présentée aux urgences en se plaignant de fortes douleurs musculaires, de maux de tête et d’un sentiment d’anxiété. Elle s'était injectée par voie intraveineuse du venin de veuve noire, potentiellement mortel.",
-      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-patient-bizarre-elle-injecte-veuve-noire-entiere-confronte-medecins-cas-hors-norme-137671/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/5/2/352aa25c7d_50260656_veuve-noire-injection.jpg",
-      "date": "2026-09-12T20:07:37+00:00",
-      "date_formatted": "12 September 2026",
       "source": "Futura Santé",
       "type": "science"
     },
