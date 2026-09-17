@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-09-17T10:33:23.118016+00:00",
-  "count": 56,
+  "generated_at": "2026-09-17T15:46:16.717020+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "Présidentielle 2027 : en grand oral devant le secteur du grand âge, les candidats promettent de s’attaquer à l’enjeu du vieillissement de la population",
+      "desc": "Aux assises nationales des Ehpad et au congrès des acteurs du service à la personne, des postulants à l’Elysée, ou leurs émissaires, ont tenté de convaincre qu’ils seront au rendez-vous des propositions, alors que la promesse d’une loi « grand âge » n’a pas été tenue par Emmanuel Macron.",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/17/presidentielle-2027-en-grand-oral-devant-le-secteur-du-grand-age-les-candidats-promettent-de-s-attaquer-a-l-enjeu-du-vieillissement-de-la-population_6776445_3224.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/2c0437a_upload-1-g4o7k5cv9lbl-frame-859.jpg",
+      "date": "2026-09-17T17:14:06+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des faux foies pour éviter les greffes ?",
+      "desc": "Des ingénieurs du MIT viennent d’inventer des mini-foies injectables, qui jouent le même rôle que notre foie et pourraient permettre de le remplacer en cas de maladie.",
+      "url": "https://www.franceinfo.fr/sciences/des-faux-foies-pour-eviter-les-greffes_8197427.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1hvd-x3zGYJ2liek27YozY2x5as/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/17/6aabef1d41339694387853.jpg",
+      "date": "2026-09-17T16:10:01+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort à 89 ans du poète Jean Orizet, cofondateur du Cherche-Midi",
+      "desc": "Né en 1937, l’auteur était une figure reconnue de la scène poétique française, traduit en une vingtaine de langues.",
+      "url": "https://www.liberation.fr/culture/livres/mort-a-89-ans-du-poete-jean-orizet-cofondateur-du-cherche-midi-20260917_ZF3OTPMBSFFXNO5HUO4MBTUIBQ/",
+      "image": null,
+      "date": "2026-09-17T13:31:49+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fibromyalgie : une vaste étude génétique éclaire enfin les origines de la maladie",
+      "desc": "Une vaste étude menée sur plus de 2 millions de personnes identifie 26 régions du génome associées à la fibromyalgie. Les résultats renforcent l’hypothèse d’une maladie liée avant tout au fonctionnement du système nerveux et ouvrent de nouvelles pistes pour comprendre ses symptômes et développer des",
+      "url": "https://www.sciencesetavenir.fr/sante/fibromyalgie-une-vaste-etude-genetique-eclaire-enfin-les-origines-de-la-maladie_194866?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/17/cover-r4x3w1200-6aabdf37210b1-afp-20150603-301972-v1-midres-medicalconsultation.jpg",
+      "date": "2026-09-17T12:38:15+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Syrie : premiers verdicts dans le procès de militaires et de partisans de Bachar al-Assad pour des massacres d’alaouites",
+      "desc": "Parmi les quatorze accusés, un militaire a été condamné à une peine de vingt ans de prison, et deux anciens fidèles du dictateur déchu ont été condamnés à la prison à vie et à la pendaison pour les violences de 2025 ayant fait des centaines de morts.",
+      "url": "https://www.liberation.fr/international/moyen-orient/syrie-premiers-verdicts-dans-le-proces-de-militaires-et-de-partisans-de-bachar-al-assad-pour-des-massacres-dalaouites-20260917_ZCO6A3TDQ5GEHBS4YOQTFQFXKM/",
+      "image": null,
+      "date": "2026-09-17T11:26:17+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Dax : Fin de l’expérimentation, le Village Alzheimer prend la voie de la pérennisation",
       "desc": "Vendredi dernier, la ministre déléguée chargée de l’Autonomie, a fait le déplacement jusqu’au Village Alzheimer des Landes, rapporte « Ouest-France »",
@@ -13,18 +63,8 @@
       "type": "presse"
     },
     {
-      "title": "Les vaccinations infantiles ont baissé dans plusieurs pays de l’UE",
-      "desc": "Dans un rapport paru ce jeudi, des scientifiques se sont penchés sur l’évolution de la couverture vaccinale à l’égard de sept maladies, entre 1980 et 2024. En France, celle-ci a augmenté pour quatre vaccins étudiés, mais a diminué pour trois autres.",
-      "url": "https://www.liberation.fr/international/europe/les-vaccinations-infantiles-ont-baisse-dans-plusieurs-pays-de-lue-20260917_A3UGNM33GRACDJZOVRLKAJOIKM/",
-      "image": null,
-      "date": "2026-09-17T08:29:08+00:00",
-      "date_formatted": "17 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "France: 8.000 décès en excès après un été de canicules intenses et quasi continues",
-      "desc": "Après un été totalement inédit où la France a vécu sa plus longue période de canicule, il est temps de compter les décès. Trois épisodes se sont succédés causant 8000 morts en excès selon un bilan provisoire qui devrait s'alourdir, la période de surveillance s'étalant du 1er juin au 15 septembre.",
+      "desc": "Après un été totalement inédit où la France a vécu sa plus longue période de canicule, il est temps de compter les décès. Trois épisodes se sont succédé causant 8000 morts en excès selon un bilan provisoire qui devrait s'alourdir, la période de surveillance s'étalant du 1er juin au 15 septembre.",
       "url": "https://www.sciencesetavenir.fr/sante/france-8-000-deces-en-exces-apres-un-ete-de-canicules-quasi-continues_194852?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/16/cover-r4x3w1200-6aaaad14df507-d538d19a0570e1550c0c4322d7c419889e227245-jpg.jpg",
       "date": "2026-09-17T07:10:29+00:00",
@@ -190,16 +230,6 @@
       "date": "2026-09-15T16:37:54+00:00",
       "date_formatted": "15 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "APPEL A TEMOIGNAGES. Après un cancer, vous avez connu des difficultés dans votre vie affective ou professionnelle ? Racontez-nous",
-      "desc": "Franceinfo souhaite donner la parole aux malades qui ont vu leur vie amoureuse ou professionnelle profondément modifiée par la maladie.",
-      "url": "https://www.franceinfo.fr/sante/cancer/appel-a-temoignages-apres-un-cancer-vous-avez-connu-des-difficultes-dans-votre-vie-affective-et-professionnelle-racontez-nous_8193596.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/aMSU3hOsGlNnWlO7fZ1OoWJ85bI/0x209:2000x1334/432x243/filters:format(jpg)/2026/09/15/6aa941adaa37d642131205.jpg",
-      "date": "2026-09-15T15:46:43+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
