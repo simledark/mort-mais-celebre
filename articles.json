@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-17T20:39:34.737005+00:00",
+  "generated_at": "2026-09-18T01:52:44.699368+00:00",
   "count": 60,
   "articles": [
+    {
+      "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude",
+      "desc": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
+      "image": "https://img.lemde.fr/2026/09/17/155/0/5043/2521/644/322/60/0/dc3f8dd_upload-1-dpfswxoyjwa5-000-9xx7hp.jpg",
+      "date": "2026-09-18T02:00:17+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "\"Maintenant, on a le temps de mourir en attendant que quelqu'un arrive\" : 48 heures auprès d'un infirmier libéral dans un désert médical",
       "desc": "En cette année présidentielle, un visage de France Télévisions vient partager votre quotidien pendant deux jours. Pour ce deuxième numéro de \"48 heures\", Djamel Mazi a accompagné Dominique Cura, infirmier libéral en Dordogne, dans sa tournée, là où les médecins manquent.",
@@ -231,16 +241,6 @@
       "date_formatted": "15 September 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Perrine Dalin : \"Charlie ne s'est pas rendu compte de ce qu'il a transmis aux gens\"",
-      "desc": "Vainqueur du Vendée Globe 2024-2025 alors qu'il se savait atteint d'un cancer, Charlie Dalin est mort à 42 ans, en juin 2026. Un hommage lui est rendu mardi 15 septembre en baie de Concarneau. Sa veuve, Perrine Dalin, s'est confiée à franceinfo.",
-      "url": "https://www.franceinfo.fr/sports/perrine-dalin-charlie-ne-s-est-pas-rendu-compte-de-ce-qu-il-a-transmis-aux-gens_8193980.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/o2OFmziLhrU4qeQMIAl3qjZs-LA/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/15/6aa9658cded3e197537043.jpg",
-      "date": "2026-09-15T17:34:59+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola en RDC : l’épidémie continue de s’étendre de façon « exponentielle » dans le nord-est du pays ; la situation épidémiologique reste « hétérogène », alerte l’OMS",
