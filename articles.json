@@ -1,13 +1,63 @@
 {
-  "generated_at": "2026-09-18T15:19:32.847459+00:00",
-  "count": 62,
+  "generated_at": "2026-09-18T20:04:57.385648+00:00",
+  "count": 66,
   "articles": [
     {
-      "title": "«Une éclaircie» de Jean-Baptiste Del Amo : voir le Prado et guérir",
-      "desc": "L’écrivain confronte sa propre maladie aux «Peintures noires» de Goya.",
-      "url": "https://www.liberation.fr/culture/livres/une-eclaircie-de-jean-baptiste-del-amo-voir-le-prado-et-guerir-20260918_MMDM3JLTRNE5JM5CQJS57PWDZM/",
+      "title": "Un patient meurt à Auxerre après une erreur dans l’administration d’un médicament, l’hôpital présente ses condoléances",
+      "desc": "La mort d’un homme de 77 ans a été confirmée jeudi 17 septembre au soir par la direction de l’établissement, qui l’a signalée aux autorités. Un accompagnement de la famille et du personnel a été mis en place.",
+      "url": "https://www.liberation.fr/societe/sante/un-patient-meurt-a-auxerre-apres-une-erreur-dans-ladministration-dun-medicament-lhopital-presente-ses-condoleances-20260918_SG3THHXOSZF4TJNIXSQF2IQ2SA/",
       "image": null,
-      "date": "2026-09-18T12:55:00+00:00",
+      "date": "2026-09-18T19:37:10+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Bardella face à la préférence familiale, par Mathieu Lindon",
+      "desc": "Mais pourquoi la justice est-elle si laxiste ? Marine Le Pen ne méritait-elle pas la mort politique ?",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/bardella-face-a-la-preference-familiale-20260918_NK7JR356GBAJLGP7LE3CPB4SSI/",
+      "image": null,
+      "date": "2026-09-18T19:16:00+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mouchoirs en tissu : cette température de lavage change tout pour votre hygiène",
+      "desc": "Vos mouchoirs en tissu ressortent de la machine impeccables… mais toujours chargés de virus ?! C'est très probable. La température de lavage est le facteur décisif que la plupart des gens ignorent. Un simple réglage à 60 °C change tout.",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-mouchoirs-tissu-cette-temperature-lavage-change-tout-votre-hygiene-k2m6-137808/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/1/4/614bd07d47_50260850_mouchoirs-virus-lavage.jpg",
+      "date": "2026-09-18T18:00:00+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Budget 2027 : le gouvernement de Lecornu veut raboter les dépenses sociales",
+      "desc": "Arrêts maladies, allocations, retraités… Matignon entend réduire d’un tiers le déficit de la Sécurité sociale dans le budget 2027. Les entreprises, elles, seront largement épargnées par les efforts.",
+      "url": "https://www.liberation.fr/economie/budget-2027-le-gouvernement-veut-raboter-les-depenses-sociales-20260918_JPRKCBPPTFCQ7GL4ZHYMLYTOUU/",
+      "image": null,
+      "date": "2026-09-18T17:49:53+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "A Paris, une soirée rap au Grand Rex pour alerter sur les violences routières",
+      "desc": "Plus de 2 000 personnes se sont rassemblées, ce jeudi 17 septembre dans la salle parisienne, afin de déconstruire les comportements accidentogènes, parmi lesquels la consommation du protoxyde d’azote. L’aboutissement d’une tournée organisée par Skyrock.",
+      "url": "https://www.liberation.fr/societe/sante/a-paris-une-soiree-rap-au-grand-rex-pour-alerter-sur-les-violences-routieres-20260918_EC2SSESIQNGU7N4WBO6MLL5LSE/",
+      "image": null,
+      "date": "2026-09-18T17:42:49+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Etat islamique : emmenés en Syrie lorsqu’ils étaient enfants, trois Français risquent la peine de mort en Irak",
+      "desc": "Les procès d’une cinquantaine de jihadistes français doivent débuter dimanche à Bagdad. Les avocats de trois d’entre eux témoignent des «traitements inhumains» et des «violences» qu’ils auraient subis dans leur lieu de détention et dénoncent le «caractère arbitraire des procédures».",
+      "url": "https://www.liberation.fr/international/moyen-orient/plusieurs-jihadistes-francais-doivent-etre-juges-dimanche-20-septembre-en-irak-20260918_AH6GKRROSJDINH4HMCKGMRTHZY/",
+      "image": null,
+      "date": "2026-09-18T16:20:34+00:00",
       "date_formatted": "18 September 2026",
       "source": "Libération",
       "type": "presse"
@@ -421,16 +471,6 @@
       "date_formatted": "14 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Ces cellules auraient dû disparaître : comprendre l’un des mécanismes les plus redoutables du cancer",
-      "desc": "La mort cellulaire programmée joue un rôle essentiel dans le renouvellement et le bon fonctionnement de nos tissus. Mais lorsque ce mécanisme se dérègle, certaines cellules échappent à la mort, se multiplient de façon incontrôlée et peuvent favoriser l’apparition de cancers. Décryptage.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-ces-cellules-auraient-disparaitre-comprendre-mecanismes-plus-redoutables-cancer-137663/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/d/6/6d6e1658e1_50260616_3-cellules-cancer.jpg",
-      "date": "2026-09-14T05:28:11+00:00",
-      "date_formatted": "14 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Vous prenez la pilule et vous envisagez de changer de contraception ? Racontez-nous…",
