@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-09-18T01:52:44.699368+00:00",
-  "count": 60,
+  "generated_at": "2026-09-18T10:09:36.815025+00:00",
+  "count": 64,
   "articles": [
     {
-      "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude",
-      "desc": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
+      "title": "Les canicules aggravent les crises suicidaires",
+      "desc": "Salut c’est Sarah, ça dit quoi ? On s’éloigne petit à petit des canicules de cet été et on commence à en mesurer les effets, notamment sur la santé mentale. Au mois d’août, le numéro national de prévention du suicide a enregistré 12% d’appels supplémentaires. Une statistique inquiétante qui s'accomp",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/les-canicules-aggravent-les-crises-suicidaires_8198729.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Qd-fapgiQlj5LYdvF46yglhpudY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aacee06d7473202216834.png",
+      "date": "2026-09-18T10:00:05+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Savon ou gel hydroalcoolique : voici lequel élimine réellement les virus sur vos mains",
+      "desc": "Savon ou gel hydroalcoolique : le débat revient chaque automne, avec la montée des virus saisonniers. Derrière deux gestes banals se cachent des mécanismes très différents. La science est plutôt tranchée sur la question.",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-savon-gel-hydroalcoolique-voici-lequel-elimine-reellement-virus-vos-mains-k2t8-137803/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/3/a/c3a73dfc97_50260838_savon-gel-hydroalcoolique-hygiene.jpg",
+      "date": "2026-09-18T10:00:00+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "En Afrique du Sud, le choc des féminicides en série : «La liberté des femmes peut devenir une question de vie ou de mort»",
+      "desc": "Depuis juillet, neuf femmes ont été retrouvées mortes selon le même mode opératoire dans la ville de Kempton Park, au nord est de Johannesburg. Serial killer ou assassins multiples, les autorités peinent à endiguer ce déferlement de haine.",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/en-afrique-du-sud-le-choc-des-feminicides-en-serie-leur-liberte-peut-devenir-une-question-de-vie-ou-de-mort-20260918_VSROK6VRV5ASLCVD55MADIVYKQ/",
+      "image": null,
+      "date": "2026-09-18T09:44:56+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«C’était terrifiant» : un père incarcéré pour avoir menacé de mort le personnel d’un collège de Gironde",
+      "desc": "Un couple de parents d’élève a été condamné jeudi 17 septembre, dont l’un à de la prison ferme, pour de brutales intimidations contre un assistant d’éducation et une principale en banlieue de Bordeaux, lundi. Depuis la rentrée, les violences contre le personnel éducatif se multiplient.",
+      "url": "https://www.liberation.fr/societe/police-justice/menaces-de-mort-au-college-un-pere-condamne-a-six-mois-de-prison-ferme-a-bordeaux-20260917_DPRKXKNK5NDSRA6V24ONBSXA2Q/",
+      "image": null,
+      "date": "2026-09-18T09:40:40+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Elle est restée près de lui» : une forme de deuil documentée chez une baleine à bosse après la mort de son petit",
+      "desc": "Un chercheur australien confirme, dans une étude publiée mercredi, qu’une maman baleine a eu un comportement d’attention et de soin envers son baleineau mort-né, preuve que les cétacés possèdent des émotions complexes.",
+      "url": "https://www.liberation.fr/environnement/animaux/elle-est-restee-pres-de-lui-une-forme-de-deuil-documentee-chez-une-baleine-a-bosse-apres-la-mort-de-son-petit-20260918_U35HNO73GNF3TIDDMMY7NXSSXU/",
+      "image": null,
+      "date": "2026-09-18T09:12:36+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Une inaction politique dévastatrice »… Une toxicologue enquête sur des cancers pédiatriques liés aux pesticides",
+      "desc": "Dans la BD « Pesticides, leurs ravages sur la santé des enfants » parue jeudi, Laurence Huc, toxicologue à l’Inrae, raconte le combat de parents pour faire reconnaître le lien entre expositions aux pesticides et cancers de leurs enfants",
+      "url": "https://www.20minutes.fr/planete/4245559-20260918-inaction-politique-devastatrice-toxicologue-enquete-cancers-pediatriques-lies-pesticides?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/CIULTHA5QdGcpyFK3CjO_ik/1200x768_laurence-huc-toxicologue-a-paris-le-15-septembre-2026-a-l-occasion-de-la-sortie-de-pesticides-leurs-ravages-sur-la-sante-des-enfants-ed-les-printanieres",
+      "date": "2026-09-18T08:02:36+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. De plus en plus d'appels au numéro national de prévention du suicide, avec une hausse très marquée cet été",
+      "desc": "La canicule de cet été n'a pas épargné la santé mentale : en août, les appels au 3114 ont augmenté de 12% dans les 18 centres répartis en France. Franceinfo s'est rendu au CHU de Lille auprès de ces professionnels engagés 24 heures sur 24.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-de-plus-en-plus-d-appels-au-numero-national-de-prevention-du-suicide-avec-une-hausse-tres-marquee-cet-ete_8176181.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/qxTdgvGdnPqrUOmleUoACDPZt78/0x378:4032x2646/432x243/filters:format(jpg)/2026/09/17/6aac27f5f145a173513158.jpg",
+      "date": "2026-09-18T07:28:25+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Décès d'un patient à l'hôpital d'Auxerre après \"une erreur d'administration médicamenteuse\"",
+      "desc": "L'établissement hospitalier confirme le décès du patient, pris en charge dans l'un de ses services. Le parquet d'Auxerre a été averti.",
+      "url": "https://www.franceinfo.fr/sante/deces-d-un-patient-a-l-hopital-d-auxerre-apres-une-erreur-d-administration-medicamenteuse_8198516.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/VxNxgU2dIt3xeEzmux94uF1dozk/0x106:1024x682/432x243/filters:format(jpg)/2026/08/10/6a79f23b6464e948864607.jpg",
+      "date": "2026-09-18T06:49:29+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Migraine : quand l’activité physique devient une alliée",
+      "desc": "« Dix mille pas et plus ». Redoutée par certains migraineux parce qu’elle peut déclencher une crise, l’activité physique contribuerait pourtant à réduire la fréquence et le retentissement des céphalées. Un sujet qui sera abordé samedi 19 septembre, lors du sommet francophone consacré à cette maladie",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/18/migraine-quand-l-activite-physique-devient-une-alliee_6776671_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/18/578/0/6926/3463/644/322/60/0/7074088_upload-1-uddtu24b3j68-000-842w3bn.jpg",
+      "date": "2026-09-18T06:00:20+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe depuis la pandémie de Covid-19, selon une étude",
+      "desc": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans 16 pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
       "url": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
       "image": "https://img.lemde.fr/2026/09/17/155/0/5043/2521/644/322/60/0/dc3f8dd_upload-1-dpfswxoyjwa5-000-9xx7hp.jpg",
       "date": "2026-09-18T02:00:17+00:00",
@@ -20,26 +110,6 @@
       "date": "2026-09-17T22:02:57+00:00",
       "date_formatted": "17 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Allemagne : la ville de Francfort victime d’une rare série de «paludisme d’aéroport», un troisième mort annoncé ce jeudi",
-      "desc": "Huit employés de l’aéroport ou des habitants des environs ont été infectés depuis la fin du mois d’août par cette maladie parasitaire, qui circule normalement en Afrique subsaharienne. En cause, des moustiques qui voyagent à bord d’avions en provenance de zones contaminées.",
-      "url": "https://www.liberation.fr/societe/sante/allemagne-la-ville-de-francfort-victime-dune-rare-serie-de-paludisme-daeroport-un-troisieme-mort-annonce-ce-jeudi-20260917_DEJELMKQ2BHLRELJLX272VSTII/",
-      "image": null,
-      "date": "2026-09-17T19:34:59+00:00",
-      "date_formatted": "17 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Menaces de mort au collège : un père condamné à six mois de prison ferme à Bordeaux",
-      "desc": "Après une altercation entre sa fille et d’autres élèves lundi 14 septembre, l’homme avait menacé «d’égorger» et de «planter» un surveillant et la principale d’un collège d’Eysines. Il a été incarcéré à l’issue de l’audience.",
-      "url": "https://www.liberation.fr/societe/police-justice/menaces-de-mort-au-college-un-pere-condamne-a-six-mois-de-prison-ferme-a-bordeaux-20260917_DPRKXKNK5NDSRA6V24ONBSXA2Q/",
-      "image": null,
-      "date": "2026-09-17T19:05:03+00:00",
-      "date_formatted": "17 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -78,6 +148,16 @@
       "url": "https://www.sciencesetavenir.fr/sante/fibromyalgie-une-vaste-etude-genetique-eclaire-enfin-les-origines-de-la-maladie_194866?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/17/cover-r4x3w1200-6aabdf37210b1-afp-20150603-301972-v1-midres-medicalconsultation.jpg",
       "date": "2026-09-17T12:38:15+00:00",
+      "date_formatted": "17 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Vaccins infantiles : la couverture régresse dans plusieurs pays de l’UE",
+      "desc": "Après des décennies de progression, la vaccination des enfants connaît un recul préoccupant dans plusieurs pays de l’Union européenne depuis la pandémie de Covid-19. Une vaste étude publiée jeudi dans The Lancet Regional Health met en évidence des niveaux de couverture historiquement élevés mais de ",
+      "url": "https://www.sciencesetavenir.fr/sante/vaccination-infantile-des-reculs-dans-plusieurs-pays-de-l-ue-selon-une-etude_194864?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/17/cover-r4x3w1200-6aaba7e100ffc-vaccine.jpg",
+      "date": "2026-09-17T11:23:18+00:00",
       "date_formatted": "17 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
@@ -130,26 +210,6 @@
       "date": "2026-09-16T16:59:35+00:00",
       "date_formatted": "16 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En République démocratique du Congo, l'OMS perçoit des \"signes encourageants\" dans la lutte contre l'épidémie d'Ebola",
-      "desc": "Depuis mai, plus de 7 200 cas, dont plus de 3 500 décès, ont été recensés dans sept provinces, selon le patron de l'Organisation mondiale de la santé.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-democratique-du-congo-l-oms-percoit-des-signes-encourageants-dans-la-lutte-contre-l-epidemie-d-ebola_8195693.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/RviAuqixOAT2FxTL7DwSvmXpBM0/0x106:1024x682/432x243/filters:format(jpg)/2026/09/16/6aaaaafb03ba7677360065.jpg",
-      "date": "2026-09-16T16:48:32+00:00",
-      "date_formatted": "16 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les Etats-Unis ont enregistré quatre décès liés à la rougeole et plus de 3 200 cas y ont été recensés",
-      "desc": "Selon des communiqués de médecins légistes, deux bébés trop jeunes pour être vaccinés sont morts, ainsi qu'une personne de 18 ans et une autre de 40 ans.",
-      "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-quatre-deces-lies-a-la-rougeole-et-plus-de-3-200-cas-ont-ete-recenses_8195585.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/bMXUdv3sA2m5uTNhIn3A9f0Rp6Y/0x122:1024x698/432x243/filters:format(jpg)/2026/09/16/6aaa985f4781c356863855.jpg",
-      "date": "2026-09-16T15:52:02+00:00",
-      "date_formatted": "16 September 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -383,16 +443,6 @@
       "type": "science"
     },
     {
-      "title": "Vieillir en bonne santé : ce qu'un psychiatre conseille d'emprunter aux personnes de plus de 60 ans",
-      "desc": "Le bien-être émotionnel a tendance à s'améliorer avec l'âge, alors même que la santé, le statut ou les revenus évoluent souvent dans l'autre sens. Ce paradoxe a une explication documentée, et elle ne tient pas à l'âge lui-même mais à la perception du temps qui reste.",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-bonne-sante-ce-quun-psychiatre-conseille-emprunter-personnes-plus-60-ans-k2m6-137322/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/0/3/50362c5303_50259978_psychologie-vieillir-sante-mentale.jpg",
-      "date": "2026-09-13T10:00:00+00:00",
-      "date_formatted": "13 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Vous prenez la pilule et vous envisagez de changer de contraception ? Racontez-nous…",
       "desc": "L’ Agence nationale de sécurité du médicament a envoyé, jeudi, un courrier pour alerter les femmes ayant pris certains types de pilules de l’existence d’un risque faible de développer une tumeur au cerveau. Est-ce un sujet qui vous inquiète et avez-vous déjà souffert d’effets secondaires liés à la c",
       "url": "https://www.lemonde.fr/societe/appel-temoignages/2026/09/11/appel-a-temoignages-vous-prenez-la-pilule-et-vous-envisagez-de-changer-de-contraception-racontez-nous_6770618_3224.html",
@@ -459,16 +509,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/08/cover-r4x3w1200-6aa045696dd0d-28c3a4772781f9ff12dfe8befdb621b3ee5e715e-jpg.jpg",
       "date": "2026-09-09T07:37:26+00:00",
       "date_formatted": "9 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ils ne fument pas, mais en meurent : le lourd bilan du tabagisme passif",
-      "desc": "Près de 2,7 milliards de personnes sont exposées au tabagisme passif dans le monde, dont 767 millions d’enfants. Selon une étude publiée mardi dans The Lancet, cette exposition aurait causé 1,66 million de décès prématurés en 2023.",
-      "url": "https://www.sciencesetavenir.fr/sante/le-tabagisme-passif-tue-plus-de-1-6-million-de-personnes-chaque-annee_194719?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/08/cover-r4x3w1200-6a9faab91f2d5-26fa36803704871e994391495ed8deed7b45bfb2-jpg.jpg",
-      "date": "2026-09-08T09:27:30+00:00",
-      "date_formatted": "8 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
