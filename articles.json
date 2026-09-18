@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-18T10:09:36.815025+00:00",
-  "count": 64,
+  "generated_at": "2026-09-18T15:19:32.847459+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title": "«Une éclaircie» de Jean-Baptiste Del Amo : voir le Prado et guérir",
+      "desc": "L’écrivain confronte sa propre maladie aux «Peintures noires» de Goya.",
+      "url": "https://www.liberation.fr/culture/livres/une-eclaircie-de-jean-baptiste-del-amo-voir-le-prado-et-guerir-20260918_MMDM3JLTRNE5JM5CQJS57PWDZM/",
+      "image": null,
+      "date": "2026-09-18T12:55:00+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« L’impact des infections respiratoires est lourd pour les patients, les soignants et la collectivité »",
+      "desc": "Dans une tribune au « Monde », une douzaine de médecins et de patients dénoncent une « forme de banalisation silencieuse » autour des épidémies respiratoires. Ils appellent à la mise en place d’un programme national pluriannuel de prévention contre ces pathologies.",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/18/l-impact-des-infections-respiratoires-est-lourd-pour-les-patients-les-soignants-et-la-collectivite_6776773_3232.html",
+      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+      "date": "2026-09-18T12:30:03+00:00",
+      "date_formatted": "18 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "Les canicules aggravent les crises suicidaires",
       "desc": "Salut c’est Sarah, ça dit quoi ? On s’éloigne petit à petit des canicules de cet été et on commence à en mesurer les effets, notamment sur la santé mentale. Au mois d’août, le numéro national de prévention du suicide a enregistré 12% d’appels supplémentaires. Une statistique inquiétante qui s'accomp",
@@ -21,36 +41,6 @@
       "date_formatted": "18 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "En Afrique du Sud, le choc des féminicides en série : «La liberté des femmes peut devenir une question de vie ou de mort»",
-      "desc": "Depuis juillet, neuf femmes ont été retrouvées mortes selon le même mode opératoire dans la ville de Kempton Park, au nord est de Johannesburg. Serial killer ou assassins multiples, les autorités peinent à endiguer ce déferlement de haine.",
-      "url": "https://www.liberation.fr/societe/droits-des-femmes/en-afrique-du-sud-le-choc-des-feminicides-en-serie-leur-liberte-peut-devenir-une-question-de-vie-ou-de-mort-20260918_VSROK6VRV5ASLCVD55MADIVYKQ/",
-      "image": null,
-      "date": "2026-09-18T09:44:56+00:00",
-      "date_formatted": "18 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«C’était terrifiant» : un père incarcéré pour avoir menacé de mort le personnel d’un collège de Gironde",
-      "desc": "Un couple de parents d’élève a été condamné jeudi 17 septembre, dont l’un à de la prison ferme, pour de brutales intimidations contre un assistant d’éducation et une principale en banlieue de Bordeaux, lundi. Depuis la rentrée, les violences contre le personnel éducatif se multiplient.",
-      "url": "https://www.liberation.fr/societe/police-justice/menaces-de-mort-au-college-un-pere-condamne-a-six-mois-de-prison-ferme-a-bordeaux-20260917_DPRKXKNK5NDSRA6V24ONBSXA2Q/",
-      "image": null,
-      "date": "2026-09-18T09:40:40+00:00",
-      "date_formatted": "18 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Elle est restée près de lui» : une forme de deuil documentée chez une baleine à bosse après la mort de son petit",
-      "desc": "Un chercheur australien confirme, dans une étude publiée mercredi, qu’une maman baleine a eu un comportement d’attention et de soin envers son baleineau mort-né, preuve que les cétacés possèdent des émotions complexes.",
-      "url": "https://www.liberation.fr/environnement/animaux/elle-est-restee-pres-de-lui-une-forme-de-deuil-documentee-chez-une-baleine-a-bosse-apres-la-mort-de-son-petit-20260918_U35HNO73GNF3TIDDMMY7NXSSXU/",
-      "image": null,
-      "date": "2026-09-18T09:12:36+00:00",
-      "date_formatted": "18 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "« Une inaction politique dévastatrice »… Une toxicologue enquête sur des cancers pédiatriques liés aux pesticides",
@@ -498,16 +488,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/premiere-une-xenogreffe-permet-a-un-homme-de-survivre-jusqu-a-trouver-un-donneur-humain_194733?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/14/cover-r4x3w1200-6aa00c8cb4b93-afp-20130531-bsip-010763-032-v1-midres-hemodialysis.jpg",
       "date": "2026-09-09T08:53:58+00:00",
-      "date_formatted": "9 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "11-Septembre: la ville de New York a dissimulé des informations sur la toxicité de l'air",
-      "desc": "Près de 10.000 personnes sont mortes des suites de maladies liées aux attaques du 11 Septembre 2001. Le maire de New York, Zohran Mamdani annonce la publication de milliers de documents montrant que les responsables de la ville étaient au courant de la toxicité de l'air et ont nié sa dangerosité.",
-      "url": "https://www.sciencesetavenir.fr/sante/11-septembre-la-ville-de-new-york-a-dissimule-des-informations-sur-la-toxicite-de-l-air_194738?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/08/cover-r4x3w1200-6aa045696dd0d-28c3a4772781f9ff12dfe8befdb621b3ee5e715e-jpg.jpg",
-      "date": "2026-09-09T07:37:26+00:00",
       "date_formatted": "9 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
