@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-19T09:50:24.809251+00:00",
-  "count": 61,
+  "generated_at": "2026-09-19T14:56:40.182311+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "La menace de microbes dangereux fabriqués avec l’aide de l’intelligence artificielle se concrétise",
+      "desc": "Alors que les premiers virus conçus par IA viennent d’être décrits par une équipe américaine, le géant Anthropic annonce avoir été confronté à des tentatives de détournement de ses modèles pour créer de nouveaux agents pathogènes.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/19/la-menace-de-microbes-dangereux-fabriques-avec-l-aide-de-l-intelligence-artificielle-se-concretise_6777637_1650684.html",
+      "image": "https://img.lemde.fr/2025/07/17/173/0/3000/1500/644/322/60/0/9e1e69a_upload-1-ce1dmbounuhh-frame-253.jpg",
+      "date": "2026-09-19T11:56:25+00:00",
+      "date_formatted": "19 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "«Le Mouvement» de Douce Dibondo : Kaya, un «je» d’entre les morts",
+      "desc": "Un premier roman grave et pourtant profondément optimiste.",
+      "url": "https://www.liberation.fr/culture/livres/le-mouvement-de-douce-dibondo-kaya-un-je-dentre-les-morts-20260919_5LIVSLA3V5CT7PNFTX7MUO5F4Q/",
+      "image": null,
+      "date": "2026-09-19T10:40:00+00:00",
+      "date_formatted": "19 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Vieillir moins vite grâce à son alimentation ? Une vaste étude répond oui et révèle les régimes à privilégier",
       "desc": "Et si le contenu de votre assiette laissait une empreinte bien plus profonde qu’on ne l’imagine ? Des chercheurs allemands ont passé au crible l’alimentation de plusieurs milliers de personnes ainsi que les marques laissées sur l’ADN de leurs cellules. Les résultats apportent un nouvel éclairage...",
@@ -20,16 +40,6 @@
       "date": "2026-09-19T10:00:02+00:00",
       "date_formatted": "19 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Dans «les Ombres de l’exil», Jeanne Pham Tran chasse les ombres autour d’Ama",
-      "desc": "Après le décès de sa grand-mère, l’autrice revisite l’histoire familiale depuis la Chine du Sud jusqu’à Vitry pour livrer un récit curieux et intranquille sur la quête des origines et de la dignité.",
-      "url": "https://www.liberation.fr/culture/livres/dans-les-ombres-de-lexil-jeanne-pham-tran-chasse-les-ombres-autour-dama-20260919_ZYPVQ7VY6JAOJG7MIQR7M3XOTM/",
-      "image": null,
-      "date": "2026-09-19T06:40:00+00:00",
-      "date_formatted": "19 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -120,16 +130,6 @@
       "date": "2026-09-18T02:00:17+00:00",
       "date_formatted": "18 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Maintenant, on a le temps de mourir en attendant que quelqu'un arrive\" : 48 heures auprès d'un infirmier libéral dans un désert médical",
-      "desc": "En cette année présidentielle, un visage de France Télévisions vient partager votre quotidien pendant deux jours. Pour ce deuxième numéro de \"48 heures\", Djamel Mazi a accompagné Dominique Cura, infirmier libéral en Dordogne, dans sa tournée, là où les médecins manquent.",
-      "url": "https://www.franceinfo.fr/sante/deserts-medicaux/maintenant-on-a-le-temps-de-mourir-en-attendant-que-quelqu-un-arrive-48-heures-aupres-d-un-infirmier-liberal-dans-un-desert-medical_8198063.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/7OERZNAMLriTbT3sf8T2mjrEmeA/0x35:1049x626/432x243/filters:format(jpg)/2026/09/17/6aac47514659d172347538.jpg",
-      "date": "2026-09-17T22:02:57+00:00",
-      "date_formatted": "17 September 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -353,16 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Loire-Atlantique : Trois cas positifs au virus du West Nile, transmis par les moustiques",
-      "desc": "Trois cas humains ont été confirmés par l’Agence régionale de Santé. Elle appelle à la plus grande vigilance, selon « Hello Gazette Nantes »",
-      "url": "https://www.20minutes.fr/sante/4245532-20260915-loire-atlantique-trois-cas-positifs-virus-west-nile-transmis-moustiques?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/RiVnWx2WSe6hKTfU66P24Sk/1200x768_un-moustique-piquant-une-personne-illustration",
-      "date": "2026-09-15T11:21:44+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Rares, agressifs mais mieux guéris : 5 choses à savoir sur les cancers pédiatriques",
       "desc": "À l’occasion des dix ans de « Septembre en or », mois de mobilisation pour les cancers de l’enfant, cinq choses à savoir sur ces cancers rares mais agressifs, dont le taux de survie dépasse 80 % en France, malgré des échecs et des séquelles persistantes.",
       "url": "https://www.sciencesetavenir.fr/sante/rares-mais-agressifs-mieux-gueris-mais-avec-des-sequelles-5-choses-a-savoir-sur-les-cancers-pediatriques_194831?xtor=RSS-16",
@@ -401,16 +391,6 @@
       "date_formatted": "15 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "On pensait les antioxydants protecteurs : dans certaines tumeurs, ils pourraient au contraire aider le cancer",
-      "desc": "Les radicaux libres ont mauvaise réputation. Ils endommagent l’ADN et sont associés au vieillissement et au cancer. Mais une découverte surprenante vient bousculer cette vision : certaines cellules immunitaires ont besoin de ces molécules pour s’attaquer aux tumeurs, qui ont justement trouvé le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-on-pensait-antioxydants-protecteurs-certaines-tumeurs-ils-pourraient-contraire-aider-cancer-137724/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/2/5/5256bf6fcd_50260712_complement-antioxydant.jpg",
-      "date": "2026-09-15T05:28:12+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Arrêts maladie : des médecins s’inquiètent pour leurs patients du durcissement des règles",
