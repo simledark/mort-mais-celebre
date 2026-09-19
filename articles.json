@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-19T14:56:40.182311+00:00",
+  "generated_at": "2026-09-19T19:41:52.307943+00:00",
   "count": 59,
   "articles": [
+    {
+      "title": "Patient bizarre : cette femme découvre que son sang possède le caryotype d’un homme",
+      "desc": "Au Brésil, des médecins ont découvert qu’une femme de 35 ans (venue consulter pour une fausse couche) avait le caryotype typique d’un homme dans ses cellules sanguines mais pas dans le reste de son corps.",
+      "url": "https://www.futura-sciences.com/sante/actualites/genetique-patient-bizarre-cette-femme-decouvre-son-sang-possede-caryotype-homme-137834/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/5/d/35d61c237d_50260905_illustration-dadn.jpg",
+      "date": "2026-09-19T20:23:24+00:00",
+      "date_formatted": "19 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Patrick Michel, astrophysicien : « La science des astéroïdes vit son âge d’or. Chaque nouvelle image nous a apporté des surprises »",
+      "desc": "Dans un entretien au « Monde », l’astrophysicien français revient sur les missions destinées à analyser les risques éventuels posés par certains de ces corps célestes. Il précise qu’une douzaine de sondes les étudieront à l’avenir.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/19/patrick-michel-la-science-des-asteroides-vit-son-age-d-or-chaque-nouvelle-image-nous-a-apporte-des-surprises_6777794_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/07/399/0/4789/2394/644/322/60/0/ec87744_upload-1-4hftkewcaknr-sipa01271222-000114.jpg",
+      "date": "2026-09-19T17:30:04+00:00",
+      "date_formatted": "19 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "La menace de microbes dangereux fabriqués avec l’aide de l’intelligence artificielle se concrétise",
       "desc": "Alors que les premiers virus conçus par IA viennent d’être décrits par une équipe américaine, le géant Anthropic annonce avoir été confronté à des tentatives de détournement de ses modèles pour créer de nouveaux agents pathogènes.",
@@ -11,16 +31,6 @@
       "date_formatted": "19 September 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "«Le Mouvement» de Douce Dibondo : Kaya, un «je» d’entre les morts",
-      "desc": "Un premier roman grave et pourtant profondément optimiste.",
-      "url": "https://www.liberation.fr/culture/livres/le-mouvement-de-douce-dibondo-kaya-un-je-dentre-les-morts-20260919_5LIVSLA3V5CT7PNFTX7MUO5F4Q/",
-      "image": null,
-      "date": "2026-09-19T10:40:00+00:00",
-      "date_formatted": "19 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Vieillir moins vite grâce à son alimentation ? Une vaste étude répond oui et révèle les régimes à privilégier",
@@ -340,16 +350,6 @@
       "date": "2026-09-15T12:31:34+00:00",
       "date_formatted": "15 September 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Un médicament conçu avec l’IA fait apparaître le sang plusieurs années plus jeune !",
-      "desc": "Le médicament, baptisé rentosertib, a été conçu à l’origine pour traiter une maladie pulmonaire. Mais les chercheurs se sont aperçus qu’il avait permis de rajeunir biologiquement le profil sanguin des patients l'ayant testé.",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-medicament-concu-ia-fait-apparaitre-sang-plusieurs-annees-plus-jeune-137728/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/1/c/c1c9410963_50260716_me-dicament-main.jpg",
-      "date": "2026-09-15T11:35:51+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
