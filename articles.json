@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-20T14:59:58.536728+00:00",
-  "count": 57,
+  "generated_at": "2026-09-20T19:54:00.558845+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "«La meilleure manière de préparer le futur, c’est de l’imaginer»",
+      "desc": "Dans un contexte de crise économique et environnementale anxiogène, loin d’être une échappatoire, les imaginaires répondent à une question : changer pour aller vers où ? Intellectuels et acteurs sociaux tentent des pistes de réflexion et d’action.",
+      "url": "https://www.liberation.fr/forums/la-meilleure-maniere-de-preparer-le-futur-cest-de-limaginer-20260920_6HLX72EE5ZDMRNKSXMYJ37UDH4/",
+      "image": null,
+      "date": "2026-09-20T18:18:00+00:00",
+      "date_formatted": "20 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Combien de tasses de café pouvez-vous boire chaque jour sans risque pour votre santé ?",
+      "desc": "Cinq tasses de café par jour, c'est désormais officiellement défendu par la science américaine. L'American Heart Association a publié en juillet 2026 une déclaration qui bouscule les idées reçues sur la caféine. Diabète, AVC, maladies cardiaques…, le bilan est franchement surprenant. Et non,...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cafe-tasses-cafe-pouvez-vous-boire-chaque-jour-risque-votre-sante-k2m6-137837/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/b/9/cb91f5db41_50260925_tasses-cafe-sante.jpg",
+      "date": "2026-09-20T18:00:00+00:00",
+      "date_formatted": "20 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Au Festival du Monde, ces femmes en première ligne contre la pollution : « Etre en colère, c’est rationnel »",
+      "desc": "Au Festival du Monde, samedi 19 septembre, Fleur Breteau, fondatrice du collectif Cancer Colère, s’exprimait parmi d’autres personnalités qui militent pour la protection de l’environnement.",
+      "url": "https://www.lemonde.fr/festival/article/2026/09/20/au-festival-du-monde-ces-femmes-en-premiere-ligne-contre-la-pollution-etre-en-colere-c-est-rationnel_6778394_4415198.html",
+      "image": "https://img.lemde.fr/2026/09/20/160/0/1280/640/644/322/60/0/255019d_upload-1-pldnvrkq30zm-photo-2026-09-20-14-22-32.jpg",
+      "date": "2026-09-20T17:30:09+00:00",
+      "date_formatted": "20 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Des baleines à bosse s’occupent de leur petit mort-né",
       "desc": "Primates, éléphants, mammifères marins : les observations de soins post mortem sur des nourrissons se multiplient.",
@@ -18,16 +48,6 @@
       "url": "https://www.liberation.fr/culture/livres/mort-dannie-dillard-ecrivaine-et-dechiffreuse-du-monde-20260920_W7FRYTOANVFPVCS7PYF7H5NXSA/",
       "image": null,
       "date": "2026-09-20T14:57:51+00:00",
-      "date_formatted": "20 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Deux morts dans un accident de deltaplane en Isère pendant la coupe Icare",
-      "desc": "Un pilote chevronné et sa passagère ont été tués ce dimanche 20 septembre au matin dès le décollage du biplace. Une enquête est ouverte par le parquet de Grenoble et les organisateurs du festival ont suspendu l’événement.",
-      "url": "https://www.liberation.fr/sports/deux-morts-dans-un-accident-de-deltaplane-en-isere-pendant-la-coupe-icare-20260920_DTWLQ2JMMBCSVKKCZ7REKR3GHI/",
-      "image": null,
-      "date": "2026-09-20T12:33:20+00:00",
       "date_formatted": "20 September 2026",
       "source": "Libération",
       "type": "presse"
@@ -261,16 +281,6 @@
       "date_formatted": "16 September 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Diphtérie à Dunkerque : pourquoi ce cas d’une maladie devenue très rare est pris très au sérieux, ce qu’il faut savoir",
-      "desc": "La diphtérie, cette maladie presque oubliée, refait surface à Dunkerque et soulève des questions : comment une pathologie aussi grave peut-elle réapparaître dans un pays où la vaccination est pourtant obligatoire ? Notre système de santé est-il suffisamment préparé face à des maladies dont on...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-infectieuse-diphterie-dunkerque-ce-cas-maladie-devenue-tres-rare-pris-tres-serieux-ce-quil-faut-savoir-137766/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/8/9/8893d4ac3e_50260784_diphterie-dunkerque.jpg",
-      "date": "2026-09-16T11:33:42+00:00",
-      "date_formatted": "16 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Cancer : comment la tumeur berne le système immunitaire",
