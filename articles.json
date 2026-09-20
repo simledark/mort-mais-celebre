@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-20T10:12:26.497882+00:00",
-  "count": 56,
+  "generated_at": "2026-09-20T14:59:58.536728+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Des baleines à bosse s’occupent de leur petit mort-né",
+      "desc": "Primates, éléphants, mammifères marins : les observations de soins post mortem sur des nourrissons se multiplient.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/20/des-baleines-a-bosse-s-occupent-de-leur-petit-mort-ne_6778383_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/18/193/0/2600/1300/644/322/60/0/ca2d681_upload-1-xt2sbzrlpeyn-000-hkg607436.jpg",
+      "date": "2026-09-20T15:30:08+00:00",
+      "date_formatted": "20 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Mort d’Annie Dillard, écrivaine et déchiffreuse du monde",
+      "desc": "L’autrice américaine, spécialiste de Thoreau et lauréate du prix Pulitzer en 1975 pour «Pèlerinage à Tinker Creek», s’est éteinte le 15 septembre à 81 ans.",
+      "url": "https://www.liberation.fr/culture/livres/mort-dannie-dillard-ecrivaine-et-dechiffreuse-du-monde-20260920_W7FRYTOANVFPVCS7PYF7H5NXSA/",
+      "image": null,
+      "date": "2026-09-20T14:57:51+00:00",
+      "date_formatted": "20 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Deux morts dans un accident de deltaplane en Isère pendant la coupe Icare",
+      "desc": "Un pilote chevronné et sa passagère ont été tués ce dimanche 20 septembre au matin dès le décollage du biplace. Une enquête est ouverte par le parquet de Grenoble et les organisateurs du festival ont suspendu l’événement.",
+      "url": "https://www.liberation.fr/sports/deux-morts-dans-un-accident-de-deltaplane-en-isere-pendant-la-coupe-icare-20260920_DTWLQ2JMMBCSVKKCZ7REKR3GHI/",
+      "image": null,
+      "date": "2026-09-20T12:33:20+00:00",
+      "date_formatted": "20 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Patient bizarre : cette femme découvre que son sang possède le caryotype d’un homme",
       "desc": "Au Brésil, des médecins ont découvert qu’une femme de 35 ans (venue consulter pour une fausse couche) avait le caryotype typique d’un homme dans ses cellules sanguines mais pas dans le reste de son corps.",
@@ -263,16 +293,6 @@
       "type": "science"
     },
     {
-      "title": "Les cas de démence vont presque doubler : ces 4 réflexes pourraient protéger votre cerveau",
-      "desc": "Avec 2,2 millions de malades attendus d’ici 25 ans, la démence s’impose comme un défi majeur. Pourtant, certaines habitudes pourraient freiner sa progression.",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-cas-demence-vont-presque-doubler-ces-4-reflexes-pourraient-proteger-votre-cerveau-w2t8-137720/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/a/b/3ab1acd4b9_50260704_demence-reflexes-cerveau.jpg",
-      "date": "2026-09-16T08:00:00+00:00",
-      "date_formatted": "16 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Epidémie de rougeole aux Etats-Unis : quatre morts et plus de 3 200 cas recensés, du jamais-vu depuis 1991",
       "desc": "La maladie, très contagieuse, avait été déclarée éliminée du pays en 2000 mais connaît un retour en force ces dernières années, sur fond de baisse des taux de vaccination et de défiance croissante à l’égard des autorités sanitaires.",
       "url": "https://www.lemonde.fr/international/article/2026/09/16/epidemie-de-rougeole-aux-etats-unis-quatre-morts-et-plus-de-3-000-cas-recenses-du-jamais-depuis-1991_6774547_3210.html",
@@ -330,16 +350,6 @@
       "date": "2026-09-15T11:02:18+00:00",
       "date_formatted": "15 September 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Quand une toux chronique réfractaire révèle une maladie génétique",
-      "desc": "Derrière une toux persistante pendant des années peut se cacher une maladie neurologique rare : le syndrome CANVAS, une affection génétique lentement progressive.",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/09/15/quand-une-toux-chronique-refractaire-revele-une-maladie-genetique_6774347_6579630.html",
-      "image": "https://img.lemde.fr/2025/11/08/384/0/4592/2296/644/322/60/0/b875556_upload-1-dzbbm2u2wndh-toux-chronique-refractaire-canvas-maladie-genetique.jpg",
-      "date": "2026-09-15T09:09:17+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
