@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-23T10:22:47.258949+00:00",
-  "count": 57,
+  "generated_at": "2026-09-23T15:40:41.428031+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "\"Insistez pour obtenir un deuxième, voire un troisième avis médical\" : qu'est-ce que la \"Martha's rule\", qui se généralise dans les hôpitaux anglais ?",
+      "desc": "Après la mort à l'hôpital de Martha Mills, une jeune fille de 13 ans, à cause d'une mauvaise prise en charge en 2021, l'Angleterre se dote d'un dispositif pour prévenir les erreurs de diagnostic et répondre aux inquiétudes des patients.",
+      "url": "https://www.franceinfo.fr/monde/royaume-uni/insistez-pour-obtenir-un-deuxieme-voire-un-troisieme-avis-medical-qu-est-ce-que-la-martha-s-rule-qui-se-generalise-dans-les-hopitaux-anglais_8201825.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/cQuVk29UoJjf9gK7Rf4nz5Otqxw/0x46:1024x622/432x243/filters:format(jpg)/2026/09/22/6ab288576b9ad115226340.jpg",
+      "date": "2026-09-23T17:34:47+00:00",
+      "date_formatted": "23 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une fillette de 5 ans retrouvée morte à son domicile à Blois, «vraisemblablement» tuée par son père",
+      "desc": "Elle a apparemment été victime d’une «intoxication médicamenteuse». Le suspect, né en 1984, a été retrouvé «dans un état médical critique». Il a «attenté à ses jours en s’infligeant plusieurs coups de couteau», a précisé le procureur de la ville.",
+      "url": "https://www.liberation.fr/societe/police-justice/une-fillette-de-5-ans-retrouvee-morte-a-son-domicile-a-blois-vraisemblablement-tuee-par-son-pere-20260922_JX6VLUXXYBCCRAOTDGU2OXXKO4/",
+      "image": null,
+      "date": "2026-09-23T15:00:49+00:00",
+      "date_formatted": "23 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Quatre semaines ont suffi pour faire reculer leur âge biologique de près de 4 ans : voici ce qu’ils ont mangé",
+      "desc": "Un changement d'alimentation peut-il vraiment rajeunir ? Des travaux scientifiques publiés dans la revue Aging Cell apportent une réponse surprenante.",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-quatre-semaines-ont-suffi-faire-reculer-leur-age-biologique-pres-4-ans-voici-ce-quils-ont-mange-137940/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/f/c/6fcf076743_50261132_alimentation-rajeunissement.jpg",
+      "date": "2026-09-23T14:43:04+00:00",
+      "date_formatted": "23 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Au procès du naufrage le plus meurtrier de la Manche : «J’ai l’impression qu’une partie de moi a disparu au fond des vagues»",
+      "desc": "Depuis deux semaines, les quatorze passeurs présumés, jugés pour la mort de 31 personnes en 2021, ont esquivé les questions. Mardi 22 septembre, le procureur a requis des peines allant de six mois avec sursis à dix ans de prison.",
+      "url": "https://www.liberation.fr/societe/police-justice/au-proces-du-naufrage-le-plus-meurtrier-de-la-manche-jai-limpression-quune-partie-de-moi-a-disparu-au-fond-des-vagues-20260923_4VANQVVSTZEXZOCS6TWGUN5XCQ/",
+      "image": null,
+      "date": "2026-09-23T13:15:34+00:00",
+      "date_formatted": "23 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Chez l’avocatier, la reproduction est chronométrée",
       "desc": "La plante échappe à l’autopollinisation avec un développement asynchrone des organes mâles et femelles de ses fleurs. Le gène à l’origine de ce phénomène pourrait permettre de déterminer le type des avocatiers avant leur plantation, se réjouit Alice Lebreton dans sa Carte blanche au « Monde ».",
@@ -13,6 +53,16 @@
       "type": "science"
     },
     {
+      "title": "L’Allemagne est-elle vraiment championne des arrêts maladie en Europe, loin devant la France, comme l’affirme Mélenchon ?",
+      "desc": "Le leader de LFI a relayé, dans un tweet, un classement OCDE des pays selon le nombre moyen d’arrêts de travail par an pris par les salariés, où l’Hexagone apparaît derrière nos voisins d’outre-Rhin.",
+      "url": "https://www.liberation.fr/checknews/lallemagne-est-elle-vraiment-championne-des-arrets-maladie-en-europe-loin-devant-la-france-comme-laffirme-melenchon-20260923_REPJ65WSZREYLLDNAWFZK5USXU/",
+      "image": null,
+      "date": "2026-09-23T11:09:13+00:00",
+      "date_formatted": "23 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Mort d’Arnaud Denis : Qu’est-ce que l’encéphalite myalgique, dont souffrait le comédien ?",
       "desc": "Arnaud Denis, qui s’est fait euthanasier en Belgique, souffrait de cette maladie aussi appelée syndrome de fatigue chronique",
       "url": "https://www.20minutes.fr/sante/4247968-20260923-mort-arnaud-denis-encephalite-myalgique-dont-souffrait-comedien?at_medium=display&at_campaign=149",
@@ -20,16 +70,6 @@
       "date": "2026-09-23T09:26:12+00:00",
       "date_formatted": "23 September 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Bienvenue», une vie en porte-à-porte",
-      "desc": "L’album de Anne-Margot Ramstein et Matthias Arégui, aux majestueuses illustrations sans texte, fait défiler une existence de la naissance à l’âge adulte, en jouant avec les ouvertures.",
-      "url": "https://www.liberation.fr/culture/livres/bienvenue-une-vie-en-porte-a-porte-20260923_2HCSLPOO5RHSXGVROIUFKJH47A/",
-      "image": null,
-      "date": "2026-09-23T08:55:00+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -143,16 +183,6 @@
       "type": "science"
     },
     {
-      "title": "Fille d'un malade d'Alzheimer, cette romancière témoigne",
-      "desc": "À l’occasion de la Journée mondiale contre la maladie d'Alzheimer, la romancière Virginie Grimaldi livre un témoignage très personnel sur son père.",
-      "url": "https://www.franceinfo.fr/sante/fille-d-un-malade-d-alzheimer-cette-romanciere-temoigne_8203529.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/sdj6nxgzCHogK2QraR3EbcSPdF4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/21/6ab16e6595d3b232109560.png",
-      "date": "2026-09-21T19:51:43+00:00",
-      "date_formatted": "21 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Plongée dans le monde fascinant de micro-organismes unicellulaires doués d’intelligence",
       "desc": "Une cellule. C’est ce qui suffit aux eucaryotes unicellulaires pour se nourrir, se déplacer, faire des choix, apprendre ou stocker des informations. Depuis plusieurs siècles d’études et autant de controverses, les chercheurs étudient la cognition de ces organismes pour tenter de comprendre leur mond",
       "url": "https://www.lemonde.fr/sciences/article/2026/09/21/plongee-dans-le-monde-fascinant-de-micro-organismes-unicellulaires-doues-d-intelligence_6779173_1650684.html",
@@ -234,7 +264,7 @@
     },
     {
       "title": "Patrick Michel, astrophysicien : « La science des astéroïdes vit son âge d’or. Chaque nouvelle image nous a apporté des surprises »",
-      "desc": "Dans un entretien au « Monde », l’astrophysicien français revient sur les missions destinées à analyser les risques éventuels posés par certains de ces corps célestes. Il précise qu’une douzaine de sondes les étudieront à l’avenir.",
+      "desc": "Dans un entretien au « Monde », l’astrophysicien français revient sur les missions destinées à analyser les risques posés par la chute éventuelle de certains de ces corps célestes sur la Terre. Il précise qu’une douzaine de sondes les étudieront à l’avenir.",
       "url": "https://www.lemonde.fr/sciences/article/2026/09/19/patrick-michel-la-science-des-asteroides-vit-son-age-d-or-chaque-nouvelle-image-nous-a-apporte-des-surprises_6777794_1650684.html",
       "image": "https://img.lemde.fr/2026/09/07/399/0/4789/2394/644/322/60/0/ec87744_upload-1-4hftkewcaknr-sipa01271222-000114.jpg",
       "date": "2026-09-19T17:30:04+00:00",
@@ -280,16 +310,6 @@
       "date": "2026-09-18T12:30:03+00:00",
       "date_formatted": "18 September 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Savon ou gel hydroalcoolique : voici lequel élimine réellement les virus sur vos mains",
-      "desc": "Savon ou gel hydroalcoolique : le débat revient chaque automne, avec la montée des virus saisonniers. Derrière deux gestes banals se cachent des mécanismes très différents. La science est plutôt tranchée sur la question.",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-savon-gel-hydroalcoolique-voici-lequel-elimine-reellement-virus-vos-mains-k2t8-137803/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/3/a/c3a73dfc97_50260838_savon-gel-hydroalcoolique-hygiene.jpg",
-      "date": "2026-09-18T10:00:00+00:00",
-      "date_formatted": "18 September 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
