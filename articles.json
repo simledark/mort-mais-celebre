@@ -1,25 +1,45 @@
 {
-  "generated_at": "2026-09-23T15:40:41.428031+00:00",
-  "count": 59,
+  "generated_at": "2026-09-23T20:45:41.003160+00:00",
+  "count": 58,
   "articles": [
     {
-      "title": "\"Insistez pour obtenir un deuxième, voire un troisième avis médical\" : qu'est-ce que la \"Martha's rule\", qui se généralise dans les hôpitaux anglais ?",
+      "title": "Le nombre d’IVG a continué sa hausse en 2025, les causes nous poussent à nous interroger",
+      "desc": "Selon les chiffres de la Direction de la recherche, des études, de l’évaluation et des statistiques publiés mardi 22 septembre, 259 416 interruptions volontaires de grossesse ont été comptabilisées en 2025, soit 7 219 de plus qu’en 2024. Cette évolution concerne toutes les classes d’âges entre 15 et",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/23/le-nombre-d-ivg-a-continue-sa-hausse-en-2025-les-causes-interrogent_6780946_3224.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/01ace25_upload-1-vi9wn7jjpuqo-frame-468.jpg",
+      "date": "2026-09-23T18:55:10+00:00",
+      "date_formatted": "23 September 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "\"Ecouter les préoccupations des patients et de leurs familles\" : qu'est-ce que la \"Martha's rule\", qui se généralise dans les hôpitaux anglais ?",
       "desc": "Après la mort à l'hôpital de Martha Mills, une jeune fille de 13 ans, à cause d'une mauvaise prise en charge en 2021, l'Angleterre se dote d'un dispositif pour prévenir les erreurs de diagnostic et répondre aux inquiétudes des patients.",
       "url": "https://www.franceinfo.fr/monde/royaume-uni/insistez-pour-obtenir-un-deuxieme-voire-un-troisieme-avis-medical-qu-est-ce-que-la-martha-s-rule-qui-se-generalise-dans-les-hopitaux-anglais_8201825.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/cQuVk29UoJjf9gK7Rf4nz5Otqxw/0x46:1024x622/432x243/filters:format(jpg)/2026/09/22/6ab288576b9ad115226340.jpg",
-      "date": "2026-09-23T17:34:47+00:00",
+      "date": "2026-09-23T18:29:36+00:00",
       "date_formatted": "23 September 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
     {
-      "title": "Une fillette de 5 ans retrouvée morte à son domicile à Blois, «vraisemblablement» tuée par son père",
-      "desc": "Elle a apparemment été victime d’une «intoxication médicamenteuse». Le suspect, né en 1984, a été retrouvé «dans un état médical critique». Il a «attenté à ses jours en s’infligeant plusieurs coups de couteau», a précisé le procureur de la ville.",
-      "url": "https://www.liberation.fr/societe/police-justice/une-fillette-de-5-ans-retrouvee-morte-a-son-domicile-a-blois-vraisemblablement-tuee-par-son-pere-20260922_JX6VLUXXYBCCRAOTDGU2OXXKO4/",
+      "title": "Dans la mort de la nièce d’Adolf Hitler, l’alibi du führer vole en éclat",
+      "desc": "L’hebdomadaire allemand «Der Spiegel» révèle des documents inédits qui mettent en cause la version du dictateur allemand autour de la mort suspecte de sa nièce, Geli Raubal, survenue en 1931.",
+      "url": "https://www.liberation.fr/international/europe/dans-la-mort-de-la-niece-dadolf-hitler-lalibi-du-fuhrer-vole-en-eclat-20260923_52D53CB5MNGRRJPDK6Q57YDQEA/",
       "image": null,
-      "date": "2026-09-23T15:00:49+00:00",
+      "date": "2026-09-23T18:18:51+00:00",
       "date_formatted": "23 September 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Santé publique France constate une légère augmentation des cas de Covid-19 au niveau national depuis la rentrée",
+      "desc": "Les cas de Covid-19 sont en légère augmentation en France depuis la rentrée d'après Santé Publique France, annonce franceinfo mercredi. Cette reprise de la circulation du virus reste inférieure à celle des quatre années précédentes à la même période.",
+      "url": "https://www.franceinfo.fr/sante/maladie/coronavirus/sante-publique-france-constate-une-legere-augmentation-des-cas-de-covid-19-au-niveau-national-depuis-la-rentree_8206682.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/cAk8CAP4c5_1BdB5dzXeIb6G4Lg/0x0:3000x1687/432x243/filters:format(jpg)/2026/09/23/6ab3f1fa10efc517458344.jpg",
+      "date": "2026-09-23T17:39:25+00:00",
+      "date_formatted": "23 September 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -33,16 +53,6 @@
       "type": "science"
     },
     {
-      "title": "Au procès du naufrage le plus meurtrier de la Manche : «J’ai l’impression qu’une partie de moi a disparu au fond des vagues»",
-      "desc": "Depuis deux semaines, les quatorze passeurs présumés, jugés pour la mort de 31 personnes en 2021, ont esquivé les questions. Mardi 22 septembre, le procureur a requis des peines allant de six mois avec sursis à dix ans de prison.",
-      "url": "https://www.liberation.fr/societe/police-justice/au-proces-du-naufrage-le-plus-meurtrier-de-la-manche-jai-limpression-quune-partie-de-moi-a-disparu-au-fond-des-vagues-20260923_4VANQVVSTZEXZOCS6TWGUN5XCQ/",
-      "image": null,
-      "date": "2026-09-23T13:15:34+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Chez l’avocatier, la reproduction est chronométrée",
       "desc": "La plante échappe à l’autopollinisation avec un développement asynchrone des organes mâles et femelles de ses fleurs. Le gène à l’origine de ce phénomène pourrait permettre de déterminer le type des avocatiers avant leur plantation, se réjouit Alice Lebreton dans sa Carte blanche au « Monde ».",
       "url": "https://www.lemonde.fr/sciences/article/2026/09/23/chez-l-avocatier-la-reproduction-est-chronometree_6780883_1650684.html",
@@ -51,16 +61,6 @@
       "date_formatted": "23 September 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "L’Allemagne est-elle vraiment championne des arrêts maladie en Europe, loin devant la France, comme l’affirme Mélenchon ?",
-      "desc": "Le leader de LFI a relayé, dans un tweet, un classement OCDE des pays selon le nombre moyen d’arrêts de travail par an pris par les salariés, où l’Hexagone apparaît derrière nos voisins d’outre-Rhin.",
-      "url": "https://www.liberation.fr/checknews/lallemagne-est-elle-vraiment-championne-des-arrets-maladie-en-europe-loin-devant-la-france-comme-laffirme-melenchon-20260923_REPJ65WSZREYLLDNAWFZK5USXU/",
-      "image": null,
-      "date": "2026-09-23T11:09:13+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Mort d’Arnaud Denis : Qu’est-ce que l’encéphalite myalgique, dont souffrait le comédien ?",
@@ -459,16 +459,6 @@
       "image": "https://img.lemde.fr/2026/09/15/160/0/1920/960/644/322/60/0/7d1da75_upload-1-qgdzrxaldsa7-generated-1789456031225.jpg",
       "date": "2026-09-15T07:00:04+00:00",
       "date_formatted": "15 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Arrêts maladie : des médecins s’inquiètent pour leurs patients du durcissement des règles",
-      "desc": "Des généralistes alertent sur les effets à « double tranchant » du plafonnement à un mois de la durée de première prescription, en vigueur depuis le 1ᵉʳ septembre, dans un contexte de hausse des arrêts de travail. Ils insistent sur l’importance d’une prescription par les médecins « au cas par cas ».",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/14/arrets-maladie-des-medecins-s-inquietent-pour-leurs-patients-du-durcissement-des-regles_6773359_3224.html",
-      "image": "https://img.lemde.fr/2026/09/13/173/0/4252/2126/644/322/60/0/b3d5cf8_upload-1-jyh6dsfhnffq-le-monde.jpg",
-      "date": "2026-09-14T06:15:01+00:00",
-      "date_formatted": "14 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
