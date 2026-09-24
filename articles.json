@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-24T16:01:25.150059+00:00",
-  "count": 64,
+  "generated_at": "2026-09-24T20:51:52.535170+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "Val-de-Marne : l’enfant de 7 ans soupçonné d’avoir mortellement poignardé sa tante peut-il être jugé ?",
+      "desc": "Le petit garçon, qui aurait donné plusieurs coups de couteau lors d’une dispute entre sa mère et sa tante, pourrait notamment être placé à l’ASE. Une instruction judiciaire pour meurtre a été ouverte mardi 22 septembre.",
+      "url": "https://www.liberation.fr/societe/val-de-marne-lenfant-de-7-ans-qui-a-poignarde-sa-tante-peut-il-etre-juge-20260924_WFYA63LEC5HBVAHMCRH6VWU5OA/",
+      "image": null,
+      "date": "2026-09-24T19:34:57+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Le retour du Covid",
       "desc": "Le Covid est de retour, il devient un virus saisonnier tout comme la grippe. Les gestes barrières sont recommandés et la campagne vaccinale annuelle va commencer le 13 octobre, près de 20 millions de Français sont concernés.",
@@ -33,16 +43,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort de Quentin Deranque à Lyon : cinq nouvelles mises en examen",
-      "desc": "Les personnes arrêtées mardi dans le cadre de l’enquête sur le meurtre en février du militant d’extrême droite sont «soupçonnées d’avoir participé aux rixes, aux diverses violences du jour, mais pas d’avoir porté les coups mortels», a-t-on appris ce jeudi 24 septembre.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-de-quentin-deranque-a-lyon-huit-nouvelles-interpellations-20260924_DX4SS34QHZE4VNAJLCFDPZTVK4/",
-      "image": null,
-      "date": "2026-09-24T15:38:24+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "« L’année 2026 marque un tournant » : le virus du Nil occidental étend sa présence à un rythme inédit en France",
       "desc": "La circulation du virus du Nil occidental, ou West Nile, bat des records cette année, non seulement les cas humains ont explosé, mais sa présence s'est étendue sur de nouveaux territoires métropolitains, de même qu'en Europe. Quelles sont les causes de cette hausse : climat, mutation du virus ou...",
       "url": "https://www.futura-sciences.com/sante/actualites/virus-annee-2026-marque-tournant-virus-nil-occidental-etend-presence-rythme-inedit-france-137964/#xtor%3DRSS-8",
@@ -51,16 +51,6 @@
       "date_formatted": "24 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Bicentenaire de la photographie : les 10 expos à ne pas rater en cette rentrée",
-      "desc": "Irving Penn, Laurence Aëgerter, une balade à Marseille ou au milieu des gratte-ciels de la Défense… «Libé» vous guide parmi les incontournables rendez-vous de ces prochains mois, avec dix expos ou festivals pour en prendre plein la vue.",
-      "url": "https://www.liberation.fr/culture/photographie/bicentenaire-de-la-photographie-les-dix-expos-a-ne-pas-rater-en-cette-rentree-20260924_HDTNFNCZV5B4BP5XB3NYKONRKI/",
-      "image": null,
-      "date": "2026-09-24T13:14:02+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Virus du Nil occidental : Près de 120 cas autochtones en France depuis mai, record en vue",
