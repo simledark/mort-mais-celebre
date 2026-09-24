@@ -1,15 +1,85 @@
 {
-  "generated_at": "2026-09-24T10:38:47.988197+00:00",
-  "count": 60,
+  "generated_at": "2026-09-24T16:01:25.150059+00:00",
+  "count": 64,
   "articles": [
     {
-      "title": "Affaire Thélyson Orélien : admettons que prompter c’est écrire",
-      "desc": "La polémique relative à «C’était ça ou mourir» exprime le refus catégorique d’admettre que l’IA puisse être créative et co-auteure d’un texte. L’accepter, c’est entrer dans un monde nouveau, fait valoir l’essayiste Antoine Buéno.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/affaire-thelyson-orelien-admettons-que-prompter-cest-ecrire-20260924_GHZAKKATCFGP7J772YLO7USOOA/",
+      "title": "Le retour du Covid",
+      "desc": "Le Covid est de retour, il devient un virus saisonnier tout comme la grippe. Les gestes barrières sont recommandés et la campagne vaccinale annuelle va commencer le 13 octobre, près de 20 millions de Français sont concernés.",
+      "url": "https://www.franceinfo.fr/sante/le-retour-du-covid_8208143.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/LCvcoP_MaO2G1a9S2ruE_HaEPLQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/24/6ab5325575bfd122633352.jpg",
+      "date": "2026-09-24T17:00:02+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Santé : des pharmaciens plaident pour augmenter l'offre de médicaments en vente libre, avec 33 nouvelles références",
+      "desc": "Des pharmaciens proposent d'élargir la liste des médicaments délivrés sans ordonnance, en ajoutant 33 nouvelles références, afin de freiner les dépenses de l’Assurance maladie.",
+      "url": "https://www.franceinfo.fr/sante/33-nouvelles-references-des-pharmaciens-plaident-pour-augmenter-l-offre-de-medicaments-en-vente-libre_8208104.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/WUpBR7Czlx_UnuU9UMdlawhj2Yo/0x110:1053x703/432x243/filters:format(jpg)/2026/09/24/6ab52fb6dd72d533529638.jpg",
+      "date": "2026-09-24T16:42:44+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"On manque énormément d'AESH\", témoigne une enseignante de l'école d'Evry, où un élève handicapé a frappé son institutrice",
+      "desc": "En Essonne, la commune d'Évry-Courcouronnes est encore sous le choc. Une enseignante a été violemment agressée et menacée de mort par un élève de 8 ans pendant la récréation le 11 septembre. En situation de handicap, le petit garçon souffrirait de troubles psychologiques sévères.",
+      "url": "https://www.franceinfo.fr/faits-divers/c-est-vrai-qu-on-manque-enormement-d-aesh-des-professeurs-de-l-ecole-ou-un-eleve-handicape-de-huit-ans-a-agresse-son-enseignante-se-confient_8207945.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/qPVFqiezLO5vqPx2KB4A5njFEqw/0x11:1099x629/432x243/filters:format(jpg)/2026/09/24/6ab50dd1b2de1097034634.jpg",
+      "date": "2026-09-24T16:27:33+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Quentin Deranque à Lyon : cinq nouvelles mises en examen",
+      "desc": "Les personnes arrêtées mardi dans le cadre de l’enquête sur le meurtre en février du militant d’extrême droite sont «soupçonnées d’avoir participé aux rixes, aux diverses violences du jour, mais pas d’avoir porté les coups mortels», a-t-on appris ce jeudi 24 septembre.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-de-quentin-deranque-a-lyon-huit-nouvelles-interpellations-20260924_DX4SS34QHZE4VNAJLCFDPZTVK4/",
       "image": null,
-      "date": "2026-09-24T09:28:34+00:00",
+      "date": "2026-09-24T15:38:24+00:00",
       "date_formatted": "24 September 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« L’année 2026 marque un tournant » : le virus du Nil occidental étend sa présence à un rythme inédit en France",
+      "desc": "La circulation du virus du Nil occidental, ou West Nile, bat des records cette année, non seulement les cas humains ont explosé, mais sa présence s'est étendue sur de nouveaux territoires métropolitains, de même qu'en Europe. Quelles sont les causes de cette hausse : climat, mutation du virus ou...",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-annee-2026-marque-tournant-virus-nil-occidental-etend-presence-rythme-inedit-france-137964/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/3/8/2389cc8160_50261175_virus-nile-west.jpg",
+      "date": "2026-09-24T14:39:21+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Bicentenaire de la photographie : les 10 expos à ne pas rater en cette rentrée",
+      "desc": "Irving Penn, Laurence Aëgerter, une balade à Marseille ou au milieu des gratte-ciels de la Défense… «Libé» vous guide parmi les incontournables rendez-vous de ces prochains mois, avec dix expos ou festivals pour en prendre plein la vue.",
+      "url": "https://www.liberation.fr/culture/photographie/bicentenaire-de-la-photographie-les-dix-expos-a-ne-pas-rater-en-cette-rentree-20260924_HDTNFNCZV5B4BP5XB3NYKONRKI/",
+      "image": null,
+      "date": "2026-09-24T13:14:02+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Virus du Nil occidental : Près de 120 cas autochtones en France depuis mai, record en vue",
+      "desc": "Longtemps concentrée autour de l’arc méditerranéen, la circulation autochtone du virus du Nil occidental, transmis à l’homme par des moustiques, ne cesse de s’étendre sur le territoire",
+      "url": "https://www.20minutes.fr/sante/4248387-20260924-virus-nil-occidental-pres-120-cas-autochtones-france-depuis-mai-record-vue?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/9z7s5PP2RQigYYGn_fas7Sk/1200x768_un-moustique-en-particulier-un-moustique-tigre-asiatique-atterrit-sur-une-feuille-dans-un-jardin-de-campagne-a-sangju-en-coree-du-sud-le-8-juin-2026-photo-de-seung-il-ryu-nur-photo-photo-de-seung-il-ryu-nur-photo-via-afp",
+      "date": "2026-09-24T13:09:23+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Le virus n’a pas disparu »… Faut-il s’inquiéter de la légère reprise de Covid-19 ?",
+      "desc": "Le Covid-19 est bien de retour, selon des données publiées, mercredi, par Santé publique France. Sa présence est de plus en plus détectée dans les eaux usées",
+      "url": "https://www.20minutes.fr/sante/4248317-20260924-virus-disparu-faut-inquieter-legere-reprise-covid-19?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/p1ugEoR-RpqTYjy7mSTIEyk/1200x768_francia-montaigu-vendee-07-01-2023-une-femme-effectue-un-autotest-de-depistage-de-la-covid-a-son-domicile-illustration-sur-la-covid-19-photographie-de-mathieu-thomasset-hans-lucas-francia-montaigu-vendee-07-01-2023-une-femme-realise-un-autotest-de-detection-du-covid-a-la-maison-illustration-sur-la-covid-19-fotografie-mathieu-thomasset-hans-lucas-photo-de-mathieu-thomasset-hans-lucas-via-afp",
+      "date": "2026-09-24T11:59:18+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -51,26 +121,6 @@
       "date_formatted": "24 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Porte-avions Abraham Lincoln : le gouvernement américain reconnaît huit tentatives de suicide",
-      "desc": "Le déploiement du navire, mobilisé au Moyen-Orient pour la guerre en Iran pendant dix mois entre novembre 2025 et septembre 2026, avait été particulièrement difficile pour les marins dont les familles ont dénoncé en août les conditions de vie à bord.",
-      "url": "https://www.liberation.fr/international/amerique/porte-avions-abraham-lincoln-le-gouvernement-americain-reconnait-huit-tentatives-de-suicide-20260924_7EFUKLSXBJFLHL5RMXN6AQ3EDA/",
-      "image": null,
-      "date": "2026-09-24T06:26:58+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Neuf morts en Ukraine après une série de frappes russes, Volodymyr Zelensky dénonce la «folie» meurtrière de Poutine devant l’ONU",
-      "desc": "Alors que le président ukrainien rencontrait à New York des membres du Congrès américain pour leur demander de renforcer les sanctions contre Moscou, la Russie a violemment attaqué ce jeudi la capitale ukrainienne avec une vingtaine de missiles balistiques.",
-      "url": "https://www.liberation.fr/international/europe/deux-morts-a-kyiv-apres-une-serie-de-frappes-russes-volodymyr-zelensky-denonce-la-folie-meurtriere-de-poutine-devant-lonu-20260924_JW5OCVOHJJGO3GRRD3XNIMBYZA/",
-      "image": null,
-      "date": "2026-09-24T05:40:15+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "\"Ecouter les préoccupations des patients et de leurs familles\" : qu'est-ce que la \"Martha's rule\", qui se généralise dans les hôpitaux anglais ?",
@@ -310,16 +360,6 @@
       "date": "2026-09-19T11:56:25+00:00",
       "date_formatted": "19 September 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Vieillir moins vite grâce à son alimentation ? Une vaste étude répond oui et révèle les régimes à privilégier",
-      "desc": "Et si le contenu de votre assiette laissait une empreinte bien plus profonde qu’on ne l’imagine ? Des chercheurs allemands ont passé au crible l’alimentation de plusieurs milliers de personnes ainsi que les marques laissées sur l’ADN de leurs cellules. Les résultats apportent un nouvel éclairage...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-moins-vite-grace-son-alimentation-vaste-etude-repond-oui-revele-regimes-privilegier-137820/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/1/1/e1128cd20c_50260949_regime-longevite.jpg",
-      "date": "2026-09-19T10:27:20+00:00",
-      "date_formatted": "19 September 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
