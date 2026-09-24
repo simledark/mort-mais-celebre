@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-09-24T01:55:03.647665+00:00",
-  "count": 58,
+  "generated_at": "2026-09-24T10:38:47.988197+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Affaire Thélyson Orélien : admettons que prompter c’est écrire",
+      "desc": "La polémique relative à «C’était ça ou mourir» exprime le refus catégorique d’admettre que l’IA puisse être créative et co-auteure d’un texte. L’accepter, c’est entrer dans un monde nouveau, fait valoir l’essayiste Antoine Buéno.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/affaire-thelyson-orelien-admettons-que-prompter-cest-ecrire-20260924_GHZAKKATCFGP7J772YLO7USOOA/",
+      "image": null,
+      "date": "2026-09-24T09:28:34+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Condom : Atteinte de la maladie de Charcot, elle marche vers Compostelle pour soutenir la recherche",
+      "desc": "À 45 ans, Soline Wenger parcourt le chemin de Saint-Jacques-de-Compostelle avec un exosquelette et collecte des fonds pour l’ARSLA, raconte « La Dépêche »",
+      "url": "https://www.20minutes.fr/societe/4248294-20260924-condom-atteinte-maladie-charcot-marche-vers-compostelle-soutenir-recherche?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/oqMT60YcQuyxu_yafN-UySk/1200x768_baliseur-avec-symbole-en-forme-de-coquille-saint-jacques-jaune-sur-le-camino-de-santiago-ou-chemin-de-saint-jacques-et-pelerins-marchant-entre-sarria-et-portomarin-en-galice-en-espagne-le-chemin-de-pelerinage-se-termine-a-saint-jacques-de-compostelle-lieu-de-sepulture-de-saint-jacques-le-grand-les-itineraires-de-pelerinage-du-camino-frances-et-du-nord-de-l-espagne-sont-classes-au-patrimoine-mondial-de-l-unesco-photo-de-manuel-cohen-photo-de-manuel-cohen-via-afp",
+      "date": "2026-09-24T09:25:47+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "PODCAST. Un virus de retour, des sportifs attaqués et des phrases qu'on ne peut plus dire : ça dit quoi ce 24 septembre ?",
+      "desc": "Ce jeudi 24 septembre, le virus du Covid circule de nouveau, le parquet de Paris ouvre une enquête face aux messages reçus par le judoka Teddy Riner et l'utilisation de l'expression \"le travail rend libre\" par un député RN ne passe pas.",
+      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/un-virus-de-retour-des-sportifs-attaques-et-des-phrases-qu-on-ne-peut-plus-dire-ca-dit-quoi-ce-24-septembre_8198105.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/YJlACeOl_7BweR2OnpsAwFoSW5M/432x243/filters:format(jpg)/2026/09/18/6aada672b901d827222214.jpg",
+      "date": "2026-09-24T09:01:53+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Après la mort d’Arnaud Denis, l’alerte des victimes d’implants en polypropylène",
+      "desc": "Au lendemain de la mort par euthanasie du comédien Arnaud Denis, qui souffrait de graves complications après la pose d’un implant anti-hernie en polypropylène, des associations de victimes ont interpellé les responsables politiques. Elles alertent sur les douleurs chroniques et parfois profondément ",
+      "url": "https://www.sciencesetavenir.fr/sante/implants-vaginaux-les-victimes-interpellent-les-politiques-sur-leurs-souffrances_195056?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/24/cover-r4x3w1200-6ab4dac1ec769-afp-20260923-c96y8g3-v1-highres-filesfranceartsdenisobit.jpg",
+      "date": "2026-09-24T08:28:45+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Alzheimer précoce : cette boisson très courante pourrait accélérer le vieillissement de votre cerveau",
+      "desc": "Une nouvelle étude révèle les effets néfastes d'une boisson populaire sur notre santé cognitive. Les chercheurs mettent en garde contre sa consommation excessive, qui pourrait accélérer le déclin cérébral. Découvrez les résultats alarmants de cette recherche et les recommandations des experts...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-precoce-cette-boisson-tres-courante-pourrait-accelerer-vieillissement-votre-cerveau-w2t8-137934/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/d/2/8d2b79d425_50261109_boisson-alzheimer-precoce.jpg",
+      "date": "2026-09-24T08:00:00+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Porte-avions Abraham Lincoln : le gouvernement américain reconnaît huit tentatives de suicide",
+      "desc": "Le déploiement du navire, mobilisé au Moyen-Orient pour la guerre en Iran pendant dix mois entre novembre 2025 et septembre 2026, avait été particulièrement difficile pour les marins dont les familles ont dénoncé en août les conditions de vie à bord.",
+      "url": "https://www.liberation.fr/international/amerique/porte-avions-abraham-lincoln-le-gouvernement-americain-reconnait-huit-tentatives-de-suicide-20260924_7EFUKLSXBJFLHL5RMXN6AQ3EDA/",
+      "image": null,
+      "date": "2026-09-24T06:26:58+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Neuf morts en Ukraine après une série de frappes russes, Volodymyr Zelensky dénonce la «folie» meurtrière de Poutine devant l’ONU",
+      "desc": "Alors que le président ukrainien rencontrait à New York des membres du Congrès américain pour leur demander de renforcer les sanctions contre Moscou, la Russie a violemment attaqué ce jeudi la capitale ukrainienne avec une vingtaine de missiles balistiques.",
+      "url": "https://www.liberation.fr/international/europe/deux-morts-a-kyiv-apres-une-serie-de-frappes-russes-volodymyr-zelensky-denonce-la-folie-meurtriere-de-poutine-devant-lonu-20260924_JW5OCVOHJJGO3GRRD3XNIMBYZA/",
+      "image": null,
+      "date": "2026-09-24T05:40:15+00:00",
+      "date_formatted": "24 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"Ecouter les préoccupations des patients et de leurs familles\" : qu'est-ce que la \"Martha's rule\", qui se généralise dans les hôpitaux anglais ?",
       "desc": "Après la mort à l'hôpital de Martha Mills, une jeune fille de 13 ans, à cause d'une mauvaise prise en charge en 2021, l'Angleterre se dote d'un dispositif pour prévenir les erreurs de diagnostic et répondre aux inquiétudes des patients.",
@@ -13,24 +83,14 @@
       "type": "presse"
     },
     {
-      "title": "Le nombre d’IVG a continué sa hausse en 2025, les causes nous poussent à nous interroger",
-      "desc": "Selon les chiffres de la Direction de la recherche, des études, de l’évaluation et des statistiques publiés mardi 22 septembre, 259 416 interruptions volontaires de grossesse ont été comptabilisées en 2025, soit 7 219 de plus qu’en 2024. Cette évolution concerne toutes les classes d’âges entre 15 et",
+      "title": "Le nombre d’IVG a continué sa hausse en 2025, les causes interrogent",
+      "desc": "Cette évolution concerne toutes les classes d’âges entre 15 et 49 ans et est portée par les IVG médicamenteuses, réalisées pour la plupart hors établissement de santé.",
       "url": "https://www.lemonde.fr/societe/article/2026/09/23/le-nombre-d-ivg-a-continue-sa-hausse-en-2025-les-causes-interrogent_6780946_3224.html",
       "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/01ace25_upload-1-vi9wn7jjpuqo-frame-468.jpg",
       "date": "2026-09-23T18:55:10+00:00",
       "date_formatted": "23 September 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Dans la mort de la nièce d’Adolf Hitler, l’alibi du führer vole en éclat",
-      "desc": "L’hebdomadaire allemand «Der Spiegel» révèle des documents inédits qui mettent en cause la version du dictateur allemand autour de la mort suspecte de sa nièce, Geli Raubal, survenue en 1931.",
-      "url": "https://www.liberation.fr/international/europe/dans-la-mort-de-la-niece-dadolf-hitler-lalibi-du-fuhrer-vole-en-eclat-20260923_52D53CB5MNGRRJPDK6Q57YDQEA/",
-      "image": null,
-      "date": "2026-09-23T18:18:51+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Santé publique France constate une légère augmentation des cas de Covid-19 au niveau national depuis la rentrée",
@@ -57,7 +117,7 @@
       "desc": "La plante échappe à l’autopollinisation avec un développement asynchrone des organes mâles et femelles de ses fleurs. Le gène à l’origine de ce phénomène pourrait permettre de déterminer le type des avocatiers avant leur plantation, se réjouit Alice Lebreton dans sa Carte blanche au « Monde ».",
       "url": "https://www.lemonde.fr/sciences/article/2026/09/23/chez-l-avocatier-la-reproduction-est-chronometree_6780883_1650684.html",
       "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
-      "date": "2026-09-23T12:00:10+00:00",
+      "date": "2026-09-23T12:00:03+00:00",
       "date_formatted": "23 September 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -90,26 +150,6 @@
       "date": "2026-09-23T06:32:37+00:00",
       "date_formatted": "23 September 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Arnaud Denis : invalide à 43 ans, il choisit l'euthanasie",
-      "desc": "Le comédien Arnaud Denis, 43 ans, a eu recours, mardi 22 septembre, à l’euthanasie en Belgique. Depuis la pose d’un implant anti-hernie en 2023, il souffrait de douleurs devenues insupportables. Son cas est loin d’être le seul. Des centaines de patients signalent eux aussi des complications.",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/arnaud-denis-invalide-a-43-ans-il-choisit-l-euthanasie_8205191.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/14vFyeIrK1Do5Bn_WJnHtt957GY/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/22/6ab2d2af943a8722560374.jpg",
-      "date": "2026-09-22T21:17:08+00:00",
-      "date_formatted": "22 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Je rends les armes\" : le comédien Arnaud Denis euthanasié en Belgique",
-      "desc": "Arnaud Denis, comédien et metteur en scène de 43 ans, est mort ce mardi, euthanasié en Belgique, entouré de ses proches. Depuis 2023 et une pose de prothèse de hernie, il fédérait autour de lui des milliers de patients en souffrance et alertait sur les risques de cette opération.",
-      "url": "https://www.franceinfo.fr/enquetes-franceinfo/je-rends-les-armes-le-comedien-arnaud-denis-euthanasie-en-belgique_8204882.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/UJDvvoPzNs0h2_GyxzV6jNbEFr4/0x0:1889x1063/432x243/filters:format(jpg)/2026/09/22/6ab29c716588f801116069.jpg",
-      "date": "2026-09-22T19:10:05+00:00",
-      "date_formatted": "22 September 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -150,16 +190,6 @@
       "date": "2026-09-22T10:55:33+00:00",
       "date_formatted": "22 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le PPS à la place du certificat médical est-il trop léger pour participer à un semi ou un marathon ?",
-      "desc": "Un coureur de 55 ans est mort lors d’un semi-marathon dans le Morbihan. Un décès qui relance le débat sur le PPS, qui remplace le certificat médical depuis 2024 pour participer à une compétition. Le cardiologue François Carré répond à « 20 Minutes »",
-      "url": "https://www.20minutes.fr/sport/4246572-20260922-pps-place-certificat-medical-trop-leger-participer-semi-marathon?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/U0VWmi8YSH-lkPPYRHFCNik/1200x768_gros-plan-des-pieds-des-coureurs-en-mouvement-au-depart-du-marathon-de-paris-sur-les-champs-elysees-a-paris-ile-de-france-france-le-12-avril-2026-l-image-met-en-valeur-des-chaussures-de-course-colorees-et-des-foulees-synchronisees-alors-que-les-participants-accelerent-au-debut-de-la-course-vue-rapprochee-des-pieds-de-coureurs-en-mouvement-au-depart-du-marathon-de-paris-sur-les-champs-elysees-a-paris-ile-de-france-france-le-12-avril-2026-l-image-met-en-valeur-les-chaussures-de-course-colorees-et-les-foulees-synchronisees-des-participants-accelerant-au-debut-de-la-course-photo-de-fayal-elkechai-hans-lucas-via-afp",
-      "date": "2026-09-22T06:02:36+00:00",
-      "date_formatted": "22 September 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -289,16 +319,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/1/1/e1128cd20c_50260949_regime-longevite.jpg",
       "date": "2026-09-19T10:27:20+00:00",
       "date_formatted": "19 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Mouchoirs en tissu : cette température de lavage change tout pour votre hygiène",
-      "desc": "Vos mouchoirs en tissu ressortent de la machine impeccables… mais toujours chargés de virus ?! C'est très probable. La température de lavage est le facteur décisif que la plupart des gens ignorent. Un simple réglage à 60 °C change tout.",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-mouchoirs-tissu-cette-temperature-lavage-change-tout-votre-hygiene-k2m6-137808/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/1/4/614bd07d47_50260850_mouchoirs-virus-lavage.jpg",
-      "date": "2026-09-18T18:00:00+00:00",
-      "date_formatted": "18 September 2026",
       "source": "Futura Santé",
       "type": "science"
     },
