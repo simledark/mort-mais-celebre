@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-25T10:42:28.338786+00:00",
-  "count": 64,
+  "generated_at": "2026-09-25T16:01:58.900088+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Jay McInerney, dernier tour de piste des Calloway",
+      "desc": "Avec «Rendez-vous sur l’autre rive», le couple de New-Yorkais du romancier américain, revient downtown. Entre club de riches amateurs de vins et pas de côté conjugal avec une amatrice de coke, le mari s’adapte au ralenti de son âge dans une ville qui ne cesse d’accélérer. Sa femme a d’autres soucis.",
+      "url": "https://www.liberation.fr/culture/livres/jay-mcinerney-dernier-tour-de-piste-des-calloway-20260927_R4MPKHYOKZEKFP2HGCF4OMZWQI/",
+      "image": null,
+      "date": "2026-09-25T15:51:00+00:00",
+      "date_formatted": "25 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Gaza : la résolution du conflit totalement «dans l’impasse»",
+      "desc": "Malgré les appels de plusieurs dirigeants internationaux, aucune prémisse de solution ne se dessine pour la résolution du conflit. Le plan Trump, annoncé en grande pompe il y a un an, semble toujours au point mort.",
+      "url": "https://www.liberation.fr/international/moyen-orient/gaza-la-resolution-du-conflit-totalement-dans-limpasse-20260925_KIBUHOMELNBDFCUUVG5G6AJ4Y4/",
+      "image": null,
+      "date": "2026-09-25T15:21:57+00:00",
+      "date_formatted": "25 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "La Contrôleuse générale des lieux de privation de liberté dénonce le manque de transparence au sujet des morts en prison et dans les hôpitaux psychiatriques",
       "desc": "Le nombre exact de personnes mortes dans ces lieux \"n'est ni complètement connu, ni rendu public\", \"faute de traçabilité et de remontée adéquates des informations\", pointe Dominique Simonnot.",
@@ -13,16 +33,6 @@
       "type": "presse"
     },
     {
-      "title": "Rentrée théâtre : les émois d’outre-tombe",
-      "desc": "Imprégnés de spiritisme, de philosophie ou d’histoire, nombre de spectacles convoquent les morts et les fantômes. Et interrogent leur place auprès des vivants.",
-      "url": "https://www.liberation.fr/culture/scenes/rentree-theatre-les-emois-doutre-tombe-20260925_YMTPW4C6MFF5RN6DBQSD4DE52I/",
-      "image": null,
-      "date": "2026-09-25T08:54:33+00:00",
-      "date_formatted": "25 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Et si la clé pour ralentir Alzheimer se trouvait dans votre intestin ?",
       "desc": "Une nouvelle étude suggère qu’il suffirait de favoriser la production, par les bactéries du microbiote, d’un composé issu de la fermentation des fibres alimentaires pour réduire les manifestations de la maladie d’Alzheimer.",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-cle-ralentir-alzheimer-trouvait-votre-intestin-w2t8-137974/#xtor%3DRSS-8",
@@ -31,16 +41,6 @@
       "date_formatted": "25 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Gaza : deux soldats israéliens tués après l’explosion accidentelle d’un drone de l’armée israélienne",
-      "desc": "Les deux hommes d’une vingtaine d’années sont morts jeudi, après s’être «approchés de l’appareil», selon un responsable militaire.",
-      "url": "https://www.liberation.fr/international/moyen-orient/gaza-deux-soldats-israeliens-tues-apres-lexplosion-accidentelle-dun-drone-de-larmee-israelienne-20260925_GKGTFBPD5FAK5I3LPIX7QQRBZI/",
-      "image": null,
-      "date": "2026-09-25T07:42:59+00:00",
-      "date_formatted": "25 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Le retour du Covid",
@@ -143,16 +143,6 @@
       "type": "science"
     },
     {
-      "title": "\"Ecouter les préoccupations des patients et de leurs familles\" : qu'est-ce que la \"Martha's rule\", qui se généralise dans les hôpitaux anglais ?",
-      "desc": "Après la mort à l'hôpital de Martha Mills, une jeune fille de 13 ans, à cause d'une mauvaise prise en charge en 2021, l'Angleterre se dote d'un dispositif pour prévenir les erreurs de diagnostic et répondre aux inquiétudes des patients.",
-      "url": "https://www.franceinfo.fr/monde/royaume-uni/insistez-pour-obtenir-un-deuxieme-voire-un-troisieme-avis-medical-qu-est-ce-que-la-martha-s-rule-qui-se-generalise-dans-les-hopitaux-anglais_8201825.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cQuVk29UoJjf9gK7Rf4nz5Otqxw/0x46:1024x622/432x243/filters:format(jpg)/2026/09/22/6ab288576b9ad115226340.jpg",
-      "date": "2026-09-23T22:59:09+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Le nombre d’IVG a continué sa hausse en 2025, les causes interrogent",
       "desc": "Cette évolution concerne toutes les classes d’âges entre 15 et 49 ans et est portée par les IVG médicamenteuses, réalisées pour la plupart hors établissement de santé.",
       "url": "https://www.lemonde.fr/societe/article/2026/09/23/le-nombre-d-ivg-a-continue-sa-hausse-en-2025-les-causes-interrogent_6780946_3224.html",
@@ -161,16 +151,6 @@
       "date_formatted": "23 September 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Santé publique France constate une légère augmentation des cas de Covid-19 au niveau national depuis la rentrée",
-      "desc": "Les cas de Covid-19 sont en légère augmentation en France depuis la rentrée d'après Santé Publique France, annonce franceinfo mercredi. Cette reprise de la circulation du virus reste inférieure à celle des quatre années précédentes à la même période.",
-      "url": "https://www.franceinfo.fr/sante/maladie/coronavirus/sante-publique-france-constate-une-legere-augmentation-des-cas-de-covid-19-au-niveau-national-depuis-la-rentree_8206682.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cAk8CAP4c5_1BdB5dzXeIb6G4Lg/0x0:3000x1687/432x243/filters:format(jpg)/2026/09/23/6ab3f1fa10efc517458344.jpg",
-      "date": "2026-09-23T17:39:25+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Quatre semaines ont suffi pour faire reculer leur âge biologique de près de 4 ans : voici ce qu’ils ont mangé",
@@ -213,16 +193,6 @@
       "type": "science"
     },
     {
-      "title": "Un jeu vidéo remboursé par l’Assurance Maladie ? Poppins Clinical, une thérapie numérique pour les enfants dyslexiques",
-      "desc": "« Poppins Clinical » est une application conçue pour aider les enfants dyslexiques de 7 à 11 ans à améliorer leur capacité de lecture et d’écriture",
-      "url": "https://www.20minutes.fr/gaming/jeux_video/4247698-20260923-jeu-video-rembourse-assurance-maladie-poppins-clinical-therapie-numerique-enfants-dyslexiques?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/zsvotkz3Sa2htyPhfRpqQCk/1200x768_poppins-est-un-jeu-video-concu-pour-accompagner-les-enfants-dyslexiques-de-7-a-11-ans",
-      "date": "2026-09-23T06:32:37+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Arnaud Denis, comédien et metteur en scène au bout de la douleur, mort par euthanasie",
       "desc": "Après la pose d’une prothèse anti-hernie que son organisme n’avait pas tolérée, l’état de santé de l’acteur n’avait cessé de se dégrader. Il est mort le 22 septembre à 43 ans.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/09/22/mort-d-arnaud-denis-comedien-et-metteur-en-scene-au-bout-de-la-douleur-mort-par-euthanasie_6780259_3382.html",
@@ -240,16 +210,6 @@
       "date": "2026-09-22T15:28:25+00:00",
       "date_formatted": "22 September 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le comédien et metteur en scène Arnaud Denis s’est fait euthanasier en Belgique",
-      "desc": "Le comédien et metteur en scène français Arnaud Denis s’est fait euthanasier en Belgique",
-      "url": "https://www.20minutes.fr/arts-stars/people/4247760-20260922-comedien-metteur-scene-arnaud-denis-fait-euthanasier-belgique?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/czWsHsfKRPynNX3u6LxSMyk/1200x768_les-acteurs-francais-arnaud-denis-et-marilyne-fontaine-se-produisent-lors-d-une-repetition-de-la-piece-l-importance-d-etre-serieux-basee-sur-un-roman-de-l-ecrivain-irlandais-oscar-wilde-mise-en-scene-par-gilbert-desveaux-le-11-janvier-2013-au-theatre-grammont-de-montpellier-dans-le-sud-de-la-france-photo-afp-pascal-guyot-photo-de-pascal-guyot-afp",
-      "date": "2026-09-22T12:41:06+00:00",
-      "date_formatted": "22 September 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
