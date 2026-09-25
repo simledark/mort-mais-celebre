@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-09-25T02:11:43.446289+00:00",
-  "count": 63,
+  "generated_at": "2026-09-25T10:42:28.338786+00:00",
+  "count": 64,
   "articles": [
     {
-      "title": "Val-de-Marne : l’enfant de 7 ans soupçonné d’avoir mortellement poignardé sa tante peut-il être jugé ?",
-      "desc": "Le petit garçon, qui aurait donné plusieurs coups de couteau lors d’une dispute entre sa mère et sa tante, pourrait notamment être placé à l’ASE. Une instruction judiciaire pour meurtre a été ouverte mardi 22 septembre.",
-      "url": "https://www.liberation.fr/societe/val-de-marne-lenfant-de-7-ans-qui-a-poignarde-sa-tante-peut-il-etre-juge-20260924_WFYA63LEC5HBVAHMCRH6VWU5OA/",
+      "title": "La Contrôleuse générale des lieux de privation de liberté dénonce le manque de transparence au sujet des morts en prison et dans les hôpitaux psychiatriques",
+      "desc": "Le nombre exact de personnes mortes dans ces lieux \"n'est ni complètement connu, ni rendu public\", \"faute de traçabilité et de remontée adéquates des informations\", pointe Dominique Simonnot.",
+      "url": "https://www.franceinfo.fr/societe/prisons/la-controleuse-generale-des-lieux-de-privation-de-liberte-denonce-le-manque-de-transparence-au-sujet-des-morts-en-prison-et-dans-les-hopitaux-psychiatriques_8209247.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/DkitSD62CEZcP53b6eCOne1I9Q4/0x0:1024x576/432x243/filters:format(jpg)/2026/09/25/6ab63ae11f8bf225463169.jpg",
+      "date": "2026-09-25T11:12:13+00:00",
+      "date_formatted": "25 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Rentrée théâtre : les émois d’outre-tombe",
+      "desc": "Imprégnés de spiritisme, de philosophie ou d’histoire, nombre de spectacles convoquent les morts et les fantômes. Et interrogent leur place auprès des vivants.",
+      "url": "https://www.liberation.fr/culture/scenes/rentree-theatre-les-emois-doutre-tombe-20260925_YMTPW4C6MFF5RN6DBQSD4DE52I/",
       "image": null,
-      "date": "2026-09-24T19:34:57+00:00",
-      "date_formatted": "24 September 2026",
+      "date": "2026-09-25T08:54:33+00:00",
+      "date_formatted": "25 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Et si la clé pour ralentir Alzheimer se trouvait dans votre intestin ?",
+      "desc": "Une nouvelle étude suggère qu’il suffirait de favoriser la production, par les bactéries du microbiote, d’un composé issu de la fermentation des fibres alimentaires pour réduire les manifestations de la maladie d’Alzheimer.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-cle-ralentir-alzheimer-trouvait-votre-intestin-w2t8-137974/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/c/e/ecefa43894_50261179_alzheimer-intestins.jpg",
+      "date": "2026-09-25T08:00:00+00:00",
+      "date_formatted": "25 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Gaza : deux soldats israéliens tués après l’explosion accidentelle d’un drone de l’armée israélienne",
+      "desc": "Les deux hommes d’une vingtaine d’années sont morts jeudi, après s’être «approchés de l’appareil», selon un responsable militaire.",
+      "url": "https://www.liberation.fr/international/moyen-orient/gaza-deux-soldats-israeliens-tues-apres-lexplosion-accidentelle-dun-drone-de-larmee-israelienne-20260925_GKGTFBPD5FAK5I3LPIX7QQRBZI/",
+      "image": null,
+      "date": "2026-09-25T07:42:59+00:00",
+      "date_formatted": "25 September 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -359,18 +389,8 @@
       "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
       "date": "2026-09-18T12:30:03+00:00",
       "date_formatted": "18 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Migraine : quand l’activité physique devient une alliée",
-      "desc": "« Dix mille pas et plus ». Redoutée par certains migraineux parce qu’elle peut déclencher une crise, l’activité physique contribuerait pourtant à réduire la fréquence et le retentissement des céphalées. Un sujet qui sera abordé samedi 19 septembre, lors du sommet francophone consacré à cette maladie",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/18/migraine-quand-l-activite-physique-devient-une-alliee_6776671_1650684.html",
-      "image": "https://img.lemde.fr/2026/09/18/578/0/6926/3463/644/322/60/0/7074088_upload-1-uddtu24b3j68-000-842w3bn.jpg",
-      "date": "2026-09-18T06:00:20+00:00",
-      "date_formatted": "18 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe depuis la pandémie de Covid-19, selon une étude",
@@ -501,16 +521,6 @@
       "date_formatted": "15 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "« Quand Alban est diagnostiqué d’une leucémie, la vie de toute sa famille bascule » : découvrez les extraits d’une BD sur le combat d’une toxicologue contre les cancers pédiatriques",
-      "desc": "Dans la bande dessinée « Pesticides, leurs ravages sur la santé des enfants », à paraître jeudi 17 septembre, les dessins de Marguerite Boutrolle racontent le travail de la toxicologue Laurence Huc et son engagement pour élucider les origines du cluster de cancers pédiatriques de Sainte-Pazanne (Loi",
-      "url": "https://www.lemonde.fr/livres/article/2026/09/15/quand-alban-est-diagnostique-d-une-leucemie-la-vie-de-toute-sa-famille-bascule-une-bd-raconte-le-combat-d-une-toxicologue-contre-les-cancers-pediatriques_6774339_3260.html",
-      "image": "https://img.lemde.fr/2026/09/15/160/0/1920/960/644/322/60/0/7d1da75_upload-1-qgdzrxaldsa7-generated-1789456031225.jpg",
-      "date": "2026-09-15T07:00:04+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Comment nos organes savent-ils distinguer leur droite de leur gauche ?",
