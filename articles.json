@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-26T10:25:11.311875+00:00",
-  "count": 61,
+  "generated_at": "2026-09-26T15:14:19.465016+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "Six bouchers mis en examen après des intoxications à l'E.coli qui avaient touché une trentaine de personnes et conduit à la mort d'une fillette dans l'Aisne en 2025",
+      "desc": "Cette vague d'intoxications alimentaires, avec 32 cas recensés au total, avait conduit à la fermeture préventive de six boucheries, les autorités soupçonnant une infection alimentaire liée à de la viande.",
+      "url": "https://www.franceinfo.fr/sante/alimentation/intoxications-alimentaires-a-la-bacterie-e-coli-dans-l-aisne/six-bouchers-mis-en-examen-apres-des-intoxications-a-l-e-coli-dans-l-aisne-en-2025-qui-avaient-touche-une-trentaine-de-personnes-et-conduit-a-la-mort-d-une-fillette_8210795.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/bylb9PAzdoixhrHYLwaywxix9-g/0x291:7907x4739/432x243/filters:format(jpg)/2026/09/26/6ab76fd634213325434577.jpg",
+      "date": "2026-09-26T13:47:36+00:00",
+      "date_formatted": "26 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La Russie adopte une nouvelle stratégie en bombardant les data centers et les services internet de Kyiv",
+      "desc": "Depuis plusieurs jours, des infrastructures numériques de la capitale ukrainienne sont méthodiquement ciblées par des attaques de drones, dont l’une a fait quatre morts vendredi 25 septembre. Mais le risque de paralyser les communications et l’économie du pays est limité.",
+      "url": "https://www.liberation.fr/international/europe/la-russie-adopte-une-nouvelle-strategie-en-bombardant-les-data-centers-et-les-services-internet-de-kyiv-20260926_2YCYLIT7NVFTVMEHOBBQCA44SI/",
+      "image": null,
+      "date": "2026-09-26T13:36:33+00:00",
+      "date_formatted": "26 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Le feu est un point zéro» : à Fontainebleau, la forêt tente de renaître de ses cendres",
+      "desc": "Après l’incendie de juillet qui a brûlé près de 2000 hectares dans le massif francilien, les forestiers évacuent les arbres morts qui risqueraient de chuter sur les promeneurs. Le paysage est calciné mais, ici et là, la vie revient déjà.",
+      "url": "https://www.liberation.fr/environnement/le-feu-est-un-point-zero-a-fontainebleau-la-foret-tente-de-renaitre-de-ses-cendres-20260926_4O6UT6DWSJH5LBAD4AAMNZVGFU/",
+      "image": null,
+      "date": "2026-09-26T12:05:53+00:00",
+      "date_formatted": "26 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Du diagnostic ultrarapide d’un infarctus au pronostic de rechute du cancer du sein, comment les entreprises françaises innovent dans les tests médicaux",
       "desc": "Le lancement du nouveau test du laboratoire BioMérieux pour diagnostiquer en quelques minutes un infarctus met en lumière le dynamisme de l’industrie française du diagnostic in vitro, qui produit des examens plus rapides, moins invasifs et capables d’en dire davantage.",
@@ -23,16 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Six bouchers mis en examen après des intoxications à l'E.coli dans l'Aisne en 2025 qui avaient touché une trentaine de personnes et conduit à la mort d'une fillette",
-      "desc": "Cette vague d'intoxications alimentaires, avec 32 cas recensés au total, avait conduit à la fermeture préventive de six boucheries, les autorités soupçonnant une infection alimentaire liée à de la viande.",
-      "url": "https://www.franceinfo.fr/sante/alimentation/intoxications-alimentaires-a-la-bacterie-e-coli-dans-l-aisne/six-bouchers-mis-en-examen-apres-des-intoxications-a-l-e-coli-dans-l-aisne-en-2025-qui-avaient-touche-une-trentaine-de-personnes-et-conduit-a-la-mort-d-une-fillette_8210795.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/bylb9PAzdoixhrHYLwaywxix9-g/0x291:7907x4739/432x243/filters:format(jpg)/2026/09/26/6ab76fd634213325434577.jpg",
-      "date": "2026-09-26T09:48:49+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Intoxications à la bactérie E. coli dans l’Aisne en 2025 : six bouchers mis en examen",
       "desc": "Les investigations du pôle santé publique du parquet de Paris ont aussi mené à l’identification d’une exploitation agricole, fermée depuis plusieurs mois, dans les environs de Saint-Quentin, où une vague d’intoxications alimentaires s’est répandue en juin 2025. Une fillette en était morte.",
       "url": "https://www.liberation.fr/societe/sante/intoxications-a-la-bacterie-e-coli-dans-laisne-en-2025-six-bouchers-mis-en-examen-20260926_DN2NXAOJLREQRFLB2KQPSGLXTU/",
@@ -51,36 +71,6 @@
       "date_formatted": "26 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Migraine chronique : les médicaments préventifs seront-ils un jour remboursés ?",
-      "desc": "Une association de patients, en lutte pour une meilleure prise en charge de la maladie neurologique, réclame un remboursement plus large de quatre antimigraineux. Alors que la Haute Autorité de santé réexamine le dossier, les industriels n’ont pour l’instant pas réussi à démontrer qu’ils étaient plu",
-      "url": "https://www.liberation.fr/societe/sante/migraine-chronique-les-medicaments-preventifs-seront-ils-un-jour-rembourses-20260926_JOWYAXLOPVBURPBZE345ATIHXA/",
-      "image": null,
-      "date": "2026-09-26T07:55:00+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer du poumon : arrêter de fumer après le diagnostic peut réduire de moitié le risque de décès",
-      "desc": "Le constat est valable y compris lorsque la maladie est diagnostiquée à un stade avancé et chez les gros fumeurs, selon un rapport du Centre international de recherche sur le cancer, présenté vendredi. Le bénéfice a même été observé pour d’autres localisations, comme le rein.",
-      "url": "https://www.liberation.fr/societe/sante/cancer-du-poumon-arreter-de-fumer-apres-le-diagnostic-peut-reduire-de-moitie-le-risque-de-deces-20260926_SMCY3CG75VA3DHF6US2VB5RCXY/",
-      "image": null,
-      "date": "2026-09-26T07:54:25+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«La Guerre éternelle. Souvenirs de Troie» d’Olivier Rolin : je suis «Iliade»",
-      "desc": "Reporter du sensible, l’écrivain s’est rendu sur les traces trimillénaires du fracas entre Achéens et Troyens et offre une subtile méditation sur Troie, la guerre, la disparition, la mort.",
-      "url": "https://www.liberation.fr/culture/livres/la-guerre-eternelle-souvenirs-de-troie-dolivier-rolin-je-suis-iliade-20260926_GRCP34JY3VEP7EZEVKUDOTS4UM/",
-      "image": null,
-      "date": "2026-09-26T06:44:00+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "La Contrôleuse générale des lieux de privation de liberté dénonce le manque de transparence au sujet des morts en prison et dans les hôpitaux psychiatriques",
@@ -170,16 +160,6 @@
       "date": "2026-09-24T09:25:47+00:00",
       "date_formatted": "24 September 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "PODCAST. Un virus de retour, des sportifs attaqués et des phrases qu'on ne peut plus dire : ça dit quoi ce 24 septembre ?",
-      "desc": "Ce jeudi 24 septembre, le virus du Covid circule de nouveau, le parquet de Paris ouvre une enquête face aux messages reçus par le judoka Teddy Riner et l'utilisation de l'expression \"le travail rend libre\" par un député RN ne passe pas.",
-      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/un-virus-de-retour-des-sportifs-attaques-et-des-phrases-qu-on-ne-peut-plus-dire-ca-dit-quoi-ce-24-septembre_8198105.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/YJlACeOl_7BweR2OnpsAwFoSW5M/432x243/filters:format(jpg)/2026/09/18/6aada672b901d827222214.jpg",
-      "date": "2026-09-24T09:01:53+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
