@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-27T15:54:31.519858+00:00",
-  "count": 58,
+  "generated_at": "2026-09-27T20:32:28.433798+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title": "Fusillades en Afrique du Sud : après les tueries dans deux bars, le spectre des gangs et le contrôle des armes en débat",
+      "desc": "Deux massacres ont fait 27 morts samedi 26 septembre à Johannesburg et près du Cap. Dans le pays aux taux d’homicides et de circulation d’armes à feu illégales les plus élevés au monde, la criminalité s’aggrave.",
+      "url": "https://www.liberation.fr/international/afrique/fusillades-en-afrique-du-sud-apres-les-tueries-dans-deux-bars-le-spectre-des-gangs-et-le-controle-des-armes-en-debat-20260927_MMNRFST5UJENZFUFSUS3RGGJBM/",
+      "image": null,
+      "date": "2026-09-27T18:03:24+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "A Lourdes, le pape condamne l’euthanasie et invite l’Eglise à poursuivre la lutte contre les violences sexuelles",
+      "desc": "En visite dans la ville ce dimanche 27 septembre, Léon XIV a condamné sans détour le texte adopté en juillet par le Parlement. Il a fait preuve d’une même fermeté pour soutenir le combat contre les violences sexuelles dans l’Eglise avant de recevoir sept victimes.",
+      "url": "https://www.liberation.fr/societe/religions/a-lourdes-le-pape-condamne-leuthanasie-et-invite-leglise-a-poursuivre-la-lutte-contre-les-violences-sexuelles-20260927_3F4VBTTJ2RCX7CJXI3ZR7YV6VQ/",
+      "image": null,
+      "date": "2026-09-27T17:45:17+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Une puissante tempête s’abat sur le nord-est des Etats-Unis",
+      "desc": "Rare pour la saison, le phénomène frappe la Côte-Est depuis samedi. Des dizaines de milliers de foyers sont privés d’électricité et un mort est à déplorer.",
+      "url": "https://www.liberation.fr/international/amerique/une-puissante-tempete-sabat-sur-le-nord-est-des-etats-unis-20260927_W6EASJ24PRAEZCSUXHC7Q2J2EM/",
+      "image": null,
+      "date": "2026-09-27T17:04:36+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«4:48 Psychose» avec Sandrine Bonnaire : les heurts sombres de Sarah Kane",
+      "desc": "Sandrine Bonnaire interprète la pièce de la dramaturge, révélateur de sa détresse dans les mois précédant son suicide, avec une simplicité qui laisse le texte et le désespoir à découvert.",
+      "url": "https://www.liberation.fr/culture/448-psychose-avec-sandrine-bonnaire-les-heurts-sombres-de-sarah-kane-20260927_5GI2M35WQRAW5AXKRSAZRGUTCA/",
+      "image": null,
+      "date": "2026-09-27T16:56:59+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Covid : les consultations en hausse de 76 %, faut-il craindre une nouvelle épidémie ?",
       "desc": "Avec l'arrivée de l'automne, le Covid fait son retour. Dans les cabinets médicaux, les consultations sont en nette progression, avec une hausse de 76 % en une semaine. Alors que la campagne de vaccination doit débuter mi-octobre, les médecins appellent à la vigilance, notamment pour les personnes fr",
@@ -10,6 +50,16 @@
       "date": "2026-09-27T16:33:48+00:00",
       "date_formatted": "27 September 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Série de féminicides en Afrique du Sud : deux nouvelles victimes",
+      "desc": "En dix semaines, onze femmes ont été retrouvées mortes dans les environs de Johannesburg. On ignore encore l’identité, l’âge ou la cause du décès de la victime la plus récente, dont le corps a été découvert ce dimanche.",
+      "url": "https://www.liberation.fr/international/afrique/serie-de-feminicides-en-afrique-du-sud-deux-nouvelles-victimes-retrouvees-20260927_AUUKUP3H6BAC7BGLZNGGD67SRE/",
+      "image": null,
+      "date": "2026-09-27T15:47:44+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -31,46 +81,6 @@
       "date_formatted": "27 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Fin de vie : depuis Lourdes, Léon XIV estime qu’il est «impossible de considérer comme normal de donner la mort»",
-      "desc": "Au troisième jour de sa visite en France, le pontife américain a réaffirmé depuis la cité mariale ses positions hostiles à l’aide active à mourir.",
-      "url": "https://www.liberation.fr/societe/religions/fin-de-vie-depuis-lourdes-leon-xiv-estime-quil-est-impossible-de-considerer-comme-normal-de-donner-la-mort-20260927_CTW6C4Y35ZDO3PH23IXULTABLA/",
-      "image": null,
-      "date": "2026-09-27T14:14:32+00:00",
-      "date_formatted": "27 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "La bataille d’HernanIA, par Daniel Schneidermann",
-      "desc": "Passée à la trieuse des réseaux sociaux, l’affaire de l’auteur de «C’était ça ou mourir» oppose deux camps irréconciliables et désormais familiers : wokes contre fachos. A chaque partie ses manips, ses indignations outrées, ses accusations.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/la-bataille-dhernania-par-daniel-schneidermann-20260927_B5WWDWM7B5BGPFS2WQQ5F6WXHA/",
-      "image": null,
-      "date": "2026-09-27T11:00:00+00:00",
-      "date_formatted": "27 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ben Duke, à l’âge de dérision",
-      "desc": "Irrévérencieux, le metteur en scène anglais ravaude avec panache, dans des pièces de danse-théâtre, les œuvres classiques de Shakespeare ou Milton. Quatre d’entre elles sont données au Théâtre de la Ville à Paris cet automne.",
-      "url": "https://www.liberation.fr/culture/scenes/ben-duke-a-lage-de-derision-20260925_3FANXOG7MBCH5DLYBMWOLOMFLI/",
-      "image": null,
-      "date": "2026-09-27T10:57:00+00:00",
-      "date_formatted": "27 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Une puissante tempête s’abat sur le nord-est des Etats-Unis",
-      "desc": "Rare pour la saison, le phénomène frappe la Côte-Est depuis samedi. Des milliers de foyers sont privés d’électricité et un mort est à déplorer.",
-      "url": "https://www.liberation.fr/international/amerique/une-puissante-tempete-sabat-sur-le-nord-est-des-etats-unis-20260927_W6EASJ24PRAEZCSUXHC7Q2J2EM/",
-      "image": null,
-      "date": "2026-09-27T10:14:56+00:00",
-      "date_formatted": "27 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Cancer colorectal : les bénéfices du dépistage se confirment",
