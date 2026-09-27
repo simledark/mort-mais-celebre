@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-09-27T10:56:48.218073+00:00",
-  "count": 56,
+  "generated_at": "2026-09-27T15:54:31.519858+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "Covid : les consultations en hausse de 76 %, faut-il craindre une nouvelle épidémie ?",
+      "desc": "Avec l'arrivée de l'automne, le Covid fait son retour. Dans les cabinets médicaux, les consultations sont en nette progression, avec une hausse de 76 % en une semaine. Alors que la campagne de vaccination doit débuter mi-octobre, les médecins appellent à la vigilance, notamment pour les personnes fr",
+      "url": "https://www.franceinfo.fr/sante/maladie/coronavirus/covid-les-consultations-en-hausse-de-76-faut-il-craindre-une-nouvelle-epidemie_8212181.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_gVq0VquM3HVc6PVrN8m2MkP41Q/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/27/6ab9187ab1631138028295.jpg",
+      "date": "2026-09-27T16:33:48+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«La Fête» d’Anne-Cécile Vandalem et Joëlle Sambi, une pièce sur le piège des violences racistes",
+      "desc": "A partir de la mort d’un étudiant noir lors d’un bizutage en Belgique, les metteuses en scène interrogent avec une impressionnante acuité le racisme et ceux qui le perpétuent.",
+      "url": "https://www.liberation.fr/culture/scenes/la-fete-danne-cecile-vandalem-et-joelle-sambi-une-piece-sur-le-piege-des-violences-racistes-20260927_IJIVDARIEBF6FJQQOA2E6ECBKI/",
+      "image": null,
+      "date": "2026-09-27T15:28:56+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du pancréas : ils ont utilisé un laser pour rendre possible une opération qui ne l’était plus chez certains patients",
+      "desc": "Le cancer du pancréas est difficilement opérable en raison de sa localisation. Mais la thérapie photodynamique pourrait devenir une arme contre les tumeurs. Des chercheurs américains expérimentent une technique associant un médicament photosensible activé par laser pour détruire les vaisseaux...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-pancreas-cancer-pancreas-ils-ont-utilise-laser-rendre-possible-operation-ne-etait-plus-chez-certains-patients-137971/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/d/7/4d7041835e_50261178_cancer-pancreas-laser-medicament.jpg",
+      "date": "2026-09-27T14:18:50+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Fin de vie : depuis Lourdes, Léon XIV estime qu’il est «impossible de considérer comme normal de donner la mort»",
+      "desc": "Au troisième jour de sa visite en France, le pontife américain a réaffirmé depuis la cité mariale ses positions hostiles à l’aide active à mourir.",
+      "url": "https://www.liberation.fr/societe/religions/fin-de-vie-depuis-lourdes-leon-xiv-estime-quil-est-impossible-de-considerer-comme-normal-de-donner-la-mort-20260927_CTW6C4Y35ZDO3PH23IXULTABLA/",
+      "image": null,
+      "date": "2026-09-27T14:14:32+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La bataille d’HernanIA, par Daniel Schneidermann",
+      "desc": "Passée à la trieuse des réseaux sociaux, l’affaire de l’auteur de «C’était ça ou mourir» oppose deux camps irréconciliables et désormais familiers : wokes contre fachos. A chaque partie ses manips, ses indignations outrées, ses accusations.",
+      "url": "https://www.liberation.fr/idees-et-debats/opinions/la-bataille-dhernania-par-daniel-schneidermann-20260927_B5WWDWM7B5BGPFS2WQQ5F6WXHA/",
+      "image": null,
+      "date": "2026-09-27T11:00:00+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ben Duke, à l’âge de dérision",
+      "desc": "Irrévérencieux, le metteur en scène anglais ravaude avec panache, dans des pièces de danse-théâtre, les œuvres classiques de Shakespeare ou Milton. Quatre d’entre elles sont données au Théâtre de la Ville à Paris cet automne.",
+      "url": "https://www.liberation.fr/culture/scenes/ben-duke-a-lage-de-derision-20260925_3FANXOG7MBCH5DLYBMWOLOMFLI/",
+      "image": null,
+      "date": "2026-09-27T10:57:00+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Une puissante tempête s’abat sur le nord-est des Etats-Unis",
       "desc": "Rare pour la saison, le phénomène frappe la Côte-Est depuis samedi. Des milliers de foyers sont privés d’électricité et un mort est à déplorer.",
@@ -21,16 +81,6 @@
       "date_formatted": "27 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Virus : «Nous sommes engagés dans une bascule systémique»",
-      "desc": "Dans son livre «Epidémia», paru le 24 septembre 2026, l’infectiologue Xavier Lescure alerte sur la vulnérabilité du monde face au risque épidémique et plaide pour un changement de modèle social.",
-      "url": "https://www.liberation.fr/societe/sante/virus-nous-sommes-engages-dans-une-bascule-systemique-20260927_LMFT6FYRZZCKNML3RMHFOGVRC4/",
-      "image": null,
-      "date": "2026-09-27T04:31:00+00:00",
-      "date_formatted": "27 September 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Six bouchers mis en examen après des intoxications à l'E.coli qui avaient touché une trentaine de personnes et conduit à la mort d'une fillette dans l'Aisne en 2025",
@@ -98,16 +148,6 @@
       "url": "https://www.franceinfo.fr/sante/le-retour-du-covid_8208143.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/LCvcoP_MaO2G1a9S2ruE_HaEPLQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/24/6ab5325575bfd122633352.jpg",
       "date": "2026-09-24T17:00:02+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Santé : des pharmaciens plaident pour augmenter l'offre de médicaments en vente libre, avec 33 nouvelles références",
-      "desc": "Des pharmaciens proposent d'élargir la liste des médicaments délivrés sans ordonnance, en ajoutant 33 nouvelles références, afin de freiner les dépenses de l’Assurance maladie.",
-      "url": "https://www.franceinfo.fr/sante/33-nouvelles-references-des-pharmaciens-plaident-pour-augmenter-l-offre-de-medicaments-en-vente-libre_8208104.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/WUpBR7Czlx_UnuU9UMdlawhj2Yo/0x110:1053x703/432x243/filters:format(jpg)/2026/09/24/6ab52fb6dd72d533529638.jpg",
-      "date": "2026-09-24T16:42:44+00:00",
       "date_formatted": "24 September 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -273,16 +313,6 @@
       "type": "science"
     },
     {
-      "title": "Plongée dans le monde fascinant de micro-organismes unicellulaires doués d’intelligence",
-      "desc": "Une cellule. C’est ce qui suffit aux eucaryotes unicellulaires pour se nourrir, se déplacer, faire des choix, apprendre ou stocker des informations. Depuis plusieurs siècles d’études et autant de controverses, les chercheurs étudient la cognition de ces organismes pour tenter de comprendre leur mond",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/21/plongee-dans-le-monde-fascinant-de-micro-organismes-unicellulaires-doues-d-intelligence_6779173_1650684.html",
-      "image": "https://img.lemde.fr/2026/09/18/523/0/1185/592/644/322/60/0/361f46f_upload-1-zhhsoajfcpy9-euplotes-a7-cover2.jpg",
-      "date": "2026-09-21T16:09:37+00:00",
-      "date_formatted": "21 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Alzheimer : ce que l’IA commence à changer dans le quotidien des malades et de leurs proches et comment elle peut aider",
       "desc": "« Comment réagir quand il me pose dix fois la même question ? » « Est-ce que maman va bien quand elle est seule chez elle ? » Pour les familles confrontées à la maladie d’Alzheimer, ces inquiétudes rythment le quotidien, de jour comme de nuit. Des chercheurs développent aujourd’hui des...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-ia-commence-changer-quotidien-malades-leurs-proches-elle-peut-aider-137893/#xtor%3DRSS-8",
@@ -309,16 +339,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/6/8/76808ae368_50260942_gencives-alzheimer.jpg",
       "date": "2026-09-21T05:08:42+00:00",
       "date_formatted": "21 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Combien de tasses de café pouvez-vous boire chaque jour sans risque pour votre santé ?",
-      "desc": "Cinq tasses de café par jour, c'est désormais officiellement défendu par la science américaine. L'American Heart Association a publié en juillet 2026 une déclaration qui bouscule les idées reçues sur la caféine. Diabète, AVC, maladies cardiaques…, le bilan est franchement surprenant. Et non,...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cafe-tasses-cafe-pouvez-vous-boire-chaque-jour-risque-votre-sante-k2m6-137837/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/b/9/cb91f5db41_50260925_tasses-cafe-sante.jpg",
-      "date": "2026-09-20T18:00:00+00:00",
-      "date_formatted": "20 September 2026",
       "source": "Futura Santé",
       "type": "science"
     },
