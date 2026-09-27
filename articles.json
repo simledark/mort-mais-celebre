@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-27T02:11:24.391144+00:00",
-  "count": 58,
+  "generated_at": "2026-09-27T10:56:48.218073+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Une puissante tempête s’abat sur le nord-est des Etats-Unis",
+      "desc": "Rare pour la saison, le phénomène frappe la Côte-Est depuis samedi. Des milliers de foyers sont privés d’électricité et un mort est à déplorer.",
+      "url": "https://www.liberation.fr/international/amerique/une-puissante-tempete-sabat-sur-le-nord-est-des-etats-unis-20260927_W6EASJ24PRAEZCSUXHC7Q2J2EM/",
+      "image": null,
+      "date": "2026-09-27T10:14:56+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer colorectal : les bénéfices du dépistage se confirment",
+      "desc": "Une participation de 70 % au dépistage a réduit de moitié la mortalité par cancer colorectal chez les 50-69 ans au Pays basque espagnol.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer-colorectal-quand-le-depistage-fait-reculer-la-mortalite_194958?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/23/cover-r4x3w1200-6ab3911261602-ar-1723099-tf-67187655-1-notext-jpg.jpg",
+      "date": "2026-09-27T08:00:00+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Virus : «Nous sommes engagés dans une bascule systémique»",
+      "desc": "Dans son livre «Epidémia», paru le 24 septembre 2026, l’infectiologue Xavier Lescure alerte sur la vulnérabilité du monde face au risque épidémique et plaide pour un changement de modèle social.",
+      "url": "https://www.liberation.fr/societe/sante/virus-nous-sommes-engages-dans-une-bascule-systemique-20260927_LMFT6FYRZZCKNML3RMHFOGVRC4/",
+      "image": null,
+      "date": "2026-09-27T04:31:00+00:00",
+      "date_formatted": "27 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Six bouchers mis en examen après des intoxications à l'E.coli qui avaient touché une trentaine de personnes et conduit à la mort d'une fillette dans l'Aisne en 2025",
       "desc": "Cette vague d'intoxications alimentaires, avec 32 cas recensés au total, avait conduit à la fermeture préventive de six boucheries, les autorités soupçonnant une infection alimentaire liée à de la viande.",
@@ -10,26 +40,6 @@
       "date": "2026-09-26T13:47:36+00:00",
       "date_formatted": "26 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La Russie adopte une nouvelle stratégie en bombardant les data centers et les services internet de Kyiv",
-      "desc": "Depuis plusieurs jours, des infrastructures numériques de la capitale ukrainienne sont méthodiquement ciblées par des attaques de drones, dont l’une a fait quatre morts vendredi 25 septembre. Mais le risque de paralyser les communications et l’économie du pays est limité.",
-      "url": "https://www.liberation.fr/international/europe/la-russie-adopte-une-nouvelle-strategie-en-bombardant-les-data-centers-et-les-services-internet-de-kyiv-20260926_2YCYLIT7NVFTVMEHOBBQCA44SI/",
-      "image": null,
-      "date": "2026-09-26T13:36:33+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Le feu est un point zéro» : à Fontainebleau, la forêt tente de renaître de ses cendres",
-      "desc": "Après l’incendie de juillet qui a brûlé près de 2000 hectares dans le massif francilien, les forestiers évacuent les arbres morts qui risqueraient de chuter sur les promeneurs. Le paysage est calciné mais, ici et là, la vie revient déjà.",
-      "url": "https://www.liberation.fr/environnement/le-feu-est-un-point-zero-a-fontainebleau-la-foret-tente-de-renaitre-de-ses-cendres-20260926_4O6UT6DWSJH5LBAD4AAMNZVGFU/",
-      "image": null,
-      "date": "2026-09-26T12:05:53+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -98,16 +108,6 @@
       "url": "https://www.franceinfo.fr/sante/33-nouvelles-references-des-pharmaciens-plaident-pour-augmenter-l-offre-de-medicaments-en-vente-libre_8208104.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/WUpBR7Czlx_UnuU9UMdlawhj2Yo/0x110:1053x703/432x243/filters:format(jpg)/2026/09/24/6ab52fb6dd72d533529638.jpg",
       "date": "2026-09-24T16:42:44+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"On manque énormément d'AESH\", témoigne une enseignante de l'école d'Evry, où un élève handicapé a frappé son institutrice",
-      "desc": "En Essonne, la commune d'Évry-Courcouronnes est encore sous le choc. Une enseignante a été violemment agressée et menacée de mort par un élève de 8 ans pendant la récréation le 11 septembre. En situation de handicap, le petit garçon souffrirait de troubles psychologiques sévères.",
-      "url": "https://www.franceinfo.fr/faits-divers/c-est-vrai-qu-on-manque-enormement-d-aesh-des-professeurs-de-l-ecole-ou-un-eleve-handicape-de-huit-ans-a-agresse-son-enseignante-se-confient_8207945.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/qPVFqiezLO5vqPx2KB4A5njFEqw/0x11:1099x629/432x243/filters:format(jpg)/2026/09/24/6ab50dd1b2de1097034634.jpg",
-      "date": "2026-09-24T16:27:33+00:00",
       "date_formatted": "24 September 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -333,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Des baleines à bosse s’occupent de leur petit mort-né",
-      "desc": "Primates, éléphants, mammifères marins : les observations de soins post mortem sur des nourrissons se multiplient.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/20/des-baleines-a-bosse-s-occupent-de-leur-petit-mort-ne_6778383_1650684.html",
-      "image": "https://img.lemde.fr/2026/09/18/193/0/2600/1300/644/322/60/0/ca2d681_upload-1-xt2sbzrlpeyn-000-hkg607436.jpg",
-      "date": "2026-09-20T15:30:05+00:00",
-      "date_formatted": "20 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "« L’impact des infections respiratoires est lourd pour les patients, les soignants et la collectivité »",
       "desc": "Dans une tribune au « Monde », une douzaine de médecins et de patients dénoncent une « forme de banalisation silencieuse » autour des épidémies respiratoires. Ils appellent à la mise en place d’un programme national pluriannuel de prévention contre ces pathologies.",
       "url": "https://www.lemonde.fr/idees/article/2026/09/18/l-impact-des-infections-respiratoires-est-lourd-pour-les-patients-les-soignants-et-la-collectivite_6776773_3232.html",
@@ -401,16 +391,6 @@
       "date_formatted": "17 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Ebola en RDC : des « signes encourageants » dans la lutte contre l’épidémie, qui « continue de progresser et de tuer », déclare l’OMS",
-      "desc": "Le directeur général de l’organisation, Tedros Adhanom Ghebreyesus, a annoncé mercredi que les essais cliniques sur les traitements et les vaccins contre la maladie à virus s’accéléraient, alors que la RDC connaît la pire flambée de son histoire.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/09/16/ebola-en-rdc-des-signes-encourageants-dans-la-lutte-contre-l-epidemie-qui-continue-de-progresser-et-de-tuer-declare-l-oms_6775382_3212.html",
-      "image": "https://img.lemde.fr/2026/09/15/417/0/5500/2750/644/322/60/0/34e6b8e_ftp-1-ethizzoalss4-2026-09-15t105158z-986853467-rc2eqlawwmmw-rtrmadp-3-health-ebola.JPG",
-      "date": "2026-09-16T16:59:35+00:00",
-      "date_formatted": "16 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer : comment la tumeur berne le système immunitaire",
