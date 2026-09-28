@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-28T12:11:14.314995+00:00",
-  "count": 54,
+  "generated_at": "2026-09-28T22:41:35.039967+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "Suicide de Joris Laurencin en Isère : quatre personnes placées en garde à vue sur fond d’accusation de racisme",
+      "desc": "D’après deux médias locaux, quatre hommes, dont un mineur, ont été placés en garde à vue lundi. Ils sont soupçonnés d’avoir harcelé le jeune homme de 21 ans en raison de ses origines algériennes, avant que ce dernier ne se suicide, le 13 juillet.",
+      "url": "https://www.liberation.fr/societe/police-justice/suicide-de-joris-laurencin-en-isere-quatre-personnes-placees-en-garde-a-vue-sur-fond-daccusation-de-racisme-20260928_BZVLBGERN5FNNCH4TV7MKFJHAQ/",
+      "image": null,
+      "date": "2026-09-28T19:52:36+00:00",
+      "date_formatted": "28 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Peter May, romancier écossais vif",
+      "desc": "L’auteur de nombreux polars, reconnu pour sa trilogie à succès débutée par «l’Ile des chasseurs d’oiseaux», est mort dimanche à 74 ans.",
+      "url": "https://www.liberation.fr/culture/livres/mort-de-peter-may-romancier-ecossais-vif-20260928_6RBGWSDV5NEJXA4Z4TO7SZEILA/",
+      "image": null,
+      "date": "2026-09-28T17:15:00+00:00",
+      "date_formatted": "28 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La France bat le triste record du taux de suicides dans ses prisons",
+      "desc": "La Contrôleuse générale des lieux de privation de liberté (CGLPL) alerte sur le nombre de décès survenant chaque année dans les lieux de privation de liberté en France, qui n’est pas précisément établi. Dans deux avis publiés au Journal officiel, elle relève notamment 275 décès en détention en 2025,",
+      "url": "https://www.sciencesetavenir.fr/sante/la-controleuse-generale-des-lieux-de-privation-de-liberte-alerte-sur-les-deces-en-prison-et-les-carences-dans-leur-prise-en-charge_195112?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/28/cover-r4x3w1200-6aba895e51ade-prison.jpg",
+      "date": "2026-09-28T16:02:53+00:00",
+      "date_formatted": "28 September 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Six bouchers mis en examen dans l'affaire de l'intoxication mortelle à E.coli : \"Un trafic de viande\" mis au jour par les enquêteurs",
+      "desc": "Un an après la vague d’intoxications à la bactérie E.coli qui avait ôté la vie d'une fillette de 11 ans et contaminé 32 personnes dans l’Aisne, six bouchers viennent d’être mis en examen à Paris.",
+      "url": "https://www.franceinfo.fr/sante/alimentation/intoxications-alimentaires-a-la-bacterie-e-coli-dans-l-aisne/six-bouchers-mis-en-examen-dans-l-affaire-de-l-intoxication-mortelle-a-e-coli-un-trafic-de-viande-mis-au-jour-par-les-enqueteurs_8213435.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/LgGm1RCXgHwNprVda-lpPMZAIxI/43x0:1257x683/432x243/filters:format(jpg)/2026/09/28/6aba6628730ee568367768.jpg",
+      "date": "2026-09-28T15:06:55+00:00",
+      "date_formatted": "28 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "\"Enfin une chance d'égalité thérapeutique\" : depuis juin, 85 600 boîtes de médicaments anti-obésité vendues en France",
       "desc": "Près de 18% des adultes français sont touchés par l'obésité, \"une maladie de tissu adipeux qui se fibrose\", rappelle le Collectif national des associations d'obèses, qui dénonce une grossophobie persistante.",
@@ -10,26 +50,6 @@
       "date": "2026-09-28T12:46:59+00:00",
       "date_formatted": "28 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L’avocate iranienne Nasrin Sotoudeh remporte le prix Havel du Conseil de l’Europe",
-      "desc": "Avec cette distinction, remise ce lundi 28 septembre, l’institution salue le combat de la militante contre la peine de mort et le port du voile obligatoire pour les femmes, et ce malgré ses nombreuses arrestations et peines de prison.",
-      "url": "https://www.liberation.fr/international/europe/lavocate-iranienne-nasrin-sotoudeh-remporte-le-prix-havel-du-conseil-de-leurope-20260928_SYPCJ6DZVJAJLAEVRCA33P24OY/",
-      "image": null,
-      "date": "2026-09-28T11:37:00+00:00",
-      "date_formatted": "28 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Vline Buggy, parolière de Cloclo, Hugues Auffray ou Herbert Léonard, est morte à 97 ans",
-      "desc": "Liliane Konyn, de son vrai nom, avait également collaboré avec Johnny Hallyday, Michel Sardou, France Gall, Dalida ou Juliette Gréco.",
-      "url": "https://www.liberation.fr/culture/musique/vline-buggy-paroliere-de-cloclo-hugues-auffray-ou-herbert-leonard-est-morte-a-97-ans-20260928_4OWM7MOOAJBUVF2CAECYTLBHYE/",
-      "image": null,
-      "date": "2026-09-28T11:01:59+00:00",
-      "date_formatted": "28 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -111,16 +131,6 @@
       "date_formatted": "26 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "La Contrôleuse générale des lieux de privation de liberté dénonce le manque de transparence au sujet des morts en prison et dans les hôpitaux psychiatriques",
-      "desc": "Le nombre exact de personnes mortes dans ces lieux \"n'est ni complètement connu, ni rendu public\", \"faute de traçabilité et de remontée adéquates des informations\", pointe Dominique Simonnot.",
-      "url": "https://www.franceinfo.fr/societe/prisons/la-controleuse-generale-des-lieux-de-privation-de-liberte-denonce-le-manque-de-transparence-au-sujet-des-morts-en-prison-et-dans-les-hopitaux-psychiatriques_8209247.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/DkitSD62CEZcP53b6eCOne1I9Q4/0x0:1024x576/432x243/filters:format(jpg)/2026/09/25/6ab63ae11f8bf225463169.jpg",
-      "date": "2026-09-25T11:12:13+00:00",
-      "date_formatted": "25 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Et si la clé pour ralentir Alzheimer se trouvait dans votre intestin ?",
@@ -213,16 +223,6 @@
       "type": "science"
     },
     {
-      "title": "Chez l’avocatier, la reproduction est chronométrée",
-      "desc": "La plante échappe à l’autopollinisation avec un développement asynchrone des organes mâles et femelles de ses fleurs. Le gène à l’origine de ce phénomène pourrait permettre de déterminer le type des avocatiers avant leur plantation, se réjouit Alice Lebreton dans sa Carte blanche au « Monde ».",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/23/chez-l-avocatier-la-reproduction-est-chronometree_6780883_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
-      "date": "2026-09-23T12:00:03+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Sida: Au Kenya, le gel de l'aide humanitaire américaine tue les populations les plus exposées",
       "desc": "Au Kenya, les coupes dans l’aide américaine ont privé de soins de nombreuses travailleuses du sexe, parmi les populations les plus exposées au VIH, alors même que les contaminations reculent dans la population générale. Pour les experts, négliger ces groupes est contre-productif en matière de santé ",
       "url": "https://www.sciencesetavenir.fr/sante/sida-au-kenya-les-populations-les-plus-exposees-privees-des-fonds-americains_194935?xtor=RSS-16",
@@ -271,26 +271,6 @@
       "date_formatted": "22 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Avant l’hiver, voici comment aider son immunité sans tomber dans le piège des faux « boosters »",
-      "desc": "À l'approche de l'automne, les premiers frissons nous rappellent que les virus nous guettent. Vitamines, compléments alimentaires, cures détox font leur grand retour. Mais le système immunitaire ne se stimule pas sur simple demande. Alors comment faire pour préparer son organisme à lutter...",
-      "url": "https://www.futura-sciences.com/sante/actualites/systeme-immunitaire-avant-hiver-voici-aider-son-immunite-tomber-piege-faux-boosters-137770/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/9/d/a9d99c1d13_50260792_systeme-immunitaire-saison.jpg",
-      "date": "2026-09-22T05:23:38+00:00",
-      "date_formatted": "22 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Alzheimer : ce que l’IA commence à changer dans le quotidien des malades et de leurs proches et comment elle peut aider",
-      "desc": "« Comment réagir quand il me pose dix fois la même question ? » « Est-ce que maman va bien quand elle est seule chez elle ? » Pour les familles confrontées à la maladie d’Alzheimer, ces inquiétudes rythment le quotidien, de jour comme de nuit. Des chercheurs développent aujourd’hui des...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-ia-commence-changer-quotidien-malades-leurs-proches-elle-peut-aider-137893/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/8/6/a8611f4be5_50261021_ia-alzheimer.jpg",
-      "date": "2026-09-21T15:11:58+00:00",
-      "date_formatted": "21 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "L'Argentine voit son taux de suicides atteindre un niveau record",
