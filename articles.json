@@ -1,9 +1,119 @@
 {
-  "generated_at": "2026-09-29T03:00:48.651916+00:00",
-  "count": 54,
+  "generated_at": "2026-09-29T11:42:15.835668+00:00",
+  "count": 59,
   "articles": [
     {
-      "title": "Un nouveau cancer sur huit est causé par des infections, selon une étude du CIRC",
+      "title": "Tour Eiffel en rose : Voici quand l’illumination d’Octobre rose aura lieu à Paris",
+      "desc": "La capitale se met aux couleurs d’Octobre rose avec une soirée dédiée à la prévention, au dépistage et à la mobilisation contre le cancer du sein",
+      "url": "https://www.20minutes.fr/societe/4249643-20260929-tour-eiffel-rose-voici-quand-illumination-octobre-rose-lieu-paris?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/JXHHZbGnTiafDDFVGwkIfik/1200x768_paris-30-septembre-2025-la-tour-eiffel-s-illumine-en-rose-pour-marquer-le-lancement-d-octobre-rose-le-mois-de-sensibilisation-au-cancer-du-sein-arnaud-cesar-vilette-sipa-press-vilette-arnaud-sipa-8264-credit-cesar-vilette-sipa-2510011223",
+      "date": "2026-09-29T11:02:36+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Inquiétude à propos des matchas et thés verts bourrés d’aluminium ou de pesticides",
+      "desc": "Dans son numéro d’octobre, le magazine «Que choisir» épingle ces boissons très en vogue contaminées par diverses substances, dont certaines sont cancérigènes.",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/inquietude-a-propos-des-matchas-et-thes-verts-bourres-daluminium-ou-de-pesticides-20260929_Q7CXWC4NBZHXJCMQRSE2OX3U2M/",
+      "image": null,
+      "date": "2026-09-29T10:49:04+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Accusé à tort de meurtre, un Américain libéré après 41 ans dans le couloir de la mort",
+      "desc": "De nouvelles analyses ADN ont permis d’innocenter Douglas Stewart Carter, un homme noir qui avait été condamné en 1985 pour le meurtre d’une femme sur la base de deux témoignages payés par la police et d’aveux extorqués.",
+      "url": "https://www.liberation.fr/international/amerique/accuse-a-tort-de-meurtre-un-americain-libere-apres-41-ans-dans-le-couloir-de-la-mort-20260929_LWFRR6ZLHNA5DJINRCMQI2HBOE/",
+      "image": null,
+      "date": "2026-09-29T10:44:31+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La déesse croissance est morte, à la gauche de la déboulonner, par Patrick Sabatier",
+      "desc": "Il est temps de dire aux Français que le temps béni de l’abondance sans fin est fini. Quiconque prétend présider aux destinées de la république, doit commencer par le dire, affirme le journaliste.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-deesse-croissance-est-morte-a-la-gauche-de-la-deboulonner-par-patrick-sabatier-20260929_MGSJSKRSWBEUDKQYFSUJVOIROI/",
+      "image": null,
+      "date": "2026-09-29T10:06:00+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Moins d'un Américain sur deux sait que cette boisson est liée au risque de cancer",
+      "desc": "2,6 millions de décès par an dans le monde, soit un décès sur vingt. L'alcool est classé cancérogène certain, au même titre que le tabac et l'amiante. Il reste pourtant au centre des célébrations, des repas et des rassemblements professionnels. Un médecin addictologue interroge cet écart entre...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-moins-americain-deux-sait-cette-boisson-liee-risque-cancer-k2m6-138058/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/d/f/edf8cf2791_50261292_cancer-alcool.jpg",
+      "date": "2026-09-29T10:00:00+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Retraite à 65 ans et 45 ans de cotisation : pourquoi Edouard Philippe a arraché le sparadrap des 67 ans",
+      "desc": "Le candidat à la présidentielle traîne depuis cinq ans sa proposition de repousser «l’âge de départ à la retraite à 65, 66 ou 67 ans». Dans une vidéo, diffusée ce mardi 29 septembre sur ses réseaux sociaux, l’ex-Premier ministre propose de passer «en moins de dix ans» à 65 ans et quarante-cinq ans d",
+      "url": "https://www.liberation.fr/politique/elections/retraite-a-65-ans-et-45-ans-de-cotisation-pourquoi-edouard-philippe-a-arrache-ce-sparadrap-des-67-ans-20260929_D7ONCEOGQNHTBDZFGM7GVER27Q/",
+      "image": null,
+      "date": "2026-09-29T09:58:49+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Environ un cancer sur huit dans le monde serait lié à une infection, d’après une étude d’une agence de l’OMS",
+      "desc": "Les travaux du Centre international de recherche sur le cancer (Circ) pointent le fait que 2,3 millions de nouveaux cas en 2024 seraient attribuables à des virus, des bactéries ou des parasites. Une grande partie pourrait être évitée grâce à la vaccination, au dépistage et aux traitements.",
+      "url": "https://www.liberation.fr/societe/sante/environ-un-cancer-sur-huit-dans-le-monde-serait-lie-a-une-infection-dapres-une-etude-dune-agence-de-loms-20260929_35JFSX6Q3FFHBKEX4MAASZKUTA/",
+      "image": null,
+      "date": "2026-09-29T08:40:04+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Environ un cancer sur huit dans le monde est lié à des infections souvent évitables, selon une agence de l'OMS",
+      "desc": "Plusieurs stratégies \"scientifiquement prouvées\" permettraient d'éviter la plupart des cancers d'origine infectieuse. C'est notamment le cas des vaccinations, dépistages et traitements.",
+      "url": "https://www.franceinfo.fr/sante/cancer/environ-un-cancer-sur-huit-dans-le-monde-est-lie-a-des-infections-souvent-evitables-selon-une-agence-de-l-oms_8214290.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/X7uy7I7MhjciE60zrvFVW7HiXhw/0x222:4283x2632/432x243/filters:format(jpg)/2026/09/29/6abb469bec512499695541.jpg",
+      "date": "2026-09-29T08:26:39+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Rugby : une vaste étude révèle un risque accru de maladies neurodégénératives chez les anciens joueurs",
+      "desc": "Une vaste recherche menée en Nouvelle-Zélande révèle une découverte troublante sur les effets de certains sports de contact. Des décennies après leur carrière, certains athlètes paient un prix inattendu.",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-rugby-vaste-etude-revele-risque-accru-maladies-neurodegeneratives-chez-anciens-joueurs-w2t8-137990/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/3/7/23787df745_50261192_rugby-lesions-cerveau-demence.jpg",
+      "date": "2026-09-29T08:00:00+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Un nouveau cas de cancer sur huit dans le monde est lié à des infections",
+      "desc": "En 2024, environ un cancer sur huit était causé par des infections souvent évitables, selon une étude du Circ publiée dans « The Lancet Oncology » ce mardi",
+      "url": "https://www.20minutes.fr/sante/4249636-20260929-nouveau-cas-cancer-huit-monde-lie-infections?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/mog74wQeQuuYIk3Du25qDCk/1200x768_une-etude-montre-que-les-infections-notamment-a-l-helicobacter-pylori-et-au-papillomavirus-sont-responsable-d-environ-un-cancer-sur-huit-illustration",
+      "date": "2026-09-29T06:46:15+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "INFO FRANCEINFO. \"En quinze minutes, c'est réglé !\" : environ deux millions de dépistages dans le cadre du dispositif \"Mon test IST\" menés en un an",
+      "desc": "Ce dispositif de dépistages d'infections sexuellement transmissibles, gratuit et sans ordonnance, est un succès chez les jeunes. Des millions de dépistages ont été réalisés dans des laboratoires de biologie en 2025.",
+      "url": "https://www.franceinfo.fr/sante/info-franceinfo-en-quinze-minutes-c-est-regle-environ-deux-millions-de-depistages-dans-le-cadre-du-dispositif-mon-test-ist-menes-en-un-an_8213669.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/tZHrIFJmui-1-mv748PWPtLEcBk/0x260:4624x2861/432x243/filters:format(jpg)/2026/09/28/6aba86f58cd59522361444.jpg",
+      "date": "2026-09-29T06:00:02+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un nouveau cancer sur huit est causé par des infections, selon une étude du CIRC",
       "desc": "Les scientifiques ont estimé la part des quelque 2,3 millions des nouveaux cas de tumeurs en 2024 attribuable à douze agents infectieux, dont des virus, des bactéries et des parasites. Mais des solutions de prévention existent.",
       "url": "https://www.lemonde.fr/sante/article/2026/09/29/un-nouveau-cancer-sur-huit-cause-par-des-infections-selon-une-etude-du-circ_6785310_1651302.html",
       "image": "https://img.lemde.fr/2026/09/28/63/0/700/350/644/322/60/0/7a0a6ad_upload-1-c0hiubdiwvh2-helicobacterpylori2.jpg",
@@ -20,26 +130,6 @@
       "date": "2026-09-29T00:34:26+00:00",
       "date_formatted": "29 September 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Suicide de Joris Laurencin en Isère : quatre personnes placées en garde à vue sur fond d’accusation de racisme",
-      "desc": "D’après deux médias locaux, quatre hommes, dont un mineur, ont été placés en garde à vue lundi. Ils sont soupçonnés d’avoir harcelé le jeune homme de 21 ans en raison de ses origines algériennes, avant que ce dernier ne se suicide, le 13 juillet.",
-      "url": "https://www.liberation.fr/societe/police-justice/suicide-de-joris-laurencin-en-isere-quatre-personnes-placees-en-garde-a-vue-sur-fond-daccusation-de-racisme-20260928_BZVLBGERN5FNNCH4TV7MKFJHAQ/",
-      "image": null,
-      "date": "2026-09-28T19:52:36+00:00",
-      "date_formatted": "28 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Peter May, romancier écossais vif",
-      "desc": "L’auteur de nombreux polars, reconnu pour sa trilogie à succès débutée par «l’Ile des chasseurs d’oiseaux», est mort dimanche à 74 ans.",
-      "url": "https://www.liberation.fr/culture/livres/mort-de-peter-may-romancier-ecossais-vif-20260928_6RBGWSDV5NEJXA4Z4TO7SZEILA/",
-      "image": null,
-      "date": "2026-09-28T17:15:00+00:00",
-      "date_formatted": "28 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -113,16 +203,6 @@
       "type": "science"
     },
     {
-      "title": "Six bouchers mis en examen après des intoxications à l'E.coli qui avaient touché une trentaine de personnes et conduit à la mort d'une fillette dans l'Aisne en 2025",
-      "desc": "Cette vague d'intoxications alimentaires, avec 32 cas recensés au total, avait conduit à la fermeture préventive de six boucheries, les autorités soupçonnant une infection alimentaire liée à de la viande.",
-      "url": "https://www.franceinfo.fr/sante/alimentation/intoxications-alimentaires-a-la-bacterie-e-coli-dans-l-aisne/six-bouchers-mis-en-examen-apres-des-intoxications-a-l-e-coli-dans-l-aisne-en-2025-qui-avaient-touche-une-trentaine-de-personnes-et-conduit-a-la-mort-d-une-fillette_8210795.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/bylb9PAzdoixhrHYLwaywxix9-g/0x291:7907x4739/432x243/filters:format(jpg)/2026/09/26/6ab76fd634213325434577.jpg",
-      "date": "2026-09-26T13:47:36+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Du diagnostic ultrarapide d’un infarctus au pronostic de rechute du cancer du sein, comment les entreprises françaises innovent dans les tests médicaux",
       "desc": "Le lancement du nouveau test du laboratoire BioMérieux pour diagnostiquer en quelques minutes un infarctus met en lumière le dynamisme de l’industrie française du diagnostic in vitro, qui produit des examens plus rapides, moins invasifs et capables d’en dire davantage.",
       "url": "https://www.lemonde.fr/economie/article/2026/09/26/du-diagnostic-ultrarapide-d-un-infarctus-au-pronostic-de-rechute-du-cancer-du-sein-comment-les-entreprises-francaises-innovent-dans-les-tests-medicaux_6783115_3234.html",
@@ -183,26 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "« Le virus n’a pas disparu »… Faut-il s’inquiéter de la légère reprise de Covid-19 ?",
-      "desc": "Le Covid-19 est bien de retour, selon des données publiées, mercredi, par Santé publique France. Sa présence est de plus en plus détectée dans les eaux usées",
-      "url": "https://www.20minutes.fr/sante/4248317-20260924-virus-disparu-faut-inquieter-legere-reprise-covid-19?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/p1ugEoR-RpqTYjy7mSTIEyk/1200x768_francia-montaigu-vendee-07-01-2023-une-femme-effectue-un-autotest-de-depistage-de-la-covid-a-son-domicile-illustration-sur-la-covid-19-photographie-de-mathieu-thomasset-hans-lucas-francia-montaigu-vendee-07-01-2023-une-femme-realise-un-autotest-de-detection-du-covid-a-la-maison-illustration-sur-la-covid-19-fotografie-mathieu-thomasset-hans-lucas-photo-de-mathieu-thomasset-hans-lucas-via-afp",
-      "date": "2026-09-24T11:59:18+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Condom : Atteinte de la maladie de Charcot, elle marche vers Compostelle pour soutenir la recherche",
-      "desc": "À 45 ans, Soline Wenger parcourt le chemin de Saint-Jacques-de-Compostelle avec un exosquelette et collecte des fonds pour l’ARSLA, raconte « La Dépêche »",
-      "url": "https://www.20minutes.fr/societe/4248294-20260924-condom-atteinte-maladie-charcot-marche-vers-compostelle-soutenir-recherche?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/oqMT60YcQuyxu_yafN-UySk/1200x768_baliseur-avec-symbole-en-forme-de-coquille-saint-jacques-jaune-sur-le-camino-de-santiago-ou-chemin-de-saint-jacques-et-pelerins-marchant-entre-sarria-et-portomarin-en-galice-en-espagne-le-chemin-de-pelerinage-se-termine-a-saint-jacques-de-compostelle-lieu-de-sepulture-de-saint-jacques-le-grand-les-itineraires-de-pelerinage-du-camino-frances-et-du-nord-de-l-espagne-sont-classes-au-patrimoine-mondial-de-l-unesco-photo-de-manuel-cohen-photo-de-manuel-cohen-via-afp",
-      "date": "2026-09-24T09:25:47+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Après la mort d’Arnaud Denis, l’alerte des victimes d’implants en polypropylène",
       "desc": "Au lendemain de la mort par euthanasie du comédien Arnaud Denis, qui souffrait de graves complications après la pose d’un implant anti-hernie en polypropylène, des associations de victimes ont interpellé les responsables politiques. Elles alertent sur les douleurs chroniques et parfois profondément ",
       "url": "https://www.sciencesetavenir.fr/sante/implants-vaginaux-les-victimes-interpellent-les-politiques-sur-leurs-souffrances_195056?xtor=RSS-16",
@@ -229,8 +289,8 @@
       "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/01ace25_upload-1-vi9wn7jjpuqo-frame-468.jpg",
       "date": "2026-09-23T18:55:10+00:00",
       "date_formatted": "23 September 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Quatre semaines ont suffi pour faire reculer leur âge biologique de près de 4 ans : voici ce qu’ils ont mangé",
@@ -408,16 +468,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/rares-mais-agressifs-mieux-gueris-mais-avec-des-sequelles-5-choses-a-savoir-sur-les-cancers-pediatriques_194831?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa90f41e1fb0-cancer.jpg",
       "date": "2026-09-15T11:02:18+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Dans les rizières sénégalaises, une alliance contre la bilharziose",
-      "desc": "Au Sénégal, des scientifiques expérimentent l'introduction de poissons dans les rizières pour augmenter les rendements tout en luttant contre la bilharziose, une maladie parasitaire qui touche des millions de personnes en Afrique.",
-      "url": "https://www.sciencesetavenir.fr/sante/senegal-des-poissons-pour-doper-les-rizieres-et-combattre-la-bilharziose_194827?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa8f9269e6a6-senegal-4.jpg",
-      "date": "2026-09-15T08:52:35+00:00",
       "date_formatted": "15 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
