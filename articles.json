@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:08:47.393849+00:00",
+  "generated_at": "2026-09-29T21:35:19.352739+00:00",
   "count": 54,
   "articles": [
     {
@@ -13,6 +13,26 @@
       "type": "science"
     },
     {
+      "title": "«Je sais que ce n’est pas comme ça qu’on gagne des points dans les sondages» : Edouard Philippe assume sa réforme des retraites à 65 ans",
+      "desc": "Allongement de la durée de cotisation à 45 annuités, recul de l’âge légal de départ, mise en place d’un volet de capitalisation : le candidat Horizons pour 2027 a dévoilé les contours de son projet, espérant que le coup de massue soit accepté dans le contexte de dérapage des comptes publics.",
+      "url": "https://www.liberation.fr/politique/je-sais-que-ce-nest-pas-comme-ca-quon-gagne-des-points-dans-les-sondages-edouard-philippe-assume-sa-reforme-des-retraites-a-65-ans-20260929_23AEI6VZFFGKLK4V3KZKCAV6S4/",
+      "image": null,
+      "date": "2026-09-29T17:39:41+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Allemagne, Espagne, Italie… ce que font les voisins européens pour amortir la hausse des prix du carburant",
+      "desc": "Baisse des taxes ou aides aux consommateurs, les pays de l’UE utilisent diverses stratégies pour diminuer l’impact de la hausse des prix du carburant pour leurs citoyens.",
+      "url": "https://www.liberation.fr/economie/transports/allemagne-espagne-italie-ce-que-font-les-voisins-europeens-pour-amortir-la-hausse-des-prix-du-carburant-20260929_DDWNX7DCSVAXVJFX2K3LRPYIS4/",
+      "image": null,
+      "date": "2026-09-29T17:28:15+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "IST : le test gratuit qui cartonne chez les moins de 26 ans",
       "desc": "Deux millions de jeunes de moins de 26 ans ont bénéficié en 2025 du dispositif \"Mon test IST\", qui permet le dépistage pris en charge à 100% par l'Assurance maladie, sans avance de frais, sans ordonnance et sans rendez-vous de cinq infections sexuellement transmissibles : le VIH, l’hépatite B, la sy",
       "url": "https://www.franceinfo.fr/sante/sexo/ist-le-test-gratuit-qui-cartonne-chez-les-moins-de-26-ans_8214815.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -20,26 +40,6 @@
       "date": "2026-09-29T16:00:02+00:00",
       "date_formatted": "29 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Birmanie : 50 morts dans une frappe aérienne de l’armée selon des humanitaires",
-      "desc": "Il s’agit d’une des attaques les plus meurtrières de l’année dans l’Etat de Rakhine, une province de l’ouest où le régime affronte un groupe rebelle.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/birmanie-33-morts-dans-une-frappe-aerienne-de-larmee-selon-les-rebelles-20260928_4WTTU6E2A5G4XPCCISOQWXTTJ4/",
-      "image": null,
-      "date": "2026-09-29T15:57:18+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Derrière les portes des «Chambres closes», l’échappée de Germaine Aziz, sortie de la prostitution forcée",
-      "desc": "En revisitant le récit autobiographique de l’ancienne journaliste de «Libération», morte en 2003, prise au piège d’un réseau criminel pendant vingt ans, Elise Lhomeau, qui l’a connue, explore la douleur traumatique et la résistance au patriarcat.",
-      "url": "https://www.liberation.fr/culture/derriere-les-portes-des-chambres-closes-lechappee-de-germaine-aziz-sortie-de-la-prostitution-forcee-20260929_CMMEYIGVWNEDXCJUDZER5KGHDE/",
-      "image": null,
-      "date": "2026-09-29T14:48:05+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
