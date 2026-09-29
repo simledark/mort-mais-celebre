@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-28T22:41:35.039967+00:00",
-  "count": 52,
+  "generated_at": "2026-09-29T03:00:48.651916+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "Un nouveau cancer sur huit est causé par des infections, selon une étude du CIRC",
+      "desc": "Les scientifiques ont estimé la part des quelque 2,3 millions des nouveaux cas de tumeurs en 2024 attribuable à douze agents infectieux, dont des virus, des bactéries et des parasites. Mais des solutions de prévention existent.",
+      "url": "https://www.lemonde.fr/sante/article/2026/09/29/un-nouveau-cancer-sur-huit-cause-par-des-infections-selon-une-etude-du-circ_6785310_1651302.html",
+      "image": "https://img.lemde.fr/2026/09/28/63/0/700/350/644/322/60/0/7a0a6ad_upload-1-c0hiubdiwvh2-helicobacterpylori2.jpg",
+      "date": "2026-09-29T02:26:25+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Assurance maladie : La MGEN veut garder les enseignants et autres fonctionnaires dans son giron",
+      "desc": "La MGEN conteste le projet du gouvernement de transférer à la Cnam la gestion de l’Assurance maladie de 3,3 millions d’enseignants et de fonctionnaires, jugeant cette réforme sans intérêt économique",
+      "url": "https://www.20minutes.fr/sante/4249605-20260929-assurance-maladie-mgen-veut-garder-enseignants-autres-fonctionnaires-giron?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/mNv-H58vScaBn8l3cIcFtCk/1200x768_france-paris-montparnasse-siege-social-de-la-mgen-photo-de-philippe-turpin-photononstop-via-afp",
+      "date": "2026-09-29T00:34:26+00:00",
+      "date_formatted": "29 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Suicide de Joris Laurencin en Isère : quatre personnes placées en garde à vue sur fond d’accusation de racisme",
       "desc": "D’après deux médias locaux, quatre hommes, dont un mineur, ont été placés en garde à vue lundi. Ils sont soupçonnés d’avoir harcelé le jeune homme de 21 ans en raison de ses origines algériennes, avant que ce dernier ne se suicide, le 13 juillet.",
