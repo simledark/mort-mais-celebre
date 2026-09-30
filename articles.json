@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-30T17:06:50.307070+00:00",
+  "generated_at": "2026-09-30T21:35:59.999187+00:00",
   "count": 55,
   "articles": [
+    {
+      "title": "Covid-19 : Le nombre de cas progresse, dans toutes les classes d’âge",
+      "desc": "Les indicateurs du Covid-19 poursuivent leur hausse en France, alors que la campagne de vaccination nationale démarrera le 13 octobre",
+      "url": "https://www.20minutes.fr/sante/4250218-20260930-covid-19-suspicions-cas-augmente-22-semaine-toutes-classes-age?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/SZHgrZQtRVu9TuRfwBdTBCk/1200x768_preparation-vaccin-novavax-seringue-aiguille-flacon-de-10-doses-vaccin-covid-19-novavax-novavax-nuvaxovid-covovax-nvx-co-v2373-disponible-dans-les-centre-de-vaccination-de-nice-a-partir-de-18-ans-vaccin-sous-unitaire-utilisant-la-proteine-recombinante-spike-s-du-virus-sars-co-v-2-associee-a-un-adjuvant-le-matrix-m-conformement-aux-avis-de-la-haute-autorite-de-sante-has-et-du-conseil-d-orientation-de-la-strategie-vaccinale-cosv-alternative-efficace-aux-vaccins-a-arn-messager-administration-de-deux-doses-a-21-jours-d-intervalle-centre-de-vaccin-rue-hancy-nice-france-04-03-2022-syspeo-sys-a008-2203041546-credit-syspeo-sipa-2203041550",
+      "date": "2026-09-30T18:56:16+00:00",
+      "date_formatted": "30 September 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "L'environnement de travail est-il sous-estimé dans l'apparition des cancers ?",
       "desc": "Alors que le nombre de nouveaux cas de cancers augmente en France, des chercheurs du CNRS se sont interrogés sur le rôle des expositions professionnelles, dans une vaste enquête menée dans les départements du Vaucluse et de Seine-Saint-Denis.",
@@ -30,16 +40,6 @@
       "date": "2026-09-30T15:56:31+00:00",
       "date_formatted": "30 September 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Peine de mort : aux Etats-Unis, l’affaire Christa Pike illustre l’indignité de l’instinct primaire institutionnalisé",
-      "desc": "Pour la première fois depuis deux cents ans, l’Etat du Tennessee devait exécuter, ce mercredi 30 septembre, une femme qui attend dans le couloir de la mort depuis trente ans. Son histoire et la controverse que suscite son sort prouvent que le principe même de la peine capitale doit être questionné.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/peine-de-mort-aux-etats-unis-laffaire-christa-pike-illustre-lindignite-dun-instinct-primaire-institutionnalise-20260930_QYY3RS5I3ZAJ5L4TEAEQMZJP3Q/",
-      "image": null,
-      "date": "2026-09-30T15:09:01+00:00",
-      "date_formatted": "30 September 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
