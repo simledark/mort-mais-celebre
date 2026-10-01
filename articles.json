@@ -1,7 +1,107 @@
 {
-  "generated_at": "2026-10-01T02:47:39.162947+00:00",
-  "count": 55,
+  "generated_at": "2026-10-01T11:57:08.459775+00:00",
+  "count": 51,
   "articles": [
+    {
+      "title": "Octobre rose : Fabien Roussel demande « la prise en charge intégrale » des dépenses liées au traitement du cancer du sein",
+      "desc": "Le secrétaire national du PCF affirme, dans un courrier adressé au président de la République, refuser que les malades aient à « choisir entre se soigner et se nourrir ».",
+      "url": "https://www.lemonde.fr/sante/article/2026/10/01/octobre-rose-fabien-roussel-demande-la-prise-en-charge-integrale-des-depenses-liees-au-traitement-du-cancer-du-sein_6786504_1651302.html",
+      "image": "https://img.lemde.fr/2026/09/18/877/0/8000/4000/644/322/60/0/07ffdb2_upload-1-deevrj44r5rs-jmug260918007.jpg",
+      "date": "2026-10-01T12:52:13+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT – Blocages des lycées : Sébastien Lecornu demande à ses ministres d’annuler leurs déplacements dans les prochains jours",
+      "desc": "Depuis 13 heures ce jeudi, le Premier ministre préside une cellule de crise au ministère de l’Intérieur. La mobilisation, émaillée de violences, est partie de plusieurs établissements de banlieue parisienne il y a environ une semaine.",
+      "url": "https://www.liberation.fr/societe/education/en-direct-blocus-des-lycees-le-mouvement-setend-les-eleves-esperent-jouer-ce-jeudi-lacte-deux-de-leur-contestation-20261001_6K4PB7THOJHMRKVFGWSNIUNNYU/",
+      "image": null,
+      "date": "2026-10-01T11:53:30+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des tumeurs implantées dans des puces pour trouver le traitement le plus efficace contre le cancer du sein",
+      "desc": "Octobre rose débute jeudi, un mois consacré à la lutte contre le cancer du sein. Chaque année, plus de 60 000 nouveaux cas sont détectés. À Paris, des chercheurs de l’Institut Curie testent sur des puces des fragments de tumeurs pour déterminer l thérapie la plus adaptée à chaque patiente.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/des-tumeurs-implantees-dans-des-puces-pour-trouver-le-traitement-le-plus-efficace-contre-le-cancer-du-sein_8217697.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/hs-R49eSMNtKiPczskhHtCRk05M/0x53:1024x629/432x243/filters:format(jpg)/2026/10/01/6abe136ebea82439531668.jpg",
+      "date": "2026-10-01T11:04:54+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ce qui change pour votre budget en octobre : prix du gaz, hausse des frais de santé et arrêts maladie",
+      "desc": "Allocation logement revalorisée, prix du gaz, des franchises médicales et des participations forfaitaires en hausse, ce qui change en octobre.",
+      "url": "https://www.lemonde.fr/argent/article/2026/10/01/budget-des-menages-ce-qui-change-le-1-octobre_6786470_1657007.html",
+      "image": "https://img.lemde.fr/2023/04/17/364/0/3000/1500/644/322/60/0/6602888_1681718661324-rrrr.jpg",
+      "date": "2026-10-01T10:15:09+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quand un grand-parent vous tend un vieil objet, il vous transmet bien plus que ça",
+      "desc": "Un service à thé, des vinyles, un bijou de famille : passé un certain âge, beaucoup entreprennent de distribuer leurs possessions. Le geste est souvent lu comme un détachement matériel. Les travaux disponibles suggèrent plutôt l'inverse, celui d'une volonté de garder la main sur le destin des...",
+      "url": "https://www.futura-sciences.com/sante/actualites/psychologie-grand-parent-vous-tend-vieil-objet-il-vous-transmet-bien-plus-ca-k2m6-138100/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/e/d/4ed9d41735_50261370_transmission-familiale-biens-materiels.jpg",
+      "date": "2026-10-01T10:00:00+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du pancréas : « Réduire les délais d’accès à des traitements innovants est un enjeu d’égalité »",
+      "desc": "Les patients, en France, devraient bénéficier d’un large accès aux thérapies innovantes déjà disponibles aux Etats-Unis, plaident Deborah Nahon, fondatrice de Solidarité Pancréas, et Patrick Pilcer, président du conseil d’administration de Vaincre le cancer, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/01/cancer-du-pancreas-reduire-les-delais-d-acces-a-des-traitements-innovants-est-un-enjeu-d-egalite_6786460_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
+      "date": "2026-10-01T09:00:08+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Taxer les produits sucrés \"est une très bonne idée\", apprécie le professeur Boris Hansel, chef de l’unité Nutrition-Prévention à l’hôpital Bichat",
+      "desc": "\"Une simple taxe ne va pas résoudre le problème de l'obésité, du diabète et des maladies chroniques\", convient le professeur mais la taxe sodas a fait ses preuves en limitant la consommation.",
+      "url": "https://www.franceinfo.fr/economie/impots/taxer-les-produits-sucres-est-une-tres-bonne-idee-apprecie-le-professeur-boris-hansel-chef-de-l-unite-nutrition-prevention-a-l-hopital-bichat_8217787.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/rnS-8zEaGQtTAlEi8dknfFoymIU/0x0:1280x720/432x243/filters:format(jpg)/2026/10/01/6abdfe3802c39338075054.jpg",
+      "date": "2026-10-01T08:31:56+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Toutes les catégories socio-professionnelles sont désormais représentées\" : en un an, les overdoses mortelles ont doublé à Paris",
+      "desc": "\"Le constat que l'on fait est vraiment celui d'une explosion des overdoses sur la plaque parisienne\", explique la procureure Laure Beccuau.",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/toutes-les-categories-socio-professionnelles-sont-desormais-representees-en-un-an-les-overdoses-mortelles-ont-double-a-paris_8217532.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/E4g_SXzowjnloVvSAp_KljncYSI/0x245:4724x2903/432x243/filters:format(jpg)/2026/10/01/6abde5d9ab90a107839931.jpg",
+      "date": "2026-10-01T08:27:55+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Diabète de type 5 : pourquoi cette forme méconnue pourrait concerner des millions de personnes",
+      "desc": "Longtemps réduite aux types 1 et 2, la compréhension du diabète s’élargit. La reconnaissance d’un nouveau type pousse à revoir notre façon de classer et de comprendre cette maladie complexe.",
+      "url": "https://www.futura-sciences.com/sante/actualites/medecine-diabete-type-5-cette-forme-meconnue-pourrait-concerner-millions-personnes-w2t8-138118/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/e/8/fe8c3501cf_50261408_nouveau-type-diabete.jpg",
+      "date": "2026-10-01T08:00:00+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "« Octobre rose », du dépistage du cancer du sein aux facteurs de risque : les réponses à vos questions",
+      "desc": "La 33ᵉ édition de la campagne annuelle consacrée à la lutte contre le cancer du sein veut encore et toujours informer les femmes sur les vertus du dépistage, mais pas seulement.",
+      "url": "https://www.lemonde.fr/sante/article/2026/10/01/octobre-rose-du-depistage-du-cancer-du-sein-aux-facteurs-de-risque-les-reponses-a-vos-questions_6096681_1651303.html",
+      "image": "https://img.lemde.fr/2021/09/30/310/0/2400/1200/644/322/60/0/009152d_613242666-pns-724077097.jpg",
+      "date": "2026-10-01T05:00:18+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Covid-19 : Le nombre de cas progresse, dans toutes les classes d’âge",
       "desc": "Les indicateurs du Covid-19 poursuivent leur hausse en France, alors que la campagne de vaccination nationale démarrera le 13 octobre",
@@ -54,10 +154,10 @@
     },
     {
       "title": "Assurance-maladie : « Statistiques et coups de rabot ne font pas une politique de santé »",
-      "desc": "Le magistrat administratif Christian Saout, ancien membre du collège de la Haute Autorité de santé, estime, dans une tribune au « Monde », que les économies envisagées pour les remboursements des actes médicaux ou des médicaments pénaliseront les patients en souffrance sans dessiner de perspective c",
+      "desc": "Christian Saout, ancien membre du collège de la Haute Autorité de santé, estime, dans une tribune au « Monde », que les économies envisagées pour les remboursements des actes médicaux ou des médicaments pénaliseront les patients en souffrance sans dessiner de perspective crédible.",
       "url": "https://www.lemonde.fr/idees/article/2026/09/30/assurance-maladie-statistiques-et-coups-de-rabot-ne-font-pas-une-politique-de-sante_6786059_3232.html",
       "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/581a3dd_upload-1-8b3o0rl92wc7-frame-901.jpg",
-      "date": "2026-09-30T14:00:24+00:00",
+      "date": "2026-09-30T14:00:08+00:00",
       "date_formatted": "30 September 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -133,16 +233,6 @@
       "type": "science"
     },
     {
-      "title": "Environ un cancer sur huit dans le monde est lié à des infections souvent évitables, selon une agence de l'OMS",
-      "desc": "Plusieurs stratégies \"scientifiquement prouvées\" permettraient d'éviter la plupart des cancers d'origine infectieuse. C'est notamment le cas des vaccinations, dépistages et traitements.",
-      "url": "https://www.franceinfo.fr/sante/cancer/environ-un-cancer-sur-huit-dans-le-monde-est-lie-a-des-infections-souvent-evitables-selon-une-agence-de-l-oms_8214290.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/X7uy7I7MhjciE60zrvFVW7HiXhw/0x222:4283x2632/432x243/filters:format(jpg)/2026/09/29/6abb469bec512499695541.jpg",
-      "date": "2026-09-29T08:26:39+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Rugby : une vaste étude révèle un risque accru de maladies neurodégénératives chez les anciens joueurs",
       "desc": "Une vaste recherche menée en Nouvelle-Zélande révèle une découverte troublante sur les effets de certains sports de contact. Des décennies après leur carrière, certains athlètes paient un prix inattendu.",
       "url": "https://www.futura-sciences.com/sante/actualites/demence-rugby-vaste-etude-revele-risque-accru-maladies-neurodegeneratives-chez-anciens-joueurs-w2t8-137990/#xtor%3DRSS-8",
@@ -151,26 +241,6 @@
       "date_formatted": "29 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Un nouveau cas de cancer sur huit dans le monde est lié à des infections",
-      "desc": "En 2024, environ un cancer sur huit était causé par des infections souvent évitables, selon une étude du Circ publiée dans « The Lancet Oncology » ce mardi",
-      "url": "https://www.20minutes.fr/sante/4249636-20260929-nouveau-cas-cancer-huit-monde-lie-infections?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/mog74wQeQuuYIk3Du25qDCk/1200x768_une-etude-montre-que-les-infections-notamment-a-l-helicobacter-pylori-et-au-papillomavirus-sont-responsable-d-environ-un-cancer-sur-huit-illustration",
-      "date": "2026-09-29T06:46:15+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "INFO FRANCEINFO. \"En quinze minutes, c'est réglé !\" : environ deux millions de dépistages dans le cadre du dispositif \"Mon test IST\" menés en un an",
-      "desc": "Ce dispositif de dépistages d'infections sexuellement transmissibles, gratuit et sans ordonnance, est un succès chez les jeunes. Des millions de dépistages ont été réalisés dans des laboratoires de biologie en 2025.",
-      "url": "https://www.franceinfo.fr/sante/info-franceinfo-en-quinze-minutes-c-est-regle-environ-deux-millions-de-depistages-dans-le-cadre-du-dispositif-mon-test-ist-menes-en-un-an_8213669.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/tZHrIFJmui-1-mv748PWPtLEcBk/0x260:4624x2861/432x243/filters:format(jpg)/2026/09/28/6aba86f58cd59522361444.jpg",
-      "date": "2026-09-29T06:00:02+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Un nouveau cancer sur huit est causé par des infections, selon une étude du CIRC",
@@ -183,16 +253,6 @@
       "type": "presse"
     },
     {
-      "title": "Assurance maladie : La MGEN veut garder les enseignants et autres fonctionnaires dans son giron",
-      "desc": "La MGEN conteste le projet du gouvernement de transférer à la Cnam la gestion de l’Assurance maladie de 3,3 millions d’enseignants et de fonctionnaires, jugeant cette réforme sans intérêt économique",
-      "url": "https://www.20minutes.fr/sante/4249605-20260929-assurance-maladie-mgen-veut-garder-enseignants-autres-fonctionnaires-giron?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/mNv-H58vScaBn8l3cIcFtCk/1200x768_france-paris-montparnasse-siege-social-de-la-mgen-photo-de-philippe-turpin-photononstop-via-afp",
-      "date": "2026-09-29T00:34:26+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "La France bat le triste record du taux de suicides dans ses prisons",
       "desc": "La Contrôleuse générale des lieux de privation de liberté (CGLPL) alerte sur le nombre de décès survenant chaque année dans les lieux de privation de liberté en France, qui n’est pas précisément établi. Dans deux avis publiés au Journal officiel, elle relève notamment 275 décès en détention en 2025,",
       "url": "https://www.sciencesetavenir.fr/sante/la-controleuse-generale-des-lieux-de-privation-de-liberte-alerte-sur-les-deces-en-prison-et-les-carences-dans-leur-prise-en-charge_195112?xtor=RSS-16",
@@ -201,26 +261,6 @@
       "date_formatted": "28 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Six bouchers mis en examen dans l'affaire de l'intoxication mortelle à E.coli : \"Un trafic de viande\" mis au jour par les enquêteurs",
-      "desc": "Un an après la vague d’intoxications à la bactérie E.coli qui avait ôté la vie d'une fillette de 11 ans et contaminé 32 personnes dans l’Aisne, six bouchers viennent d’être mis en examen à Paris.",
-      "url": "https://www.franceinfo.fr/sante/alimentation/intoxications-alimentaires-a-la-bacterie-e-coli-dans-l-aisne/six-bouchers-mis-en-examen-dans-l-affaire-de-l-intoxication-mortelle-a-e-coli-un-trafic-de-viande-mis-au-jour-par-les-enqueteurs_8213435.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/LgGm1RCXgHwNprVda-lpPMZAIxI/43x0:1257x683/432x243/filters:format(jpg)/2026/09/28/6aba6628730ee568367768.jpg",
-      "date": "2026-09-28T15:06:55+00:00",
-      "date_formatted": "28 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Enfin une chance d'égalité thérapeutique\" : depuis juin, 85 600 boîtes de médicaments anti-obésité vendues en France",
-      "desc": "Près de 18% des adultes français sont touchés par l'obésité, \"une maladie de tissu adipeux qui se fibrose\", rappelle le Collectif national des associations d'obèses, qui dénonce une grossophobie persistante.",
-      "url": "https://www.franceinfo.fr/sante/medicament/enfin-une-chance-d-egalite-therapeutique-depuis-juin-85-600-boites-de-medicaments-anti-obesite-vendues-en-france_8213240.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/KGkTCd1bTy_NJtNS1wsa05b3zJ0/0x245:4724x2903/432x243/filters:format(jpg)/2026/09/28/6aba43ddef23d502825901.jpg",
-      "date": "2026-09-28T12:46:59+00:00",
-      "date_formatted": "28 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Une nouvelle méthode pour améliorer la précision de la stimulation cérébrale des patients atteints de Parkinson",
@@ -283,26 +323,6 @@
       "type": "science"
     },
     {
-      "title": "Et si la clé pour ralentir Alzheimer se trouvait dans votre intestin ?",
-      "desc": "Une nouvelle étude suggère qu’il suffirait de favoriser la production, par les bactéries du microbiote, d’un composé issu de la fermentation des fibres alimentaires pour réduire les manifestations de la maladie d’Alzheimer.",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-cle-ralentir-alzheimer-trouvait-votre-intestin-w2t8-137974/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/c/e/ecefa43894_50261179_alzheimer-intestins.jpg",
-      "date": "2026-09-25T08:00:00+00:00",
-      "date_formatted": "25 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "« L’année 2026 marque un tournant » : le virus du Nil occidental étend sa présence à un rythme inédit en France",
-      "desc": "La circulation du virus du Nil occidental, ou West Nile, bat des records cette année, non seulement les cas humains ont explosé, mais sa présence s'est étendue sur de nouveaux territoires métropolitains, de même qu'en Europe. Quelles sont les causes de cette hausse : climat, mutation du virus ou...",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-annee-2026-marque-tournant-virus-nil-occidental-etend-presence-rythme-inedit-france-137964/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/3/8/2389cc8160_50261175_virus-nile-west.jpg",
-      "date": "2026-09-24T14:39:21+00:00",
-      "date_formatted": "24 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Après la mort d’Arnaud Denis, l’alerte des victimes d’implants en polypropylène",
       "desc": "Au lendemain de la mort par euthanasie du comédien Arnaud Denis, qui souffrait de graves complications après la pose d’un implant anti-hernie en polypropylène, des associations de victimes ont interpellé les responsables politiques. Elles alertent sur les douleurs chroniques et parfois profondément ",
       "url": "https://www.sciencesetavenir.fr/sante/implants-vaginaux-les-victimes-interpellent-les-politiques-sur-leurs-souffrances_195056?xtor=RSS-16",
@@ -313,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Le nombre d’IVG a continué sa hausse en 2025, les causes interrogent",
-      "desc": "Cette évolution concerne toutes les classes d’âges entre 15 et 49 ans et est portée par les IVG médicamenteuses, réalisées pour la plupart hors établissement de santé.",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/23/le-nombre-d-ivg-a-continue-sa-hausse-en-2025-les-causes-interrogent_6780946_3224.html",
-      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/01ace25_upload-1-vi9wn7jjpuqo-frame-468.jpg",
-      "date": "2026-09-23T18:55:10+00:00",
-      "date_formatted": "23 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Sida: Au Kenya, le gel de l'aide humanitaire américaine tue les populations les plus exposées",
       "desc": "Au Kenya, les coupes dans l’aide américaine ont privé de soins de nombreuses travailleuses du sexe, parmi les populations les plus exposées au VIH, alors même que les contaminations reculent dans la population générale. Pour les experts, négliger ces groupes est contre-productif en matière de santé ",
       "url": "https://www.sciencesetavenir.fr/sante/sida-au-kenya-les-populations-les-plus-exposees-privees-des-fonds-americains_194935?xtor=RSS-16",
@@ -331,36 +341,6 @@
       "date_formatted": "23 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Arnaud Denis, comédien et metteur en scène au bout de la douleur, mort par euthanasie",
-      "desc": "Après la pose d’une prothèse anti-hernie que son organisme n’avait pas tolérée, l’état de santé de l’acteur n’avait cessé de se dégrader. Il est mort le 22 septembre à 43 ans.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/09/22/mort-d-arnaud-denis-comedien-et-metteur-en-scene-au-bout-de-la-douleur-mort-par-euthanasie_6780259_3382.html",
-      "image": "https://img.lemde.fr/2026/09/22/91/0/4500/2250/644/322/60/0/cc55887_upload-1-jxfskxv2vy8t-star-188062-012.jpg",
-      "date": "2026-09-22T17:42:29+00:00",
-      "date_formatted": "22 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le comédien Arnaud Denis s’est fait euthanasier en Belgique, à 43 ans, après une opération qui a tourné au cauchemar",
-      "desc": "Le comédien français était en état d’invalidité sévère après la pose d’un implant pour le traitement d’une hernie. Il a créé un collectif, Victimes françaises des prothèses de hernies, qui rassemble sur les réseaux sociaux des centaines de témoignages.",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/22/le-comedien-arnaud-denis-s-est-fait-euthanasier-en-belgique-a-43-ans-apres-une-operation-qui-a-tourne-au-cauchemar_6780138_3224.html",
-      "image": "https://img.lemde.fr/2026/09/22/115/0/5000/2500/644/322/60/0/60807a9_upload-1-ofyvjahx3pzo-20260225lpa6080.jpg",
-      "date": "2026-09-22T15:28:25+00:00",
-      "date_formatted": "22 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Arrêts maladie de courte durée : le président du Medef, Patrick Martin, prône un non-remboursement pour limiter les abus",
-      "desc": "« Bien sûr qu’il faut faire des économies » dans ce domaine, a-t-il affirmé sur France 2, « parce qu’au-delà de l’effet de base, il y a un nombre d’arrêts maladie de courte durée qui augmente d’une manière parfois suspecte ».",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/22/arrets-maladie-de-courte-duree-le-president-du-medef-patrick-martin-prone-un-non-remboursement-pour-limiter-les-abus_6780074_3224.html",
-      "image": "https://img.lemde.fr/2026/08/26/560/0/6720/3360/644/322/60/0/2d419f1_upload-1-rgszuxrnpivd-cbi1331030.jpg",
-      "date": "2026-09-22T10:55:33+00:00",
-      "date_formatted": "22 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "L'Argentine voit son taux de suicides atteindre un niveau record",
@@ -418,16 +398,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/la-personnalite-aurait-une-origine-genetique-et-des-consequences-sur-la-sante_194833?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa934be1f0c5-afp-20251015-f0459816-v1-highres-geneticresearchconceptualillustration.jpg",
       "date": "2026-09-15T13:05:58+00:00",
-      "date_formatted": "15 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : l'épidémie ne faiblit pas dans une partie de la RDC",
-      "desc": "Si des signes d'amélioration sont observés dans certaines provinces de la République démocratique du Congo (RDC), la situation reste critique au Nord-Kivu. Le virus y progresse de façon exponentielle, s'alarme l'OMS qui estime que 5000 personnels de santé supplémentaires sont nécessaires pour affron",
-      "url": "https://www.sciencesetavenir.fr/sante/rdc-ebola-continue-de-s-etendre-de-facon-exponentielle-au-nord-kivu_194832?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa93291901a6-c98e3144b57783eef82d3751a6d5090ef9396350-jpg.jpg",
-      "date": "2026-09-15T12:31:34+00:00",
       "date_formatted": "15 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
@@ -539,16 +509,6 @@
       "image": null,
       "date": "2026-06-15T07:00:08+00:00",
       "date_formatted": "15 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "De la lésion précancéreuse au cancer colorectal, la mise en lumière de mécanismes biologiques inattendus",
-      "desc": "La prévention du cancer colorectal repose sur la détection précoce et l’ablation des lésions précancéreuses, qui permettent de réduire significativement le risque d'évolution vers un cancer invasif. Une équipe de recherche de l’Inserm, de Sorbonne Université et de l’Université Paris Cité, a mis en é",
-      "url": "https://presse.inserm.fr/de-la-lesion-precancereuse-au-cancer-colorectal-la-mise-en-lumiere-de-mecanismes-biologiques-inattendus/72963/",
-      "image": null,
-      "date": "2026-06-10T18:00:20+00:00",
-      "date_formatted": "10 June 2026",
       "source": "Inserm",
       "type": "science"
     }
