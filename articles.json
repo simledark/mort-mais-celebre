@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-10-01T11:57:08.459775+00:00",
-  "count": 51,
+  "generated_at": "2026-10-01T17:48:51.931061+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Des médecins de Gustave-Roussy soupçonnés de corruption, l'institut de lutte contre le cancer dément",
+      "desc": "Selon \"Le Canard enchaîné\", des médecins ont touché plusieurs milliers d'euros pour des consultations à l'étranger. Gustave-Roussy réfute ces accusations et dénonce des informations \"sans fondement\".",
+      "url": "https://www.franceinfo.fr/sante/des-medecins-de-gustave-roussy-soupconnes-de-corruption-l-institut-de-lutte-contre-le-cancer-dement_8217949.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/7IPxDcyosPx-U5VCSryb12Qnupc/0x214:2048x1366/432x243/filters:format(jpg)/2026/10/01/6abe2085ae988707809416.jpg",
+      "date": "2026-10-01T17:30:38+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Essais cliniques sauvages sur des patients atteints de Parkinson et Alzheimer : les professeurs Fourtillan et Joyeux condamnés",
+      "desc": "Ce 1er octobre, le tribunal judiciaire de Paris a déclaré coupables le pharmacologue et le cancérologue, ainsi que deux complices, d’avoir administré sans la moindre autorisation un remède soi-disant miracle à plus de 400 malades souffrant de troubles neurodégénératifs.",
+      "url": "https://www.liberation.fr/societe/sante/essais-cliniques-sauvages-sur-des-patients-atteints-de-parkinson-et-alzheimer-les-professeurs-fourtillan-et-joyeux-condamnes-20261001_6BKNY5VRQRDC3B7SSEFOMMRFP4/",
+      "image": null,
+      "date": "2026-10-01T17:29:23+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Nous manquons de moyens pour accompagner ces enfants du bout du monde» : une enquête ouverte après la mort d’Abdouramane, 14 ans, dans un foyer à Clermont-Ferrand",
+      "desc": "Mineur non accompagné arrivé de Guinée-Conakry il y a plusieurs mois, il a été retrouvé pendu vendredi 18 septembre dans la chambre qu’il occupait. Il était suivi par l’Aide sociale à l’enfance.",
+      "url": "https://www.liberation.fr/societe/immigration/nous-manquons-de-moyens-pour-accompagner-ces-enfants-du-bout-du-monde-une-enquete-ouverte-apres-la-mort-dabdouramane-14-ans-dans-un-foyer-a-clermont-ferrand-20261001_BZJVRSWTPJC4LIXG763EPKASSY/",
+      "image": null,
+      "date": "2026-10-01T16:26:39+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Grand âge : le budget de la « Sécu » 2027 prévoit d’affecter 300 millions d’euros de CSG vers les départements, la branche autonomie plutôt préservée",
+      "desc": "La hausse des crédits de la branche consacrée aux personnes âgées et handicapées ne permet toutefois pas de combler les besoins de financement qui augmentent à cause du vieillissement de la population.",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/01/grand-age-le-budget-de-la-secu-2027-prevoit-d-affecter-300-millions-d-euros-de-csg-vers-les-departements-la-branche-autonomie-plutot-preservee_6786536_823448.html",
+      "image": "https://img.lemde.fr/2026/10/01/248/0/5476/2738/644/322/60/0/941bbcb_upload-1-spymh53foqnk-000-336g9tw.jpg",
+      "date": "2026-10-01T16:10:55+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"C'est toujours le patient, le malade qui va payer\" : quels changements pour vos dépenses de santé dans le projet de budget 2027 ?",
+      "desc": "Le gouvernement a dévoilé sa feuille de route pour 2027, jeudi 1er octobre, avec l'objectif de ramener le déficit à 5% du PIB l'an prochain. Chacun sera concerné dans son quotidien, notamment en matière de santé. Médicaments, arrêts maladie, franchise médicale…Tout d'horizon des changements à prévoi",
+      "url": "https://www.franceinfo.fr/economie/budget/c-est-toujours-le-patient-le-malade-qui-va-payer-quels-changements-pour-vos-depenses-de-sante-dans-le-projet-de-budget-2027_8218324.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/UyBqUrCmpQc-2vXtJ4YnIyBzXlc/115x0:1275x653/432x243/filters:format(jpg)/2026/10/01/6abe5dcfd0345139491445.jpg",
+      "date": "2026-10-01T15:19:46+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La tour Eiffel s'illumine pour lancer Octobre rose, le mois consacré à la lutte contre le cancer du sein",
+      "desc": "La tour Eiffel s'est teintée de rose pour lancer Octobre Rose, mercredi 30 septembre, cemois dédié à la prévention, au dépistage et à la mobilisation contre le cancer du sein. #franceinfo",
+      "url": "https://www.franceinfo.fr/sante/cancer/la-tour-eiffel-s-illumine-pour-lancer-octobre-rose-le-mois-consacre-a-la-lutte-contre-le-cancer-du-sein_8218285.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/EV7fMVhuvDayy4Z5_bHDQaYVcvA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/01/6abe4f8657422837463287.jpg",
+      "date": "2026-10-01T14:19:05+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "À Paris, les overdoses en forte hausse : 59 décès recensés depuis janvier",
+      "desc": "À Paris, les décès liés aux overdoses ont presque doublé en un an, passant de 30 en 2025 à 59 au 28 septembre 2026. Les victimes, âgées de 16 à 54 ans, présentent des profils et des contextes de consommation très variés. Environ un tiers des décès seraient liés à des pratiques de chemsex.",
+      "url": "https://www.sciencesetavenir.fr/sante/a-paris-les-overdoses-presque-multipliees-par-deux-le-chemsex-en-cause-dans-un-tiers-des-cas_195165?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/01/cover-r4x3w1200-6abe5ce573b0d-chemsex.jpg",
+      "date": "2026-10-01T13:29:15+00:00",
+      "date_formatted": "1 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Octobre rose : Fabien Roussel demande « la prise en charge intégrale » des dépenses liées au traitement du cancer du sein",
       "desc": "Le secrétaire national du PCF affirme, dans un courrier adressé au président de la République, refuser que les malades aient à « choisir entre se soigner et se nourrir ».",
@@ -10,16 +80,6 @@
       "date": "2026-10-01T12:52:13+00:00",
       "date_formatted": "1 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT – Blocages des lycées : Sébastien Lecornu demande à ses ministres d’annuler leurs déplacements dans les prochains jours",
-      "desc": "Depuis 13 heures ce jeudi, le Premier ministre préside une cellule de crise au ministère de l’Intérieur. La mobilisation, émaillée de violences, est partie de plusieurs établissements de banlieue parisienne il y a environ une semaine.",
-      "url": "https://www.liberation.fr/societe/education/en-direct-blocus-des-lycees-le-mouvement-setend-les-eleves-esperent-jouer-ce-jeudi-lacte-deux-de-leur-contestation-20261001_6K4PB7THOJHMRKVFGWSNIUNNYU/",
-      "image": null,
-      "date": "2026-10-01T11:53:30+00:00",
-      "date_formatted": "1 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -203,16 +263,6 @@
       "type": "science"
     },
     {
-      "title": "IST : le test gratuit qui cartonne chez les moins de 26 ans",
-      "desc": "Deux millions de jeunes de moins de 26 ans ont bénéficié en 2025 du dispositif \"Mon test IST\", qui permet le dépistage pris en charge à 100% par l'Assurance maladie, sans avance de frais, sans ordonnance et sans rendez-vous de cinq infections sexuellement transmissibles : le VIH, l’hépatite B, la sy",
-      "url": "https://www.franceinfo.fr/sante/sexo/ist-le-test-gratuit-qui-cartonne-chez-les-moins-de-26-ans_8214815.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/wN5Q57I0w-DzxT1NKG0kXOAWupY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/29/6abb9e6847132848714689.jpg",
-      "date": "2026-09-29T16:00:02+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Tour Eiffel en rose : Voici quand l’illumination d’Octobre rose aura lieu à Paris",
       "desc": "La capitale se met aux couleurs d’Octobre rose avec une soirée dédiée à la prévention, au dépistage et à la mobilisation contre le cancer du sein",
       "url": "https://www.20minutes.fr/societe/4249643-20260929-tour-eiffel-rose-voici-quand-illumination-octobre-rose-lieu-paris?at_medium=display&at_campaign=149",
@@ -389,16 +439,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa9633e02b6f-afp-20231115-f0403497-v1-highres-melanomacellillustration.jpg",
       "date": "2026-09-16T09:40:43+00:00",
       "date_formatted": "16 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Prudent ou casse-cou? Extraverti ou timide? Notre personnalité aurait une origine génétique",
-      "desc": "Environ un millier de mutations génétiques seraient liées à des traits de personnalité, ainsi qu’à des risques de santé causés par le comportement.",
-      "url": "https://www.sciencesetavenir.fr/sante/la-personnalite-aurait-une-origine-genetique-et-des-consequences-sur-la-sante_194833?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa934be1f0c5-afp-20251015-f0459816-v1-highres-geneticresearchconceptualillustration.jpg",
-      "date": "2026-09-15T13:05:58+00:00",
-      "date_formatted": "15 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
