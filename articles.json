@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-10-02T02:50:59.404885+00:00",
-  "count": 54,
+  "generated_at": "2026-10-02T11:28:23.243518+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Alzheimer : des chercheurs identifient un mécanisme qui abîme les vaisseaux du cerveau et parviennent à le bloquer",
+      "desc": "Dans la maladie d’Alzheimer, les neurones ne sont pas les seuls à souffrir : les petits vaisseaux du cerveau peuvent aussi se dégrader. Des chercheurs ont réussi à freiner un mécanisme qui les endommage dans des modèles expérimentaux. Une découverte qui pourrait ouvrir une nouvelle voie pour...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-chercheurs-identifient-mecanisme-abime-vaisseaux-cerveau-parviennent-bloquer-138141/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/5/5/5550fb99a6_50261449_microcerveauu-humain-reconstitue-laboratoire.jpg",
+      "date": "2026-10-02T12:30:00+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "\"Je n’avais pas le temps d’avoir le cancer, j’avais une compétition\" : l'heptathlète Elisa Pineau face à la découverte de la maladie",
+      "desc": "A 27 ans, l'athlète française - qui compte des sélections internationales chez les jeunes - partage sur les réseaux sociaux depuis le mois de mars son quotidien face à la maladie. Chaque semaine du mois d'octobre pour France Télévisions, elle reviendra sur son combat.",
+      "url": "https://www.franceinfo.fr/sports/athletisme/je-n-avais-pas-le-temps-d-avoir-le-cancer-j-avais-une-competition-l-heptathlete-elisa-pineau-face-a-la-decouverte-de-la-maladie_8219389.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/JH0hVzRvoDEpE2XMHZzubqB9wv8/115x0:3571x6144/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6abf5e7d74c4e654430286.jpg",
+      "date": "2026-10-02T09:54:43+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Je ne pouvais pas laisser mourir toutes ces personnes», le pilote indien du vol Flydubai s’exprime depuis son lit d’hôpital",
+      "desc": "Smit Machchhar, poignardé mercredi par son copilote à bord d’un avion à destination d’Israël, a affirmé avoir agi pour protéger les passagers en parvenant à ouvrir la cabine de pilotage, dans une vidéo diffusée ce vendredi 2 octobre par l’équipe du Premier ministre indien.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/je-ne-pouvais-pas-laisser-mourir-toutes-ces-personnes-le-pilote-indien-du-flydubai-sexprime-depuis-son-lit-dhopital-20261002_ZXIGC4N36JFNXF3J2EUB4GXZXE/",
+      "image": null,
+      "date": "2026-10-02T09:25:47+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du sein : prouver qu'il est lié au travail est un défi pour une femme",
+      "desc": "Plus meurtrier des cancers chez la femme, le cancer du sein est absent de la liste des pathologies professionnelles. Faire reconnaître qu'il est lié au travail est donc très compliqué. Seules quelques femmes jusqu'à présent sont parvenues à faire reconnaître l'origine professionnelle de leur cancer ",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer-du-sein-prouver-l-impact-preponderant-du-travail-un-defi-pour-les-femmes_195174?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/02/cover-r4x3w1200-6abf4d8d6b36a-4ef62ef225bf05d5180a3ae01712ef2682489c84-jpg.jpg",
+      "date": "2026-10-02T07:23:21+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Les enfants de 3-4 ans, champions de l’activité physique",
+      "desc": "« Dix mille pas et plus ». Selon une vaste étude internationale menée dans 44 pays, les enfants de cet âge effectuent en moyenne… 18 542 pas par jour. Un nombre plus élevé dans les pays à revenu faible et moyen et dans les zones rurales.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/02/les-enfants-de-3-4-ans-champions-de-l-activite-physique_6786899_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/30/500/0/6000/3000/644/322/60/0/a5e679c_upload-1-2ijaqzne6ved-000-b9hg6t3.jpg",
+      "date": "2026-10-02T06:00:30+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Moisissure sur certains fromages, produits fermentés : pourquoi des aliments qu’on laisse volontairement « pourrir » sont-ils bons pour la santé ?",
+      "desc": "Tous les microbes ne sont pas pathogènes. Laisser la nature faire son travail, de façon contrôlée, peut être bénéfique pour notre flore intestinale. Voici ce qu’ils peuvent nous apporter.",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-moisissure-certains-fromages-produits-fermentes-aliments-quon-laisse-volontairement-pourrir-sont-ils-bons-sante-138152/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/e/4/de41202313_50261458_fromage-moisissures.jpg",
+      "date": "2026-10-02T05:28:57+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Des médecins de Gustave-Roussy soupçonnés de corruption, l'institut de lutte contre le cancer dément",
       "desc": "Selon \"Le Canard enchaîné\", des médecins ont touché plusieurs milliers d'euros pour des consultations à l'étranger. Gustave-Roussy réfute ces accusations et dénonce des informations \"sans fondement\".",
@@ -10,16 +70,6 @@
       "date": "2026-10-01T17:30:38+00:00",
       "date_formatted": "1 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Essais cliniques sauvages sur des patients atteints de Parkinson et Alzheimer : les professeurs Fourtillan et Joyeux condamnés",
-      "desc": "Ce 1er octobre, le tribunal judiciaire de Paris a déclaré coupables le pharmacologue et le cancérologue, ainsi que deux complices, d’avoir administré sans la moindre autorisation un remède soi-disant miracle à plus de 400 malades souffrant de troubles neurodégénératifs.",
-      "url": "https://www.liberation.fr/societe/sante/essais-cliniques-sauvages-sur-des-patients-atteints-de-parkinson-et-alzheimer-les-professeurs-fourtillan-et-joyeux-condamnes-20261001_6BKNY5VRQRDC3B7SSEFOMMRFP4/",
-      "image": null,
-      "date": "2026-10-01T17:29:23+00:00",
-      "date_formatted": "1 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -253,16 +303,6 @@
       "type": "science"
     },
     {
-      "title": "Tour Eiffel en rose : Voici quand l’illumination d’Octobre rose aura lieu à Paris",
-      "desc": "La capitale se met aux couleurs d’Octobre rose avec une soirée dédiée à la prévention, au dépistage et à la mobilisation contre le cancer du sein",
-      "url": "https://www.20minutes.fr/societe/4249643-20260929-tour-eiffel-rose-voici-quand-illumination-octobre-rose-lieu-paris?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/JXHHZbGnTiafDDFVGwkIfik/1200x768_paris-30-septembre-2025-la-tour-eiffel-s-illumine-en-rose-pour-marquer-le-lancement-d-octobre-rose-le-mois-de-sensibilisation-au-cancer-du-sein-arnaud-cesar-vilette-sipa-press-vilette-arnaud-sipa-8264-credit-cesar-vilette-sipa-2510011223",
-      "date": "2026-09-29T11:02:36+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Moins d'un Américain sur deux sait que cette boisson est liée au risque de cancer",
       "desc": "2,6 millions de décès par an dans le monde, soit un décès sur vingt. L'alcool est classé cancérogène certain, au même titre que le tabac et l'amiante. Il reste pourtant au centre des célébrations, des repas et des rassemblements professionnels. Un médecin addictologue interroge cet écart entre...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-moins-americain-deux-sait-cette-boisson-liee-risque-cancer-k2m6-138058/#xtor%3DRSS-8",
@@ -353,16 +393,6 @@
       "type": "presse"
     },
     {
-      "title": "Parkinson : après 25 ans de recherche, cette thérapie donne des résultats très prometteurs",
-      "desc": "Une avancée médicale spectaculaire redonne espoir aux patients atteints de Parkinson. Des greffes de cellules souches dans le cerveau montrent des résultats prometteurs, avec une amélioration durable des symptômes moteurs chez les premiers patients traités. Cette thérapie cellulaire, après...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-apres-25-ans-recherche-cette-therapie-donne-resultats-tres-prometteurs-w2t8-137977/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/4/b/44bceb930b_50261183_parkinson-therapie-cellulaire.jpg",
-      "date": "2026-09-26T08:00:00+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Après la mort d’Arnaud Denis, l’alerte des victimes d’implants en polypropylène",
       "desc": "Au lendemain de la mort par euthanasie du comédien Arnaud Denis, qui souffrait de graves complications après la pose d’un implant anti-hernie en polypropylène, des associations de victimes ont interpellé les responsables politiques. Elles alertent sur les douleurs chroniques et parfois profondément ",
       "url": "https://www.sciencesetavenir.fr/sante/implants-vaginaux-les-victimes-interpellent-les-politiques-sur-leurs-souffrances_195056?xtor=RSS-16",
@@ -419,16 +449,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/16/cover-r4x3w1200-6aaaad14df507-d538d19a0570e1550c0c4322d7c419889e227245-jpg.jpg",
       "date": "2026-09-17T07:10:29+00:00",
       "date_formatted": "17 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer : comment la tumeur berne le système immunitaire",
-      "desc": "Des chercheurs américains ont découvert comment des cellules cancéreuses peuvent retourner un mécanisme du système immunitaire à leur avantage. Grâce à des signaux chimiques, celles-ci parviennent à inhiber l'action des lymphocytes. Explications.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-pourquoi-le-systeme-immunitaire-peut-favoriser-la-croissance-des-tumeurs_194839?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/15/cover-r4x3w1200-6aa9633e02b6f-afp-20231115-f0403497-v1-highres-melanomacellillustration.jpg",
-      "date": "2026-09-16T09:40:43+00:00",
-      "date_formatted": "16 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
