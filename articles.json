@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-10-02T11:28:23.243518+00:00",
+  "generated_at": "2026-10-02T16:55:58.806340+00:00",
   "count": 56,
   "articles": [
+    {
+      "title": "Le virus West Nile flambe en France, atteignant un record de 145 cas humains",
+      "desc": "Les températures élevées de l’été et le retour de quelques orages stimulent cet agent infectieux transmis des oiseaux aux humains par les moustiques communs.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/02/le-virus-west-nile-flambe-en-france-atteignant-un-record-de-145-cas-humains_6787189_3244.html",
+      "image": "https://img.lemde.fr/2026/10/02/159/0/1907/953/644/322/60/0/4369ae9_upload-1-wl0yyxilryyj-000-69c79t3.jpg",
+      "date": "2026-10-02T18:00:24+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "RDC : l’épidémie d’Ebola franchit le cap des 4 000 morts",
+      "desc": "Depuis la mi-mai, la République démocratique du Congo fait face à la 17e vague de la maladie, la pire flambée de son histoire. La moitié des 8 000 malades confirmés ont succombé au virus.",
+      "url": "https://www.liberation.fr/international/afrique/rdc-lepidemie-debola-franchit-le-cap-des-4-000-morts-20261002_OZW22YIEWFE2ZHB6Q5B52SZHMU/",
+      "image": null,
+      "date": "2026-10-02T16:22:36+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Alzheimer : des chercheurs identifient un mécanisme qui abîme les vaisseaux du cerveau et parviennent à le bloquer",
       "desc": "Dans la maladie d’Alzheimer, les neurones ne sont pas les seuls à souffrir : les petits vaisseaux du cerveau peuvent aussi se dégrader. Des chercheurs ont réussi à freiner un mécanisme qui les endommage dans des modèles expérimentaux. Une découverte qui pourrait ouvrir une nouvelle voie pour...",
@@ -13,6 +33,26 @@
       "type": "science"
     },
     {
+      "title": "Virus du Nil occidental : Un troisième décès en Ile-de-France, rapporte l’Etat",
+      "desc": "Santé publique France fait état de 23 cas humains autochtones d’infection à virus du Nil occidental ou West Nile (VWN), identifiés en Île-de-France",
+      "url": "https://www.20minutes.fr/sante/4250732-20261002-virus-nil-occidental-troisieme-deces-ile-france-rapporte-etat?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Tf9tM1qsRg2z-wP3E9q7lSk/1200x768_un-moustique-culex-connu-sous-le-nom-de-moustique-domestique-se-nourrit-du-jus-d-une-banane-pelee-trop-mure-dans-une-assiette-de-service-la-nuit-a-tehatta-au-bengale-occidental-en-inde-le-8-septembre-2026-l-espece-est-repartie-dans-les-zones-urbaines-et-semi-urbaines-de-l-inde-et-constitue-le-principal-vecteur-de-la-filariose-lymphatique-egalement-connue-sous-le-nom-de-filariose-bancroftienne-actif-le-soir-la-nuit-et-tot-le-matin-il-est-le-vecteur-de-wuchereria-bancrofti-du-paludisme-aviaire-et-d-arbovirus-notamment-le-virus-de-l-encephalite-de-saint-louis-le-virus-de-l-encephalite-equine-occidentale-le-virus-zika-et-le-virus-du-nil-occidental-les-moustiques-culex-adultes-se-nourrissent-de-bananes-les-sucres-vegetaux-et-le-nectar-constituent-la-principale-source-de-nourriture-quotidienne-pour-les-moustiques-adultes-males-et-femelles-qui-ont-besoin-de-glucides-pour-voler-s-accoupler-et-survivre-dans-les-zones-urbaines-et-semi-urbaines-de-l-inde-les-moustiques-se-nourrissent-du-jus-des-fruits-exposes-trop-murs-ou-pourris-y-compris-les-bananes-pour-en-extraire-le-fructose-et-d-autres-sucres-naturels-seules-les-femelles-piquent-les-humains-et-les-animaux-pour-obtenir-le-sang-dont-ils-ont-besoin-pour-obtenir-les-proteines-et-le-fer-necessaires-a-la-production-de-leurs-ufs-les-males-ne-mordent-pas-et-survivent-grace-au-jus-des-plantes-et-au-nectar-photo-de-soumyabrata-roy-nur-photo-photo-de-soumyabrata-roy-nur-photo-via-afp",
+      "date": "2026-10-02T11:53:42+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au Nigeria, une stratégie innovante associe vaccination et nutrition préventive pour augmenter la couverture vaccinale des enfants",
+      "desc": "Au Nigeria, la sous-nutrition et les maladies infectieuses constituent une double menace pour la survie de l'enfant, en particulier dans les zones où le fardeau de la malnutrition est élevé et les couvertures vaccinales faibles. Face à ce double enjeu de santé publique, des scientifiques et des huma",
+      "url": "https://presse.inserm.fr/au-nigeria-une-strategie-innovante-associe-vaccination-et-nutrition-preventive-pour-augmenter-la-couverture-vaccinale-des-enfants/73337/",
+      "image": null,
+      "date": "2026-10-02T10:00:59+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "\"Je n’avais pas le temps d’avoir le cancer, j’avais une compétition\" : l'heptathlète Elisa Pineau face à la découverte de la maladie",
       "desc": "A 27 ans, l'athlète française - qui compte des sélections internationales chez les jeunes - partage sur les réseaux sociaux depuis le mois de mars son quotidien face à la maladie. Chaque semaine du mois d'octobre pour France Télévisions, elle reviendra sur son combat.",
       "url": "https://www.franceinfo.fr/sports/athletisme/je-n-avais-pas-le-temps-d-avoir-le-cancer-j-avais-une-competition-l-heptathlete-elisa-pineau-face-a-la-decouverte-de-la-maladie_8219389.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -20,16 +60,6 @@
       "date": "2026-10-02T09:54:43+00:00",
       "date_formatted": "2 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Je ne pouvais pas laisser mourir toutes ces personnes», le pilote indien du vol Flydubai s’exprime depuis son lit d’hôpital",
-      "desc": "Smit Machchhar, poignardé mercredi par son copilote à bord d’un avion à destination d’Israël, a affirmé avoir agi pour protéger les passagers en parvenant à ouvrir la cabine de pilotage, dans une vidéo diffusée ce vendredi 2 octobre par l’équipe du Premier ministre indien.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/je-ne-pouvais-pas-laisser-mourir-toutes-ces-personnes-le-pilote-indien-du-flydubai-sexprime-depuis-son-lit-dhopital-20261002_ZXIGC4N36JFNXF3J2EUB4GXZXE/",
-      "image": null,
-      "date": "2026-10-02T09:25:47+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -50,16 +80,6 @@
       "date": "2026-10-02T06:00:30+00:00",
       "date_formatted": "2 October 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Moisissure sur certains fromages, produits fermentés : pourquoi des aliments qu’on laisse volontairement « pourrir » sont-ils bons pour la santé ?",
-      "desc": "Tous les microbes ne sont pas pathogènes. Laisser la nature faire son travail, de façon contrôlée, peut être bénéfique pour notre flore intestinale. Voici ce qu’ils peuvent nous apporter.",
-      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-moisissure-certains-fromages-produits-fermentes-aliments-quon-laisse-volontairement-pourrir-sont-ils-bons-sante-138152/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/e/4/de41202313_50261458_fromage-moisissures.jpg",
-      "date": "2026-10-02T05:28:57+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -383,16 +403,6 @@
       "type": "presse"
     },
     {
-      "title": "Intoxications à E. coli dans l’Aisne : six bouchers mis en examen après la mort d’une enfant",
-      "desc": "Poursuivis notamment pour homicide involontaire et abattage illicite, ils ont interdiction d’exercer en boucherie, après une vague d’intoxications qui avait touché 32 personnes en juin 2025 dans la région de Saint-Quentin.",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/26/intoxications-a-e-coli-dans-l-aisne-six-bouchers-mis-en-examen-apres-la-mort-d-une-enfant_6783111_3224.html",
-      "image": "https://img.lemde.fr/2025/06/23/649/0/7243/3621/644/322/60/0/eadef90_ftp-import-images-1-7igqxxwyadch-5228884-01-06.jpg",
-      "date": "2026-09-26T10:19:55+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Après la mort d’Arnaud Denis, l’alerte des victimes d’implants en polypropylène",
       "desc": "Au lendemain de la mort par euthanasie du comédien Arnaud Denis, qui souffrait de graves complications après la pose d’un implant anti-hernie en polypropylène, des associations de victimes ont interpellé les responsables politiques. Elles alertent sur les douleurs chroniques et parfois profondément ",
       "url": "https://www.sciencesetavenir.fr/sante/implants-vaginaux-les-victimes-interpellent-les-politiques-sur-leurs-souffrances_195056?xtor=RSS-16",
@@ -549,16 +559,6 @@
       "image": null,
       "date": "2026-06-16T08:00:46+00:00",
       "date_formatted": "16 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des scientifiques parviennent à créer des organoïdes intestinaux plus grands et dotés d’un système nerveux fonctionnel",
-      "desc": "De plus en plus de personnes souffrent de maladies gastro-intestinales. Pour mieux comprendre ces pathologies et apporter des solutions aux patients, les scientifiques travaillent sur les organoïdes, des petites structures biologiques en trois dimensions capables de reproduire certaines fonctions d’",
-      "url": "https://presse.inserm.fr/des-scientifiques-parviennent-a-creer-des-organoides-intestinaux-plus-grands-et-dotes-dun-systeme-nerveux-fonctionnel/73019/",
-      "image": null,
-      "date": "2026-06-15T07:00:08+00:00",
-      "date_formatted": "15 June 2026",
       "source": "Inserm",
       "type": "science"
     }
