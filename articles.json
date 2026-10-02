@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-02T16:55:58.806340+00:00",
-  "count": 56,
+  "generated_at": "2026-10-02T21:30:39.944810+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "En République du Congo, l'épidémie d'Ebola franchit le cap des 4 000 morts",
+      "desc": "Jean-Noël Barrot se rend dans le pays pour marquer le soutien de la France aux autorités locales.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/0Dv0wTBSkUyIm80mSTlYDRIW_Yk/0x300:5760x3540/432x243/filters:format(jpg)/2026/10/02/6abfe670170b7614597532.jpg",
+      "date": "2026-10-02T22:19:38+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Le virus West Nile flambe en France, atteignant un record de 145 cas humains",
       "desc": "Les températures élevées de l’été et le retour de quelques orages stimulent cet agent infectieux transmis des oiseaux aux humains par les moustiques communs.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/02/le-virus-west-nile-flambe-en-france-atteignant-un-record-de-145-cas-humains_6787189_3244.html",
       "image": "https://img.lemde.fr/2026/10/02/159/0/1907/953/644/322/60/0/4369ae9_upload-1-wl0yyxilryyj-000-69c79t3.jpg",
-      "date": "2026-10-02T18:00:24+00:00",
+      "date": "2026-10-02T18:00:16+00:00",
       "date_formatted": "2 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "RDC : l’épidémie d’Ebola franchit le cap des 4 000 morts",
-      "desc": "Depuis la mi-mai, la République démocratique du Congo fait face à la 17e vague de la maladie, la pire flambée de son histoire. La moitié des 8 000 malades confirmés ont succombé au virus.",
-      "url": "https://www.liberation.fr/international/afrique/rdc-lepidemie-debola-franchit-le-cap-des-4-000-morts-20261002_OZW22YIEWFE2ZHB6Q5B52SZHMU/",
-      "image": null,
-      "date": "2026-10-02T16:22:36+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -233,16 +233,6 @@
       "type": "presse"
     },
     {
-      "title": "L'environnement de travail est-il sous-estimé dans l'apparition des cancers ?",
-      "desc": "Alors que le nombre de nouveaux cas de cancers augmente en France, des chercheurs du CNRS se sont interrogés sur le rôle des expositions professionnelles, dans une vaste enquête menée dans les départements du Vaucluse et de Seine-Saint-Denis.",
-      "url": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/sante-au-travail/l-environnement-de-travail-est-il-sous-estime-dans-l-apparition-des-cancers_8216551.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/RH7W06X-O-uOoyOKXJhcUjZD5mA/0x270:5184x3186/432x243/filters:format(jpg)/2026/09/30/6abd2898524b5251353481.jpg",
-      "date": "2026-09-30T17:32:27+00:00",
-      "date_formatted": "30 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer",
       "desc": "Bouffées de chaleur, insomnies, difficultés de concentration… sont des symptômes bien connus de la ménopause. Mais pourrait-elle aussi laisser une empreinte sur le cerveau plusieurs décennies plus tard ? Une étude menée auprès de plus de 2 600 femmes apporte de nouveaux indices, en s’intéressant...",
       "url": "https://www.futura-sciences.com/sante/actualites/menopause-menopause-etude-18-ans-revele-lien-inquietant-son-age-apparition-maladie-alzheimer-138117/#xtor%3DRSS-8",
@@ -251,16 +241,6 @@
       "date_formatted": "30 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Téléconsultation : est-il plus facile d'obtenir un arrêt maladie en visio que face à son médecin ?",
-      "desc": "Les arrêts maladie en téléconsultation sont limités à trois jours depuis cet été. Selon les organisations patronales, ces arrêts seraient obtenus trop facilement. Les équipes de France Télévisions ont mené le test avec deux plateformes.",
-      "url": "https://www.franceinfo.fr/sante/teleconsultation-est-il-plus-facile-d-obtenir-un-arret-maladie-en-visio-que-face-a-son-medecin_8216470.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/xG9Usj8zMbQQHQ12vdHno2wknS0/0x25:1496x867/432x243/filters:format(jpg)/2026/09/30/6abd1450716fc795122642.jpg",
-      "date": "2026-09-30T15:56:31+00:00",
-      "date_formatted": "30 September 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Saint-Étienne : Une plateforme inédite pour le suivi des anciens patients atteints de cancer",
