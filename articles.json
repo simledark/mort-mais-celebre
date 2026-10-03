@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-02T21:30:39.944810+00:00",
+  "generated_at": "2026-10-03T02:37:29.375449+00:00",
   "count": 54,
   "articles": [
+    {
+      "title": "Ebola en RDC : la pire épidémie de l’histoire du pays franchit la barre des 4 000 morts",
+      "desc": "Le pays fait face à une flambée inédite du virus mais la présence de groupes armés et la défiance d’une partie des populations locales entravent la riposte. Le chef de la diplomatie française, Jean-Noël Barrot, est sur place pour marquer le soutien de Paris aux autorités locales et aux humanitaires.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html",
+      "image": "https://img.lemde.fr/2026/10/02/1095/0/7728/3864/644/322/60/0/374e429_ftp-1-ctfzwcpjwncg-2026-10-02t095043z-892010841-rc2oonaomkm7-rtrmadp-3-health-ebola-congo.JPG",
+      "date": "2026-10-03T02:14:41+00:00",
+      "date_formatted": "3 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "En République du Congo, l'épidémie d'Ebola franchit le cap des 4 000 morts",
       "desc": "Jean-Noël Barrot se rend dans le pays pour marquer le soutien de la France aux autorités locales.",
@@ -371,16 +381,6 @@
       "date_formatted": "27 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Du diagnostic ultrarapide d’un infarctus au pronostic de rechute du cancer du sein, comment les entreprises françaises innovent dans les tests médicaux",
-      "desc": "Le lancement du nouveau test du laboratoire BioMérieux pour diagnostiquer en quelques minutes un infarctus met en lumière le dynamisme de l’industrie française du diagnostic in vitro, qui produit des examens plus rapides, moins invasifs et capables d’en dire davantage.",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/26/du-diagnostic-ultrarapide-d-un-infarctus-au-pronostic-de-rechute-du-cancer-du-sein-comment-les-entreprises-francaises-innovent-dans-les-tests-medicaux_6783115_3234.html",
-      "image": "https://img.lemde.fr/2026/09/25/865/0/6000/3000/644/322/60/0/96ef10d_upload-1-arigif0homjq-000-33kg9k3.jpg",
-      "date": "2026-09-26T11:00:09+00:00",
-      "date_formatted": "26 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Après la mort d’Arnaud Denis, l’alerte des victimes d’implants en polypropylène",
