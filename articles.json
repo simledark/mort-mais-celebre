@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-03T10:44:26.281422+00:00",
-  "count": 61,
+  "generated_at": "2026-10-03T15:19:10.905373+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Cancer du sein : trop peu de femmes se font dépister",
+      "desc": "À l'occasion d'Octobre rose, plusieurs communes tentent de sensibiliser au dépistage contre le cancer du sein. En France, beaucoup de femmes craignent encore de se faire contrôler.",
+      "url": "https://www.franceinfo.fr/sante/cancer/cancer-du-sein-trop-peu-de-femmes-se-font-depister_8221195.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/S-95O6lm7ocIJDwG3C0_QmNkuWI/0x1:1507x849/432x243/filters:format(jpg)/2026/10/03/6ac0f94100007371539142.jpg",
+      "date": "2026-10-03T16:17:16+00:00",
+      "date_formatted": "3 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Jean-Victor Blanc, un médecin gay en état d’alerte face au chemsex",
+      "desc": "Tête de proue dans la lutte face à cette «épidémie», le psychiatre, fondateur de Pop & Psy, raconte son combat dans un livre tiré de son expérience de terrain.",
+      "url": "https://www.liberation.fr/lifestyle/intimites/jean-victor-blanc-un-medecin-gay-en-etat-dalerte-face-au-chemsex-20261003_JKKRNJ3MWJC7RGICM6LB6TQCJY/",
+      "image": null,
+      "date": "2026-10-03T14:55:00+00:00",
+      "date_formatted": "3 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie »",
+      "desc": "Ces médicaments sont, depuis juin, remboursés sous conditions par l’Assurance-maladie. L’anthropologue Ghislaine Gallenga craint, dans une tribune au « Monde », que cette avancée thérapeutique n’ajoute à la culpabilisation des personnes qui n’auront pas perdu de poids, alors qu’un traitement est dis",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/03/l-arrivee-des-medicaments-antiobesite-en-france-ne-permet-pas-de-predire-la-disparition-de-la-grossophobie_6787793_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
+      "date": "2026-10-03T14:00:05+00:00",
+      "date_formatted": "3 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "L'agence sanitaire américaine dévoile les conclusions de son enquête sur l'épidémie de \"diarrhée explosive\" qui a touché les Etats-Unis durant l'été",
       "desc": "Des prélèvements effectués chez un producteur de laitue et une usine de transformation au Mexique sont revenus positifs au parasite \"Cyclospora cayetanensis\". L'épidémie a touché près de 13 000 personnes.",
@@ -60,36 +90,6 @@
       "date": "2026-10-03T08:00:02+00:00",
       "date_formatted": "3 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Rose-Marie Lagrave, sociologue : «Refusons de mettre les vieux à part, la mort s’en chargera»",
-      "desc": "Dans «la Mort devant soi», la sociologue prend la fin de vie de ses proches comme matériau d’enquête et regarde la vieillesse et l’agonie en face, enjeu social de premier plan. Elle milite pour le droit au suicide assisté mais aussi pour vivre dignement jusqu’à la mort.",
-      "url": "https://www.liberation.fr/idees-et-debats/rose-marie-lagrave-sociologue-refusons-de-mettre-les-vieux-a-part-la-mort-sen-chargera-20261003_P6UH46JQ75F4XH52YC2Y35QAQI/",
-      "image": null,
-      "date": "2026-10-03T07:51:00+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Logements, usines, développement rural : la Corée du Nord en plein boom économique",
-      "desc": "Après une forte récession lors de la pandémie de Covid-19, le pays affiche un taux de croissance supérieur à 3 % depuis trois ans, dopé par ses liens avec Moscou. Mais si la modernisation réduit les inégalités régionales, elle passe aussi par le recours au travail forcé pour bâtir les grands projets",
-      "url": "https://www.liberation.fr/international/asie-pacifique/logements-usines-developpement-rural-la-coree-du-nord-en-plein-boom-economique-20261003_R5VGANJBDZBWNHGB2AP7VTXWFY/",
-      "image": null,
-      "date": "2026-10-03T07:35:00+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "En librairies : Anne Pitteloud, Loulou Robert, Adam Mars-Jones...",
-      "desc": "Dix forts volumes de pages blanches, un virus contaminant la viande, un coup de fermeture éclair, un principe anti-vie, une «Cendrillon en robe du soir» et un «gilet jaune» en 1859.",
-      "url": "https://www.liberation.fr/culture/livres/en-librairies-anne-pitteloud-loulou-robert-adam-mars-jones-20261003_XPYP46CPX5CSHLRL2IREZOMQKM/",
-      "image": null,
-      "date": "2026-10-03T07:21:00+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -228,16 +228,6 @@
       "url": "https://www.franceinfo.fr/economie/budget/c-est-toujours-le-patient-le-malade-qui-va-payer-quels-changements-pour-vos-depenses-de-sante-dans-le-projet-de-budget-2027_8218324.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/UyBqUrCmpQc-2vXtJ4YnIyBzXlc/115x0:1275x653/432x243/filters:format(jpg)/2026/10/01/6abe5dcfd0345139491445.jpg",
       "date": "2026-10-01T15:19:46+00:00",
-      "date_formatted": "1 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La tour Eiffel s'illumine pour lancer Octobre rose, le mois consacré à la lutte contre le cancer du sein",
-      "desc": "La tour Eiffel s'est teintée de rose pour lancer Octobre Rose, mercredi 30 septembre, cemois dédié à la prévention, au dépistage et à la mobilisation contre le cancer du sein. #franceinfo",
-      "url": "https://www.franceinfo.fr/sante/cancer/la-tour-eiffel-s-illumine-pour-lancer-octobre-rose-le-mois-consacre-a-la-lutte-contre-le-cancer-du-sein_8218285.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/EV7fMVhuvDayy4Z5_bHDQaYVcvA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/01/6abe4f8657422837463287.jpg",
-      "date": "2026-10-01T14:19:05+00:00",
       "date_formatted": "1 October 2026",
       "source": "France Info Santé",
       "type": "presse"
