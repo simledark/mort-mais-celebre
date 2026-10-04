@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-03T20:17:30.725820+00:00",
-  "count": 58,
+  "generated_at": "2026-10-04T03:08:48.268437+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "\"J'ai pensé tout de suite que ma vie allait voler en éclats\" : Alice Detollenaere et Camille Lacourt, un couple à l'épreuve du cancer",
+      "desc": "Le cancer du sein touche une femme sur huit. S’il est détecté à un stade précoce, il se guérit dans plus de 90% des cas. La maladie reste un tsunami pour les couples, avec ses hauts et ses bas. Alice Detollenaere et Camille Lacourt, qui se sont battus ensemble au cœur de la tempête, témoignent dans ",
+      "url": "https://www.franceinfo.fr/sante/cancer/j-ai-pense-tout-de-suite-que-ma-vie-allait-voler-en-eclats-alice-detollenaere-et-camille-lacourt-un-couple-a-l-epreuve-du-cancer_8221576.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/gwdM3yZ81rVDjPbQSQu5sJ2hSGY/0x179:1246x880/432x243/filters:format(jpg)/2026/10/03/6ac163b91d87c489491009.png",
+      "date": "2026-10-03T23:13:03+00:00",
+      "date_formatted": "3 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Cancer du sein : trop peu de femmes se font dépister",
       "desc": "À l'occasion d'Octobre rose, plusieurs communes tentent de sensibiliser au dépistage contre le cancer du sein. En France, beaucoup de femmes craignent encore de se faire contrôler.",
@@ -183,16 +193,6 @@
       "type": "science"
     },
     {
-      "title": "Des médecins de Gustave-Roussy soupçonnés de corruption, l'institut de lutte contre le cancer dément",
-      "desc": "Selon \"Le Canard enchaîné\", des médecins ont touché plusieurs milliers d'euros pour des consultations à l'étranger. Gustave-Roussy réfute ces accusations et dénonce des informations \"sans fondement\".",
-      "url": "https://www.franceinfo.fr/sante/des-medecins-de-gustave-roussy-soupconnes-de-corruption-l-institut-de-lutte-contre-le-cancer-dement_8217949.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/7IPxDcyosPx-U5VCSryb12Qnupc/0x214:2048x1366/432x243/filters:format(jpg)/2026/10/01/6abe2085ae988707809416.jpg",
-      "date": "2026-10-01T17:30:38+00:00",
-      "date_formatted": "1 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Grand âge : le budget de la « Sécu » 2027 prévoit d’affecter 300 millions d’euros de CSG vers les départements, la branche autonomie plutôt préservée",
       "desc": "La hausse des crédits de la branche consacrée aux personnes âgées et handicapées ne permet toutefois pas de combler les besoins de financement qui augmentent à cause du vieillissement de la population.",
       "url": "https://www.lemonde.fr/politique/article/2026/10/01/grand-age-le-budget-de-la-secu-2027-prevoit-d-affecter-300-millions-d-euros-de-csg-vers-les-departements-la-branche-autonomie-plutot-preservee_6786536_823448.html",
@@ -200,16 +200,6 @@
       "date": "2026-10-01T16:10:55+00:00",
       "date_formatted": "1 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"C'est toujours le patient, le malade qui va payer\" : quels changements pour vos dépenses de santé dans le projet de budget 2027 ?",
-      "desc": "Le gouvernement a dévoilé sa feuille de route pour 2027, jeudi 1er octobre, avec l'objectif de ramener le déficit à 5% du PIB l'an prochain. Chacun sera concerné dans son quotidien, notamment en matière de santé. Médicaments, arrêts maladie, franchise médicale…Tout d'horizon des changements à prévoi",
-      "url": "https://www.franceinfo.fr/economie/budget/c-est-toujours-le-patient-le-malade-qui-va-payer-quels-changements-pour-vos-depenses-de-sante-dans-le-projet-de-budget-2027_8218324.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/UyBqUrCmpQc-2vXtJ4YnIyBzXlc/115x0:1275x653/432x243/filters:format(jpg)/2026/10/01/6abe5dcfd0345139491445.jpg",
-      "date": "2026-10-01T15:19:46+00:00",
-      "date_formatted": "1 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
