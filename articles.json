@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-04T03:08:48.268437+00:00",
-  "count": 57,
+  "generated_at": "2026-10-04T11:26:08.618998+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "Pluies torrentielles en Espagne : deux morts dans la province de Barcelone, en état d’alerte",
+      "desc": "La tempête qui a entraîné l’annulation de la manifestation pour le droit au logement à Barcelone samedi devrait prendre fin ce dimanche 4 octobre.",
+      "url": "https://www.liberation.fr/international/europe/pluies-torrentielles-en-espagne-deux-morts-dans-la-province-de-barcelone-en-etat-dalerte-20261004_GZRUQTCXORCRXGAOQMG66BO7FU/",
+      "image": null,
+      "date": "2026-10-04T09:30:23+00:00",
+      "date_formatted": "4 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L'épidémie d'Ebola franchit le cap des 4000 morts en République démocratique du Congo",
+      "desc": "En République démocratique du Congo, la lutte contre le virus Ebola s'organise avec la présence, sur place, d'ONG. Cependant, il reste de contrer la propagation à cause, notamment, de conflits armés.",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/l-epidemie-d-ebola-franchit-le-cap-des-4000-morts-en-republique-democratique-du-congo_8221921.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/erj5wXY9A74GJJWEsYcriWxVVXY/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/04/6ac1e91e63239440360306.jpg",
+      "date": "2026-10-04T07:58:31+00:00",
+      "date_formatted": "4 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi faire des piercings sur la main comme North West pose problème ?",
+      "desc": "Cicatrices, risques de maladies… les risques pour ce piercing sont élevés et parfois définitifs",
+      "url": "https://www.20minutes.fr/tempo/style/4249982-20261004-pourquoi-faire-piercings-main-comme-north-west-pose-probleme?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/CHqYa7vZS0ydnh1GKx0_WSk/1200x768_x",
+      "date": "2026-10-04T07:32:37+00:00",
+      "date_formatted": "4 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "En Inde, des chiens entraînés à détecter des cancers à l’aide de l’IA",
+      "desc": "La start-up indienne Dognosis associe le flair des canidés et l’IA pour diagnostiquer les cancers. À Bangalore, Chloé et 14 autres chiens participent à cette expérience qui pourrait aider à détecter la maladie plus tôt. Les premiers résultats sont prometteurs, mais la méthode doit encore être confir",
+      "url": "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GMD9AvHOKfaoap2RGVprhmmNv-Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6abf8d3796ce6427001379.jpg",
+      "date": "2026-10-04T06:00:19+00:00",
+      "date_formatted": "4 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "\"J'ai pensé tout de suite que ma vie allait voler en éclats\" : Alice Detollenaere et Camille Lacourt, un couple à l'épreuve du cancer",
       "desc": "Le cancer du sein touche une femme sur huit. S’il est détecté à un stade précoce, il se guérit dans plus de 90% des cas. La maladie reste un tsunami pour les couples, avec ses hauts et ses bas. Alice Detollenaere et Camille Lacourt, qui se sont battus ensemble au cœur de la tempête, témoignent dans ",
@@ -23,16 +63,6 @@
       "type": "presse"
     },
     {
-      "title": "Jean-Victor Blanc, un médecin gay en état d’alerte face au chemsex",
-      "desc": "Tête de proue dans la lutte face à cette «épidémie», le psychiatre, fondateur de Pop & Psy, raconte son combat dans un livre tiré de son expérience de terrain.",
-      "url": "https://www.liberation.fr/lifestyle/intimites/jean-victor-blanc-un-medecin-gay-en-etat-dalerte-face-au-chemsex-20261003_JKKRNJ3MWJC7RGICM6LB6TQCJY/",
-      "image": null,
-      "date": "2026-10-03T14:55:00+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie »",
       "desc": "Ces médicaments sont, depuis juin, remboursés sous conditions par l’Assurance-maladie. L’anthropologue Ghislaine Gallenga craint, dans une tribune au « Monde », que cette avancée thérapeutique n’ajoute à la culpabilisation des personnes qui n’auront pas perdu de poids, alors qu’un traitement est dis",
       "url": "https://www.lemonde.fr/idees/article/2026/10/03/l-arrivee-des-medicaments-antiobesite-en-france-ne-permet-pas-de-predire-la-disparition-de-la-grossophobie_6787793_3232.html",
@@ -50,16 +80,6 @@
       "date": "2026-10-03T11:00:47+00:00",
       "date_formatted": "3 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "46 ans après l’attentat de la rue Copernic, de nouveaux appels à l’extradition du coupable du Canada vers la France",
-      "desc": "L’explosion d’une bombe près d’une synagogue à Paris le 3 octobre 1980 avait fait quatre morts et plusieurs dizaines de blessés. Ce samedi, un avocat de victimes et un organe canadien de la communauté juive appellent à l’extradition d’Hassan Diab, condamné par contumace à la perpétuité en 2023.",
-      "url": "https://www.liberation.fr/societe/police-justice/46-ans-apres-lattentat-de-la-rue-copernic-de-nouveaux-appels-a-lextradition-du-coupable-du-canada-vers-la-france-20261003_AO3E5FIW6VDJLG5HXR7GWYAF64/",
-      "image": null,
-      "date": "2026-10-03T10:28:24+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -103,8 +123,8 @@
       "type": "science"
     },
     {
-      "title": "Ebola en RDC : la pire épidémie de l’histoire du pays franchit la barre des 4 000 morts",
-      "desc": "Le pays fait face à une flambée inédite du virus mais la présence de groupes armés et la défiance d’une partie des populations locales entravent la riposte. Le chef de la diplomatie française, Jean-Noël Barrot, est sur place pour marquer le soutien de Paris aux autorités locales et aux humanitaires.",
+      "title": "Ebola en RDC : le bilan de la pire épidémie de l’histoire du pays franchit 4 000 morts",
+      "desc": "Le pays fait face à une flambée inédite du virus, mais la présence de groupes armés et la défiance d’une partie des populations locales entravent la lutte. Le chef de la diplomatie française, Jean-Noël Barrot, est sur place pour marquer le soutien de Paris aux autorités locales et aux humanitaires.",
       "url": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html",
       "image": "https://img.lemde.fr/2026/10/02/1095/0/7728/3864/644/322/60/0/374e429_ftp-1-ctfzwcpjwncg-2026-10-02t095043z-892010841-rc2oonaomkm7-rtrmadp-3-health-ebola-congo.JPG",
       "date": "2026-10-03T02:14:41+00:00",
@@ -161,16 +181,6 @@
       "date_formatted": "2 October 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "\"Je n’avais pas le temps d’avoir le cancer, j’avais une compétition\" : l'heptathlète Elisa Pineau face à la découverte de la maladie",
-      "desc": "A 27 ans, l'athlète française - qui compte des sélections internationales chez les jeunes - partage sur les réseaux sociaux depuis le mois de mars son quotidien face à la maladie. Chaque semaine du mois d'octobre pour France Télévisions, elle reviendra sur son combat.",
-      "url": "https://www.franceinfo.fr/sports/athletisme/je-n-avais-pas-le-temps-d-avoir-le-cancer-j-avais-une-competition-l-heptathlete-elisa-pineau-face-a-la-decouverte-de-la-maladie_8219389.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/JH0hVzRvoDEpE2XMHZzubqB9wv8/115x0:3571x6144/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6abf5e7d74c4e654430286.jpg",
-      "date": "2026-10-02T09:54:43+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer du sein : prouver qu'il est lié au travail est un défi pour une femme",
