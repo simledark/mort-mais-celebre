@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-04T11:26:08.618998+00:00",
-  "count": 58,
+  "generated_at": "2026-10-04T16:04:05.841041+00:00",
+  "count": 55,
   "articles": [
-    {
-      "title": "Pluies torrentielles en Espagne : deux morts dans la province de Barcelone, en état d’alerte",
-      "desc": "La tempête qui a entraîné l’annulation de la manifestation pour le droit au logement à Barcelone samedi devrait prendre fin ce dimanche 4 octobre.",
-      "url": "https://www.liberation.fr/international/europe/pluies-torrentielles-en-espagne-deux-morts-dans-la-province-de-barcelone-en-etat-dalerte-20261004_GZRUQTCXORCRXGAOQMG66BO7FU/",
-      "image": null,
-      "date": "2026-10-04T09:30:23+00:00",
-      "date_formatted": "4 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
     {
       "title": "L'épidémie d'Ebola franchit le cap des 4000 morts en République démocratique du Congo",
       "desc": "En République démocratique du Congo, la lutte contre le virus Ebola s'organise avec la présence, sur place, d'ONG. Cependant, il reste de contrer la propagation à cause, notamment, de conflits armés.",
@@ -130,16 +120,6 @@
       "date": "2026-10-03T02:14:41+00:00",
       "date_formatted": "3 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En République du Congo, l'épidémie d'Ebola franchit le cap des 4 000 morts",
-      "desc": "Jean-Noël Barrot se rend dans le pays pour marquer le soutien de la France aux autorités locales.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/0Dv0wTBSkUyIm80mSTlYDRIW_Yk/0x300:5760x3540/432x243/filters:format(jpg)/2026/10/02/6abfe670170b7614597532.jpg",
-      "date": "2026-10-02T22:19:38+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -400,16 +380,6 @@
       "date": "2026-09-28T16:02:53+00:00",
       "date_formatted": "28 September 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Une nouvelle méthode pour améliorer la précision de la stimulation cérébrale des patients atteints de Parkinson",
-      "desc": "Lorsque les médicaments ne suffisent plus, la stimulation cérébrale profonde peut fortement améliorer les symptômes moteurs de certains patients atteints de la maladie de Parkinson. Mais cette chirurgie reste complexe parce qu’il faut pouvoir définir la meilleure cible thérapeutique pour chaque...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-nouvelle-methode-ameliorer-precision-stimulation-cerebrale-patients-atteints-parkinson-138025/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/7/7/37736806d6_50261246_8345.jpg",
-      "date": "2026-09-28T10:30:00+00:00",
-      "date_formatted": "28 September 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
