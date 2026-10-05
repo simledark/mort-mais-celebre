@@ -1,16 +1,116 @@
 {
-  "generated_at": "2026-10-05T02:42:44.014200+00:00",
-  "count": 60,
+  "generated_at": "2026-10-05T12:51:21.120204+00:00",
+  "count": 63,
   "articles": [
     {
-      "title": "Midterms : Donald Trump dans le mur de sa politique",
-      "desc": "L’intervention improvisée lancée avec Israël contre l’Iran met, à un mois des élections de mi-mandat, le président américain en mauvaise posture. La frange modeste de son électorat, qui avait cru à sa promesse d’un nouvel âge d’or économique, pourrait lui faire payer de se retrouver étranglée par la",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/midterms-donald-trump-dans-le-mur-de-sa-politique-20261004_LYWCADLBARGYNLHIQNYCHI5Z74/",
+      "title": "La \"situation est sous contrôle\" après l'apparition d'un cas supposé de peste en Russie, assure le gouverneur d'Irkoutsk",
+      "desc": "La mort de Daria Chipilova, une technicienne de laboratoire de 28 ans qui travaillait pour l'Institut de lutte contre la peste d'Irkoutsk, a inquiété les autorités.",
+      "url": "https://www.franceinfo.fr/monde/russie/la-situation-est-sous-controle-apres-l-apparition-d-un-cas-suppose-de-peste-en-russie-assure-le-gouverneur-d-irkoutsk_8223370.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/IS3EZEOwc81D3bJRaUJJsl9SMRo/0x52:1000x614/432x243/filters:format(jpg)/2026/10/05/6ac39a2037ad5126675174.jpg",
+      "date": "2026-10-05T14:40:23+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le rappeur Prince Waly est mort à l’âge de 34 ans",
+      "desc": "Auteur d’un rap exigeant, le musicien originaire de Montreuil avait guéri en 2021 d’un cancer mais avait perdu sa voix plusieurs mois. En septembre, il avait annoncé être atteint d’une maladie auto-immune rare.",
+      "url": "https://www.liberation.fr/culture/musique/le-rappeur-prince-waly-est-mort-a-lage-de-34-ans-20261005_TRRMS2TEVFBHLDLXPDVCXTT32U/",
       "image": null,
-      "date": "2026-10-04T18:16:25+00:00",
-      "date_formatted": "4 October 2026",
+      "date": "2026-10-05T12:41:30+00:00",
+      "date_formatted": "5 October 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Le Nobel de médecine 2026 récompense l’Américain Karl Deisseroth et les Allemands Peter Hegemann et Georg Nagel pour leurs travaux sur les canaux ioniques",
+      "desc": "Le trio a découvert une méthode qui permet de montrer comment les cellules nerveuses façonnent les souvenirs, les émotions et les comportements dans le cerveau.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/05/le-nobel-de-medecine-2026-recompense-l-americain-karl-deisseroth-et-les-allemands-peter-hegemann-et-georg-nagel-pour-leurs-travaux-sur-les-canaux-ioniques_6788513_1650684.html",
+      "image": "https://img.lemde.fr/2026/10/05/247/0/7170/3585/644/322/60/0/9c38a3f_ftp-1-ogybihmarucp-5270638-01-06.jpg",
+      "date": "2026-10-05T11:41:47+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Yémen : les forces gouvernementales lancent une offensive sur Sanaa, aux mains des Houthis",
+      "desc": "L’opération sur la capitale du Yémen occupée par le mouvement pro-iranien a commencé dans la matinée, ce lundi 5 octobre. Un média houthi a annoncé la mort d’une femme dans des frappes saoudiennes.",
+      "url": "https://www.liberation.fr/international/moyen-orient/yemen-les-forces-gouvernementales-lancent-une-offensive-sur-sanaa-aux-mains-des-houthis-20261005_BDSGOA5QOBCVVCA2SDFARK75HA/",
+      "image": null,
+      "date": "2026-10-05T11:30:33+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Infections à répétition au CHU de Nantes, deux nouveau-nés sont morts annonce l’hôpital",
+      "desc": "Les décès seraient intervenus en 2025. Un audit réalisé en janvier avait pointé la persistance de manquements concernant le personnel de l’établissement, confronté à une succession d’épidémies depuis 2022.",
+      "url": "https://www.liberation.fr/societe/sante/infections-a-repetition-au-chu-de-nantes-deux-nouveau-nes-sont-morts-annonce-lhopital-20261005_X2CWS7VIYNHPZLUWBYX73N2CBE/",
+      "image": null,
+      "date": "2026-10-05T11:11:50+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Prix Nobel de Médecine 2026 : les neurosciences à l’honneur",
+      "desc": "Le prix Nobel de médecine est décerné cette année à un trio de chercheurs allemands et américain pour leurs travaux sur le contrôle de l’activité de cellules ciblées, notamment les neurones, à l’aide de la lumière.",
+      "url": "https://www.liberation.fr/sciences/prix-nobel-de-medecine-2026-les-neurosciences-a-lhonneur-20261005_LOSDCEN56JFA3CHQDEK4Z3GPLE/",
+      "image": null,
+      "date": "2026-10-05T11:09:17+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Hélène Hazera, les mille vies d’une résistrans",
+      "desc": "Grande gueule anar, passionnée de chansons, journaliste à «Libé», productrice sur France Culture et actrice chez Godard, cette figure de la contre-culture était une pionnière des luttes homo et trans, version révolutionnaire. Elle est morte ce lundi 5 octobre à 74 ans.",
+      "url": "https://www.liberation.fr/societe/sexualite-et-genres/mort-dhelene-hazera-les-mille-vies-dune-resistrans-20261005_CFVJFRFONBEQDFCXAYZ3GYYJ4A/",
+      "image": null,
+      "date": "2026-10-05T10:56:15+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Nantes : Deux décès de nouveau-nés au CHU imputables à des infections nosocomiales",
+      "desc": "Le CHU de Nantes a confirmé ce lundi que deux décès de nourrissons, en lien avec des infections nosocomiales qui sévissent depuis 2022, sont à déplorer dans l’établissement",
+      "url": "https://www.20minutes.fr/sante/4251425-20261005-nantes-deux-deces-nouveau-nes-chu-imputables-infections-nosocomiales?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/uW2qndSLQw2cdgAfBe5Rdyk/1200x768_neonatologie-reportage-dans-une-unite-neonatale-de-niveau-2-d-un-hopital-de-haute-savoie-en-france-une-infirmiere-s-occupe-d-un-nouveau-ne-amelie-benoist-bsip-photo-d-amelie-benoist-bsip-via-afp",
+      "date": "2026-10-05T09:40:59+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Naissances prématurées, décès du nouveau-né, malformations… Les chaleurs extrêmes augmentent les risques pendant la grossesse, alerte le chef de l'ONU Climat",
+      "desc": "Dans un discours prononcé aux Fidji, Simon Stiell a rappelé que les vagues de chaleur liées au réchauffement climatique accroissaient le risque de complications touchant les femmes enceintes.",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/naissances-prematurees-deces-du-nouveau-ne-malformations-congenitales-le-chef-de-l-onu-climat-alerte-sur-le-danger-accru-des-chaleurs-extremes-pour-les-femmes-enceintes_8222953.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/AVTordGSibY2DQDdtS_q0Bb3yoU/0x53:1024x629/432x243/filters:format(jpg)/2026/10/05/6ac343e09c9ec718602584.jpg",
+      "date": "2026-10-05T08:57:08+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Russie : Un cas mortel de peste ? Les autorités se veulent rassurantes",
+      "desc": "Une technicienne de laboratoire de 28 ans est morte en Sibérie, possiblement de la peste pulmonaire",
+      "url": "https://www.20minutes.fr/sante/4251390-20261005-russie-cas-mortel-peste-personnes-placees-isolement?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/_6yNoYC9Tm-CqKdzQCZdbCk/1200x768_des-tubes-pour-prelever-des-echantillons-de-sang-sont-organises-dans-un-laboratoire-mobile-pour-tester-rapidement-le-virus-ebola-a-butembo-au-congo-le-mercredi-30-septembre-2026-ap-photo-sebastien-kitsa-musayi-xsk105-26274763284036-2610012318",
+      "date": "2026-10-05T08:42:42+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Trop de scanners pourraient augmenter le risque de cancer, alertent des chercheurs",
+      "desc": "Faut-il mieux réguler le recours aux examens d’imagerie de type scanner ? C’est ce que suggère une étude qui pointe du doigt les conséquences potentiellement néfastes d’un cumul d’expositions aux rayons X.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-trop-scanners-pourraient-augmenter-risque-cancer-alertent-chercheurs-w2t8-138162/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/b/8/db82afbb7d_50261469_danger-exces-scanner.jpg",
+      "date": "2026-10-05T08:00:00+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Ebola en RDC : Jean-Noël Barrot témoigne du soutien de Paris à Kinshasa",
@@ -23,36 +123,6 @@
       "type": "presse"
     },
     {
-      "title": "L’écrivain sénégalais Cheikh Hamidou Kane est mort à 98 ans",
-      "desc": "L’auteur de «L’Aventure ambiguë», classique de la littérature africaine, est mort samedi 3 octobre à Dakar, ont annoncé la presse et le président sénégalais Bassirou Diomaye Faye.",
-      "url": "https://www.liberation.fr/culture/livres/lecrivain-senegalais-cheikh-hamidou-kane-est-mort-a-98-ans-20261004_ARCSFW2GG5BSDI3ZAZL4IG3KLQ/",
-      "image": null,
-      "date": "2026-10-04T17:53:33+00:00",
-      "date_formatted": "4 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Aux Etats-Unis, Christa Pike est toujours dans un état critique après son exécution ratée",
-      "desc": "La femme de 50 ans, condamnée à mort pour un meurtre commis en 1995, a survécu mercredi soir à deux doses d’injections létales. Son avocat appelle à nouveau, ce 4 octobre sur CNN, le gouverneur du Tennessee à commuer sa peine en prison à vie.",
-      "url": "https://www.liberation.fr/international/amerique/aux-etats-unis-christa-pike-est-toujours-dans-un-etat-critique-apres-son-execution-ratee-20261004_4HQO7UE6GJEUTMZRHWD6R4626U/",
-      "image": null,
-      "date": "2026-10-04T17:32:12+00:00",
-      "date_formatted": "4 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Manifestation anti-pesticides et mouvement lycéen : la dangereuse doctrine de la gâchette facile des forces de l’ordre",
-      "desc": "Samedi 3 octobre dans l’Eure, la police a dispersé des militants dont des personnes atteintes d’un cancer. Et ce, à coups de grenades lacrymogènes avant la moindre action menaçante. Une répression démesurée et contre-productive, fruit de la stratégie du systématisme décidée par le ministre de l’Inté",
-      "url": "https://www.liberation.fr/politique/manifestation-anti-pesticides-et-mouvement-lyceen-la-dangereuse-doctrine-de-la-gachette-facile-des-forces-de-lordre-20261004_NGA4MT2O5NAOHIEZWQPYY534KY/",
-      "image": null,
-      "date": "2026-10-04T16:57:53+00:00",
-      "date_formatted": "4 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "L'épidémie d'Ebola franchit le cap des 4000 morts en République démocratique du Congo",
       "desc": "En République démocratique du Congo, la lutte contre le virus Ebola s'organise avec la présence, sur place, d'ONG. Cependant, il reste de contrer la propagation à cause, notamment, de conflits armés.",
       "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/l-epidemie-d-ebola-franchit-le-cap-des-4000-morts-en-republique-democratique-du-congo_8221921.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -60,16 +130,6 @@
       "date": "2026-10-04T07:58:31+00:00",
       "date_formatted": "4 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Pourquoi faire des piercings sur la main comme North West pose problème ?",
-      "desc": "Cicatrices, risques de maladies… les risques pour ce piercing sont élevés et parfois définitifs",
-      "url": "https://www.20minutes.fr/tempo/style/4249982-20261004-pourquoi-faire-piercings-main-comme-north-west-pose-probleme?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/CHqYa7vZS0ydnh1GKx0_WSk/1200x768_x",
-      "date": "2026-10-04T07:32:37+00:00",
-      "date_formatted": "4 October 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -131,26 +191,6 @@
       "date_formatted": "3 October 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Comment faire baisser sa tension ?",
-      "desc": "Les chips, les Français en raffolent… mais leur consommation régulière peut favoriser l’hypertension, une maladie qui concerne 17 millions de Français. Sarah Rébert nous explique quels sont les aliments qui font monter la tension.",
-      "url": "https://www.franceinfo.fr/sante/comment-faire-baisser-sa-tension_8220379.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/O3rctTUrEPuxEtKbAEUm-kfdgUo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6ac0065819ca7025701588.png",
-      "date": "2026-10-03T08:00:02+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "TEMOIGNAGES. \"J'ai vu dans ses yeux qu'il partirait\" : atteintes d'un cancer et quittées par leur partenaire, elles racontent leur reconstruction",
-      "desc": "A l'annonce d'un cancer, les femmes connaissent plus souvent une rupture amoureuse que les hommes. En cause, les rôles genrés au sein du couple, mais aussi les questionnements induits par la maladie, qui peuvent exacerber des problèmes conjugaux préexistants.",
-      "url": "https://www.franceinfo.fr/sante/cancer/temoignages-j-ai-vu-dans-ses-yeux-qu-il-partirait-atteintes-d-un-cancer-et-quittees-par-leur-partenaire-elles-racontent-leur-reconstruction_8198852.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/7C0mgGiFVNRZpoBElnqrs6AE7xI/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/02/6abf80f18e215365873407.jpg",
-      "date": "2026-10-03T06:58:31+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer du sein : 485 substances préoccupantes dans les pesticides, même parmi les ingrédients « inertes »",
@@ -358,16 +398,6 @@
       "url": "https://www.20minutes.fr/sante/4250015-20260930-val-marne-mammographies-proposees-rendez-deux-villes-octobre-rose?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/tsLU-DElS9yc8yVPXRCBySk/1200x768_les-patientes-peuvent-a-nouveau-realiser-une-mammographie-a-cavaillon-quatre-ans-apres-photo-d-illustration",
       "date": "2026-09-30T10:56:39+00:00",
-      "date_formatted": "30 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Dordogne : Des buralistes vont aider à repérer les personnes âgées victimes de troubles cognitifs",
-      "desc": "À Périgueux, la Ville, la Fédération des buralistes et France Alzheimer ont signé la charte des Buralistes bienveillants, selon « Sud Ouest ». L’objectif est de repérer les troubles cognitifs chez les clients âgés ou isolés",
-      "url": "https://www.20minutes.fr/sante/4249991-20260930-dordogne-buralistes-vont-aider-reperer-personnes-agees-victimes-troubles-cognitifs?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/HY2gJSpSToOvDfTXrhJ1TA/1200x768_compte-nickel-ouvre-quelques-minutes-chez-buraliste",
-      "date": "2026-09-30T09:24:43+00:00",
       "date_formatted": "30 September 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
