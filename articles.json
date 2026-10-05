@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T20:34:33.527831+00:00",
-  "count": 49,
+  "generated_at": "2026-10-05T02:42:44.014200+00:00",
+  "count": 60,
   "articles": [
     {
       "title": "Midterms : Donald Trump dans le mur de sa politique",
@@ -201,6 +201,16 @@
       "date_formatted": "2 October 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
+    },
+    {
+      "title": "Au Nigeria, une stratégie innovante associe vaccination et nutrition préventive pour augmenter la couverture vaccinale des enfants",
+      "desc": "Au Nigeria, la sous-nutrition et les maladies infectieuses constituent une double menace pour la survie de l'enfant, en particulier dans les zones où le fardeau de la malnutrition est élevé et les couvertures vaccinales faibles. Face à ce double enjeu de santé publique, des scientifiques et des huma",
+      "url": "https://presse.inserm.fr/au-nigeria-une-strategie-innovante-associe-vaccination-et-nutrition-preventive-pour-augmenter-la-couverture-vaccinale-des-enfants/73337/",
+      "image": null,
+      "date": "2026-10-02T10:00:59+00:00",
+      "date_formatted": "2 October 2026",
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "Cancer du sein : prouver qu'il est lié au travail est un défi pour une femme",
@@ -490,6 +500,106 @@
       "date": "2026-09-17T07:10:29+00:00",
       "date_formatted": "17 September 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Comment nos organes savent-ils distinguer leur droite de leur gauche ?",
+      "desc": "Dans une étude publiée dans Science Advances, l'équipe de Sigolène Meilhac (Inserm, Institut Imagine, Institut Pasteur, Université Paris Cité) montre, dans un modèle murin, que le mécanisme longtemps tenu pour l'événement fondateur de l'asymétrie gauche-droite, le courant ciliaire, n'en est pas le g",
+      "url": "https://presse.inserm.fr/comment-nos-organes-savent-ils-distinguer-leur-droite-de-leur-gauche/73206/",
+      "image": null,
+      "date": "2026-09-07T12:00:01+00:00",
+      "date_formatted": "7 September 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Diabète de type 2 : de nouveaux sous-types identifiés pour mieux prédire l’évolution de la maladie",
+      "desc": "Des chercheurs et chercheuses de l’Inserm, du CNRS, et de l’Université Paris Cité décrivent pour la première fois différents profils immunitaires chez les patients atteints d’un diabète de type 2. Facilement identifiables avec une simple prise de sang, les patients avec des cellules immunitaires en ",
+      "url": "https://presse.inserm.fr/diabete-de-type-2-de-nouveaux-sous-types-identifies-pour-mieux-predire-levolution-de-la-maladie/73174/",
+      "image": null,
+      "date": "2026-09-03T08:00:08+00:00",
+      "date_formatted": "3 September 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un lien entre « jetlag alimentaire » et risque de maladies cardiovasculaires chez les hommes",
+      "desc": "Une équipe d’INRAE, de l’Inserm, de l’université Sorbonne Paris Nord, de l’université Paris Cité et du Cnam publie une première étude sur les liens entre « jetlag alimentaire » et risque de maladies cardiovasculaires. Le jetlag alimentaire correspond au décalage dans le temps entre les heures de pri",
+      "url": "https://presse.inserm.fr/un-lien-entre-jetlag-alimentaire-et-risque-de-maladies-cardiovasculaires-chez-les-hommes/73162/",
+      "image": null,
+      "date": "2026-09-01T09:14:33+00:00",
+      "date_formatted": "1 September 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Maladie de Sjögren : une nouvelle piste pour expliquer la signature interféron des maladies auto-immunes",
+      "desc": "Des scientifiques de l'Université Paris-Saclay, de l'Inserm, du CEA, de l'AP-HP, de la fondation Arthritis et leurs partenaires internationaux identifient un mécanisme jusqu'alors inconnu expliquant l'activation chronique de l'interféron dans la maladie de Sjögren, un modèle de maladie auto-immune s",
+      "url": "https://presse.inserm.fr/maladie-de-sjogren-une-nouvelle-piste-pour-expliquer-la-signature-interferon-des-maladies-auto-immunes/73189/",
+      "image": null,
+      "date": "2026-08-26T10:59:52+00:00",
+      "date_formatted": "26 August 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une exposition élevée et persistante au bruit routier au début de l’enfance est associée à un risque accru de difficultés émotionnelles et relationnelles à 10 ans",
+      "desc": "En Europe, plus d’une personne sur cinq est exposée de manière chronique à des niveaux de bruit liés au transport considérés comme nocifs pour la santé; le trafic routier en constitue la principale source. Si les effets du bruit sur la santé cardiovasculaire sont relativement bien documentés, l’impa",
+      "url": "https://presse.inserm.fr/une-exposition-elevee-et-persistante-au-bruit-routier-au-debut-de-lenfance-est-associee-a-un-risque-accru-de-difficultes-emotionnelles-et-relationnelles-a-10-ans/73139/",
+      "image": null,
+      "date": "2026-08-25T07:00:59+00:00",
+      "date_formatted": "25 August 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Des chercheurs lillois révèlent des variants rares du gène PLCG2 qui multiplient le risque de développer la maladie d’Alzheimer",
+      "desc": "Une équipe de chercheurs lillois de l’Inserm, de l’Université de Lille, de l’Institut Pasteur de Lille et du CHU de Lille, avec plusieurs partenaires internationaux, publie dans Nature Genetics une découverte qui éclaire les mécanismes de la maladie d’Alzheimer. PLCG2, gène déjà connu pour son assoc",
+      "url": "https://presse.inserm.fr/des-chercheurs-lillois-revelent-des-variants-rares-du-gene-plcg2-qui-multiplient-le-risque-de-developper-la-maladie-dalzheimer/73151/",
+      "image": null,
+      "date": "2026-08-24T16:04:30+00:00",
+      "date_formatted": "24 August 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
+      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
+      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
+      "image": null,
+      "date": "2026-07-23T14:01:16+00:00",
+      "date_formatted": "23 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
+      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
+      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
+      "image": null,
+      "date": "2026-07-21T08:00:02+00:00",
+      "date_formatted": "21 July 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
+      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
+      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
+      "image": null,
+      "date": "2026-06-23T04:00:07+00:00",
+      "date_formatted": "23 June 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
+      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
+      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
+      "image": null,
+      "date": "2026-06-16T08:00:46+00:00",
+      "date_formatted": "16 June 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
