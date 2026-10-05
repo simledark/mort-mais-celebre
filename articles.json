@@ -1,25 +1,65 @@
 {
-  "generated_at": "2026-10-05T12:51:21.120204+00:00",
-  "count": 63,
+  "generated_at": "2026-10-05T23:25:04.258491+00:00",
+  "count": 59,
   "articles": [
     {
-      "title": "La \"situation est sous contrôle\" après l'apparition d'un cas supposé de peste en Russie, assure le gouverneur d'Irkoutsk",
-      "desc": "La mort de Daria Chipilova, une technicienne de laboratoire de 28 ans qui travaillait pour l'Institut de lutte contre la peste d'Irkoutsk, a inquiété les autorités.",
-      "url": "https://www.franceinfo.fr/monde/russie/la-situation-est-sous-controle-apres-l-apparition-d-un-cas-suppose-de-peste-en-russie-assure-le-gouverneur-d-irkoutsk_8223370.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/IS3EZEOwc81D3bJRaUJJsl9SMRo/0x52:1000x614/432x243/filters:format(jpg)/2026/10/05/6ac39a2037ad5126675174.jpg",
-      "date": "2026-10-05T14:40:23+00:00",
+      "title": "\"Mon activité principale, c'est de m'occuper de ma maman malade\" : sur les réseaux sociaux, Théo raconte son quotidien d’aidant",
+      "desc": "En France, près de 9 millions de personnes accompagnent un proche malade, âgé ou handicapé. Théo, lui, a quitté son travail pour s’occuper de sa maman, atteinte d’une maladie neurodégénérative. Sur les réseaux sociaux, il raconte son quotidien et les difficultés auxquelles sont confrontés les aidant",
+      "url": "https://www.franceinfo.fr/sante/mon-activite-principale-c-est-de-m-occuper-de-ma-maman-sur-les-reseaux-sociaux-theo-raconte-son-quotidien-d-aidant_8224018.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/362PewSDuIWBQqcqN36ZkNphKwY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/05/6ac40a6422c3b997217432.png",
+      "date": "2026-10-05T22:37:33+00:00",
       "date_formatted": "5 October 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
     {
-      "title": "Le rappeur Prince Waly est mort à l’âge de 34 ans",
-      "desc": "Auteur d’un rap exigeant, le musicien originaire de Montreuil avait guéri en 2021 d’un cancer mais avait perdu sa voix plusieurs mois. En septembre, il avait annoncé être atteint d’une maladie auto-immune rare.",
-      "url": "https://www.liberation.fr/culture/musique/le-rappeur-prince-waly-est-mort-a-lage-de-34-ans-20261005_TRRMS2TEVFBHLDLXPDVCXTT32U/",
+      "title": "Covid : malgré la hausse des contaminations, la ministre de la Santé ne veut pas avancer la vaccination",
+      "desc": "La reprise de la circulation du virus, manifeste en France depuis plusieurs semaines, n’a pas jusqu’ici un impact sanitaire nécessitant d’avancer la campagne de vaccination, assure l’entourage de Stéphanie Rist. Elle doit démarrer mi-octobre.",
+      "url": "https://www.liberation.fr/societe/sante/covid-malgre-la-hausse-des-contaminations-la-ministre-de-la-sante-ne-veut-pas-avancer-la-vaccination-20261005_XQYFJZAT4BELXJ667SD3FXL644/",
       "image": null,
-      "date": "2026-10-05T12:41:30+00:00",
+      "date": "2026-10-05T19:42:06+00:00",
       "date_formatted": "5 October 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Prix Nobel de médecine 2026 : un Américain et deux Allemands récompensés pour leur technique d’activation des neurones par la lumière",
+      "desc": "En insérant certaines protéines dans la membrane de cellules nerveuses, les trois lauréats, Karl Deisseroth, Peter Hegemann et Georg Nagel, sont parvenus à les « allumer » ou les « éteindre » à volonté. Avec un double enjeu : percer les secrets du cerveau et développer des traitements innovants.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/05/prix-nobel-de-medecine-2026-un-americain-et-deux-allemands-recompenses-pour-leur-technique-d-activation-des-neurones-par-la-lumiere_6788564_1650684.html",
+      "image": "https://img.lemde.fr/2026/10/05/675/0/8108/4054/644/322/60/0/f4c4bbb_ftp-1-bl26xkejpien-5270820-01-06.jpg",
+      "date": "2026-10-05T18:57:55+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Un cas de peste soupçonné en Sibérie : la Russie assure que « la situation reste sous contrôle », et les Etats-Unis, qu’ils « surveillent de près », après la mort d’une chercheuse d’une pneumonie à l’",
+      "desc": "Daria Chipilova, une technicienne de laboratoire qui travaillait pour l’Institut de lutte contre la peste d’Irkoutsk, en Sibérie, est morte d’une pneumonie non identifiée. Marco Rubio, le chef de la diplomatie américaine, assure « garder un œil » sur ce cas.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/05/un-cas-de-peste-soupconne-en-siberie-la-russie-assure-que-la-situation-reste-sous-controle-et-les-etats-unis-qu-ils-surveillent-de-pres-apres-la-mort-d-une-chercheuse-d-une-pneumonie-a-l-origine-indeterminee_6788542_3244.html",
+      "image": "https://img.lemde.fr/2026/10/05/83/0/1000/500/644/322/60/0/a5a91c2_ftp-1-gy0egn4ctceo-d438681e0e16465c9618d443448fa1ff-0-7545b2ac1e6a4b789820221150f13bc4.jpg",
+      "date": "2026-10-05T16:53:50+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Prix Nobel de médecine : ils ont trouvé comment activer le cerveau avec la lumière pour mieux comprendre son fonctionnement",
+      "desc": "Les souvenirs, les émotions, les comportements : tout est orchestré par des circuits neuronaux longtemps restés inaccessibles. Et pourtant, c'est dans une algue unicellulaire que trois chercheurs ont trouvé la protéine à l'origine de l'optogénétique, une technique qui « éclaire » le cerveau par...",
+      "url": "https://www.futura-sciences.com/sante/actualites/prix-nobel-medecine-prix-nobel-medecine-ils-ont-trouve-activer-cerveau-lumiere-mieux-comprendre-son-fonctionnement-138269/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/2/0/320072d4cb_50261633_prix-nobel-medecine-2026.jpg",
+      "date": "2026-10-05T16:13:50+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Les autorités russes assurent que la \"situation est sous contrôle\" après l'apparition d'un cas supposé de peste dans la région sibérienne d'Irkoutsk",
+      "desc": "La mort de Daria Chipilova, une technicienne de laboratoire de 28 ans qui travaillait pour l'Institut de lutte contre la peste d'Irkoutsk, a inquiété les autorités.",
+      "url": "https://www.franceinfo.fr/monde/russie/la-situation-est-sous-controle-apres-l-apparition-d-un-cas-suppose-de-peste-en-russie-assure-le-gouverneur-d-irkoutsk_8223370.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/IS3EZEOwc81D3bJRaUJJsl9SMRo/0x52:1000x614/432x243/filters:format(jpg)/2026/10/05/6ac39a2037ad5126675174.jpg",
+      "date": "2026-10-05T15:13:55+00:00",
+      "date_formatted": "5 October 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -31,46 +71,6 @@
       "date_formatted": "5 October 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Yémen : les forces gouvernementales lancent une offensive sur Sanaa, aux mains des Houthis",
-      "desc": "L’opération sur la capitale du Yémen occupée par le mouvement pro-iranien a commencé dans la matinée, ce lundi 5 octobre. Un média houthi a annoncé la mort d’une femme dans des frappes saoudiennes.",
-      "url": "https://www.liberation.fr/international/moyen-orient/yemen-les-forces-gouvernementales-lancent-une-offensive-sur-sanaa-aux-mains-des-houthis-20261005_BDSGOA5QOBCVVCA2SDFARK75HA/",
-      "image": null,
-      "date": "2026-10-05T11:30:33+00:00",
-      "date_formatted": "5 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Infections à répétition au CHU de Nantes, deux nouveau-nés sont morts annonce l’hôpital",
-      "desc": "Les décès seraient intervenus en 2025. Un audit réalisé en janvier avait pointé la persistance de manquements concernant le personnel de l’établissement, confronté à une succession d’épidémies depuis 2022.",
-      "url": "https://www.liberation.fr/societe/sante/infections-a-repetition-au-chu-de-nantes-deux-nouveau-nes-sont-morts-annonce-lhopital-20261005_X2CWS7VIYNHPZLUWBYX73N2CBE/",
-      "image": null,
-      "date": "2026-10-05T11:11:50+00:00",
-      "date_formatted": "5 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Prix Nobel de Médecine 2026 : les neurosciences à l’honneur",
-      "desc": "Le prix Nobel de médecine est décerné cette année à un trio de chercheurs allemands et américain pour leurs travaux sur le contrôle de l’activité de cellules ciblées, notamment les neurones, à l’aide de la lumière.",
-      "url": "https://www.liberation.fr/sciences/prix-nobel-de-medecine-2026-les-neurosciences-a-lhonneur-20261005_LOSDCEN56JFA3CHQDEK4Z3GPLE/",
-      "image": null,
-      "date": "2026-10-05T11:09:17+00:00",
-      "date_formatted": "5 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’Hélène Hazera, les mille vies d’une résistrans",
-      "desc": "Grande gueule anar, passionnée de chansons, journaliste à «Libé», productrice sur France Culture et actrice chez Godard, cette figure de la contre-culture était une pionnière des luttes homo et trans, version révolutionnaire. Elle est morte ce lundi 5 octobre à 74 ans.",
-      "url": "https://www.liberation.fr/societe/sexualite-et-genres/mort-dhelene-hazera-les-mille-vies-dune-resistrans-20261005_CFVJFRFONBEQDFCXAYZ3GYYJ4A/",
-      "image": null,
-      "date": "2026-10-05T10:56:15+00:00",
-      "date_formatted": "5 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Nantes : Deux décès de nouveau-nés au CHU imputables à des infections nosocomiales",
@@ -93,7 +93,7 @@
       "type": "presse"
     },
     {
-      "title": "Russie : Un cas mortel de peste ? Les autorités se veulent rassurantes",
+      "title": "Russie : Un cas mortel de peste ? Les Etats-Unis surveillent « de près » la situation",
       "desc": "Une technicienne de laboratoire de 28 ans est morte en Sibérie, possiblement de la peste pulmonaire",
       "url": "https://www.20minutes.fr/sante/4251390-20261005-russie-cas-mortel-peste-personnes-placees-isolement?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/_6yNoYC9Tm-CqKdzQCZdbCk/1200x768_des-tubes-pour-prelever-des-echantillons-de-sang-sont-organises-dans-un-laboratoire-mobile-pour-tester-rapidement-le-virus-ebola-a-butembo-au-congo-le-mercredi-30-septembre-2026-ap-photo-sebastien-kitsa-musayi-xsk105-26274763284036-2610012318",
@@ -170,16 +170,6 @@
       "date": "2026-10-03T14:00:05+00:00",
       "date_formatted": "3 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'agence sanitaire américaine dévoile les conclusions de son enquête sur l'épidémie de \"diarrhée explosive\" qui a touché les Etats-Unis durant l'été",
-      "desc": "Des prélèvements effectués chez un producteur de laitue et une usine de transformation au Mexique sont revenus positifs au parasite \"Cyclospora cayetanensis\". L'épidémie a touché près de 13 000 personnes.",
-      "url": "https://www.franceinfo.fr/monde/usa/l-agence-sanitaire-americaine-devoile-les-conclusions-de-son-enquete-sur-l-epidemie-de-diarrhee-explosive-qui-a-touche-les-etats-unis-durant-l-ete_8220886.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Fbx5hmZpLSMW_MQlnX07AdLi3B8/0x0:3000x1687/432x243/filters:format(jpg)/2026/10/03/6ac0c37b4c004100913591.jpg",
-      "date": "2026-10-03T11:00:47+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -393,16 +383,6 @@
       "type": "presse"
     },
     {
-      "title": "Val-de-Marne : Des mammographies seront proposées sans rendez-vous dans deux villes pour Octobre Rose",
-      "desc": "À l’occasion d’Octobre Rose, la CPAM du Val-de-Marne renforce ses actions de sensibilisation au dépistage du cancer du sein via différentes interventions",
-      "url": "https://www.20minutes.fr/sante/4250015-20260930-val-marne-mammographies-proposees-rendez-deux-villes-octobre-rose?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/tsLU-DElS9yc8yVPXRCBySk/1200x768_les-patientes-peuvent-a-nouveau-realiser-une-mammographie-a-cavaillon-quatre-ans-apres-photo-d-illustration",
-      "date": "2026-09-30T10:56:39+00:00",
-      "date_formatted": "30 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Un cancer sur huit dans le monde est lié à ce facteur de risque auquel presque personne ne pense",
       "desc": "Tabac, alcool, surpoids… On connaît les grands facteurs de risque du cancer. Mais l’un d’eux, responsable de millions de cas chaque année, reste largement méconnu. Et il est parfois possible de s’en prémunir.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-huit-monde-lie-ce-facteur-risque-auquel-presque-personne-ne-pense-138091/#xtor%3DRSS-8",
@@ -431,26 +411,6 @@
       "date_formatted": "29 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Rugby : une vaste étude révèle un risque accru de maladies neurodégénératives chez les anciens joueurs",
-      "desc": "Une vaste recherche menée en Nouvelle-Zélande révèle une découverte troublante sur les effets de certains sports de contact. Des décennies après leur carrière, certains athlètes paient un prix inattendu.",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-rugby-vaste-etude-revele-risque-accru-maladies-neurodegeneratives-chez-anciens-joueurs-w2t8-137990/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/3/7/23787df745_50261192_rugby-lesions-cerveau-demence.jpg",
-      "date": "2026-09-29T08:00:00+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Un nouveau cancer sur huit est causé par des infections, selon une étude du CIRC",
-      "desc": "Les scientifiques ont estimé la part des quelque 2,3 millions des nouveaux cas de tumeurs en 2024 attribuable à douze agents infectieux, dont des virus, des bactéries et des parasites. Mais des solutions de prévention existent.",
-      "url": "https://www.lemonde.fr/sante/article/2026/09/29/un-nouveau-cancer-sur-huit-cause-par-des-infections-selon-une-etude-du-circ_6785310_1651302.html",
-      "image": "https://img.lemde.fr/2026/09/28/63/0/700/350/644/322/60/0/7a0a6ad_upload-1-c0hiubdiwvh2-helicobacterpylori2.jpg",
-      "date": "2026-09-29T02:26:25+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "La France bat le triste record du taux de suicides dans ses prisons",
