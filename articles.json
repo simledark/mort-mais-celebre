@@ -1,7 +1,107 @@
 {
-  "generated_at": "2026-10-06T03:34:37.662632+00:00",
-  "count": 59,
+  "generated_at": "2026-10-06T12:19:22.170070+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Nos œufs contaminés aux polluants éternels",
+      "desc": "Près de 60% des œufs analysés dans une enquête du réseau ICI et de la Cellule Investigation de Radio France contiennent des PFAS et un quart dépassent les normes de qualité, chez des particuliers comme des professionnels. Des contaminations qui varient selon les territoires, entre épandages de boues",
+      "url": "https://www.franceinfo.fr/sante/nos-ufs-contamines-aux-polluants-eternels_8224897.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/bY0uWcHnhvdf1-hnHP5naMvwty0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/06/6ac4c60894174044914875.jpg",
+      "date": "2026-10-06T11:58:19+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : le Kenya annonce son premier mort lié au virus",
+      "desc": "Le ministre de la santé a déclaré que ce citoyen kenyan, arrivé samedi dans le pays en provenance de RDC via l’Ouganda, avait été placé en isolement à l’hôpital de Nairobi, avant d’y mourir lundi soir.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/06/ebola-le-kenya-annonce-son-premier-mort-lie-au-virus_6788972_3212.html",
+      "image": "https://img.lemde.fr/2026/10/06/606/0/5500/2750/644/322/60/0/3ca0e1d_ftp-1-hdonadniomaj-2026-10-06t085139z-339030955-rc2kxnawitcg-rtrmadp-3-kenya-ebola.JPG",
+      "date": "2026-10-06T11:37:38+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Soupçons de peste en Russie : l’OMS juge le risque «faible» pour le pays et «très faible» pour l’Europe",
+      "desc": "La mort d’une laborantine dans la région d’Irkoutsk, en Sibérie, vendredi, a provoqué de vives inquiétudes dans le pays et au-delà.",
+      "url": "https://www.liberation.fr/international/europe/soupcons-de-peste-en-russie-loms-juge-le-risque-faible-pour-le-pays-et-tres-faible-pour-leurope-20261006_XJODJSY5FVCIDCHMLNBD6RCFHE/",
+      "image": null,
+      "date": "2026-10-06T11:33:44+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Soupçons de peste en Russie : les autorités nient la mise en place de mesures sanitaires, après la mort d’une laborantine",
+      "desc": "L’agence de santé publique russe a dénoncé « une fausse information » selon laquelle « un régime sanitaire et épidémiologique renforcé et de restrictions strictes » aurait été instauré dans la région d’Irkoutsk à la suite de la mort d’une technicienne de l’Institut de lutte contre la peste.",
+      "url": "https://www.lemonde.fr/international/article/2026/10/06/soupcons-de-peste-en-siberie-les-autorites-russes-nient-la-mise-en-place-de-mesures-sanitaires_6788966_3210.html",
+      "image": "https://img.lemde.fr/2026/10/05/343/0/5055/2527/644/322/60/0/88e9163_ftp-1-qt3iqasu34ez-2026-10-05t123259z-1087742687-rc2xwnawl4ph-rtrmadp-3-russia-siberia-plague.JPG",
+      "date": "2026-10-06T11:10:38+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Grèce : le traitement anti-âge qui a tué la star de la chanson Giorgos Mazonakis, a bien été administré illégalement",
+      "desc": "Le chanteur est mort le 9 septembre à 54 ans des suites d’une crise cardiaque. Il suivait, dans une clinique privée, un protocole prévu à l’origine pour les maladies auto-immunes comme la sclérose en plaques. La clinique n’avait pas le droit d’utiliser l’équipement.",
+      "url": "https://www.liberation.fr/culture/musique/grece-le-traitement-anti-age-qui-a-tue-la-star-de-la-chanson-giorgos-mazonakis-a-bien-ete-administre-illegalement-20261006_2PEASU75VFGXRAZFXRZ76DOWOE/",
+      "image": null,
+      "date": "2026-10-06T10:57:51+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Près de 60 % des œufs analysés contiennent des PFAS, selon une étude",
+      "desc": "ICI et la Cellule investigation de Radio France ont fait contrôler les teneurs en polluants éternels (PFAS) sur 91 œufs prélevés partout en France. Certaines régions comme Auvergne-Rhône-Alpes ou l’île de France sont très concernées",
+      "url": "https://www.20minutes.fr/sante/4251766-20261006-pres-60-ufs-analyses-contiennent-pfas-selon-etude?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/6vc_b99YTKuW82ONf54RVik/1200x768_illustration-photographique-de-deux-ufs-de-poule-a-blois-en-france-le-18-septembre-2026-photo-de-bastien-ohier-hans-lucas-via-afp",
+      "date": "2026-10-06T10:53:09+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’exécution ratée de Christa Pike : que sait-on sur le pentobarbital utilisé en injection létale ?",
+      "desc": "Que se passe-t-il dans l’organisme lorsque ce barbiturique est administré à une dose destinée à provoquer la mort ? Que révèlent les données pharmacologiques, cliniques et autopsiques disponibles ?",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/10/06/l-execution-ratee-de-christa-pike-que-sait-on-sur-le-pentobarbital-utilise-en-injection-letale_6788954_6579630.html",
+      "image": "https://img.lemde.fr/2026/10/05/85/0/1024/512/644/322/60/0/1cb3d64_upload-1-huoca0bal9q4-injection-le-tale-pentobarbital-peine-de-mort-exe-cution-capitale.jpg",
+      "date": "2026-10-06T09:53:03+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Donald Trump approuve la mise à mort par peloton d’exécution pour l’auteur d’une tuerie sur une base militaire",
+      "desc": "L’ancien psychiatre de l’armée Nidal Hasan avait été condamné en 2013 pour des faits commis quatre ans plus tôt. Détenu au Kansas, son exécution ne peut avoir lieu sans l’accord du Président, comme tout membre de l’armée.",
+      "url": "https://www.liberation.fr/international/amerique/donald-trump-approuve-la-mise-a-mort-par-peloton-dexecution-pour-lauteur-dune-tuerie-sur-une-base-militaire-20261006_NMCQVBPBL5BZ3KKFJWHXE6UIRI/",
+      "image": null,
+      "date": "2026-10-06T09:06:17+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Reportage. \"Mon garçon serait comme les autres\" :  médecins et parents réclament le dépistage de cinq maladies rares dès la naissance",
+      "desc": "L’objectif est de dépister systématiquement ces maladies rares dès la naissance pour les traiter avant les premiers symptômes et éviter des lésions irréversibles. franceinfo a rencontré l’équipe du CHU de Rouen qui vient de mettre au point un test fiable.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-mon-garcon-serait-comme-les-autres-medecins-et-parents-reclament-le-depistage-de-cinq-maladies-rares-des-la-naissance_8203919.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/yk4tquuc9knI6PPdOTI-lmC_gZU/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/06/6ac4975216a1b767763394.jpg",
+      "date": "2026-10-06T08:34:20+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : l'aide de la France pour contrer l'épidémie la plus meurtrière de l'histoire de la République démocratique du Congo",
+      "desc": "Le virus Ebola a fait 4 000 morts en République démocratique du Congo. Il s'agit de l'épidémie la plus meurtrière dans l'histoire du pays. Jean-Noël Barrot, le ministre français des Affaires étrangères, s'est rendu sur place le 3 octobre pour renforcer l'aide de Paris.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-l-aide-de-la-france-pour-contrer-l-epidemie-la-plus-meurtriere-de-l-histoire-de-la-republique-democratique-du-congo_8224510.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/oaR4m27BkRI4hPryk4UAdTlg0Hs/0x10:1192x680/432x243/filters:format(jpg)/2026/10/06/6ac48cd2ca541535605319.jpg",
+      "date": "2026-10-06T08:01:19+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "\"Mon activité principale, c'est de m'occuper de ma maman malade\" : sur les réseaux sociaux, Théo raconte son quotidien d’aidant",
       "desc": "En France, près de 9 millions de personnes accompagnent un proche malade, âgé ou handicapé. Théo, lui, a quitté son travail pour s’occuper de sa maman, atteinte d’une maladie neurodégénérative. Sur les réseaux sociaux, il raconte son quotidien et les difficultés auxquelles sont confrontés les aidant",
@@ -10,16 +110,6 @@
       "date": "2026-10-05T22:37:33+00:00",
       "date_formatted": "5 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Covid : malgré la hausse des contaminations, la ministre de la Santé ne veut pas avancer la vaccination",
-      "desc": "La reprise de la circulation du virus, manifeste en France depuis plusieurs semaines, n’a pas jusqu’ici un impact sanitaire nécessitant d’avancer la campagne de vaccination, assure l’entourage de Stéphanie Rist. Elle doit démarrer mi-octobre.",
-      "url": "https://www.liberation.fr/societe/sante/covid-malgre-la-hausse-des-contaminations-la-ministre-de-la-sante-ne-veut-pas-avancer-la-vaccination-20261005_XQYFJZAT4BELXJ667SD3FXL644/",
-      "image": null,
-      "date": "2026-10-05T19:42:06+00:00",
-      "date_formatted": "5 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -34,7 +124,7 @@
     },
     {
       "title": "Un cas de peste soupçonné en Sibérie : la Russie assure que « la situation reste sous contrôle », et les Etats-Unis, qu’ils « surveillent de près », après la mort d’une chercheuse d’une pneumonie à l’",
-      "desc": "Daria Chipilova, une technicienne de laboratoire qui travaillait pour l’Institut de lutte contre la peste d’Irkoutsk, en Sibérie, est morte d’une pneumonie non identifiée. Marco Rubio, le chef de la diplomatie américaine, assure « garder un œil » sur ce cas.",
+      "desc": "Daria Tchipilova, une technicienne de laboratoire qui travaillait pour l’Institut de lutte contre la peste d’Irkoutsk, en Sibérie, est morte d’une pneumonie non identifiée. Marco Rubio, le chef de la diplomatie américaine, assure « garder un œil » sur ce cas.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/05/un-cas-de-peste-soupconne-en-siberie-la-russie-assure-que-la-situation-reste-sous-controle-et-les-etats-unis-qu-ils-surveillent-de-pres-apres-la-mort-d-une-chercheuse-d-une-pneumonie-a-l-origine-indeterminee_6788542_3244.html",
       "image": "https://img.lemde.fr/2026/10/05/83/0/1000/500/644/322/60/0/a5a91c2_ftp-1-gy0egn4ctceo-d438681e0e16465c9618d443448fa1ff-0-7545b2ac1e6a4b789820221150f13bc4.jpg",
       "date": "2026-10-05T16:53:50+00:00",
@@ -120,46 +210,6 @@
       "date": "2026-10-04T18:13:26+00:00",
       "date_formatted": "4 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'épidémie d'Ebola franchit le cap des 4000 morts en République démocratique du Congo",
-      "desc": "En République démocratique du Congo, la lutte contre le virus Ebola s'organise avec la présence, sur place, d'ONG. Cependant, il reste de contrer la propagation à cause, notamment, de conflits armés.",
-      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/l-epidemie-d-ebola-franchit-le-cap-des-4000-morts-en-republique-democratique-du-congo_8221921.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/erj5wXY9A74GJJWEsYcriWxVVXY/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/04/6ac1e91e63239440360306.jpg",
-      "date": "2026-10-04T07:58:31+00:00",
-      "date_formatted": "4 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En Inde, des chiens entraînés à détecter des cancers à l’aide de l’IA",
-      "desc": "La start-up indienne Dognosis associe le flair des canidés et l’IA pour diagnostiquer les cancers. À Bangalore, Chloé et 14 autres chiens participent à cette expérience qui pourrait aider à détecter la maladie plus tôt. Les premiers résultats sont prometteurs, mais la méthode doit encore être confir",
-      "url": "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/GMD9AvHOKfaoap2RGVprhmmNv-Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6abf8d3796ce6427001379.jpg",
-      "date": "2026-10-04T06:00:19+00:00",
-      "date_formatted": "4 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"J'ai pensé tout de suite que ma vie allait voler en éclats\" : Alice Detollenaere et Camille Lacourt, un couple à l'épreuve du cancer",
-      "desc": "Le cancer du sein touche une femme sur huit. S’il est détecté à un stade précoce, il se guérit dans plus de 90% des cas. La maladie reste un tsunami pour les couples, avec ses hauts et ses bas. Alice Detollenaere et Camille Lacourt, qui se sont battus ensemble au cœur de la tempête, témoignent dans ",
-      "url": "https://www.franceinfo.fr/sante/cancer/j-ai-pense-tout-de-suite-que-ma-vie-allait-voler-en-eclats-alice-detollenaere-et-camille-lacourt-un-couple-a-l-epreuve-du-cancer_8221576.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/gwdM3yZ81rVDjPbQSQu5sJ2hSGY/0x179:1246x880/432x243/filters:format(jpg)/2026/10/03/6ac163b91d87c489491009.png",
-      "date": "2026-10-03T23:13:03+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer du sein : trop peu de femmes se font dépister",
-      "desc": "À l'occasion d'Octobre rose, plusieurs communes tentent de sensibiliser au dépistage contre le cancer du sein. En France, beaucoup de femmes craignent encore de se faire contrôler.",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancer-du-sein-trop-peu-de-femmes-se-font-depister_8221195.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/S-95O6lm7ocIJDwG3C0_QmNkuWI/0x1:1507x849/432x243/filters:format(jpg)/2026/10/03/6ac0f94100007371539142.jpg",
-      "date": "2026-10-03T16:17:16+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -343,16 +393,6 @@
       "type": "presse"
     },
     {
-      "title": "Covid-19 : Le nombre de cas progresse, dans toutes les classes d’âge",
-      "desc": "Les indicateurs du Covid-19 poursuivent leur hausse en France, alors que la campagne de vaccination nationale démarrera le 13 octobre",
-      "url": "https://www.20minutes.fr/sante/4250218-20260930-covid-19-suspicions-cas-augmente-22-semaine-toutes-classes-age?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/SZHgrZQtRVu9TuRfwBdTBCk/1200x768_preparation-vaccin-novavax-seringue-aiguille-flacon-de-10-doses-vaccin-covid-19-novavax-novavax-nuvaxovid-covovax-nvx-co-v2373-disponible-dans-les-centre-de-vaccination-de-nice-a-partir-de-18-ans-vaccin-sous-unitaire-utilisant-la-proteine-recombinante-spike-s-du-virus-sars-co-v-2-associee-a-un-adjuvant-le-matrix-m-conformement-aux-avis-de-la-haute-autorite-de-sante-has-et-du-conseil-d-orientation-de-la-strategie-vaccinale-cosv-alternative-efficace-aux-vaccins-a-arn-messager-administration-de-deux-doses-a-21-jours-d-intervalle-centre-de-vaccin-rue-hancy-nice-france-04-03-2022-syspeo-sys-a008-2203041546-credit-syspeo-sipa-2203041550",
-      "date": "2026-09-30T18:56:16+00:00",
-      "date_formatted": "30 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer",
       "desc": "Bouffées de chaleur, insomnies, difficultés de concentration… sont des symptômes bien connus de la ménopause. Mais pourrait-elle aussi laisser une empreinte sur le cerveau plusieurs décennies plus tard ? Une étude menée auprès de plus de 2 600 femmes apporte de nouveaux indices, en s’intéressant...",
       "url": "https://www.futura-sciences.com/sante/actualites/menopause-menopause-etude-18-ans-revele-lien-inquietant-son-age-apparition-maladie-alzheimer-138117/#xtor%3DRSS-8",
@@ -361,26 +401,6 @@
       "date_formatted": "30 September 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Saint-Étienne : Une plateforme inédite pour le suivi des anciens patients atteints de cancer",
-      "desc": "Le CHU stéphanois a développé une plateforme pour assurer un meilleur suivi à long terme pour les malades ayant souffert d’un cancer dans l’enfance, selon « Actu Saint-Étienne »",
-      "url": "https://www.20minutes.fr/sante/4250093-20260930-saint-etienne-plateforme-inedite-suivi-anciens-patients-atteints-cancer?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/RXZ4VPfKSeKeWX3oeHeMiSk/1200x768_visite-de-la-maternite-de-l-hopital-archet-2-du-chu-de-nice-pole-femme-mere-enfant-hopital-archet-2-nice-france-05-01-2026-syspeo-sys-a007-credit-syspeo-sipa-2602191721",
-      "date": "2026-09-30T15:04:15+00:00",
-      "date_formatted": "30 September 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Assurance-maladie : « Statistiques et coups de rabot ne font pas une politique de santé »",
-      "desc": "Christian Saout, ancien membre du collège de la Haute Autorité de santé, estime, dans une tribune au « Monde », que les économies envisagées pour les remboursements des actes médicaux ou des médicaments pénaliseront les patients en souffrance sans dessiner de perspective crédible.",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/30/assurance-maladie-statistiques-et-coups-de-rabot-ne-font-pas-une-politique-de-sante_6786059_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/581a3dd_upload-1-8b3o0rl92wc7-frame-901.jpg",
-      "date": "2026-09-30T14:00:08+00:00",
-      "date_formatted": "30 September 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Un cancer sur huit dans le monde est lié à ce facteur de risque auquel presque personne ne pense",
@@ -398,16 +418,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/genetique-contrairement-ce-quon-imagine-aucun-mammouth-ne-sera-jamais-ramene-vie-k2m6-138065/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/1/4/814e69d8b8_50261304_clonage-animal-genetique.jpg",
       "date": "2026-09-29T18:00:00+00:00",
-      "date_formatted": "29 September 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Moins d'un Américain sur deux sait que cette boisson est liée au risque de cancer",
-      "desc": "2,6 millions de décès par an dans le monde, soit un décès sur vingt. L'alcool est classé cancérogène certain, au même titre que le tabac et l'amiante. Il reste pourtant au centre des célébrations, des repas et des rassemblements professionnels. Un médecin addictologue interroge cet écart entre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-moins-americain-deux-sait-cette-boisson-liee-risque-cancer-k2m6-138058/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/d/f/edf8cf2791_50261292_cancer-alcool.jpg",
-      "date": "2026-09-29T10:00:00+00:00",
       "date_formatted": "29 September 2026",
       "source": "Futura Santé",
       "type": "science"
