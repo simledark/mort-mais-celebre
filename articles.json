@@ -1,7 +1,107 @@
 {
-  "generated_at": "2026-10-06T12:19:22.170070+00:00",
-  "count": 60,
+  "generated_at": "2026-10-06T21:57:19.827723+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "Œufs contaminés aux PFAS : comment expliquer les résultats édifiants de l'enquête d'ICI et de la cellule investigation de Radio France ?",
+      "desc": "Des polluants éternels jusque dans les œufs ? Nos confrères d’ICI et de la cellule investigation de Radio France ont fait analyser 91 œufs de poules élevées en plein air à travers le pays. Résultat : près de 6 sur 10 contiennent des PFAS, ces substances très persistantes dont certaines sont dangereu",
+      "url": "https://www.franceinfo.fr/sante/alimentation/ufs-contamines-aux-pfas-comment-expliquer-les-resultats-edifiants-de-l-enquete-d-ici-et-de-la-cellule-investigation-de-radio-france_8225767.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/zb9Kz2WRjG_237rpz0rFxdohudw/39x0:1254x683/432x243/filters:format(jpg)/2026/10/06/6ac551f19224e952770681.jpg",
+      "date": "2026-10-06T21:55:15+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Epstein : le régulateur britannique des marchés enquête après le suicide d’un lanceur d’alerte",
+      "desc": "Simon Andriesz avait révélé les liens présumés entre l’actuel ministre du Commerce des Etats-Unis et Jeffrey Epstein. Avant de se suicider, il avait accusé la Financial Conduct Authority de ne pas l’avoir protégé.",
+      "url": "https://www.liberation.fr/international/europe/affaire-epstein-le-regulateur-britannique-des-marches-enquete-apres-le-suicide-dun-lanceur-dalerte-20261006_LXOVVHHCTZHITOLNJ7XX3TOMGA/",
+      "image": null,
+      "date": "2026-10-06T18:48:19+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Articles supprimés, messages officiels modifiés… Que sait-on vraiment du décès d’une employée d’un labo sur la peste en Sibérie ?",
+      "desc": "Décédée d’une maladie pulmonaire près d’Irkoutsk dans la nuit du 1er au 2 octobre, une femme de 28 ans a été identifiée par la presse régionale comme technicienne dans un institut de recherche sur la peste.",
+      "url": "https://www.liberation.fr/checknews/articles-supprimes-messages-officiels-modifies-que-sait-on-vraiment-du-deces-dune-employee-dun-labo-sur-la-peste-en-siberie-20261006_AA6YI6FRRBAWNK3MPWPADD6HDY/",
+      "image": null,
+      "date": "2026-10-06T18:37:50+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le 7 Octobre, un jour de massacres sans fin, par Etgar Keret",
+      "desc": "Pour les familles endeuillées et les otages libérés, le traumatisme ne s’effacera jamais vraiment. Et pour nous, les autres, il ne pourra jamais cesser tant que Nétanyahou s’échinera à le faire durer, écrit trois ans après l’écrivain israélien.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/le-7-octobre-un-jour-de-massacres-sans-fin-par-etgar-keret-20261006_HBM4XKUHQJC4LJA6VI7NWE2HAI/",
+      "image": null,
+      "date": "2026-10-06T18:25:58+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La Haute Autorité de santé va évaluer l'intérêt d'un dépistage à la naissance de cinq maladies rares supplémentaires",
+      "desc": "La HAS a été saisie en 2023 et en 2024 par l'association ELA France et le Centre de référence des maladies lysosomales du CHU de Rouen.",
+      "url": "https://www.franceinfo.fr/sante/enfant-ado/la-haute-autorite-de-sante-va-evaluer-l-interet-d-un-depistage-a-la-naissance-de-cinq-maladies-rares-supplementaires_8225314.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/5WC8hR5j14R6-TWdi-AtQnyoqm4/0x350:6720x4130/432x243/filters:format(jpg)/2026/10/06/6ac506f0eb107707659243.jpg",
+      "date": "2026-10-06T16:35:07+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le Kenya annonce un mort d'Ebola, le premier jamais recensé sur son sol",
+      "desc": "Une épidémie touche en ce moment la République démocratique du Congo. Elle a déjà fait plus de 4 000 morts selon les autorités.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-kenya-annonce-un-mort-d-ebola-le-premier-jamais-recense-sur-son-sol_8225251.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/D4JCsM8OTqCiuthEAesTxToUBW4/0x0:1024x576/432x243/filters:format(jpg)/2026/10/06/6ac4fdfe63d7a398339374.jpg",
+      "date": "2026-10-06T15:58:58+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Soupçon de peste en Russie : les autorités nient l'instauration de mesures sanitaires",
+      "desc": "La Russie a nié mardi l'instauration de mesures sanitaires en Sibérie après la mort d'une laborantine d'un institut de lutte contre la peste, réagissant à l'offre d'assistance de Donald Trump.",
+      "url": "https://www.sciencesetavenir.fr/sante/soupcon-de-peste-en-russie-les-autorites-nient-l-instauration-de-mesures-sanitaires_195231?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/06/cover-r4x3w1200-6ac4d9dd080e0-4333b690083e3e14199aeee05f92b55b0fb8b164-jpg.jpg",
+      "date": "2026-10-06T14:52:19+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Dijon : Le CGFL lance un programme inédit de prévention personnalisée des cancers",
+      "desc": "Le dispositif s’adresse aux personnes présentant un risque de cancer deux à trois fois supérieur à celui de la population générale, selon « Dijon Actualité »",
+      "url": "https://www.20minutes.fr/sante/4251802-20261006-dijon-cgfl-lance-programme-inedit-prevention-personnalisee-cancers?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/XURcnfBcSHmGA71dBgYy_Sk/1200x768_la-clinique-du-sein-de-hautepierre-rassemble-les-professionnels-dans-un-espace-de-250-m2-a-strasbourg-le-but-est-de-faciliter-le-parcours-des-patientes-atteintes-du-cancer-du-sein-photo-d-illustration",
+      "date": "2026-10-06T13:20:32+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Paris : Soupçonné d’être un « frotteur », un visiteur de la tour Eiffel jure souffrir de priapisme",
+      "desc": "Un touriste saoudien accusé par deux femmes de s’être frotté contre elles dans l’ascenseur de la tour Eiffel. Selon « Le Parisien », il a expliqué aux policiers qu’il souffrait d’une maladie caractérisée par une érection anormale et prolongée",
+      "url": "https://www.20minutes.fr/faits_divers/faits-divers-paris/4251852-20261006-paris-soupconne-etre-frotteur-visiteur-tour-eiffel-jure-souffrir-priapisme?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/buzxG3dESXeTeVb2_xMZ4ik/1200x768_la-tour-eiffel-s-eclaire-en-rose-lors-du-lancement-d-octobre-rose-a-paris-ambiance-et-touristes-paris-france-30-09-2026-smithwilliam-08441249-credit-william-smith-sipa-2610010844",
+      "date": "2026-10-06T13:20:26+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : Le Kenya annonce un mort, le premier jamais recensé sur son sol",
+      "desc": "Le Kenya a enregistré son premier cas et premier décès d’Ebola. Face à cette souche qui ravage le Nord-Kivu, les autorités kényanes ont placé des dizaines de cas contacts sous surveillance",
+      "url": "https://www.20minutes.fr/monde/4251838-20261006-ebola-kenya-annonce-mort-premier-jamais-recense-sol?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/LxvvN3MDTAKYUtaXgnrwkSk/1200x768_10-juin-2026-kenya-nairobi-des-medecins-de-differents-pays-d-afrique-de-l-est-suivent-une-formation-aux-pratiques-sures-dans-un-centre-de-traitement-d-ebola-dans-le-cadre-du-projet-t-each-qui-est-mene-conjointement-par-des-experts-de-l-institut-de-sante-mondiale-et-du-departement-des-maladies-infectieuses-et-des-soins-intensifs-de-la-charite-photo-eva-krafczyk-dpa-ur-newsml-dpa-com-20090101-260611-99-706515-eva-krafczyk-dpa-sipa-2606112210",
+      "date": "2026-10-06T12:44:07+00:00",
+      "date_formatted": "6 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Nos œufs contaminés aux polluants éternels",
       "desc": "Près de 60% des œufs analysés dans une enquête du réseau ICI et de la Cellule Investigation de Radio France contiennent des PFAS et un quart dépassent les normes de qualité, chez des particuliers comme des professionnels. Des contaminations qui varient selon les territoires, entre épandages de boues",
@@ -13,23 +113,13 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : le Kenya annonce son premier mort lié au virus",
-      "desc": "Le ministre de la santé a déclaré que ce citoyen kenyan, arrivé samedi dans le pays en provenance de RDC via l’Ouganda, avait été placé en isolement à l’hôpital de Nairobi, avant d’y mourir lundi soir.",
+      "title": "Ebola : le Kenya annonce une première mort liée au virus sur son territoire",
+      "desc": "Le ministre de la santé a déclaré qu’un citoyen kényan, qui est arrivé samedi dans le pays en provenance de la République démocratique du Congo via l’Ouganda, avait été placé en isolement à l’hôpital de Nairobi, avant d’y mourir lundi soir.",
       "url": "https://www.lemonde.fr/afrique/article/2026/10/06/ebola-le-kenya-annonce-son-premier-mort-lie-au-virus_6788972_3212.html",
       "image": "https://img.lemde.fr/2026/10/06/606/0/5500/2750/644/322/60/0/3ca0e1d_ftp-1-hdonadniomaj-2026-10-06t085139z-339030955-rc2kxnawitcg-rtrmadp-3-kenya-ebola.JPG",
       "date": "2026-10-06T11:37:38+00:00",
       "date_formatted": "6 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Soupçons de peste en Russie : l’OMS juge le risque «faible» pour le pays et «très faible» pour l’Europe",
-      "desc": "La mort d’une laborantine dans la région d’Irkoutsk, en Sibérie, vendredi, a provoqué de vives inquiétudes dans le pays et au-delà.",
-      "url": "https://www.liberation.fr/international/europe/soupcons-de-peste-en-russie-loms-juge-le-risque-faible-pour-le-pays-et-tres-faible-pour-leurope-20261006_XJODJSY5FVCIDCHMLNBD6RCFHE/",
-      "image": null,
-      "date": "2026-10-06T11:33:44+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -40,16 +130,6 @@
       "date": "2026-10-06T11:10:38+00:00",
       "date_formatted": "6 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Grèce : le traitement anti-âge qui a tué la star de la chanson Giorgos Mazonakis, a bien été administré illégalement",
-      "desc": "Le chanteur est mort le 9 septembre à 54 ans des suites d’une crise cardiaque. Il suivait, dans une clinique privée, un protocole prévu à l’origine pour les maladies auto-immunes comme la sclérose en plaques. La clinique n’avait pas le droit d’utiliser l’équipement.",
-      "url": "https://www.liberation.fr/culture/musique/grece-le-traitement-anti-age-qui-a-tue-la-star-de-la-chanson-giorgos-mazonakis-a-bien-ete-administre-illegalement-20261006_2PEASU75VFGXRAZFXRZ76DOWOE/",
-      "image": null,
-      "date": "2026-10-06T10:57:51+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -71,16 +151,6 @@
       "date_formatted": "6 October 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Donald Trump approuve la mise à mort par peloton d’exécution pour l’auteur d’une tuerie sur une base militaire",
-      "desc": "L’ancien psychiatre de l’armée Nidal Hasan avait été condamné en 2013 pour des faits commis quatre ans plus tôt. Détenu au Kansas, son exécution ne peut avoir lieu sans l’accord du Président, comme tout membre de l’armée.",
-      "url": "https://www.liberation.fr/international/amerique/donald-trump-approuve-la-mise-a-mort-par-peloton-dexecution-pour-lauteur-dune-tuerie-sur-une-base-militaire-20261006_NMCQVBPBL5BZ3KKFJWHXE6UIRI/",
-      "image": null,
-      "date": "2026-10-06T09:06:17+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Reportage. \"Mon garçon serait comme les autres\" :  médecins et parents réclament le dépistage de cinq maladies rares dès la naissance",
@@ -170,16 +240,6 @@
       "date": "2026-10-05T09:40:59+00:00",
       "date_formatted": "5 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Naissances prématurées, décès du nouveau-né, malformations… Les chaleurs extrêmes augmentent les risques pendant la grossesse, alerte le chef de l'ONU Climat",
-      "desc": "Dans un discours prononcé aux Fidji, Simon Stiell a rappelé que les vagues de chaleur liées au réchauffement climatique accroissaient le risque de complications touchant les femmes enceintes.",
-      "url": "https://www.franceinfo.fr/environnement/crise-climatique/naissances-prematurees-deces-du-nouveau-ne-malformations-congenitales-le-chef-de-l-onu-climat-alerte-sur-le-danger-accru-des-chaleurs-extremes-pour-les-femmes-enceintes_8222953.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/AVTordGSibY2DQDdtS_q0Bb3yoU/0x53:1024x629/432x243/filters:format(jpg)/2026/10/05/6ac343e09c9ec718602584.jpg",
-      "date": "2026-10-05T08:57:08+00:00",
-      "date_formatted": "5 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -369,8 +429,8 @@
       "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
       "date": "2026-10-01T09:00:08+00:00",
       "date_formatted": "1 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Diabète de type 5 : pourquoi cette forme méconnue pourrait concerner des millions de personnes",
@@ -488,16 +548,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/vaccination-infantile-des-reculs-dans-plusieurs-pays-de-l-ue-selon-une-etude_194864?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/17/cover-r4x3w1200-6aaba7e100ffc-vaccine.jpg",
       "date": "2026-09-17T11:23:18+00:00",
-      "date_formatted": "17 September 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "France: 8.000 décès en excès après un été de canicules intenses et quasi continues",
-      "desc": "Après un été totalement inédit où la France a vécu sa plus longue période de canicule, il est temps de compter les décès. Trois épisodes se sont succédé causant 8000 morts en excès selon un bilan provisoire qui devrait s'alourdir, la période de surveillance s'étalant du 1er juin au 15 septembre.",
-      "url": "https://www.sciencesetavenir.fr/sante/france-8-000-deces-en-exces-apres-un-ete-de-canicules-quasi-continues_194852?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/16/cover-r4x3w1200-6aaaad14df507-d538d19a0570e1550c0c4322d7c419889e227245-jpg.jpg",
-      "date": "2026-09-17T07:10:29+00:00",
       "date_formatted": "17 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
