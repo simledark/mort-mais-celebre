@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-10-08T12:21:36.769852+00:00",
+  "generated_at": "2026-10-08T22:34:15.334972+00:00",
   "count": 65,
   "articles": [
+    {
+      "title": "Cinq morts en France, l'inquiétant virus du Nil",
+      "desc": "Le virus du Nil occidental gagne du terrain en France : 161 cas recensés cette année et au moins 5 morts. L’infection passe le plus souvent inaperçue, mais peut parfois laisser de lourdes séquelles.",
+      "url": "https://www.franceinfo.fr/sante/maladie/cinq-morts-en-france-l-inquietant-virus-du-nil_8228860.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/E6q9S-ifGGFlLYfNqOhSEd3qhJY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7c8646d945182961606.jpg",
+      "date": "2026-10-08T20:00:02+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des images détournées et générées par IA alimentent les soupçons de peste en Russie",
+      "desc": "Entre des photos générées par Intelligence Artificielle, ou des vidéos sorties de leur contexte... le décès en Sibérie de Daria Chipilova, une laborantine de 28 ans alimente de nombreuses rumeurs en ligne. Nos équipes ont vérifié les images pour démêler le vrai du faux.",
+      "url": "https://www.franceinfo.fr/sante/des-images-detournees-et-generees-par-ia-alimentent-les-soupcons-de-peste-en-russie_8228785.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mH7c7P4x_Yrv81tv7O96Uh0pLUs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7c01d5a7e0380453800.jpg",
+      "date": "2026-10-08T19:00:02+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Votre mère pourrait être présente dans votre cerveau d’une manière que les scientifiques commencent tout juste à comprendre",
+      "desc": "Des cellules portant l'ADN de la mère ont été retrouvées dans le cerveau d'enfants. Elles y survivent parfois pendant des décennies. Quelque 70 % des enfants étudiés étaient concernés. Ce que cette découverte révèle sur le lien biologique mère-enfant dépasse tout ce qu'on imaginait.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-votre-mere-pourrait-etre-presente-votre-cerveau-maniere-scientifiques-commencent-tout-juste-comprendre-k2m6-138325/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/f/9/0f96baf042_50261691_demence-facteurs-risques.jpg",
+      "date": "2026-10-08T18:00:00+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "«C’est comme un vieillissement accéléré, mais réversible» : comment le corps de Sophie Adenot va-t-il se réadapter à la vie sur Terre ?",
+      "desc": "Après près de huit mois à bord de la Station spatiale internationale, l’astronaute française et ses trois coéquipiers ont retrouvé le plancher des vaches ce jeudi 8 octobre. Un séjour dans l’espace qui n’est pas sans conséquence pour le métabolisme.",
+      "url": "https://www.liberation.fr/sciences/espace/cest-comme-un-vieillissement-accelere-mais-reversible-comment-le-corps-de-sophie-adenot-va-t-il-se-readapter-a-la-vie-sur-terre-20261008_6HVEKGWHAVAOXBECPLWLR2SU4I/",
+      "image": null,
+      "date": "2026-10-08T17:23:02+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Démence : le lien entre la santé des vaisseaux et celle du cerveau se précise",
+      "desc": "Treize ans de vie cognitive en moins. C'est l'écart que des chercheurs américains ont mesuré entre les personnes cumulant trois facteurs de risque vasculaire et celles qui en sont indemnes. Fumer, laisser grimper sa tension ou ignorer un diabète après 55 ans, ce sont peut-être les erreurs les...",
+      "url": "https://www.futura-sciences.com/sante/actualites/esperance-vie-demence-lien-sante-vaisseaux-celle-cerveau-precise-k2m6-138317/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/1/7/a17b9d5a7f_50261693_2-demence-facteurs-risques.jpg",
+      "date": "2026-10-08T16:00:00+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Arrêts maladie : Le gouvernement laisse deux mois aux partenaires sociaux pour réviser le système",
+      "desc": "Le ministre du Travail laisse jusqu’au 19 décembre aux partenaires sociaux pour sortir une réforme des arrêts maladie, dans le but d’économiser un milliard d’euros par an",
+      "url": "https://www.20minutes.fr/sante/4252546-20261008-arrets-maladie-gouvernement-laisse-deux-mois-partenaires-sociaux-reviser-systeme?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/gOkUZMFkRoOR3MjQqcrbdCk/1200x768_photo-illustration-d-un-avis-d-arret-de-travail-07allilimages-sipa-06352-credit-mourad-allili-sipa-2403131230",
+      "date": "2026-10-08T12:28:07+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Anti-diabète et anti-obésité : l’ANSM alerte sur des effets indésirables parfois graves",
       "desc": "Les médicaments analogues du GLP-1 sont désormais très populaires. Mais l’ANSM a recensé 2801 effets indésirables entre février 2025 et janvier 2026, dont 515 graves et 13 décès, et alerte également sur leur mésusage à des fins d’amaigrissement, notamment chez les jeunes femmes.",
@@ -11,16 +71,6 @@
       "date_formatted": "8 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Une frappe fait 30 morts à Kramatorsk, trois personnes tuées dans une frappe sur la capitale, Kyiv attaque un géant de la tech russe… L’actu de la guerre en Ukraine ce jeudi 8 octobre",
-      "desc": "L’essentiel des informations du jour sur la guerre entre l’Ukraine et la Russie.",
-      "url": "https://www.liberation.fr/international/europe/une-frappe-russe-sur-deux-bus-et-un-immeuble-fait-12-morts-a-kramatorsk-dans-lest-de-lukraine-20261008_6VT2RANDLFGPDJTM5U4L536MMA/",
-      "image": null,
-      "date": "2026-10-08T10:08:44+00:00",
-      "date_formatted": "8 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Vendée : 500 personnes attendues sur la grande plage des Sables-d’Olonne pour Octobre rose",
@@ -243,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Les Etats-Unis réclament de la transparence à la Russie, après l'apparition d'un cas supposé de peste dans la région sibérienne d'Irkoutsk",
-      "desc": "La mort de Daria Chipilova, une technicienne de laboratoire de 28 ans, inquiète les autorités américaines.",
-      "url": "https://www.franceinfo.fr/monde/russie/les-etats-unis-reclament-de-la-transparence-a-la-russie-apres-l-apparition-d-un-cas-suppose-de-peste-dans-la-region-siberienne-d-irkoutsk_8226325.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/4_Iw_upLzHkWx19nOG2XZ13WIqM/0x53:1024x629/432x243/filters:format(jpg)/2026/10/07/6ac5db427ae77268625310.jpg",
-      "date": "2026-10-07T08:24:40+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Un simple sucre pourrait-il faire repousser vos cheveux ?",
       "desc": "Un gel à base de sucre pourrait bouleverser le traitement de la calvitie. Cette découverte fortuite promet une alternative naturelle aux traitements conventionnels contre la chute des cheveux. Alors que près de 40 % de la population mondiale souffre d'alopécie androgénétique, cette innovation...",
       "url": "https://www.futura-sciences.com/sante/actualites/cheveux-simple-sucre-pourrait-il-faire-repousser-vos-cheveux-w2t8-138223/#xtor%3DRSS-8",
@@ -270,16 +310,6 @@
       "date": "2026-10-07T06:00:23+00:00",
       "date_formatted": "7 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Œufs contaminés aux PFAS : comment expliquer les résultats édifiants de l'enquête d'ICI et de la cellule investigation de Radio France ?",
-      "desc": "Des polluants éternels jusque dans les œufs ? Nos confrères d’ICI et de la cellule investigation de Radio France ont fait analyser 91 œufs de poules élevées en plein air à travers le pays. Résultat : près de 6 sur 10 contiennent des PFAS, ces substances très persistantes dont certaines sont dangereu",
-      "url": "https://www.franceinfo.fr/sante/alimentation/ufs-contamines-aux-pfas-comment-expliquer-les-resultats-edifiants-de-l-enquete-d-ici-et-de-la-cellule-investigation-de-radio-france_8225767.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zb9Kz2WRjG_237rpz0rFxdohudw/39x0:1254x683/432x243/filters:format(jpg)/2026/10/06/6ac551f19224e952770681.jpg",
-      "date": "2026-10-06T21:55:15+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -373,16 +403,6 @@
       "type": "science"
     },
     {
-      "title": "Le Nobel de médecine 2026 récompense l’Américain Karl Deisseroth et les Allemands Peter Hegemann et Georg Nagel pour leurs travaux sur les canaux ioniques",
-      "desc": "Le trio a découvert une méthode qui permet de montrer comment les cellules nerveuses façonnent les souvenirs, les émotions et les comportements dans le cerveau.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/05/le-nobel-de-medecine-2026-recompense-l-americain-karl-deisseroth-et-les-allemands-peter-hegemann-et-georg-nagel-pour-leurs-travaux-sur-les-canaux-ioniques_6788513_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/05/247/0/7170/3585/644/322/60/0/9c38a3f_ftp-1-ogybihmarucp-5270638-01-06.jpg",
-      "date": "2026-10-05T11:41:47+00:00",
-      "date_formatted": "5 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Trop de scanners pourraient augmenter le risque de cancer, alertent des chercheurs",
       "desc": "Faut-il mieux réguler le recours aux examens d’imagerie de type scanner ? C’est ce que suggère une étude qui pointe du doigt les conséquences potentiellement néfastes d’un cumul d’expositions aux rayons X.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-trop-scanners-pourraient-augmenter-risque-cancer-alertent-chercheurs-w2t8-138162/#xtor%3DRSS-8",
@@ -413,16 +433,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancer du sein : 485 substances préoccupantes dans les pesticides, même parmi les ingrédients « inertes »",
-      "desc": "Que sait-on des liens entre pesticides et cancer du sein ? Une nouvelle étude américaine soulève des questions sur des substances qui passent facilement au second plan dans le débat sur leur sécurité.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-485-substances-preoccupantes-pesticides-meme-parmi-ingredients-inertes-138204/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/1/9/b195780091_50261544_femme-insecticide.jpg",
-      "date": "2026-10-03T06:38:37+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ebola en RDC : le bilan de la pire épidémie de l’histoire du pays franchit 4 000 morts",
       "desc": "Le pays fait face à une flambée inédite du virus, mais la présence de groupes armés et la défiance d’une partie des populations locales entravent la lutte. Le chef de la diplomatie française, Jean-Noël Barrot, est sur place pour marquer le soutien de Paris aux autorités locales et aux humanitaires.",
       "url": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html",
@@ -441,16 +451,6 @@
       "date_formatted": "2 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Alzheimer : des chercheurs identifient un mécanisme qui abîme les vaisseaux du cerveau et parviennent à le bloquer",
-      "desc": "Dans la maladie d’Alzheimer, les neurones ne sont pas les seuls à souffrir : les petits vaisseaux du cerveau peuvent aussi se dégrader. Des chercheurs ont réussi à freiner un mécanisme qui les endommage dans des modèles expérimentaux. Une découverte qui pourrait ouvrir une nouvelle voie pour...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-chercheurs-identifient-mecanisme-abime-vaisseaux-cerveau-parviennent-bloquer-138141/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/5/5/5550fb99a6_50261449_microcerveauu-humain-reconstitue-laboratoire.jpg",
-      "date": "2026-10-02T12:30:00+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Au Nigeria, une stratégie innovante associe vaccination et nutrition préventive pour augmenter la couverture vaccinale des enfants",
