@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-08T03:16:59.542497+00:00",
-  "count": 67,
+  "generated_at": "2026-10-08T12:21:36.769852+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "Anti-diabète et anti-obésité : l’ANSM alerte sur des effets indésirables parfois graves",
+      "desc": "Les médicaments analogues du GLP-1 sont désormais très populaires. Mais l’ANSM a recensé 2801 effets indésirables entre février 2025 et janvier 2026, dont 515 graves et 13 décès, et alerte également sur leur mésusage à des fins d’amaigrissement, notamment chez les jeunes femmes.",
+      "url": "https://www.sciencesetavenir.fr/sante/anti-diabete-et-anti-obesite-des-troubles-digestifs-aux-avc-les-effets-indesirables-se-multiplient_195286?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac7694f6b77b-glp1.jpg",
+      "date": "2026-10-08T10:45:12+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Une frappe fait 30 morts à Kramatorsk, trois personnes tuées dans une frappe sur la capitale, Kyiv attaque un géant de la tech russe… L’actu de la guerre en Ukraine ce jeudi 8 octobre",
+      "desc": "L’essentiel des informations du jour sur la guerre entre l’Ukraine et la Russie.",
+      "url": "https://www.liberation.fr/international/europe/une-frappe-russe-sur-deux-bus-et-un-immeuble-fait-12-morts-a-kramatorsk-dans-lest-de-lukraine-20261008_6VT2RANDLFGPDJTM5U4L536MMA/",
+      "image": null,
+      "date": "2026-10-08T10:08:44+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vendée : 500 personnes attendues sur la grande plage des Sables-d’Olonne pour Octobre rose",
+      "desc": "Samedi 17 octobre, des centaines de personnes sont invitées à se réunir pour former un cœur géant afin de sensibiliser au dépistage du cancer du sein, rapporte « Ouest-France »",
+      "url": "https://www.20minutes.fr/societe/4252440-20261008-vendee-500-personnes-attendues-grande-plage-sables-olonne-octobre-rose?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/n52owXgZSHqhtC6LktyzgSk/1200x768_ce-week-end-plusieurs-enseignes-proposent-leurs-invendus-chez-chaud-bouillon-a-lille-les-benefices-soutiendront-octobre-rose-photo-d-illustration",
+      "date": "2026-10-08T09:36:31+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Ce que le travail fait aux femmes » : un plaidoyer pour la reconnaissance du cancer du sein comme maladie professionnelle",
+      "desc": "Dans un livre de combat, un collectif d’auteurs met en évidence les liens entre le cancer du sein de salariées et leur quotidien professionnel. En cause : l’exposition aux rayonnements ionisants et à près de 200 produits chimiques, ainsi que le travail de nuit.",
+      "url": "https://www.lemonde.fr/vie-au-travail/article/2026/10/08/ce-que-le-travail-fait-aux-femmes-un-plaidoyer-pour-la-reconnaissance-du-cancer-du-sein-comme-maladie-professionnelle_6789928_6768900.html",
+      "image": "https://img.lemde.fr/2026/10/05/160/0/1920/960/644/322/60/0/a7aed74_upload-1-2yco1umofo3u-generated-1791193406216.jpg",
+      "date": "2026-10-08T06:00:23+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Margaret Hamilton, scientifique qui a développé le système informatique de la mission Apollo, est morte à 90 ans",
+      "desc": "Considérée comme une pionnière dans son domaine, l’informaticienne américaine a permis à la NASA de battre l’Union soviétique durant la course à la Lune, dans les années 1960 et 1970.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/10/08/margaret-hamilton-scientifique-qui-a-developpe-le-systeme-informatique-de-la-mission-apollo-est-morte-a-90-ans_6789925_3382.html",
+      "image": "https://img.lemde.fr/2019/03/22/673/0/3001/1500/644/322/60/0/d65d94f_pN6CqbYS3az6iu-L4fJAzzW.jpg",
+      "date": "2026-10-08T05:49:19+00:00",
+      "date_formatted": "8 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "La Russie dément tout \"risque épidémique\" en Sibérie après la mort d'une laborantine d'un institut travaillant sur la peste",
       "desc": "L'Organisation mondiale de la santé, les États-Unis et l'Union européenne ont exhorté la Russie à fournir davantage d'informations à la suite du décès de cette femme de 28 ans, qui a pris ces derniers jours une ampleur internationale.",
@@ -24,7 +74,7 @@
     },
     {
       "title": "Un traitement optogénétique redonne une vision partielle à six patients aveugles",
-      "desc": "Un essai clinique, mené chez dix personnes non voyantes en France, aux Etats-Unis et au Royaume-Uni, suggère l’intérêt, pour restaurer une forme de vision, d’un traitement qui consiste à injecter dans l’œil un vecteur viral porteur d’une construction génétique.",
+      "desc": "Un essai clinique, mené chez 10 personnes non voyantes en France, aux Etats-Unis et au Royaume-Uni, suggère l’intérêt, pour restaurer une forme de vision, d’un traitement qui consiste à injecter dans l’œil un vecteur viral porteur d’une construction génétique.",
       "url": "https://www.lemonde.fr/sciences/article/2026/10/07/un-traitement-optogenetique-redonne-une-vision-partielle-a-six-patients-aveugles_6789654_1650684.html",
       "image": "https://img.lemde.fr/2026/10/07/97/0/1214/607/644/322/60/0/375f93b_upload-1-7alb3oiy8k3n-capture-d-e-cran-2026-10-07-a-15-30-17.png",
       "date": "2026-10-07T23:10:04+00:00",
@@ -73,27 +123,7 @@
       "type": "presse"
     },
     {
-      "title": "Sur le point d’être débranchée, Christa Pike reprend connaissance après l’échec de son exécution par injection létale",
-      "desc": "La quinquagénaire du Tennessee, condamnée à mort pour torture et assassinat, était hospitalisée dans un état critique après avoir reçu deux injections de barbituriques il y a près d’une semaine.",
-      "url": "https://www.liberation.fr/international/amerique/elle-est-la-premiere-personne-a-survivre-christa-pike-a-repris-connaissance-apres-lechec-de-son-execution-par-injection-letale-20261007_E4MMWI2PCVEXHANQUAXZYXP57U/",
-      "image": null,
-      "date": "2026-10-07T20:01:45+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Espagne : Maricarmen Abascal, la retraitée expulsée à l’origine du mouvement de protestation sur le logement, est morte",
-      "desc": "La femme de 87 ans avait été délogée de son appartement à Madrid le 23 septembre, déclenchant des manifestations monstres à travers le pays.",
-      "url": "https://www.liberation.fr/international/europe/espagne-maricarmen-abscal-la-retraitee-expulsee-a-lorigine-du-mouvement-de-protestation-sur-le-logement-est-morte-20261007_6UK4KXVRHRHOXMCOB27BYRSAIQ/",
-      "image": null,
-      "date": "2026-10-07T19:38:11+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Peste en Russie : Deuxième mort suspect, inquiétude, démenti, OMS… Le point sur la situation",
+      "title": "Peste en Russie : Deuxième mort suspecte, inquiétude, démenti, OMS… Le point sur la situation",
       "desc": "Une employée d’un laboratoire travaillant sur la peste en Sibérie est décédée la semaine dernière. Une mort qui fait craindre une épidémie de peste",
       "url": "https://www.20minutes.fr/sante/4252320-20261007-peste-russie-deuxieme-mort-suspect-inquietude-dementi-oms-point-situation?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/U0JeZIbKQP2Cx0PQ2CO4nCk/1200x768_l-affaire-part-d-un-deces-suspect-d-une-personne-travaillant-dans-un-laboratoire-d-etude-sur-la-peste-a-irkoutsk-en-russie",
@@ -243,31 +273,11 @@
       "type": "presse"
     },
     {
-      "title": "« Un taux de mortalité très important »… Que sait-on sur la peste pulmonaire, après un cas supposé en Russie ?",
-      "desc": "La peste pulmonaire a possiblement tué une jeune technicienne de laboratoire en Sibérie. Taux de mortalité, symptômes, traitements… Un infectiologue décrypte cette maladie pour « 20 Minutes »",
-      "url": "https://www.20minutes.fr/sante/4251779-20261007-taux-mortalite-tres-important-sait-peste-pulmonaire-apres-cas-suppose-russie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/xCLADKvkTxy9lgGtI1UIBCk/1200x768_illustration-3d-de-la-bacterie-de-la-peste-yersinia-pestis-ce-sont-des-bacilles-immobiles-a-gram-negatif-bacteries-en-forme-de-batonnet-y-pestis-provoque-la-peste-bubonique-consideree-comme-la-peste-noire-de-l-europe-au-milieu-du-xi-ve-siecle-ainsi-que-la-grande-peste-de-londres-en-1664-1665-la-bacterie-se-transmet-a-l-homme-par-des-piqures-de-puces-infectees-transmises-par-des-rats-l-infection-est-rapide-provoque-un-gonflement-des-ganglions-lymphatiques-et-entraine-une-septicemie-toujours-fatale-et-une-infection-pulmonaire-qui-peut-etre-fatale-en-un-jour-un-traitement-antibiotique-rapide-peut-permettre-de-guerir-photo-de-roger-harris-science-photo-libra-rhr-science-photo-library-via-afp",
-      "date": "2026-10-07T04:02:36+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Œufs contaminés aux PFAS : comment expliquer les résultats édifiants de l'enquête d'ICI et de la cellule investigation de Radio France ?",
       "desc": "Des polluants éternels jusque dans les œufs ? Nos confrères d’ICI et de la cellule investigation de Radio France ont fait analyser 91 œufs de poules élevées en plein air à travers le pays. Résultat : près de 6 sur 10 contiennent des PFAS, ces substances très persistantes dont certaines sont dangereu",
       "url": "https://www.franceinfo.fr/sante/alimentation/ufs-contamines-aux-pfas-comment-expliquer-les-resultats-edifiants-de-l-enquete-d-ici-et-de-la-cellule-investigation-de-radio-france_8225767.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/zb9Kz2WRjG_237rpz0rFxdohudw/39x0:1254x683/432x243/filters:format(jpg)/2026/10/06/6ac551f19224e952770681.jpg",
       "date": "2026-10-06T21:55:15+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La Haute Autorité de santé va évaluer l'intérêt d'un dépistage à la naissance de cinq maladies rares supplémentaires",
-      "desc": "La HAS a été saisie en 2023 et en 2024 par l'association ELA France et le Centre de référence des maladies lysosomales du CHU de Rouen.",
-      "url": "https://www.franceinfo.fr/sante/enfant-ado/la-haute-autorite-de-sante-va-evaluer-l-interet-d-un-depistage-a-la-naissance-de-cinq-maladies-rares-supplementaires_8225314.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/5WC8hR5j14R6-TWdi-AtQnyoqm4/0x350:6720x4130/432x243/filters:format(jpg)/2026/10/06/6ac506f0eb107707659243.jpg",
-      "date": "2026-10-06T16:35:07+00:00",
       "date_formatted": "6 October 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -281,16 +291,6 @@
       "date_formatted": "6 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Dijon : Le CGFL lance un programme inédit de prévention personnalisée des cancers",
-      "desc": "Le dispositif s’adresse aux personnes présentant un risque de cancer deux à trois fois supérieur à celui de la population générale, selon « Dijon Actualité »",
-      "url": "https://www.20minutes.fr/sante/4251802-20261006-dijon-cgfl-lance-programme-inedit-prevention-personnalisee-cancers?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/XURcnfBcSHmGA71dBgYy_Sk/1200x768_la-clinique-du-sein-de-hautepierre-rassemble-les-professionnels-dans-un-espace-de-250-m2-a-strasbourg-le-but-est-de-faciliter-le-parcours-des-patientes-atteintes-du-cancer-du-sein-photo-d-illustration",
-      "date": "2026-10-06T13:20:32+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Paris : Soupçonné d’être un « frotteur », un visiteur de la tour Eiffel jure souffrir de priapisme",
@@ -330,16 +330,6 @@
       "date": "2026-10-06T11:10:38+00:00",
       "date_formatted": "6 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Près de 60 % des œufs analysés contiennent des PFAS, selon une étude",
-      "desc": "ICI et la Cellule investigation de Radio France ont fait contrôler les teneurs en polluants éternels (PFAS) sur 91 œufs prélevés partout en France. Certaines régions comme Auvergne-Rhône-Alpes ou l’île de France sont très concernées",
-      "url": "https://www.20minutes.fr/sante/4251766-20261006-pres-60-ufs-analyses-contiennent-pfas-selon-etude?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/6vc_b99YTKuW82ONf54RVik/1200x768_illustration-photographique-de-deux-ufs-de-poule-a-blois-en-france-le-18-septembre-2026-photo-de-bastien-ohier-hans-lucas-via-afp",
-      "date": "2026-10-06T10:53:09+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -508,16 +498,6 @@
       "url": "https://www.lemonde.fr/sante/article/2026/10/01/octobre-rose-fabien-roussel-demande-la-prise-en-charge-integrale-des-depenses-liees-au-traitement-du-cancer-du-sein_6786504_1651302.html",
       "image": "https://img.lemde.fr/2026/09/18/877/0/8000/4000/644/322/60/0/07ffdb2_upload-1-deevrj44r5rs-jmug260918007.jpg",
       "date": "2026-10-01T12:52:13+00:00",
-      "date_formatted": "1 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ce qui change pour votre budget en octobre : prix du gaz, hausse des frais de santé et arrêts maladie",
-      "desc": "Allocation logement revalorisée, prix du gaz, des franchises médicales et des participations forfaitaires en hausse, ce qui change en octobre.",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/01/budget-des-menages-ce-qui-change-le-1-octobre_6786470_1657007.html",
-      "image": "https://img.lemde.fr/2023/04/17/364/0/3000/1500/644/322/60/0/6602888_1681718661324-rrrr.jpg",
-      "date": "2026-10-01T10:15:09+00:00",
       "date_formatted": "1 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
