@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-10-09T03:23:01.308535+00:00",
-  "count": 64,
+  "generated_at": "2026-10-09T12:11:42.397205+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title": "« Nous oublions la polio parce que la vaccination fonctionne, mais elle n’est pas éradiquée dans le monde »",
+      "desc": "Dans une récente étude, des chercheurs ont constaté un recul de la couverture vaccinale en Europe, notamment contre la poliomyélite. La médecin Véronique Inès Thouvenot, dans une tribune au « Monde », rappelle qu’il faut rester vigilant car, sans vaccination, des maladies devenues rares peuvent de n",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/09/nous-oublions-la-polio-parce-que-la-vaccination-fonctionne-mais-elle-n-est-pas-eradiquee-dans-le-monde_6790547_1650684.html",
+      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+      "date": "2026-10-09T11:30:02+00:00",
+      "date_formatted": "9 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Cancer du sein : la présidente de l’Inca démêle le vrai du faux",
+      "desc": "À l’occasion d’Octobre rose, mois de sensibilisation au dépistage du cancer du sein, la lutte contre la maladie passe aussi par la lutte contre les idées reçues et les fausses informations. Dans un entretien Suzette Delaloge, oncologue et présidente de l’Institut national du cancer (Inca), répond au",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer-et-fake-news-la-presidente-de-l-inca-demele-le-vrai-du-faux_195305?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/09/cover-r4x3w1200-6ac8a5d07f746-ballon-rose.jpg",
+      "date": "2026-10-09T09:54:44+00:00",
+      "date_formatted": "9 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "\"J'ai fait deux tentatives de suicide\" : la santé mentale des lycéens se dégrade",
+      "desc": "Notes consultables en permanence, orientation incertaine, réseaux sociaux… Pour de nombreux lycéens, la scolarité est devenue une source importante de stress. Dans les établissements, les soignants constatent les difficultés de la santé mentale chez jeunes, qui sont toujours plus nombreux à demander",
+      "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/j-ai-fait-deux-tentatives-de-suicide-la-sante-mentale-des-lyceens-se-degrade_8229607.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/fBJt6XIym3Y8lHsoi7ZzRqofFEg/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/09/6ac894627a851240391907.jpg",
+      "date": "2026-10-09T09:17:06+00:00",
+      "date_formatted": "9 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’armée américaine veut diffuser en direct l’exécution d’un condamné, l’ONU dénonce une forme de «torture»",
+      "desc": "Quelques jours après avoir annoncé que l’auteur d’une tuerie sur une base militaire serait mis à mort le 3 décembre par un peloton d’exécution, le Pentagone a fait savoir jeudi soir que cela se ferait en public.",
+      "url": "https://www.liberation.fr/international/amerique/larmee-americaine-veut-diffuser-en-direct-lexecution-dun-condamne-20261009_YAYI26PGAJGMBNGEZA6O4ZG2DY/",
+      "image": null,
+      "date": "2026-10-09T09:11:42+00:00",
+      "date_formatted": "9 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le virus du Nil s'implante toujours un peu plus en France: nombre de cas record pour 2026",
+      "desc": "Peu à peu, le virus du Nil s'implante en France causant de plus en plus de cas au fil des ans. Cette année, il a infecté 161 personnes et causé la mort de 5 d'entre eux. Un nombre de cas multiplié par trois par rapport à l'année 2025. La circulation du virus ne cesse de s'étendre, remontant toujours",
+      "url": "https://www.sciencesetavenir.fr/sante/virus-du-nil-occidental-nombre-de-cas-record-dans-l-hexagone_195293?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac7b64908483-e8e596600a6a527c2512e2224292c59130a239bb-jpg.jpg",
+      "date": "2026-10-09T07:49:46+00:00",
+      "date_formatted": "9 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "\"On parle trop souvent à la place des jeunes\" : derrière les mobilisations lycéennes, le mal-être de toute une génération ?",
+      "desc": "Les lycéens mobilisés sont majoritairement nés entre 2008 et 2011. Durant leur vie, ils ont assisté à de nombreux bouleversements, comme la pandémie de Covid-19 ou l'avènement de l'intelligence artificielle.",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-parle-trop-souvent-a-la-place-des-jeunes-derriere-les-mobilisations-lyceennes-le-mal-etre-de-toute-une-generation_8223700.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/tw85W-OgGWrYgIlEp8HwU9o57kE/0x520:5000x3333/432x243/filters:format(jpg)/2026/10/06/6ac4dba789d36618758620.jpg",
+      "date": "2026-10-09T05:56:33+00:00",
+      "date_formatted": "9 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Cinq morts en France, l'inquiétant virus du Nil",
       "desc": "Le virus du Nil occidental gagne du terrain en France : 161 cas recensés cette année et au moins 5 morts. L’infection passe le plus souvent inaperçue, mais peut parfois laisser de lourdes séquelles.",
@@ -31,16 +91,6 @@
       "date_formatted": "8 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«C’est comme un vieillissement accéléré, mais réversible» : comment le corps de Sophie Adenot va-t-il se réadapter à la vie sur Terre ?",
-      "desc": "Après près de huit mois à bord de la Station spatiale internationale, l’astronaute française et ses trois coéquipiers ont retrouvé le plancher des vaches ce jeudi 8 octobre. Un séjour dans l’espace qui n’est pas sans conséquence pour le métabolisme.",
-      "url": "https://www.liberation.fr/sciences/espace/cest-comme-un-vieillissement-accelere-mais-reversible-comment-le-corps-de-sophie-adenot-va-t-il-se-readapter-a-la-vie-sur-terre-20261008_6HVEKGWHAVAOXBECPLWLR2SU4I/",
-      "image": null,
-      "date": "2026-10-08T17:23:02+00:00",
-      "date_formatted": "8 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Démence : le lien entre la santé des vaisseaux et celle du cerveau se précise",
@@ -223,16 +273,6 @@
       "type": "presse"
     },
     {
-      "title": "Transmission par les moustiques, records de cas en France, symptômes... Cinq questions sur le virus du Nil occidental qui se propage en Europe",
-      "desc": "Le réchauffement climatique favorise le développement de ce virus qui peut avoir des conséquences graves pour la santé dans de rares cas. Cinq personnes en sont déjà mortes en France cette année.",
-      "url": "https://www.franceinfo.fr/sante/maladie/transmission-par-les-moustiques-records-de-cas-en-france-symptomes-cinq-questions-sur-le-virus-du-nil-occidental-qui-se-propage-en-europe_8224828.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ypvzmLSF5vjaktnRXDyNteFkHWk/0x425:4196x2785/432x243/filters:format(jpg)/2026/10/06/6ac4fbb0408f8688503423.jpg",
-      "date": "2026-10-07T13:58:21+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : le Kenya en alerte après un premier décès à Nairobi",
       "desc": "Le Kenya a annoncé mardi 6 octobre son premier cas et son premier décès liés au virus Ebola, après la mort à Nairobi d’un ressortissant kényan vivant en République démocratique du Congo (RDC).",
       "url": "https://www.sciencesetavenir.fr/sante/premier-cas-et-premier-deces-d-ebola-recenses-au-kenya_195258?xtor=RSS-16",
@@ -241,16 +281,6 @@
       "date_formatted": "7 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "\"On nous a parlé d'une maladie pire que le Covid\" : pourquoi les doutes persistent sur un éventuel cas de peste en Russie ?",
-      "desc": "Que s'est-il passé dans un institut spécialisé dans la peste, en Sibérie ? Une jeune laborantine est morte d'une pneumonie inexpliquée. Si la peste n'est pas confirmée, les informations partielles des autorités russes laissent des questions sans réponse. En Europe, la situation est surveillée de prè",
-      "url": "https://www.franceinfo.fr/monde/russie/on-nous-a-parle-d-une-maladie-pire-que-le-covid-pourquoi-les-doutes-persistent-sur-un-eventuel-cas-de-peste-en-russie_8225752.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/N1VPa1c0cWehgORh6h8tn2yu8JA/147x0:1130x553/432x243/filters:format(jpg)/2026/10/06/6ac548c0098b8617696057.jpg",
-      "date": "2026-10-07T13:42:32+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ardennes : Un bus itinérant va apporter des soins aux patients atteints d’un cancer dans 17 communes",
@@ -280,16 +310,6 @@
       "date": "2026-10-07T10:21:25+00:00",
       "date_formatted": "7 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"J'ai un cancer du sein, j'ai 27 ans, je suis sportive de haut niveau\"... L'heptathlète Elisa Pineau face à l'annonce de sa maladie et ses conséquences",
-      "desc": "A 27 ans, l'athlète française - qui compte des sélections internationales chez les jeunes - partage sur les réseaux sociaux depuis le mois de mars son quotidien face à la maladie. Chaque semaine du mois d'octobre pour France Télévisions, elle reviendra sur son combat.",
-      "url": "https://www.franceinfo.fr/sports/athletisme/j-ai-un-cancer-du-sein-j-ai-27-ans-je-suis-sportive-de-haut-niveau-l-heptathlete-elisa-pineau-face-a-l-annonce-de-sa-maladie-et-ses-consequences_8226448.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/5uteU55wl4egdconKucZkKXuX44/127x0:476x620/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/07/6ac5f92cb87db525070924.jpg",
-      "date": "2026-10-07T09:50:05+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -333,16 +353,6 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : Le Kenya annonce un mort, le premier jamais recensé sur son sol",
-      "desc": "Le Kenya a enregistré son premier cas et premier décès d’Ebola. Face à cette souche qui ravage le Nord-Kivu, les autorités kényanes ont placé des dizaines de cas contacts sous surveillance",
-      "url": "https://www.20minutes.fr/monde/4251838-20261006-ebola-kenya-annonce-mort-premier-jamais-recense-sol?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/LxvvN3MDTAKYUtaXgnrwkSk/1200x768_10-juin-2026-kenya-nairobi-des-medecins-de-differents-pays-d-afrique-de-l-est-suivent-une-formation-aux-pratiques-sures-dans-un-centre-de-traitement-d-ebola-dans-le-cadre-du-projet-t-each-qui-est-mene-conjointement-par-des-experts-de-l-institut-de-sante-mondiale-et-du-departement-des-maladies-infectieuses-et-des-soins-intensifs-de-la-charite-photo-eva-krafczyk-dpa-ur-newsml-dpa-com-20090101-260611-99-706515-eva-krafczyk-dpa-sipa-2606112210",
-      "date": "2026-10-06T12:44:07+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : le Kenya annonce une première mort liée au virus sur son territoire",
       "desc": "Le ministre de la santé a déclaré qu’un citoyen kényan, qui est arrivé samedi dans le pays en provenance de la République démocratique du Congo via l’Ouganda, avait été placé en isolement à l’hôpital de Nairobi, avant d’y mourir lundi soir.",
       "url": "https://www.lemonde.fr/afrique/article/2026/10/06/ebola-le-kenya-annonce-son-premier-mort-lie-au-virus_6788972_3212.html",
@@ -361,16 +371,6 @@
       "date_formatted": "6 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "L’exécution ratée de Christa Pike : que sait-on sur le pentobarbital utilisé en injection létale ?",
-      "desc": "Que se passe-t-il dans l’organisme lorsque ce barbiturique est administré à une dose destinée à provoquer la mort ? Que révèlent les données pharmacologiques, cliniques et autopsiques disponibles ?",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/10/06/l-execution-ratee-de-christa-pike-que-sait-on-sur-le-pentobarbital-utilise-en-injection-letale_6788954_6579630.html",
-      "image": "https://img.lemde.fr/2026/10/05/85/0/1024/512/644/322/60/0/1cb3d64_upload-1-huoca0bal9q4-injection-le-tale-pentobarbital-peine-de-mort-exe-cution-capitale.jpg",
-      "date": "2026-10-06T09:53:02+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Un cas de peste soupçonné en Sibérie : la Russie assure que « la situation reste sous contrôle », et les Etats-Unis, qu’ils « surveillent de près », après la mort d’une chercheuse d’une pneumonie à l’",
@@ -481,16 +481,6 @@
       "date_formatted": "1 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Octobre rose : Fabien Roussel demande « la prise en charge intégrale » des dépenses liées au traitement du cancer du sein",
-      "desc": "Le secrétaire national du PCF affirme, dans un courrier adressé au président de la République, refuser que les malades aient à « choisir entre se soigner et se nourrir ».",
-      "url": "https://www.lemonde.fr/sante/article/2026/10/01/octobre-rose-fabien-roussel-demande-la-prise-en-charge-integrale-des-depenses-liees-au-traitement-du-cancer-du-sein_6786504_1651302.html",
-      "image": "https://img.lemde.fr/2026/09/18/877/0/8000/4000/644/322/60/0/07ffdb2_upload-1-deevrj44r5rs-jmug260918007.jpg",
-      "date": "2026-10-01T12:52:13+00:00",
-      "date_formatted": "1 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "La France bat le triste record du taux de suicides dans ses prisons",
@@ -629,16 +619,6 @@
       "image": null,
       "date": "2026-06-23T04:00:07+00:00",
       "date_formatted": "23 June 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Syndrome de Cloves : l’Agence européenne des médicaments autorise la mise sur le marché de l’alpelisib",
-      "desc": "L’Agence européenne des médicaments vient d’approuver l’alpelisib pour le traitement des formes graves des syndromes hypertrophiques liés au gène PIK3CA, dont le syndrome de Cloves. Cette avancée thérapeutique est le fruit des travaux du Pr Guillaume Canaud et de son équipe au sein de l’unité de méd",
-      "url": "https://presse.inserm.fr/syndrome-de-cloves-lagence-europeenne-des-medicaments-autorise-la-mise-sur-le-marche-de-lalpelisib/73035/",
-      "image": null,
-      "date": "2026-06-16T08:00:46+00:00",
-      "date_formatted": "16 June 2026",
       "source": "Inserm",
       "type": "science"
     }
