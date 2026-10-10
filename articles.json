@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-10T16:28:59.960734+00:00",
-  "count": 58,
+  "generated_at": "2026-10-10T20:47:50.153866+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "\"Pour que la lutte contre le cancer ne soit pas du vernis rose\" : la député LFI Mathilde Panot crée la polémique en attaquant la campagne Octobre rose",
+      "desc": "Dans une vidéo, la cheffe de file des députés insoumis affirme rejeter le ruban rose pour s'opposer à une campagne qu'elle dit liée à un industriel fabricant de pesticides et opérant en Israël. Des propos dénoncés par ses opposants politiques.",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/pour-que-la-lutte-contre-le-cancer-ne-soit-pas-du-vernis-rose-la-depute-lfi-mathilde-panot-cree-la-polemique-en-attaquant-la-campagne-octobre-rose_8231695.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/D6Az37XEUzRDYfovA9Qf6Tst93U/0x0:1024x576/432x243/filters:format(jpg)/2026/10/10/6aca5dae9b47f231251904.jpg",
+      "date": "2026-10-10T19:45:19+00:00",
+      "date_formatted": "10 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Jérémie Naudé, neuroscientifique : « Certains discours ne tentent pas de décrire le vivant, mais cherchent à le discipliner »",
       "desc": "Dans son livre « Neuro arnaque », le chercheur dénonce les nouveaux atours de discours réactionnaires visant à dévoyer la biologie pour gommer la dimension sociale, culturelle et proprement politique de certains phénomènes.",
@@ -168,16 +178,6 @@
       "url": "https://www.franceinfo.fr/sante/maladie/cinq-morts-en-france-l-inquietant-virus-du-nil_8228860.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/E6q9S-ifGGFlLYfNqOhSEd3qhJY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7c8646d945182961606.jpg",
       "date": "2026-10-08T20:00:02+00:00",
-      "date_formatted": "8 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des images détournées et générées par IA alimentent les soupçons de peste en Russie",
-      "desc": "Entre des photos générées par Intelligence Artificielle, ou des vidéos sorties de leur contexte... le décès en Sibérie de Daria Chipilova, une laborantine de 28 ans alimente de nombreuses rumeurs en ligne. Nos équipes ont vérifié les images pour démêler le vrai du faux.",
-      "url": "https://www.franceinfo.fr/sante/des-images-detournees-et-generees-par-ia-alimentent-les-soupcons-de-peste-en-russie_8228785.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mH7c7P4x_Yrv81tv7O96Uh0pLUs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7c01d5a7e0380453800.jpg",
-      "date": "2026-10-08T19:00:02+00:00",
       "date_formatted": "8 October 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -438,16 +438,6 @@
       "url": "https://www.lemonde.fr/idees/article/2026/10/03/l-arrivee-des-medicaments-antiobesite-en-france-ne-permet-pas-de-predire-la-disparition-de-la-grossophobie_6787793_3232.html",
       "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
       "date": "2026-10-03T14:00:05+00:00",
-      "date_formatted": "3 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola en RDC : le bilan de la pire épidémie de l’histoire du pays franchit 4 000 morts",
-      "desc": "Le pays fait face à une flambée inédite du virus, mais la présence de groupes armés et la défiance d’une partie des populations locales entravent la lutte. Le chef de la diplomatie française, Jean-Noël Barrot, est sur place pour marquer le soutien de Paris aux autorités locales et aux humanitaires.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html",
-      "image": "https://img.lemde.fr/2026/10/02/1095/0/7728/3864/644/322/60/0/374e429_ftp-1-ctfzwcpjwncg-2026-10-02t095043z-892010841-rc2oonaomkm7-rtrmadp-3-health-ebola-congo.JPG",
-      "date": "2026-10-03T02:14:41+00:00",
       "date_formatted": "3 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
