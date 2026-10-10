@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-10T11:29:15.019792+00:00",
+  "generated_at": "2026-10-10T16:28:59.960734+00:00",
   "count": 58,
   "articles": [
+    {
+      "title": "Jérémie Naudé, neuroscientifique : « Certains discours ne tentent pas de décrire le vivant, mais cherchent à le discipliner »",
+      "desc": "Dans son livre « Neuro arnaque », le chercheur dénonce les nouveaux atours de discours réactionnaires visant à dévoyer la biologie pour gommer la dimension sociale, culturelle et proprement politique de certains phénomènes.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/10/jeremie-naude-neuroscientifique-certains-discours-ne-tentent-pas-de-decrire-le-vivant-mais-cherchent-a-le-discipliner_6791013_1650684.html",
+      "image": "https://img.lemde.fr/2026/10/07/578/0/2984/1492/644/322/60/0/b00d72c_upload-1-gmdrlb8t67nd-jn-5-copie.jpg",
+      "date": "2026-10-10T17:30:09+00:00",
+      "date_formatted": "10 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Ménopause : vos ovaires auraient encore un rôle inattendu, selon une étude",
+      "desc": "Les ovaires ne deviendraient pas inactifs après la ménopause. Chez la souris, une étude montre qu'ils perdent leur identité reproductive et prennent un profil proche de celui d'un organe immunitaire, envahi de cellules de défense. Des premières données humaines, pas encore validées par d'autres...",
+      "url": "https://www.futura-sciences.com/sante/actualites/menopause-menopause-vos-ovaires-auraient-encore-role-inattendu-selon-etude-k2m6-138375/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/f/4/8f43f963d2_50261796_ovaires-menopause.jpg",
+      "date": "2026-10-10T16:00:00+00:00",
+      "date_formatted": "10 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ukraine : des frappes russes font au moins 15 morts à Zaporijia et provoquent des coupures de courant massives à Kyiv",
+      "desc": "Plusieurs bombes se sont abattues sur des zones résidentielles de la ville du sud-est du pays. «La Russie a exprimé ses remerciements» après l’accord annoncé la veille par Donald Trump, a ironisé Volodymyr Zelensky.",
+      "url": "https://www.liberation.fr/international/europe/de-nouvelles-frappes-russes-en-ukraine-font-au-moins-sept-morts-dont-trois-enfants-20261010_XY5NY6DM75F75AG2NHQDVX7ZS4/",
+      "image": null,
+      "date": "2026-10-10T14:17:25+00:00",
+      "date_formatted": "10 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Une protéine d’algue, des virus modifiés… et 7 personnes qui retrouvent en partie la vue : la science franchit un cap inédit",
       "desc": "Et si une simple lumière pouvait bouleverser notre façon de traiter certaines formes de cécité ? Récompensée par le prix Nobel de médecine 2026, une technique aussi fascinante qu’inattendue, l’optogénétique, quitte les laboratoires pour être testée chez l’humain. Des chercheurs viennent de...",
@@ -11,16 +41,6 @@
       "date_formatted": "10 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Ukraine : des frappes russes sur des quartiers résidentiels de Zaporijia font au moins 11 morts, dont 3 enfants",
-      "desc": "Les autorités ukrainiennes affirment que «cinq bombes aériennes guidées» se sont abattues sur cette ville du sud du pays.",
-      "url": "https://www.liberation.fr/international/europe/de-nouvelles-frappes-russes-en-ukraine-font-au-moins-sept-morts-dont-trois-enfants-20261010_XY5NY6DM75F75AG2NHQDVX7ZS4/",
-      "image": null,
-      "date": "2026-10-10T09:35:24+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Le tabac marque vos os : des scientifiques retrouvent sa trace plusieurs siècles après la mort",
@@ -433,16 +453,6 @@
       "type": "presse"
     },
     {
-      "title": "Le virus West Nile flambe en France, atteignant un record de 145 cas humains",
-      "desc": "Les températures élevées de l’été et le retour de quelques orages stimulent cet agent infectieux transmis des oiseaux aux humains par les moustiques communs.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/02/le-virus-west-nile-flambe-en-france-atteignant-un-record-de-145-cas-humains_6787189_3244.html",
-      "image": "https://img.lemde.fr/2026/10/02/159/0/1907/953/644/322/60/0/4369ae9_upload-1-wl0yyxilryyj-000-69c79t3.jpg",
-      "date": "2026-10-02T18:00:16+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Au Nigeria, une stratégie innovante associe vaccination et nutrition préventive pour augmenter la couverture vaccinale des enfants",
       "desc": "Au Nigeria, la sous-nutrition et les maladies infectieuses constituent une double menace pour la survie de l'enfant, en particulier dans les zones où le fardeau de la malnutrition est élevé et les couvertures vaccinales faibles. Face à ce double enjeu de santé publique, des scientifiques et des huma",
       "url": "https://presse.inserm.fr/au-nigeria-une-strategie-innovante-associe-vaccination-et-nutrition-preventive-pour-augmenter-la-couverture-vaccinale-des-enfants/73337/",
@@ -569,16 +579,6 @@
       "image": null,
       "date": "2026-07-21T08:00:02+00:00",
       "date_formatted": "21 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Grandes causes de décès en France : tendances et causes associées en 2024",
-      "desc": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees), l’Inserm via son Centre d’épidémiologie sur les causes médicales de décès (CépiDc-Inserm) et Santé publique France analysent les causes médicales de décès des personnes résidentes et décédées en France en 2024. L’",
-      "url": "https://presse.inserm.fr/grandes-causes-de-deces-en-france-tendances-et-causes-associees-en-2024/73054/",
-      "image": null,
-      "date": "2026-06-23T04:00:07+00:00",
-      "date_formatted": "23 June 2026",
       "source": "Inserm",
       "type": "science"
     }
