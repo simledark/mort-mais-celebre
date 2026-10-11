@@ -1,14 +1,104 @@
 {
-  "generated_at": "2026-10-11T02:33:20.146853+00:00",
-  "count": 56,
+  "generated_at": "2026-10-11T11:42:38.777695+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Au moins 109 migrants morts et plus de 116 portés disparus dans un naufrage entre Djibouti et le Yémen",
+      "desc": "Les personnes qui traversent le détroit entre l’Afrique et la péninsule arabique ont «l’espoir d’atteindre les pays du Golfe à la recherche de sécurité, de stabilité et d’emploi», souligne l’Organisation internationale pour les migrations.",
+      "url": "https://www.liberation.fr/international/afrique/au-moins-109-migrants-morts-et-plus-de-116-portes-disparus-dans-un-naufrage-entre-djibouti-et-le-yemen-20261011_JIM756ATHBFR7HU3YZ4UY34CUE/",
+      "image": null,
+      "date": "2026-10-11T10:55:54+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"Pour que la lutte contre le cancer ne soit pas du vernis rose\" : la député LFI Mathilde Panot crée la polémique en attaquant la campagne Octobre rose",
       "desc": "Dans une vidéo, la cheffe de file des députés insoumis affirme rejeter le ruban rose pour s'opposer à une campagne qu'elle dit liée à un industriel fabricant de pesticides et opérant en Israël. Des propos dénoncés par ses opposants politiques.",
       "url": "https://www.franceinfo.fr/politique/la-france-insoumise/pour-que-la-lutte-contre-le-cancer-ne-soit-pas-du-vernis-rose-la-depute-lfi-mathilde-panot-cree-la-polemique-en-attaquant-la-campagne-octobre-rose_8231695.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/D6Az37XEUzRDYfovA9Qf6Tst93U/0x0:1024x576/432x243/filters:format(jpg)/2026/10/10/6aca5dae9b47f231251904.jpg",
-      "date": "2026-10-10T19:45:19+00:00",
-      "date_formatted": "10 October 2026",
+      "date": "2026-10-11T10:50:06+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ironman : pour sa dernière course, le Français Vincent Luis sacré champion du monde à Hawai",
+      "desc": "L’ancien numéro 1 mondial en triathlon a remporté le championnat du monde sur la distance XXL ce samedi 10 octobre à Kona, à l’âge de 37 ans. Historique.",
+      "url": "https://www.liberation.fr/sports/ironman-pour-sa-derniere-course-le-francais-vincent-luis-sacre-champion-du-monde-a-hawai-20261011_G6RAU4HC2ZAETLQTRTPB6WQNWU/",
+      "image": null,
+      "date": "2026-10-11T10:36:15+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer, Parkinson, dépression… Le microbiote joue-t-il un rôle sur les maladies du cerveau ?",
+      "desc": "Dans les locaux de l’Institut Pasteur, à Paris, des chercheurs tentent de comprendre l’influence du microbiote sur le déclenchement et l’aggravation de maladies comme Alzheimer, Parkinson ou la dépression",
+      "url": "https://www.20minutes.fr/sante/4252515-20261011-alzheimer-parkinson-depression-microbiote-joue-role-maladies-cerveau?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/0bLmspvZROu0wa1hoUQrfCk/1200x768_pour-l-heure-aucun-traitement-ne-permet-de-guerir-la-maladie-de-parkinson-ni-celle-d-alzheimer-pour-la-depression-une-personne-sur-trois-est-resistante-aux-antidepresseurs",
+      "date": "2026-10-11T10:02:37+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Ce n’est pas une maladie de petite fille» : l’anorexie chez les personnes âgées, un trouble qui dure depuis toute une vie",
+      "desc": "Invisibilisée chez les plus de 65 ans, cette pathologie reste ancrée chez de nombreuses femmes seniors, souvent malades depuis très jeunes. «Libération» est allé à leur rencontre.",
+      "url": "https://www.liberation.fr/societe/sante/ce-nest-pas-une-maladie-de-petite-fille-lanorexie-chez-les-personnes-agees-un-trouble-qui-dure-depuis-toute-une-vie-20261011_KOF3LMNCKJGFNH44PN66Y7DODU/",
+      "image": null,
+      "date": "2026-10-11T09:15:02+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mathilde Panot refuse de porter le ruban d’Octobre rose et provoque un tollé",
+      "desc": "La cheffe de file des députés insoumis a attaqué dans une vidéo la campagne de ce mois de sensibilisation sur le cancer du sein. Elle la dit liée à un fabriquant de pesticides opérant en Israël.",
+      "url": "https://www.liberation.fr/politique/mathilde-panot-refuse-de-porter-le-ruban-doctobre-rose-et-provoque-un-tolle-20261011_HRJUXGM2PRAYHMMRBCEXOCPN4M/",
+      "image": null,
+      "date": "2026-10-11T09:13:27+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Peste en Russie : L’OMS attend toujours le diagnostic de la personne décédée",
+      "desc": "L’OMS reste prudente après la mort d’une employée d’un laboratoire sibérien sur la peste, attribuée par Moscou à une pneumonie, et attend un diagnostic confirmé",
+      "url": "https://www.20minutes.fr/monde/russie/4253215-20261011-peste-russie-oms-attend-toujours-diagnostic-personne-decedee?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/60623cS4QuK7n1mbS6dojyk/1200x768_sur-cette-photo-non-datee-publiee-par-l-institut-de-recherche-antipeste-d-irkoutsk-un-specialiste-travaille-dans-un-laboratoire-dans-le-cadre-des-mesures-anti-epidemiques-lors-de-l-universiade-d-hiver-2019-a-krasnoiarsk-photo-de-handout-institut-de-recherche-antipeste-d-irkoutsk-afp-reserve-a-un-usage-editorial-credit-obligatoire-photo-afp-institut-de-recherche-antipeste-d-irkoutsk-document-a-distribuer-pas-de-marketing-aucune-campagne-publicitaire-distribue-en-tant-que-service-aux-clients",
+      "date": "2026-10-11T09:05:08+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ukraine : des frappes russes ont fait au moins 20 morts à Zaporijia samedi et provoqué des coupures de courant à Kyiv",
+      "desc": "Plusieurs bombes se sont abattues sur des zones résidentielles de la ville du sud-est du pays samedi matin. «La Russie a exprimé ses remerciements» après l’accord annoncé la veille par Donald Trump, a ironisé Volodymyr Zelensky.",
+      "url": "https://www.liberation.fr/international/europe/de-nouvelles-frappes-russes-en-ukraine-font-au-moins-sept-morts-dont-trois-enfants-20261010_XY5NY6DM75F75AG2NHQDVX7ZS4/",
+      "image": null,
+      "date": "2026-10-11T08:23:24+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Pourquoi moi ? Le ciel m’est tombé sur la tête » : Lou, 29 ans, diagnostiquée bipolaire",
+      "desc": "Premières amours, premiers pas vers l’autonomie, premiers diagnostics parfois : comment faire face à l’irruption d’un trouble quand on commence sa vie d’adulte ? Au travers d’une série de portraits, « Le Monde » explore les combats de jeunes atteints d’une maladie mentale ou d’une addiction. Lou (so",
+      "url": "https://www.lemonde.fr/campus/article/2026/10/11/pourquoi-moi-le-ciel-m-est-tombe-sur-la-tete-lou-29-ans-diagnostiquee-bipolaire_6791374_4401467.html",
+      "image": "https://img.lemde.fr/2026/10/08/333/0/2000/1000/644/322/60/0/ef3cd0b_upload-1-vwqdefoh2uf2-louna-pre-aux-arde-che-26-09-26-17.jpg",
+      "date": "2026-10-11T07:00:06+00:00",
+      "date_formatted": "11 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "TEMOIGNAGES. \"J'avais l'impression d'être dans un monde inconnu\" : après un cancer, le difficile retour au travail des malades en rémission",
+      "desc": "Le cancer contraint de nombreuses personnes à s'arrêter de travailler pendant plusieurs mois, voire des années. Reprendre une activité après des traitements aux lourdes conséquences physiques et mentales relève parfois du défi.",
+      "url": "https://www.franceinfo.fr/sante/cancer/temoignages-j-avais-l-impression-d-etre-dans-un-monde-inconnu-apres-un-cancer-le-difficile-retour-au-travail-des-malades-en-remission_8224756.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/m2f7LDfvs34-UskLtkB8tRnh8SU/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/09/6ac9032c2e998191884490.jpg",
+      "date": "2026-10-11T06:42:51+00:00",
+      "date_formatted": "11 October 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
@@ -31,16 +121,6 @@
       "date_formatted": "10 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Ukraine : des frappes russes font au moins 15 morts à Zaporijia et provoquent des coupures de courant massives à Kyiv",
-      "desc": "Plusieurs bombes se sont abattues sur des zones résidentielles de la ville du sud-est du pays. «La Russie a exprimé ses remerciements» après l’accord annoncé la veille par Donald Trump, a ironisé Volodymyr Zelensky.",
-      "url": "https://www.liberation.fr/international/europe/de-nouvelles-frappes-russes-en-ukraine-font-au-moins-sept-morts-dont-trois-enfants-20261010_XY5NY6DM75F75AG2NHQDVX7ZS4/",
-      "image": null,
-      "date": "2026-10-10T14:17:25+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Une protéine d’algue, des virus modifiés… et 7 personnes qui retrouvent en partie la vue : la science franchit un cap inédit",
@@ -161,16 +241,6 @@
       "date_formatted": "9 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "\"On parle trop souvent à la place des jeunes\" : derrière les mobilisations lycéennes, le mal-être de toute une génération ?",
-      "desc": "Les lycéens mobilisés sont majoritairement nés entre 2008 et 2011. Durant leur vie, ils ont assisté à de nombreux bouleversements, comme la pandémie de Covid-19 ou l'avènement de l'intelligence artificielle.",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-parle-trop-souvent-a-la-place-des-jeunes-derriere-les-mobilisations-lyceennes-le-mal-etre-de-toute-une-generation_8223700.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/tw85W-OgGWrYgIlEp8HwU9o57kE/0x520:5000x3333/432x243/filters:format(jpg)/2026/10/06/6ac4dba789d36618758620.jpg",
-      "date": "2026-10-09T05:56:33+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Votre mère pourrait être présente dans votre cerveau d’une manière que les scientifiques commencent tout juste à comprendre",
@@ -323,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Ardennes : Un bus itinérant va apporter des soins aux patients atteints d’un cancer dans 17 communes",
-      "desc": "Le Centre hospitalier nord Ardennes lance « L’Escale Bien-Être » pour être au plus proche des malades. Selon « Radio 8 », ce bus itinérant va sillonner 17 communes",
-      "url": "https://www.20minutes.fr/societe/4252127-20261007-ardennes-bus-itinerant-va-apporter-soins-patients-atteints-cancer-17-communes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/VmFV6WcQRBWMpuC4cCmuBCk/1200x768_photo-d-illustration",
-      "date": "2026-10-07T11:35:19+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "D’une algue verte au cerveau humain : l’incroyable histoire derrière le Nobel de médecine 2026",
       "desc": "Elle mesure à peine quelques micromètres et vit dans les eaux douces. Pourtant, cette minuscule algue verte est à l’origine d’une révolution qui permet aujourd’hui aux scientifiques de « piloter » certains neurones avec de simples flashs de lumière. Comment une curiosité de biologie fondamentale...",
       "url": "https://www.futura-sciences.com/sante/actualites/cerveau-algue-verte-cerveau-humain-incroyable-histoire-derriere-nobel-medecine-2026-138312/#xtor%3DRSS-8",
@@ -351,16 +411,6 @@
       "date_formatted": "7 October 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Un simple sucre pourrait-il faire repousser vos cheveux ?",
-      "desc": "Un gel à base de sucre pourrait bouleverser le traitement de la calvitie. Cette découverte fortuite promet une alternative naturelle aux traitements conventionnels contre la chute des cheveux. Alors que près de 40 % de la population mondiale souffre d'alopécie androgénétique, cette innovation...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cheveux-simple-sucre-pourrait-il-faire-repousser-vos-cheveux-w2t8-138223/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/a/5/ca57370385_50261569_calvitie-cheveux-sucre.jpg",
-      "date": "2026-10-07T08:00:00+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Comment le travail s’adapte à la maladie : « Si des cas problématiques existent, il y a aussi du “mieux” depuis dix ans »",
@@ -419,16 +469,6 @@
       "image": "https://img.lemde.fr/2026/10/04/376/0/4528/2264/644/322/60/0/4b4a1fc_ftp-1-9k77v083mnvq-5260871-01-06.jpg",
       "date": "2026-10-04T18:13:26+00:00",
       "date_formatted": "4 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie »",
-      "desc": "Ces médicaments sont, depuis juin, remboursés sous conditions par l’Assurance-maladie. L’anthropologue Ghislaine Gallenga craint, dans une tribune au « Monde », que cette avancée thérapeutique n’ajoute à la culpabilisation des personnes qui n’auront pas perdu de poids, alors qu’un traitement est dis",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/03/l-arrivee-des-medicaments-antiobesite-en-france-ne-permet-pas-de-predire-la-disparition-de-la-grossophobie_6787793_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/16725db_upload-1-fstl8ibx7rsh-frame-895.jpg",
-      "date": "2026-10-03T14:00:05+00:00",
-      "date_formatted": "3 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
