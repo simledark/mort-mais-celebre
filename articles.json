@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-10-12T13:42:39.337853+00:00",
+  "generated_at": "2026-10-12T23:53:18.534400+00:00",
   "count": 55,
   "articles": [
     {
+      "title": "L’acteur RJ Mitte, révélé par son rôle dans « Breaking Bad », est mort à l’âge de 34 ans",
+      "desc": "Le comédien américain, atteint de paralysie cérébrale comme le personnage qu’il interprétait dans la série acclamée par la critique, avait utilisé sa notoriété pour sensibiliser au handicap et promouvoir l’inclusion.",
+      "url": "https://www.lemonde.fr/culture/article/2026/10/13/l-acteur-rj-mitte-revele-par-son-role-du-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_6792909_3246.html",
+      "image": "https://img.lemde.fr/2026/10/12/432/0/5184/2592/644/322/60/0/4fe7cc0_ftp-1-krlvp3xovf1p-5336736-01-06.jpg",
+      "date": "2026-10-13T01:33:24+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Amélie Cadier-Loriaud, radiologue : « Octobre rose occulte les causes environnementales du cancer du sein, qui ne relèvent pas de choix individuels »",
+      "desc": "Dans un entretien au « Monde », la médecin, doctorante en philosophie, autrice de « Nos corps politiques », invite à penser la santé comme un bien commun et à dépasser la vision individualiste d’un « capital santé à faire fructifier ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/12/amelie-cadier-loriaud-radiologue-octobre-rose-occulte-les-causes-environnementales-du-cancer-du-sein-qui-ne-relevent-pas-de-choix-individuels_6792690_3232.html",
+      "image": "https://img.lemde.fr/2026/10/08/1094/0/2778/1389/644/322/60/0/bfe04fa_upload-1-7tpcc2wxlrvy-ame-lie-cadier-loriaud.jpg",
+      "date": "2026-10-12T18:00:11+00:00",
+      "date_formatted": "12 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cette découverte dans le cerveau pourrait enfin expliquer une maladie que la médecine peinait à comprendre jusqu'ici",
+      "desc": "Le cerveau dispose d'un système d'évacuation des déchets, actif principalement pendant le sommeil. Une équipe australienne rapporte qu'il fonctionnerait moins bien chez les personnes atteintes de syndrome de fatigue chronique, et seulement dans l'hémisphère droit. Les effectifs sont réduits et...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-cette-decouverte-cerveau-pourrait-enfin-expliquer-maladie-medecine-peinait-comprendre-jusquici-k2m6-138442/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/4/4/244ddb9d7c_50261888_fatigue-chronique-cerveau.jpg",
+      "date": "2026-10-12T18:00:00+00:00",
+      "date_formatted": "12 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "«Les CPE ne sont pas des auxiliaires de police» : à Gennevilliers, en marge d’un blocus, un élève interpellé dans l’enceinte du lycée",
+      "desc": "Le lycéen arrêté pour des tirs de mortier d’artifice comparaîtra devant le juge des enfants en décembre. Par ailleurs, un autre élève interpellé a déclaré avoir subi des violences de la part des policiers.",
+      "url": "https://www.liberation.fr/societe/police-justice/les-cpe-ne-sont-pas-des-auxiliaires-de-police-a-gennevilliers-en-marge-dun-blocus-un-eleve-interpelle-dans-lenceinte-du-lycee-20261012_FTN3GDJX2NCBFNSQ3KNI4MQGKM/",
+      "image": null,
+      "date": "2026-10-12T16:43:43+00:00",
+      "date_formatted": "12 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Vos parents vous donne leurs affaires ? Ce que cache ce geste va vous toucher",
+      "desc": "Des grands-parents qui distribuent services à thé, bijoux et disques : l'image est familière, mais elle ne reflète pas la tendance générale. Les enquêtes montrent qu'avec l'âge, on se sépare de moins en moins de ses affaires. Quand des personnes âgées choisissent de donner leurs objets de leur...",
+      "url": "https://www.futura-sciences.com/sante/actualites/psychologie-vos-parents-vous-donne-leurs-affaires-ce-cache-ce-geste-va-vous-toucher-k2m6-138440/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/7/5/675179a23b_50261895_transmission-familiale.jpg",
+      "date": "2026-10-12T16:00:00+00:00",
+      "date_formatted": "12 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Strasbourg : Kawasaki s’associe à l’Alsace pour deux projets majeurs",
+      "desc": "L’entreprise japonaise a ouvert son premier centre de recherche et développement européen lié à l’innovation en santé et signé un partenariat autour de l’hydrogène, selon « Ici Alsace »",
+      "url": "https://www.20minutes.fr/societe/4253617-20261012-strasbourg-kawasaki-associe-alsace-deux-projets-majeurs?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/BR_bUZXOQaCUpbKvnt_gQQ/1200x768_strasbourg-le-29-juin-2015-inauguration-de-l-extension-de-l-ircad",
+      "date": "2026-10-12T15:46:59+00:00",
+      "date_formatted": "12 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Soupçon de cas de peste : mode de transmission, traitements… que sait-on de cette maladie ?",
+      "desc": "Alors que le cas d’une laborantine russe qui serait décédée de la peste en Russie fait la Une de nombreux médias, que l’intérêt pour le mot-clé « peste » sur Google a été multiplié par plus de 10 en une semaine et qu’une partie de la sphère complotiste s’est emparée du sujet, Canal détox fait le poi",
+      "url": "https://presse.inserm.fr/canal-detox/soupcon-de-cas-de-peste-mode-de-transmission-traitements-que-sait-on-de-cette-maladie/",
+      "image": null,
+      "date": "2026-10-12T14:40:34+00:00",
+      "date_formatted": "12 October 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Le secret de longévité de Jonathan, une tortue de 194 ans de l’île de Sainte-Hélène, caché dans son ADN",
-      "desc": "Contemporain de Charles Darwin et de la reine Victoria, le doyen supposé du règne animal devrait son éternelle jeunesse à ses mitochondries, notamment.",
+      "desc": "Contemporain de Charles Darwin et de la reine Victoria, le doyen supposé des animaux terrestres devrait son éternelle jeunesse à ses mitochondries, notamment.",
       "url": "https://www.lemonde.fr/sciences/article/2026/10/12/le-secret-de-longevite-de-jonathan-une-tortue-de-194-ans-de-l-ile-de-sainte-helene-cache-dans-son-adn_6792600_1650684.html",
       "image": "https://img.lemde.fr/2026/10/09/500/0/4000/2000/644/322/60/0/1c93121_upload-1-6f5fqmg7dqkv-jonathan-pic-1-24.jpg",
-      "date": "2026-10-12T11:00:03+00:00",
+      "date": "2026-10-12T11:00:01+00:00",
       "date_formatted": "12 October 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -21,26 +91,6 @@
       "date_formatted": "12 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Comment la danse-thérapie replace le mouvement au cœur du soin psychiatrique : «Parler avec son corps soulage la tête»",
-      "desc": "Alors qu’ont lieu jusqu’au 18 octobre les semaines d’information sur la santé mentale, cette discipline d’art-thérapie se révèle un outil puissant pour ceux et celles dont la perception du corps est altérée par la maladie mentale.",
-      "url": "https://www.liberation.fr/culture/scenes/comment-la-danse-therapie-replace-le-mouvement-au-coeur-du-soin-psychiatrique-parler-avec-son-corps-soulage-la-tete-20261012_3PKXEML3IZB67JR7QKG2BGI2JU/",
-      "image": null,
-      "date": "2026-10-12T09:42:38+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Rocky, dauphin de 29 ans, après son transfert du Marineland d’Antibes à un parc animalier à Malaga en Espagne",
-      "desc": "L’état de santé du cétacé, déplacé en juillet, inquiétait les associations depuis plusieurs semaines. Cette disparition fait suite à la mort de cinq animaux, depuis leur transfert cet été d’un parc fermé au Canada vers des aquariums aux États-Unis et en Espagne.",
-      "url": "https://www.liberation.fr/environnement/animaux/mort-de-rocky-dauphin-de-29-ans-apres-son-transfert-du-marineland-dantibes-a-un-parc-animalier-a-malaga-en-espagne-20261012_VFK5KGSGEFD5FIC6SFRWSZIGUM/",
-      "image": null,
-      "date": "2026-10-12T09:42:29+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Cancer du sein : cet outil pourrait révéler les récidives que les tests actuels ne parviennent pas à prévoir",
@@ -253,16 +303,6 @@
       "type": "science"
     },
     {
-      "title": "Démence : le lien entre la santé des vaisseaux et celle du cerveau se précise",
-      "desc": "Treize ans de vie cognitive en moins. C'est l'écart que des chercheurs américains ont mesuré entre les personnes cumulant trois facteurs de risque vasculaire et celles qui en sont indemnes. Fumer, laisser grimper sa tension ou ignorer un diabète après 55 ans, ce sont peut-être les erreurs les...",
-      "url": "https://www.futura-sciences.com/sante/actualites/esperance-vie-demence-lien-sante-vaisseaux-celle-cerveau-precise-k2m6-138317/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/1/7/a17b9d5a7f_50261693_2-demence-facteurs-risques.jpg",
-      "date": "2026-10-08T16:00:00+00:00",
-      "date_formatted": "8 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Arrêts maladie : Le gouvernement laisse deux mois aux partenaires sociaux pour réviser le système",
       "desc": "Le ministre du Travail laisse jusqu’au 19 décembre aux partenaires sociaux pour sortir une réforme des arrêts maladie, dans le but d’économiser un milliard d’euros par an",
       "url": "https://www.20minutes.fr/sante/4252546-20261008-arrets-maladie-gouvernement-laisse-deux-mois-partenaires-sociaux-reviser-systeme?at_medium=display&at_campaign=149",
@@ -333,26 +373,6 @@
       "type": "presse"
     },
     {
-      "title": "Peste en Russie : Deuxième mort suspecte, inquiétude, démenti, OMS… Le point sur la situation",
-      "desc": "Une employée d’un laboratoire travaillant sur la peste en Sibérie est décédée la semaine dernière. Une mort qui fait craindre une épidémie de peste",
-      "url": "https://www.20minutes.fr/sante/4252320-20261007-peste-russie-deuxieme-mort-suspect-inquietude-dementi-oms-point-situation?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/U0JeZIbKQP2Cx0PQ2CO4nCk/1200x768_l-affaire-part-d-un-deces-suspect-d-une-personne-travaillant-dans-un-laboratoire-d-etude-sur-la-peste-a-irkoutsk-en-russie",
-      "date": "2026-10-07T18:36:56+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Virus du Nil occidental : Le nombre de cas autochtones grimpe à 161 en France, plus du double par rapport à l’an passé",
-      "desc": "Dans son dernier bulletin sur les arboviroses, Santé publique France donne un nouveau décompte du nombre de cas du virus du Nil occidental, bien plus élevé qu’en 2025. Le virus a été détecté dans 13 nouveaux départements",
-      "url": "https://www.20minutes.fr/sante/4252272-20261007-virus-nil-occidental-nombre-cas-autochtones-grimpe-161-france-plus-double-rapport-an-passe?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/xCnbrzYtQ5OMOLY-cCBR-yk/1200x768_un-moustique-culex-nigripalpus-se-nourrit-du-nectar-d-une-fleur-de-manguier-en-floride-le-16-janvier-2020-les-mangues-sont-un-nectar-ideal-pour-les-moustiques-et-en-sont-souvent-recouvertes-la-nuit-les-moustiques-sont-mieux-connus-en-tant-que-suceurs-de-sang-responsables-de-la-propagation-du-paludisme-de-la-dengue-et-d-autres-maladies-mais-au-moins-certains-jouent-egalement-un-role-meconnu-en-tant-que-pollinisateurs-photo-de-lawrence-reeves-florida-medical-entomology-laboratory-afp-reserve-a-un-usage-editorial-credit-obligatoire-photo-afp-document-a-distribuer-pas-de-marketing-aucune-campagne-publicitaire-distribue-en-tant-que-service-aux-clients",
-      "date": "2026-10-07T16:52:55+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Action contre la faim en quête d’indépendance : « Chaque jour, on doit faire des choix dans les souffrances des gens »",
       "desc": "Même si les Etats-Unis ont rouvert le robinet d’aide à l’ONG française pour répondre à l’épidémie d’Ebola en République démocratique du Congo, l’association continue de subir la baisse globale des financements publics américains et européens. Une dépendance dont elle cherche à sortir en ciblant les ",
       "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/07/action-contre-la-faim-en-quete-d-independance-chaque-jour-on-doit-faire-des-choix-dans-les-souffrances-des-gens_6789608_4500055.html",
@@ -371,16 +391,6 @@
       "date_formatted": "7 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Mort de Giorgos Mazonakis : Le traitement « anti-âge » qu’il recevait était bien pratiqué illégalement",
-      "desc": "Près d’un mois après la mort de Giorgos Mazonakis, star de la chanson grecque décédée à 54 ans lors d’une plasmaphérèse vendue comme traitement anti-âge, l’Ordre des médecins d’Athènes est formel : la clinique n’avait pas le droit de pratiquer cette procédure",
-      "url": "https://www.20minutes.fr/arts-stars/people/4252133-20261007-mort-giorgos-mazonakis-traitement-anti-age-recevait-bien-pratique-illegalement?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Q04Gk3AJTHiu5zN1RiKUXyk/1200x768_le-deces-du-chanteur-a-braque-les-projecteurs-sur-les-nombreuses-cliniques-grecques-qui-promettent-longevite-regeneration-cellulaire-ou-nettoyage-du-sang",
-      "date": "2026-10-07T10:21:25+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Comment le travail s’adapte à la maladie : « Si des cas problématiques existent, il y a aussi du “mieux” depuis dix ans »",
@@ -419,16 +429,6 @@
       "image": "https://img.lemde.fr/2026/10/05/343/0/5055/2527/644/322/60/0/88e9163_ftp-1-qt3iqasu34ez-2026-10-05t123259z-1087742687-rc2xwnawl4ph-rtrmadp-3-russia-siberia-plague.JPG",
       "date": "2026-10-06T11:10:38+00:00",
       "date_formatted": "6 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un cas de peste soupçonné en Sibérie : la Russie assure que « la situation reste sous contrôle », et les Etats-Unis, qu’ils « surveillent de près », après la mort d’une chercheuse d’une pneumonie à l’",
-      "desc": "Daria Tchipilova, une technicienne de laboratoire qui travaillait pour l’Institut de lutte contre la peste d’Irkoutsk, en Sibérie, est morte d’une pneumonie non identifiée. Marco Rubio, le chef de la diplomatie américaine, assure « garder un œil » sur ce cas.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/05/un-cas-de-peste-soupconne-en-siberie-la-russie-assure-que-la-situation-reste-sous-controle-et-les-etats-unis-qu-ils-surveillent-de-pres-apres-la-mort-d-une-chercheuse-d-une-pneumonie-a-l-origine-indeterminee_6788542_3244.html",
-      "image": "https://img.lemde.fr/2026/10/05/83/0/1000/500/644/322/60/0/a5a91c2_ftp-1-gy0egn4ctceo-d438681e0e16465c9618d443448fa1ff-0-7545b2ac1e6a4b789820221150f13bc4.jpg",
-      "date": "2026-10-05T16:53:50+00:00",
-      "date_formatted": "5 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
