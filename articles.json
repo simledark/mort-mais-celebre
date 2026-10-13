@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-10-13T04:13:08.964902+00:00",
-  "count": 56,
+  "generated_at": "2026-10-13T13:03:35.629222+00:00",
+  "count": 58,
   "articles": [
     {
       "title": "ENQUETE FRANCEINFO. Exposition au cadmium : seulement 2 160 personnes testées, des médecins réticents et un zonage flou… Pourquoi la campagne de dépistage patine",
       "desc": "L'ouverture du remboursement des tests avait été mise en place après la publication d'une série d'études sanitaires faisant état d'une surexposition de la population française à ce métal lourd cancérigène.",
       "url": "https://www.franceinfo.fr/sante/alimentation/cadmium/enquete-franceinfo-exposition-au-cadmium-seulement-2-160-personnes-testees-des-medecins-reticents-et-un-zonage-flou-pourquoi-la-campagne-de-depistage-patine_8229082.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/4gRlRfj9_5jEUc5tW_XKYPPu4kY/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/08/6ac81188cceff669532544.jpg",
-      "date": "2026-10-13T05:42:31+00:00",
+      "date": "2026-10-13T11:07:20+00:00",
       "date_formatted": "13 October 2026",
       "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "Une «tragédie terrible» : un mort et plusieurs blessés dans l’accident d’un grand huit au sein d’un parc Six Flags aux Etats-Unis",
+      "desc": "Le drame s’est déroulé lundi en Géorgie dans le sud du pays. Plusieurs témoins disent avoir vu la victime tomber des montagnes russes Goliath en heurtant à plusieurs reprises le manège.",
+      "url": "https://www.liberation.fr/international/amerique/une-tragedie-terrible-un-mort-et-plusieurs-blesses-dans-laccident-dun-grand-huit-au-sein-dun-parc-six-flags-aux-etats-unis-20261013_IUG7ZD5UKJCD7ITRTEZIPQ7Y3M/",
+      "image": null,
+      "date": "2026-10-13T10:58:06+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer : la véritable origine des dégâts cérébraux ne serait pas dans le cerveau, mais dans...",
+      "desc": "Chez la souris, une partie des dégâts cérébraux liés à la protéine tau serait orchestrée hors du cerveau, dans les ganglions lymphatiques du cou. Des cellules immunitaires y sont activées avant de migrer vers le cerveau, où elles contribuent à la mort des neurones. Supprimer ces cellules a...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-veritable-origine-degats-cerebraux-ne-serait-pas-cerveau-mais-dans-k2m6-138456/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/d/a/eda0e17bd6_50261917_alzheimer-lymphocytes-t.jpg",
+      "date": "2026-10-13T10:00:00+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "20 millions de personnes pourraient avoir ce type de diabète longtemps resté méconnu",
+      "desc": "Longtemps réduite aux types 1 et 2, la compréhension du diabète s’élargit. La reconnaissance d’un nouveau type pousse à revoir notre façon de classer et de comprendre cette maladie complexe.",
+      "url": "https://www.futura-sciences.com/sante/actualites/medecine-20-millions-personnes-pourraient-avoir-ce-type-diabete-longtemps-reste-meconnu-w2t8-138448/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/8/8/d887b78f53_50261903_diabete-type-5.jpg",
+      "date": "2026-10-13T08:00:00+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ni les plus sportifs ni les « mieux nés » : ceux qui restent en forme après 70 ans partagent 3 habitudes",
+      "desc": "Ils ont passé le cap des 70 ans, mais continuent de marcher, saisir, bouger et vivre sans perdre leur autonomie. Qu’est-ce qui distingue ces vieillissements réussis des autres ? Les grandes études menées sur plusieurs années apportent des réponses parfois surprenantes — et remettent en question...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-ni-plus-sportifs-ni-mieux-nes-ceux-restent-forme-apres-70-ans-partagent-3-habitudes-138138/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/2/8/028623f953_50261919_futura-canva-7-3.jpg",
+      "date": "2026-10-13T07:01:52+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Les géants de l’IA marchent sur les plates-bandes des sciences de la vie",
+      "desc": "Après les mathématiques, la biologie fait face à la déferlante de l’intelligence artificielle, avec son potentiel de découvertes, mais aussi les questionnements sur la part d’appropriation des efforts humains par la machine.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/13/les-geants-de-l-ia-marchent-sur-les-plates-bandes-des-sciences-de-la-vie_6793060_1650684.html",
+      "image": "https://img.lemde.fr/2026/10/09/251/0/1654/827/644/322/60/0/1ed0d21_upload-1-ecwh0vdfranm-le-monde.jpg",
+      "date": "2026-10-13T06:30:09+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "« Incroyablement tôt » : la grippe prend de l'avance et une mutation du virus inquiète les chercheurs",
@@ -21,16 +71,6 @@
       "date_formatted": "13 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Le tatouage en retour d’âge, par Luc Le Vaillant",
-      "desc": "La vogue des tatouages témoigne d’une affirmation des choix individuels, mais aussi d’une nostalgie angoissée pour l’archaïque, le tribal et l’imparfait.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/le-tatouage-en-retour-dage-par-luc-le-vaillant-20261013_V2AYEWAR5VAHBKRYJ6RDGZZ4OE/",
-      "image": null,
-      "date": "2026-10-13T03:25:00+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "L’acteur RJ Mitte, révélé par son rôle dans « Breaking Bad », est mort à l’âge de 34 ans",
@@ -243,16 +283,6 @@
       "type": "science"
     },
     {
-      "title": "Ni les mots croisés ni le sudoku : ces 4 activités entraînent mieux le cerveau, selon les neurosciences",
-      "desc": "Compter sur une application ou des grilles de Sudoku pour prémunir son cerveau du vieillissement ne suffit pas. Pour garder l’esprit vif, les neurosciences désignent des leviers bien plus puissants… et ils ne se trouvent pas sur un écran.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-ni-mots-croises-ni-sudoku-ces-4-activites-entrainent-mieux-cerveau-selon-neurosciences-138114/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/a/e/faee43a793_50261855_2-futura-canva-7.jpg",
-      "date": "2026-10-10T07:01:25+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Où sont passés les milliards d’euros promis pour lutter contre le virus Ebola en RDC ?",
       "desc": "La lutte contre l’épidémie de maladie à virus Ebola, officiellement déclarée à la mi-mai en République démocratique du Congo, attire les promesses de dons. Pourtant, encore peu d’argent est arrivé sur le terrain. Un manque de transparence qui complique l’action des soignants.",
       "url": "https://www.lemonde.fr/afrique/article/2026/10/09/ou-sont-passes-les-milliards-d-euros-promis-pour-lutter-contre-l-epidemie-d-ebola-en-rdc_6790622_3212.html",
@@ -331,16 +361,6 @@
       "date_formatted": "8 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Vendée : 500 personnes attendues sur la grande plage des Sables-d’Olonne pour Octobre rose",
-      "desc": "Samedi 17 octobre, des centaines de personnes sont invitées à se réunir pour former un cœur géant afin de sensibiliser au dépistage du cancer du sein, rapporte « Ouest-France »",
-      "url": "https://www.20minutes.fr/societe/4252440-20261008-vendee-500-personnes-attendues-grande-plage-sables-olonne-octobre-rose?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/n52owXgZSHqhtC6LktyzgSk/1200x768_ce-week-end-plusieurs-enseignes-proposent-leurs-invendus-chez-chaud-bouillon-a-lille-les-benefices-soutiendront-octobre-rose-photo-d-illustration",
-      "date": "2026-10-08T09:36:31+00:00",
-      "date_formatted": "8 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "« Ce que le travail fait aux femmes » : un plaidoyer pour la reconnaissance du cancer du sein comme maladie professionnelle",
