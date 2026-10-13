@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-10-13T13:03:35.629222+00:00",
-  "count": 58,
+  "generated_at": "2026-10-13T22:01:28.483130+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title": "« Octobre rose » : les accusations de Mathilde Panot reposent-elles sur des faits avérés ?",
+      "desc": "Implication du lobby des pesticides, lien avec la guerre à Gaza, duplicité des élus porteurs du ruban rose… La députée « insoumise » accuse la campagne de sensibilisation au cancer du sein de « cynisme absolu ». Si elle s’appuie sur des faits attestés, elle effectue des raccourcis.",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/13/octobre-rose-les-accusations-de-mathilde-panot-reposent-elles-sur-des-faits-averes_6793172_4355770.html",
+      "image": "https://img.lemde.fr/2026/10/07/666/0/8000/4000/644/322/60/0/a5b8ef1_upload-1-pswbnywpceqx-jmug261006019.jpg",
+      "date": "2026-10-13T21:08:20+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le biologiste Pierre Joliot, découvreur de mécanismes fondamentaux de la photosynthèse et petit-fils de Pierre et Marie Curie, est mort",
+      "desc": "Fils des nobélisés Irène et Frédéric Joliot-Curie, il était l’auteur de découvertes fondamentales sur la physiologie des plantes, en particulier sur la photosynthèse. Il s’est éteint dans la nuit du 9 au 10 octobre, à 94 ans.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/10/13/le-biologiste-pierre-joliot-decouvreur-des-mecanismes-fondamentaux-de-la-photosynthese-et-petit-fils-de-pierre-et-marie-curie-est-mort_6793144_3382.html",
+      "image": "https://img.lemde.fr/2026/10/13/240/0/3504/1752/644/322/60/0/4f43215_upload-1-fow0must93kk-000-arp1784854.jpg",
+      "date": "2026-10-13T18:12:51+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "En RDC, l’ancien président Joseph Kabila prend officiellement la tête de la rébellion",
+      "desc": "Alors que les négociations de paix encouragées par Washington sont au point mort, l’irruption du Congolais à la tête des forces rebelles dans l’est du pays fait craindre le risque d’une guerre totale.",
+      "url": "https://www.liberation.fr/international/afrique/en-rdc-lancien-president-joseph-kabila-prend-officiellement-la-tete-de-la-rebellion-20261013_O6KLNFNJGZFHFK5TGDNHEJY6LU/",
+      "image": null,
+      "date": "2026-10-13T18:04:17+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Attention à votre santé, des métaux lourds se cachent dans l'encre de vos tatouages",
+      "desc": "L'encre d'un tatouage ne reste pas confinée à la peau. Une partie migre vers les ganglions lymphatiques, où elle s'accumule et entretient une réaction immunitaire. Chez la souris, elle modifie même la réponse à certains vaccins. Le lien avec le cancer reste en revanche incertain, les études...",
+      "url": "https://www.futura-sciences.com/sante/actualites/systeme-immunitaire-attention-votre-sante-metaux-lourds-cachent-encre-vos-tatouages-k2m6-138476/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/a/7/8a7039fdf7_50261942_metaux-lourds-tatouages.jpg",
+      "date": "2026-10-13T18:00:00+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Mort de l’historien de l’art Giovanni Lista, spécialiste de la culture des avant-gardes",
+      "desc": "L’Italien, critique d’art du XXe siècle et auteur d’une anthologie sur le futurisme, est mort à Paris le 3 octobre.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-de-lhistorien-de-lart-giovanni-lista-specialiste-de-la-culture-des-avant-gardes-20261013_GUGH4IMNGVBQVKH45TMD6IG2DQ/",
+      "image": null,
+      "date": "2026-10-13T17:58:34+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’acteur Francis Renaud en garde à vue pour «viols, harcèlement et violences»",
+      "desc": "En 2024, le comédien avait déposé plainte pour harcèlement sexuel à l’encontre du cinéaste André Téchiné. Il avait également porté plainte contre le directeur de casting Gérard Moulevrier pour agression sexuelle, et contre X pour menaces de mort.",
+      "url": "https://www.liberation.fr/societe/police-justice/lacteur-francis-renaud-en-garde-a-vue-pour-viols-harcelement-et-violences-20261013_QV3HQWB4HNFWHC6YMDKUTLSY6Q/",
+      "image": null,
+      "date": "2026-10-13T17:43:21+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Refus de Mathilde Panot de porter le ruban rose : \"Il n'y a pas de lien clair\" entre le pesticide DDT et le cancer du sein, affirme l'Institut national du cancer",
+      "desc": "\"Ce produit est un carcinogène probable, mais plutôt sur des lymphomes ou des cancers du foie, pas sur le cancer du sein\", rectifie Suzette Delaloge, présidente de l'Institut national du cancer, mardi sur France Inter.",
+      "url": "https://www.franceinfo.fr/sante/cancer/refus-de-mathilde-panot-de-porter-le-ruban-rose-il-n-y-a-pas-de-lien-clair-entre-le-pesticide-ddt-et-le-cancer-du-sein-affirme-l-institut-national-du-cancer_8235667.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/w_G_YwSDVBBOw4xU8Yh3aC0El-0/0x115:4544x2671/432x243/filters:format(jpg)/2026/10/13/6ace410854668912145962.jpg",
+      "date": "2026-10-13T16:33:34+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Il vaut mieux pas prendre de risque\" : la campagne annuelle de vaccination contre la grippe et le Covid est lancée",
+      "desc": "La campagne de vaccination contre la grippe et le Covid a débuté mardi 13 octobre en France. Les personnes âgées, les patients atteints de maladies chroniques et les femmes enceintes sont particulièrement concernés. Les médecins rappellent l'importante des vaccins pour limiter les formes graves de l",
+      "url": "https://www.franceinfo.fr/sante/vaccins/il-vaut-mieux-pas-prendre-de-risque-la-campagne-annuelle-de-vaccination-contre-la-grippe-et-le-covid-est-lancee_8235628.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Ti1bQ8paXF5esVACQJPbZHqVd_w/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/13/6ace3599dc357250215300.jpg",
+      "date": "2026-10-13T15:51:15+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Publics prioritaires, circulation des virus... Quatre questions sur la campagne de vaccination contre la grippe et le Covid lancée ce mardi",
+      "desc": "La nouvelle campagne, qui s'achèvera fin janvier, cible prioritairement les Français les plus à risque et les professionnels de santé souvent à leur contact.",
+      "url": "https://www.franceinfo.fr/sante/maladie/grippe/publics-prioritaires-circulation-des-virus-quatre-questions-sur-la-campagne-de-vaccination-contre-la-grippe-et-le-covid-lancee-ce-mardi_8235202.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/YJfeyQJ84CkSBUoE6hPaO_wgZ2k/0x106:1024x682/432x243/filters:format(jpg)/2026/10/13/6acdebb5a592e553293998.jpg",
+      "date": "2026-10-13T15:49:05+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Carole Fritz, archéologue et préhistorienne, grande amoureuse de l’art pariétal, est morte",
+      "desc": "La chercheuse dirigeait depuis 2018 l’étude pluridisciplinaire de l’exceptionnelle grotte Chauvet, en Ardèche. Elle s’est éteinte le 30 septembre, à l’âge de 60 ans.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/10/13/carole-fritz-archeologue-et-prehistorienne-grande-amoureuse-de-l-art-parietal-est-morte_6793109_3382.html",
+      "image": "https://img.lemde.fr/2026/10/13/348/0/2362/1181/644/322/60/0/d06f9d5_upload-1-l43s0unxtwbk-signatures-024143-011.jpg",
+      "date": "2026-10-13T15:30:04+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Privée de la moitié de son salaire après un cancer du sein, elle doit rembourser 8.000 euros à son employeur",
+      "desc": "Une Française de 29 ans, soignée pour un cancer du sein, a perdu la moitié de son salaire et doit rembourser 8.000 euros à son employeur, rapporte « actu.fr »",
+      "url": "https://www.20minutes.fr/sante/4254022-20261013-privee-moitie-salaire-apres-cancer-sein-doit-rembourser-8-000-euros-employeur?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/bd7OkYQrTTaroziwu5JhDik/1200x768_privee-de-ses-indemnites-maladie-une-jeune-femme-doit-rembourser-8-000-euros-a-son-employeur-suisse",
+      "date": "2026-10-13T15:02:36+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Nous demandons à la Commission européenne de surseoir au projet de directive sur le marché de micro-organismes génétiquement modifiés »",
+      "desc": "Dans une tribune au « Monde », un collectif de chercheurs rappelle qu’un assouplissement de la réglementation peut être lourd de conséquences, appelant à réfléchir « plus posément » sur ces questions.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/13/nous-demandons-a-la-commission-europeenne-de-surseoir-au-projet-de-directive-sur-le-marche-de-micro-organismes-genetiquement-modifies_6793106_1650684.html",
+      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+      "date": "2026-10-13T15:00:04+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "\"Affaire des cochons\" à l'IHU de Strasbourg : un patient dépose plainte",
+      "desc": "Un an et demi après l’annulation de son IRM à l’IHU de Strasbourg, un patient atteint d’un cancer du côlon porte plainte contre X. Son rendez-vous faisait partie des 43 examens déprogrammés en mars 2025, dans une affaire qui avait suscité de nombreuses interrogations.",
+      "url": "https://www.sciencesetavenir.fr/sante/affaire-des-cochons-a-l-ihu-de-strasbourg-un-patient-depose-plainte_195353?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/13/cover-r4x3w1200-6ace38602e870-hopital.jpg",
+      "date": "2026-10-13T14:50:39+00:00",
+      "date_formatted": "13 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "ENQUETE FRANCEINFO. Exposition au cadmium : seulement 2 160 personnes testées, des médecins réticents et un zonage flou… Pourquoi la campagne de dépistage patine",
       "desc": "L'ouverture du remboursement des tests avait été mise en place après la publication d'une série d'études sanitaires faisant état d'une surexposition de la population française à ce métal lourd cancérigène.",
@@ -10,16 +140,6 @@
       "date": "2026-10-13T11:07:20+00:00",
       "date_formatted": "13 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une «tragédie terrible» : un mort et plusieurs blessés dans l’accident d’un grand huit au sein d’un parc Six Flags aux Etats-Unis",
-      "desc": "Le drame s’est déroulé lundi en Géorgie dans le sud du pays. Plusieurs témoins disent avoir vu la victime tomber des montagnes russes Goliath en heurtant à plusieurs reprises le manège.",
-      "url": "https://www.liberation.fr/international/amerique/une-tragedie-terrible-un-mort-et-plusieurs-blesses-dans-laccident-dun-grand-huit-au-sein-dun-parc-six-flags-aux-etats-unis-20261013_IUG7ZD5UKJCD7ITRTEZIPQ7Y3M/",
-      "image": null,
-      "date": "2026-10-13T10:58:06+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -183,26 +303,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Pour que la lutte contre le cancer ne soit pas du vernis rose\" : la député LFI Mathilde Panot crée la polémique en attaquant la campagne Octobre rose",
-      "desc": "Dans une vidéo, la cheffe de file des députés insoumis affirme rejeter le ruban rose pour s'opposer à une campagne qu'elle dit liée à un industriel fabricant de pesticides et opérant en Israël. Des propos dénoncés par ses opposants politiques.",
-      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/pour-que-la-lutte-contre-le-cancer-ne-soit-pas-du-vernis-rose-la-depute-lfi-mathilde-panot-cree-la-polemique-en-attaquant-la-campagne-octobre-rose_8231695.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/D6Az37XEUzRDYfovA9Qf6Tst93U/0x0:1024x576/432x243/filters:format(jpg)/2026/10/10/6aca5dae9b47f231251904.jpg",
-      "date": "2026-10-11T10:50:06+00:00",
-      "date_formatted": "11 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Alzheimer, Parkinson, dépression… Le microbiote joue-t-il un rôle sur les maladies du cerveau ?",
-      "desc": "Dans les locaux de l’Institut Pasteur, à Paris, des chercheurs tentent de comprendre l’influence du microbiote sur le déclenchement et l’aggravation de maladies comme Alzheimer, Parkinson ou la dépression",
-      "url": "https://www.20minutes.fr/sante/4252515-20261011-alzheimer-parkinson-depression-microbiote-joue-role-maladies-cerveau?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/0bLmspvZROu0wa1hoUQrfCk/1200x768_pour-l-heure-aucun-traitement-ne-permet-de-guerir-la-maladie-de-parkinson-ni-celle-d-alzheimer-pour-la-depression-une-personne-sur-trois-est-resistante-aux-antidepresseurs",
-      "date": "2026-10-11T10:02:37+00:00",
-      "date_formatted": "11 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Peste en Russie : L’OMS attend toujours le diagnostic de la personne décédée",
       "desc": "L’OMS reste prudente après la mort d’une employée d’un laboratoire sibérien sur la peste, attribuée par Moscou à une pneumonie, et attend un diagnostic confirmé",
       "url": "https://www.20minutes.fr/monde/russie/4253215-20261011-peste-russie-oms-attend-toujours-diagnostic-personne-decedee?at_medium=display&at_campaign=149",
@@ -220,16 +320,6 @@
       "date": "2026-10-11T07:00:06+00:00",
       "date_formatted": "11 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "TEMOIGNAGES. \"J'avais l'impression d'être dans un monde inconnu\" : après un cancer, le difficile retour au travail des malades en rémission",
-      "desc": "Le cancer contraint de nombreuses personnes à s'arrêter de travailler pendant plusieurs mois, voire des années. Reprendre une activité après des traitements aux lourdes conséquences physiques et mentales relève parfois du défi.",
-      "url": "https://www.franceinfo.fr/sante/cancer/temoignages-j-avais-l-impression-d-etre-dans-un-monde-inconnu-apres-un-cancer-le-difficile-retour-au-travail-des-malades-en-remission_8224756.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/m2f7LDfvs34-UskLtkB8tRnh8SU/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/09/6ac9032c2e998191884490.jpg",
-      "date": "2026-10-11T06:42:51+00:00",
-      "date_formatted": "11 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -258,16 +348,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/cerveau-proteine-algue-virus-modifies-7-personnes-retrouvent-partie-vue-science-franchit-cap-inedit-138424/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/0/a/00a1055821_50261870_il-surre-aliste-rayon-lumineux.jpg",
       "date": "2026-10-10T11:07:19+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Le tabac marque vos os : des scientifiques retrouvent sa trace plusieurs siècles après la mort",
-      "desc": "Un nouvel effet de la consommation de tabac a été découvert grâce à une technique d’analyse ingénieuse, qui permet d’exploiter les indices laissés par les squelettes humains.",
-      "url": "https://www.futura-sciences.com/sante/actualites/tabac-tabac-marque-vos-os-scientifiques-retrouvent-trace-plusieurs-siecles-apres-mort-w2t8-138235/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/d/9/5d9a8cad0d_50252216_traces-tabac-squelette.jpg",
-      "date": "2026-10-10T09:00:00+00:00",
       "date_formatted": "10 October 2026",
       "source": "Futura Santé",
       "type": "science"
@@ -343,16 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Arrêts maladie : Le gouvernement laisse deux mois aux partenaires sociaux pour réviser le système",
-      "desc": "Le ministre du Travail laisse jusqu’au 19 décembre aux partenaires sociaux pour sortir une réforme des arrêts maladie, dans le but d’économiser un milliard d’euros par an",
-      "url": "https://www.20minutes.fr/sante/4252546-20261008-arrets-maladie-gouvernement-laisse-deux-mois-partenaires-sociaux-reviser-systeme?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/gOkUZMFkRoOR3MjQqcrbdCk/1200x768_photo-illustration-d-un-avis-d-arret-de-travail-07allilimages-sipa-06352-credit-mourad-allili-sipa-2403131230",
-      "date": "2026-10-08T12:28:07+00:00",
-      "date_formatted": "8 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Anti-diabète et anti-obésité : l’ANSM alerte sur des effets indésirables parfois graves",
       "desc": "Les médicaments analogues du GLP-1 sont désormais très populaires. Mais l’ANSM a recensé 2801 effets indésirables entre février 2025 et janvier 2026, dont 515 graves et 13 décès, et alerte également sur leur mésusage à des fins d’amaigrissement, notamment chez les jeunes femmes.",
       "url": "https://www.sciencesetavenir.fr/sante/anti-diabete-et-anti-obesite-des-troubles-digestifs-aux-avc-les-effets-indesirables-se-multiplient_195286?xtor=RSS-16",
@@ -423,16 +493,6 @@
       "type": "science"
     },
     {
-      "title": "Comment le travail s’adapte à la maladie : « Si des cas problématiques existent, il y a aussi du “mieux” depuis dix ans »",
-      "desc": "Certaines entreprises se montrent peu conciliantes pour faire évoluer les postes des salariés touchés par des maladies graves ou de longue durée. Cancer, endométriose, Covid long... les spécialistes de la santé au travail conviennent que beaucoup reste à faire mais invitent toutefois à observer la s",
-      "url": "https://www.lemonde.fr/vie-au-travail/article/2026/10/07/comment-le-travail-s-adapte-a-la-maladie-si-des-cas-problematiques-existent-il-y-a-aussi-du-mieux-depuis-dix-ans_6789538_6768900.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/745b2fc_upload-1-wqrzbfmh4jn2-frame-1415.jpg",
-      "date": "2026-10-07T06:00:23+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Soupçon de peste en Russie : les autorités nient l'instauration de mesures sanitaires",
       "desc": "La Russie a nié mardi l'instauration de mesures sanitaires en Sibérie après la mort d'une laborantine d'un institut de lutte contre la peste, réagissant à l'offre d'assistance de Donald Trump.",
       "url": "https://www.sciencesetavenir.fr/sante/soupcon-de-peste-en-russie-les-autorites-nient-l-instauration-de-mesures-sanitaires_195231?xtor=RSS-16",
@@ -441,26 +501,6 @@
       "date_formatted": "6 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Ebola : le Kenya annonce une première mort liée au virus sur son territoire",
-      "desc": "Le ministre de la santé a déclaré qu’un citoyen kényan, qui est arrivé samedi dans le pays en provenance de la République démocratique du Congo via l’Ouganda, avait été placé en isolement à l’hôpital de Nairobi, avant d’y mourir lundi soir.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/10/06/ebola-le-kenya-annonce-son-premier-mort-lie-au-virus_6788972_3212.html",
-      "image": "https://img.lemde.fr/2026/10/06/606/0/5500/2750/644/322/60/0/3ca0e1d_ftp-1-hdonadniomaj-2026-10-06t085139z-339030955-rc2kxnawitcg-rtrmadp-3-kenya-ebola.JPG",
-      "date": "2026-10-06T11:37:38+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Soupçons de peste en Russie : les autorités nient la mise en place de mesures sanitaires, après la mort d’une laborantine",
-      "desc": "L’agence de santé publique russe a dénoncé « une fausse information » selon laquelle « un régime sanitaire et épidémiologique renforcé et de restrictions strictes » aurait été instauré dans la région d’Irkoutsk à la suite de la mort d’une technicienne de l’Institut de lutte contre la peste.",
-      "url": "https://www.lemonde.fr/international/article/2026/10/06/soupcons-de-peste-en-siberie-les-autorites-russes-nient-la-mise-en-place-de-mesures-sanitaires_6788966_3210.html",
-      "image": "https://img.lemde.fr/2026/10/05/343/0/5055/2527/644/322/60/0/88e9163_ftp-1-qt3iqasu34ez-2026-10-05t123259z-1087742687-rc2xwnawl4ph-rtrmadp-3-russia-siberia-plague.JPG",
-      "date": "2026-10-06T11:10:38+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Au Nigeria, une stratégie innovante associe vaccination et nutrition préventive pour augmenter la couverture vaccinale des enfants",
