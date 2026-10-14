@@ -1,13 +1,63 @@
 {
-  "generated_at": "2026-10-14T02:25:46.418735+00:00",
-  "count": 62,
+  "generated_at": "2026-10-14T10:44:58.886827+00:00",
+  "count": 61,
   "articles": [
     {
-      "title": "« Octobre rose » : les accusations de Mathilde Panot reposent-elles sur des faits avérés ?",
+      "title": "Au Brésil, des artistes indigènes inquiets d’un retour au pouvoir des Bolsonaro : «On sera plus que jamais en danger»",
+      "desc": "Alors que Flávio Bolsonaro pourrait être élu Président le 25 octobre, cinq personnalités originaires de communautés autochtones du pays racontent à «Libération» leurs craintes. Et l’espoir, malgré tout, que Lula l’emporte.",
+      "url": "https://www.liberation.fr/international/amerique/au-bresil-des-artistes-indigenes-inquiets-dun-retour-au-pouvoir-des-bolsonaro-on-sera-plus-que-jamais-en-danger-20261014_CV7JPYAFDBHYJIDLABO7L5YLCA/",
+      "image": null,
+      "date": "2026-10-14T10:11:00+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Record d'accidents du travail mortels en 2025",
+      "desc": "Les accidents du travail ont fait 783 morts en 2025 dans le secteur privé, soit 19 de plus qu’en 2024, déjà une année record. Au total, 1331 décès sont liés aux accidents du travail, de trajet et aux maladies professionnelles, selon l’Assurance maladie, qui alerte également sur la hausse des sinistr",
+      "url": "https://www.sciencesetavenir.fr/sante/le-record-d-accidents-du-travail-mortels-en-2025-confirme-par-l-assurance-maladie_195373?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/14/cover-r4x3w1200-6acf4c56a8373-accident.jpg",
+      "date": "2026-10-14T09:55:59+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Thélyson Orélien ou l’abîme sous nos pieds",
+      "desc": "Pour l’essayiste Antoine Buéno, accepter l’IA, la digérer, impose un exil symbolique hors de tout territoire connu où les questions pleuvent : qu’est-ce qu’un auteur ? Un co-auteur ou pas un auteur du tout ? Que reste-t-il de la création humaine ? Faut-il en faire, au moins partiellement, son deuil ",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/thelyson-orelien-ou-labime-sous-nos-pieds-20261014_MCBK43CMEFBHZCJND3HAYWH6OQ/",
+      "image": null,
+      "date": "2026-10-14T09:47:00+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Octobre ne sera pas rose, il sera en colère »… Pourquoi ce collectif est fâché contre Octobre rose ?",
+      "desc": "Le collectif Cancer colère veut faire d’octobre un mois de revendications, contrant la campagne d’Octobre rose qui occulte, entre autres, les causes des cancers du sein",
+      "url": "https://www.20minutes.fr/sante/4253911-20261014-octobre-rose-colere-pourquoi-collectif-fache-contre-octobre-rose?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/ogUbYRsNQWWOBpCEkntxFyk/1200x768_le-collectif-cancer-colere-explique-dans-un-tract-pourquoi-octobre-sera-colere-et-pas-rose",
+      "date": "2026-10-14T08:17:29+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ukraine : six morts dans des frappes russes contre des infrastructures énergétiques, le rôle des Etats-Unis mis en cause",
+      "desc": "Les autorités ukrainiennes disent ne pas avoir pu anticiper l’attaque russe massive survenue dans la nuit en raison d’une absence de renseignements fournis par leurs alliés et de la limitation des satellites Starlink d’Elon Musk.",
+      "url": "https://www.liberation.fr/international/europe/ukraine-des-infrastructures-energetiques-encore-frappees-par-la-russie-au-moins-6-morts-dans-le-pays-20261014_VX43GGFVEJC3RFAUYSFJHJNQ7Q/",
+      "image": null,
+      "date": "2026-10-14T07:14:18+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Octobre rose : les accusations de Mathilde Panot reposent-elles sur des faits avérés ?",
       "desc": "Implication du lobby des pesticides, lien avec la guerre à Gaza, duplicité des élus porteurs du ruban rose… La députée « insoumise » accuse la campagne de sensibilisation au cancer du sein de « cynisme absolu ». Si elle s’appuie sur des faits attestés, elle effectue des raccourcis.",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/13/octobre-rose-les-accusations-de-mathilde-panot-reposent-elles-sur-des-faits-averes_6793172_4355770.html",
       "image": "https://img.lemde.fr/2026/10/07/666/0/8000/4000/644/322/60/0/a5b8ef1_upload-1-pswbnywpceqx-jmug261006019.jpg",
-      "date": "2026-10-13T21:08:20+00:00",
+      "date": "2026-10-13T21:08:19+00:00",
       "date_formatted": "13 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -23,16 +73,6 @@
       "type": "science"
     },
     {
-      "title": "En RDC, l’ancien président Joseph Kabila prend officiellement la tête de la rébellion",
-      "desc": "Alors que les négociations de paix encouragées par Washington sont au point mort, l’irruption du Congolais à la tête des forces rebelles dans l’est du pays fait craindre le risque d’une guerre totale.",
-      "url": "https://www.liberation.fr/international/afrique/en-rdc-lancien-president-joseph-kabila-prend-officiellement-la-tete-de-la-rebellion-20261013_O6KLNFNJGZFHFK5TGDNHEJY6LU/",
-      "image": null,
-      "date": "2026-10-13T18:04:17+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Attention à votre santé, des métaux lourds se cachent dans l'encre de vos tatouages",
       "desc": "L'encre d'un tatouage ne reste pas confinée à la peau. Une partie migre vers les ganglions lymphatiques, où elle s'accumule et entretient une réaction immunitaire. Chez la souris, elle modifie même la réponse à certains vaccins. Le lien avec le cancer reste en revanche incertain, les études...",
       "url": "https://www.futura-sciences.com/sante/actualites/systeme-immunitaire-attention-votre-sante-metaux-lourds-cachent-encre-vos-tatouages-k2m6-138476/#xtor%3DRSS-8",
@@ -41,26 +81,6 @@
       "date_formatted": "13 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mort de l’historien de l’art Giovanni Lista, spécialiste de la culture des avant-gardes",
-      "desc": "L’Italien, critique d’art du XXe siècle et auteur d’une anthologie sur le futurisme, est mort à Paris le 3 octobre.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-de-lhistorien-de-lart-giovanni-lista-specialiste-de-la-culture-des-avant-gardes-20261013_GUGH4IMNGVBQVKH45TMD6IG2DQ/",
-      "image": null,
-      "date": "2026-10-13T17:58:34+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "L’acteur Francis Renaud en garde à vue pour «viols, harcèlement et violences»",
-      "desc": "En 2024, le comédien avait déposé plainte pour harcèlement sexuel à l’encontre du cinéaste André Téchiné. Il avait également porté plainte contre le directeur de casting Gérard Moulevrier pour agression sexuelle, et contre X pour menaces de mort.",
-      "url": "https://www.liberation.fr/societe/police-justice/lacteur-francis-renaud-en-garde-a-vue-pour-viols-harcelement-et-violences-20261013_QV3HQWB4HNFWHC6YMDKUTLSY6Q/",
-      "image": null,
-      "date": "2026-10-13T17:43:21+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Refus de Mathilde Panot de porter le ruban rose : \"Il n'y a pas de lien clair\" entre le pesticide DDT et le cancer du sein, affirme l'Institut national du cancer",
@@ -293,16 +313,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer du sein : elle rencontre la chercheuse qui lui a sauvé la vie",
-      "desc": "20 ans que le Pasteurdon existe et aide à financer la recherche et la découverte de nouveaux traitements. Souvent, le monde scientifique peut nous sembler obscur et lointain, alors aujourd’hui on a facilité une rencontre entre deux femmes : l’une a eu un cancer du sein très agressif, elle est en rém",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cancer-du-sein-elle-rencontre-la-chercheuse-qui-lui-a-sauve-la-vie_8232682.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/XTbbXFGuUa3NUWUOA84l8eLg4AM/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/11/6acb8a440db27238093949.jpg",
-      "date": "2026-10-11T15:37:34+00:00",
-      "date_formatted": "11 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Peste en Russie : L’OMS attend toujours le diagnostic de la personne décédée",
       "desc": "L’OMS reste prudente après la mort d’une employée d’un laboratoire sibérien sur la peste, attribuée par Moscou à une pneumonie, et attend un diagnostic confirmé",
       "url": "https://www.20minutes.fr/monde/russie/4253215-20261011-peste-russie-oms-attend-toujours-diagnostic-personne-decedee?at_medium=display&at_campaign=149",
@@ -338,16 +348,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/menopause-menopause-vos-ovaires-auraient-encore-role-inattendu-selon-etude-k2m6-138375/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/f/4/8f43f963d2_50261796_ovaires-menopause.jpg",
       "date": "2026-10-10T16:00:00+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Une protéine d’algue, des virus modifiés… et 7 personnes qui retrouvent en partie la vue : la science franchit un cap inédit",
-      "desc": "Et si une simple lumière pouvait bouleverser notre façon de traiter certaines formes de cécité ? Récompensée par le prix Nobel de médecine 2026, une technique aussi fascinante qu’inattendue, l’optogénétique, quitte les laboratoires pour être testée chez l’humain. Des chercheurs viennent de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-proteine-algue-virus-modifies-7-personnes-retrouvent-partie-vue-science-franchit-cap-inedit-138424/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/0/a/00a1055821_50261870_il-surre-aliste-rayon-lumineux.jpg",
-      "date": "2026-10-10T11:07:19+00:00",
       "date_formatted": "10 October 2026",
       "source": "Futura Santé",
       "type": "science"
@@ -399,8 +399,8 @@
       "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
       "date": "2026-10-09T11:30:02+00:00",
       "date_formatted": "9 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Cancer du sein : la présidente de l’Inca démêle le vrai du faux",
@@ -529,16 +529,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/01/cover-r4x3w1200-6abe5ce573b0d-chemsex.jpg",
       "date": "2026-10-01T13:29:15+00:00",
       "date_formatted": "1 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "La France bat le triste record du taux de suicides dans ses prisons",
-      "desc": "La Contrôleuse générale des lieux de privation de liberté (CGLPL) alerte sur le nombre de décès survenant chaque année dans les lieux de privation de liberté en France, qui n’est pas précisément établi. Dans deux avis publiés au Journal officiel, elle relève notamment 275 décès en détention en 2025,",
-      "url": "https://www.sciencesetavenir.fr/sante/la-controleuse-generale-des-lieux-de-privation-de-liberte-alerte-sur-les-deces-en-prison-et-les-carences-dans-leur-prise-en-charge_195112?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/28/cover-r4x3w1200-6aba895e51ade-prison.jpg",
-      "date": "2026-09-28T16:02:53+00:00",
-      "date_formatted": "28 September 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
