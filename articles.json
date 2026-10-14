@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-10-14T10:44:58.886827+00:00",
-  "count": 61,
+  "generated_at": "2026-10-14T16:04:13.619802+00:00",
+  "count": 60,
   "articles": [
     {
-      "title": "Au Brésil, des artistes indigènes inquiets d’un retour au pouvoir des Bolsonaro : «On sera plus que jamais en danger»",
-      "desc": "Alors que Flávio Bolsonaro pourrait être élu Président le 25 octobre, cinq personnalités originaires de communautés autochtones du pays racontent à «Libération» leurs craintes. Et l’espoir, malgré tout, que Lula l’emporte.",
-      "url": "https://www.liberation.fr/international/amerique/au-bresil-des-artistes-indigenes-inquiets-dun-retour-au-pouvoir-des-bolsonaro-on-sera-plus-que-jamais-en-danger-20261014_CV7JPYAFDBHYJIDLABO7L5YLCA/",
+      "title": "Cancer du pape Léon XIV : faut-il s'inquiéter pour la santé du souverain pontife ?",
+      "desc": "Faut-il s'inquiéter pour la santé du pape Léon XIV ? Le Vatican a révélé que le souverain pontife était atteint d'un cancer au poumon. Un nodule lui a été retiré mardi 13 octobre. Il doit maintenant effectuer des examens complémentaires pour connaître son traitement.",
+      "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/cancer-du-pape-leon-xiv-faut-il-s-inquieter-pour-la-sante-du-souverain-pontife_8237128.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/kDrf-wXTU8laJk7vgEB-HOrAKJ4/58x0:1055x561/432x243/filters:format(jpg)/2026/10/14/6acf67e74cfbd048389837.jpg",
+      "date": "2026-10-14T17:28:00+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Record d'infections en France : ce virus transmis par les moustiques inquiète, d'autant qu'il n'existe aucun vaccin !",
+      "desc": "Longtemps cantonné à certaines régions du monde, le virus du Nil occidental s’installe progressivement en France. Transmis par un moustique très commun, il a déjà provoqué des dizaines de formes neurologiques graves et plusieurs décès. Et le plus inquiétant, selon les scientifiques, c’est que le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-record-infections-france-ce-virus-transmis-moustiques-inquiete-autant-quil-nexiste-aucun-vaccin-138559/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/b/8/fb8a201b6c_50262077_culex-pipiens.jpg",
+      "date": "2026-10-14T17:08:45+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Pourquoi vos parents ne se plaignent jamais : la psychologie a une explication",
+      "desc": "Les enfants du baby-boom ont grandi dans une France où l'école s'arrêtait tôt pour beaucoup et où le métier se choisissait souvent selon les besoins de la famille. Avant la réforme de 1959, l'obligation scolaire prenait fin à l'âge de 14 ans. En 1970, à peine un jeune sur cinq obtenait le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/psychologie-vos-parents-ne-plaignent-jamais-psychologie-explication-k2m6-138494/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/d/f/9df6e58274_50261984_generations-differences.jpg",
+      "date": "2026-10-14T16:00:00+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Guadeloupe : les principales routes bloquées par un collectif contre la vie chère",
+      "desc": "A l’initiative du collectif Nou las palé, qui réunit différentes catégories socioprofessionnelles, les axes routiers majeurs de l’archipel sont barrés par de lourds blocs de pierre ce mercredi 14 octobre. Une cellule de crise doit se réunir à la préfecture.",
+      "url": "https://www.liberation.fr/economie/social/guadeloupe-les-principales-routes-bloquees-par-un-collectif-contre-la-vie-chere-20261014_MD664X4LUND4JNIVVRA3KSTFHU/",
       "image": null,
-      "date": "2026-10-14T10:11:00+00:00",
+      "date": "2026-10-14T15:50:06+00:00",
       "date_formatted": "14 October 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Sortir les cheveux mouillés, ça enrhume vraiment ?",
+      "desc": "Le rhume est causé par des virus, pas par des cheveux humides. Une étude suggère toutefois qu'un coup de froid pourrait favoriser l'apparition des symptômes chez certaines personnes",
+      "url": "https://www.20minutes.fr/tempo/bien-etre/4254045-20261014-sortir-cheveux-mouilles-ca-enrhume-vraiment?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/m-kNwiorQPCw5PV8k_3Xuik/1200x768_sortir-les-cheveux-mouilles-ca-enrhume-vraiment",
+      "date": "2026-10-14T11:57:36+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -23,16 +63,6 @@
       "type": "science"
     },
     {
-      "title": "Thélyson Orélien ou l’abîme sous nos pieds",
-      "desc": "Pour l’essayiste Antoine Buéno, accepter l’IA, la digérer, impose un exil symbolique hors de tout territoire connu où les questions pleuvent : qu’est-ce qu’un auteur ? Un co-auteur ou pas un auteur du tout ? Que reste-t-il de la création humaine ? Faut-il en faire, au moins partiellement, son deuil ",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/thelyson-orelien-ou-labime-sous-nos-pieds-20261014_MCBK43CMEFBHZCJND3HAYWH6OQ/",
-      "image": null,
-      "date": "2026-10-14T09:47:00+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "« Octobre ne sera pas rose, il sera en colère »… Pourquoi ce collectif est fâché contre Octobre rose ?",
       "desc": "Le collectif Cancer colère veut faire d’octobre un mois de revendications, contrant la campagne d’Octobre rose qui occulte, entre autres, les causes des cancers du sein",
       "url": "https://www.20minutes.fr/sante/4253911-20261014-octobre-rose-colere-pourquoi-collectif-fache-contre-octobre-rose?at_medium=display&at_campaign=149",
@@ -40,16 +70,6 @@
       "date": "2026-10-14T08:17:29+00:00",
       "date_formatted": "14 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ukraine : six morts dans des frappes russes contre des infrastructures énergétiques, le rôle des Etats-Unis mis en cause",
-      "desc": "Les autorités ukrainiennes disent ne pas avoir pu anticiper l’attaque russe massive survenue dans la nuit en raison d’une absence de renseignements fournis par leurs alliés et de la limitation des satellites Starlink d’Elon Musk.",
-      "url": "https://www.liberation.fr/international/europe/ukraine-des-infrastructures-energetiques-encore-frappees-par-la-russie-au-moins-6-morts-dans-le-pays-20261014_VX43GGFVEJC3RFAUYSFJHJNQ7Q/",
-      "image": null,
-      "date": "2026-10-14T07:14:18+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -197,7 +217,7 @@
       "desc": "Après les mathématiques, la biologie fait face à la déferlante de l’intelligence artificielle, avec son potentiel de découvertes, mais aussi les questionnements sur la part d’appropriation des efforts humains par la machine.",
       "url": "https://www.lemonde.fr/sciences/article/2026/10/13/les-geants-de-l-ia-marchent-sur-les-plates-bandes-des-sciences-de-la-vie_6793060_1650684.html",
       "image": "https://img.lemde.fr/2026/10/09/251/0/1654/827/644/322/60/0/1ed0d21_upload-1-ecwh0vdfranm-le-monde.jpg",
-      "date": "2026-10-13T06:30:09+00:00",
+      "date": "2026-10-13T06:30:06+00:00",
       "date_formatted": "13 October 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -313,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Peste en Russie : L’OMS attend toujours le diagnostic de la personne décédée",
-      "desc": "L’OMS reste prudente après la mort d’une employée d’un laboratoire sibérien sur la peste, attribuée par Moscou à une pneumonie, et attend un diagnostic confirmé",
-      "url": "https://www.20minutes.fr/monde/russie/4253215-20261011-peste-russie-oms-attend-toujours-diagnostic-personne-decedee?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/60623cS4QuK7n1mbS6dojyk/1200x768_sur-cette-photo-non-datee-publiee-par-l-institut-de-recherche-antipeste-d-irkoutsk-un-specialiste-travaille-dans-un-laboratoire-dans-le-cadre-des-mesures-anti-epidemiques-lors-de-l-universiade-d-hiver-2019-a-krasnoiarsk-photo-de-handout-institut-de-recherche-antipeste-d-irkoutsk-afp-reserve-a-un-usage-editorial-credit-obligatoire-photo-afp-institut-de-recherche-antipeste-d-irkoutsk-document-a-distribuer-pas-de-marketing-aucune-campagne-publicitaire-distribue-en-tant-que-service-aux-clients",
-      "date": "2026-10-11T09:05:08+00:00",
-      "date_formatted": "11 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Pourquoi moi ? Le ciel m’est tombé sur la tête » : Lou, 29 ans, diagnostiquée bipolaire",
       "desc": "Premières amours, premiers pas vers l’autonomie, premiers diagnostics parfois : comment faire face à l’irruption d’un trouble quand on commence sa vie d’adulte ? Au travers d’une série de portraits, « Le Monde » explore les combats de jeunes atteints d’une maladie mentale ou d’une addiction. Lou (so",
       "url": "https://www.lemonde.fr/campus/article/2026/10/11/pourquoi-moi-le-ciel-m-est-tombe-sur-la-tete-lou-29-ans-diagnostiquee-bipolaire_6791374_4401467.html",
@@ -340,16 +350,6 @@
       "date": "2026-10-10T17:30:09+00:00",
       "date_formatted": "10 October 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Ménopause : vos ovaires auraient encore un rôle inattendu, selon une étude",
-      "desc": "Les ovaires ne deviendraient pas inactifs après la ménopause. Chez la souris, une étude montre qu'ils perdent leur identité reproductive et prennent un profil proche de celui d'un organe immunitaire, envahi de cellules de défense. Des premières données humaines, pas encore validées par d'autres...",
-      "url": "https://www.futura-sciences.com/sante/actualites/menopause-menopause-vos-ovaires-auraient-encore-role-inattendu-selon-etude-k2m6-138375/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/f/4/8f43f963d2_50261796_ovaires-menopause.jpg",
-      "date": "2026-10-10T16:00:00+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -381,16 +381,6 @@
       "date_formatted": "9 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Arrêts maladie : Les indemnités journalières bientôt limitées à un an au lieu de trois pour certains salariés",
-      "desc": "L’Assurance maladie va limiter à un an le versement des indemnités journalières pour certaines affections de longue durée, contre trois ans actuellement",
-      "url": "https://www.20minutes.fr/sante/4252889-20261009-arret-maladie-indemnites-journalieres-bientot-limitees-an-lieu-trois-certains-salaries?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/O57k5ztpTpqtHIXFQ32kBSk/1200x768_photo-ilklustration-d-un-arret-de-travail-du-medecin-07allilimages-16040138-credit-mourad-allili-sipa-2604161502",
-      "date": "2026-10-09T12:47:36+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "« Nous oublions la polio parce que la vaccination fonctionne, mais elle n’est pas éradiquée dans le monde »",
