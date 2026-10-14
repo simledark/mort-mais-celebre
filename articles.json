@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-14T16:04:13.619802+00:00",
-  "count": 60,
+  "generated_at": "2026-10-14T21:02:47.500050+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title": "Au Collège de France, une archéologie du savoir foucaldien",
+      "desc": "A partir d’archives manuscrites et visuelles, l’institution retrace la pensée critique et l’«hypermilitantisme pessimiste» de Michel Foucault, à l’occasion du centenaire de sa naissance.",
+      "url": "https://www.liberation.fr/culture/au-college-de-france-une-archeologie-du-savoir-foucaldien-20261014_EROCIUUJ7BBXXL22TVW3PZ62VQ/",
+      "image": null,
+      "date": "2026-10-14T20:36:00+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Centenaire de la naissance de Michel Foucault : un éclatant bouquet d’anniversaire",
+      "desc": "Cartographie des nombreuses parutions foucaldiennes, dont trois vrais inédits d’une pensée qui reste toujours d’actualité.",
+      "url": "https://www.liberation.fr/culture/livres/centenaire-de-la-naissance-de-michel-foucault-un-eclatant-bouquet-danniversaire-20261014_U4RWEGXFZFCXJNKL7RTMEU4MJU/",
+      "image": null,
+      "date": "2026-10-14T19:06:00+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Parkinson : après des années de tremblements incontrôlables, ce patient de 72 ans voit tout disparaître en quelques minutes",
+      "desc": "Un homme de 72 ans, atteint de la maladie de Parkinson depuis 2017, voit son tremblement disparaître quelques minutes après une séance d'ultrasons, sans que son crâne ait été ouvert. Le résultat est réel et documenté. Il comporte une contrepartie décisive, que les récits spectaculaires...",
+      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-apres-annees-tremblements-incontrolables-ce-patient-72-ans-voit-tout-disparaitre-quelques-minutes-k2m6-138500/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/2/e/a2e14b7a97_50261988_parkinson-tremblements-ultrasons.jpg",
+      "date": "2026-10-14T18:00:00+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "A Menton, une aide-soignante mise en examen après plusieurs empoisonnements dans un Ehpad et la mort d’une résidente",
+      "desc": "Agée de 53 ans, la mise en cause est accusée d’avoir volé des bijoux en administrant des substances dangereuses à des personnes âgées, annonce le parquet de Nice ce mercredi. Elle conteste «toute volonté d’homicide».",
+      "url": "https://www.liberation.fr/societe/police-justice/a-menton-une-aide-soignante-mise-en-examen-apres-plusieurs-empoisonnements-dans-un-ehpad-et-la-mort-dune-residente-20261014_RCNASUZTCFBDHJOP3GU7L5Z6HM/",
+      "image": null,
+      "date": "2026-10-14T17:35:15+00:00",
+      "date_formatted": "14 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Cancer du pape Léon XIV : faut-il s'inquiéter pour la santé du souverain pontife ?",
       "desc": "Faut-il s'inquiéter pour la santé du pape Léon XIV ? Le Vatican a révélé que le souverain pontife était atteint d'un cancer au poumon. Un nodule lui a été retiré mardi 13 octobre. Il doit maintenant effectuer des examens complémentaires pour connaître son traitement.",
@@ -31,16 +71,6 @@
       "date_formatted": "14 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Guadeloupe : les principales routes bloquées par un collectif contre la vie chère",
-      "desc": "A l’initiative du collectif Nou las palé, qui réunit différentes catégories socioprofessionnelles, les axes routiers majeurs de l’archipel sont barrés par de lourds blocs de pierre ce mercredi 14 octobre. Une cellule de crise doit se réunir à la préfecture.",
-      "url": "https://www.liberation.fr/economie/social/guadeloupe-les-principales-routes-bloquees-par-un-collectif-contre-la-vie-chere-20261014_MD664X4LUND4JNIVVRA3KSTFHU/",
-      "image": null,
-      "date": "2026-10-14T15:50:06+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Sortir les cheveux mouillés, ça enrhume vraiment ?",
@@ -171,16 +201,6 @@
       "date_formatted": "13 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "ENQUETE FRANCEINFO. Exposition au cadmium : seulement 2 160 personnes testées, des médecins réticents et un zonage flou… Pourquoi la campagne de dépistage patine",
-      "desc": "L'ouverture du remboursement des tests avait été mise en place après la publication d'une série d'études sanitaires faisant état d'une surexposition de la population française à ce métal lourd cancérigène.",
-      "url": "https://www.franceinfo.fr/sante/alimentation/cadmium/enquete-franceinfo-exposition-au-cadmium-seulement-2-160-personnes-testees-des-medecins-reticents-et-un-zonage-flou-pourquoi-la-campagne-de-depistage-patine_8229082.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/4gRlRfj9_5jEUc5tW_XKYPPu4kY/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/08/6ac81188cceff669532544.jpg",
-      "date": "2026-10-13T11:07:20+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Alzheimer : la véritable origine des dégâts cérébraux ne serait pas dans le cerveau, mais dans...",
