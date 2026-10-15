@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-15T15:52:19.697378+00:00",
-  "count": 63,
+  "generated_at": "2026-10-15T20:37:13.530072+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Georges Perec, invité spécial de «Libé» : le making of d’une édition sens dessus dessous",
+      "desc": "A l’occasion d’une grande expo à la BNF consacrée à l’écrivain mort en 1982, «Libé» fait paraître un numéro spécial qui imagine le regard qu’il aurait eu face à l’actualité de ce vendredi 16 octobre 2026.",
+      "url": "https://www.liberation.fr/economie/medias/georges-perec-invite-special-de-libe-le-making-of-dune-edition-sens-dessus-dessous-20261015_UBHCLHMMUZAABBFWOY57RSDTO4/",
+      "image": null,
+      "date": "2026-10-15T16:40:59+00:00",
+      "date_formatted": "15 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Café et Parkinson : chez certaines personnes il protégerait le cerveau, chez d'autres il augmenterait le risque",
       "desc": "Le café protégerait du risque de maladie de Parkinson : le constat revient depuis des décennies. Une étude portant sur 435 000 personnes suggère que cet effet dépendrait d'une variation génétique déterminant la vitesse à laquelle chacun élimine la caféine. Chez certains, l'association s'inverse...",
@@ -13,6 +23,16 @@
       "type": "science"
     },
     {
+      "title": "Jeux d’argent : Le CHU de Nantes lance une étude pilote pour les patients souffrant d’addiction",
+      "desc": "Le CHU de Nantes explore la piste de la psilocybine, un hallucinogène, pour renforcer la psychothérapie des patients souffrant d’une addiction aux jeux d’argent",
+      "url": "https://www.20minutes.fr/nantes/4254648-20261015-jeux-argent-chu-nantes-lance-etude-pilote-patients-souffrant-addiction?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/yyvWQQGYS4OBegj0fvublSk/1200x768_nouveau-jeu-a-gratter-de-la-francaise-des-jeux-ticket-d-or-depuis-janvier-2024-pour-gagner-jusqu-a-500-000-euros-disponible-a-l-achat-dans-les-points-de-vente-physiques-ou-en-ligne-sur-le-site-de-la-fdj-tabac-nice-france-16-01-2024-syspeo-sys-a006-credit-syspeo-sipa-2401161539",
+      "date": "2026-10-15T15:54:08+00:00",
+      "date_formatted": "15 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
       "title": "Diagnostiquée à tort avec des hémorroïdes, une Espagnole décède d’un cancer colorectal : sa famille indemnisée",
       "desc": "La justice espagnole a condamné le service public de santé andalou à verser 30 000 euros à la famille d’une patiente décédée d’un cancer colorectal, initialement diagnostiqué comme de vulgaires hémorroïdes, d’après « Telecinco »",
       "url": "https://www.20minutes.fr/monde/4254693-20261015-diagnostiquee-tort-hemorroides-espagnole-decede-cancer-colorectal-famille-indemnisee?at_medium=display&at_campaign=149",
@@ -20,26 +40,6 @@
       "date": "2026-10-15T15:17:39+00:00",
       "date_formatted": "15 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Trump renonce à diffuser en direct la mise à mort d’un condamné par peloton d’exécution",
-      "desc": "Nidal Hasan, qui a tué 13 personnes en 2009 sur une base militaire du Texas, sera exécuté comme prévu le 3 décembre, a précisé le président américain.",
-      "url": "https://www.liberation.fr/international/amerique/trump-renonce-a-diffuser-en-direct-la-mise-a-mort-dun-condamne-par-peloton-dexecution-20261015_TQ3QF76RGJBZJEEYBPCEPWBHJU/",
-      "image": null,
-      "date": "2026-10-15T14:50:05+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "IA et maths : «problème» ou «accélérateur d’idées», les jeunes chercheurs entre inquiétude et excitation",
-      "desc": "Alors qu’OpenAI et Anthropic ont fait des mathématiques leur terrain de jeu, les annonces récentes de résolutions de problèmes parfois centenaires chamboulent les doctorants. Partagés à l’image de leurs aînés, certains doutent de leur vocation, d’autres y voient un changement bénéfique.",
-      "url": "https://www.liberation.fr/sciences/ia-et-maths-probleme-ou-accelerateur-didees-les-jeunes-chercheurs-entre-inquietude-et-excitation-20261015_LHARFRQGMFCRDL3BN4I5G4VS4U/",
-      "image": null,
-      "date": "2026-10-15T14:28:14+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -161,16 +161,6 @@
       "date_formatted": "14 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "« Octobre ne sera pas rose, il sera en colère »… Pourquoi ce collectif est fâché contre Octobre rose ?",
-      "desc": "Le collectif Cancer colère veut faire d’octobre un mois de revendications, contrant la campagne d’Octobre rose qui occulte, entre autres, les causes des cancers du sein",
-      "url": "https://www.20minutes.fr/sante/4253911-20261014-octobre-rose-colere-pourquoi-collectif-fache-contre-octobre-rose?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ogUbYRsNQWWOBpCEkntxFyk/1200x768_le-collectif-cancer-colere-explique-dans-un-tract-pourquoi-octobre-sera-colere-et-pas-rose",
-      "date": "2026-10-14T08:17:29+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Octobre rose : les accusations de Mathilde Panot reposent-elles sur des faits avérés ?",
@@ -363,16 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer du sein : cet outil pourrait révéler les récidives que les tests actuels ne parviennent pas à prévoir",
-      "desc": "Certaines récidives de cancer du sein surviennent cinq ans, dix ans, voire davantage après le traitement, alors même que les tests disponibles jugent le risque suffisamment faible pour éviter une chimiothérapie. Un nouvel outil pourrait changer la donne en identifiant plus précisément les...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-cet-outil-pourrait-reveler-recidives-tests-actuels-ne-parviennent-pas-prevoir-138354/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/1/0/81084910bc_50261759_recidive-cancer-sein.jpg",
-      "date": "2026-10-12T05:08:34+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "« Pourquoi moi ? Le ciel m’est tombé sur la tête » : Lou, 29 ans, diagnostiquée bipolaire",
       "desc": "Premières amours, premiers pas vers l’autonomie, premiers diagnostics parfois : comment faire face à l’irruption d’un trouble quand on commence sa vie d’adulte ? Au travers d’une série de portraits, « Le Monde » explore les combats de jeunes atteints d’une maladie mentale ou d’une addiction. Lou (so",
       "url": "https://www.lemonde.fr/campus/article/2026/10/11/pourquoi-moi-le-ciel-m-est-tombe-sur-la-tete-lou-29-ans-diagnostiquee-bipolaire_6791374_4401467.html",
@@ -491,16 +471,6 @@
       "date_formatted": "7 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Les affections longue durée ont coûté près de 20 milliards d’euros à l’Assurance-maladie en 2025",
-      "desc": "En dix ans, les dépenses de l’Assurance-maladie liées aux affections longue durée ont augmenté de 8,2 milliards d’euros (+ 72 % en euros courants). Et ce, en raison du vieillissement de la population, d’une hausse de la prévalence des maladies chroniques et du coût des traitements.",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/07/les-affections-longue-duree-ont-coute-pres-de-20-milliards-d-euros-a-l-assurance-maladie-en-2025_6789647_3224.html",
-      "image": "https://img.lemde.fr/2025/07/17/493/0/3000/1500/644/322/60/0/5071529_upload-1-wzjz910obsw0-frame-276.jpg",
-      "date": "2026-10-07T20:11:06+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola : le Kenya en alerte après un premier décès à Nairobi",
