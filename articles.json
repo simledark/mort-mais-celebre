@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-15T10:27:57.949966+00:00",
-  "count": 61,
+  "generated_at": "2026-10-15T15:52:19.697378+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "Café et Parkinson : chez certaines personnes il protégerait le cerveau, chez d'autres il augmenterait le risque",
+      "desc": "Le café protégerait du risque de maladie de Parkinson : le constat revient depuis des décennies. Une étude portant sur 435 000 personnes suggère que cet effet dépendrait d'une variation génétique déterminant la vitesse à laquelle chacun élimine la caféine. Chez certains, l'association s'inverse...",
+      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-cafe-parkinson-chez-certaines-personnes-il-protegerait-cerveau-chez-autres-il-augmenterait-risque-k2m6-138526/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/2/7/027fd0f8a9_50262028_cafeine-parkinson.jpg",
+      "date": "2026-10-15T16:00:00+00:00",
+      "date_formatted": "15 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Diagnostiquée à tort avec des hémorroïdes, une Espagnole décède d’un cancer colorectal : sa famille indemnisée",
+      "desc": "La justice espagnole a condamné le service public de santé andalou à verser 30 000 euros à la famille d’une patiente décédée d’un cancer colorectal, initialement diagnostiqué comme de vulgaires hémorroïdes, d’après « Telecinco »",
+      "url": "https://www.20minutes.fr/monde/4254693-20261015-diagnostiquee-tort-hemorroides-espagnole-decede-cancer-colorectal-famille-indemnisee?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/5gCTGMOOTyafXVQnggmt8Ck/1200x768_un-patient-a-l-hopital-illustration",
+      "date": "2026-10-15T15:17:39+00:00",
+      "date_formatted": "15 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Trump renonce à diffuser en direct la mise à mort d’un condamné par peloton d’exécution",
+      "desc": "Nidal Hasan, qui a tué 13 personnes en 2009 sur une base militaire du Texas, sera exécuté comme prévu le 3 décembre, a précisé le président américain.",
+      "url": "https://www.liberation.fr/international/amerique/trump-renonce-a-diffuser-en-direct-la-mise-a-mort-dun-condamne-par-peloton-dexecution-20261015_TQ3QF76RGJBZJEEYBPCEPWBHJU/",
+      "image": null,
+      "date": "2026-10-15T14:50:05+00:00",
+      "date_formatted": "15 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "IA et maths : «problème» ou «accélérateur d’idées», les jeunes chercheurs entre inquiétude et excitation",
+      "desc": "Alors qu’OpenAI et Anthropic ont fait des mathématiques leur terrain de jeu, les annonces récentes de résolutions de problèmes parfois centenaires chamboulent les doctorants. Partagés à l’image de leurs aînés, certains doutent de leur vocation, d’autres y voient un changement bénéfique.",
+      "url": "https://www.liberation.fr/sciences/ia-et-maths-probleme-ou-accelerateur-didees-les-jeunes-chercheurs-entre-inquietude-et-excitation-20261015_LHARFRQGMFCRDL3BN4I5G4VS4U/",
+      "image": null,
+      "date": "2026-10-15T14:28:14+00:00",
+      "date_formatted": "15 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"Vous allez forcer certains gros industriels à mettre des choses pas forcément bonnes…\" : la taxe sucre votée mercredi inquiète le secteur",
       "desc": "Pour l'exécutif, il s'agit d'un moyen de lutter contre les maladies chroniques liées à la nutrition : des députés ont approuvé mercredi l'extension de la fiscalité sur les produits sucrés. Les entreprises normandes de l'agroalimentaire s'inquiètent de la conséquence d'une hausse des prix pour les co",
@@ -81,16 +121,6 @@
       "date_formatted": "14 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Cancer du pape Léon XIV : faut-il s'inquiéter pour la santé du souverain pontife ?",
-      "desc": "Faut-il s'inquiéter pour la santé du pape Léon XIV ? Le Vatican a révélé que le souverain pontife était atteint d'un cancer au poumon. Un nodule lui a été retiré mardi 13 octobre. Il doit maintenant effectuer des examens complémentaires pour connaître son traitement.",
-      "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/cancer-du-pape-leon-xiv-faut-il-s-inquieter-pour-la-sante-du-souverain-pontife_8237128.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/kDrf-wXTU8laJk7vgEB-HOrAKJ4/58x0:1055x561/432x243/filters:format(jpg)/2026/10/14/6acf67e74cfbd048389837.jpg",
-      "date": "2026-10-14T17:28:00+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Record d'infections en France : ce virus transmis par les moustiques inquiète, d'autant qu'il n'existe aucun vaccin !",
@@ -339,16 +369,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/1/0/81084910bc_50261759_recidive-cancer-sein.jpg",
       "date": "2026-10-12T05:08:34+00:00",
       "date_formatted": "12 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Ni cher ni exotique : ce légume de la longévité se trouve déjà dans vos placards",
-      "desc": "Les haricots secs sont souvent présentés comme l'aliment phare des régions du monde réputées pour leur longévité. Les études d'observation associent bien une consommation élevée de légumineuses à une mortalité un peu plus faible. Mais l'effet mesuré reste modeste, et le concept de « zones bleues...",
-      "url": "https://www.futura-sciences.com/sante/actualites/longevite-ni-cher-ni-exotique-ce-legume-longevite-trouve-deja-vos-placards-k2m6-138399/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/b/2/7b2542b248_50261832_alimentation-haricots-secs-longevite.jpg",
-      "date": "2026-10-11T18:00:00+00:00",
-      "date_formatted": "11 October 2026",
       "source": "Futura Santé",
       "type": "science"
     },
