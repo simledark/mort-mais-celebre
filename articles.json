@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T15:40:27.676126+00:00",
-  "count": 64,
+  "generated_at": "2026-10-16T20:10:05.102557+00:00",
+  "count": 60,
   "articles": [
     {
       "title": "Cigarette électronique : une découverte inquiétante sur les virus et les défenses de vos poumons",
@@ -30,26 +30,6 @@
       "date": "2026-10-16T15:04:58+00:00",
       "date_formatted": "16 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mexique : l’amibe «mangeuse de cerveau» détectée dans six lacs artificiels du Yucatán, désormais fermés",
-      "desc": "La présence de ce micro-organisme a été repérée dans cette région très touristique du pays. Il est susceptible de causer des infections cérébrales et a provoqué la mort d’un moniteur de ski nautique dans cet Etat en septembre.",
-      "url": "https://www.liberation.fr/environnement/biodiversite/mexique-lamibe-mangeuse-de-cerveau-detectee-dans-six-lacs-artificiels-du-yucatan-desormais-fermes-20261016_QFVNDFZYDVEUPBLQRTLTOBR6PE/",
-      "image": null,
-      "date": "2026-10-16T14:48:23+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Rugby : le joueur sud-africain Hyron Andrews retrouvé mort sur l’île de Ré à la veille d’un match",
-      "desc": "Le deuxième ligne des Lions de Johannesburg a fait un arrêt cardio-respiratoire dans sa chambre d’hôtel ce vendredi. Une enquête en recherche des causes de la mort a été confiée à la gendarmerie.",
-      "url": "https://www.liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4/",
-      "image": null,
-      "date": "2026-10-16T14:31:03+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -233,16 +213,6 @@
       "type": "presse"
     },
     {
-      "title": "Pilates, gonflette et gourous déchus : pourquoi les studios de yoga ferment à la chaîne",
-      "desc": "Le yoga est-il mort ? Il a été le symbole absolu du bien-être pendant des décennies. Mais aujourd’hui, les studios ferment, les élèves partent vers le Pilates et la discipline est rattrapée par les accusations visant ses gourous. Récit de la chute d’un empire.",
-      "url": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/pilates-gonflette-et-gourous-dechus-pourquoi-les-studios-de-yoga-ferment-a-la-chaine_8217340.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cdaockiuBvblHUjb-3ag7FFl5EE/0x0:5199x2922/432x243/filters:format(jpg)/2025/11/05/gettyimages-933803366-690b222e31de2883630233.jpg",
-      "date": "2026-10-15T10:14:57+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Arrêts maladie : Le gouvernement veut « moins protéger les arrêts courts » pour faire une grosse économie",
       "desc": "Face au nombre d’arrêts maladie, le ministre du Travail assure vouloir « moins » les « protéger » lorsqu’ils sont courts alors que les partenaires sociaux doivent trouver un accord sur une réforme structurelle de leur prise en charge d’ici décembre",
       "url": "https://www.20minutes.fr/sante/4254490-20261015-arrets-maladie-gouvernement-veut-moins-proteger-arrets-courts-faire-grosse-economie?at_medium=display&at_campaign=149",
@@ -388,16 +358,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/medecine-20-millions-personnes-pourraient-avoir-ce-type-diabete-longtemps-reste-meconnu-w2t8-138448/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/8/8/d887b78f53_50261903_diabete-type-5.jpg",
       "date": "2026-10-13T08:00:00+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Ni les plus sportifs ni les « mieux nés » : ceux qui restent en forme après 70 ans partagent 3 habitudes",
-      "desc": "Ils ont passé le cap des 70 ans, mais continuent de marcher, saisir, bouger et vivre sans perdre leur autonomie. Qu’est-ce qui distingue ces vieillissements réussis des autres ? Les grandes études menées sur plusieurs années apportent des réponses parfois surprenantes — et remettent en question...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-ni-plus-sportifs-ni-mieux-nes-ceux-restent-forme-apres-70-ans-partagent-3-habitudes-138138/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/2/8/028623f953_50261919_futura-canva-7-3.jpg",
-      "date": "2026-10-13T07:01:52+00:00",
       "date_formatted": "13 October 2026",
       "source": "Futura Santé",
       "type": "science"
