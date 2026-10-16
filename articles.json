@@ -1,15 +1,165 @@
 {
-  "generated_at": "2026-10-16T01:56:49.259970+00:00",
-  "count": 60,
+  "generated_at": "2026-10-16T10:15:28.374511+00:00",
+  "count": 67,
   "articles": [
     {
-      "title": "Georges Perec, invité spécial de «Libé» : le making of d’une édition sens dessus dessous",
-      "desc": "A l’occasion d’une grande expo à la BNF consacrée à l’écrivain mort en 1982, «Libé» fait paraître un numéro spécial qui imagine le regard qu’il aurait eu face à l’actualité de ce vendredi 16 octobre 2026.",
-      "url": "https://www.liberation.fr/economie/medias/georges-perec-invite-special-de-libe-le-making-of-dune-edition-sens-dessus-dessous-20261015_UBHCLHMMUZAABBFWOY57RSDTO4/",
+      "title": "Syndrome ovarien métabolique polyendocrinien : « Ce trouble féminin, orphelin thérapeutique, doit être identifié comme une priorité »",
+      "desc": "Depuis la description, en 1936, de cette maladie à l’origine inconnue, dont le nom a été changé en mai, aucun traitement n’a été développé, déplorent dans une tribune au « Monde » des médecins et des patientes.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/16/syndrome-ovarien-metabolique-polyendocrinien-ce-trouble-feminin-orphelin-therapeutique-doit-etre-identifie-comme-une-priorite_6795472_1650684.html",
+      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+      "date": "2026-10-16T12:00:10+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Présenté comme sans danger, cet édulcorant connu inquiète les chercheurs",
+      "desc": "Un édulcorant présent dans quantité de produits sans sucre perturbe le fonctionnement des cellules qui tapissent les vaisseaux du cerveau. L'expérience a été menée sur des cellules en culture, et ses auteurs appellent à la prudence. Plusieurs éléments invitent toutefois à ne pas conclure trop...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-presente-comme-danger-cet-edulcorant-connu-inquiete-chercheurs-k2m6-138534/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/b/6/0b6a367e58_50262047_edulcorant-avc.jpg",
+      "date": "2026-10-16T10:00:00+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "L'amibe \"mangeuse de cerveau\" détectée au Yucatan",
+      "desc": "Des agents de santé ont analysé l'eau de six des neuf lacs du Yucatan (sud-est du Mexique) après le décès d'un moniteur de ski nautique qui avait contracté l'amibe Naegleria fowleri en septembre dernier.",
+      "url": "https://www.sciencesetavenir.fr/sante/mexique-l-amibe-mangeuse-de-cerveau-detectee-au-yucatan-six-lacs-fermes_195425?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/16/cover-r4x3w1200-6ad1f4b5594c5-afp-20261016-d3fn663-v2-midres-mexicohealth.jpg",
+      "date": "2026-10-16T09:56:05+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "«L’Inéquilibre» de Alcide Pierantozzi : le roman vrai de la maladie mentale",
+      "desc": "Un récit autobiographique d’un auteur autiste pour qui la littérature est sa «raison de vivre».",
+      "url": "https://www.liberation.fr/culture/livres/linequilibre-de-alcide-pierantozzi-le-roman-vrai-de-la-maladie-mentale-20261016_OVYRPELO2RAVTMATXT2OU474CE/",
       "image": null,
-      "date": "2026-10-15T16:40:59+00:00",
-      "date_formatted": "15 October 2026",
+      "date": "2026-10-16T09:50:43+00:00",
+      "date_formatted": "16 October 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Présidentielle 2027 : La Ligue contre le cancer dégaine « 12 propositions concrètes » pour une lutte « plus efficace »",
+      "desc": "La Ligue contre le cancer déplore des inégalités de traitement croissantes dans la lutte contre la maladie et propose, à travers un « pacte », d’en faire une priorité nationale",
+      "url": "https://www.20minutes.fr/sante/4254896-20261016-presidentielle-2027-ligue-contre-cancer-degaine-12-propositions-concretes-lutte-plus-efficace?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/g-qnJAmKQjKwyDcsUGY4-Ck/1200x768_preparation-traitement-d-un-patient-dans-le-service-onco-hematologie-du-centre-hospitalier-de-cannes-prend-en-charge-le-traitement-des-cancers-avec-pathologie-digestif-orl-sein-gynecologique-urologique-dermatologique-lymphome-myelome-mds-leucemie-hopital-de-cannes-simone-veil-cannes-france-26-06-2025-syspeo-sys-a021-credit-syspeo-sipa-2508091919",
+      "date": "2026-10-16T09:38:57+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Subventionner les énergies fossiles», c’est «subventionner le suicide», alerte le chef de l’ONU",
+      "desc": "Peu avant la COP17 en Arménie et à quelques semaines de son départ du secrétariat général des Nations Unies, António Guterres a déclaré ce vendredi que les hydrocarbures étaient un «fléau».",
+      "url": "https://www.liberation.fr/environnement/climat/subventionner-les-energies-fossiles-cest-subventionner-le-suicide-alerte-le-chef-de-lonu-20261016_7SDFHT2FMNBLDCDXCN4GLRL6DM/",
+      "image": null,
+      "date": "2026-10-16T09:13:05+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tabac, alcool, vaccination contre les papillomavirus… La Ligue contre le cancer dévoile 12 mesures concrètes pour «relever le défi» de la maladie",
+      "desc": "Selon l’association, quatre cancers sur dix pourraient être évités grâce à la modification de nos comportements et de nos modes de vie, alors que le nombre de cas est en constante augmentation.",
+      "url": "https://www.liberation.fr/societe/sante/tabac-alcool-vaccination-contre-les-papillomavirus-la-ligue-contre-le-cancer-devoile-12-mesures-concretes-pour-relever-le-defi-de-la-maladie-20261016_ZT2Y3XUUKBDRZNO5A6WYX2ZYK4/",
+      "image": null,
+      "date": "2026-10-16T08:52:20+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Du café rappelé partout en France à cause d’une mycotoxine potentiellement cancérigène",
+      "desc": "Une teneur excessive en ochratoxine A, une mycotoxine susceptible d’endommager l’ADN et d’être cancérigène pour le rein, a entraîné le rappel d’un café de la marque Bialetti",
+      "url": "https://www.20minutes.fr/consommation/4254855-20261016-cafe-rappele-partout-france-cause-mycotoxine-potentiellement-cancerigene?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-hT3RGqsQ7O5fHP-nX7IFCk/1200x768_un-cafe-illustration",
+      "date": "2026-10-16T08:32:37+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Guadeloupe : le manque de médecins entrave le traitement des cancers",
+      "desc": "En Guadeloupe, on meurt plus largement du cancer qu'en métropole. La faute à une pénurie de médecins qui entraine des retards de prise en charge qui peuvent être mortels dans une pathologie cancéreuse. Afin d'inverser la tendance, les autorités sanitaires tentent d'attirer de nouveaux médecins",
+      "url": "https://www.sciencesetavenir.fr/sante/guadeloupe-le-manque-de-medecins-entrave-la-prise-en-charge-des-cancers_195420?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/16/cover-r4x3w1200-6ad1cf717596d-7b982af4f4baea3c4884d2c33945251c0b0ce9f3-jpg.jpg",
+      "date": "2026-10-16T07:54:12+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Turquie : trois morts et six disparus à Istanbul après des pluies torrentielles",
+      "desc": "Des averses violentes touchent le pays depuis mercredi 14 octobre, dans un épisode d’une intensité rare. Au moins trois personnes ont péri et six autres sont portées disparues.",
+      "url": "https://www.liberation.fr/international/moyen-orient/turquie-trois-morts-et-six-disparus-a-istanbul-apres-des-pluies-torrentielles-20261016_GMQ2BAVSTVD2FJCKW2RZXSNJZY/",
+      "image": null,
+      "date": "2026-10-16T07:29:20+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tabac, alcool, dépistage... La Ligue contre le cancer avance \"12 propositions concrètes pour rendre notre politique anti-cancer plus efficace\"",
+      "desc": "Quatre cancers sur dix seraient évitables en modifiant nos comportements et nos modes de vie, selon l'association, qui souhaite que \"la prévention\" devienne la \"priorité des politiques de santé\".",
+      "url": "https://www.franceinfo.fr/sante/cancer/tabac-alcool-depistage-la-ligue-contre-le-cancer-avance-12-propositions-concretes-pour-rendre-notre-politique-anti-cancer-plus-efficace_8239657.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/BnYj8W_KYKmZYdJM5gM0GCwFDbg/0x473:4800x3174/432x243/filters:format(jpg)/2026/10/16/6ad1aa38af4b4792802728.jpg",
+      "date": "2026-10-16T06:45:09+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quand marcher est efficace, même dans les villes polluées",
+      "desc": "« Dix mille pas et plus ». Si la pollution peut aggraver les symptômes ou le risque d’épisode aigu chez les patients atteints de pathologies respiratoires, l’activité physique permet néanmoins d’atténuer certains symptômes.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/16/quand-marcher-est-efficace-meme-dans-les-villes-polluees_6795146_1650684.html",
+      "image": "https://img.lemde.fr/2026/10/15/439/0/5272/2636/644/322/60/0/9768131_upload-1-al8cfxgy1zo2-ap26162523712769.jpg",
+      "date": "2026-10-16T06:00:11+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Un cancer sur huit évitable dans le monde",
+      "desc": "Selon le centre international de recherche sur le cancer, un cancer sur huit était d’origine infectieuse en 2024. Des infections qui peuvent être évitées avec des gestes de protection à condition d’y avoir accès.",
+      "url": "https://www.franceinfo.fr/sante/un-cancer-sur-huit-evitable-dans-le-monde_8239033.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/jWFl3tNrpyP4Bj2R_TuJK3D3uFo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/15/6ad0f4e24d3fc058489130.jpg",
+      "date": "2026-10-16T06:00:02+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "VRAI OU FAUX. Conflit d'intérêts, liens avec Israël, votes en faveur des pesticides… On a vérifié les affirmations de Mathilde Panot sur Octobre rose",
+      "desc": "Dans une vidéo, la députée LFI lie la campagne en faveur du dépistage du cancer du sein à l'industrie agrochimique et pharmaceutique, ainsi qu'au projet d'expansion coloniale d'Israël. Si certains de ses dires sont fondés, d'autres sont à nuancer.",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-conflit-d-interets-liens-avec-israel-votes-en-faveur-des-pesticides-on-a-verifie-les-affirmations-de-mathilde-panot-sur-octobre-rose_8236957.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/8HTcnQ5MYkpVxny3jY-9YXksjyY/0x46:1024x622/432x243/filters:format(jpg)/2026/10/14/6acf985a2926f521565501.jpg",
+      "date": "2026-10-16T05:37:51+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quel âge a vraiment votre corps ? Ce test de 30 secondes permet de comparer vos capacités à celles de votre âge",
+      "desc": "Une chaise, un chronomètre et 30 secondes : c’est tout ce qu’il vous faut pour mettre votre condition physique à l’épreuve. Utilisé par les professionnels de santé, ce test tout simple permet d’évaluer votre force musculaire et votre endurance, mais aussi de repérer certains risques pour votre...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-age-vraiment-votre-corps-ce-test-30-secondes-permet-comparer-vos-capacites-celles-votre-age-138578/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/9/1/7914ecb87f_50262108_sit-to-stand.jpg",
+      "date": "2026-10-16T05:23:54+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "« Mes seins et moi » : dans le huis clos d’un cabinet de chirurgie mammaire, à Paris",
+      "desc": "Dans ce podcast, Florence Aubenas, grande reporter au « Monde », revient sur sa série de reportages dans un cabinet privé de chirurgie mammaire, qui traite à la fois le cancer du sein, les malformations mammaires, les questions transgenres et esthétiques. Elle raconte à quel point, quand on parle de",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/10/16/mes-seins-et-moi-dans-le-huis-clos-d-un-cabinet-de-chirurgie-mammaire-a-paris_6795032_5463015.html",
+      "image": "https://img.lemde.fr/2026/10/08/0/0/1800/900/644/322/60/0/efbf0c2_upload-1-3oa7ixcfq4iw-seins1.png",
+      "date": "2026-10-16T05:00:12+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -88,16 +238,6 @@
       "url": "https://www.franceinfo.fr/sante/budget-2027-des-associations-de-patients-demandent-de-ne-pas-ceder-face-au-lobby-des-industriels-sur-l-elargissement-de-la-taxe-sur-les-produits-sucres_8238187.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/9P4QJHS51g8qRokDIRxnv8LH0BY/0x520:5000x3333/432x243/filters:format(jpg)/2026/10/15/6ad05f5079256071626902.jpg",
       "date": "2026-10-15T07:07:59+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer de la peau : l'exposition des salariés aux rayons UV doit être considérée comme un risque professionnel à part entière, plaide l'Anses",
-      "desc": "Selon la Direction de l'animation de la recherche, des études et des statistiques (Dares), l'exposition au travail à l'extérieur et aux intempéries concerne 3,5 millions de personnes en France et environ 150 000 pour les UV artificiels.",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-peau-l-exposition-des-salaries-aux-rayons-uv-doit-etre-consideree-comme-un-risque-professionnel-a-part-entiere-plaide-l-anses_8237665.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/XSXHFAQYQsUBddguF_BYWILPJDc/0x25:2047x1175/432x243/filters:format(jpg)/2018/10/10/php7tDKWD.jpg",
-      "date": "2026-10-15T06:00:02+00:00",
       "date_formatted": "15 October 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -303,26 +443,6 @@
       "type": "presse"
     },
     {
-      "title": "Cette découverte dans le cerveau pourrait enfin expliquer une maladie que la médecine peinait à comprendre jusqu'ici",
-      "desc": "Le cerveau dispose d'un système d'évacuation des déchets, actif principalement pendant le sommeil. Une équipe australienne rapporte qu'il fonctionnerait moins bien chez les personnes atteintes de syndrome de fatigue chronique, et seulement dans l'hémisphère droit. Les effectifs sont réduits et...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-cette-decouverte-cerveau-pourrait-enfin-expliquer-maladie-medecine-peinait-comprendre-jusquici-k2m6-138442/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/4/4/244ddb9d7c_50261888_fatigue-chronique-cerveau.jpg",
-      "date": "2026-10-12T18:00:00+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Vos parents vous donne leurs affaires ? Ce que cache ce geste va vous toucher",
-      "desc": "Des grands-parents qui distribuent services à thé, bijoux et disques : l'image est familière, mais elle ne reflète pas la tendance générale. Les enquêtes montrent qu'avec l'âge, on se sépare de moins en moins de ses affaires. Quand des personnes âgées choisissent de donner leurs objets de leur...",
-      "url": "https://www.futura-sciences.com/sante/actualites/psychologie-vos-parents-vous-donne-leurs-affaires-ce-cache-ce-geste-va-vous-toucher-k2m6-138440/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/7/5/675179a23b_50261895_transmission-familiale.jpg",
-      "date": "2026-10-12T16:00:00+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Soupçon de cas de peste : mode de transmission, traitements… que sait-on de cette maladie ?",
       "desc": "Alors que le cas d’une laborantine russe qui serait décédée de la peste en Russie fait la Une de nombreux médias, que l’intérêt pour le mot-clé « peste » sur Google a été multiplié par plus de 10 en une semaine et qu’une partie de la sphère complotiste s’est emparée du sujet, Canal détox fait le poi",
       "url": "https://presse.inserm.fr/canal-detox/soupcon-de-cas-de-peste-mode-de-transmission-traitements-que-sait-on-de-cette-maladie/",
@@ -361,16 +481,6 @@
       "date_formatted": "11 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Jérémie Naudé, neuroscientifique : « Certains discours ne tentent pas de décrire le vivant, mais cherchent à le discipliner »",
-      "desc": "Dans son livre « Neuro arnaque », le chercheur dénonce les nouveaux atours de discours réactionnaires visant à dévoyer la biologie pour gommer la dimension sociale, culturelle et proprement politique de certains phénomènes.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/10/jeremie-naude-neuroscientifique-certains-discours-ne-tentent-pas-de-decrire-le-vivant-mais-cherchent-a-le-discipliner_6791013_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/07/578/0/2984/1492/644/322/60/0/b00d72c_upload-1-gmdrlb8t67nd-jn-5-copie.jpg",
-      "date": "2026-10-10T17:30:09+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Première mondiale : des virus transformés en médicaments contre les bactéries résistantes",
@@ -443,26 +553,6 @@
       "type": "science"
     },
     {
-      "title": "« Ce que le travail fait aux femmes » : un plaidoyer pour la reconnaissance du cancer du sein comme maladie professionnelle",
-      "desc": "Dans un livre de combat, un collectif d’auteurs met en évidence les liens entre le cancer du sein de salariées et leur quotidien professionnel. En cause : l’exposition aux rayonnements ionisants et à près de 200 produits chimiques, ainsi que le travail de nuit.",
-      "url": "https://www.lemonde.fr/vie-au-travail/article/2026/10/08/ce-que-le-travail-fait-aux-femmes-un-plaidoyer-pour-la-reconnaissance-du-cancer-du-sein-comme-maladie-professionnelle_6789928_6768900.html",
-      "image": "https://img.lemde.fr/2026/10/05/160/0/1920/960/644/322/60/0/a7aed74_upload-1-2yco1umofo3u-generated-1791193406216.jpg",
-      "date": "2026-10-08T06:00:23+00:00",
-      "date_formatted": "8 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un traitement optogénétique redonne une vision partielle à six patients aveugles",
-      "desc": "Un essai clinique, mené chez dix personnes non voyantes en France, aux Etats-Unis et au Royaume-Uni, suggère l’intérêt, pour restaurer une forme de vision, d’un traitement qui consiste à injecter dans l’œil un vecteur viral porteur d’une construction génétique.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/07/un-traitement-optogenetique-redonne-une-vision-partielle-a-six-patients-aveugles_6789654_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/07/97/0/1214/607/644/322/60/0/375f93b_upload-1-7alb3oiy8k3n-capture-d-e-cran-2026-10-07-a-15-30-17.png",
-      "date": "2026-10-07T23:10:04+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "L’optogénétique s’avère sûre pour traiter certaines formes de cécité",
       "desc": "Ce premier essai clinique de phase 1 chez l’humain montre que l’optogénétique est bien tolérée, ouvrant la voie vers des traitements pour redonner la vue. Entretien avec José-Alain Sahel, directeur de l’Institut de la vision à l’Université de Pittsburgh et directeur de l’étude.",
       "url": "https://www.sciencesetavenir.fr/sante/l-optogenetique-s-avere-sure-pour-traiter-certaines-formes-de-cecite_195253?xtor=RSS-16",
@@ -500,26 +590,6 @@
       "date": "2026-10-02T10:00:59+00:00",
       "date_formatted": "2 October 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du sein : prouver qu'il est lié au travail est un défi pour une femme",
-      "desc": "Plus meurtrier des cancers chez la femme, le cancer du sein est absent de la liste des pathologies professionnelles. Faire reconnaître qu'il est lié au travail est donc très compliqué. Seules quelques femmes jusqu'à présent sont parvenues à faire reconnaître l'origine professionnelle de leur cancer ",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-du-sein-prouver-l-impact-preponderant-du-travail-un-defi-pour-les-femmes_195174?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/02/cover-r4x3w1200-6abf4d8d6b36a-4ef62ef225bf05d5180a3ae01712ef2682489c84-jpg.jpg",
-      "date": "2026-10-02T07:23:21+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "À Paris, les overdoses en forte hausse : 59 décès recensés depuis janvier",
-      "desc": "À Paris, les décès liés aux overdoses ont presque doublé en un an, passant de 30 en 2025 à 59 au 28 septembre 2026. Les victimes, âgées de 16 à 54 ans, présentent des profils et des contextes de consommation très variés. Environ un tiers des décès seraient liés à des pratiques de chemsex.",
-      "url": "https://www.sciencesetavenir.fr/sante/a-paris-les-overdoses-presque-multipliees-par-deux-le-chemsex-en-cause-dans-un-tiers-des-cas_195165?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/01/cover-r4x3w1200-6abe5ce573b0d-chemsex.jpg",
-      "date": "2026-10-01T13:29:15+00:00",
-      "date_formatted": "1 October 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
