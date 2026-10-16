@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-10-16T10:15:28.374511+00:00",
-  "count": 67,
+  "generated_at": "2026-10-16T15:40:27.676126+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title": "Cigarette électronique : une découverte inquiétante sur les virus et les défenses de vos poumons",
+      "desc": "Se laver les mains régulièrement, éviter d'embrasser un proche enrhumé, aérer plusieurs fois par jour… Avec le retour des virus de l’automne, chacun retrouve ses habitudes de protection. Mais si vous vapotez, même de façon modérée, vous êtes-vous déjà demandé ce qui se passe au plus profond de...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cigarette-electronique-cigarette-electronique-decouverte-inquietante-virus-defenses-vos-poumons-138612/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/d/6/bd620acee8_50262151_vapotage-systeme-immunitaire.jpg",
+      "date": "2026-10-16T17:03:51+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Comment savoir si on a de la fièvre quand on n'a pas de thermomètre ?",
+      "desc": "C’est l’automne, la saison des virus a déjà commencé. Si vous vous sentez fébrile, le seul moyen fiable de mesurer votre température, c’est le thermomètre, mais si vous n’en avez pas sous la main, Julien Ménielle va vous donner quelques trucs qui vous permettront d’avoir des indices.",
+      "url": "https://www.franceinfo.fr/sante/comment-savoir-si-on-a-de-la-fievre-quand-on-n-a-pas-de-thermometre_8240431.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Kc7PjrKrHLKPM9pB9QAKGcRocHQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad22dbbba4fc750486520.jpg",
+      "date": "2026-10-16T16:20:01+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Agathe Auproux doit une fière chandelle au père de Cyril Hanouna qui lui a détecté son cancer",
+      "desc": "Le père de l’animateur, disparu en 2024, était médecin généraliste",
+      "url": "https://www.20minutes.fr/arts-stars/people/4255052-20261016-agathe-auproux-doit-fiere-chandelle-pere-cyril-hanouna-detecte-cancer?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/n751MqIMQditmAmXDNNsByk/1200x768_agathe-auproux-journaliste-et-chroniqueuse",
+      "date": "2026-10-16T15:04:58+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mexique : l’amibe «mangeuse de cerveau» détectée dans six lacs artificiels du Yucatán, désormais fermés",
+      "desc": "La présence de ce micro-organisme a été repérée dans cette région très touristique du pays. Il est susceptible de causer des infections cérébrales et a provoqué la mort d’un moniteur de ski nautique dans cet Etat en septembre.",
+      "url": "https://www.liberation.fr/environnement/biodiversite/mexique-lamibe-mangeuse-de-cerveau-detectee-dans-six-lacs-artificiels-du-yucatan-desormais-fermes-20261016_QFVNDFZYDVEUPBLQRTLTOBR6PE/",
+      "image": null,
+      "date": "2026-10-16T14:48:23+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Rugby : le joueur sud-africain Hyron Andrews retrouvé mort sur l’île de Ré à la veille d’un match",
+      "desc": "Le deuxième ligne des Lions de Johannesburg a fait un arrêt cardio-respiratoire dans sa chambre d’hôtel ce vendredi. Une enquête en recherche des causes de la mort a été confiée à la gendarmerie.",
+      "url": "https://www.liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4/",
+      "image": null,
+      "date": "2026-10-16T14:31:03+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L'Assurance-maladie alerte sur l'explosion des prescriptions de Ritaline en Ile-de-France pour traiter le TDAH",
+      "desc": "Ce médicament est utilisé chez les patients souffrant de trouble du déficit de l'attention avec ou sans hyperactivité. Il doit normalement être prescrit pour la première fois par un spécialiste : pédiatre, neurologue ou psychiatre.",
+      "url": "https://www.franceinfo.fr/sante/handicap/l-assurance-maladie-alerte-sur-l-explosion-des-prescriptions-de-ritaline-en-ile-de-france-pour-traiter-le-tdah_8240278.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/9Y0Vjd-hD1-AS3P9uM8hK3LsjaQ/0x0:1024x576/432x243/filters:format(jpg)/2026/10/16/6ad214ff9c6df576806984.jpg",
+      "date": "2026-10-16T14:16:06+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ces cellules « zombies » accélèrent notre vieillissement : des chercheurs ont découvert leur étonnant secret",
+      "desc": "Certaines cellules abîmées refusent de mourir et s’accumulent avec l’âge, alimentant l'inflammation et le déclin physique. Des scientifiques viennent de comprendre comment ces cellules « zombies » se cachent de notre système immunitaire. En bloquant leur protection chez la souris, ils ont réussi...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-ces-cellules-zombies-accelerent-notre-vieillissement-chercheurs-ont-decouvert-leur-etonnant-secret-138585/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/7/6/c76b189317_50262118_cellules-zombies-vieillissement.jpg",
+      "date": "2026-10-16T14:08:51+00:00",
+      "date_formatted": "16 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Syndrome ovarien métabolique polyendocrinien : « Ce trouble féminin, orphelin thérapeutique, doit être identifié comme une priorité »",
       "desc": "Depuis la description, en 1936, de cette maladie à l’origine inconnue, dont le nom a été changé en mai, aucun traitement n’a été développé, déplorent dans une tribune au « Monde » des médecins et des patientes.",
@@ -33,16 +103,6 @@
       "type": "science"
     },
     {
-      "title": "«L’Inéquilibre» de Alcide Pierantozzi : le roman vrai de la maladie mentale",
-      "desc": "Un récit autobiographique d’un auteur autiste pour qui la littérature est sa «raison de vivre».",
-      "url": "https://www.liberation.fr/culture/livres/linequilibre-de-alcide-pierantozzi-le-roman-vrai-de-la-maladie-mentale-20261016_OVYRPELO2RAVTMATXT2OU474CE/",
-      "image": null,
-      "date": "2026-10-16T09:50:43+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Présidentielle 2027 : La Ligue contre le cancer dégaine « 12 propositions concrètes » pour une lutte « plus efficace »",
       "desc": "La Ligue contre le cancer déplore des inégalités de traitement croissantes dans la lutte contre la maladie et propose, à travers un « pacte », d’en faire une priorité nationale",
       "url": "https://www.20minutes.fr/sante/4254896-20261016-presidentielle-2027-ligue-contre-cancer-degaine-12-propositions-concretes-lutte-plus-efficace?at_medium=display&at_campaign=149",
@@ -50,26 +110,6 @@
       "date": "2026-10-16T09:38:57+00:00",
       "date_formatted": "16 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Subventionner les énergies fossiles», c’est «subventionner le suicide», alerte le chef de l’ONU",
-      "desc": "Peu avant la COP17 en Arménie et à quelques semaines de son départ du secrétariat général des Nations Unies, António Guterres a déclaré ce vendredi que les hydrocarbures étaient un «fléau».",
-      "url": "https://www.liberation.fr/environnement/climat/subventionner-les-energies-fossiles-cest-subventionner-le-suicide-alerte-le-chef-de-lonu-20261016_7SDFHT2FMNBLDCDXCN4GLRL6DM/",
-      "image": null,
-      "date": "2026-10-16T09:13:05+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Tabac, alcool, vaccination contre les papillomavirus… La Ligue contre le cancer dévoile 12 mesures concrètes pour «relever le défi» de la maladie",
-      "desc": "Selon l’association, quatre cancers sur dix pourraient être évités grâce à la modification de nos comportements et de nos modes de vie, alors que le nombre de cas est en constante augmentation.",
-      "url": "https://www.liberation.fr/societe/sante/tabac-alcool-vaccination-contre-les-papillomavirus-la-ligue-contre-le-cancer-devoile-12-mesures-concretes-pour-relever-le-defi-de-la-maladie-20261016_ZT2Y3XUUKBDRZNO5A6WYX2ZYK4/",
-      "image": null,
-      "date": "2026-10-16T08:52:20+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -91,16 +131,6 @@
       "date_formatted": "16 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Turquie : trois morts et six disparus à Istanbul après des pluies torrentielles",
-      "desc": "Des averses violentes touchent le pays depuis mercredi 14 octobre, dans un épisode d’une intensité rare. Au moins trois personnes ont péri et six autres sont portées disparues.",
-      "url": "https://www.liberation.fr/international/moyen-orient/turquie-trois-morts-et-six-disparus-a-istanbul-apres-des-pluies-torrentielles-20261016_GMQ2BAVSTVD2FJCKW2RZXSNJZY/",
-      "image": null,
-      "date": "2026-10-16T07:29:20+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Tabac, alcool, dépistage... La Ligue contre le cancer avance \"12 propositions concrètes pour rendre notre politique anti-cancer plus efficace\"",
@@ -233,16 +263,6 @@
       "type": "science"
     },
     {
-      "title": "Budget 2027 : des associations de patients demandent de ne pas céder face au lobby des industriels sur l'élargissement de la taxe sur les produits sucrés",
-      "desc": "Cette mobilisation des industriels \"nous interroge, alors même que ces acteurs affichent par ailleurs leur engagement en faveur d'une alimentation plus saine\", relèvent plusieurs associations, dont la Ligue contre le cancer, jeudi, dans une lettre ouverte aux parlementaires.",
-      "url": "https://www.franceinfo.fr/sante/budget-2027-des-associations-de-patients-demandent-de-ne-pas-ceder-face-au-lobby-des-industriels-sur-l-elargissement-de-la-taxe-sur-les-produits-sucres_8238187.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/9P4QJHS51g8qRokDIRxnv8LH0BY/0x520:5000x3333/432x243/filters:format(jpg)/2026/10/15/6ad05f5079256071626902.jpg",
-      "date": "2026-10-15T07:07:59+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Les métiers de plein air sont exposés à des risques de cancers de la peau",
       "desc": "Les très longues expositions au soleil liées à certaines professions sont dangereuses pour la santé",
       "url": "https://www.20minutes.fr/sante/4254454-20261015-metiers-plein-air-exposes-risques-cancers-professionnels?at_medium=display&at_campaign=149",
@@ -281,16 +301,6 @@
       "date_formatted": "14 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Sortir les cheveux mouillés, ça enrhume vraiment ?",
-      "desc": "Le rhume est causé par des virus, pas par des cheveux humides. Une étude suggère toutefois qu'un coup de froid pourrait favoriser l'apparition des symptômes chez certaines personnes",
-      "url": "https://www.20minutes.fr/tempo/bien-etre/4254045-20261014-sortir-cheveux-mouilles-ca-enrhume-vraiment?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/m-kNwiorQPCw5PV8k_3Xuik/1200x768_sortir-les-cheveux-mouilles-ca-enrhume-vraiment",
-      "date": "2026-10-14T11:57:36+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Record d'accidents du travail mortels en 2025",
@@ -341,16 +351,6 @@
       "date_formatted": "13 October 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Privée de la moitié de son salaire après un cancer du sein, elle doit rembourser 8.000 euros à son employeur",
-      "desc": "Une Française de 29 ans, soignée pour un cancer du sein, a perdu la moitié de son salaire et doit rembourser 8.000 euros à son employeur, rapporte « actu.fr »",
-      "url": "https://www.20minutes.fr/sante/4254022-20261013-privee-moitie-salaire-apres-cancer-sein-doit-rembourser-8-000-euros-employeur?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/bd7OkYQrTTaroziwu5JhDik/1200x768_privee-de-ses-indemnites-maladie-une-jeune-femme-doit-rembourser-8-000-euros-a-son-employeur-suisse",
-      "date": "2026-10-13T15:02:36+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "« Nous demandons à la Commission européenne de surseoir au projet de directive sur le marché de micro-organismes génétiquement modifiés »",
@@ -410,16 +410,6 @@
       "date": "2026-10-13T06:30:06+00:00",
       "date_formatted": "13 October 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "« Incroyablement tôt » : la grippe prend de l'avance et une mutation du virus inquiète les chercheurs",
-      "desc": "Le virus de la grippe semble bien pressé cette année. Déjà active dans l'hémisphère Nord, sa circulation est anormalement élevée et une mutation émergente du H1N1 inquiète d'autant plus qu'elle réduit l'efficacité de certains anticorps. Doit-on craindre une saison particulièrement précoce et la...",
-      "url": "https://www.futura-sciences.com/sante/actualites/grippe-incroyablement-tot-grippe-prend-avance-mutation-virus-inquiete-chercheurs-138421/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/2/6/5265df8de6_50261862_6-grippe.jpg",
-      "date": "2026-10-13T05:03:42+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -573,16 +563,6 @@
       "type": "science"
     },
     {
-      "title": "Soupçon de peste en Russie : les autorités nient l'instauration de mesures sanitaires",
-      "desc": "La Russie a nié mardi l'instauration de mesures sanitaires en Sibérie après la mort d'une laborantine d'un institut de lutte contre la peste, réagissant à l'offre d'assistance de Donald Trump.",
-      "url": "https://www.sciencesetavenir.fr/sante/soupcon-de-peste-en-russie-les-autorites-nient-l-instauration-de-mesures-sanitaires_195231?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/07/cover-r4x3w1200-6ac57b957c495-4333b690083e3e14199aeee05f92b55b0fb8b164-jpg.jpg",
-      "date": "2026-10-06T14:52:19+00:00",
-      "date_formatted": "6 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Au Nigeria, une stratégie innovante associe vaccination et nutrition préventive pour augmenter la couverture vaccinale des enfants",
       "desc": "Au Nigeria, la sous-nutrition et les maladies infectieuses constituent une double menace pour la survie de l'enfant, en particulier dans les zones où le fardeau de la malnutrition est élevé et les couvertures vaccinales faibles. Face à ce double enjeu de santé publique, des scientifiques et des huma",
       "url": "https://presse.inserm.fr/au-nigeria-une-strategie-innovante-associe-vaccination-et-nutrition-preventive-pour-augmenter-la-couverture-vaccinale-des-enfants/73337/",
@@ -659,16 +639,6 @@
       "image": null,
       "date": "2026-07-23T14:01:16+00:00",
       "date_formatted": "23 July 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une technique innovante de repositionnement de médicament identifie une molécule utilisée pour l’hypertension comme potentiel traitement pour deux maladies neuro-dégénératives",
-      "desc": "Des chercheurs de l’Inserm et de l’Université Évry Paris-Saclay au sein d'I-Stem, l’un des leaders européens de la recherche dans le domaine des cellules souches, ont développé une approche innovante cartographiant l’ensemble des effets biologiques des principes actifs de certains médicaments déjà s",
-      "url": "https://presse.inserm.fr/une-technique-innovante-de-repositionnement-de-medicament-identifie-une-molecule-utilisee-pour-lhypertension-comme-potentiel-traitement-pour-deux-maladies-neuro-degeneratives/73104/",
-      "image": null,
-      "date": "2026-07-21T08:00:02+00:00",
-      "date_formatted": "21 July 2026",
       "source": "Inserm",
       "type": "science"
     }
