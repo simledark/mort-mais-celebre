@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-17T01:51:46.213963+00:00",
+  "generated_at": "2026-10-17T09:49:12.038546+00:00",
   "count": 60,
   "articles": [
+    {
+      "title": "Comment savoir si on a de la fièvre quand on n'a pas de thermomètre ?",
+      "desc": "C’est l’automne et la saison des virus a déjà commencé. Si vous vous sentez fébrile, le seul moyen fiable de mesurer votre température, c’est le thermomètre. Mais si vous n’en avez pas sous la main, voici quelques astuces qui vous permettront d’avoir des indices.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/comment-savoir-si-on-a-de-la-fievre-quand-on-n-a-pas-de-thermometre_8220616.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/PnaHCpWA0g5W2KuVrxfed1MZWIE/0x82:2121x1275/432x243/filters:format(jpg)/2026/10/15/6ad09f169fcc8083541777.jpg",
+      "date": "2026-10-17T10:00:04+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Longévité : l'habitude qui expliquerait la forme exceptionnelle de l'acteur Dick Van Dyke à plus de 90 ans",
+      "desc": "Les personnes optimistes vivent en moyenne plus longtemps, selon plusieurs grandes études d'observation. Dans l'une d'elles, les plus optimistes vivaient 11 à 15 % plus longtemps que les moins optimistes. Ces travaux montrent une association, pas un lien de cause à effet, et l'optimisme n'est...",
+      "url": "https://www.futura-sciences.com/sante/actualites/longevite-longevite-habitude-expliquerait-forme-exceptionnelle-acteur-dick-van-dyke-plus-90-ans-k2m6-138595/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/1/f/31f6854366_50262123_optimisme-longevite.jpg",
+      "date": "2026-10-17T10:00:00+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Top des ventes de la semaine : lisez jeunesse !",
+      "desc": "Octobre est propice aux sorties d’albums et aux BD : «Lou ! Sonata 3», «Le Petit Nicolas» ou encore «Mortelle Adèle» sont sur les rangs.",
+      "url": "https://www.liberation.fr/culture/livres/top-des-ventes-de-la-semaine-lisez-jeunesse-20261017_R46HTTPMLJCVFH3ML6KRGLLFIA/",
+      "image": null,
+      "date": "2026-10-17T08:55:00+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer : bien avant les pertes de mémoire, ce signal discret dans votre bouche pourrait être le tout premier symptôme",
+      "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-bien-avant-pertes-memoire-ce-signal-discret-votre-bouche-pourrait-etre-tout-premier-symptome-w2t8-138584/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/e/c/2ec5a0fdcc_50262113_alzheimer-bacterie-bouche.jpg",
+      "date": "2026-10-17T08:00:00+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Cigarette électronique : une découverte inquiétante sur les virus et les défenses de vos poumons",
       "desc": "Se laver les mains régulièrement, éviter d'embrasser un proche enrhumé, aérer plusieurs fois par jour… Avec le retour des virus de l’automne, chacun retrouve ses habitudes de protection. Mais si vous vapotez, même de façon modérée, vous êtes-vous déjà demandé ce qui se passe au plus profond de...",
@@ -203,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Vous allez forcer certains gros industriels à mettre des choses pas forcément bonnes…\" : la taxe sucre votée mercredi inquiète le secteur",
-      "desc": "Pour l'exécutif, il s'agit d'un moyen de lutter contre les maladies chroniques liées à la nutrition : des députés ont approuvé mercredi l'extension de la fiscalité sur les produits sucrés. Les entreprises normandes de l'agroalimentaire s'inquiètent de la conséquence d'une hausse des prix pour les co",
-      "url": "https://www.franceinfo.fr/economie/commerce/vous-allez-forcer-certains-gros-industriels-a-mettre-des-choses-pas-forcement-bonnes-la-taxe-sucre-votee-mercredi-inquiete-le-secteur_8238472.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/AwS2y-K2ZwWFfWRu2F6TUcMvulE/114x0:1093x551/432x243/filters:format(jpg)/2026/10/15/6ad098ff79ad3678875629.jpg",
-      "date": "2026-10-15T11:12:51+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Arrêts maladie : Le gouvernement veut « moins protéger les arrêts courts » pour faire une grosse économie",
       "desc": "Face au nombre d’arrêts maladie, le ministre du Travail assure vouloir « moins » les « protéger » lorsqu’ils sont courts alors que les partenaires sociaux doivent trouver un accord sur une réforme structurelle de leur prise en charge d’ici décembre",
       "url": "https://www.20minutes.fr/sante/4254490-20261015-arrets-maladie-gouvernement-veut-moins-proteger-arrets-courts-faire-grosse-economie?at_medium=display&at_campaign=149",
@@ -283,7 +313,7 @@
       "type": "science"
     },
     {
-      "title": "Octobre rose : les accusations de Mathilde Panot reposent-elles sur des faits avérés ?",
+      "title": "Octobre rose : les accusations de Mathilde Panot reposent-elles sur des faits avérés ?",
       "desc": "Implication du lobby des pesticides, lien avec la guerre à Gaza, duplicité des élus porteurs du ruban rose… La députée « insoumise » accuse la campagne de sensibilisation au cancer du sein de « cynisme absolu ». Si elle s’appuie sur des faits attestés, elle effectue des raccourcis.",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/13/octobre-rose-les-accusations-de-mathilde-panot-reposent-elles-sur-des-faits-averes_6793172_4355770.html",
       "image": "https://img.lemde.fr/2026/10/07/666/0/8000/4000/644/322/60/0/a5b8ef1_upload-1-pswbnywpceqx-jmug261006019.jpg",
@@ -340,26 +370,6 @@
       "date": "2026-10-13T14:50:39+00:00",
       "date_formatted": "13 October 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Alzheimer : la véritable origine des dégâts cérébraux ne serait pas dans le cerveau, mais dans...",
-      "desc": "Chez la souris, une partie des dégâts cérébraux liés à la protéine tau serait orchestrée hors du cerveau, dans les ganglions lymphatiques du cou. Des cellules immunitaires y sont activées avant de migrer vers le cerveau, où elles contribuent à la mort des neurones. Supprimer ces cellules a...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-veritable-origine-degats-cerebraux-ne-serait-pas-cerveau-mais-dans-k2m6-138456/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/d/a/eda0e17bd6_50261917_alzheimer-lymphocytes-t.jpg",
-      "date": "2026-10-13T10:00:00+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "20 millions de personnes pourraient avoir ce type de diabète longtemps resté méconnu",
-      "desc": "Longtemps réduite aux types 1 et 2, la compréhension du diabète s’élargit. La reconnaissance d’un nouveau type pousse à revoir notre façon de classer et de comprendre cette maladie complexe.",
-      "url": "https://www.futura-sciences.com/sante/actualites/medecine-20-millions-personnes-pourraient-avoir-ce-type-diabete-longtemps-reste-meconnu-w2t8-138448/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/8/8/d887b78f53_50261903_diabete-type-5.jpg",
-      "date": "2026-10-13T08:00:00+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -461,16 +471,6 @@
       "date_formatted": "9 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "« Nous oublions la polio parce que la vaccination fonctionne, mais elle n’est pas éradiquée dans le monde »",
-      "desc": "Dans une récente étude, des chercheurs ont constaté un recul de la couverture vaccinale en Europe, notamment contre la poliomyélite. L’experte en santé internationale Véronique Inès Thouvenot rappelle, dans une tribune au « Monde », qu’il faut rester vigilant car, sans vaccination, des maladies deve",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/09/nous-oublions-la-polio-parce-que-la-vaccination-fonctionne-mais-elle-n-est-pas-eradiquee-dans-le-monde_6790547_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
-      "date": "2026-10-09T11:30:02+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer du sein : la présidente de l’Inca démêle le vrai du faux",
