@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-17T14:32:09.738877+00:00",
-  "count": 63,
+  "generated_at": "2026-10-17T19:46:15.057775+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title": "Patient bizarre : il pensait avoir une tumeur aux poumons mais l'opération a révélé quelque chose de beaucoup plus incongru",
+      "desc": "Transporté d'urgence à l'hôpital avec un poumon affaissé, un homme est rentré chez lui avec un diagnostic insolite dont il se souviendra toute sa vie.",
+      "url": "https://www.futura-sciences.com/sante/actualites/poumons-patient-bizarre-il-pensait-avoir-tumeur-poumons-mais-operation-revele-quelque-chose-beaucoup-plus-incongru-138588/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/e/8/2e8fe5eeed_50262119_homme-toux.jpg",
+      "date": "2026-10-17T20:01:54+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Un homme se suicide en se jetant du haut de l’Arc de Triomphe",
+      "desc": "Agé de 22 ans, le jeune homme a mis fin à ses jours en se jetant du haut du célèbre monument parisien, samedi 17 octobre en début d’après-midi.",
+      "url": "https://www.liberation.fr/societe/police-justice/un-homme-se-suicide-en-se-jetant-du-haut-de-larc-de-triomphe-20261017_OKLEUL7MUZCTRJUHHT3SX7WUOE/",
+      "image": null,
+      "date": "2026-10-17T19:03:04+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les personnes les plus épanouies après 60 ans partageraient 5 habitudes bien précises, selon les spécialistes",
+      "desc": "Le bien-être ne décline pas avec l'âge, au contraire. Dans plusieurs pays, les personnes de plus de 60 ans figurent désormais parmi les plus satisfaites de leur vie, en partie parce que le moral des jeunes s'est nettement dégradé. Des psychologues y voient l'effet d'un changement de priorités...",
+      "url": "https://www.futura-sciences.com/sante/actualites/psychologie-personnes-plus-epanouies-apres-60-ans-partageraient-5-habitudes-bien-precises-selon-specialistes-k2m6-138602/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/5/9/c591d7d43a_50262137_etat-esprit-vieillir.jpg",
+      "date": "2026-10-17T18:00:00+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Un pansement capable d'attaquer les bactéries et de régénérer la peau ? Une innovation médicale se prépare",
       "desc": "Des chercheurs allemands de l’Institut Fraunhofer pour les technologies et systèmes céramiques (IKTS) ont développé un dispositif innovant combinant virus antibactériens, protéines régénératrices et nanomatériaux antiseptiques. Cette approche prometteuse pourrait soigner efficacement les plaies...",
@@ -363,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Attention à votre santé, des métaux lourds se cachent dans l'encre de vos tatouages",
-      "desc": "L'encre d'un tatouage ne reste pas confinée à la peau. Une partie migre vers les ganglions lymphatiques, où elle s'accumule et entretient une réaction immunitaire. Chez la souris, elle modifie même la réponse à certains vaccins. Le lien avec le cancer reste en revanche incertain, les études...",
-      "url": "https://www.futura-sciences.com/sante/actualites/systeme-immunitaire-attention-votre-sante-metaux-lourds-cachent-encre-vos-tatouages-k2m6-138476/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/a/7/8a7039fdf7_50261942_metaux-lourds-tatouages.jpg",
-      "date": "2026-10-13T18:00:00+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Carole Fritz, archéologue et préhistorienne, grande amoureuse de l’art pariétal, est morte",
       "desc": "La chercheuse dirigeait depuis 2018 l’étude pluridisciplinaire de l’exceptionnelle grotte Chauvet, en Ardèche. Elle s’est éteinte le 30 septembre, à l’âge de 60 ans.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/10/13/carole-fritz-archeologue-et-prehistorienne-grande-amoureuse-de-l-art-parietal-est-morte_6793109_3382.html",
@@ -440,16 +460,6 @@
       "date": "2026-10-12T14:40:34+00:00",
       "date_formatted": "12 October 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Le secret de longévité de Jonathan, une tortue de 194 ans de l’île de Sainte-Hélène, caché dans son ADN",
-      "desc": "Contemporain de Charles Darwin et de la reine Victoria, le doyen supposé des animaux terrestres devrait son éternelle jeunesse à ses mitochondries, notamment.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/12/le-secret-de-longevite-de-jonathan-une-tortue-de-194-ans-de-l-ile-de-sainte-helene-cache-dans-son-adn_6792600_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/09/500/0/4000/2000/644/322/60/0/1c93121_upload-1-6f5fqmg7dqkv-jonathan-pic-1-24.jpg",
-      "date": "2026-10-12T11:00:01+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
