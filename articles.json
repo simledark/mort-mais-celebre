@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-17T09:49:12.038546+00:00",
-  "count": 60,
+  "generated_at": "2026-10-17T14:32:09.738877+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title": "Un pansement capable d'attaquer les bactéries et de régénérer la peau ? Une innovation médicale se prépare",
+      "desc": "Des chercheurs allemands de l’Institut Fraunhofer pour les technologies et systèmes céramiques (IKTS) ont développé un dispositif innovant combinant virus antibactériens, protéines régénératrices et nanomatériaux antiseptiques. Cette approche prometteuse pourrait soigner efficacement les plaies...",
+      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-pansement-capable-attaquer-bacteries-regenerer-peau-innovation-medicale-prepare-138514/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/4/1/0417e453c4_50262018_pansement-nanofibreuxgif.jpg",
+      "date": "2026-10-17T14:07:21+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Après son opération, Léon XIV «jugé apte» à quitter l’hôpital",
+      "desc": "Le souverain pontife devait quitter ce samedi en début d’après-midi la polyclinique où il s’est fait opérer d’une tumeur cancéreuse au poumon, ont annoncé le même jour ses médecins. Son voyage en novembre en Amérique du Sud reste en suspens.",
+      "url": "https://www.liberation.fr/societe/religions/apres-son-operation-leon-xiv-juge-apte-a-quitter-lhopital-20261017_IQXK3FLFZFBPNDFXB4JV5QMSKA/",
+      "image": null,
+      "date": "2026-10-17T13:30:57+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« L’impression que mon corps s’éteint »… Des JO à une vie alitée, la terrible maladie qui touche l’athlète Beth Dobbin",
+      "desc": "La Britannique Beth Dobbin révèle dans une interview à la BBC être atteinte du syndrome de fatigue chronique",
+      "url": "https://www.20minutes.fr/sport/athletisme/4255191-20261017-impression-corps-eteint-jo-vie-alitee-terrible-maladie-touche-athlete-beth-dobbin?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/1lp5ilLtS3qEbPWxQD3Bnik/1200x768_credit-obligatoire-photo-de-patrick-khachfe-jmp-shutterstock-13074769bl-beth-dobbin-regarde-apres-avoir-termine-sa-demi-finale-du-200-m-feminin-en-troisieme-place-athletisme-jeux-du-commonwealth-de-birmingham-2022-royaume-uni-05-aout-2022-shutterstock-editorial-athletics-birmingham-2022-com-13074769bl-2208071835",
+      "date": "2026-10-17T12:12:34+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Lamia El Aaraje et Julien Parelon, un couple face à la maladie de Charcot : «Elle est devenue mon punching-ball alors qu’elle faisait tout pour moi»",
+      "desc": "La première adjointe à la mairie de Paris et son époux retracent, dans le livre «les Empêchés», paru jeudi 15 octobre, leur combat face à la pathologie neurodégénérative. Lui en tant que malade et elle en tant qu’aidante. «Libé» les a rencontrés.",
+      "url": "https://www.liberation.fr/societe/sante/elle-est-devenue-mon-punching-ball-lamia-el-aaraje-et-julien-parelon-livrent-le-quotidien-dun-couple-face-a-la-maladie-de-charcot-20261017_GZ5GABPRSZGWXIVDGJK4I7GG3Y/",
+      "image": null,
+      "date": "2026-10-17T11:30:00+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Air irrespirable, brouillards et incendies inarrêtables… L’Asie du Sud-Est en proie aux flammes",
+      "desc": "Après la mort de quatre hommes jeudi dans des feux de forêt en Indonésie, le brouillard toxique perturbe la vie de toute l’Asie du Sud-Est. Le niveau d’alerte maximal concernant la qualité de l’air a été déclenché",
+      "url": "https://www.20minutes.fr/monde/4255176-20261017-air-irrespirable-brouillards-incendies-inarretables-asie-sud-proie-flammes?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/3agtM--rTlCaF67D1-J1xSk/1200x768_des-automobilistes-circulent-sur-une-route-alors-que-la-brume-des-feux-de-foret-recouvre-la-ville-de-palembang-dans-le-sud-de-sumatra-en-indonesie-le-15-octobre-2026-l-agence-indonesienne-de-meteorologie-de-climatologie-et-de-geophysique-rapporte-que-la-qualite-de-l-air-est-tombee-a-des-niveaux-dangereux-a-palembang-la-brume-provenant-des-incendies-contenant-des-gaz-polluants-et-des-particules-en-suspension-dans-l-air-a-depasse-les-zones-touchees-pour-atteindre-les-zones-residentielles-de-l-indonesie-et-les-pays-voisins-notamment-la-malaisie-et-singapour-photo-de-muhammad-fajri-nur-photo-photo-de-muhammad-fajri-nur-photo-via-afp",
+      "date": "2026-10-17T11:07:59+00:00",
+      "date_formatted": "17 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Comment savoir si on a de la fièvre quand on n'a pas de thermomètre ?",
       "desc": "C’est l’automne et la saison des virus a déjà commencé. Si vous vous sentez fébrile, le seul moyen fiable de mesurer votre température, c’est le thermomètre. Mais si vous n’en avez pas sous la main, voici quelques astuces qui vous permettront d’avoir des indices.",
@@ -21,16 +71,6 @@
       "date_formatted": "17 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Top des ventes de la semaine : lisez jeunesse !",
-      "desc": "Octobre est propice aux sorties d’albums et aux BD : «Lou ! Sonata 3», «Le Petit Nicolas» ou encore «Mortelle Adèle» sont sur les rangs.",
-      "url": "https://www.liberation.fr/culture/livres/top-des-ventes-de-la-semaine-lisez-jeunesse-20261017_R46HTTPMLJCVFH3ML6KRGLLFIA/",
-      "image": null,
-      "date": "2026-10-17T08:55:00+00:00",
-      "date_formatted": "17 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Alzheimer : bien avant les pertes de mémoire, ce signal discret dans votre bouche pourrait être le tout premier symptôme",
@@ -261,16 +301,6 @@
       "date_formatted": "15 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Les métiers de plein air sont exposés à des risques de cancers de la peau",
-      "desc": "Les très longues expositions au soleil liées à certaines professions sont dangereuses pour la santé",
-      "url": "https://www.20minutes.fr/sante/4254454-20261015-metiers-plein-air-exposes-risques-cancers-professionnels?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/OOFIuZ8GSKukCrH4Bn4lESk/1200x768_photo-illustration-soleil-et-canicule-allilimourad-allili0262-credit-mourad-allili-sipa-2307081121",
-      "date": "2026-10-15T05:41:45+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Parkinson : après des années de tremblements incontrôlables, ce patient de 72 ans voit tout disparaître en quelques minutes",
