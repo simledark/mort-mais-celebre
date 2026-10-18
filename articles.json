@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-18T10:00:54.085798+00:00",
-  "count": 60,
+  "generated_at": "2026-10-18T14:59:27.044761+00:00",
+  "count": 51,
   "articles": [
+    {
+      "title": "Bloquer l’anxiété avec de la lumière ?",
+      "desc": "Des chercheurs français ont découvert, entre deux zones du cerveau, un circuit qui déclenche l’anxiété quand il est activé. Quand on le bloque pendant une situation stressante, l’anxiété n’apparaît pas. Avec l’optogénétique, la technique récompensée par le prix Nobel de médecine 2026, on pourrait un",
+      "url": "https://www.franceinfo.fr/sante/bloquer-l-anxiete-avec-de-la-lumiere_8240749.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/0TmNCIiGT2qM0ckTNzWdVqyf5yw/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad250b736b18482747018.jpg",
+      "date": "2026-10-18T16:00:01+00:00",
+      "date_formatted": "18 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Léon XIV après son hospitalisation pour un cancer du poumon : «Je vais reprendre progressivement mes activités»",
+      "desc": "Le pape a pris la parole ce dimanche 18 octobre depuis la fenêtre du palais apostolique à Rome. S’adressant à la foule, il a remercié les fidèles pour leurs prières lors de sa première apparition officielle depuis l’annonce de son cancer.",
+      "url": "https://www.liberation.fr/societe/religions/leon-xiv-apres-son-hospitalisation-pour-un-cancer-du-poumon-je-vais-reprendre-progressivement-mes-activites-20261018_LBBS2YURHRBDNPD3J7QAGZ4HIQ/",
+      "image": null,
+      "date": "2026-10-18T14:33:58+00:00",
+      "date_formatted": "18 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au Hangar de Bruxelles, la photo a 200 ans et invente de nouveaux objectifs",
+      "desc": "A l’occasion du bicentenaire de la photographie, vingt artistes explorent l’avenir de leur médium dans une exposition où les images disparaissent au profit d’une méditation sur leur fabrication.",
+      "url": "https://www.liberation.fr/culture/photographie/au-hangar-de-bruxelles-la-photo-a-200-ans-et-invente-de-nouveaux-objectifs-20261018_VXB4PSGK3RG4TCZLQ2ULMT2CP4/",
+      "image": null,
+      "date": "2026-10-18T13:40:00+00:00",
+      "date_formatted": "18 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Paroles de lycéens : «C’est choquant d’entendre des garçons de mon âge dire que l’homme est supérieur à la femme»",
+      "desc": "Au-delà de la mobilisation, comment vont et vivent les adolescents ? «Libé» donne la parole à des élèves de toute la France. Samar, 15 ans, en seconde à Chambéry, en Savoie, raconte comment le féminisme est essentiel dans sa construction.",
+      "url": "https://www.liberation.fr/societe/education/paroles-de-lyceens-cest-choquant-dentendre-des-garcons-de-mon-age-dire-que-lhomme-est-superieur-a-la-femme-20261018_FI7X42DO2FHCXOJESL2QEHQX5M/",
+      "image": null,
+      "date": "2026-10-18T10:30:00+00:00",
+      "date_formatted": "18 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Cancer : 103 000 cas supplémentaires seraient liés aux scanners, faut-il vraiment limiter leur usage dès maintenant ?",
       "desc": "Faut-il mieux réguler le recours aux examens d’imagerie de type scanner ? C’est ce que suggère une étude qui pointe du doigt les conséquences potentiellement néfastes d’un cumul d’expositions aux rayons X.",
@@ -11,16 +51,6 @@
       "date_formatted": "18 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Paroles de lycéens : «J’ai commencé à avoir tout le temps peur de la mort»",
-      "desc": "Au-delà de la mobilisation, comment vont et vivent les adolescents ? «Libé» donne la parole à des élèves de toute la France. Lilia, 17 ans, élève à Paris, raconte une enfance marquée par le contexte lourd des attentats et du Covid.",
-      "url": "https://www.liberation.fr/societe/paroles-de-lyceens-jai-commence-a-avoir-tout-le-temps-peur-de-la-mort-20261018_YGY4MZAKWFGN5HGLSGY4VLDDJE/",
-      "image": null,
-      "date": "2026-10-18T06:00:00+00:00",
-      "date_formatted": "18 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Diabète : votre voix pourrait révéler la maladie sans que vous le sachiez, grâce à une IA qui l'analyse en 20 secondes",
@@ -41,16 +71,6 @@
       "date_formatted": "17 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Un homme se suicide en se jetant du haut de l’Arc de Triomphe",
-      "desc": "Agé de 22 ans, le jeune homme a mis fin à ses jours en se jetant du haut du célèbre monument parisien, samedi 17 octobre en début d’après-midi.",
-      "url": "https://www.liberation.fr/societe/police-justice/un-homme-se-suicide-en-se-jetant-du-haut-de-larc-de-triomphe-20261017_OKLEUL7MUZCTRJUHHT3SX7WUOE/",
-      "image": null,
-      "date": "2026-10-17T19:03:04+00:00",
-      "date_formatted": "17 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Les personnes les plus épanouies après 60 ans partageraient 5 habitudes bien précises, selon les spécialistes",
@@ -150,16 +170,6 @@
       "date": "2026-10-16T15:04:58+00:00",
       "date_formatted": "16 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'Assurance-maladie alerte sur l'explosion des prescriptions de Ritaline en Ile-de-France pour traiter le TDAH",
-      "desc": "Ce médicament est utilisé chez les patients souffrant de trouble du déficit de l'attention avec ou sans hyperactivité. Il doit normalement être prescrit pour la première fois par un spécialiste : pédiatre, neurologue ou psychiatre.",
-      "url": "https://www.franceinfo.fr/sante/handicap/l-assurance-maladie-alerte-sur-l-explosion-des-prescriptions-de-ritaline-en-ile-de-france-pour-traiter-le-tdah_8240278.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/9Y0Vjd-hD1-AS3P9uM8hK3LsjaQ/0x0:1024x576/432x243/filters:format(jpg)/2026/10/16/6ad214ff9c6df576806984.jpg",
-      "date": "2026-10-16T14:16:06+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -313,16 +323,6 @@
       "type": "science"
     },
     {
-      "title": "Record d'infections en France : ce virus transmis par les moustiques inquiète, d'autant qu'il n'existe aucun vaccin !",
-      "desc": "Longtemps cantonné à certaines régions du monde, le virus du Nil occidental s’installe progressivement en France. Transmis par un moustique très commun, il a déjà provoqué des dizaines de formes neurologiques graves et plusieurs décès. Et le plus inquiétant, selon les scientifiques, c’est que le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-record-infections-france-ce-virus-transmis-moustiques-inquiete-autant-quil-nexiste-aucun-vaccin-138559/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/b/8/fb8a201b6c_50262077_culex-pipiens.jpg",
-      "date": "2026-10-14T17:08:45+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Record d'accidents du travail mortels en 2025",
       "desc": "Les accidents du travail ont fait 783 morts en 2025 dans le secteur privé, soit 19 de plus qu’en 2024, déjà une année record. Au total, 1331 décès sont liés aux accidents du travail, de trajet et aux maladies professionnelles, selon l’Assurance maladie, qui alerte également sur la hausse des sinistr",
       "url": "https://www.sciencesetavenir.fr/sante/le-record-d-accidents-du-travail-mortels-en-2025-confirme-par-l-assurance-maladie_195373?xtor=RSS-16",
@@ -411,16 +411,6 @@
       "date_formatted": "12 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Soupçon de cas de peste : mode de transmission, traitements… que sait-on de cette maladie ?",
-      "desc": "Alors que le cas d’une laborantine russe qui serait décédée de la peste en Russie fait la Une de nombreux médias, que l’intérêt pour le mot-clé « peste » sur Google a été multiplié par plus de 10 en une semaine et qu’une partie de la sphère complotiste s’est emparée du sujet, Canal détox fait le poi",
-      "url": "https://presse.inserm.fr/canal-detox/soupcon-de-cas-de-peste-mode-de-transmission-traitements-que-sait-on-de-cette-maladie/",
-      "image": null,
-      "date": "2026-10-12T14:40:34+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Inserm",
-      "type": "science"
     },
     {
       "title": "Grippe et Covid: coup d'envoi de la nouvelle campagne de vaccination",
@@ -520,86 +510,6 @@
       "date": "2026-10-07T13:43:34+00:00",
       "date_formatted": "7 October 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Au Nigeria, une stratégie innovante associe vaccination et nutrition préventive pour augmenter la couverture vaccinale des enfants",
-      "desc": "Au Nigeria, la sous-nutrition et les maladies infectieuses constituent une double menace pour la survie de l'enfant, en particulier dans les zones où le fardeau de la malnutrition est élevé et les couvertures vaccinales faibles. Face à ce double enjeu de santé publique, des scientifiques et des huma",
-      "url": "https://presse.inserm.fr/au-nigeria-une-strategie-innovante-associe-vaccination-et-nutrition-preventive-pour-augmenter-la-couverture-vaccinale-des-enfants/73337/",
-      "image": null,
-      "date": "2026-10-02T10:00:59+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Comment nos organes savent-ils distinguer leur droite de leur gauche ?",
-      "desc": "Dans une étude publiée dans Science Advances, l'équipe de Sigolène Meilhac (Inserm, Institut Imagine, Institut Pasteur, Université Paris Cité) montre, dans un modèle murin, que le mécanisme longtemps tenu pour l'événement fondateur de l'asymétrie gauche-droite, le courant ciliaire, n'en est pas le g",
-      "url": "https://presse.inserm.fr/comment-nos-organes-savent-ils-distinguer-leur-droite-de-leur-gauche/73206/",
-      "image": null,
-      "date": "2026-09-07T12:00:01+00:00",
-      "date_formatted": "7 September 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Diabète de type 2 : de nouveaux sous-types identifiés pour mieux prédire l’évolution de la maladie",
-      "desc": "Des chercheurs et chercheuses de l’Inserm, du CNRS, et de l’Université Paris Cité décrivent pour la première fois différents profils immunitaires chez les patients atteints d’un diabète de type 2. Facilement identifiables avec une simple prise de sang, les patients avec des cellules immunitaires en ",
-      "url": "https://presse.inserm.fr/diabete-de-type-2-de-nouveaux-sous-types-identifies-pour-mieux-predire-levolution-de-la-maladie/73174/",
-      "image": null,
-      "date": "2026-09-03T08:00:08+00:00",
-      "date_formatted": "3 September 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un lien entre « jetlag alimentaire » et risque de maladies cardiovasculaires chez les hommes",
-      "desc": "Une équipe d’INRAE, de l’Inserm, de l’université Sorbonne Paris Nord, de l’université Paris Cité et du Cnam publie une première étude sur les liens entre « jetlag alimentaire » et risque de maladies cardiovasculaires. Le jetlag alimentaire correspond au décalage dans le temps entre les heures de pri",
-      "url": "https://presse.inserm.fr/un-lien-entre-jetlag-alimentaire-et-risque-de-maladies-cardiovasculaires-chez-les-hommes/73162/",
-      "image": null,
-      "date": "2026-09-01T09:14:33+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Maladie de Sjögren : une nouvelle piste pour expliquer la signature interféron des maladies auto-immunes",
-      "desc": "Des scientifiques de l'Université Paris-Saclay, de l'Inserm, du CEA, de l'AP-HP, de la fondation Arthritis et leurs partenaires internationaux identifient un mécanisme jusqu'alors inconnu expliquant l'activation chronique de l'interféron dans la maladie de Sjögren, un modèle de maladie auto-immune s",
-      "url": "https://presse.inserm.fr/maladie-de-sjogren-une-nouvelle-piste-pour-expliquer-la-signature-interferon-des-maladies-auto-immunes/73189/",
-      "image": null,
-      "date": "2026-08-26T10:59:52+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une exposition élevée et persistante au bruit routier au début de l’enfance est associée à un risque accru de difficultés émotionnelles et relationnelles à 10 ans",
-      "desc": "En Europe, plus d’une personne sur cinq est exposée de manière chronique à des niveaux de bruit liés au transport considérés comme nocifs pour la santé; le trafic routier en constitue la principale source. Si les effets du bruit sur la santé cardiovasculaire sont relativement bien documentés, l’impa",
-      "url": "https://presse.inserm.fr/une-exposition-elevee-et-persistante-au-bruit-routier-au-debut-de-lenfance-est-associee-a-un-risque-accru-de-difficultes-emotionnelles-et-relationnelles-a-10-ans/73139/",
-      "image": null,
-      "date": "2026-08-25T07:00:59+00:00",
-      "date_formatted": "25 August 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des chercheurs lillois révèlent des variants rares du gène PLCG2 qui multiplient le risque de développer la maladie d’Alzheimer",
-      "desc": "Une équipe de chercheurs lillois de l’Inserm, de l’Université de Lille, de l’Institut Pasteur de Lille et du CHU de Lille, avec plusieurs partenaires internationaux, publie dans Nature Genetics une découverte qui éclaire les mécanismes de la maladie d’Alzheimer. PLCG2, gène déjà connu pour son assoc",
-      "url": "https://presse.inserm.fr/des-chercheurs-lillois-revelent-des-variants-rares-du-gene-plcg2-qui-multiplient-le-risque-de-developper-la-maladie-dalzheimer/73151/",
-      "image": null,
-      "date": "2026-08-24T16:04:30+00:00",
-      "date_formatted": "24 August 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
-      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
-      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
-      "image": null,
-      "date": "2026-07-23T14:01:16+00:00",
-      "date_formatted": "23 July 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
