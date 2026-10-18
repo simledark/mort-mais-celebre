@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-18T01:50:19.296852+00:00",
-  "count": 62,
+  "generated_at": "2026-10-18T10:00:54.085798+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title": "Cancer : 103 000 cas supplémentaires seraient liés aux scanners, faut-il vraiment limiter leur usage dès maintenant ?",
+      "desc": "Faut-il mieux réguler le recours aux examens d’imagerie de type scanner ? C’est ce que suggère une étude qui pointe du doigt les conséquences potentiellement néfastes d’un cumul d’expositions aux rayons X.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-103-000-cas-supplementaires-seraient-lies-scanners-faut-il-vraiment-limiter-leur-usage-maintenant-w2t8-138590/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/a/6/8a63fce8b9_50249783_cancer-malade.jpg",
+      "date": "2026-10-18T09:00:00+00:00",
+      "date_formatted": "18 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Paroles de lycéens : «J’ai commencé à avoir tout le temps peur de la mort»",
+      "desc": "Au-delà de la mobilisation, comment vont et vivent les adolescents ? «Libé» donne la parole à des élèves de toute la France. Lilia, 17 ans, élève à Paris, raconte une enfance marquée par le contexte lourd des attentats et du Covid.",
+      "url": "https://www.liberation.fr/societe/paroles-de-lyceens-jai-commence-a-avoir-tout-le-temps-peur-de-la-mort-20261018_YGY4MZAKWFGN5HGLSGY4VLDDJE/",
+      "image": null,
+      "date": "2026-10-18T06:00:00+00:00",
+      "date_formatted": "18 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Diabète : votre voix pourrait révéler la maladie sans que vous le sachiez, grâce à une IA qui l'analyse en 20 secondes",
+      "desc": "Une voix peut-elle trahir un diabète ? À partir de modifications subtiles de la parole, une intelligence artificielle prétend identifier les personnes à risque en quelques dizaines de secondes, avec des résultats jugés « cliniquement utiles ». Alors qu'un quart des personnes diabétiques en...",
+      "url": "https://www.futura-sciences.com/sante/actualites/diabete-diabete-votre-voix-pourrait-reveler-maladie-vous-sachiez-grace-ia-analyse-20-secondes-138545/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/1/c/91c7cb7349_50262070_voix-diabete-ia.jpg",
+      "date": "2026-10-18T05:28:25+00:00",
+      "date_formatted": "18 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Patient bizarre : il pensait avoir une tumeur aux poumons mais l'opération a révélé quelque chose de beaucoup plus incongru",
       "desc": "Transporté d'urgence à l'hôpital avec un poumon affaissé, un homme est rentré chez lui avec un diagnostic insolite dont il se souviendra toute sa vie.",
@@ -43,16 +73,6 @@
       "type": "science"
     },
     {
-      "title": "Après son opération, Léon XIV «jugé apte» à quitter l’hôpital",
-      "desc": "Le souverain pontife devait quitter ce samedi en début d’après-midi la polyclinique où il s’est fait opérer d’une tumeur cancéreuse au poumon, ont annoncé le même jour ses médecins. Son voyage en novembre en Amérique du Sud reste en suspens.",
-      "url": "https://www.liberation.fr/societe/religions/apres-son-operation-leon-xiv-juge-apte-a-quitter-lhopital-20261017_IQXK3FLFZFBPNDFXB4JV5QMSKA/",
-      "image": null,
-      "date": "2026-10-17T13:30:57+00:00",
-      "date_formatted": "17 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "« L’impression que mon corps s’éteint »… Des JO à une vie alitée, la terrible maladie qui touche l’athlète Beth Dobbin",
       "desc": "La Britannique Beth Dobbin révèle dans une interview à la BBC être atteinte du syndrome de fatigue chronique",
       "url": "https://www.20minutes.fr/sport/athletisme/4255191-20261017-impression-corps-eteint-jo-vie-alitee-terrible-maladie-touche-athlete-beth-dobbin?at_medium=display&at_campaign=149",
@@ -60,16 +80,6 @@
       "date": "2026-10-17T12:12:34+00:00",
       "date_formatted": "17 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Lamia El Aaraje et Julien Parelon, un couple face à la maladie de Charcot : «Elle est devenue mon punching-ball alors qu’elle faisait tout pour moi»",
-      "desc": "La première adjointe à la mairie de Paris et son époux retracent, dans le livre «les Empêchés», paru jeudi 15 octobre, leur combat face à la pathologie neurodégénérative. Lui en tant que malade et elle en tant qu’aidante. «Libé» les a rencontrés.",
-      "url": "https://www.liberation.fr/societe/sante/elle-est-devenue-mon-punching-ball-lamia-el-aaraje-et-julien-parelon-livrent-le-quotidien-dun-couple-face-a-la-maladie-de-charcot-20261017_GZ5GABPRSZGWXIVDGJK4I7GG3Y/",
-      "image": null,
-      "date": "2026-10-17T11:30:00+00:00",
-      "date_formatted": "17 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -223,16 +233,6 @@
       "type": "science"
     },
     {
-      "title": "Tabac, alcool, dépistage... La Ligue contre le cancer avance \"12 propositions concrètes pour rendre notre politique anti-cancer plus efficace\"",
-      "desc": "Quatre cancers sur dix seraient évitables en modifiant nos comportements et nos modes de vie, selon l'association, qui souhaite que \"la prévention\" devienne la \"priorité des politiques de santé\".",
-      "url": "https://www.franceinfo.fr/sante/cancer/tabac-alcool-depistage-la-ligue-contre-le-cancer-avance-12-propositions-concretes-pour-rendre-notre-politique-anti-cancer-plus-efficace_8239657.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/BnYj8W_KYKmZYdJM5gM0GCwFDbg/0x473:4800x3174/432x243/filters:format(jpg)/2026/10/16/6ad1aa38af4b4792802728.jpg",
-      "date": "2026-10-16T06:45:09+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Quand marcher est efficace, même dans les villes polluées",
       "desc": "« Dix mille pas et plus ». Si la pollution peut aggraver les symptômes ou le risque d’épisode aigu chez les patients atteints de pathologies respiratoires, l’activité physique permet néanmoins d’atténuer certains symptômes.",
       "url": "https://www.lemonde.fr/sciences/article/2026/10/16/quand-marcher-est-efficace-meme-dans-les-villes-polluees_6795146_1650684.html",
@@ -293,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Arrêts maladie : Le gouvernement veut « moins protéger les arrêts courts » pour faire une grosse économie",
-      "desc": "Face au nombre d’arrêts maladie, le ministre du Travail assure vouloir « moins » les « protéger » lorsqu’ils sont courts alors que les partenaires sociaux doivent trouver un accord sur une réforme structurelle de leur prise en charge d’ici décembre",
-      "url": "https://www.20minutes.fr/sante/4254490-20261015-arrets-maladie-gouvernement-veut-moins-proteger-arrets-courts-faire-grosse-economie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/hhkMNMGIRZ-GZaaAsufqByk/1200x768_photo-illustration-d-un-avis-d-arret-de-travail-07allilimages-sipa-06349-credit-mourad-allili-sipa-2403131228",
-      "date": "2026-10-15T08:37:20+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Face au cancer du sein, la recherche nantaise traque les failles des tumeurs",
       "desc": "En vingt ans, le nombre de femmes de moins de 40 ans touchées par un cancer du sein est passé de 2.000 à plus de 3.000 par an en France. Pourquoi ces cancers sont-ils souvent plus agressifs chez les jeunes femmes ? À Nantes, des chercheurs tentent de percer le mystère en étudiant les tumeurs cellule",
       "url": "https://www.sciencesetavenir.fr/sante/cancer-du-sein-comprendre-pourquoi-les-tumeurs-sont-plus-agressives-chez-les-jeunes-femmes_195344?xtor=RSS-16",
@@ -328,16 +318,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/virus-record-infections-france-ce-virus-transmis-moustiques-inquiete-autant-quil-nexiste-aucun-vaccin-138559/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/b/8/fb8a201b6c_50262077_culex-pipiens.jpg",
       "date": "2026-10-14T17:08:45+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Pourquoi vos parents ne se plaignent jamais : la psychologie a une explication",
-      "desc": "Les enfants du baby-boom ont grandi dans une France où l'école s'arrêtait tôt pour beaucoup et où le métier se choisissait souvent selon les besoins de la famille. Avant la réforme de 1959, l'obligation scolaire prenait fin à l'âge de 14 ans. En 1970, à peine un jeune sur cinq obtenait le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/psychologie-vos-parents-ne-plaignent-jamais-psychologie-explication-k2m6-138494/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/d/f/9df6e58274_50261984_generations-differences.jpg",
-      "date": "2026-10-14T16:00:00+00:00",
       "date_formatted": "14 October 2026",
       "source": "Futura Santé",
       "type": "science"
