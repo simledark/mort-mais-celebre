@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-10-19T02:07:06.070478+00:00",
-  "count": 59,
+  "generated_at": "2026-10-19T11:24:52.404799+00:00",
+  "count": 60,
   "articles": [
     {
-      "title": "Des familles de victimes d’accidents du travail s’organisent : «On avait un point commun : notre cœur en miettes»",
-      "desc": "Une cinquantaine de membres du «Collectif Familles : Stop à la mort au travail» étaient réunis en «séminaire», ce week-end, à Manot, en Charente, pour dénoncer un fléau qui a encore coûté la vie à 783 personnes en France en 2025.",
-      "url": "https://www.liberation.fr/economie/social/des-familles-de-victimes-daccidents-du-travail-sorganisent-on-avait-un-point-commun-notre-coeur-en-miettes-20261018_FHXCQCL4T5AWNMFCYCTJ3ODIPY/",
+      "title": "Après 60 ans : ce que la fragilité de vos os pourrait révéler sur la santé de votre cerveau",
+      "desc": "Le vieillissement est un phénomène naturel et inévitable. Il se traduit par des changements physiques et cognitifs. Dans une nouvelle étude, des chercheurs ont pour la première fois établi un lien entre un signe physique du vieillissement qui concerne de nombreuses personnes et le ralentissement...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-apres-60-ans-ce-fragilite-vos-os-pourrait-reveler-sante-votre-cerveau-138644/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/d/6/6d6db99abb_50262194_femme-douleur-dos.jpg",
+      "date": "2026-10-19T12:27:39+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT – Violences du 17 octobre : le Premier ministre demande aux préfets de «déclencher un certain nombre de couvre-feux» pour faire face au «bordel»",
+      "desc": "A l’issue d’une cellule interministérielle de crise ce lundi matin portant sur les volets «économie-commerce», «assurance» et «suivi judiciaire», Sébastien Lecornu a fait plusieurs annonces.",
+      "url": "https://www.liberation.fr/societe/en-direct-violences-du-17-octobre-sebastien-lecornu-convoque-une-reunion-crise-20261019_4DH7XPWBNZHJFHVAQ2YZQPS52Q/",
       "image": null,
-      "date": "2026-10-18T20:15:00+00:00",
-      "date_formatted": "18 October 2026",
+      "date": "2026-10-19T11:12:19+00:00",
+      "date_formatted": "19 October 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tempête «Adam» en Espagne : deux morts, la région de Valence appelée à se confiner",
+      "desc": "De fortes pluies suivies d’inondations frappent l’est du pays depuis dimanche 18 octobre. L’épisode, qui touche aussi le sud de la France, devrait se poursuivre jusqu’à mardi.",
+      "url": "https://www.liberation.fr/international/europe/tempete-adam-en-espagne-deux-morts-la-region-de-valence-appelee-a-se-confiner-20261019_JYYQLNQQUFCELEGHQ57BYH2YUA/",
+      "image": null,
+      "date": "2026-10-19T10:10:39+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ain : Atteinte d’un cancer du sein, cette enseignante retourne à l’école pour sensibiliser ses élèves",
+      "desc": "À Buellas, une professeure des écoles a trouvé une méthode originale pour sensibiliser les plus jeunes au cancer du sein, rapporte « Le Progrès »",
+      "url": "https://www.20minutes.fr/societe/4255588-20261019-ain-atteinte-cancer-sein-enseignante-retourne-ecole-sensibiliser-eleves?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/iqhxlO-OTBK84D4arISXfSk/1200x768_photo-d-illustration",
+      "date": "2026-10-19T09:55:43+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Peut-on rire du cancer du sein ? Oui, répond l’humoriste Nathalie Gallagher",
+      "desc": "« La France buissonnière ». A 50 ans, cette habitante de La Roche-sur-Yon se lance dans un seule-en-scène retraçant son combat contre la maladie. Elle y a perdu un sein, mais pas l’envie d’en découdre avec la vie.",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/10/19/peut-on-rire-du-cancer-du-sein-oui-repond-l-humoriste-nathalie-gallagher_6797483_4497916.html",
+      "image": "https://img.lemde.fr/2026/10/13/714/0/5712/2856/644/322/60/0/60d5cf8_upload-1-ppentankoxiy-img-2072.jpeg",
+      "date": "2026-10-19T06:00:46+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -21,16 +61,6 @@
       "date_formatted": "18 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Amine Kessaci avant le procès pour l’assassinat de son frère Brahim : «Je serai debout, en les regardant droit dans les yeux»",
-      "desc": "Alors que s’ouvre ce lundi 19 octobre à Aix-en-Provence le procès de cinq hommes, accusés de l’assassinat en décembre 2020 du demi-frère aîné du militant antidrogue Amine Kessaci et de deux de ses amis, ce dernier se confie à «Libé» sur le deuil familial, la politique, et les plaies qu’il craint de ",
-      "url": "https://www.liberation.fr/societe/police-justice/amine-kessaci-avant-le-proces-pour-lassassinat-de-son-frere-brahim-je-serai-debout-en-les-regardant-droit-dans-les-yeux-20261018_AA7ZKR7X7NDYVDUMY3UZL56UUY/",
-      "image": null,
-      "date": "2026-10-18T17:40:10+00:00",
-      "date_formatted": "18 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Bloquer l’anxiété avec de la lumière ?",
@@ -273,16 +303,6 @@
       "type": "presse"
     },
     {
-      "title": "Café et Parkinson : chez certaines personnes il protégerait le cerveau, chez d'autres il augmenterait le risque",
-      "desc": "Le café protégerait du risque de maladie de Parkinson : le constat revient depuis des décennies. Une étude portant sur 435 000 personnes suggère que cet effet dépendrait d'une variation génétique déterminant la vitesse à laquelle chacun élimine la caféine. Chez certains, l'association s'inverse...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-cafe-parkinson-chez-certaines-personnes-il-protegerait-cerveau-chez-autres-il-augmenterait-risque-k2m6-138526/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/2/7/027fd0f8a9_50262028_cafeine-parkinson.jpg",
-      "date": "2026-10-15T16:00:00+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Jeux d’argent : Le CHU de Nantes lance une étude pilote pour les patients souffrant d’addiction",
       "desc": "Le CHU de Nantes explore la piste de la psilocybine, un hallucinogène, pour renforcer la psychothérapie des patients souffrant d’une addiction aux jeux d’argent",
       "url": "https://www.20minutes.fr/nantes/4254648-20261015-jeux-argent-chu-nantes-lance-etude-pilote-patients-souffrant-addiction?at_medium=display&at_campaign=149",
@@ -441,16 +461,6 @@
       "date_formatted": "10 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Où sont passés les milliards d’euros promis pour lutter contre le virus Ebola en RDC ?",
-      "desc": "La lutte contre l’épidémie de maladie à virus Ebola, officiellement déclarée à la mi-mai en République démocratique du Congo, attire les promesses de dons. Pourtant, encore peu d’argent est arrivé sur le terrain. Un manque de transparence qui complique l’action des soignants.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/10/09/ou-sont-passes-les-milliards-d-euros-promis-pour-lutter-contre-l-epidemie-d-ebola-en-rdc_6790622_3212.html",
-      "image": "https://img.lemde.fr/2026/10/09/57/0/4528/2264/644/322/60/0/ecd1fec_upload-1-mxle5wcjwugd-000-d27636b.jpg",
-      "date": "2026-10-09T19:00:12+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cryothérapie, bilans biologiques hi-tech, caissons hyperbares: le tourisme de luxe capitalise sur la longévité",
