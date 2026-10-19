@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-19T11:24:52.404799+00:00",
-  "count": 60,
+  "generated_at": "2026-10-19T17:51:55.590664+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Ce trait de personnalité reviendrait sans cesse chez les personnes qui vivent jusqu'à 100 ans, selon la science",
+      "desc": "En Sardaigne, des personnes âgées vivant dans une région réputée pour sa longévité se distinguent par une plus grande ouverture d'esprit que leurs voisins d'une zone rurale comparable. Elles ne déclarent pourtant pas une meilleure qualité de vie liée à la santé. L'étude, menée sur 125 personnes,...",
+      "url": "https://www.futura-sciences.com/sante/actualites/longevite-ce-trait-personnalite-reviendrait-cesse-chez-personnes-vivent-jusqua-100-ans-selon-science-k2m6-138628/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/d/2/dd20feda40_50262174_sardaigne-longevite-centenaires.jpg",
+      "date": "2026-10-19T18:00:00+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Au Kenya, un gourou déclaré coupable d’avoir affamé jusqu’à la mort 190 enfants",
+      "desc": "Paul Mackenzie est accusé d’avoir encouragé ses disciples à mourir de faim pour «rencontrer Jésus» avant la fin du monde. Au total, plus de 400 corps ont été déterrés près des plages de Malindi.",
+      "url": "https://www.liberation.fr/international/afrique/au-kenya-un-gourou-declare-coupable-davoir-affame-jusqua-la-mort-190-enfants-20261019_SYAHAZPDNZDYBIHVHAVIEFYHWM/",
+      "image": null,
+      "date": "2026-10-19T16:36:52+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Lozère : un promeneur de 65 ans tué dimanche par un chasseur lors d’une battue aux sangliers",
+      "desc": "Les faits se sont produits sur la commune de Cassagnas, dans les Cévennes. En France, quatre personnes sont mortes dans un accident de chasse lors de la saison 2025-2026.",
+      "url": "https://www.liberation.fr/societe/lozere-un-promeneur-de-65-ans-tue-dimanche-par-un-chasseur-lors-dune-battue-aux-sangliers-20261019_5AFXY2UUYNGGTORLCU4ABPNRBQ/",
+      "image": null,
+      "date": "2026-10-19T16:26:31+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au Soudan, une escalade des frappes de drones, toujours plus meurtrières",
+      "desc": "Des bombardements de l’armée régulière ont fait plus de cent morts, essentiellement des civils, depuis vendredi 16 octobre.",
+      "url": "https://www.liberation.fr/international/afrique/au-soudan-une-escalade-des-frappes-de-drones-toujours-plus-meurtrieres-20261019_Q2D6RE32NZCNXBPW2KT5CZVDQA/",
+      "image": null,
+      "date": "2026-10-19T15:55:26+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Violences du 17 octobre : Fausses couches, règles douloureuses… Les gaz lacrymogènes nuisent-ils à la santé des femmes ?",
+      "desc": "Selon le collectif Lacrymo de sang et plusieurs études, l’utilisation de gaz lacrymogène lors de manifestations pourraient perturber les cycles menstruels. Depuis début octobre, des manifestantes évoquent des douleurs et des saignements inhabituels",
+      "url": "https://www.20minutes.fr/societe/4255597-20261019-violences-17-octobre-fausses-couches-regles-douloureuses-gaz-lacrymogenes-nuisent-sante-femmes?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/ncUY24dZQ7SIor0pZkQ4hCk/1200x768_lors-de-la-manifestation-du-1-er-mai-fete-internationale-du-travail-l-ensemble-des-organisations-syndicales-ont-appele-a-manifester-ce-lundi-1er-mai-2023-ayant-comme-principale-protestation-la-reforme-des-retraites-des-affrontements-entre-manifestants-et-police-ont-eu-lieu-du-gaz-lacrymogene-a-ete-utilise-une-femme-se-soigne-les-yeux-avec-du-serum-physiologique-lundi-1er-mai-2023-paris-accorsinijeanne-mai-0019-credit-jeanne-accorsini-sipa-2305012326",
+      "date": "2026-10-19T13:10:21+00:00",
+      "date_formatted": "19 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Après 60 ans : ce que la fragilité de vos os pourrait révéler sur la santé de votre cerveau",
       "desc": "Le vieillissement est un phénomène naturel et inévitable. Il se traduit par des changements physiques et cognitifs. Dans une nouvelle étude, des chercheurs ont pour la première fois établi un lien entre un signe physique du vieillissement qui concerne de nombreuses personnes et le ralentissement...",
@@ -11,26 +61,6 @@
       "date_formatted": "19 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT – Violences du 17 octobre : le Premier ministre demande aux préfets de «déclencher un certain nombre de couvre-feux» pour faire face au «bordel»",
-      "desc": "A l’issue d’une cellule interministérielle de crise ce lundi matin portant sur les volets «économie-commerce», «assurance» et «suivi judiciaire», Sébastien Lecornu a fait plusieurs annonces.",
-      "url": "https://www.liberation.fr/societe/en-direct-violences-du-17-octobre-sebastien-lecornu-convoque-une-reunion-crise-20261019_4DH7XPWBNZHJFHVAQ2YZQPS52Q/",
-      "image": null,
-      "date": "2026-10-19T11:12:19+00:00",
-      "date_formatted": "19 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Tempête «Adam» en Espagne : deux morts, la région de Valence appelée à se confiner",
-      "desc": "De fortes pluies suivies d’inondations frappent l’est du pays depuis dimanche 18 octobre. L’épisode, qui touche aussi le sud de la France, devrait se poursuivre jusqu’à mardi.",
-      "url": "https://www.liberation.fr/international/europe/tempete-adam-en-espagne-deux-morts-la-region-de-valence-appelee-a-se-confiner-20261019_JYYQLNQQUFCELEGHQ57BYH2YUA/",
-      "image": null,
-      "date": "2026-10-19T10:10:39+00:00",
-      "date_formatted": "19 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Ain : Atteinte d’un cancer du sein, cette enseignante retourne à l’école pour sensibiliser ses élèves",
@@ -47,7 +77,7 @@
       "desc": "« La France buissonnière ». A 50 ans, cette habitante de La Roche-sur-Yon se lance dans un seule-en-scène retraçant son combat contre la maladie. Elle y a perdu un sein, mais pas l’envie d’en découdre avec la vie.",
       "url": "https://www.lemonde.fr/m-perso/article/2026/10/19/peut-on-rire-du-cancer-du-sein-oui-repond-l-humoriste-nathalie-gallagher_6797483_4497916.html",
       "image": "https://img.lemde.fr/2026/10/13/714/0/5712/2856/644/322/60/0/60d5cf8_upload-1-ppentankoxiy-img-2072.jpeg",
-      "date": "2026-10-19T06:00:46+00:00",
+      "date": "2026-10-19T06:00:28+00:00",
       "date_formatted": "19 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -183,16 +213,6 @@
       "type": "science"
     },
     {
-      "title": "Comment savoir si on a de la fièvre quand on n'a pas de thermomètre ?",
-      "desc": "C’est l’automne, la saison des virus a déjà commencé. Si vous vous sentez fébrile, le seul moyen fiable de mesurer votre température, c’est le thermomètre, mais si vous n’en avez pas sous la main, Julien Ménielle va vous donner quelques trucs qui vous permettront d’avoir des indices.",
-      "url": "https://www.franceinfo.fr/sante/comment-savoir-si-on-a-de-la-fievre-quand-on-n-a-pas-de-thermometre_8240431.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Kc7PjrKrHLKPM9pB9QAKGcRocHQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad22dbbba4fc750486520.jpg",
-      "date": "2026-10-16T16:20:01+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Agathe Auproux doit une fière chandelle au père de Cyril Hanouna qui lui a détecté son cancer",
       "desc": "Le père de l’animateur, disparu en 2024, était médecin généraliste",
       "url": "https://www.20minutes.fr/arts-stars/people/4255052-20261016-agathe-auproux-doit-fiere-chandelle-pere-cyril-hanouna-detecte-cancer?at_medium=display&at_campaign=149",
@@ -220,16 +240,6 @@
       "date": "2026-10-16T12:00:10+00:00",
       "date_formatted": "16 October 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Présenté comme sans danger, cet édulcorant connu inquiète les chercheurs",
-      "desc": "Un édulcorant présent dans quantité de produits sans sucre perturbe le fonctionnement des cellules qui tapissent les vaisseaux du cerveau. L'expérience a été menée sur des cellules en culture, et ses auteurs appellent à la prudence. Plusieurs éléments invitent toutefois à ne pas conclure trop...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-presente-comme-danger-cet-edulcorant-connu-inquiete-chercheurs-k2m6-138534/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/b/6/0b6a367e58_50262047_edulcorant-avc.jpg",
-      "date": "2026-10-16T10:00:00+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -283,16 +293,6 @@
       "type": "science"
     },
     {
-      "title": "Quel âge a vraiment votre corps ? Ce test de 30 secondes permet de comparer vos capacités à celles de votre âge",
-      "desc": "Une chaise, un chronomètre et 30 secondes : c’est tout ce qu’il vous faut pour mettre votre condition physique à l’épreuve. Utilisé par les professionnels de santé, ce test tout simple permet d’évaluer votre force musculaire et votre endurance, mais aussi de repérer certains risques pour votre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-age-vraiment-votre-corps-ce-test-30-secondes-permet-comparer-vos-capacites-celles-votre-age-138578/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/9/1/7914ecb87f_50262108_sit-to-stand.jpg",
-      "date": "2026-10-16T05:23:54+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "« Mes seins et moi » : dans le huis clos d’un cabinet de chirurgie mammaire, à Paris",
       "desc": "Dans ce podcast, Florence Aubenas, grande reporter au « Monde », revient sur sa série de reportages dans un cabinet privé de chirurgie mammaire, qui traite à la fois le cancer du sein, les malformations mammaires, les questions transgenres et esthétiques. Elle raconte à quel point, quand on parle de",
       "url": "https://www.lemonde.fr/podcasts/article/2026/10/16/mes-seins-et-moi-dans-le-huis-clos-d-un-cabinet-de-chirurgie-mammaire-a-paris_6795032_5463015.html",
@@ -300,26 +300,6 @@
       "date": "2026-10-16T05:00:12+00:00",
       "date_formatted": "16 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Jeux d’argent : Le CHU de Nantes lance une étude pilote pour les patients souffrant d’addiction",
-      "desc": "Le CHU de Nantes explore la piste de la psilocybine, un hallucinogène, pour renforcer la psychothérapie des patients souffrant d’une addiction aux jeux d’argent",
-      "url": "https://www.20minutes.fr/nantes/4254648-20261015-jeux-argent-chu-nantes-lance-etude-pilote-patients-souffrant-addiction?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/yyvWQQGYS4OBegj0fvublSk/1200x768_nouveau-jeu-a-gratter-de-la-francaise-des-jeux-ticket-d-or-depuis-janvier-2024-pour-gagner-jusqu-a-500-000-euros-disponible-a-l-achat-dans-les-points-de-vente-physiques-ou-en-ligne-sur-le-site-de-la-fdj-tabac-nice-france-16-01-2024-syspeo-sys-a006-credit-syspeo-sipa-2401161539",
-      "date": "2026-10-15T15:54:08+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Diagnostiquée à tort avec des hémorroïdes, une Espagnole décède d’un cancer colorectal : sa famille indemnisée",
-      "desc": "La justice espagnole a condamné le service public de santé andalou à verser 30 000 euros à la famille d’une patiente décédée d’un cancer colorectal, initialement diagnostiqué comme de vulgaires hémorroïdes, d’après « Telecinco »",
-      "url": "https://www.20minutes.fr/monde/4254693-20261015-diagnostiquee-tort-hemorroides-espagnole-decede-cancer-colorectal-famille-indemnisee?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/5gCTGMOOTyafXVQnggmt8Ck/1200x768_un-patient-a-l-hopital-illustration",
-      "date": "2026-10-15T15:17:39+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -390,16 +370,6 @@
       "date": "2026-10-13T14:50:39+00:00",
       "date_formatted": "13 October 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Les géants de l’IA marchent sur les plates-bandes des sciences de la vie",
-      "desc": "Après les mathématiques, la biologie fait face à la déferlante de l’intelligence artificielle, avec son potentiel de découvertes, mais aussi les questionnements sur la part d’appropriation des efforts humains par la machine.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/13/les-geants-de-l-ia-marchent-sur-les-plates-bandes-des-sciences-de-la-vie_6793060_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/09/251/0/1654/827/644/322/60/0/1ed0d21_upload-1-ecwh0vdfranm-le-monde.jpg",
-      "date": "2026-10-13T06:30:06+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
