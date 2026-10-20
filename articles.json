@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-20T02:23:12.683458+00:00",
-  "count": 55,
+  "generated_at": "2026-10-20T10:31:31.315693+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Quand un airbag défectueux devient un dispositif potentiellement mortel",
+      "desc": "Des automobilistes ont subi des lésions comparables à celles infligées par une arme à feu. En cause : la rupture du générateur de gaz de leur airbag. De récentes publications documentent la gravité de ces traumatismes liés aux airbags défectueux de l’équipementier Takata.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/10/20/quand-un-airbag-defectueux-devient-un-dispositif-potentiellement-mortel_6797907_6579630.html",
+      "image": "https://img.lemde.fr/2026/10/18/45/0/883/441/644/322/60/0/adeb859_upload-1-s0digjjkbkot-de-ploiement-airbag-de-fectueux-takata-traumatismes-craniofaciaux.png",
+      "date": "2026-10-20T12:07:45+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Au Soudan, une escalade des frappes de drones, toujours plus meurtrières",
+      "desc": "Des bombardements de l’armée régulière ont fait plus de 150 morts, essentiellement des civils, depuis vendredi 16 octobre.",
+      "url": "https://www.liberation.fr/international/afrique/au-soudan-une-escalade-des-frappes-de-drones-toujours-plus-meurtrieres-20261019_Q2D6RE32NZCNXBPW2KT5CZVDQA/",
+      "image": null,
+      "date": "2026-10-20T09:07:27+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tempête «Adam» en Espagne : le bilan grimpe à quatre morts, la région de Valence reste confinée",
+      "desc": "De fortes pluies suivies d’inondations frappent l’est du pays depuis dimanche 18 octobre. L’épisode, qui touche aussi le sud de la France, devrait se poursuivre jusqu’à ce mardi.",
+      "url": "https://www.liberation.fr/international/europe/tempete-adam-en-espagne-deux-morts-la-region-de-valence-appelee-a-se-confiner-20261019_JYYQLNQQUFCELEGHQ57BYH2YUA/",
+      "image": null,
+      "date": "2026-10-20T08:05:31+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Graisse abdominale : une injection qui détruit les cellules graisseuses suscite un nouvel espoir",
+      "desc": "Quand on cherche à perdre du ventre, on pense surtout aux kilos sur la balance ou au pantalon devenu trop serré. Mais une partie de la graisse abdominale se cache plus profondément, autour des organes. Un médicament expérimental pourrait agir sur cette graisse liée à plusieurs maladies...",
+      "url": "https://www.futura-sciences.com/sante/actualites/obesite-graisse-abdominale-injection-detruit-cellules-graisseuses-suscite-nouvel-espoir-138625/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/2/7/127c9bf243_50262169_graisse-viscerale.jpg",
+      "date": "2026-10-20T05:03:33+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "L’exposition pendant la grossesse à certains phtalates et phénols pourrait être associée à une diminution du QI des enfants à 3 ans",
+      "desc": "Phtalates et phénols sont des produits chimiques présents dans l’environnement et l’organisme des femmes enceintes. Plusieurs d’entre eux sont des perturbateurs endocriniens avérés ou suspectés et sont à ce titre, à même d’altérer le fonctionnement du système hormonal. Une équipe de l’Inserm de l’un",
+      "url": "https://presse.inserm.fr/lexposition-pendant-la-grossesse-a-certains-phtalates-et-phenols-pourrait-etre-associee-a-une-diminution-du-qi-des-enfants-a-3-ans/73531/",
+      "image": null,
+      "date": "2026-10-20T04:00:54+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
     {
       "title": "Ce trait de personnalité reviendrait sans cesse chez les personnes qui vivent jusqu'à 100 ans, selon la science",
       "desc": "En Sardaigne, des personnes âgées vivant dans une région réputée pour sa longévité se distinguent par une plus grande ouverture d'esprit que leurs voisins d'une zone rurale comparable. Elles ne déclarent pourtant pas une meilleure qualité de vie liée à la santé. L'étude, menée sur 125 personnes,...",
@@ -11,16 +61,6 @@
       "date_formatted": "19 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "17 octobre : le «street medic» frappé par des CRS place de la République à Paris n’est pas mort",
-      "desc": "Présenté à tort comme le manifestant décédé lors de la journée de samedi, Antoine avait été filmé inconscient après avoir été violenté par des policiers. «CheckNews» l’a retrouvé et a recueilli son témoignage.",
-      "url": "https://www.liberation.fr/checknews/17-octobre-le-street-medic-frappe-par-des-crs-place-de-la-republique-a-paris-nest-pas-mort-20261019_JKIAESIYZZCQZDD2N6AC3QIZHQ/",
-      "image": null,
-      "date": "2026-10-19T17:47:52+00:00",
-      "date_formatted": "19 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Violences du 17 octobre : Fausses couches, règles douloureuses… Les gaz lacrymogènes nuisent-ils à la santé des femmes ?",
@@ -183,16 +223,6 @@
       "type": "science"
     },
     {
-      "title": "Cigarette électronique : une découverte inquiétante sur les virus et les défenses de vos poumons",
-      "desc": "Se laver les mains régulièrement, éviter d'embrasser un proche enrhumé, aérer plusieurs fois par jour… Avec le retour des virus de l’automne, chacun retrouve ses habitudes de protection. Mais si vous vapotez, même de façon modérée, vous êtes-vous déjà demandé ce qui se passe au plus profond de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cigarette-electronique-cigarette-electronique-decouverte-inquietante-virus-defenses-vos-poumons-138612/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/d/6/bd620acee8_50262151_vapotage-systeme-immunitaire.jpg",
-      "date": "2026-10-16T17:03:51+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Agathe Auproux doit une fière chandelle au père de Cyril Hanouna qui lui a détecté son cancer",
       "desc": "Le père de l’animateur, disparu en 2024, était médecin généraliste",
       "url": "https://www.20minutes.fr/arts-stars/people/4255052-20261016-agathe-auproux-doit-fiere-chandelle-pere-cyril-hanouna-detecte-cancer?at_medium=display&at_campaign=149",
@@ -201,16 +231,6 @@
       "date_formatted": "16 October 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Ces cellules « zombies » accélèrent notre vieillissement : des chercheurs ont découvert leur étonnant secret",
-      "desc": "Certaines cellules abîmées refusent de mourir et s’accumulent avec l’âge, alimentant l'inflammation et le déclin physique. Des scientifiques viennent de comprendre comment ces cellules « zombies » se cachent de notre système immunitaire. En bloquant leur protection chez la souris, ils ont réussi...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-ces-cellules-zombies-accelerent-notre-vieillissement-chercheurs-ont-decouvert-leur-etonnant-secret-138585/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/7/6/c76b189317_50262118_cellules-zombies-vieillissement.jpg",
-      "date": "2026-10-16T14:08:51+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Syndrome ovarien métabolique polyendocrinien : « Ce trouble féminin, orphelin thérapeutique, doit être identifié comme une priorité »",
@@ -238,16 +258,6 @@
       "url": "https://www.20minutes.fr/sante/4254896-20261016-presidentielle-2027-ligue-contre-cancer-degaine-12-propositions-concretes-lutte-plus-efficace?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/g-qnJAmKQjKwyDcsUGY4-Ck/1200x768_preparation-traitement-d-un-patient-dans-le-service-onco-hematologie-du-centre-hospitalier-de-cannes-prend-en-charge-le-traitement-des-cancers-avec-pathologie-digestif-orl-sein-gynecologique-urologique-dermatologique-lymphome-myelome-mds-leucemie-hopital-de-cannes-simone-veil-cannes-france-26-06-2025-syspeo-sys-a021-credit-syspeo-sipa-2508091919",
       "date": "2026-10-16T09:38:57+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Du café rappelé partout en France à cause d’une mycotoxine potentiellement cancérigène",
-      "desc": "Une teneur excessive en ochratoxine A, une mycotoxine susceptible d’endommager l’ADN et d’être cancérigène pour le rein, a entraîné le rappel d’un café de la marque Bialetti",
-      "url": "https://www.20minutes.fr/consommation/4254855-20261016-cafe-rappele-partout-france-cause-mycotoxine-potentiellement-cancerigene?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/-hT3RGqsQ7O5fHP-nX7IFCk/1200x768_un-cafe-illustration",
-      "date": "2026-10-16T08:32:37+00:00",
       "date_formatted": "16 October 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
@@ -318,26 +328,6 @@
       "url": "https://www.lemonde.fr/disparitions/article/2026/10/13/le-biologiste-pierre-joliot-decouvreur-des-mecanismes-fondamentaux-de-la-photosynthese-et-petit-fils-de-pierre-et-marie-curie-est-mort_6793144_3382.html",
       "image": "https://img.lemde.fr/2026/10/13/240/0/3504/1752/644/322/60/0/4f43215_upload-1-fow0must93kk-000-arp1784854.jpg",
       "date": "2026-10-13T18:12:51+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Carole Fritz, archéologue et préhistorienne, grande amoureuse de l’art pariétal, est morte",
-      "desc": "La chercheuse dirigeait depuis 2018 l’étude pluridisciplinaire de l’exceptionnelle grotte Chauvet, en Ardèche. Elle s’est éteinte le 30 septembre, à l’âge de 60 ans.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/10/13/carole-fritz-archeologue-et-prehistorienne-grande-amoureuse-de-l-art-parietal-est-morte_6793109_3382.html",
-      "image": "https://img.lemde.fr/2026/10/13/348/0/2362/1181/644/322/60/0/d06f9d5_upload-1-l43s0unxtwbk-signatures-024143-011.jpg",
-      "date": "2026-10-13T15:30:04+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "« Nous demandons à la Commission européenne de surseoir au projet de directive sur le marché de micro-organismes génétiquement modifiés »",
-      "desc": "Dans une tribune au « Monde », un collectif de chercheurs rappelle qu’un assouplissement de la réglementation peut être lourd de conséquences, appelant à réfléchir « plus posément » sur ces questions.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/13/nous-demandons-a-la-commission-europeenne-de-surseoir-au-projet-de-directive-sur-le-marche-de-micro-organismes-genetiquement-modifies_6793106_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
-      "date": "2026-10-13T15:00:04+00:00",
       "date_formatted": "13 October 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -539,16 +529,6 @@
       "image": null,
       "date": "2026-08-24T16:04:30+00:00",
       "date_formatted": "24 August 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Épidémie d’Ebola Bundibugyo : des premiers résultats pour guider la recherche d’un vaccin efficace",
-      "desc": "Virus Ebola © National Institute of Allergy and Infectious Diseases Moins de trois mois après la déclaration par l’OMS d’une épidémie d’Ebola causée par le virus Bundibugyo en Afrique centrale, des chercheurs de l’Inserm et de l’Université de Bordeaux basés aux laboratoires Vaccine Research Institut",
-      "url": "https://presse.inserm.fr/epidemie-debola-bundibugyo-des-premiers-resultats-pour-guider-la-recherche-dun-vaccin-efficace/73111/",
-      "image": null,
-      "date": "2026-07-23T14:01:16+00:00",
-      "date_formatted": "23 July 2026",
       "source": "Inserm",
       "type": "science"
     }
