@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-10-20T15:56:00.195777+00:00",
-  "count": 53,
+  "generated_at": "2026-10-20T20:57:25.549818+00:00",
+  "count": 52,
   "articles": [
     {
-      "title": "Yémen : le bilan grimpe à 73 morts dans des bombardements houthis sur un camp des forces armées",
-      "desc": "Des attaques sur un centre d’instruction yéménite, située dans la province de Shabwa, ont eu lieu dans la matinée ce lundi 19 octobre. Le bilan, encore incertain, annonce 20 nouveaux morts alors que les hôpitaux sont débordés.",
-      "url": "https://www.liberation.fr/international/moyen-orient/yemen-au-moins-50-morts-dans-des-bombardements-houthis-sur-un-camp-des-forces-armees-20261019_Z4WWL4UCWBF5PGIG5PXZABLNM4/",
+      "title": "Un mort dans les Bouches-du-Rhône, un disparu en Haute-Corse en vigilance rouge… Le sud de la France noyé sous des déluges",
+      "desc": "Plusieurs départements sont en vigilance pluie-inondation ce mardi 20 octobre. Une cellule de crise a été activée dans le Gard et l’Hérault. A Montpellier, les crèches sont fermées et des gymnases ouvrent pour accueillir les plus vulnérables.",
+      "url": "https://www.liberation.fr/environnement/climat/episode-mediterraneen-sept-departements-en-vigilance-orange-mardi-20261020_3DIT5U3CSJDUVIHGNLOULKOMJU/",
       "image": null,
-      "date": "2026-10-20T15:18:49+00:00",
+      "date": "2026-10-20T20:31:07+00:00",
       "date_formatted": "20 October 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Des jumeaux de 18 ans mis en examen après la mort de leur père, tué à coups de couteau",
+      "desc": "Le corps sans vie du père, 61 ans, a été retrouvé chez lui à Lorient, dimanche. L’un des deux frères a également tenté de tuer leur mère en Eure-et-Loir, précise le parquet mardi 20 octobre.",
+      "url": "https://www.liberation.fr/societe/police-justice/des-jumeaux-de-18-ans-mis-en-examen-apres-la-mort-de-leur-pere-tue-a-coups-de-couteau-20261020_OOJKH6YTQFG5RIUDZRZYMXIZ7M/",
+      "image": null,
+      "date": "2026-10-20T19:48:26+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un requin tue une nageuse sur une plage très fréquentée d’Afrique du Sud",
+      "desc": "La victime de 65 ans, qui nageait avec un groupe au moment de l’attaque, est morte ce mardi 20 octobre à Kugompo, l’une des plus grandes villes du pays. La municipalité a fermé les plages alentour.",
+      "url": "https://www.liberation.fr/international/afrique/un-requin-tue-une-nageuse-sur-une-plage-tres-frequentee-dafrique-du-sud-20261020_BHUDQJ6VANGZ7DFPVPLNOK2XAQ/",
+      "image": null,
+      "date": "2026-10-20T17:09:53+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du sein : + 64 % chez les femmes de moins de 30 ans",
+      "desc": "En France, octobre se met au rose avec la campagne de sensibilisation au dépistage du cancer du sein. Mais depuis 30 ans, les nouveaux cas ont doublé, et désormais, ils connaissent leur plus forte progression chez les femmes de moins de 30 ans",
+      "url": "https://www.20minutes.fr/tv/reportages-20-minutes-tv/4256095-20261020-cancer-sein-64-chez-femmes-moins-30-ans?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/KNNvxzm7QnuuHkR87iPAQik/1200x768_61-000-nombre-nouveaux-cas-cancer-sein-chaque-annee-france-depuis-1990-chiffre-plus-double-touchant-davantage-jeunes-femmes-chez-moins-30-ans-hausse-a",
+      "date": "2026-10-20T16:11:59+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -20,26 +50,6 @@
       "date": "2026-10-20T15:10:25+00:00",
       "date_formatted": "20 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’Henry Dougier, tête chercheuse",
-      "desc": "Le boulimique de l’édition et fondateur des Editions Autrement est mort dimanche 18 octobre à 90 ans.",
-      "url": "https://www.liberation.fr/culture/livres/mort-dhenry-dougier-tete-chercheuse-20261020_J3KLEJK4MZBYHHRLEUEAHQYCIM/",
-      "image": null,
-      "date": "2026-10-20T13:52:34+00:00",
-      "date_formatted": "20 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Violences à Paris : enquêtes ouvertes sur les causes de la mort de deux hommes samedi et lundi en marge des manifestations",
-      "desc": "Les deux victimes auraient probablement succombé à des malaises, rapporte ce mardi 20 octobre l’AFP, qui cite le parquet de Paris et préfecture de police.",
-      "url": "https://www.liberation.fr/societe/police-justice/violences-a-paris-enquetes-ouvertes-sur-les-causes-de-la-mort-de-deux-hommes-samedi-et-lundi-en-marge-des-manifestations-20261020_VNICQAKEUJF4ZN6X2XVPART4UY/",
-      "image": null,
-      "date": "2026-10-20T13:41:40+00:00",
-      "date_formatted": "20 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -230,26 +240,6 @@
       "date": "2026-10-17T10:00:04+00:00",
       "date_formatted": "17 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Longévité : l'habitude qui expliquerait la forme exceptionnelle de l'acteur Dick Van Dyke à plus de 90 ans",
-      "desc": "Les personnes optimistes vivent en moyenne plus longtemps, selon plusieurs grandes études d'observation. Dans l'une d'elles, les plus optimistes vivaient 11 à 15 % plus longtemps que les moins optimistes. Ces travaux montrent une association, pas un lien de cause à effet, et l'optimisme n'est...",
-      "url": "https://www.futura-sciences.com/sante/actualites/longevite-longevite-habitude-expliquerait-forme-exceptionnelle-acteur-dick-van-dyke-plus-90-ans-k2m6-138595/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/1/f/31f6854366_50262123_optimisme-longevite.jpg",
-      "date": "2026-10-17T10:00:00+00:00",
-      "date_formatted": "17 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Agathe Auproux doit une fière chandelle au père de Cyril Hanouna qui lui a détecté son cancer",
-      "desc": "Le père de l’animateur, disparu en 2024, était médecin généraliste",
-      "url": "https://www.20minutes.fr/arts-stars/people/4255052-20261016-agathe-auproux-doit-fiere-chandelle-pere-cyril-hanouna-detecte-cancer?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/n751MqIMQditmAmXDNNsByk/1200x768_agathe-auproux-journaliste-et-chroniqueuse",
-      "date": "2026-10-16T15:04:58+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
