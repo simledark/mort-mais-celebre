@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-20T10:31:31.315693+00:00",
+  "generated_at": "2026-10-20T15:56:00.195777+00:00",
   "count": 53,
   "articles": [
+    {
+      "title": "Yémen : le bilan grimpe à 73 morts dans des bombardements houthis sur un camp des forces armées",
+      "desc": "Des attaques sur un centre d’instruction yéménite, située dans la province de Shabwa, ont eu lieu dans la matinée ce lundi 19 octobre. Le bilan, encore incertain, annonce 20 nouveaux morts alors que les hôpitaux sont débordés.",
+      "url": "https://www.liberation.fr/international/moyen-orient/yemen-au-moins-50-morts-dans-des-bombardements-houthis-sur-un-camp-des-forces-armees-20261019_Z4WWL4UCWBF5PGIG5PXZABLNM4/",
+      "image": null,
+      "date": "2026-10-20T15:18:49+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Manifestation du 17 octobre : Le street médic roué de coups à Paris n’est pas mort",
+      "desc": "Après le décès d’un homme non loin de la place de la République, samedi 17 octobre, une confusion est née sur les réseaux sociaux avec un street médic roué de coup par la police",
+      "url": "https://www.20minutes.fr/societe/4256028-20261020-manifestation-17-octobre-street-medic-roue-coups-paris-mort?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/AmXac_AKQiWBe6sD-YO8Fik/1200x768_17-octobre-2026-paris-abruzzes-france-paris-manifestation-d-etudiants-et-de-travailleurs-contre-la-hausse-du-cout-de-la-vie-la-situation-s-est-aggravee-du-matin-a-tard-dans-la-nuit-avec-des-affrontements-des-barricades-des-voitures-incendiees-et-des-magasins-pilles-la-police-a-riposte-en-utilisant-des-gaz-lacrymogenes-et-des-agents-d-etancheite-sur-la-photo-la-police-a-frappe-un-medecin-de-rue-qui-est-tombe-inconscient-au-sol-image-de-credit-sebastiano-bacci-zuma-press-wire-20261017-zaf-b283-017-zeus-2610181023",
+      "date": "2026-10-20T15:10:25+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Henry Dougier, tête chercheuse",
+      "desc": "Le boulimique de l’édition et fondateur des Editions Autrement est mort dimanche 18 octobre à 90 ans.",
+      "url": "https://www.liberation.fr/culture/livres/mort-dhenry-dougier-tete-chercheuse-20261020_J3KLEJK4MZBYHHRLEUEAHQYCIM/",
+      "image": null,
+      "date": "2026-10-20T13:52:34+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Violences à Paris : enquêtes ouvertes sur les causes de la mort de deux hommes samedi et lundi en marge des manifestations",
+      "desc": "Les deux victimes auraient probablement succombé à des malaises, rapporte ce mardi 20 octobre l’AFP, qui cite le parquet de Paris et préfecture de police.",
+      "url": "https://www.liberation.fr/societe/police-justice/violences-a-paris-enquetes-ouvertes-sur-les-causes-de-la-mort-de-deux-hommes-samedi-et-lundi-en-marge-des-manifestations-20261020_VNICQAKEUJF4ZN6X2XVPART4UY/",
+      "image": null,
+      "date": "2026-10-20T13:41:40+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Au sein des autres », un téléfilm primé pour parler du cancer du sein",
+      "desc": "« Au sein des autres », un téléfilm primé pour parler du cancer du sein",
+      "url": "https://www.20minutes.fr/tv/culture/4255932-20261020-sein-autres-telefilm-prime-parler-cancer-sein?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Kcnt0bn4Touk17kkc5ueUCk/1200x768_disponible-france-tv-http-france-tv-diffuse-mercredi-28-octobre-france-2-telefilm-sein-autres-sofia-essaidi-yoann-zimmer-aborde-cancer-sein-chez-homme",
+      "date": "2026-10-20T12:30:19+00:00",
+      "date_formatted": "20 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Quand un airbag défectueux devient un dispositif potentiellement mortel",
       "desc": "Des automobilistes ont subi des lésions comparables à celles infligées par une arme à feu. En cause : la rupture du générateur de gaz de leur airbag. De récentes publications documentent la gravité de ces traumatismes liés aux airbags défectueux de l’équipementier Takata.",
@@ -11,26 +61,6 @@
       "date_formatted": "20 October 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Au Soudan, une escalade des frappes de drones, toujours plus meurtrières",
-      "desc": "Des bombardements de l’armée régulière ont fait plus de 150 morts, essentiellement des civils, depuis vendredi 16 octobre.",
-      "url": "https://www.liberation.fr/international/afrique/au-soudan-une-escalade-des-frappes-de-drones-toujours-plus-meurtrieres-20261019_Q2D6RE32NZCNXBPW2KT5CZVDQA/",
-      "image": null,
-      "date": "2026-10-20T09:07:27+00:00",
-      "date_formatted": "20 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Tempête «Adam» en Espagne : le bilan grimpe à quatre morts, la région de Valence reste confinée",
-      "desc": "De fortes pluies suivies d’inondations frappent l’est du pays depuis dimanche 18 octobre. L’épisode, qui touche aussi le sud de la France, devrait se poursuivre jusqu’à ce mardi.",
-      "url": "https://www.liberation.fr/international/europe/tempete-adam-en-espagne-deux-morts-la-region-de-valence-appelee-a-se-confiner-20261019_JYYQLNQQUFCELEGHQ57BYH2YUA/",
-      "image": null,
-      "date": "2026-10-20T08:05:31+00:00",
-      "date_formatted": "20 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Graisse abdominale : une injection qui détruit les cellules graisseuses suscite un nouvel espoir",
@@ -213,16 +243,6 @@
       "type": "science"
     },
     {
-      "title": "Alzheimer : bien avant les pertes de mémoire, ce signal discret dans votre bouche pourrait être le tout premier symptôme",
-      "desc": "Une découverte troublante lie la maladie d'Alzheimer à une bactérie présente dans nos bouches. Des chercheurs ont identifié Porphyromonas gingivalis, responsable des maladies gingivales, dans le cerveau de patients atteints d'Alzheimer. Cette piste infectieuse pourrait réformer notre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-bien-avant-pertes-memoire-ce-signal-discret-votre-bouche-pourrait-etre-tout-premier-symptome-w2t8-138584/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/e/c/2ec5a0fdcc_50262113_alzheimer-bacterie-bouche.jpg",
-      "date": "2026-10-17T08:00:00+00:00",
-      "date_formatted": "17 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Agathe Auproux doit une fière chandelle au père de Cyril Hanouna qui lui a détecté son cancer",
       "desc": "Le père de l’animateur, disparu en 2024, était médecin généraliste",
       "url": "https://www.20minutes.fr/arts-stars/people/4255052-20261016-agathe-auproux-doit-fiere-chandelle-pere-cyril-hanouna-detecte-cancer?at_medium=display&at_campaign=149",
@@ -251,16 +271,6 @@
       "date_formatted": "16 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Présidentielle 2027 : La Ligue contre le cancer dégaine « 12 propositions concrètes » pour une lutte « plus efficace »",
-      "desc": "La Ligue contre le cancer déplore des inégalités de traitement croissantes dans la lutte contre la maladie et propose, à travers un « pacte », d’en faire une priorité nationale",
-      "url": "https://www.20minutes.fr/sante/4254896-20261016-presidentielle-2027-ligue-contre-cancer-degaine-12-propositions-concretes-lutte-plus-efficace?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/g-qnJAmKQjKwyDcsUGY4-Ck/1200x768_preparation-traitement-d-un-patient-dans-le-service-onco-hematologie-du-centre-hospitalier-de-cannes-prend-en-charge-le-traitement-des-cancers-avec-pathologie-digestif-orl-sein-gynecologique-urologique-dermatologique-lymphome-myelome-mds-leucemie-hopital-de-cannes-simone-veil-cannes-france-26-06-2025-syspeo-sys-a021-credit-syspeo-sipa-2508091919",
-      "date": "2026-10-16T09:38:57+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Guadeloupe : le manque de médecins entrave le traitement des cancers",
@@ -381,16 +391,6 @@
       "date_formatted": "12 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "« Pourquoi moi ? Le ciel m’est tombé sur la tête » : Lou, 29 ans, diagnostiquée bipolaire",
-      "desc": "Premières amours, premiers pas vers l’autonomie, premiers diagnostics parfois : comment faire face à l’irruption d’un trouble quand on commence sa vie d’adulte ? Au travers d’une série de portraits, « Le Monde » explore les combats de jeunes atteints d’une maladie mentale ou d’une addiction. Lou (so",
-      "url": "https://www.lemonde.fr/campus/article/2026/10/11/pourquoi-moi-le-ciel-m-est-tombe-sur-la-tete-lou-29-ans-diagnostiquee-bipolaire_6791374_4401467.html",
-      "image": "https://img.lemde.fr/2026/10/08/333/0/2000/1000/644/322/60/0/ef3cd0b_upload-1-vwqdefoh2uf2-louna-pre-aux-arde-che-26-09-26-17.jpg",
-      "date": "2026-10-11T07:00:06+00:00",
-      "date_formatted": "11 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Première mondiale : des virus transformés en médicaments contre les bactéries résistantes",
