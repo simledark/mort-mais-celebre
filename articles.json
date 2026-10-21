@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-21T10:44:12.034318+00:00",
-  "count": 44,
+  "generated_at": "2026-10-21T16:12:33.469381+00:00",
+  "count": 31,
   "articles": [
+    {
+      "title": "Nigeria : un premier cas de maladie à virus Ebola identifié et en isolement",
+      "desc": "« La patiente, une femme récemment arrivée au Nigeria à bord d’un vol international en provenance d’Ouganda, a été admise dans un hôpital privé [de la capitale, Abuja] », a annoncé le ministre de la santé nigérian, Muhammad Ali Pate.",
+      "url": "https://www.lemonde.fr/flux-video-immersif/video/2026/10/21/nigeria-un-premier-cas-de-maladie-a-virus-ebola-identifie-et-en-isolement_6798254_6717263.html",
+      "image": "https://img.lemde.fr/2026/10/21/500/0/6000/3000/644/322/60/0/599bf41_ftp-1-pr20fvzsfmlj-2026-10-21t091438z-621331589-rc2l7oa6rnrg-rtrmadp-3-health-ebola-nigeria.JPG",
+      "date": "2026-10-21T15:00:06+00:00",
+      "date_formatted": "21 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Meurtres aggravés et suicide : à Toulouse, quatre personnes retrouvées mortes à quelques heures d’intervalle",
+      "desc": "Un homme est soupçonné d’avoir tué deux femmes et un bébé dans la nuit de lundi à mardi, avant de se suicider. Leurs liens de parentés ne sont pas établis avec certitudes, mais il pourrait s’agir de membres d’une même famille.",
+      "url": "https://www.liberation.fr/societe/quatre-personnes-dune-meme-famille-retrouvees-mortes-dans-un-domicile-a-toulouse-20261021_QAPC2H4TYRC7HPSCYIFXRUFNEE/",
+      "image": null,
+      "date": "2026-10-21T14:28:23+00:00",
+      "date_formatted": "21 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le Nigeria confirme que son premier cas de maladie à virus Ebola vient de l’espèce Bundibugyo",
+      "desc": "Cette fièvre hémorragique virale mortelle s’est depuis propagée à plusieurs pays du continent dont l’Ouganda, voisin de la République démocratique du Congo.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/21/le-nigeria-confirme-que-son-premier-cas-d-ebola-est-de-la-souche-bundibugyo_6797979_3213.html",
+      "image": "https://img.lemde.fr/2026/10/08/144/0/2881/1440/644/322/60/0/3dd4d70_ftp-1-xjh6bmvrxy90-2026-10-08t145320z-1588852765-rc22zna6g042-rtrmadp-3-health-ebola-kenya.JPG",
+      "date": "2026-10-21T13:19:46+00:00",
+      "date_formatted": "21 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les «maisons de l’horreur», un casse-tête immobilier : «Nous sommes tenus de signaler les morts violentes»",
+      "desc": "Meurtres, suicides… La vente des logements où se sont déroulés des événements tragiques se révèle souvent très complexe, entre droit à l’oubli et devoir de mémoire.",
+      "url": "https://www.liberation.fr/societe/les-maisons-de-lhorreur-un-casse-tete-immobilier-nous-sommes-tenus-de-signaler-les-morts-violentes-20261021_GM2BULSGBJCWPLP6W3C46RNTM4/",
+      "image": null,
+      "date": "2026-10-21T13:15:00+00:00",
+      "date_formatted": "21 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Face au vieillissement de sa population, le Japon réduit le remboursement des frais médicaux des seniors",
       "desc": "Alors que les millions de baby boomers passent le cap des 75 ans, le Japon fait face au vieillissement accéléré de sa population. Le pays modifie son régime de remboursement des frais médicaux pour les seniors.",
@@ -10,16 +50,6 @@
       "date": "2026-10-21T12:09:50+00:00",
       "date_formatted": "21 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Paul Barril, sulfureux cofondateur du GIGN",
-      "desc": "L’ancien officier de l’unité d’élite de la gendarmerie nationale est mort mardi à l’âge de 80 ans, a-t-on appris ce mercredi 21 octobre. Il avait notamment été mis en cause dans le cadre du génocide au Rwanda.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-de-paul-barril-sulfureux-cofondateur-du-gign-20261021_SLGANK5ZSZCFDLOT4TOCOWU5AM/",
-      "image": null,
-      "date": "2026-10-21T08:58:10+00:00",
-      "date_formatted": "21 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -163,36 +193,6 @@
       "type": "science"
     },
     {
-      "title": "Diabète : votre voix pourrait révéler la maladie sans que vous le sachiez, grâce à une IA qui l'analyse en 20 secondes",
-      "desc": "Une voix peut-elle trahir un diabète ? À partir de modifications subtiles de la parole, une intelligence artificielle prétend identifier les personnes à risque en quelques dizaines de secondes, avec des résultats jugés « cliniquement utiles ». Alors qu'un quart des personnes diabétiques en...",
-      "url": "https://www.futura-sciences.com/sante/actualites/diabete-diabete-votre-voix-pourrait-reveler-maladie-vous-sachiez-grace-ia-analyse-20-secondes-138545/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/1/c/91c7cb7349_50262070_voix-diabete-ia.jpg",
-      "date": "2026-10-18T05:28:25+00:00",
-      "date_formatted": "18 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "« L’impression que mon corps s’éteint »… Des JO à une vie alitée, la terrible maladie qui touche l’athlète Beth Dobbin",
-      "desc": "La Britannique Beth Dobbin révèle dans une interview à la BBC être atteinte du syndrome de fatigue chronique",
-      "url": "https://www.20minutes.fr/sport/athletisme/4255191-20261017-impression-corps-eteint-jo-vie-alitee-terrible-maladie-touche-athlete-beth-dobbin?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/1lp5ilLtS3qEbPWxQD3Bnik/1200x768_credit-obligatoire-photo-de-patrick-khachfe-jmp-shutterstock-13074769bl-beth-dobbin-regarde-apres-avoir-termine-sa-demi-finale-du-200-m-feminin-en-troisieme-place-athletisme-jeux-du-commonwealth-de-birmingham-2022-royaume-uni-05-aout-2022-shutterstock-editorial-athletics-birmingham-2022-com-13074769bl-2208071835",
-      "date": "2026-10-17T12:12:34+00:00",
-      "date_formatted": "17 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Air irrespirable, brouillards et incendies inarrêtables… L’Asie du Sud-Est en proie aux flammes",
-      "desc": "Après la mort de quatre hommes jeudi dans des feux de forêt en Indonésie, le brouillard toxique perturbe la vie de toute l’Asie du Sud-Est. Le niveau d’alerte maximal concernant la qualité de l’air a été déclenché",
-      "url": "https://www.20minutes.fr/monde/4255176-20261017-air-irrespirable-brouillards-incendies-inarretables-asie-sud-proie-flammes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/3agtM--rTlCaF67D1-J1xSk/1200x768_des-automobilistes-circulent-sur-une-route-alors-que-la-brume-des-feux-de-foret-recouvre-la-ville-de-palembang-dans-le-sud-de-sumatra-en-indonesie-le-15-octobre-2026-l-agence-indonesienne-de-meteorologie-de-climatologie-et-de-geophysique-rapporte-que-la-qualite-de-l-air-est-tombee-a-des-niveaux-dangereux-a-palembang-la-brume-provenant-des-incendies-contenant-des-gaz-polluants-et-des-particules-en-suspension-dans-l-air-a-depasse-les-zones-touchees-pour-atteindre-les-zones-residentielles-de-l-indonesie-et-les-pays-voisins-notamment-la-malaisie-et-singapour-photo-de-muhammad-fajri-nur-photo-photo-de-muhammad-fajri-nur-photo-via-afp",
-      "date": "2026-10-17T11:07:59+00:00",
-      "date_formatted": "17 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Syndrome ovarien métabolique polyendocrinien : « Ce trouble féminin, orphelin thérapeutique, doit être identifié comme une priorité »",
       "desc": "Depuis la description, en 1936, de cette maladie à l’origine inconnue, dont le nom a été changé en mai, aucun traitement n’a été développé, déplorent dans une tribune au « Monde » des médecins et des patientes.",
       "url": "https://www.lemonde.fr/sciences/article/2026/10/16/syndrome-ovarien-metabolique-polyendocrinien-ce-trouble-feminin-orphelin-therapeutique-doit-etre-identifie-comme-une-priorite_6795472_1650684.html",
@@ -200,26 +200,6 @@
       "date": "2026-10-16T12:00:10+00:00",
       "date_formatted": "16 October 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "L'amibe \"mangeuse de cerveau\" détectée au Yucatan",
-      "desc": "Des agents de santé ont analysé l'eau de six des neuf lacs du Yucatan (sud-est du Mexique) après le décès d'un moniteur de ski nautique qui avait contracté l'amibe Naegleria fowleri en septembre dernier.",
-      "url": "https://www.sciencesetavenir.fr/sante/mexique-l-amibe-mangeuse-de-cerveau-detectee-au-yucatan-six-lacs-fermes_195425?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/16/cover-r4x3w1200-6ad1f4b5594c5-afp-20261016-d3fn663-v2-midres-mexicohealth.jpg",
-      "date": "2026-10-16T09:56:05+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Guadeloupe : le manque de médecins entrave le traitement des cancers",
-      "desc": "En Guadeloupe, on meurt plus largement du cancer qu'en métropole. La faute à une pénurie de médecins qui entraine des retards de prise en charge qui peuvent être mortels dans une pathologie cancéreuse. Afin d'inverser la tendance, les autorités sanitaires tentent d'attirer de nouveaux médecins",
-      "url": "https://www.sciencesetavenir.fr/sante/guadeloupe-le-manque-de-medecins-entrave-la-prise-en-charge-des-cancers_195420?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/16/cover-r4x3w1200-6ad1cf717596d-7b982af4f4baea3c4884d2c33945251c0b0ce9f3-jpg.jpg",
-      "date": "2026-10-16T07:54:12+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -243,26 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "Face au cancer du sein, la recherche nantaise traque les failles des tumeurs",
-      "desc": "En vingt ans, le nombre de femmes de moins de 40 ans touchées par un cancer du sein est passé de 2.000 à plus de 3.000 par an en France. Pourquoi ces cancers sont-ils souvent plus agressifs chez les jeunes femmes ? À Nantes, des chercheurs tentent de percer le mystère en étudiant les tumeurs cellule",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-du-sein-comprendre-pourquoi-les-tumeurs-sont-plus-agressives-chez-les-jeunes-femmes_195344?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/13/cover-r4x3w1200-6acdd899abf3c-c594c2d21a2cddf45e7bc388eaaebd9ac86cd292-jpg.jpg",
-      "date": "2026-10-15T08:33:41+00:00",
-      "date_formatted": "15 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Record d'accidents du travail mortels en 2025",
-      "desc": "Les accidents du travail ont fait 783 morts en 2025 dans le secteur privé, soit 19 de plus qu’en 2024, déjà une année record. Au total, 1331 décès sont liés aux accidents du travail, de trajet et aux maladies professionnelles, selon l’Assurance maladie, qui alerte également sur la hausse des sinistr",
-      "url": "https://www.sciencesetavenir.fr/sante/le-record-d-accidents-du-travail-mortels-en-2025-confirme-par-l-assurance-maladie_195373?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/14/cover-r4x3w1200-6acf4c56a8373-accident.jpg",
-      "date": "2026-10-14T09:55:59+00:00",
-      "date_formatted": "14 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Octobre rose : les accusations de Mathilde Panot reposent-elles sur des faits avérés ?",
       "desc": "Implication du lobby des pesticides, lien avec la guerre à Gaza, duplicité des élus porteurs du ruban rose… La députée « insoumise » accuse la campagne de sensibilisation au cancer du sein de « cynisme absolu ». Si elle s’appuie sur des faits attestés, elle effectue des raccourcis.",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/13/octobre-rose-les-accusations-de-mathilde-panot-reposent-elles-sur-des-faits-averes_6793172_4355770.html",
@@ -273,16 +233,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Affaire des cochons\" à l'IHU de Strasbourg : un patient dépose plainte",
-      "desc": "Un an et demi après l’annulation de son IRM à l’IHU de Strasbourg, un patient atteint d’un cancer du côlon porte plainte contre X. Son rendez-vous faisait partie des 43 examens déprogrammés en mars 2025, dans une affaire qui avait suscité de nombreuses interrogations.",
-      "url": "https://www.sciencesetavenir.fr/sante/affaire-des-cochons-a-l-ihu-de-strasbourg-un-patient-depose-plainte_195353?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/13/cover-r4x3w1200-6ace38602e870-hopital.jpg",
-      "date": "2026-10-13T14:50:39+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Soupçon de cas de peste : mode de transmission, traitements… que sait-on de cette maladie ?",
       "desc": "Alors que le cas d’une laborantine russe qui serait décédée de la peste en Russie fait la Une de nombreux médias, que l’intérêt pour le mot-clé « peste » sur Google a été multiplié par plus de 10 en une semaine et qu’une partie de la sphère complotiste s’est emparée du sujet, Canal détox fait le poi",
       "url": "https://presse.inserm.fr/canal-detox/soupcon-de-cas-de-peste-mode-de-transmission-traitements-que-sait-on-de-cette-maladie/",
@@ -290,86 +240,6 @@
       "date": "2026-10-12T14:40:34+00:00",
       "date_formatted": "12 October 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Grippe et Covid: coup d'envoi de la nouvelle campagne de vaccination",
-      "desc": "Contre la grippe saisonnière et le Covid-19, la campagne annuelle de vaccination démarre mardi 13 octobre en France, avec comme enjeu majeur d'améliorer le niveau de protection, surtout après une épidémie de grippe encore sévère l'hiver dernier.",
-      "url": "https://www.sciencesetavenir.fr/sante/grippe-et-covid-coup-d-envoi-de-la-nouvelle-campagne-de-vaccination_195330?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/12/cover-r4x3w1200-6accac00e0b9d-grippe-222.jpg",
-      "date": "2026-10-12T09:50:31+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Première mondiale : des virus transformés en médicaments contre les bactéries résistantes",
-      "desc": "C’est une première mondiale. Les Hospices civils de Lyon ont transformé des phages prélevés dans les eaux usées en médicaments, pour prévenir ou éliminer les infections bactériennes résistantes aux antibiotiques. Une prouesse pharmaceutique validée par les autorités sanitaires.",
-      "url": "https://www.sciencesetavenir.fr/sante/a-lyon-une-premiere-mondiale-des-phages-transformes-en-medicaments-contre-les-bacteries-resistantes-aux-antibiotiques_195005?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/23/cover-r4x3w1200-6ab39132a4c4e-ar-1723571-tf-67187781-1-notext-jpg.jpg",
-      "date": "2026-10-10T08:00:00+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cryothérapie, bilans biologiques hi-tech, caissons hyperbares: le tourisme de luxe capitalise sur la longévité",
-      "desc": "La longévité s’impose comme la nouvelle tendance du tourisme de luxe. Entre technologies de pointe et soins personnalisés, les hôtels haut de gamme misent sur le bien-être et la promesse de vivre plus longtemps pour séduire une clientèle fortunée.",
-      "url": "https://www.sciencesetavenir.fr/sante/bien-etre-et-longevite-les-nouveaux-arguments-du-luxe_195311?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/09/cover-r4x3w1200-6ac8d4beb33fc-luxe.jpg",
-      "date": "2026-10-09T13:11:17+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du sein : la présidente de l’Inca démêle le vrai du faux",
-      "desc": "À l’occasion d’Octobre rose, mois de sensibilisation au dépistage du cancer du sein, la lutte contre la maladie passe aussi par la lutte contre les idées reçues et les fausses informations. Dans un entretien Suzette Delaloge, oncologue et présidente de l’Institut national du cancer (Inca), répond au",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-et-fake-news-la-presidente-de-l-inca-demele-le-vrai-du-faux_195305?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/09/cover-r4x3w1200-6ac8a5d07f746-ballon-rose.jpg",
-      "date": "2026-10-09T09:54:44+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Le virus du Nil s'implante toujours un peu plus en France: nombre de cas record pour 2026",
-      "desc": "Peu à peu, le virus du Nil s'implante en France causant de plus en plus de cas au fil des ans. Cette année, il a infecté 161 personnes et causé la mort de 5 d'entre eux. Un nombre de cas multiplié par trois par rapport à l'année 2025. La circulation du virus ne cesse de s'étendre, remontant toujours",
-      "url": "https://www.sciencesetavenir.fr/sante/virus-du-nil-occidental-nombre-de-cas-record-dans-l-hexagone_195293?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac7b64908483-e8e596600a6a527c2512e2224292c59130a239bb-jpg.jpg",
-      "date": "2026-10-09T07:49:46+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Anti-diabète et anti-obésité : l’ANSM alerte sur des effets indésirables parfois graves",
-      "desc": "Les médicaments analogues du GLP-1 sont désormais très populaires. Mais l’ANSM a recensé 2801 effets indésirables entre février 2025 et janvier 2026, dont 515 graves et 13 décès, et alerte également sur leur mésusage à des fins d’amaigrissement, notamment chez les jeunes femmes.",
-      "url": "https://www.sciencesetavenir.fr/sante/anti-diabete-et-anti-obesite-des-troubles-digestifs-aux-avc-les-effets-indesirables-se-multiplient_195286?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac7694f6b77b-glp1.jpg",
-      "date": "2026-10-08T10:45:12+00:00",
-      "date_formatted": "8 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "L’optogénétique s’avère sûre pour traiter certaines formes de cécité",
-      "desc": "Ce premier essai clinique de phase 1 chez l’humain montre que l’optogénétique est bien tolérée, ouvrant la voie vers des traitements pour redonner la vue. Entretien avec José-Alain Sahel, directeur de l’Institut de la vision à l’Université de Pittsburgh et directeur de l’étude.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-optogenetique-s-avere-sure-pour-traiter-certaines-formes-de-cecite_195253?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/07/cover-r4x3w1200-6ac61dd47db2c-captura-de-pantalla-2026-10-07-a-las-12-20-54.jpg",
-      "date": "2026-10-07T21:02:00+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : le Kenya en alerte après un premier décès à Nairobi",
-      "desc": "Le Kenya a annoncé mardi 6 octobre son premier cas et son premier décès liés au virus Ebola, après la mort à Nairobi d’un ressortissant kényan vivant en République démocratique du Congo (RDC).",
-      "url": "https://www.sciencesetavenir.fr/sante/premier-cas-et-premier-deces-d-ebola-recenses-au-kenya_195258?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/07/cover-r4x3w1200-6ac633411606d-bola.jpg",
-      "date": "2026-10-07T13:43:34+00:00",
-      "date_formatted": "7 October 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
