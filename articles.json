@@ -1,16 +1,76 @@
 {
-  "generated_at": "2026-10-22T02:10:51.343753+00:00",
-  "count": 44,
+  "generated_at": "2026-10-22T10:45:34.011893+00:00",
+  "count": 48,
   "articles": [
     {
-      "title": "Le pape n’aura pas besoin de traitement après son opération pour un cancer",
-      "desc": "Opéré d’une tumeur cancéreuse mi-octobre, Léon XIV va bien et ne devra pas passer par d’autres traitements, annoncent ses médecins ce mercredi 21 octobre.",
-      "url": "https://www.liberation.fr/societe/religions/le-pape-naura-pas-besoin-de-traitement-apres-son-operation-pour-un-cancer-20261021_HPNJVY7OIBBHHB6GGXHBR7A6XA/",
+      "title": "Un premier cas de virus Shamonda chez l'être humain détecté en France",
+      "desc": "Le virus Shamonda a été détecté pour la première fois en France à l'été 2026 chez des bovins. Il se transmet via la piqûre d'un moucheron. C'est la première fois au monde que ce virus est détecté chez un être humain.",
+      "url": "https://www.franceinfo.fr/sante/maladie/un-premier-cas-de-virus-shamonda-chez-l-etre-humain-detecte-en-france_8248633.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/y1Of5Yvo-1DDIQDz4oeaF8I-Gw8/0x53:1024x629/432x243/filters:format(jpg)/2026/10/22/6ad9cfd67789f990608635.jpg",
+      "date": "2026-10-22T10:57:46+00:00",
+      "date_formatted": "22 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un colloque autour de la figure d’un historien membre de l’Action française déchire l’Institut de France",
+      "desc": "Le secrétaire perpétuel de l’Académie des sciences, Antoine Triller, a publiquement dénoncé l’organisation d’un événement, sous l’égide de l’Académie des sciences morales et politiques, consacré à l’historien Jacques Bainville, mort en 1936.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/22/un-colloque-autour-de-la-figure-d-un-historien-membre-de-l-action-francaise-dechire-l-institut-de-france_6798592_3244.html",
+      "image": "https://img.lemde.fr/2026/10/22/651/0/7814/3907/644/322/60/0/cd82944_upload-1-eqbwm55crcmw-000-86r78g3.jpg",
+      "date": "2026-10-22T10:45:01+00:00",
+      "date_formatted": "22 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Mort d’un manifestant le 17 octobre à Paris : la famille de Christophe M. envisage de porter plainte pour «violences volontaires»",
+      "desc": "L’homme de 59 ans, intermittent du spectacle qui vivait à Ivry-sur-Seine, est décédé après sa prise en charge par les secours boulevard Magenta. L’avocat de la famille, qui dénonce le manque de transparence de l’enquête, assure qu’il n’avait «pas de problème de santé».",
+      "url": "https://www.liberation.fr/checknews/mort-dun-manifestant-le-17-octobre-a-paris-la-famille-de-christophe-m-envisage-de-porter-plainte-pour-violences-volontaires-20261022_QMYG2GIKJVENNAG23QXBZMTVFU/",
       "image": null,
-      "date": "2026-10-21T20:03:04+00:00",
-      "date_formatted": "21 October 2026",
+      "date": "2026-10-22T10:27:59+00:00",
+      "date_formatted": "22 October 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Qu’est-ce que le virus Shamonda, détecté pour la première fois chez un humain en France ?",
+      "desc": "Malgré plusieurs décennies de circulation en Afrique et en Asie, aucun cas humain n’avait été documenté jusqu’à présent pour ce virus qui se diffuse par des petits insectes piqueurs. Un patient immunodéprimé en est mort début octobre.",
+      "url": "https://www.liberation.fr/societe/sante/le-virus-shamonda-detecte-pour-la-premiere-fois-chez-un-humain-un-patient-immunodeprime-mort-en-france-20261022_L5I3M2ZQKNARXOFX7HAWMMLA2A/",
+      "image": null,
+      "date": "2026-10-22T10:12:20+00:00",
+      "date_formatted": "22 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Shamonda : une première détection chez l’être humain",
+      "desc": "Les autorités sanitaires informent de l’infection par le virus Shamonda d’un patient présentant une immunodépression sévère, pris en charge aux Hospices civils de Lyon pour une pathologie grave. Le patient est décédé début octobre. Des investigations cliniques, biologiques et épidémiologiques sont e",
+      "url": "https://presse.inserm.fr/virus-shamonda-une-premiere-detection-chez-letre-humain/73560/",
+      "image": null,
+      "date": "2026-10-22T09:51:55+00:00",
+      "date_formatted": "22 October 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Lyon : Ce que l’on sait sur le virus Shamonda, un virus animal détecté pour la première fois chez l’être humain",
+      "desc": "Le virus Shamonda, considéré comme non transmissible à l’être humain et uniquement connu chez les animaux, a été retrouvé chez un patient des Hospices civils de Lyon",
+      "url": "https://www.20minutes.fr/sante/4256523-20261022-lyon-sait-virus-shamonda-virus-animal-detecte-premiere-fois-chez-etre-humain?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Vge1LLvVRciZqLvq0Cf3Lik/1200x768_au-gaec-du-but-polo-aymeric-et-l-apprenti-maxime-travaillent-14-h-par-jour-pour-les-130-vaches-laitieres-de-la-ferme-la-premiere-traite-commence-a-7h-la-derniere-est-a-20h-dans-la-journee-la-mise-au-pre-du-troupeau-l-entretien-du-materiel-donner-a-manger-aux-veaux-et-en-ce-moment-le-labourage-des-champs-en-ce-moment-de-confinement-a-cause-du-coronavirus-les-eleveurs-et-agriculteurs-sont-au-travail-ici-vaches-laitieres-vrigny-le-26-03-2020-siccolipatrick-0847038-2003270939",
+      "date": "2026-10-22T09:44:29+00:00",
+      "date_formatted": "22 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer : cette version d’un gène triple le risque, les graisses du cerveau pourraient expliquer pourquoi",
+      "desc": "Une étude révèle comment APOE4, une version d’un gène associée à un risque accru d’Alzheimer, dérègle la gestion des graisses dans certaines cellules cérébrales. Corriger ce mécanisme a amélioré la gaine protectrice des neurones en laboratoire et chez la souris.",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-cette-version-gene-triple-risque-graisses-cerveau-pourraient-expliquer-138706/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/b/3/ab38d15ced_50262350_cerveau-alzheimer-gene.jpg",
+      "date": "2026-10-22T05:08:19+00:00",
+      "date_formatted": "22 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Les additifs dans les goûters de nos enfants",
@@ -171,16 +231,6 @@
       "date_formatted": "19 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Alzheimer : la maladie qu'on croyait invincible cède enfin du terrain",
-      "desc": "Deux traitements ralentissent désormais la progression de la maladie d'Alzheimer. C'est une première, après vingt ans d'échecs. Le bénéfice mesuré reste toutefois modeste, les effets indésirables cérébraux sont fréquents, et une minorité de patients remplit les conditions pour y accéder. Voici...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-maladie-quon-croyait-invincible-cede-enfin-terrain-k2m6-138619/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/d/4/ad443e74c3_50262158_alzheimer-traitement-ralentir-maladie.jpg",
-      "date": "2026-10-18T18:00:00+00:00",
-      "date_formatted": "18 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Bloquer l’anxiété avec de la lumière ?",
@@ -429,16 +479,6 @@
       "image": null,
       "date": "2026-08-25T07:00:59+00:00",
       "date_formatted": "25 August 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Des chercheurs lillois révèlent des variants rares du gène PLCG2 qui multiplient le risque de développer la maladie d’Alzheimer",
-      "desc": "Une équipe de chercheurs lillois de l’Inserm, de l’Université de Lille, de l’Institut Pasteur de Lille et du CHU de Lille, avec plusieurs partenaires internationaux, publie dans Nature Genetics une découverte qui éclaire les mécanismes de la maladie d’Alzheimer. PLCG2, gène déjà connu pour son assoc",
-      "url": "https://presse.inserm.fr/des-chercheurs-lillois-revelent-des-variants-rares-du-gene-plcg2-qui-multiplient-le-risque-de-developper-la-maladie-dalzheimer/73151/",
-      "image": null,
-      "date": "2026-08-24T16:04:30+00:00",
-      "date_formatted": "24 August 2026",
       "source": "Inserm",
       "type": "science"
     }
