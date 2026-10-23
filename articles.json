@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-10-23T02:16:43.723136+00:00",
-  "count": 50,
+  "generated_at": "2026-10-23T10:36:58.530778+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Claude Cohen-Tannoudji, mort à l’âge de 93 ans, fut un défenseur de la recherche fondamentale",
+      "desc": "Le Prix Nobel, décédé le 22 octobre à 93 ans, s’élevait contre les visions politiques court-termistes et défendait les projets « blancs » sans application immédiate, qui viennent toujours plus tard.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/10/23/claude-cohen-tannoudji-mort-a-l-age-de-93-ans-fut-un-defenseur-de-la-recherche-fondamentale_6799060_3382.html",
+      "image": "https://img.lemde.fr/2026/09/10/245/0/4928/2464/644/322/60/0/dbd3fb3_upload-1-o33tmineldnr-000-arp4333570.jpg",
+      "date": "2026-10-23T12:30:09+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Claude Cohen-Tannoudji, prix Nobel de physique et dompteur d’atomes, est mort",
+      "desc": "Professeur au Collège de France, ce maître du froid et de la lumière avait réussi l’exploit d’emprisonner les atomes. Il s’est éteint le 22 octobre à l’âge de 93 ans.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/10/23/claude-cohen-tannoudji-prix-nobel-de-physique-et-dompteur-d-atomes-est-mort_6799052_3382.html",
+      "image": "https://img.lemde.fr/2026/08/26/208/77/1936/968/644/322/60/0/8532a5d_upload-1-ecdgt5uphoyu-rea495231.jpg",
+      "date": "2026-10-23T11:58:38+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Un virus inconnu chez l'humain jusqu'ici : ce que l'on sait du premier cas mortel signalé en France",
+      "desc": "Détecté pour la première fois chez un être humain, le virus Shamonda était jusqu’ici associé à des infections animales, notamment chez les bovins. Ce cas inédit, observé chez un patient sévèrement immunodéprimé décédé début octobre, soulève de nouvelles questions : comment cette contamination...",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-virus-inconnu-chez-humain-jusquici-ce-on-sait-premier-cas-mortel-signale-france-138761/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/3/2/f32ad148ac_50262409_virus-shamonda.jpg",
+      "date": "2026-10-23T10:21:55+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Première détection chez l’humain, transmission, risques… Que sait-on du virus Shamonda ?",
+      "desc": "Un premier cas humain d’infection par le virus Shamonda, jusque-là connu uniquement chez l’animal, a été identifié en France. Dans l’état actuel des connaissances, les autorités sanitaires n’identifient pas de risque pour la population générale. Tandis que les investigations se poursuivent pour comp",
+      "url": "https://presse.inserm.fr/canal-detox/premiere-detection-chez-lhumain-transmission-risques-que-sait-on-du-virus-shamonda/",
+      "image": null,
+      "date": "2026-10-23T10:21:34+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Un séisme de magnitude 7 fait au moins seize morts au Tibet",
+      "desc": "Le tremblement de terre a affecté une région située à plus de 4 500 mètres d’altitude et à très faible densité de population. L’armée a été mobilisée pour retrouver les survivants.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/un-seisme-de-magnitude-7-fait-au-moins-seize-morts-au-tibet-20261023_HTJZORO2T5GERK3LFZCKX3RJ44/",
+      "image": null,
+      "date": "2026-10-23T09:09:30+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "En Charente, virée au bal culte des célibataires de Guy : «Il faut voir comment ils s’embrassent»",
+      "desc": "A Foussignac, petit village niché au milieu des vignobles de Cognac, Guy Girard, 89 ans, anime depuis un demi-siècle des soirées pour personnes seules. Entre deux danses circulent leurs confidences sur l’amour, le désir et le deuil.",
+      "url": "https://www.liberation.fr/lifestyle/intimites/en-charente-viree-au-bal-culte-des-celibataires-de-guy-il-faut-voir-comment-ils-sembrassent-20261023_Q5U52PXF7NF4FF3CUG5NA3PX3Y/",
+      "image": null,
+      "date": "2026-10-23T08:25:03+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un vaccin anticancer personnalisé montre, pour la première fois, un bénéfice chez des patients",
+      "desc": "Cette approche thérapeutique innovante a permis, après deux ans, de réduire de 42 % le risque de récidive ou de décès chez des patients atteints de mélanome à haut risque. C’est ce qu’a montré un essai international incluant 1 137 patients, aux résultats divulgués jeudi soir.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/23/un-vaccin-anticancer-personnalise-montre-pour-la-premiere-fois-un-benefice-chez-des-patients_6799027_1650684.html",
+      "image": "https://img.lemde.fr/2025/07/17/338/0/3000/1500/644/322/60/0/8617cfc_upload-1-is1ae86ytzxj-frame-441.jpg",
+      "date": "2026-10-23T08:24:45+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "A l’aube, «Diego respirait bien» : après six mois d’audience, le jugement des médecins de Maradona sera rendu le 22 décembre",
+      "desc": "Les membres de son équipe médicale accusés d’avoir sciemment négligé la santé du footballeur mort en 2020 et sa famille se sont succédé à la barre depuis avril. Des peines de quatre à douze ans de prison ont été requises contre six des sept accusés.",
+      "url": "https://www.liberation.fr/sports/football/a-laube-diego-respirait-bien-apres-six-mois-daudience-le-jugement-des-medecins-de-maradona-sera-rendu-le-22-decembre-20261023_LJ4VZZ4UQBH7FFIWOSS2NPABPI/",
+      "image": null,
+      "date": "2026-10-23T08:21:36+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Shamonda, un premier cas mortel en France",
+      "desc": "Le virus Shamonda, transmis par de petits moucherons, circule dans les élevages français depuis cet été. Et pour la première fois, il a été identifié chez un humain. Ce patient, décédé début octobre à Lyon, avait des défenses immunitaires très affaiblies. Ce serait donc un cas exceptionnel : les aut",
+      "url": "https://www.franceinfo.fr/sante/virus-shamonda-un-premier-cas-mortel-en-france_8249611.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/gyWVB3dIKVjlz5Qs7p_3YW-blIA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/22/6ada6027c7b8b513661588.jpg",
+      "date": "2026-10-23T08:00:02+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Répression du 17 octobre : à Paris, un photographe dont l’artère fémorale a été tranchée passe proche de la mort",
+      "desc": "Ahmed Benmezroua, 25 ans, a été très gravement blessé à la jambe droite, à proximité de la place de la République, samedi 17 octobre. Il a vraisemblablement été atteint par l’éclat d’une grenade explosive tirée par les forces de l’ordre.",
+      "url": "https://www.liberation.fr/societe/police-justice/repression-du-17-octobre-a-paris-un-photographe-dont-lartere-femorale-a-ete-tranchee-passe-proche-de-la-mort-20261023_QEXLZQNZCVDXDGCXX3MLB7YEUY/",
+      "image": null,
+      "date": "2026-10-23T08:00:00+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Jean-Paul Huchon, ancien président de la région Ile-de-France",
+      "desc": "Le dirigeant socialiste, à la tête de la région francilienne de 1998 à 2015, s’est éteint dans la nuit de jeudi à vendredi à l’âge de 80 ans.",
+      "url": "https://www.liberation.fr/politique/elections/mort-de-jean-paul-huchon-ancien-president-de-la-region-ile-de-france-20261023_DS6JQY3SDBGEVFGGFR63NJKCT4/",
+      "image": null,
+      "date": "2026-10-23T07:40:02+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«J’ai eu des règles hémorragiques» : l’exposition aux gaz lacrymogènes menace-t-elle la santé gynécologique ?",
+      "desc": "Des milliers de témoignages évoquent des perturbations du cycle menstruel ou des douleurs utérines ressenties après des manifestations. Si des chercheurs ont formulé des pistes d’explication, le lien de cause à effet avec les gaz irritants n’a pas encore été établi.",
+      "url": "https://www.liberation.fr/checknews/jai-eu-des-regles-hemorragiques-lexposition-aux-gaz-lacrymogenes-menace-t-elle-la-sante-gynecologique-20261023_L2ATWGTJXRCJPMLH7KY2UHUFRY/",
+      "image": null,
+      "date": "2026-10-23T07:00:00+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le virus Shamonda détecté pour la première fois chez un humain en France, un patient est décédé",
+      "desc": "Le virus Shamonda détecté pour la première fois chez un humain en France, un patient est décédé",
+      "url": "https://www.20minutes.fr/tv/videos/4256695-20261023-virus-shamonda-detecte-premiere-fois-chez-humain-france-patient-decede?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/ehoaOoanS9i0OtevjrVpXyk/1200x768_premier-cas-virus-shamonda-chez-etre-humain-detecte-hexagone-agit-patient-severement-immunodeprime-decede-debut-octobre-transmis-moucherons-piqueurs-v",
+      "date": "2026-10-23T06:43:19+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ce test très simple, à faire vous-même, en dit long sur votre état de santé et votre risque de mortalité",
+      "desc": "Et si une simple vérification, réalisable en quelques minutes, vous donnait de précieux indices sur votre état de santé et votre risque de décès prématuré ? Des chercheurs se sont penchés sur cet indicateur étonnant, qui pourrait en révéler bien plus que vous ne l’imaginez. Voici comment...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-ce-test-tres-simple-faire-vous-meme-dit-long-votre-etat-sante-votre-risque-mortalite-138749/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/4/9/149792c375_50262381_pouls-chrono.jpg",
+      "date": "2026-10-23T05:31:25+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
+      "desc": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de l’été ont causé davantage de morts que celles de 2003 ou 2022.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
+      "image": "https://img.lemde.fr/2026/07/17/218/0/5432/2716/644/322/60/0/bcdf974_upload-1-kaobjqiugfxa-chaudauchu-58.jpg",
+      "date": "2026-10-23T05:00:19+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "\"Pas une préoccupation en termes de santé publique\" : que retenir du premier cas de virus Shamonda chez l'être humain ?",
       "desc": "Le virus Shamonda, transmis par de petits moucherons, circule dans les élevages français depuis cet été. Pour la première fois, il a été identifié chez un humain. Le patient, décédé début octobre à Lyon (Rhône), avait des défenses immunitaires très affaiblies. Un cas exceptionnel, car les autorités ",
@@ -13,16 +163,6 @@
       "type": "presse"
     },
     {
-      "title": "Procès d’un triple narchomicide à Aix : les enquêteurs font le récit d’une traque minutieuse",
-      "desc": "ADN, sonorisations, recoupement d’itinéraires, bornages téléphoniques… Depuis deux jours, les enquêteurs se succèdent pour détailler les éléments accumulés à l’encontre des cinq accusés présents dans le box, qui comparaissent pour des crimes commis en 2020.",
-      "url": "https://www.liberation.fr/societe/police-justice/proces-dun-triple-narchomicide-a-aix-les-enqueteurs-font-le-recit-dune-traque-minutieuse-20261022_BKA6L4J4KNGUJEVVJYF36MMZKU/",
-      "image": null,
-      "date": "2026-10-22T19:21:16+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Alzheimer : ce signal que le corps envoie des années avant les oublis",
       "desc": "Une démarche qui ralentit, une poignée de main qui faiblit : ces signes précèdent parfois de plusieurs années les troubles de la mémoire chez les futurs patients Alzheimer. Une expérience sur puce montre que ces atteintes peuvent survenir sans aucune participation du cerveau. Le résultat est...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-signal-corps-envoie-annees-avant-oublis-k2m6-138711/#xtor%3DRSS-8",
@@ -31,26 +171,6 @@
       "date_formatted": "22 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Les parlementaires européens accordent plus de temps à l’industrie de la cosmétique pour retirer ses produits toxiques",
-      "desc": "477 eurodéputés ont voté jeudi 22 octobre en faveur de délais plus longs pour que les entreprises produisant les dentifrices et autre produits de soins du corps retirent de leurs marchandises les éléments cancérogènes, mutagènes ou toxiques.",
-      "url": "https://www.liberation.fr/environnement/les-parlementaires-europeens-accordent-plus-de-temps-a-lindustrie-de-la-cosmetique-pour-retirer-ses-produits-toxiques-20261022_E2FXUXSVVZCVLD24G7B7LZ6XEY/",
-      "image": null,
-      "date": "2026-10-22T17:20:34+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Crash d’un Mirage-2000 près de Nancy : le parquet confirme la mort des deux pilotes",
-      "desc": "L’avion de chasse s’est écrasé mardi aux alentours de 22 h 30 mardi soir à proximité de la localité de Rogéville vers 22 h 40, ne laissant pas d’espoir de retrouver vivants les deux aviateurs qui se trouvaient à bord.",
-      "url": "https://www.liberation.fr/societe/crash-dun-avion-de-chasse-pres-de-nancy-au-moins-un-mort-et-des-recherches-toujours-en-cours-20261021_GTM3GLQDORAXXGTVL2NGOGEAGM/",
-      "image": null,
-      "date": "2026-10-22T16:51:59+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Ebola : l’Afrique confrontée à une situation « plus complexe » après la propagation du virus au Nigeria, s’alarme le directeur régional de l’OMS",
@@ -263,16 +383,6 @@
       "type": "science"
     },
     {
-      "title": "Après 60 ans : ce que la fragilité de vos os pourrait révéler sur la santé de votre cerveau",
-      "desc": "Le vieillissement est un phénomène naturel et inévitable. Il se traduit par des changements physiques et cognitifs. Dans une nouvelle étude, des chercheurs ont pour la première fois établi un lien entre un signe physique du vieillissement qui concerne de nombreuses personnes et le ralentissement...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-apres-60-ans-ce-fragilite-vos-os-pourrait-reveler-sante-votre-cerveau-138644/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/d/6/6d6db99abb_50262194_femme-douleur-dos.jpg",
-      "date": "2026-10-19T12:27:39+00:00",
-      "date_formatted": "19 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Peut-on rire du cancer du sein ? Oui, répond l’humoriste Nathalie Gallagher",
       "desc": "« La France buissonnière ». A 50 ans, cette habitante de La Roche-sur-Yon se lance dans un seule-en-scène retraçant son combat contre la maladie. Elle y a perdu un sein, mais pas l’envie d’en découdre avec la vie.",
       "url": "https://www.lemonde.fr/m-perso/article/2026/10/19/peut-on-rire-du-cancer-du-sein-oui-repond-l-humoriste-nathalie-gallagher_6797483_4497916.html",
@@ -281,26 +391,6 @@
       "date_formatted": "19 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Bloquer l’anxiété avec de la lumière ?",
-      "desc": "Des chercheurs français ont découvert, entre deux zones du cerveau, un circuit qui déclenche l’anxiété quand il est activé. Quand on le bloque pendant une situation stressante, l’anxiété n’apparaît pas. Avec l’optogénétique, la technique récompensée par le prix Nobel de médecine 2026, on pourrait un",
-      "url": "https://www.franceinfo.fr/sante/bloquer-l-anxiete-avec-de-la-lumiere_8240749.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/0TmNCIiGT2qM0ckTNzWdVqyf5yw/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad250b736b18482747018.jpg",
-      "date": "2026-10-18T16:00:01+00:00",
-      "date_formatted": "18 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Syndrome ovarien métabolique polyendocrinien : « Ce trouble féminin, orphelin thérapeutique, doit être identifié comme une priorité »",
-      "desc": "Depuis la description, en 1936, de cette maladie à l’origine inconnue, dont le nom a été changé en mai, aucun traitement n’a été développé, déplorent dans une tribune au « Monde » des médecins et des patientes.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/16/syndrome-ovarien-metabolique-polyendocrinien-ce-trouble-feminin-orphelin-therapeutique-doit-etre-identifie-comme-une-priorite_6795472_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
-      "date": "2026-10-16T12:00:10+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "L'amibe \"mangeuse de cerveau\" détectée au Yucatan",
@@ -321,26 +411,6 @@
       "date_formatted": "16 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Quand marcher est efficace, même dans les villes polluées",
-      "desc": "« Dix mille pas et plus ». Si la pollution peut aggraver les symptômes ou le risque d’épisode aigu chez les patients atteints de pathologies respiratoires, l’activité physique permet néanmoins d’atténuer certains symptômes.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/16/quand-marcher-est-efficace-meme-dans-les-villes-polluees_6795146_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/15/439/0/5272/2636/644/322/60/0/9768131_upload-1-al8cfxgy1zo2-ap26162523712769.jpg",
-      "date": "2026-10-16T06:00:11+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "« Mes seins et moi » : dans le huis clos d’un cabinet de chirurgie mammaire, à Paris",
-      "desc": "Dans ce podcast, Florence Aubenas, grande reporter au « Monde », revient sur sa série de reportages dans un cabinet privé de chirurgie mammaire, qui traite à la fois le cancer du sein, les malformations mammaires, les questions transgenres et esthétiques. Elle raconte à quel point, quand on parle de",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/10/16/mes-seins-et-moi-dans-le-huis-clos-d-un-cabinet-de-chirurgie-mammaire-a-paris_6795032_5463015.html",
-      "image": "https://img.lemde.fr/2026/10/08/0/0/1800/900/644/322/60/0/efbf0c2_upload-1-3oa7ixcfq4iw-seins1.png",
-      "date": "2026-10-16T05:00:12+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Face au cancer du sein, la recherche nantaise traque les failles des tumeurs",
@@ -489,16 +559,6 @@
       "image": null,
       "date": "2026-08-26T10:59:52+00:00",
       "date_formatted": "26 August 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Une exposition élevée et persistante au bruit routier au début de l’enfance est associée à un risque accru de difficultés émotionnelles et relationnelles à 10 ans",
-      "desc": "En Europe, plus d’une personne sur cinq est exposée de manière chronique à des niveaux de bruit liés au transport considérés comme nocifs pour la santé; le trafic routier en constitue la principale source. Si les effets du bruit sur la santé cardiovasculaire sont relativement bien documentés, l’impa",
-      "url": "https://presse.inserm.fr/une-exposition-elevee-et-persistante-au-bruit-routier-au-debut-de-lenfance-est-associee-a-un-risque-accru-de-difficultes-emotionnelles-et-relationnelles-a-10-ans/73139/",
-      "image": null,
-      "date": "2026-08-25T07:00:59+00:00",
-      "date_formatted": "25 August 2026",
       "source": "Inserm",
       "type": "science"
     }
