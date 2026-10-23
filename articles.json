@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-10-23T10:36:58.530778+00:00",
-  "count": 56,
+  "generated_at": "2026-10-23T16:00:51.266824+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Canicules : l’été 2026 a été le plus meurtrier dans les villes européennes depuis 2000",
+      "desc": "Selon une étude britannique publiée ce vendredi 23 octobre dans la revue «Nature Health», les canicules de 2026 ont causé 50 000 décès en zone urbaine sur le Vieux continent, dont environ 33 000 sont attribuables au changement climatique. Il s’agirait du pire bilan depuis le début du siècle.",
+      "url": "https://www.liberation.fr/environnement/climat/canicules-lete-2026-a-ete-le-plus-meurtrier-dans-les-villes-europeennes-depuis-2000-20261023_7I7HNTIOHREDBJVD6WXZXLGB4E/",
+      "image": null,
+      "date": "2026-10-23T15:23:49+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le gaz lacrymogène est-il dangereux pour la santé ? Ce qu’en dit la science",
+      "desc": "Les gaz lacrymogènes provoquent des irritations passagères, mais peuvent aussi entraîner des complications graves. Des milliers de témoignages alertent sur de possibles effets gynécologiques encore peu étudiés par la science.",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/23/le-gaz-lacrymogene-est-il-dangereux-pour-la-sante-ce-qu-en-dit-la-science_6799078_4355770.html",
+      "image": "https://img.lemde.fr/2026/10/18/500/0/3000/1500/644/322/60/0/111c517_upload-1-gw86elphiv2e-asurp-manif17oct-108713.jpg",
+      "date": "2026-10-23T15:00:02+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Attaque terroriste raciste», «barbarie innommable», «violence terrifiante» : les premières réactions politiques après la fusillade meurtrière dans les Yvelines",
+      "desc": "Le Parquet national antiterroriste a ouvert une enquête et retenu le mobile raciste de l’attaque qui a eu lieu ce vendredi 23 octobre, provoquant la mort d’une personne et en blessant au moins quatre autres, dont une enfant.",
+      "url": "https://www.liberation.fr/societe/police-justice/attaque-terroriste-raciste-barbarie-innommable-violence-terrifiante-les-premieres-reactions-politiques-apres-la-fusillade-meurtriere-dans-les-yvelines-20261023_N2LYR3YG2VECZAOPHB77EN4KLU/",
+      "image": null,
+      "date": "2026-10-23T14:55:13+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Ryu Murakami, figure radicale de la littérature japonaise",
+      "desc": "Provoquant et déroutant, l’auteur de «Bleu presque transparent» et des «Bébés de la consigne automatique» écrivait de la science-fiction contemporaine pour parler du Japon sans concessions. Il avait 74 ans.",
+      "url": "https://www.liberation.fr/culture/livres/mort-de-ryu-murakami-figure-radicale-de-la-litterature-japonaise-20261023_PN7DEFC5XBGMJM4XPB2FKB56KM/",
+      "image": null,
+      "date": "2026-10-23T14:51:30+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Seul 43% des parents connaissent le contrôle parental\", la 15e Paris Games Week sensibilise sur le sujet",
+      "desc": "Le salon du jeu vidéo a lieu jusqu'à dimanche à Paris. Alors que des enfants peuvent passer des heures à jouer, l'événement accueille un espace de sensibilisation pour faire connaître le contrôle parental et l'outil de recommandation d'âge appelé \"Pegi\".",
+      "url": "https://www.franceinfo.fr/culture/jeux-video/seul-43-des-parents-connaissent-le-controle-parental-la-15e-paris-games-week-sensibilise-sur-le-sujet_8250757.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/-lyX3NOSAwo6VnFKGrhotxQ9-yQ/0x368:7066x4342/432x243/filters:format(jpg)/2026/10/23/6adb4a7f85c29247273783.jpg",
+      "date": "2026-10-23T14:41:44+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les passagers d’un avion, qui a atterri en Allemagne, pris de vomissements pendant le vol",
+      "desc": "Une épidémie de norovirus est suspectée sur un vol d’Eurowings, reliant l’île grecque de Rhodes à Düsseldorf (Allemagne), dimanche dernier",
+      "url": "https://www.20minutes.fr/monde/4257024-20261023-passagers-avion-atterri-allemagne-pris-vomissements-pendant-vol?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/_k7w_1HgTO65IJECcmQX6Sk/1200x768_illustration-d-un-avion",
+      "date": "2026-10-23T14:02:36+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ces nonnes avaient un cerveau marqué par Alzheimer, mais aucun symptôme : voici ce que les chercheurs ont découvert",
+      "desc": "Imaginez une femme de plus de 100 ans. Elle a toute sa tête, est capable de répondre à des questions, se souvient parfaitement de son passé et conserve toute sa lucidité. Pourtant, après sa mort, des chercheurs découvrent que son cerveau présente toutes les caractéristiques d’une personne...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-ces-nonnes-avaient-cerveau-ravage-alzheimer-mais-aucun-symptome-voici-ce-chercheurs-ont-decouvert-138751/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/5/8/1584340bd2_50262448_etude-nonnes.jpg",
+      "date": "2026-10-23T13:17:42+00:00",
+      "date_formatted": "23 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Claude Cohen-Tannoudji, mort à l’âge de 93 ans, fut un défenseur de la recherche fondamentale",
       "desc": "Le Prix Nobel, décédé le 22 octobre à 93 ans, s’élevait contre les visions politiques court-termistes et défendait les projets « blancs » sans application immédiate, qui viennent toujours plus tard.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/10/23/claude-cohen-tannoudji-mort-a-l-age-de-93-ans-fut-un-defenseur-de-la-recherche-fondamentale_6799060_3382.html",
       "image": "https://img.lemde.fr/2026/09/10/245/0/4928/2464/644/322/60/0/dbd3fb3_upload-1-o33tmineldnr-000-arp4333570.jpg",
-      "date": "2026-10-23T12:30:09+00:00",
+      "date": "2026-10-23T12:30:04+00:00",
       "date_formatted": "23 October 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -43,26 +113,6 @@
       "type": "science"
     },
     {
-      "title": "Un séisme de magnitude 7 fait au moins seize morts au Tibet",
-      "desc": "Le tremblement de terre a affecté une région située à plus de 4 500 mètres d’altitude et à très faible densité de population. L’armée a été mobilisée pour retrouver les survivants.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/un-seisme-de-magnitude-7-fait-au-moins-seize-morts-au-tibet-20261023_HTJZORO2T5GERK3LFZCKX3RJ44/",
-      "image": null,
-      "date": "2026-10-23T09:09:30+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "En Charente, virée au bal culte des célibataires de Guy : «Il faut voir comment ils s’embrassent»",
-      "desc": "A Foussignac, petit village niché au milieu des vignobles de Cognac, Guy Girard, 89 ans, anime depuis un demi-siècle des soirées pour personnes seules. Entre deux danses circulent leurs confidences sur l’amour, le désir et le deuil.",
-      "url": "https://www.liberation.fr/lifestyle/intimites/en-charente-viree-au-bal-culte-des-celibataires-de-guy-il-faut-voir-comment-ils-sembrassent-20261023_Q5U52PXF7NF4FF3CUG5NA3PX3Y/",
-      "image": null,
-      "date": "2026-10-23T08:25:03+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Un vaccin anticancer personnalisé montre, pour la première fois, un bénéfice chez des patients",
       "desc": "Cette approche thérapeutique innovante a permis, après deux ans, de réduire de 42 % le risque de récidive ou de décès chez des patients atteints de mélanome à haut risque. C’est ce qu’a montré un essai international incluant 1 137 patients, aux résultats divulgués jeudi soir.",
       "url": "https://www.lemonde.fr/sciences/article/2026/10/23/un-vaccin-anticancer-personnalise-montre-pour-la-premiere-fois-un-benefice-chez-des-patients_6799027_1650684.html",
@@ -73,16 +123,6 @@
       "type": "science"
     },
     {
-      "title": "A l’aube, «Diego respirait bien» : après six mois d’audience, le jugement des médecins de Maradona sera rendu le 22 décembre",
-      "desc": "Les membres de son équipe médicale accusés d’avoir sciemment négligé la santé du footballeur mort en 2020 et sa famille se sont succédé à la barre depuis avril. Des peines de quatre à douze ans de prison ont été requises contre six des sept accusés.",
-      "url": "https://www.liberation.fr/sports/football/a-laube-diego-respirait-bien-apres-six-mois-daudience-le-jugement-des-medecins-de-maradona-sera-rendu-le-22-decembre-20261023_LJ4VZZ4UQBH7FFIWOSS2NPABPI/",
-      "image": null,
-      "date": "2026-10-23T08:21:36+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Virus Shamonda, un premier cas mortel en France",
       "desc": "Le virus Shamonda, transmis par de petits moucherons, circule dans les élevages français depuis cet été. Et pour la première fois, il a été identifié chez un humain. Ce patient, décédé début octobre à Lyon, avait des défenses immunitaires très affaiblies. Ce serait donc un cas exceptionnel : les aut",
       "url": "https://www.franceinfo.fr/sante/virus-shamonda-un-premier-cas-mortel-en-france_8249611.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -90,36 +130,6 @@
       "date": "2026-10-23T08:00:02+00:00",
       "date_formatted": "23 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Répression du 17 octobre : à Paris, un photographe dont l’artère fémorale a été tranchée passe proche de la mort",
-      "desc": "Ahmed Benmezroua, 25 ans, a été très gravement blessé à la jambe droite, à proximité de la place de la République, samedi 17 octobre. Il a vraisemblablement été atteint par l’éclat d’une grenade explosive tirée par les forces de l’ordre.",
-      "url": "https://www.liberation.fr/societe/police-justice/repression-du-17-octobre-a-paris-un-photographe-dont-lartere-femorale-a-ete-tranchee-passe-proche-de-la-mort-20261023_QEXLZQNZCVDXDGCXX3MLB7YEUY/",
-      "image": null,
-      "date": "2026-10-23T08:00:00+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Jean-Paul Huchon, ancien président de la région Ile-de-France",
-      "desc": "Le dirigeant socialiste, à la tête de la région francilienne de 1998 à 2015, s’est éteint dans la nuit de jeudi à vendredi à l’âge de 80 ans.",
-      "url": "https://www.liberation.fr/politique/elections/mort-de-jean-paul-huchon-ancien-president-de-la-region-ile-de-france-20261023_DS6JQY3SDBGEVFGGFR63NJKCT4/",
-      "image": null,
-      "date": "2026-10-23T07:40:02+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«J’ai eu des règles hémorragiques» : l’exposition aux gaz lacrymogènes menace-t-elle la santé gynécologique ?",
-      "desc": "Des milliers de témoignages évoquent des perturbations du cycle menstruel ou des douleurs utérines ressenties après des manifestations. Si des chercheurs ont formulé des pistes d’explication, le lien de cause à effet avec les gaz irritants n’a pas encore été établi.",
-      "url": "https://www.liberation.fr/checknews/jai-eu-des-regles-hemorragiques-lexposition-aux-gaz-lacrymogenes-menace-t-elle-la-sante-gynecologique-20261023_L2ATWGTJXRCJPMLH7KY2UHUFRY/",
-      "image": null,
-      "date": "2026-10-23T07:00:00+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -373,16 +383,6 @@
       "type": "science"
     },
     {
-      "title": "Ce trait de personnalité reviendrait sans cesse chez les personnes qui vivent jusqu'à 100 ans, selon la science",
-      "desc": "En Sardaigne, des personnes âgées vivant dans une région réputée pour sa longévité se distinguent par une plus grande ouverture d'esprit que leurs voisins d'une zone rurale comparable. Elles ne déclarent pourtant pas une meilleure qualité de vie liée à la santé. L'étude, menée sur 125 personnes,...",
-      "url": "https://www.futura-sciences.com/sante/actualites/longevite-ce-trait-personnalite-reviendrait-cesse-chez-personnes-vivent-jusqua-100-ans-selon-science-k2m6-138628/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/d/2/dd20feda40_50262174_sardaigne-longevite-centenaires.jpg",
-      "date": "2026-10-19T18:00:00+00:00",
-      "date_formatted": "19 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Peut-on rire du cancer du sein ? Oui, répond l’humoriste Nathalie Gallagher",
       "desc": "« La France buissonnière ». A 50 ans, cette habitante de La Roche-sur-Yon se lance dans un seule-en-scène retraçant son combat contre la maladie. Elle y a perdu un sein, mais pas l’envie d’en découdre avec la vie.",
       "url": "https://www.lemonde.fr/m-perso/article/2026/10/19/peut-on-rire-du-cancer-du-sein-oui-repond-l-humoriste-nathalie-gallagher_6797483_4497916.html",
@@ -499,16 +499,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac7b64908483-e8e596600a6a527c2512e2224292c59130a239bb-jpg.jpg",
       "date": "2026-10-09T07:49:46+00:00",
       "date_formatted": "9 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Anti-diabète et anti-obésité : l’ANSM alerte sur des effets indésirables parfois graves",
-      "desc": "Les médicaments analogues du GLP-1 sont désormais très populaires. Mais l’ANSM a recensé 2801 effets indésirables entre février 2025 et janvier 2026, dont 515 graves et 13 décès, et alerte également sur leur mésusage à des fins d’amaigrissement, notamment chez les jeunes femmes.",
-      "url": "https://www.sciencesetavenir.fr/sante/anti-diabete-et-anti-obesite-des-troubles-digestifs-aux-avc-les-effets-indesirables-se-multiplient_195286?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac7694f6b77b-glp1.jpg",
-      "date": "2026-10-08T10:45:12+00:00",
-      "date_formatted": "8 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
