@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-23T20:43:21.846824+00:00",
+  "generated_at": "2026-10-24T02:14:52.345850+00:00",
   "count": 57,
   "articles": [
+    {
+      "title": "Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS",
+      "desc": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaire, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
+      "image": "https://img.lemde.fr/2026/10/23/216/0/6000/3000/644/322/60/0/449c974_ftp-1-d5dncqpgaeqx-e75b48e4b940466e82f3d4137a518120-0-aa9e6ceb9c424bcab8e69e7072b2e2d3.jpg",
+      "date": "2026-10-24T01:07:05+00:00",
+      "date_formatted": "24 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Manche : un homme meurt en coupant un arbre après le passage de la tempête Austen",
       "desc": "La mort du sexagénaire est une «conséquence indirecte» de la tempête, a précisé la préfecture. Deux autres personnes ont été prises en charge «en urgence absolue» après que le vent a soufflé à plus de 100 km/h dans la zone classée vigilance orange.",
@@ -401,16 +411,6 @@
       "date_formatted": "20 October 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Peut-on rire du cancer du sein ? Oui, répond l’humoriste Nathalie Gallagher",
-      "desc": "« La France buissonnière ». A 50 ans, cette habitante de La Roche-sur-Yon se lance dans un seule-en-scène retraçant son combat contre la maladie. Elle y a perdu un sein, mais pas l’envie d’en découdre avec la vie.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/10/19/peut-on-rire-du-cancer-du-sein-oui-repond-l-humoriste-nathalie-gallagher_6797483_4497916.html",
-      "image": "https://img.lemde.fr/2026/10/13/714/0/5712/2856/644/322/60/0/60d5cf8_upload-1-ppentankoxiy-img-2072.jpeg",
-      "date": "2026-10-19T06:00:28+00:00",
-      "date_formatted": "19 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "L'amibe \"mangeuse de cerveau\" détectée au Yucatan",
