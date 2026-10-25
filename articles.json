@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-25T10:17:01.957975+00:00",
-  "count": 66,
+  "generated_at": "2026-10-25T15:09:20.327629+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "Attentat raciste à Trappes : le tireur a déclaré être traité pour schizophrénie",
+      "desc": "Selon les informations de TF1, Kevin T., 39 ans, a déclaré aux enquêteurs être suivi pour cette pathologie. Sa garde à vue a été levée ce dimanche matin. Il fait actuellement l’objet d’une expertise à l’infirmerie psychiatrique de la préfecture de police.",
+      "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-la-garde-a-vue-du-tireur-levee-pour-des-raisons-psychiatriques-ce-dimanche-20261025_LHSBEKD66BGMTK376UUUCUOV3E/",
+      "image": null,
+      "date": "2026-10-25T14:35:01+00:00",
+      "date_formatted": "25 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Elections en Israël : Gadi Eisenkot, l’ancien général de Tsahal devenu chef de file des anti-Nétanyahou",
+      "desc": "L’ancien chef d’état-major, marqué par la mort de son fils et de deux neveux dans la guerre à Gaza, s’est imposé comme le principal visage de l’opposition israélienne. Il tente de séduire les déçus du Premier ministre en se présentant comme son antithèse.",
+      "url": "https://www.liberation.fr/international/moyen-orient/elections-en-israel-gadi-eisenkot-lancien-general-de-tsahal-devenu-chef-de-file-des-anti-netanyahou-20261025_ZYE452XWLBHNJIR477K4CFNXJQ/",
+      "image": null,
+      "date": "2026-10-25T13:33:00+00:00",
+      "date_formatted": "25 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Après sept ans de procédure, l’affaire Cédric Chouviat, mort par asphyxie lors d’un contrôle policier, enfin devant la justice",
+      "desc": "A partir de ce lundi, trois des quatre policiers présents lors de l’interpellation qui a conduit au décès du livreur de 42 ans sont jugés pour «homicide involontaire». Une qualification pénale contestée par sa famille, qui réclame un procès devant une cour criminelle ou d’Assises.",
+      "url": "https://www.liberation.fr/societe/apres-sept-ans-de-procedure-laffaire-cedric-chouviat-mort-par-asphyxie-lors-dun-controle-policier-enfin-devant-la-justice-20261025_V6O424UQVVHZ3MGLVIUCGEDJR4/",
+      "image": null,
+      "date": "2026-10-25T12:13:14+00:00",
+      "date_formatted": "25 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Octobre pas si rose ?",
+      "desc": "En ce mois de sensibilisation au dépistage du cancer du sein, certaines voix s'élèvent contre l'opération \"octobre rose\". On les entend sur les réseaux sociaux.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/octobre-pas-si-rose_8230930.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/XuKvfhNcBXPyUXOkaQ_0_ENBquY/0x405:4813x3113/432x243/filters:format(jpg)/2026/10/22/6ad9e02e8c732228180232.jpg",
+      "date": "2026-10-25T11:54:49+00:00",
+      "date_formatted": "25 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Cancer du sein : ce n’est pas toujours une boule, ces changements doivent aussi vous alerter",
       "desc": "Une grosseur reste le signe le plus connu du cancer du sein, mais ce n'est pas le seul. Une rougeur, une peau qui prend l'aspect d'une écorce d'orange, un mamelon qui se rétracte ou s'écoule : ces modifications méritent un avis médical sans attendre le prochain dépistage. Avec une précision...",
@@ -11,26 +51,6 @@
       "date_formatted": "25 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Ali Rabeh, maire de Trappes, après l’attentat raciste : «Qui t’apprend à appeler une famille pour lui présenter tes condoléances ?»",
-      "desc": "Au lendemain de l’attentat qui a fait un mort et plusieurs blessés dans sa ville, l’édile des Yvelines s’est entretenu avec «Libé» pour mettre des mots sur le contexte actuel, sans masquer ses failles et ses peurs.",
-      "url": "https://www.liberation.fr/societe/ali-rabeh-maire-de-trappes-apres-lattentat-raciste-qui-tapprend-a-appeler-une-famille-pour-lui-presenter-tes-condoleances-20261025_ZYNZZZMB2NFPRA26KEVJBFLCAE/",
-      "image": null,
-      "date": "2026-10-25T09:57:44+00:00",
-      "date_formatted": "25 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Signé Irène» de Vincent Almendros : Minuit à l’heure d’Irène",
-      "desc": "Un hommage sensible à l’éditrice morte en décembre 2025.",
-      "url": "https://www.liberation.fr/culture/livres/signe-irene-de-vincent-almendros-minuit-a-lheure-direne-20261025_KWDOXTPZSVDCJCOICTRLJCHK44/",
-      "image": null,
-      "date": "2026-10-25T07:20:00+00:00",
-      "date_formatted": "25 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "« Les gens qui me demandent comment ça va, j’ai envie de les tuer » : aux « apéros de la mort », la parole des personnes en deuil se libère",
@@ -51,26 +71,6 @@
       "date_formatted": "24 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "A Lyon, «on veut juste manifester, pas se faire défoncer la gueule»",
-      "desc": "Dans la préfecture du Rhône, la mobilisation a encore pris une tournure chaotique ce samedi 24 octobre, alors que différents cortèges se sont élancés dans le périmètre interdit par les autorités. Les forces de l’ordre ont réprimé avec force gaz lacrymogènes.",
-      "url": "https://www.liberation.fr/societe/a-lyon-on-veut-juste-manifester-pas-se-faire-defoncer-la-gueule-20261024_4FYRQ6WO25CQXHBMGN6GEB5HMY/",
-      "image": null,
-      "date": "2026-10-24T19:13:50+00:00",
-      "date_formatted": "24 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Un combattant dur, mais avec un grand cœur» : Pengo Bossio Wangi, passionné de MMA, tué dans l’attentat de Trappes",
-      "desc": "Cet homme de 26 ans est mort vendredi 23 octobre, à Trappes, lors de l’attaque terroriste et raciste. Etoile montante du sport de combat, ses proches décrivent un homme déterminé, le sourire toujours accroché au visage.",
-      "url": "https://www.liberation.fr/societe/un-combattant-dur-mais-avec-un-grand-coeur-pengo-bossio-wangi-passionne-de-mma-tue-dans-lattentat-de-trappes-20261024_YZ5N5SVHMBFITICHRX2ACRJ7QQ/",
-      "image": null,
-      "date": "2026-10-24T18:48:03+00:00",
-      "date_formatted": "24 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "On pensait cet organe « au repos » après la ménopause : cette étude nous révèle son rôle caché",
@@ -450,16 +450,6 @@
       "date": "2026-10-21T13:19:46+00:00",
       "date_formatted": "21 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Face au vieillissement de sa population, le Japon réduit le remboursement des frais médicaux des seniors",
-      "desc": "Alors que les millions de baby boomers passent le cap des 75 ans, le Japon fait face au vieillissement accéléré de sa population. Le pays modifie son régime de remboursement des frais médicaux pour les seniors.",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/face-au-vieillissement-de-sa-population-le-japon-reduit-le-remboursement-des-frais-medicaux-des-seniors_8226061.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/m2i9Kgpoq3ais17luQBWHu9oI0s/0x300:5760x3540/432x243/filters:format(jpg)/2026/10/21/6ad8806720be2693608969.jpg",
-      "date": "2026-10-21T12:09:50+00:00",
-      "date_formatted": "21 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
