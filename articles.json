@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-25T02:01:11.903909+00:00",
-  "count": 63,
+  "generated_at": "2026-10-25T10:17:01.957975+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title": "Cancer du sein : ce n’est pas toujours une boule, ces changements doivent aussi vous alerter",
+      "desc": "Une grosseur reste le signe le plus connu du cancer du sein, mais ce n'est pas le seul. Une rougeur, une peau qui prend l'aspect d'une écorce d'orange, un mamelon qui se rétracte ou s'écoule : ces modifications méritent un avis médical sans attendre le prochain dépistage. Avec une précision...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-ce-nest-pas-toujours-boule-ces-changements-doivent-aussi-vous-alerter-k2m6-138793/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/e/d/bed1e59245_50262468_cancer-sein-depistage.jpg",
+      "date": "2026-10-25T10:00:00+00:00",
+      "date_formatted": "25 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ali Rabeh, maire de Trappes, après l’attentat raciste : «Qui t’apprend à appeler une famille pour lui présenter tes condoléances ?»",
+      "desc": "Au lendemain de l’attentat qui a fait un mort et plusieurs blessés dans sa ville, l’édile des Yvelines s’est entretenu avec «Libé» pour mettre des mots sur le contexte actuel, sans masquer ses failles et ses peurs.",
+      "url": "https://www.liberation.fr/societe/ali-rabeh-maire-de-trappes-apres-lattentat-raciste-qui-tapprend-a-appeler-une-famille-pour-lui-presenter-tes-condoleances-20261025_ZYNZZZMB2NFPRA26KEVJBFLCAE/",
+      "image": null,
+      "date": "2026-10-25T09:57:44+00:00",
+      "date_formatted": "25 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Signé Irène» de Vincent Almendros : Minuit à l’heure d’Irène",
+      "desc": "Un hommage sensible à l’éditrice morte en décembre 2025.",
+      "url": "https://www.liberation.fr/culture/livres/signe-irene-de-vincent-almendros-minuit-a-lheure-direne-20261025_KWDOXTPZSVDCJCOICTRLJCHK44/",
+      "image": null,
+      "date": "2026-10-25T07:20:00+00:00",
+      "date_formatted": "25 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Les gens qui me demandent comment ça va, j’ai envie de les tuer » : aux « apéros de la mort », la parole des personnes en deuil se libère",
+      "desc": "Dans des bars ou des restaurants, l’association Happy End organise régulièrement, dans 67 villes de France, des rencontres au cours desquelles les personnes endeuillées trouvent un espace de parole pour dire leur peine et leur colère après la mort d’un proche.",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/10/25/les-gens-qui-me-demandent-comment-ca-va-j-ai-envie-de-les-tuer-aux-aperos-de-la-mort-la-parole-des-personnes-en-deuil-se-libere_6800044_4497916.html",
+      "image": "https://img.lemde.fr/2026/10/13/322/0/2846/1423/644/322/60/0/5f3b940_upload-1-4xmsvcsk4kjd-apero-de-la-mort-18-1-rec.jpg",
+      "date": "2026-10-25T06:00:05+00:00",
+      "date_formatted": "25 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Patient bizarre : il arrive aux urgences avec un mal de ventre, la radio révèle une masse métallique dans son estomac !",
       "desc": "Ce rapport de cas n’est pas le premier à raconter une histoire d’ingestion volontaire et importante de corps étrangers chez un patient atteint d’un trouble psychiatrique. Elle est surprenante pour le commun des mortels, mais ce qui la rend encore plus étonnante, c’est la façon dont les médecins...",
@@ -41,16 +81,6 @@
       "date_formatted": "24 October 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "«L’Adolescence du perroquet» d’Amélie Nothomb : prises de bec à l’âge ingrat",
-      "desc": "Le récit de l’arrivée inopinée d’un oiseau dans un foyer est l’occasion pour l’autrice belge d’une véritable réflexion sur la parentalité.",
-      "url": "https://www.liberation.fr/culture/livres/ladolescence-du-perroquet-damelie-nothomb-prises-de-bec-a-lage-ingrat-20261024_QQOWIBXXJZGTXFERDMPJQK3VIM/",
-      "image": null,
-      "date": "2026-10-24T15:10:00+00:00",
-      "date_formatted": "24 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Parkinson : la façon dont vous dessinez une simple spirale révélerait la maladie",
