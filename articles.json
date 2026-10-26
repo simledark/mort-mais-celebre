@@ -1,36 +1,86 @@
 {
-  "generated_at": "2026-10-26T02:02:34.949450+00:00",
-  "count": 64,
+  "generated_at": "2026-10-26T11:42:41.195194+00:00",
+  "count": 66,
   "articles": [
     {
-      "title": "Ali Rabeh, le cri d’alarme du maire de Trappes",
-      "desc": "Encore sous le choc après l’attaque raciste qui a endeuillé sa ville vendredi, l’édile des Yvelines dit à «Libération» sa colère de voir certains élus et médias «fissurer le pacte républicain».",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/ali-rabeh-le-cri-dalarme-du-maire-de-trappes-20261025_I2GCYPMPPZD45HELPBRCSGCYL4/",
+      "title": "Deux nouveaux traitements contre le cancer du poumon améliorent les chances de survie des patients",
+      "desc": "Les chercheurs ont fait part de leur avancée au congrès de cancérologie qui se réunit à Madrid jusqu'à mardi. Le cancer des poumons est l'un des plus courants et des plus ravageurs.",
+      "url": "https://www.franceinfo.fr/sante/cancer/deux-nouveaux-traitements-contre-le-cancer-du-poumon-ameliorent-les-chances-de-survie-des-patients_8254069.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ZK9h0tlXAcgUvecCaxIhjt89mfI/0x270:5184x3186/432x243/filters:format(jpg)/2026/10/26/6adf2e3e6790f556448280.jpg",
+      "date": "2026-10-26T12:02:56+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancers du poumon à petites cellules : une nouvelle immunothérapie permet un gain de survie « jamais vu »",
+      "desc": "Dans les formes avancées de cette maladie très agressive, combiner une immunothérapie innovante à une immunothérapie classique, sans attendre la rechute, réduit le risque de décès de 58 %.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/26/cancers-du-poumon-a-petites-cellules-une-nouvelle-immunotherapie-permet-un-gain-de-survie-jamais-vu_6800675_1650684.html",
+      "image": "https://img.lemde.fr/2026/10/26/1480/0/5910/2955/644/322/60/0/ecc5a53_upload-1-y7iptrqkru0z-049-f0438863.jpg",
+      "date": "2026-10-26T11:15:18+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "« Merci à vous de l’avoir soutenue » : Anouk Deschamps, qui racontait son combat contre le cancer, est décédée à 21 ans",
+      "desc": "Les proches d’Anouk Deschamps, connue sous le pseudonyme « lesbeauxdetours » sur les réseaux sociaux, ont annoncé samedi le décès de la jeune femme qui souffrait d’un cancer rare",
+      "url": "https://www.20minutes.fr/societe/4257605-20261026-merci-avoir-soutenue-anouk-deschamps-racontait-combat-contre-cancer-decedee-21-ans?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/DjEa0bSHSZK8G2mKH7o3gSk/1200x768_07-mars-2026-baviere-munich-le-lettrage-et-le-logo-de-l-application-instagram-sont-visibles-sur-l-ecran-d-un-smartphone-a-munich-baviere-allemagne-le-7-mars-2026-tandis-qu-un-index-tape-sur-l-icone-de-l-application-instagram-est-un-reseau-social-axe-sur-le-partage-de-videos-et-de-photos-gere-par-meta-platforms-icone-doigt-image-de-symbole-photo-de-symbole-illustration-photo-symbolique-photo-d-illustration-image-thematique-image-generale-photo-de-theme-photo-matthias-balk-dpa-urn-newsml-dpa-com-20090101-260308-99-762955-matthias-balk-dpa-sipa-2603081347",
+      "date": "2026-10-26T10:52:36+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alerte européenne : 88 médicaments jugés extrêmement dangereux ? On se calme",
+      "desc": "Selon une vidéo TikTok, une révélation fracassante bouleverse le monde de la pharmacie. Des affirmations inutilement anxiogènes",
+      "url": "https://www.20minutes.fr/societe/4256452-20261026-alerte-europeenne-88-medicaments-juges-extremement-dangereux-calme?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/PhbrjEiESZyYliSwwsL5Nyk/1200x768_image-d-illustration-de-l-interieur-d-une-pharmacie-montrant-des-etageres-remplies-de-boites-a-medicaments-et-des-pharmaciens-dispensant-des-traitements-aux-clients-a-saint-julien-l-ars-en-nouvelle-aquitaine-france-le-24-juillet-2026-la-scene-illustre-l-acces-quotidien-aux-medicaments-apres-que-le-gouvernement-francais-a-decide-de-doubler-la-franchise-medicale-photo-de-jean-francois-fort-hans-lucas-via-afp",
+      "date": "2026-10-26T10:32:36+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Attentat raciste à Trappes : Marine Le Pen remplace des années de stigmatisation par un peu de compassion",
+      "desc": "La candidate d’extrême droite s’indigne du caractère «raciste» de l’attentat qui a fait un mort dans la ville des Yvelines vendredi 23 octobre, oubliant ses innombrables propos jetant l’opprobre sur la commune et son maire qui seraient «islamisés» par «l’immigration dérégulée».",
+      "url": "https://www.liberation.fr/politique/attentat-raciste-a-trappes-marine-le-pen-grand-remplace-des-annees-de-stigmatisation-par-un-peu-de-compassion-20261026_37WFF2DP4VB3REYEFXYVEE3DRA/",
       "image": null,
-      "date": "2026-10-25T19:53:57+00:00",
-      "date_formatted": "25 October 2026",
+      "date": "2026-10-26T10:25:46+00:00",
+      "date_formatted": "26 October 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Motivations du suspect, profil de la victime, état de santé des blessés… Ce que l’on sait ce dimanche de l’attaque raciste dans les Yvelines",
-      "desc": "Vendredi 23 octobre, un homme soupçonné d’avoir voulu s’en prendre à des personnes issues de l’immigration, a tiré à Trappes et à La Verrière faisant un mort et cinq blessés, avant d’être arrêté. Ce dimanche, sa garde à vue a été levée pour raisons psychiatriques.",
-      "url": "https://www.liberation.fr/societe/police-justice/motivations-du-suspect-profil-de-la-victime-etat-de-sante-des-blesses-ce-que-lon-sait-ce-samedi-de-lattaque-raciste-dans-les-yvelines-20261024_ZEXTBXBQPJBSTCEJ5JPENIN3KI/",
-      "image": null,
-      "date": "2026-10-25T19:25:59+00:00",
-      "date_formatted": "25 October 2026",
-      "source": "Libération",
+      "title": "Ces 5 méthodes simples pour vérifier la fraîcheur d'un œuf !",
+      "desc": "Un œuf qui flotte n'est pas forcément dangereux, et un œuf qui coule n'est pas forcément sûr. Les tests domestiques mesurent l'âge d'un œuf, pas sa salubrité. Voici ce que chacun permet réellement de conclure, et le seul critère qui tranche vraiment.",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-ces-5-methodes-simples-verifier-fraicheur-oeuf-k2m6-138803/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/6/f/16f7c6f3bb_50262474_fraicheur-oeufs.jpg",
+      "date": "2026-10-26T10:00:00+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "\"On peut gagner des années\" : une campagne lancée pour dépister l'amylose cardiaque, la \"maladie caméléon\"",
+      "desc": "Cette pathologie rare, potentiellement mortelle et dont les premiers signes d'alertes ne concernent pas le cœur, touche 10 000 personnes en France.",
+      "url": "https://www.franceinfo.fr/sante/maladie/on-peut-gagner-des-annees-une-campagne-lancee-pour-depister-l-amylose-cardiaque-la-maladie-cameleon_8253541.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/HBjU3MLU_kBrkejf-w5GHzLHYUM/0x106:1024x682/432x243/filters:format(jpg)/2026/10/26/6adee731098d8258536537.jpg",
+      "date": "2026-10-26T06:46:08+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
-      "title": "Paris, Nantes, Bordeaux, Marseille… Après l’attentat raciste dans les Yvelines, des rassemblements lundi dans plusieurs villes",
-      "desc": "Les Parisiens sont notamment appelés à converger vers la place Stalingrad lundi 26 octobre à 19 heures. Un homme de 26 ans est mort et cinq autres blessées lors de l’attaque raciste vendredi à Trappes et à La Verrière. Le suspect a été diagnostiqué schizophrène.",
-      "url": "https://www.liberation.fr/societe/paris-nantes-bordeaux-marseille-apres-lattentat-raciste-dans-les-yvelines-des-rassemblements-lundi-dans-plusieurs-villes-20261025_VVQ2K77C7RBZXCFCQSPHVJPIVQ/",
-      "image": null,
-      "date": "2026-10-25T19:23:39+00:00",
-      "date_formatted": "25 October 2026",
-      "source": "Libération",
-      "type": "presse"
+      "title": "Douleur : une étude géante sur 6 millions de personnes révèle deux surprises majeures sur l'âge et le sexe",
+      "desc": "Et si la douleur ne touchait pas tout le monde de la même façon ? En analysant les données de plus de 6 millions de personnes dans 118 pays, une équipe internationale de chercheurs a mis au jour des différences frappantes entre les femmes et les hommes. Mais ce n’est pas tout : l’étude révèle...",
+      "url": "https://www.futura-sciences.com/sante/actualites/douleur-douleur-etude-geante-6-millions-personnes-revele-deux-surprises-majeures-age-sexe-138735/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/2/8/f2886a9700_50262359_2-douleur-dos.jpg",
+      "date": "2026-10-26T05:27:34+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Octobre pas si rose ?",
@@ -313,16 +363,6 @@
       "type": "presse"
     },
     {
-      "title": "Alzheimer : ce signal que le corps envoie des années avant les oublis",
-      "desc": "Une démarche qui ralentit, une poignée de main qui faiblit : ces signes précèdent parfois de plusieurs années les troubles de la mémoire chez les futurs patients Alzheimer. Une expérience sur puce montre que ces atteintes peuvent survenir sans aucune participation du cerveau. Le résultat est...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-signal-corps-envoie-annees-avant-oublis-k2m6-138711/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/6/5/7657799cad_50262324_2-alzheimer-muscles.jpg",
-      "date": "2026-10-22T18:00:00+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Ebola : l’Afrique confrontée à une situation « plus complexe » après la propagation du virus au Nigeria, s’alarme le directeur régional de l’OMS",
       "desc": "Au Nigeria, les autorités ont annoncé, mardi, le premier cas de maladie à virus d’Ebola, une diplomate arrivée à Abuja à bord d’un vol en provenance d’Ouganda. Elles ont également identifié 44 cas contacts.",
       "url": "https://www.lemonde.fr/afrique/article/2026/10/22/ebola-l-afrique-confrontee-a-une-situation-plus-complexe-apres-la-propagation-du-virus-au-nigeria-s-alarme-le-directeur-regional-de-l-oms_6798625_3212.html",
@@ -440,26 +480,6 @@
       "date": "2026-10-21T13:19:46+00:00",
       "date_formatted": "21 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer du sein : + 64 % chez les femmes de moins de 30 ans",
-      "desc": "En France, octobre se met au rose avec la campagne de sensibilisation au dépistage du cancer du sein. Mais depuis 30 ans, les nouveaux cas ont doublé, et désormais, ils connaissent leur plus forte progression chez les femmes de moins de 30 ans",
-      "url": "https://www.20minutes.fr/tv/reportages-20-minutes-tv/4256095-20261020-cancer-sein-64-chez-femmes-moins-30-ans?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/KNNvxzm7QnuuHkR87iPAQik/1200x768_61-000-nombre-nouveaux-cas-cancer-sein-chaque-annee-france-depuis-1990-chiffre-plus-double-touchant-davantage-jeunes-femmes-chez-moins-30-ans-hausse-a",
-      "date": "2026-10-20T16:11:59+00:00",
-      "date_formatted": "20 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Manifestation du 17 octobre : Le street médic roué de coups à Paris n’est pas mort",
-      "desc": "Après le décès d’un homme non loin de la place de la République, samedi 17 octobre, une confusion est née sur les réseaux sociaux avec un street médic roué de coup par la police",
-      "url": "https://www.20minutes.fr/societe/4256028-20261020-manifestation-17-octobre-street-medic-roue-coups-paris-mort?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/AmXac_AKQiWBe6sD-YO8Fik/1200x768_17-octobre-2026-paris-abruzzes-france-paris-manifestation-d-etudiants-et-de-travailleurs-contre-la-hausse-du-cout-de-la-vie-la-situation-s-est-aggravee-du-matin-a-tard-dans-la-nuit-avec-des-affrontements-des-barricades-des-voitures-incendiees-et-des-magasins-pilles-la-police-a-riposte-en-utilisant-des-gaz-lacrymogenes-et-des-agents-d-etancheite-sur-la-photo-la-police-a-frappe-un-medecin-de-rue-qui-est-tombe-inconscient-au-sol-image-de-credit-sebastiano-bacci-zuma-press-wire-20261017-zaf-b283-017-zeus-2610181023",
-      "date": "2026-10-20T15:10:25+00:00",
-      "date_formatted": "20 October 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
