@@ -1,15 +1,95 @@
 {
-  "generated_at": "2026-10-26T11:42:41.195194+00:00",
-  "count": 66,
+  "generated_at": "2026-10-26T17:46:10.865281+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "Attentat raciste dans les Yvelines : la garde à vue de Kevin T. a repris, il conteste le mobile raciste de ses actes",
+      "desc": "En conférence de presse ce lundi 26 octobre, le procureur antiterroriste s’est exprimé sur l’attaque qui a fait un mort et cinq blessés vendredi, à Trappes et La Verrière.",
+      "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-dans-les-yvelines-la-garde-a-vue-de-kevin-t-a-repris-il-conteste-le-mobile-raciste-de-ses-actes-20261026_N4YMWTMTGRBYHKSVGYP3KY6SMA/",
+      "image": null,
+      "date": "2026-10-26T17:39:20+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le procès des trois policiers jugés pour la mort de Cédric Chouviat renvoyé à juin",
+      "desc": "Les avocats des deux parties ont dénoncé ce lundi 26 octobre devant le tribunal correctionnel de Paris un temps d’audience insuffisant pour se pencher sur les faits qui ont mené à la mort du livreur de 42 ans, en janvier 2020.",
+      "url": "https://www.liberation.fr/societe/police-justice/le-proces-des-trois-policiers-juges-pour-la-mort-de-cedric-chouviat-renvoye-a-juin-20261026_Q5J7AN2L5JD7XFCUIVM46M2AMU/",
+      "image": null,
+      "date": "2026-10-26T16:11:17+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mieux manger dès le plus jeune âge, le défi d'un chef cuisinier",
+      "desc": "Apprendre aux enfants à bien manger, à reconnaître les fruits et légumes de saison et à découvrir de nouvelles saveurs. C'est le pari du chef Olivier Chaput et de son équipe, qui organisent des ateliers culinaires directement sur les marchés. Au menu : cuisine, découverte des produits et dégustation",
+      "url": "https://www.franceinfo.fr/sante/alimentation/mieux-manger-des-le-plus-jeune-age-le-defi-d-un-chef-cuisinier_8254354.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/PQcdTX2uQYemD3-ZrraLbJKKzPg/23x0:1580x876/432x243/filters:format(jpg)/2026/10/26/6adf6a593ffea507369315.png",
+      "date": "2026-10-26T15:58:39+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Attentat raciste à Trappes : comment fonctionnent les examens psychiatriques en garde à vue ?",
+      "desc": "Kévin T., le suspect de l’attaque mortelle dans les Yvelines, a été placé en soins psychiatriques après la levée de sa garde à vue samedi 24 octobre. Une décision qui ne dit rien, à cette heure, d’une éventuelle irresponsabilité pénale.",
+      "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-comment-fonctionnent-les-examens-psychiatriques-en-garde-a-vue-20261026_3BSGSCGIQZEBJPDZWVZXGBRWHM/",
+      "image": null,
+      "date": "2026-10-26T15:15:50+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Deux nouveaux traitements contre le cancer du poumon améliorent les chances de survie des patients",
       "desc": "Les chercheurs ont fait part de leur avancée au congrès de cancérologie qui se réunit à Madrid jusqu'à mardi. Le cancer des poumons est l'un des plus courants et des plus ravageurs.",
       "url": "https://www.franceinfo.fr/sante/cancer/deux-nouveaux-traitements-contre-le-cancer-du-poumon-ameliorent-les-chances-de-survie-des-patients_8254069.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/ZK9h0tlXAcgUvecCaxIhjt89mfI/0x270:5184x3186/432x243/filters:format(jpg)/2026/10/26/6adf2e3e6790f556448280.jpg",
-      "date": "2026-10-26T12:02:56+00:00",
+      "date": "2026-10-26T14:09:32+00:00",
       "date_formatted": "26 October 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L'ancienne ministre de la Santé Michèle Barzach est morte à l'âge de 83 ans",
+      "desc": "Cette gynécologue de formation avait été nommée ministre de la Santé et de la Famille de 1986 à 1988, lorsque Jacques Chirac était Premier ministre de François Mitterrand. Elle a aussi été présidente d'Unicef France de 2012 à 2015.",
+      "url": "https://www.franceinfo.fr/sante/l-ancienne-ministre-de-la-sante-michele-barzach-est-morte-a-l-age-de-83-ans_8254237.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/PaJY9fLkrIkp--mRJMDSWmhDGy4/0x124:1013x694/432x243/filters:format(jpg)/2026/10/26/6adf494d57a84978163324.jpg",
+      "date": "2026-10-26T13:57:04+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte",
+      "desc": "Cette gynécologue, figure de la droite libérale et sociale, auréolée d’un engagement sans faille dans la lutte contre le sida et dans l’humanitaire, mais dont l’image a été ternie par l’affaire Matzneff, s’est éteinte lundi 26 octobre, à l’âge de 83 ans.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html",
+      "image": "https://img.lemde.fr/2026/02/09/783/0/4134/2067/644/322/60/0/39be605_upload-1-s9rtydwjzks5-grk4935904.jpg",
+      "date": "2026-10-26T13:43:13+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Poitiers : L’université étudie l’adaptation des femmes à la haute altitude",
+      "desc": "Dans les Andes, une mission explore les réactions féminines au manque d’oxygène à 5.300 mètres, selon « Aquitaine Matin »",
+      "url": "https://www.20minutes.fr/sante/4257612-20261026-poitiers-universite-etudie-adaptation-femmes-haute-altitude?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-tBl4xZyTJaj-t0zOUmiSSk/1200x768_avec-expedition-5300-l-universite-de-poitiers-etudie-les-reactions-des-femmes-au-manque-d-oxygene-dans-les-andes-avec-des-perspectives-medicales-photo-d-illustration",
+      "date": "2026-10-26T13:04:14+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la prostate : Un médicament permettrait de réduire la taille des tumeurs",
+      "desc": "Le laboratoire Johnson & Johnson a annoncé des résultats prometteurs pour son médicament JNJ-6143 contre le cancer de la prostate",
+      "url": "https://www.20minutes.fr/sante/4257597-20261026-cancer-prostate-medicament-permettrait-reduire-taille-tumeurs?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/mI9DEBTJS3i57pkOm45u1yk/1200x768_jamesbenet-de-getty-images-signature",
+      "date": "2026-10-26T11:44:05+00:00",
+      "date_formatted": "26 October 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -30,26 +110,6 @@
       "date": "2026-10-26T10:52:36+00:00",
       "date_formatted": "26 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Alerte européenne : 88 médicaments jugés extrêmement dangereux ? On se calme",
-      "desc": "Selon une vidéo TikTok, une révélation fracassante bouleverse le monde de la pharmacie. Des affirmations inutilement anxiogènes",
-      "url": "https://www.20minutes.fr/societe/4256452-20261026-alerte-europeenne-88-medicaments-juges-extremement-dangereux-calme?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/PhbrjEiESZyYliSwwsL5Nyk/1200x768_image-d-illustration-de-l-interieur-d-une-pharmacie-montrant-des-etageres-remplies-de-boites-a-medicaments-et-des-pharmaciens-dispensant-des-traitements-aux-clients-a-saint-julien-l-ars-en-nouvelle-aquitaine-france-le-24-juillet-2026-la-scene-illustre-l-acces-quotidien-aux-medicaments-apres-que-le-gouvernement-francais-a-decide-de-doubler-la-franchise-medicale-photo-de-jean-francois-fort-hans-lucas-via-afp",
-      "date": "2026-10-26T10:32:36+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Attentat raciste à Trappes : Marine Le Pen remplace des années de stigmatisation par un peu de compassion",
-      "desc": "La candidate d’extrême droite s’indigne du caractère «raciste» de l’attentat qui a fait un mort dans la ville des Yvelines vendredi 23 octobre, oubliant ses innombrables propos jetant l’opprobre sur la commune et son maire qui seraient «islamisés» par «l’immigration dérégulée».",
-      "url": "https://www.liberation.fr/politique/attentat-raciste-a-trappes-marine-le-pen-grand-remplace-des-annees-de-stigmatisation-par-un-peu-de-compassion-20261026_37WFF2DP4VB3REYEFXYVEE3DRA/",
-      "image": null,
-      "date": "2026-10-26T10:25:46+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -283,16 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Un virus inconnu chez l'humain jusqu'ici : ce que l'on sait du premier cas mortel signalé en France",
-      "desc": "Détecté pour la première fois chez un être humain, le virus Shamonda était jusqu’ici associé à des infections animales, notamment chez les bovins. Ce cas inédit, observé chez un patient sévèrement immunodéprimé décédé début octobre, soulève de nouvelles questions : comment cette contamination...",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-virus-inconnu-chez-humain-jusquici-ce-on-sait-premier-cas-mortel-signale-france-138761/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/3/2/f32ad148ac_50262409_virus-shamonda.jpg",
-      "date": "2026-10-23T10:21:55+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Première détection chez l’humain, transmission, risques… Que sait-on du virus Shamonda ?",
       "desc": "Un premier cas humain d’infection par le virus Shamonda, jusque-là connu uniquement chez l’animal, a été identifié en France. Dans l’état actuel des connaissances, les autorités sanitaires n’identifient pas de risque pour la population générale. Tandis que les investigations se poursuivent pour comp",
       "url": "https://presse.inserm.fr/canal-detox/premiere-detection-chez-lhumain-transmission-risques-que-sait-on-du-virus-shamonda/",
@@ -331,16 +381,6 @@
       "date_formatted": "23 October 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Ce test très simple, à faire vous-même, en dit long sur votre état de santé et votre risque de mortalité",
-      "desc": "Et si une simple vérification, réalisable en quelques minutes, vous donnait de précieux indices sur votre état de santé et votre risque de décès prématuré ? Des chercheurs se sont penchés sur cet indicateur étonnant, qui pourrait en révéler bien plus que vous ne l’imaginez. Voici comment...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-ce-test-tres-simple-faire-vous-meme-dit-long-votre-etat-sante-votre-risque-mortalite-138749/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/4/9/149792c375_50262381_pouls-chrono.jpg",
-      "date": "2026-10-23T05:31:25+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
@@ -403,16 +443,6 @@
       "type": "science"
     },
     {
-      "title": "Un premier cas de virus Shamonda chez l'être humain détecté en France",
-      "desc": "Le virus Shamonda a été détecté pour la première fois en France à l'été 2026 chez des bovins. Il se transmet via la piqûre d'un moucheron. C'est la première fois au monde que ce virus est détecté chez un être humain.",
-      "url": "https://www.franceinfo.fr/sante/maladie/un-premier-cas-de-virus-shamonda-chez-l-etre-humain-detecte-en-france_8248633.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/y1Of5Yvo-1DDIQDz4oeaF8I-Gw8/0x53:1024x629/432x243/filters:format(jpg)/2026/10/22/6ad9cfd67789f990608635.jpg",
-      "date": "2026-10-22T10:57:46+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Un colloque autour de la figure d’un historien membre de l’Action française déchire l’Institut de France",
       "desc": "Le secrétaire perpétuel de l’Académie des sciences, Antoine Triller, a publiquement dénoncé l’organisation d’un événement, sous l’égide de l’Académie des sciences morales et politiques, consacré à l’historien Jacques Bainville, mort en 1936.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/22/un-colloque-autour-de-la-figure-d-un-historien-membre-de-l-action-francaise-dechire-l-institut-de-france_6798592_3244.html",
@@ -431,36 +461,6 @@
       "date_formatted": "22 October 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Lyon : Ce que l’on sait sur le virus Shamonda, un virus animal détecté pour la première fois chez l’être humain",
-      "desc": "Le virus Shamonda, considéré comme non transmissible à l’être humain et uniquement connu chez les animaux, a été retrouvé chez un patient des Hospices civils de Lyon",
-      "url": "https://www.20minutes.fr/sante/4256523-20261022-lyon-sait-virus-shamonda-virus-animal-detecte-premiere-fois-chez-etre-humain?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Vge1LLvVRciZqLvq0Cf3Lik/1200x768_au-gaec-du-but-polo-aymeric-et-l-apprenti-maxime-travaillent-14-h-par-jour-pour-les-130-vaches-laitieres-de-la-ferme-la-premiere-traite-commence-a-7h-la-derniere-est-a-20h-dans-la-journee-la-mise-au-pre-du-troupeau-l-entretien-du-materiel-donner-a-manger-aux-veaux-et-en-ce-moment-le-labourage-des-champs-en-ce-moment-de-confinement-a-cause-du-coronavirus-les-eleveurs-et-agriculteurs-sont-au-travail-ici-vaches-laitieres-vrigny-le-26-03-2020-siccolipatrick-0847038-2003270939",
-      "date": "2026-10-22T09:44:29+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les additifs dans les goûters de nos enfants",
-      "desc": "Certains gâteaux industriels contiennent des additifs dits \"à risque\" sur Yuka. Les effets sur la santé de ces agents de texture et conservateurs, identifiés par un \"macaron rouge\" sur l'application, font l’objet de recherches scientifiques. L’étude française NutriNet-Santé a notamment mis en éviden",
-      "url": "https://www.franceinfo.fr/sante/les-additifs-dans-les-gouters-de-nos-enfants_8247661.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zDGjc35WBNBoDY-lAwlNk-n6Ek0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/21/6ad8e37201040283028062.jpg",
-      "date": "2026-10-21T20:00:02+00:00",
-      "date_formatted": "21 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Clermont-Ferrand : Ces médecins du CHU prescrivent des concerts sur ordonnance",
-      "desc": "Des patients atteints de maladies chroniques bénéficient d’un dispositif inédit dans le département du Puy-de-Dôme, relate « Ouest-France »",
-      "url": "https://www.20minutes.fr/sante/4256314-20261021-clermont-ferrand-medecins-chu-prescrivent-concerts-ordonnance?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/MU97-oKjTT6JC3TLW1Xczik/1200x768_pekin-chine-24-septembre-l-orchestre-symphonique-de-pekin-se-produit-lors-du-concert-d-ouverture-du-festival-de-musique-de-la-mi-automne-et-de-la-fete-nationale-de-yuanming-yuan-2026-zhengjue-tingqiu-le-24-septembre-2026-a-pekin-en-chine-l-evenement-marque-la-premiere-representation-du-festival-qui-se-tient-sur-le-site-historique-de-yuanming-yuan-photo-de-vcg-vcg-photo-publiee-via-newscom-vcg-photos410839-vcg-newscom-sipa-2609270944",
-      "date": "2026-10-21T18:10:37+00:00",
-      "date_formatted": "21 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Nigeria : un premier cas de maladie à virus Ebola identifié et en isolement",
@@ -598,16 +598,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/cancer-et-fake-news-la-presidente-de-l-inca-demele-le-vrai-du-faux_195305?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/09/cover-r4x3w1200-6ac8a5d07f746-ballon-rose.jpg",
       "date": "2026-10-09T09:54:44+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Le virus du Nil s'implante toujours un peu plus en France: nombre de cas record pour 2026",
-      "desc": "Peu à peu, le virus du Nil s'implante en France causant de plus en plus de cas au fil des ans. Cette année, il a infecté 161 personnes et causé la mort de 5 d'entre eux. Un nombre de cas multiplié par trois par rapport à l'année 2025. La circulation du virus ne cesse de s'étendre, remontant toujours",
-      "url": "https://www.sciencesetavenir.fr/sante/virus-du-nil-occidental-nombre-de-cas-record-dans-l-hexagone_195293?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac7b64908483-e8e596600a6a527c2512e2224292c59130a239bb-jpg.jpg",
-      "date": "2026-10-09T07:49:46+00:00",
       "date_formatted": "9 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
