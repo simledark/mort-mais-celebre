@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-10-27T11:10:45.360526+00:00",
+  "generated_at": "2026-10-27T16:57:02.496234+00:00",
   "count": 64,
   "articles": [
+    {
+      "title": "Un centre dentaire d'Orléans fermé temporairement par l'ARS pour \"risque infectieux\", des patients appelés à se faire dépister",
+      "desc": "Les personnes concernées recevront un courrier afin de les inviter à consulter un médecin et se faire dépister des virus des hépatites B et C et du VIH, même si l'ARS précise que les risques de contamination sont infimes.",
+      "url": "https://www.franceinfo.fr/sante/un-centre-dentaire-d-orleans-ferme-temporairement-par-l-ars-pour-risque-infectieux-des-patients-appeles-a-se-faire-depister_8256016.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/QY8T1kI20FOAfK41G7bzGH2lM_I/0x223:4300x2642/432x243/filters:format(jpg)/2020/01/28/phpKTgq2o.jpg",
+      "date": "2026-10-27T15:59:24+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola: Plus de 10.000 cas recensés en Afrique, la RDC toujours à l'épicentre",
+      "desc": "Déclarée voilà 6 mois, la flambée épidémique actuelle d'Ebola a déjà touché 10.000 personnes. L'épidémie actuelle est causée par la souche Bundibugyo du virus, contre laquelle il n'existe aucun vaccin ni traitement homologués à ce jour.",
+      "url": "https://www.sciencesetavenir.fr/sante/ebola-plus-de-10-000-cas-recenses-en-afrique-la-rdc-toujours-a-l-epicentre_195504?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/20/cover-r4x3w1200-6ae0c43e4abeb-8ec1596fccdbcb135751c3bcfdb4117b6a91c879-jpg.jpg",
+      "date": "2026-10-27T15:33:18+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Arrêt maladie : Combien de jours de carence en cas de grippe ou de rhume ?",
+      "desc": "Grippe ou rhume, les premiers jours d’un arrêt maladie ne sont pas toujours indemnisés. Le délai de carence varie selon que l’on travaille dans le privé ou dans la fonction publique",
+      "url": "https://www.20minutes.fr/societe/4257936-20261027-arret-maladie-combien-jours-carence-cas-grippe-rhume?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/hhkMNMGIRZ-GZaaAsufqByk/1200x768_photo-illustration-d-un-avis-d-arret-de-travail-07allilimages-sipa-06349-credit-mourad-allili-sipa-2403131228",
+      "date": "2026-10-27T15:07:34+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Mourir de faim ou marcher sous les drones pour se sauver» : le piège d’Olechky, ville contrôlée par les Russes",
+      "desc": "Cette commune près de Kherson, au sud de l’Ukraine, occupée par la Russie attend une opération humanitaire prévue le 29 octobre après des mois de pénuries. Ceux qui ont déjà réussi à partir racontent une vie recluse et une fuite périlleuse.",
+      "url": "https://www.liberation.fr/international/europe/mourir-de-faim-ou-marcher-sous-les-drones-pour-se-sauver-le-piege-dolechky-ville-controlee-par-les-russes-20261027_GA723QF3GBG45N6KWFORZRD32E/",
+      "image": null,
+      "date": "2026-10-27T15:06:56+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancers pédiatriques: la piste surprenante de l'auto-immunité",
+      "desc": "Des chercheurs norvégiens ont mis en évidence que les enfants avec un cancer ont un nombre élevé d’anticorps qui ciblent leurs propres protéines, ce qui pourrait entrainer l’accumulation de mutations génétiques à l’origine du cancer.",
+      "url": "https://www.sciencesetavenir.fr/sante/et-si-les-cancers-pediatriques-etaient-declenches-par-une-auto-immunite_195503?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/27/cover-r4x3w1200-6ae0a731b7e05-afp-20231215-347z8f3-v1-highres-kosovohealthhospitalchildren.jpg",
+      "date": "2026-10-27T13:51:52+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Mort du plasticien Victor Anicet, figure des arts visuels caribéens",
+      "desc": "L’artiste, céramiste et peintre a dédié son œuvre aux représentations amérindiennes et à la transmission de la culture martiniquaise. Il est mort dimanche 25 octobre, à l’âge de 88 ans.",
+      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-du-plasticien-victor-anicet-figure-des-arts-visuels-caribeens-20261027_NV4YKYB2VZEZBEVV3TWBWJ7IUE/",
+      "image": null,
+      "date": "2026-10-27T12:19:23+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la peau : un vaccin personnalisé réduit de 42 % le risque de récidive ou de décès après l'opération",
+      "desc": "Un vaccin à ARNm fabriqué sur mesure vient de franchir une étape majeure contre le mélanome. Associé à une immunothérapie après la chirurgie, il réduit de 42 % le risque de récidive ou de décès dans un essai international.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-peau-cancer-peau-vaccin-personnalise-reduit-42-risque-recidive-deces-apres-operation-138866/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/c/d/ccdc0c131b_50262573_melanome.jpg",
+      "date": "2026-10-27T12:08:36+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "L'Afrique face à une épidémie d'Ebola \"plus complexe que prévu\", selon l'OMS",
       "desc": "On recense actuellement plus de 10 000 cas en RDC. Il n'existe encore aucun vaccin efficace contre cette souche, qui tue une personne contaminées sur deux.",
@@ -273,16 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer : le premier vaccin thérapeutique à ARN messager donne de très bon résultats contre le mélanome, le cancer de la peau le plus mortel",
-      "desc": "L'ESMO s'est ouvert, vendredi, à Madrid. Plus de 30 000 oncologues venus du monde entier vont regarder de près ces résultats qui annoncent un vrai changement dans les traitements contre le cancer.",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancer-le-premier-vaccin-therapeutique-a-arn-messager-donne-de-tres-bon-resultats-contre-le-melanome-le-cancer-de-la-peau-le-plus-mortel_8251084.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/t70lnmipq90x3_GMNwB16g0__xA/0x68:2190x1300/432x243/filters:format(jpg)/2026/10/23/6adb83cf069a0128380889.jpg",
-      "date": "2026-10-23T18:05:56+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "On sait comment tuer les cellules tumorales qui survivent à la chimiothérapie",
       "desc": "Les cellules tumorales peuvent devenir sénescentes pour résister à la chimiothérapie, ce qui renforce la tumeur. Mais il existe des médicaments qui éliminent ces cellules résistantes.",
       "url": "https://www.sciencesetavenir.fr/sante/certaines-cellules-tumorales-survivent-a-la-chimiotherapie-maintenant-on-sait-comment-les-tuer_195492?xtor=RSS-16",
@@ -293,16 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Démence : après 55 ans, ces 3 facteurs de risque sont associés à un déclin de la mémoire des décennies plus tard",
-      "desc": "Ne pas fumer, ne pas avoir de diabète et garder une tension artérielle normale au milieu de la vie est associé à près de 13 années supplémentaires sans démence. C'est le résultat d'une vaste étude américaine qui a suivi plus de 12 000 personnes pendant plus d'un quart de siècle. Cette...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-demence-apres-55-ans-ces-3-facteurs-risque-sont-associes-declin-memoire-decennies-plus-tard-k2m6-138747/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/6/7/967a279af0_50262379_demence-esperance-vie.jpg",
-      "date": "2026-10-23T18:00:00+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Le gaz lacrymogène est-il dangereux pour la santé ? Ce qu’en dit la science",
       "desc": "Les gaz lacrymogènes provoquent des irritations passagères, mais peuvent aussi entraîner des complications graves. Des milliers de témoignages alertent sur de possibles effets gynécologiques encore peu étudiés par la science.",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/23/le-gaz-lacrymogene-est-il-dangereux-pour-la-sante-ce-qu-en-dit-la-science_6799078_4355770.html",
@@ -310,16 +360,6 @@
       "date": "2026-10-23T15:00:02+00:00",
       "date_formatted": "23 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "REPORTAGE. \"Seul 43% des parents connaissent le contrôle parental\", la 15e Paris Games Week sensibilise sur le sujet",
-      "desc": "Le salon du jeu vidéo a lieu jusqu'à dimanche à Paris. Alors que des enfants peuvent passer des heures à jouer, l'événement accueille un espace de sensibilisation pour faire connaître le contrôle parental et l'outil de recommandation d'âge appelé \"Pegi\".",
-      "url": "https://www.franceinfo.fr/culture/jeux-video/seul-43-des-parents-connaissent-le-controle-parental-la-15e-paris-games-week-sensibilise-sur-le-sujet_8250757.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/-lyX3NOSAwo6VnFKGrhotxQ9-yQ/0x368:7066x4342/432x243/filters:format(jpg)/2026/10/23/6adb4a7f85c29247273783.jpg",
-      "date": "2026-10-23T14:41:44+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -373,16 +413,6 @@
       "type": "science"
     },
     {
-      "title": "Le virus Shamonda détecté pour la première fois chez un humain en France, un patient est décédé",
-      "desc": "Le virus Shamonda détecté pour la première fois chez un humain en France, un patient est décédé",
-      "url": "https://www.20minutes.fr/tv/videos/4256695-20261023-virus-shamonda-detecte-premiere-fois-chez-humain-france-patient-decede?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ehoaOoanS9i0OtevjrVpXyk/1200x768_premier-cas-virus-shamonda-chez-etre-humain-detecte-hexagone-agit-patient-severement-immunodeprime-decede-debut-octobre-transmis-moucherons-piqueurs-v",
-      "date": "2026-10-23T06:43:19+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
       "desc": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de l’été ont causé davantage de morts que celles de 2003 ou 2022.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
@@ -400,16 +430,6 @@
       "date": "2026-10-22T15:49:16+00:00",
       "date_formatted": "22 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : L’OMS s’inquiète d’une flambée « complexe » du virus en Afrique",
-      "desc": "Après la découverte d’un premier cas cette semaine, le Nigeria est le quatrième pays africain cette année à être touché par le virus Ebola de souche Bundibugyo",
-      "url": "https://www.20minutes.fr/monde/4256707-20261022-ebola-oms-inquiete-flambee-complexe-virus-afrique?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/gg0Iq97fQJe-FWeAwADBISk/1200x768_261021-kinshasa-21-octobre-2026-xinhua-un-travailleur-medical-patrouille-dans-un-centre-de-traitement-d-ebola-a-bunia-capitale-de-la-province-de-l-ituri-en-republique-democratique-du-congo-rdc-le-18-octobre-2026-les-centres-africains-pour-le-controle-et-la-prevention-des-maladies-africa-cdc-ont-appele-a-une-plus-grande-solidarite-mondiale-et-a-un-soutien-international-pour-contenir-l-epidemie-d-ebola-en-pleine-expansion-a-bundibugyo-a-suivre-le-cdc-africain-appelle-a-une-plus-grande-solidarite-mondiale-pour-contenir-le-virus-ebola-alors-que-le-nigeria-confirme-son-premier-cas-xinhua-xin-huashefa-chinenouvelle-xxjpbee000404-20261021-pepfn0a001-credit-chine-nouvelle-sipa-2610211446",
-      "date": "2026-10-22T14:27:41+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -569,26 +589,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/23/cover-r4x3w1200-6ab39132a4c4e-ar-1723571-tf-67187781-1-notext-jpg.jpg",
       "date": "2026-10-10T08:00:00+00:00",
       "date_formatted": "10 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cryothérapie, bilans biologiques hi-tech, caissons hyperbares: le tourisme de luxe capitalise sur la longévité",
-      "desc": "La longévité s’impose comme la nouvelle tendance du tourisme de luxe. Entre technologies de pointe et soins personnalisés, les hôtels haut de gamme misent sur le bien-être et la promesse de vivre plus longtemps pour séduire une clientèle fortunée.",
-      "url": "https://www.sciencesetavenir.fr/sante/bien-etre-et-longevite-les-nouveaux-arguments-du-luxe_195311?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/09/cover-r4x3w1200-6ac8d4beb33fc-luxe.jpg",
-      "date": "2026-10-09T13:11:17+00:00",
-      "date_formatted": "9 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du sein : la présidente de l’Inca démêle le vrai du faux",
-      "desc": "À l’occasion d’Octobre rose, mois de sensibilisation au dépistage du cancer du sein, la lutte contre la maladie passe aussi par la lutte contre les idées reçues et les fausses informations. Dans un entretien Suzette Delaloge, oncologue et présidente de l’Institut national du cancer (Inca), répond au",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-et-fake-news-la-presidente-de-l-inca-demele-le-vrai-du-faux_195305?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/09/cover-r4x3w1200-6ac8a5d07f746-ballon-rose.jpg",
-      "date": "2026-10-09T09:54:44+00:00",
-      "date_formatted": "9 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
