@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-27T02:39:50.555175+00:00",
-  "count": 66,
+  "generated_at": "2026-10-27T11:10:45.360526+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title": "L'Afrique face à une épidémie d'Ebola \"plus complexe que prévu\", selon l'OMS",
+      "desc": "On recense actuellement plus de 10 000 cas en RDC. Il n'existe encore aucun vaccin efficace contre cette souche, qui tue une personne contaminées sur deux.",
+      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-afrique-face-a-une-epidemie-d-ebola-plus-complexe-que-prevu-selon-l-oms_8234653.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/fIt2iQaUxmxL3EW3dVWV7CKBWrg/0x261:5000x3073/432x243/filters:format(jpg)/2026/10/27/6ae041cd26cef222167568.jpg",
+      "date": "2026-10-27T08:39:04+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la prostate : un nouveau traitement permet de prolonger de deux ans la survie des patients présentant des métastases, selon une étude",
+      "desc": "Un traitement complémentaire sous forme d'hormonothérapie de seconde génération permet d'augmenter significativement la survie des patients atteints de cette forme de cancer.",
+      "url": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-un-nouveau-traitement-permet-de-prolonger-de-deux-ans-la-survie-des-patients-presentant-des-metastases-selon-une-etude_8255137.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/zWxE7oV-9jL9Mp_8zi7eYzMQxaQ/0x170:2120x1362/432x243/filters:format(jpg)/2024/06/22/gettyimages-1307403890-6676cfc6deae0120450596.jpg",
+      "date": "2026-10-27T07:06:54+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Santé gynécologique : un collectif alerte sur les gaz lacrymogènes",
+      "desc": "Si la question, est encore très peu étudiée, le collectif citoyen « Lacrymo de sang » recueille des témoignages et réclame une étude scientifique poussée aux pouvoirs publics afin de déterminer s’il existe ou non un lien de cause à effet.",
+      "url": "https://www.franceinfo.fr/sante/sante-gynecologique-un-collectif-alerte-sur-les-gaz-lacrymogenes_8254741.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/5k530FnY0dtYTpxb8CtE5p2OHvQ/0x656:1080x1263/432x243/filters:format(jpg)/2026/10/26/6adfa1fe9d9ab885380816.jpg",
+      "date": "2026-10-27T06:00:11+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Qu’est-ce que la dépression « circadienne », un nouveau type de dépression qui concernerait jusqu’à 25% des personnes dépressives ?",
+      "desc": "Les personnes atteintes du sous-type circadien commencent généralement à souffrir de dépression à un âge jeune et présentent des symptômes sévères comme la manie, la psychose et les tendances suicidaires.",
+      "url": "https://www.futura-sciences.com/sante/actualites/depression-quest-ce-depression-circadienne-nouveau-type-depression-concernerait-jusqua-25-personnes-depressives-138726/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/6/1/c6164c56f8_50262550_portrait-double-depression.jpg",
+      "date": "2026-10-27T05:28:00+00:00",
+      "date_formatted": "27 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "\"J'ai dit oui tout de suite\" : comment fonctionne le vaccin testé avec succès contre les récidives du cancer de la peau ?",
       "desc": "On assiste peut-être à un tournant dans la lutte contre le cancer : le vaccin sur mesure, adapté à chaque patient, donne des résultats très prometteurs contre le mélanome, le cancer de la peau le plus mortel. Quelque 82% des patients qui ont reçu le traitement n'ont pas fait de récidives. Nous avons",
@@ -10,36 +50,6 @@
       "date": "2026-10-26T23:09:49+00:00",
       "date_formatted": "26 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de l’écrivain René Belletto, la grande traversée des genres",
-      "desc": "Figure du roman noir qui n’aimait pas les cases, l’auteur de «l’Enfer» et de «la Machine», mais aussi d’un essai brillant sur Charles Dickens, est mort dimanche 25 octobre à 81 ans.",
-      "url": "https://www.liberation.fr/culture/livres/mort-de-lecrivain-rene-belletto-la-grande-traversee-des-genres-20261026_GBMJSXVWSRAXFJELCY2DFNH2WA/",
-      "image": null,
-      "date": "2026-10-26T18:43:20+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Attentat raciste à Trappes : comment fonctionnent les examens psychiatriques en garde à vue ?",
-      "desc": "Désormais de nouveau en garde à vue, Kévin T., le suspect de l’attaque mortelle dans les Yvelines, avait été placé en soins psychiatriques samedi 24 octobre. Une décision qui ne dit rien, à cette heure, d’une éventuelle irresponsabilité pénale.",
-      "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-comment-fonctionnent-les-examens-psychiatriques-en-garde-a-vue-20261026_3BSGSCGIQZEBJPDZWVZXGBRWHM/",
-      "image": null,
-      "date": "2026-10-26T17:58:38+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Attentat dans les Yvelines : la garde à vue de Kévin T. a repris, il conteste le mobile raciste de ses actes",
-      "desc": "Devant la presse ce lundi 26 octobre, le procureur antiterroriste s’est exprimé sur l’attaque qui a fait un mort et quatre blessés graves vendredi, à Trappes et La Verrière.",
-      "url": "https://www.liberation.fr/societe/police-justice/attentat-raciste-dans-les-yvelines-la-garde-a-vue-de-kevin-t-a-repris-il-conteste-le-mobile-raciste-de-ses-actes-20261026_N4YMWTMTGRBYHKSVGYP3KY6SMA/",
-      "image": null,
-      "date": "2026-10-26T17:39:20+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -323,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Ces nonnes avaient un cerveau marqué par Alzheimer, mais aucun symptôme : voici ce que les chercheurs ont découvert",
-      "desc": "Imaginez une femme de plus de 100 ans. Elle a toute sa tête, est capable de répondre à des questions, se souvient parfaitement de son passé et conserve toute sa lucidité. Pourtant, après sa mort, des chercheurs découvrent que son cerveau présente toutes les caractéristiques d’une personne...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-ces-nonnes-avaient-cerveau-ravage-alzheimer-mais-aucun-symptome-voici-ce-chercheurs-ont-decouvert-138751/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/5/8/1584340bd2_50262448_etude-nonnes.jpg",
-      "date": "2026-10-23T13:17:42+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Claude Cohen-Tannoudji, mort à l’âge de 93 ans, fut un défenseur de la recherche fondamentale",
       "desc": "Le Prix Nobel, décédé le 22 octobre à 93 ans, s’élevait contre les visions politiques court-termistes et défendait les projets « blancs » sans application immédiate, qui viennent toujours plus tard.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/10/23/claude-cohen-tannoudji-mort-a-l-age-de-93-ans-fut-un-defenseur-de-la-recherche-fondamentale_6799060_3382.html",
@@ -373,16 +373,6 @@
       "type": "science"
     },
     {
-      "title": "Virus Shamonda, un premier cas mortel en France",
-      "desc": "Le virus Shamonda, transmis par de petits moucherons, circule dans les élevages français depuis cet été. Et pour la première fois, il a été identifié chez un humain. Ce patient, décédé début octobre à Lyon, avait des défenses immunitaires très affaiblies. Ce serait donc un cas exceptionnel : les aut",
-      "url": "https://www.franceinfo.fr/sante/virus-shamonda-un-premier-cas-mortel-en-france_8249611.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/gyWVB3dIKVjlz5Qs7p_3YW-blIA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/22/6ada6027c7b8b513661588.jpg",
-      "date": "2026-10-23T08:00:02+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Le virus Shamonda détecté pour la première fois chez un humain en France, un patient est décédé",
       "desc": "Le virus Shamonda détecté pour la première fois chez un humain en France, un patient est décédé",
       "url": "https://www.20minutes.fr/tv/videos/4256695-20261023-virus-shamonda-detecte-premiere-fois-chez-humain-france-patient-decede?at_medium=display&at_campaign=149",
@@ -400,16 +390,6 @@
       "date": "2026-10-23T05:00:19+00:00",
       "date_formatted": "23 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Pas une préoccupation en termes de santé publique\" : que retenir du premier cas de virus Shamonda chez l'être humain ?",
-      "desc": "Le virus Shamonda, transmis par de petits moucherons, circule dans les élevages français depuis cet été. Pour la première fois, il a été identifié chez un humain. Le patient, décédé début octobre à Lyon (Rhône), avait des défenses immunitaires très affaiblies. Un cas exceptionnel, car les autorités ",
-      "url": "https://www.franceinfo.fr/sante/pas-une-preoccupation-en-termes-de-sante-publique-que-retenir-du-premier-cas-de-virus-shamonda-chez-l-etre-humain_8249641.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/OD28IONq9SRhkM0Uhp0aRC4lxzg/46x0:1115x601/432x243/filters:format(jpg)/2026/10/22/6ada696f7febc109185785.jpg",
-      "date": "2026-10-22T21:53:54+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
