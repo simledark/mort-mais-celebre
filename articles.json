@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T16:57:02.496234+00:00",
-  "count": 64,
+  "generated_at": "2026-10-27T21:31:58.124296+00:00",
+  "count": 61,
   "articles": [
     {
       "title": "Un centre dentaire d'Orléans fermé temporairement par l'ARS pour \"risque infectieux\", des patients appelés à se faire dépister",
@@ -33,16 +33,6 @@
       "type": "presse"
     },
     {
-      "title": "«Mourir de faim ou marcher sous les drones pour se sauver» : le piège d’Olechky, ville contrôlée par les Russes",
-      "desc": "Cette commune près de Kherson, au sud de l’Ukraine, occupée par la Russie attend une opération humanitaire prévue le 29 octobre après des mois de pénuries. Ceux qui ont déjà réussi à partir racontent une vie recluse et une fuite périlleuse.",
-      "url": "https://www.liberation.fr/international/europe/mourir-de-faim-ou-marcher-sous-les-drones-pour-se-sauver-le-piege-dolechky-ville-controlee-par-les-russes-20261027_GA723QF3GBG45N6KWFORZRD32E/",
-      "image": null,
-      "date": "2026-10-27T15:06:56+00:00",
-      "date_formatted": "27 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Cancers pédiatriques: la piste surprenante de l'auto-immunité",
       "desc": "Des chercheurs norvégiens ont mis en évidence que les enfants avec un cancer ont un nombre élevé d’anticorps qui ciblent leurs propres protéines, ce qui pourrait entrainer l’accumulation de mutations génétiques à l’origine du cancer.",
       "url": "https://www.sciencesetavenir.fr/sante/et-si-les-cancers-pediatriques-etaient-declenches-par-une-auto-immunite_195503?xtor=RSS-16",
@@ -51,16 +41,6 @@
       "date_formatted": "27 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Mort du plasticien Victor Anicet, figure des arts visuels caribéens",
-      "desc": "L’artiste, céramiste et peintre a dédié son œuvre aux représentations amérindiennes et à la transmission de la culture martiniquaise. Il est mort dimanche 25 octobre, à l’âge de 88 ans.",
-      "url": "https://www.liberation.fr/culture/arts/art-contemporain/mort-du-plasticien-victor-anicet-figure-des-arts-visuels-caribeens-20261027_NV4YKYB2VZEZBEVV3TWBWJ7IUE/",
-      "image": null,
-      "date": "2026-10-27T12:19:23+00:00",
-      "date_formatted": "27 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Cancer de la peau : un vaccin personnalisé réduit de 42 % le risque de récidive ou de décès après l'opération",
@@ -331,16 +311,6 @@
       "date_formatted": "23 October 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Virus Shamonda : faut-il s'inquiéter après le premier cas humain détecté en France ? Les 6 questions clés",
-      "desc": "Un virus connu depuis des décennies chez les animaux vient d’être identifié pour la première fois chez un humain, en France. Faut-il s’en inquiéter ? Le point en 6 réponses simples.",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-shamonda-virus-shamonda-faut-il-inquieter-apres-premier-cas-humain-detecte-france-6-questions-cles-138800/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/0/a/d0abf358b5_50262493_vache-ne-on-regard-intense.jpg",
-      "date": "2026-10-23T18:28:32+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "On sait comment tuer les cellules tumorales qui survivent à la chimiothérapie",
