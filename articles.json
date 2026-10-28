@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-10-28T02:49:04.731829+00:00",
-  "count": 61,
+  "generated_at": "2026-10-28T11:44:51.664170+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title": "EN DIRECT – Collision ferroviaire en Espagne : au moins 30 morts, selon les autorités",
+      "desc": "L’accident de train meurtrier est survenu sur la ligne à grande vitesse Madrid-Andalousie peu avant 9 heures ce mercredi 28 octobre. Au moins 80 blessés seraient également à déplorer.",
+      "url": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/",
+      "image": null,
+      "date": "2026-10-28T11:38:47+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Gaz lacrymo : des milliers de femmes témoignent de troubles menstruels après les manifestations",
+      "desc": "Après avoir été exposées à du gaz lacrymogène lors des dernières manifestations, des milliers de femmes ont témoigné de troubles menstruels. En cause, le composant principal des gaz qui pourrait occasionner des douleurs. Mais, il y a un \"vide scientifique\" autour du sujet",
+      "url": "https://www.sciencesetavenir.fr/sante/gaz-lacrymogenes-des-femmes-temoignent-de-troubles-menstruels-apres-les-manifestations_195510?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2023/04/10/cover-r4x3w1200-6ae1ddd49998a-4239f4a62ef3cee2426d14b33a3422b6ddd2f060-jpg.jpg",
+      "date": "2026-10-28T11:34:44+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "L’Inde frappée par les vents et pluies du cyclone Arnab, au moins trois personnes sont mortes",
+      "desc": "Des dizaines de maisons ont été endommagées et de nombreuses infrastructures ont été détruites dans les Etats de l’Andhra Pradesh et de l’Odisha, après qu’un puissant cyclone a frappé la côte sud-est du pays, mercredi 28 octobre.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/linde-frappee-par-les-vents-et-pluies-du-cyclone-arnab-au-moins-trois-personnes-sont-mortes-20261028_QIZQVFCGAJDIBEWS2ALIS7COVA/",
+      "image": null,
+      "date": "2026-10-28T10:13:46+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Attentat raciste de Trappes : le parallèle détestable de Sébastien Lecornu avec la mort de Quentin Deranque",
+      "desc": "A l’Assemblée, mardi 27 octobre, le Premier ministre a établi une équivalence entre l’assassinat de Pengo Bossio Wangi et la mort du militant d’extrême droite tué en février à Lyon dans une rixe. Une déclaration qui révèle l’état de la banalisation du fascisme et du racisme en France.",
+      "url": "https://www.liberation.fr/politique/attentat-raciste-de-trappes-le-parallele-detestable-de-sebastien-lecornu-avec-la-mort-de-quentin-deranque-20261028_ITOEKN3EHREMDMCZY2S2HXVAKY/",
+      "image": null,
+      "date": "2026-10-28T09:45:48+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le changement climatique doit être déclaré « urgence sanitaire mondiale », conclut un rapport médical de référence",
+      "desc": "Selon la revue britannique The Lancet, référence médicale mondiale qui associe 146 chercheurs de 30 pays pour évaluer les conséquences du changement climatique sur la santé de la population, celui-ci aurait causé 3 millions de morts de 2016 à 2023",
+      "url": "https://www.20minutes.fr/planete/environnement/4258176-20261028-changement-climatique-doit-etre-declare-urgence-sanitaire-mondiale-conclut-rapport-medical-reference?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/9fjCdVE6QROtvGet5_Lbzyk/1200x768_un-paysage-de-terres-brulees-par-le-feu-de-vignobles-et-de-vegetation-desseches-par-une-grave-secheresse-est-visible-pres-du-grand-bessillon-dans-le-departement-du-var-dans-le-sud-est-de-la-france-le-mardi-18-aout-2026-dans-un-contexte-de-chaleur-persistante-et-de-conditions-exceptionnellement-seches-barre-hubert-dsc-4614-credit-hubert-barre-sipa-2608191426",
+      "date": "2026-10-28T08:14:46+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des professionnels de santé décrivent les effets de la crise sociale sur la santé psychique : « un bruit de fond anxieux permanent »",
+      "desc": "Depuis le début des blocages lycéens, et encore plus depuis le 17 octobre, médecins généralistes, psychiatres et psychologues observent l’impact du climat anxiogène actuel sur certains de leurs patients, et tentent de leur proposer des clés pour se protéger.",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/28/un-bruit-de-fond-anxieux-permanent-des-professionnels-de-sante-decrivent-les-effets-possibles-de-la-crise-sociale-sur-la-sante-psychique_6801536_3224.html",
+      "image": "https://img.lemde.fr/2026/10/25/487/0/4500/2250/644/322/60/0/d7123e4_upload-1-vqfecu4tyxfx-7324102026-1a0a5637-acteii-manifestation-carrot.jpg",
+      "date": "2026-10-28T06:02:15+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Forte hausse de 7 types de cancers chez les moins de 50 ans : 250 000 patients suivis pour trouver des réponses",
+      "desc": "Certains cancers progressent avant 50 ans dans plusieurs pays. Les chercheurs ont identifié un signal clair, mais peinent encore à en expliquer les causes. Pour avancer, une équipe veut suivre 250 000 adultes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-forte-hausse-7-types-cancers-chez-moins-50-ans-250-000-patients-suivis-trouver-reponses-138318/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/d/c/edc3a3e8c2_50261697_adobestock-886769328.jpg",
+      "date": "2026-10-28T05:28:53+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
+      "desc": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérablement aggravés depuis la signature de l’accord de Paris, en 2015.",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
+      "image": "https://img.lemde.fr/2026/10/26/479/0/3543/1771/644/322/60/0/d4505ed_upload-1-hdoiyr8bdubj-000-b82x6t3-1.jpg",
+      "date": "2026-10-28T05:00:38+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Un centre dentaire d'Orléans fermé temporairement par l'ARS pour \"risque infectieux\", des patients appelés à se faire dépister",
       "desc": "Les personnes concernées recevront un courrier afin de les inviter à consulter un médecin et se faire dépister des virus des hépatites B et C et du VIH, même si l'ARS précise que les risques de contamination sont infimes.",
@@ -263,26 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Parkinson : la façon dont vous dessinez une simple spirale révélerait la maladie",
-      "desc": "Tracer une spirale et un motif anguleux avec un stylo instrumenté, puis confier le résultat à des algorithmes : une équipe indienne annonce distinguer ainsi les personnes atteintes de la maladie de Parkinson avec près de 99 % de réussite. Le chiffre impressionne. Les conditions dans lesquelles...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-facon-vous-dessinez-simple-spirale-revelerait-maladie-k2m6-138776/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/9/7/5972d2b6c2_50262441_parkinson-graphisme-depistage.jpg",
-      "date": "2026-10-24T10:00:00+00:00",
-      "date_formatted": "24 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "« Docteur, j’ai mal aux jambes » : des chercheurs ont enfin compris pourquoi les statines affectent les muscles",
-      "desc": "Elles protègent le cœur en faisant baisser le cholestérol, mais peuvent aussi provoquer des douleurs musculaires parfois invalidantes. Pour la première fois, des chercheurs ont observé à l’échelle moléculaire comment certaines statines perturbent le fonctionnement des cellules musculaires. Et le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/coeur-docteur-jai-mal-jambes-chercheurs-ont-enfin-compris-statines-affectent-muscles-138775/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/6/a/86ad395c3a_50262435_douleur-muscle.jpg",
-      "date": "2026-10-24T06:03:47+00:00",
-      "date_formatted": "24 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "« Votre papa est malade, il va bientôt partir et il veut vous dire des choses… » : à Paris, un atelier permet de se raconter dans une chanson-testament",
       "desc": "L’artiste Marie Tout Court retrace la vie de patients parisiens proches de la mort, et transforme leurs souvenirs en chanson. Un processus d’accompagnement qui rend hommage, dans la joie, à leur existence et qui apaise leurs angoisses, comme celles de leurs proches.",
       "url": "https://www.lemonde.fr/m-perso/article/2026/10/24/votre-papa-est-malade-il-va-bientot-partir-et-il-veut-vous-dire-des-choses-a-paris-un-atelier-permet-de-se-raconter-dans-une-chanson-testament_6799548_4497916.html",
@@ -451,26 +511,6 @@
       "date_formatted": "21 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Le Nigeria confirme que son premier cas de maladie à virus Ebola vient de l’espèce Bundibugyo",
-      "desc": "Cette fièvre hémorragique virale mortelle s’est depuis propagée à plusieurs pays du continent dont l’Ouganda, voisin de la République démocratique du Congo.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/10/21/le-nigeria-confirme-que-son-premier-cas-d-ebola-est-de-la-souche-bundibugyo_6797979_3213.html",
-      "image": "https://img.lemde.fr/2026/10/08/144/0/2881/1440/644/322/60/0/3dd4d70_ftp-1-xjh6bmvrxy90-2026-10-08t145320z-1588852765-rc22zna6g042-rtrmadp-3-health-ebola-kenya.JPG",
-      "date": "2026-10-21T13:19:46+00:00",
-      "date_formatted": "21 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Quand un airbag défectueux devient un dispositif potentiellement mortel",
-      "desc": "Des automobilistes ont subi des lésions comparables à celles infligées par une arme à feu. En cause : la rupture du générateur de gaz de leur airbag. De récentes publications documentent la gravité de ces traumatismes liés aux airbags défectueux de l’équipementier Takata.",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/10/20/quand-un-airbag-defectueux-devient-un-dispositif-potentiellement-mortel_6797907_6579630.html",
-      "image": "https://img.lemde.fr/2026/10/18/45/0/883/441/644/322/60/0/adeb859_upload-1-s0digjjkbkot-de-ploiement-airbag-de-fectueux-takata-traumatismes-craniofaciaux.png",
-      "date": "2026-10-20T12:07:45+00:00",
-      "date_formatted": "20 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "L’exposition pendant la grossesse à certains phtalates et phénols pourrait être associée à une diminution du QI des enfants à 3 ans",
