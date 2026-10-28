@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-10-28T11:44:51.664170+00:00",
-  "count": 65,
+  "generated_at": "2026-10-28T17:31:22.188510+00:00",
+  "count": 62,
   "articles": [
     {
-      "title": "EN DIRECT – Collision ferroviaire en Espagne : au moins 30 morts, selon les autorités",
-      "desc": "L’accident de train meurtrier est survenu sur la ligne à grande vitesse Madrid-Andalousie peu avant 9 heures ce mercredi 28 octobre. Au moins 80 blessés seraient également à déplorer.",
+      "title": "EN DIRECT – Catastrophe ferroviaire en Espagne : le bilan provisoire s’alourdit à 68 morts, un deuil national de trois jours décrété",
+      "desc": "L’accident de train meurtrier est survenu sur la ligne à grande vitesse Madrid-Séville peu avant 9 heures ce mercredi 28 octobre. Au moins 58 blessés seraient également à déplorer.",
       "url": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/",
       "image": null,
-      "date": "2026-10-28T11:38:47+00:00",
+      "date": "2026-10-28T17:20:23+00:00",
       "date_formatted": "28 October 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Catastrophe ferroviaire en Espagne : les accidents de train les plus meurtriers en Europe depuis 2000",
+      "desc": "Alors que le bilan des morts n’est encore que provisoire, la collision entre deux trains survenue ce mercredi 28 octobre entre Madrid et Séville est déjà la deuxième catastrophe ferroviaire la plus meurtrière en Europe depuis le début du siècle.",
+      "url": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-ces-accidents-de-train-les-plus-meurtriers-en-europe-depuis-2000-20260119_H26F5XYZTBALJEM33MVXMXJZKI/",
+      "image": null,
+      "date": "2026-10-28T15:40:46+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Défenses immunitaires : ce qui fonctionne vraiment pour préparer votre organisme aux virus de l'hiver",
+      "desc": "Fin prêts pour passer l'hiver sans rhume, grippe ni autre infection respiratoire ? Les cures de vitamines restent souvent inutiles, voire nocives à haute dose. Il n'existe aucun remède miracle, mais des leviers bien concrets, eux : un bon sommeil, des gestes barrières et un microbiote intestinal...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vitamines-defenses-immunitaires-ce-fonctionne-vraiment-preparer-votre-organisme-virus-hiver-138874/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/5/3/f53d6945d9_50262655_vitamines-hiver.jpg",
+      "date": "2026-10-28T12:46:27+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Gaz lacrymo : des milliers de femmes témoignent de troubles menstruels après les manifestations",
@@ -21,26 +41,6 @@
       "date_formatted": "28 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "L’Inde frappée par les vents et pluies du cyclone Arnab, au moins trois personnes sont mortes",
-      "desc": "Des dizaines de maisons ont été endommagées et de nombreuses infrastructures ont été détruites dans les Etats de l’Andhra Pradesh et de l’Odisha, après qu’un puissant cyclone a frappé la côte sud-est du pays, mercredi 28 octobre.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/linde-frappee-par-les-vents-et-pluies-du-cyclone-arnab-au-moins-trois-personnes-sont-mortes-20261028_QIZQVFCGAJDIBEWS2ALIS7COVA/",
-      "image": null,
-      "date": "2026-10-28T10:13:46+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Attentat raciste de Trappes : le parallèle détestable de Sébastien Lecornu avec la mort de Quentin Deranque",
-      "desc": "A l’Assemblée, mardi 27 octobre, le Premier ministre a établi une équivalence entre l’assassinat de Pengo Bossio Wangi et la mort du militant d’extrême droite tué en février à Lyon dans une rixe. Une déclaration qui révèle l’état de la banalisation du fascisme et du racisme en France.",
-      "url": "https://www.liberation.fr/politique/attentat-raciste-de-trappes-le-parallele-detestable-de-sebastien-lecornu-avec-la-mort-de-quentin-deranque-20261028_ITOEKN3EHREMDMCZY2S2HXVAKY/",
-      "image": null,
-      "date": "2026-10-28T09:45:48+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Le changement climatique doit être déclaré « urgence sanitaire mondiale », conclut un rapport médical de référence",
@@ -293,16 +293,6 @@
       "type": "science"
     },
     {
-      "title": "Octobre pas si rose ?",
-      "desc": "En ce mois de sensibilisation au dépistage du cancer du sein, certaines voix s'élèvent contre l'opération \"octobre rose\". On les entend sur les réseaux sociaux.",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/octobre-pas-si-rose_8230930.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/XuKvfhNcBXPyUXOkaQ_0_ENBquY/0x405:4813x3113/432x243/filters:format(jpg)/2026/10/22/6ad9e02e8c732228180232.jpg",
-      "date": "2026-10-25T11:54:49+00:00",
-      "date_formatted": "25 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer du sein : ce n’est pas toujours une boule, ces changements doivent aussi vous alerter",
       "desc": "Une grosseur reste le signe le plus connu du cancer du sein, mais ce n'est pas le seul. Une rougeur, une peau qui prend l'aspect d'une écorce d'orange, un mamelon qui se rétracte ou s'écoule : ces modifications méritent un avis médical sans attendre le prochain dépistage. Avec une précision...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-ce-nest-pas-toujours-boule-ces-changements-doivent-aussi-vous-alerter-k2m6-138793/#xtor%3DRSS-8",
@@ -328,16 +318,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-patient-bizarre-il-arrive-urgences-mal-ventre-radio-revele-masse-metallique-son-estomac-138788/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/8/d/98dcf7ccad_50262471_radiographie-abdominale-masse-metallique.jpg",
       "date": "2026-10-24T20:07:21+00:00",
-      "date_formatted": "24 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "On pensait cet organe « au repos » après la ménopause : cette étude nous révèle son rôle caché",
-      "desc": "Les ovaires ne deviendraient pas inactifs après la ménopause. Chez la souris, une étude montre qu'ils perdent leur identité reproductive et prennent un profil proche de celui d'un organe immunitaire, envahi de cellules de défense. Des premières données humaines, pas encore validées par d'autres...",
-      "url": "https://www.futura-sciences.com/sante/actualites/organe-on-pensait-cet-organe-repos-apres-menopause-cette-etude-nous-revele-son-role-cache-k2m6-138783/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/e/0/de0c89454e_50262451_ovaires-organe-vieillissement.jpg",
-      "date": "2026-10-24T16:00:00+00:00",
       "date_formatted": "24 October 2026",
       "source": "Futura Santé",
       "type": "science"
@@ -480,16 +460,6 @@
       "date": "2026-10-22T12:12:21+00:00",
       "date_formatted": "22 October 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Un colloque autour de la figure d’un historien membre de l’Action française déchire l’Institut de France",
-      "desc": "Le secrétaire perpétuel de l’Académie des sciences, Antoine Triller, a publiquement dénoncé l’organisation d’un événement, sous l’égide de l’Académie des sciences morales et politiques, consacré à l’historien Jacques Bainville, mort en 1936.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/22/un-colloque-autour-de-la-figure-d-un-historien-membre-de-l-action-francaise-dechire-l-institut-de-france_6798592_3244.html",
-      "image": "https://img.lemde.fr/2026/10/22/651/0/7814/3907/644/322/60/0/cd82944_upload-1-eqbwm55crcmw-000-86r78g3.jpg",
-      "date": "2026-10-22T10:45:01+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
