@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-10-28T17:31:22.188510+00:00",
-  "count": 62,
+  "generated_at": "2026-10-28T21:57:15.750559+00:00",
+  "count": 65,
   "articles": [
     {
-      "title": "EN DIRECT – Catastrophe ferroviaire en Espagne : le bilan provisoire s’alourdit à 68 morts, un deuil national de trois jours décrété",
-      "desc": "L’accident de train meurtrier est survenu sur la ligne à grande vitesse Madrid-Séville peu avant 9 heures ce mercredi 28 octobre. Au moins 58 blessés seraient également à déplorer.",
+      "title": "\"Est-ce que ça a pu causer sa mort ?\" : Les gaz lacrymogènes sont-ils dangereux ?",
+      "desc": "Quels sont les risques pour la santé d’une exposition prolongée aux gaz lacrymogènes ? Peuvent-ils parfois tuer ? C’est ce que se demande la famille du manifestant mort à Paris le 17 octobre, à la suite d’un arrêt cardio-respiratoire.",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/est-ce-que-ca-a-pu-causer-sa-mort-les-gaz-lacrymogenes-sont-ils-dangereux_8257946.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/AFds5uvAVVA9odAE3088jN3PVrk/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae267434a77b423276807.jpg",
+      "date": "2026-10-28T22:44:37+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Catastrophe ferroviaire en Espagne : au moins 68 morts selon le bilan encore provisoire, un deuil national de trois jours décrété",
+      "desc": "L’accident de train meurtrier, le deuxième en moins d’un an, est survenu sur la ligne à grande vitesse Madrid-Séville peu avant 9 heures ce mercredi 28 octobre. Plus de 100 personnes sont blessées, dont 18 gravement.",
       "url": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/",
       "image": null,
-      "date": "2026-10-28T17:20:23+00:00",
+      "date": "2026-10-28T20:58:18+00:00",
       "date_formatted": "28 October 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Catastrophe ferroviaire en Espagne : les accidents de train les plus meurtriers en Europe depuis 2000",
-      "desc": "Alors que le bilan des morts n’est encore que provisoire, la collision entre deux trains survenue ce mercredi 28 octobre entre Madrid et Séville est déjà la deuxième catastrophe ferroviaire la plus meurtrière en Europe depuis le début du siècle.",
-      "url": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-ces-accidents-de-train-les-plus-meurtriers-en-europe-depuis-2000-20260119_H26F5XYZTBALJEM33MVXMXJZKI/",
+      "title": "«J’ai cessé d’avoir confiance dans les trains» : l’Espagne frappée par une nouvelle catastrophe ferroviaire",
+      "desc": "Au moins 68 voyageurs sont morts dans la collision entre deux TGV sur la même voie, à Urda, près de Tolède, ce mercredi. En janvier, 46 personnes avaient péri dans un autre accident impliquant deux convois sur des lignes à grande vitesse.",
+      "url": "https://www.liberation.fr/international/europe/jai-cesse-davoir-confiance-dans-les-trains-lespagne-frappee-par-une-nouvelle-catastrophe-ferroviaire-20261028_DUL6F6B7LNDNZKLBJJG5BDKPVQ/",
       "image": null,
-      "date": "2026-10-28T15:40:46+00:00",
+      "date": "2026-10-28T19:57:41+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un homme meurt en garde à vue au commissariat de Saint-Ouen, l’IGPN saisie",
+      "desc": "Le quadragénaire, découvert inanimé dans sa cellule et en arrêt cardio-respiratoire, n’a pu être ranimé par les sapeurs-pompiers, selon des sources proches de l’enquête ce mercredi 28 octobre.",
+      "url": "https://www.liberation.fr/societe/police-justice/un-homme-meurt-en-garde-a-vue-au-commissariat-de-saint-ouen-ligpn-saisie-20261028_2DEHX4U46NETFEFDURPFY5PEVU/",
+      "image": null,
+      "date": "2026-10-28T18:47:17+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Loi intégrale contre les VSS, un parcours de soins encore perfectible",
+      "desc": "La proposition de loi prévoit une prise en charge des soins en psychotraumatisme encore trop limitée pour les majeurs. Le texte, examiné ce jeudi 29 octobre, est l’occasion pour les député·es de corriger cet angle mort, plaide un collectif de personnalités artistiques et civiles, dont Camille Kouchn",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/loi-integrale-contre-les-vss-un-parcours-de-soins-encore-perfectible-20261028_OLIOM7XJ55C7VAA7T4AI32QBLE/",
+      "image": null,
+      "date": "2026-10-28T18:44:04+00:00",
+      "date_formatted": "28 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Dolores Huerta, pionnière du mouvement ouvrier paysan et défenseuse des droits civiques, est morte à 96 ans",
+      "desc": "Elle avait cofondé le syndicat United Farm Workers et fait des droits des travailleurs agricoles le combat d’une vie. L’activiste s’est éteinte chez elle, ce mercredi 28 octobre, des suites d’un cancer.",
+      "url": "https://www.liberation.fr/international/amerique/dolores-huerta-pionniere-du-mouvement-ouvrier-paysan-et-defenseuse-des-droits-civiques-est-morte-a-96-ans-20261028_FXGYWIWSD5EA7IXOEIVCXK4HY4/",
+      "image": null,
+      "date": "2026-10-28T17:32:15+00:00",
       "date_formatted": "28 October 2026",
       "source": "Libération",
       "type": "presse"
@@ -471,16 +511,6 @@
       "date_formatted": "22 October 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Nigeria : un premier cas de maladie à virus Ebola identifié et en isolement",
-      "desc": "« La patiente, une femme récemment arrivée au Nigeria à bord d’un vol international en provenance d’Ouganda, a été admise dans un hôpital privé [de la capitale, Abuja] », a annoncé le ministre de la santé nigérian, Muhammad Ali Pate.",
-      "url": "https://www.lemonde.fr/flux-video-immersif/video/2026/10/21/nigeria-un-premier-cas-de-maladie-a-virus-ebola-identifie-et-en-isolement_6798254_6717263.html",
-      "image": "https://img.lemde.fr/2026/10/21/500/0/6000/3000/644/322/60/0/599bf41_ftp-1-pr20fvzsfmlj-2026-10-21t091438z-621331589-rc2l7oa6rnrg-rtrmadp-3-health-ebola-nigeria.JPG",
-      "date": "2026-10-21T15:00:06+00:00",
-      "date_formatted": "21 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "L’exposition pendant la grossesse à certains phtalates et phénols pourrait être associée à une diminution du QI des enfants à 3 ans",
