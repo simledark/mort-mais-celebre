@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-29T03:10:44.929183+00:00",
-  "count": 65,
+  "generated_at": "2026-10-29T11:53:25.540929+00:00",
+  "count": 57,
   "articles": [
+    {
+      "title": "Catastrophe ferroviaire en Espagne : plusieurs Français portés disparus",
+      "desc": "Le Quai d’Orsay est sans nouvelles de plusieurs ressortissants français, alors que les secours espagnols continuent ce jeudi de rechercher des victimes dans les décombres des trains entrés en collision à Urda mercredi. Le bilan provisoire s’élève à au moins 69 morts et 108 blessés.",
+      "url": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-plusieurs-francais-portes-disparus-20261029_CFPV67PS6BGBNI34DLBURDMIEY/",
+      "image": null,
+      "date": "2026-10-29T10:40:44+00:00",
+      "date_formatted": "29 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "\"Est-ce que ça a pu causer sa mort ?\" : Les gaz lacrymogènes sont-ils dangereux ?",
       "desc": "Quels sont les risques pour la santé d’une exposition prolongée aux gaz lacrymogènes ? Peuvent-ils parfois tuer ? C’est ce que se demande la famille du manifestant mort à Paris le 17 octobre, à la suite d’un arrêt cardio-respiratoire.",
@@ -10,56 +20,6 @@
       "date": "2026-10-28T23:15:15+00:00",
       "date_formatted": "28 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Catastrophe ferroviaire en Espagne : au moins 68 morts selon le bilan encore provisoire, un deuil national de trois jours décrété",
-      "desc": "L’accident de train meurtrier, le deuxième en moins d’un an, est survenu sur la ligne à grande vitesse Madrid-Séville peu avant 9 heures ce mercredi 28 octobre. Plus de 100 personnes sont blessées, dont 18 gravement.",
-      "url": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/",
-      "image": null,
-      "date": "2026-10-28T20:58:18+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«J’ai cessé d’avoir confiance dans les trains» : l’Espagne frappée par une nouvelle catastrophe ferroviaire",
-      "desc": "Au moins 68 voyageurs sont morts dans la collision entre deux TGV sur la même voie, à Urda, près de Tolède, ce mercredi. En janvier, 46 personnes avaient péri dans un autre accident impliquant deux convois sur des lignes à grande vitesse.",
-      "url": "https://www.liberation.fr/international/europe/jai-cesse-davoir-confiance-dans-les-trains-lespagne-frappee-par-une-nouvelle-catastrophe-ferroviaire-20261028_DUL6F6B7LNDNZKLBJJG5BDKPVQ/",
-      "image": null,
-      "date": "2026-10-28T19:57:41+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un homme meurt en garde à vue au commissariat de Saint-Ouen, l’IGPN saisie",
-      "desc": "Le quadragénaire, découvert inanimé dans sa cellule et en arrêt cardio-respiratoire, n’a pu être ranimé par les sapeurs-pompiers, selon des sources proches de l’enquête ce mercredi 28 octobre.",
-      "url": "https://www.liberation.fr/societe/police-justice/un-homme-meurt-en-garde-a-vue-au-commissariat-de-saint-ouen-ligpn-saisie-20261028_2DEHX4U46NETFEFDURPFY5PEVU/",
-      "image": null,
-      "date": "2026-10-28T18:47:17+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Loi intégrale contre les VSS, un parcours de soins encore perfectible",
-      "desc": "La proposition de loi prévoit une prise en charge des soins en psychotraumatisme encore trop limitée pour les majeurs. Le texte, examiné ce jeudi 29 octobre, est l’occasion pour les député·es de corriger cet angle mort, plaide un collectif de personnalités artistiques et civiles, dont Camille Kouchn",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/loi-integrale-contre-les-vss-un-parcours-de-soins-encore-perfectible-20261028_OLIOM7XJ55C7VAA7T4AI32QBLE/",
-      "image": null,
-      "date": "2026-10-28T18:44:04+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Dolores Huerta, pionnière du mouvement ouvrier paysan et défenseuse des droits civiques, est morte à 96 ans",
-      "desc": "Elle avait cofondé le syndicat United Farm Workers et fait des droits des travailleurs agricoles le combat d’une vie. L’activiste s’est éteinte chez elle, ce mercredi 28 octobre, des suites d’un cancer.",
-      "url": "https://www.liberation.fr/international/amerique/dolores-huerta-pionniere-du-mouvement-ouvrier-paysan-et-defenseuse-des-droits-civiques-est-morte-a-96-ans-20261028_FXGYWIWSD5EA7IXOEIVCXK4HY4/",
-      "image": null,
-      "date": "2026-10-28T17:32:15+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -233,26 +193,6 @@
       "type": "presse"
     },
     {
-      "title": "Deux nouveaux traitements contre le cancer du poumon améliorent les chances de survie des patients",
-      "desc": "Les chercheurs ont fait part de leur avancée au congrès de cancérologie qui se réunit à Madrid jusqu'à mardi. Le cancer des poumons est l'un des plus courants et des plus ravageurs.",
-      "url": "https://www.franceinfo.fr/sante/cancer/deux-nouveaux-traitements-contre-le-cancer-du-poumon-ameliorent-les-chances-de-survie-des-patients_8254069.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ZK9h0tlXAcgUvecCaxIhjt89mfI/0x270:5184x3186/432x243/filters:format(jpg)/2026/10/26/6adf2e3e6790f556448280.jpg",
-      "date": "2026-10-26T14:09:32+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'ancienne ministre de la Santé Michèle Barzach est morte à l'âge de 83 ans",
-      "desc": "Cette gynécologue de formation avait été nommée ministre de la Santé et de la Famille de 1986 à 1988, lorsque Jacques Chirac était Premier ministre de François Mitterrand. Elle a aussi été présidente d'Unicef France de 2012 à 2015.",
-      "url": "https://www.franceinfo.fr/sante/l-ancienne-ministre-de-la-sante-michele-barzach-est-morte-a-l-age-de-83-ans_8254237.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/PaJY9fLkrIkp--mRJMDSWmhDGy4/0x124:1013x694/432x243/filters:format(jpg)/2026/10/26/6adf494d57a84978163324.jpg",
-      "date": "2026-10-26T13:57:04+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte",
       "desc": "Cette gynécologue, figure de la droite libérale et sociale, auréolée d’un engagement sans faille dans la lutte contre le sida et dans l’humanitaire, mais dont l’image a été ternie par l’affaire Matzneff, s’est éteinte lundi 26 octobre, à l’âge de 83 ans.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html",
@@ -313,16 +253,6 @@
       "type": "science"
     },
     {
-      "title": "\"On peut gagner des années\" : une campagne lancée pour dépister l'amylose cardiaque, la \"maladie caméléon\"",
-      "desc": "Cette pathologie rare, potentiellement mortelle et dont les premiers signes d'alertes ne concernent pas le cœur, touche 10 000 personnes en France.",
-      "url": "https://www.franceinfo.fr/sante/maladie/on-peut-gagner-des-annees-une-campagne-lancee-pour-depister-l-amylose-cardiaque-la-maladie-cameleon_8253541.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/HBjU3MLU_kBrkejf-w5GHzLHYUM/0x106:1024x682/432x243/filters:format(jpg)/2026/10/26/6adee731098d8258536537.jpg",
-      "date": "2026-10-26T06:46:08+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Douleur : une étude géante sur 6 millions de personnes révèle deux surprises majeures sur l'âge et le sexe",
       "desc": "Et si la douleur ne touchait pas tout le monde de la même façon ? En analysant les données de plus de 6 millions de personnes dans 118 pays, une équipe internationale de chercheurs a mis au jour des différences frappantes entre les femmes et les hommes. Mais ce n’est pas tout : l’étude révèle...",
       "url": "https://www.futura-sciences.com/sante/actualites/douleur-douleur-etude-geante-6-millions-personnes-revele-deux-surprises-majeures-age-sexe-138735/#xtor%3DRSS-8",
@@ -351,16 +281,6 @@
       "date_formatted": "25 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Patient bizarre : il arrive aux urgences avec un mal de ventre, la radio révèle une masse métallique dans son estomac !",
-      "desc": "Ce rapport de cas n’est pas le premier à raconter une histoire d’ingestion volontaire et importante de corps étrangers chez un patient atteint d’un trouble psychiatrique. Elle est surprenante pour le commun des mortels, mais ce qui la rend encore plus étonnante, c’est la façon dont les médecins...",
-      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-patient-bizarre-il-arrive-urgences-mal-ventre-radio-revele-masse-metallique-son-estomac-138788/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/8/d/98dcf7ccad_50262471_radiographie-abdominale-masse-metallique.jpg",
-      "date": "2026-10-24T20:07:21+00:00",
-      "date_formatted": "24 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "« Votre papa est malade, il va bientôt partir et il veut vous dire des choses… » : à Paris, un atelier permet de se raconter dans une chanson-testament",
@@ -459,8 +379,8 @@
       "image": "https://img.lemde.fr/2025/07/17/338/0/3000/1500/644/322/60/0/8617cfc_upload-1-is1ae86ytzxj-frame-441.jpg",
       "date": "2026-10-23T08:24:45+00:00",
       "date_formatted": "23 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
