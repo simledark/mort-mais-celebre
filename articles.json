@@ -1,15 +1,75 @@
 {
-  "generated_at": "2026-10-29T11:53:25.540929+00:00",
-  "count": 57,
+  "generated_at": "2026-10-29T17:41:52.624417+00:00",
+  "count": 50,
   "articles": [
     {
-      "title": "Catastrophe ferroviaire en Espagne : plusieurs Français portés disparus",
-      "desc": "Le Quai d’Orsay est sans nouvelles de plusieurs ressortissants français, alors que les secours espagnols continuent ce jeudi de rechercher des victimes dans les décombres des trains entrés en collision à Urda mercredi. Le bilan provisoire s’élève à au moins 69 morts et 108 blessés.",
+      "title": "Catastrophe ferroviaire en Espagne : plusieurs Français portés disparus, le bilan s’alourdit à 74 morts",
+      "desc": "Le Quai d’Orsay est sans nouvelles de plusieurs ressortissants, alors que les secours espagnols continuent ce jeudi de rechercher des victimes dans les décombres des trains entrés en collision à Urda mercredi. Toujours provisoire, le bilan s’élève désormais à au moins 74 morts et 108 blessés.",
       "url": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-plusieurs-francais-portes-disparus-20261029_CFPV67PS6BGBNI34DLBURDMIEY/",
       "image": null,
-      "date": "2026-10-29T10:40:44+00:00",
+      "date": "2026-10-29T16:39:21+00:00",
       "date_formatted": "29 October 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Catastrophe ferroviaire à Urda : l’entretien du réseau ferré espagnol en question",
+      "desc": "Après l’accident d’Adamuz en janvier, la collision de deux trains sur la ligne Madrid-Séville, mercredi 28 octobre, a fait 68 morts. Des questions émergent désormais sur les moyens alloués à la sécurité des infrastructures.",
+      "url": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-a-urda-lentretien-du-reseau-ferre-espagnol-en-question-20261029_JK7YHP4DY5EGNENLQAVGGN64PM/",
+      "image": null,
+      "date": "2026-10-29T15:26:14+00:00",
+      "date_formatted": "29 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre en Ukraine : au moins 14 morts, gare ciblée… Ce que l’on sait sur l’attaque russe à Dnipro",
+      "desc": "Un drone s’est abattu ce jeudi près d’un train à l’arrêt sur un quai de la gare de cette grande ville du centre-est du pays. La Russie cible depuis plusieurs semaines le réseau ferré ukrainien.",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-20261029_FRSCMJN5O5DMXEXUUOB6VH5WJU/",
+      "image": null,
+      "date": "2026-10-29T14:50:16+00:00",
+      "date_formatted": "29 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Que sait-on du virus Shamonda qui aurait fait sa première victime en France ?",
+      "desc": "Ce pathogène qui infecte le bétail a été détecté en Europe pour la première fois cet été, quelques mois avant le décès d’une personne immunodéprimée infectée par le virus.",
+      "url": "https://www.sciencesetavenir.fr/sante/que-sait-on-du-virus-shamonda-qui-aurait-fait-sa-premiere-victime-en-france_195514?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/29/cover-r4x3w1200-6ae34ca9c135b-afp-20260829-doucelin-newvirus260829-nplxk-v1-highres-newviruscalledorthobunyav.jpg",
+      "date": "2026-10-29T14:14:36+00:00",
+      "date_formatted": "29 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Pour lutter contre le stress post-traumatique des vétérans, Donald Trump accélère les essais cliniques avec des substances psychédéliques",
+      "desc": "Champignons hallucinogènes, ecstasy… Ces substances aideraient les malades à faire disparaître leurs symptômes. C'est ce qu'affirme une étude soutenue par le président américain.",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/pour-lutter-contre-le-stress-post-traumatique-des-veterans-donald-trump-accelere-les-essais-cliniques-avec-des-substances-psychedeliques_8237959.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/VzvKdXr4pN4WcpYe8uODg3IsjOE/0x409:7867x4835/432x243/filters:format(jpg)/2026/10/29/6ae33ae5b5589448249287.jpg",
+      "date": "2026-10-29T13:53:20+00:00",
+      "date_formatted": "29 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du sein : des remboursements votés, mais toujours pas appliqués",
+      "desc": "Cancer du sein : le remboursement des soutiens-gorge adaptés, de la dermopigmentation et de soins protecteurs attendent toujours leurs décrets d’application, près de deux ans après le vote de la loi en février 2025.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer-du-sein-pres-de-deux-ans-d-attente-pour-les-derniers-decrets-de-remboursement_195633?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/29/cover-r4x3w1200-6ae32d46201b2-cancer-du-sein2.jpg",
+      "date": "2026-10-29T12:57:41+00:00",
+      "date_formatted": "29 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Sous l’effet de la canicule, le nombre de noyades a augmenté en France cet été",
+      "desc": "Entre le 1er mai et le 31 août, 441 personnes sont mortes noyées, notamment dans des piscines, des rivières ou des lacs",
+      "url": "https://www.20minutes.fr/societe/4258611-20261029-sous-effet-canicule-nombre-noyades-augmente-france?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/pQWQtm6FQXy299KwUsLv-yk/1200x768_paris-24-juin-2026-alors-qu-une-vague-de-chaleur-exceptionnelle-deferle-sur-la-france-la-ville-de-paris-a-autorise-la-baignade-dans-une-section-du-canal-saint-martin-cela-n-a-pas-empeche-les-plus-temeraires-de-nager-et-de-plonger-dans-des-zones-non-surveillees-meme-si-c-est-interdit-des-temperatures-extremes-de-40-c-ont-ete-enregistrees-a-paris-depuis-le-21-juin-et-devraient-durer-une-semaine-il-s-agit-de-la-vague-de-chaleur-la-plus-intense-en-france-depuis-celle-de-2003-paris-24-juin-2026-alors-qu-une-canicule-exceptionnelle-s-abat-sur-la-france-la-ville-de-paris-a-autorise-la-baignade-sur-une-portion-du-canal-saint-martin-cela-n-empeche-pas-les-plus-temeraires-de-nager-et-plonger-dans-des-zones-non-surveillees-alors-que-cela-est-interdit-des-temperatures-extremes-de-40-c-ont-ete-relevees-a-paris-depuis-le-21-juin-et-pour-une-duree-d-une-semaine-il-s-agit-de-la-canicule-la-plus-intense-en-france-depuis-celle-de-2003-arnaud-cesar-vilette-sipa-press-vilette-arnaud-a2567-credit-arnaud-cesar-vilette-sipa-2606250838",
+      "date": "2026-10-29T12:34:58+00:00",
+      "date_formatted": "29 October 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -183,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "Mieux manger dès le plus jeune âge, le défi d'un chef cuisinier",
-      "desc": "Apprendre aux enfants à bien manger, à reconnaître les fruits et légumes de saison et à découvrir de nouvelles saveurs. C'est le pari du chef Olivier Chaput et de son équipe, qui organisent des ateliers culinaires directement sur les marchés. Au menu : cuisine, découverte des produits et dégustation",
-      "url": "https://www.franceinfo.fr/sante/alimentation/mieux-manger-des-le-plus-jeune-age-le-defi-d-un-chef-cuisinier_8254354.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/PQcdTX2uQYemD3-ZrraLbJKKzPg/23x0:1580x876/432x243/filters:format(jpg)/2026/10/26/6adf6a593ffea507369315.png",
-      "date": "2026-10-26T15:58:39+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte",
       "desc": "Cette gynécologue, figure de la droite libérale et sociale, auréolée d’un engagement sans faille dans la lutte contre le sida et dans l’humanitaire, mais dont l’image a été ternie par l’affaire Matzneff, s’est éteinte lundi 26 octobre, à l’âge de 83 ans.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html",
@@ -283,6 +333,16 @@
       "type": "presse"
     },
     {
+      "title": "Patient bizarre : il arrive aux urgences avec un mal de ventre, la radio révèle une masse métallique dans son estomac !",
+      "desc": "Ce rapport de cas n’est pas le premier à raconter une histoire d’ingestion volontaire et importante de corps étrangers chez un patient atteint d’un trouble psychiatrique. Elle est surprenante pour le commun des mortels, mais ce qui la rend encore plus étonnante, c’est la façon dont les médecins...",
+      "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-patient-bizarre-il-arrive-urgences-mal-ventre-radio-revele-masse-metallique-son-estomac-138788/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/8/d/98dcf7ccad_50262471_radiographie-abdominale-masse-metallique.jpg",
+      "date": "2026-10-24T20:07:21+00:00",
+      "date_formatted": "24 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
       "title": "« Votre papa est malade, il va bientôt partir et il veut vous dire des choses… » : à Paris, un atelier permet de se raconter dans une chanson-testament",
       "desc": "L’artiste Marie Tout Court retrace la vie de patients parisiens proches de la mort, et transforme leurs souvenirs en chanson. Un processus d’accompagnement qui rend hommage, dans la joie, à leur existence et qui apaise leurs angoisses, comme celles de leurs proches.",
       "url": "https://www.lemonde.fr/m-perso/article/2026/10/24/votre-papa-est-malade-il-va-bientot-partir-et-il-veut-vous-dire-des-choses-a-paris-un-atelier-permet-de-se-raconter-dans-une-chanson-testament_6799548_4497916.html",
@@ -333,16 +393,6 @@
       "type": "presse"
     },
     {
-      "title": "Les passagers d’un avion, qui a atterri en Allemagne, pris de vomissements pendant le vol",
-      "desc": "Une épidémie de norovirus est suspectée sur un vol d’Eurowings, reliant l’île grecque de Rhodes à Düsseldorf (Allemagne), dimanche dernier",
-      "url": "https://www.20minutes.fr/monde/4257024-20261023-passagers-avion-atterri-allemagne-pris-vomissements-pendant-vol?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/_k7w_1HgTO65IJECcmQX6Sk/1200x768_illustration-d-un-avion",
-      "date": "2026-10-23T14:02:36+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Claude Cohen-Tannoudji, mort à l’âge de 93 ans, fut un défenseur de la recherche fondamentale",
       "desc": "Le Prix Nobel, décédé le 22 octobre à 93 ans, s’élevait contre les visions politiques court-termistes et défendait les projets « blancs » sans application immédiate, qui viennent toujours plus tard.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/10/23/claude-cohen-tannoudji-mort-a-l-age-de-93-ans-fut-un-defenseur-de-la-recherche-fondamentale_6799060_3382.html",
@@ -360,16 +410,6 @@
       "date": "2026-10-23T11:58:38+00:00",
       "date_formatted": "23 October 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Première détection chez l’humain, transmission, risques… Que sait-on du virus Shamonda ?",
-      "desc": "Un premier cas humain d’infection par le virus Shamonda, jusque-là connu uniquement chez l’animal, a été identifié en France. Dans l’état actuel des connaissances, les autorités sanitaires n’identifient pas de risque pour la population générale. Tandis que les investigations se poursuivent pour comp",
-      "url": "https://presse.inserm.fr/canal-detox/premiere-detection-chez-lhumain-transmission-risques-que-sait-on-du-virus-shamonda/",
-      "image": null,
-      "date": "2026-10-23T10:21:34+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Inserm",
       "type": "science"
     },
     {
@@ -423,26 +463,6 @@
       "type": "science"
     },
     {
-      "title": "Virus Shamonda : une première détection chez l’être humain",
-      "desc": "Les autorités sanitaires informent de l’infection par le virus Shamonda d’un patient présentant une immunodépression sévère, pris en charge aux Hospices civils de Lyon pour une pathologie grave. Le patient est décédé début octobre. Des investigations cliniques, biologiques et épidémiologiques sont e",
-      "url": "https://presse.inserm.fr/virus-shamonda-une-premiere-detection-chez-letre-humain/73560/",
-      "image": null,
-      "date": "2026-10-22T09:51:55+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "L’exposition pendant la grossesse à certains phtalates et phénols pourrait être associée à une diminution du QI des enfants à 3 ans",
-      "desc": "Phtalates et phénols sont des produits chimiques présents dans l’environnement et l’organisme des femmes enceintes. Plusieurs d’entre eux sont des perturbateurs endocriniens avérés ou suspectés et sont à ce titre, à même d’altérer le fonctionnement du système hormonal. Une équipe de l’Inserm de l’un",
-      "url": "https://presse.inserm.fr/lexposition-pendant-la-grossesse-a-certains-phtalates-et-phenols-pourrait-etre-associee-a-une-diminution-du-qi-des-enfants-a-3-ans/73531/",
-      "image": null,
-      "date": "2026-10-20T04:00:54+00:00",
-      "date_formatted": "20 October 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
       "title": "L'amibe \"mangeuse de cerveau\" détectée au Yucatan",
       "desc": "Des agents de santé ont analysé l'eau de six des neuf lacs du Yucatan (sud-est du Mexique) après le décès d'un moniteur de ski nautique qui avait contracté l'amibe Naegleria fowleri en septembre dernier.",
       "url": "https://www.sciencesetavenir.fr/sante/mexique-l-amibe-mangeuse-de-cerveau-detectee-au-yucatan-six-lacs-fermes_195425?xtor=RSS-16",
@@ -480,96 +500,6 @@
       "date": "2026-10-14T09:55:59+00:00",
       "date_formatted": "14 October 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "\"Affaire des cochons\" à l'IHU de Strasbourg : un patient dépose plainte",
-      "desc": "Un an et demi après l’annulation de son IRM à l’IHU de Strasbourg, un patient atteint d’un cancer du côlon porte plainte contre X. Son rendez-vous faisait partie des 43 examens déprogrammés en mars 2025, dans une affaire qui avait suscité de nombreuses interrogations.",
-      "url": "https://www.sciencesetavenir.fr/sante/affaire-des-cochons-a-l-ihu-de-strasbourg-un-patient-depose-plainte_195353?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/13/cover-r4x3w1200-6ace38602e870-hopital.jpg",
-      "date": "2026-10-13T14:50:39+00:00",
-      "date_formatted": "13 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Soupçon de cas de peste : mode de transmission, traitements… que sait-on de cette maladie ?",
-      "desc": "Alors que le cas d’une laborantine russe qui serait décédée de la peste en Russie fait la Une de nombreux médias, que l’intérêt pour le mot-clé « peste » sur Google a été multiplié par plus de 10 en une semaine et qu’une partie de la sphère complotiste s’est emparée du sujet, Canal détox fait le poi",
-      "url": "https://presse.inserm.fr/canal-detox/soupcon-de-cas-de-peste-mode-de-transmission-traitements-que-sait-on-de-cette-maladie/",
-      "image": null,
-      "date": "2026-10-12T14:40:34+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Grippe et Covid: coup d'envoi de la nouvelle campagne de vaccination",
-      "desc": "Contre la grippe saisonnière et le Covid-19, la campagne annuelle de vaccination démarre mardi 13 octobre en France, avec comme enjeu majeur d'améliorer le niveau de protection, surtout après une épidémie de grippe encore sévère l'hiver dernier.",
-      "url": "https://www.sciencesetavenir.fr/sante/grippe-et-covid-coup-d-envoi-de-la-nouvelle-campagne-de-vaccination_195330?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/12/cover-r4x3w1200-6accac00e0b9d-grippe-222.jpg",
-      "date": "2026-10-12T09:50:31+00:00",
-      "date_formatted": "12 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Première mondiale : des virus transformés en médicaments contre les bactéries résistantes",
-      "desc": "C’est une première mondiale. Les Hospices civils de Lyon ont transformé des phages prélevés dans les eaux usées en médicaments, pour prévenir ou éliminer les infections bactériennes résistantes aux antibiotiques. Une prouesse pharmaceutique validée par les autorités sanitaires.",
-      "url": "https://www.sciencesetavenir.fr/sante/a-lyon-une-premiere-mondiale-des-phages-transformes-en-medicaments-contre-les-bacteries-resistantes-aux-antibiotiques_195005?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/23/cover-r4x3w1200-6ab39132a4c4e-ar-1723571-tf-67187781-1-notext-jpg.jpg",
-      "date": "2026-10-10T08:00:00+00:00",
-      "date_formatted": "10 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Au Nigeria, une stratégie innovante associe vaccination et nutrition préventive pour augmenter la couverture vaccinale des enfants",
-      "desc": "Au Nigeria, la sous-nutrition et les maladies infectieuses constituent une double menace pour la survie de l'enfant, en particulier dans les zones où le fardeau de la malnutrition est élevé et les couvertures vaccinales faibles. Face à ce double enjeu de santé publique, des scientifiques et des huma",
-      "url": "https://presse.inserm.fr/au-nigeria-une-strategie-innovante-associe-vaccination-et-nutrition-preventive-pour-augmenter-la-couverture-vaccinale-des-enfants/73337/",
-      "image": null,
-      "date": "2026-10-02T10:00:59+00:00",
-      "date_formatted": "2 October 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Comment nos organes savent-ils distinguer leur droite de leur gauche ?",
-      "desc": "Dans une étude publiée dans Science Advances, l'équipe de Sigolène Meilhac (Inserm, Institut Imagine, Institut Pasteur, Université Paris Cité) montre, dans un modèle murin, que le mécanisme longtemps tenu pour l'événement fondateur de l'asymétrie gauche-droite, le courant ciliaire, n'en est pas le g",
-      "url": "https://presse.inserm.fr/comment-nos-organes-savent-ils-distinguer-leur-droite-de-leur-gauche/73206/",
-      "image": null,
-      "date": "2026-09-07T12:00:01+00:00",
-      "date_formatted": "7 September 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Diabète de type 2 : de nouveaux sous-types identifiés pour mieux prédire l’évolution de la maladie",
-      "desc": "Des chercheurs et chercheuses de l’Inserm, du CNRS, et de l’Université Paris Cité décrivent pour la première fois différents profils immunitaires chez les patients atteints d’un diabète de type 2. Facilement identifiables avec une simple prise de sang, les patients avec des cellules immunitaires en ",
-      "url": "https://presse.inserm.fr/diabete-de-type-2-de-nouveaux-sous-types-identifies-pour-mieux-predire-levolution-de-la-maladie/73174/",
-      "image": null,
-      "date": "2026-09-03T08:00:08+00:00",
-      "date_formatted": "3 September 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un lien entre « jetlag alimentaire » et risque de maladies cardiovasculaires chez les hommes",
-      "desc": "Une équipe d’INRAE, de l’Inserm, de l’université Sorbonne Paris Nord, de l’université Paris Cité et du Cnam publie une première étude sur les liens entre « jetlag alimentaire » et risque de maladies cardiovasculaires. Le jetlag alimentaire correspond au décalage dans le temps entre les heures de pri",
-      "url": "https://presse.inserm.fr/un-lien-entre-jetlag-alimentaire-et-risque-de-maladies-cardiovasculaires-chez-les-hommes/73162/",
-      "image": null,
-      "date": "2026-09-01T09:14:33+00:00",
-      "date_formatted": "1 September 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Maladie de Sjögren : une nouvelle piste pour expliquer la signature interféron des maladies auto-immunes",
-      "desc": "Des scientifiques de l'Université Paris-Saclay, de l'Inserm, du CEA, de l'AP-HP, de la fondation Arthritis et leurs partenaires internationaux identifient un mécanisme jusqu'alors inconnu expliquant l'activation chronique de l'interféron dans la maladie de Sjögren, un modèle de maladie auto-immune s",
-      "url": "https://presse.inserm.fr/maladie-de-sjogren-une-nouvelle-piste-pour-expliquer-la-signature-interferon-des-maladies-auto-immunes/73189/",
-      "image": null,
-      "date": "2026-08-26T10:59:52+00:00",
-      "date_formatted": "26 August 2026",
-      "source": "Inserm",
       "type": "science"
     }
   ]
