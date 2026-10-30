@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-10-30T11:46:15.296424+00:00",
-  "count": 59,
+  "generated_at": "2026-10-30T17:20:54.698711+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "« Sociable, anxieux, organisé » : quelle est la part de l’ADN dans votre personnalité ?",
+      "desc": "Réservé ou sociable, stressé ou plutôt zen : d’où vient votre caractère ? Une étude sur plus d’un million de personnes, a repéré 1 260 variants génétiques associés à la personnalité. Chacune a un effet infime, mais leur combinaison aide à comprendre ce qui nous différencie.",
+      "url": "https://www.futura-sciences.com/sante/actualites/genetique-sociable-anxieux-organise-part-adn-votre-personnalite-138956/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/8/7/7878ca4b59_50262749_trait-personnalite-adn.jpg",
+      "date": "2026-10-30T14:03:35+00:00",
+      "date_formatted": "30 October 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Arrêts maladie : les partenaires sociaux et le gouvernement négocient sous contrainte budgétaire en vue d’une réforme structurelle",
       "desc": "Alors que l’exécutif fixe comme objectif 1 milliard d’euros d’économie, les représentants syndicaux et patronaux redoutent des débats tronqués sur les questions de pénibilité et de conditions de travail.",
       "url": "https://www.lemonde.fr/politique/article/2026/10/30/arrets-maladie-les-partenaires-sociaux-et-le-gouvernement-negocient-sous-contrainte-budgetaire-en-vue-d-une-reforme-structurelle_6803077_823448.html",
       "image": "https://img.lemde.fr/2026/10/21/230/0/8192/4096/644/322/60/0/00cdef8_ftp-1-gei3x8wlobqu-afp-d3y23j2.jpg",
-      "date": "2026-10-30T12:14:25+00:00",
+      "date": "2026-10-30T12:14:23+00:00",
       "date_formatted": "30 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Un sentiment qu’une tragédie pouvait survenir» : les médias espagnols ciblent les défaillances du système ferroviaire",
-      "desc": "Si le gouvernement lie pour l’instant le drame qui a fait au moins 69 morts mercredi à Urda à une «erreur humaine», les experts semblent unanimes sur le manque d’investissements global – et déjà dénoncé – de la maintenance du rail espagnol.",
-      "url": "https://www.liberation.fr/international/europe/un-sentiment-quune-tragedie-pouvait-survenir-les-medias-espagnols-ciblent-les-defaillances-du-systeme-ferroviaire-20261030_GWJT2UCGZFFIZG6GNECDMF6RG4/",
-      "image": null,
-      "date": "2026-10-30T11:35:29+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Je ressens une douce nostalgie à la vue de ce câlin que je n’ai jamais pu recevoir» : face au deuil, la tech joue aux prompts funèbres",
-      "desc": "De plus en plus de gens utilisent l’intelligence artificielle pour «redonner vie» et interagir avec leurs proches décédés. L’emploi de ces «deadbots», qui sont souvent des béquilles émotionnelles, interroge sur notre rapport à la mort.",
-      "url": "https://www.liberation.fr/lifestyle/hightech/je-ressens-une-douce-nostalgie-a-la-vue-de-ce-calin-que-je-nai-jamais-pu-recevoir-face-au-deuil-la-tech-joue-aux-prompts-funebres-20261030_JL56NJFGJBC6FOU4PIZB2C57DU/",
-      "image": null,
-      "date": "2026-10-30T11:23:00+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Stephen Kovacevich, le plus anglais des pianistes américains",
-      "desc": "L’interprète américain majeur de Beethoven, Brahms, Schubert et Chopin, s’est éteint mardi à Londres à l’âge de 86 ans.",
-      "url": "https://www.liberation.fr/culture/musique/mort-de-stephen-kovacevich-le-plus-anglais-des-pianistes-americains-20261030_LZ6WL3K4WZFTHGCI6AIMRYRQUI/",
-      "image": null,
-      "date": "2026-10-30T10:36:54+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -323,16 +303,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancer de la prostate : Un médicament permettrait de réduire la taille des tumeurs",
-      "desc": "Le laboratoire Johnson & Johnson a annoncé des résultats prometteurs pour son médicament JNJ-6143 contre le cancer de la prostate",
-      "url": "https://www.20minutes.fr/sante/4257597-20261026-cancer-prostate-medicament-permettrait-reduire-taille-tumeurs?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/mI9DEBTJS3i57pkOm45u1yk/1200x768_jamesbenet-de-getty-images-signature",
-      "date": "2026-10-26T11:44:05+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancers du poumon à petites cellules : une nouvelle immunothérapie permet un gain de survie « jamais vu »",
       "desc": "Dans les formes avancées de cette maladie très agressive, combiner une immunothérapie innovante à une immunothérapie classique, sans attendre la rechute, réduit le risque de décès de 58 %.",
       "url": "https://www.lemonde.fr/sciences/article/2026/10/26/cancers-du-poumon-a-petites-cellules-une-nouvelle-immunotherapie-permet-un-gain-de-survie-jamais-vu_6800675_1650684.html",
@@ -341,16 +311,6 @@
       "date_formatted": "26 October 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "« Merci à vous de l’avoir soutenue » : Anouk Deschamps, qui racontait son combat contre le cancer, est décédée à 21 ans",
-      "desc": "Les proches d’Anouk Deschamps, connue sous le pseudonyme « lesbeauxdetours » sur les réseaux sociaux, ont annoncé samedi le décès de la jeune femme qui souffrait d’un cancer rare",
-      "url": "https://www.20minutes.fr/societe/4257605-20261026-merci-avoir-soutenue-anouk-deschamps-racontait-combat-contre-cancer-decedee-21-ans?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/DjEa0bSHSZK8G2mKH7o3gSk/1200x768_07-mars-2026-baviere-munich-le-lettrage-et-le-logo-de-l-application-instagram-sont-visibles-sur-l-ecran-d-un-smartphone-a-munich-baviere-allemagne-le-7-mars-2026-tandis-qu-un-index-tape-sur-l-icone-de-l-application-instagram-est-un-reseau-social-axe-sur-le-partage-de-videos-et-de-photos-gere-par-meta-platforms-icone-doigt-image-de-symbole-photo-de-symbole-illustration-photo-symbolique-photo-d-illustration-image-thematique-image-generale-photo-de-theme-photo-matthias-balk-dpa-urn-newsml-dpa-com-20090101-260308-99-762955-matthias-balk-dpa-sipa-2603081347",
-      "date": "2026-10-26T10:52:36+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Ces 5 méthodes simples pour vérifier la fraîcheur d'un œuf !",
@@ -369,16 +329,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/2/8/f2886a9700_50262359_2-douleur-dos.jpg",
       "date": "2026-10-26T05:27:34+00:00",
       "date_formatted": "26 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du sein : ce n’est pas toujours une boule, ces changements doivent aussi vous alerter",
-      "desc": "Une grosseur reste le signe le plus connu du cancer du sein, mais ce n'est pas le seul. Une rougeur, une peau qui prend l'aspect d'une écorce d'orange, un mamelon qui se rétracte ou s'écoule : ces modifications méritent un avis médical sans attendre le prochain dépistage. Avec une précision...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-ce-nest-pas-toujours-boule-ces-changements-doivent-aussi-vous-alerter-k2m6-138793/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/e/d/bed1e59245_50262468_cancer-sein-depistage.jpg",
-      "date": "2026-10-25T10:00:00+00:00",
-      "date_formatted": "25 October 2026",
       "source": "Futura Santé",
       "type": "science"
     },
@@ -448,16 +398,6 @@
       "url": "https://www.lemonde.fr/sciences/article/2026/10/23/un-vaccin-anticancer-personnalise-montre-pour-la-premiere-fois-un-benefice-chez-des-patients_6799027_1650684.html",
       "image": "https://img.lemde.fr/2025/07/17/338/0/3000/1500/644/322/60/0/8617cfc_upload-1-is1ae86ytzxj-frame-441.jpg",
       "date": "2026-10-23T08:24:45+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
-      "desc": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de l’été ont causé davantage de morts que celles de 2003 ou 2022.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
-      "image": "https://img.lemde.fr/2026/07/17/218/0/5432/2716/644/322/60/0/bcdf974_upload-1-kaobjqiugfxa-chaudauchu-58.jpg",
-      "date": "2026-10-23T05:00:19+00:00",
       "date_formatted": "23 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
