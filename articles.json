@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-31T11:20:01.474199+00:00",
-  "count": 54,
+  "generated_at": "2026-10-31T16:25:44.221885+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Le secret de longévité des chauves-souris",
+      "desc": "Elles résistent aux virus, vieillissent beaucoup moins vite que prévu et semblent même capables d'éliminer les cellules qui risquent de devenir cancéreuses. Les chauves-souris cacheraient-elles un véritable secret de longévité ?",
+      "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-secret-de-longevite-des-chauves-souris_8260736.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/w1gMeoG3Bl7mMGhZooXKmZrQKrg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/30/6ae4c0f81d056043661611.png",
+      "date": "2026-10-31T16:00:04+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Catastrophe ferroviaire en Espagne : une Française parmi les 69 morts",
+      "desc": "Dans un communiqué publié samedi 31 octobre, le quai d’Orsay a confirmé la mort d’une ressortissante française, lors de la collision de deux trains dans la région de Tolède, mercredi 27 octobre.",
+      "url": "https://www.liberation.fr/economie/transports/catastrophe-ferroviaire-en-espagne-une-francaise-parmi-les-69-morts-20261031_S5PPP4BNYVBLLJDZXCRLIEMISU/",
+      "image": null,
+      "date": "2026-10-31T15:40:41+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«On va se débarrasser de vous» : trois jours avant l’attentat raciste de Trappes, Kevin T. mis en cause pour une agression contre un homme noir",
+      "desc": "Selon le procureur de Nanterre, le suspect aurait dû être interrogé le jour de l’attaque à Trappes. Sa victime, agressée dans une station-service de Levallois-Perret, a témoigné auprès de TF1 d’une agression violente, faite de coups et de bombe lacrymogène, émaillée d’insultes racistes.",
+      "url": "https://www.liberation.fr/societe/police-justice/on-va-se-debarrasser-de-vous-trois-jours-avant-lattentat-raciste-de-trappes-kevin-t-mis-en-cause-pour-une-agression-contre-un-homme-noir-20261031_5DIRIH5IRRAMTFCT2R6EQOPR4A/",
+      "image": null,
+      "date": "2026-10-31T13:18:28+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Le pois chiche, c’est émouvant» : rencontre avec Nadia Sammut, cheffe invitée à la Grande Bouffe de «Libé»",
+      "desc": "Depuis son domaine du Lubéron, la professionnelle étoilée, qui souffre de la maladie cœliaque, expérimente en permanence pour proposer une cuisine saine et audacieuse.",
+      "url": "https://www.liberation.fr/forums/le-pois-chiche-cest-emouvant-rencontre-avec-nadia-sammut-cheffe-invitee-a-la-grande-bouffe-de-libe-20261031_PQNGG453FFDORIPE7PRXC2IRGU/",
+      "image": null,
+      "date": "2026-10-31T13:00:00+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Aveyron : Le Mammobile dépiste gratuitement le cancer du sein dans deux communes",
       "desc": "Le Mammobile proposera des examens gratuits les 4 et 5 novembre à Camarès et Saint-Sernin-sur-Rance, selon « Midi Libre »",
@@ -13,16 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Clermont : trois morts dans l’incendie d’un immeuble, un homme interpellé",
-      "desc": "Les secours ont extrait un nouveau cadavre, tard dans la nuit du vendredi 30 au samedi 31 octobre, au lendemain de l’incendie qui a ravagé un immeuble du centre-ville de la ville auvergnate.",
-      "url": "https://www.liberation.fr/societe/police-justice/clermont-trois-morts-dans-lincendie-dun-immeuble-un-homme-interpelle-20261031_UXQGZDYMMFB5LGJJ2XWBCKJUB4/",
-      "image": null,
-      "date": "2026-10-31T09:11:22+00:00",
-      "date_formatted": "31 October 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "\"Le nombre de cancers augmente, mais la mortalité diminue\"",
       "desc": "Thérapies ciblées, intelligence artificielle, dépistage… Reconduit l’été dernier à la tête du premier centre de lutte contre le cancer d’Europe, le Pr Fabrice Barlesi présente les avancées qui doivent permettre de guérir 80 % des patients d’ici à 2040.",
       "url": "https://www.sciencesetavenir.fr/sante/le-nombre-de-cancers-augmente-mais-la-mortalite-diminue_195772?xtor=RSS-16",
@@ -31,16 +61,6 @@
       "date_formatted": "31 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Manifestations : la police ne doit plus utiliser les gaz lacrymogènes tant qu’on ne connaît pas leurs effets sur la santé",
-      "desc": "Un mort dans des conditions suspectes à Paris, des cycles menstruels perturbés, des dangers mal évalués… En adoubant l’utilisation massive de cette substance chimique contre la population, le gouvernement l’expose à des risques qu’il ne maîtrise pas, faute d’études médicales précises.",
-      "url": "https://www.liberation.fr/societe/sante/manifestations-la-police-ne-doit-plus-utiliser-les-gaz-lacrymogenes-tant-quon-ne-connait-pas-leurs-effets-sur-la-sante-20261031_5DRP3P54HVDWXBXFA5NDVC7OB4/",
-      "image": null,
-      "date": "2026-10-31T07:00:00+00:00",
-      "date_formatted": "31 October 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Remèdes de grand-mère, principes actifs… Sont-ils efficaces et sans danger pour la santé ?",
@@ -348,16 +368,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/alimentation-ces-5-methodes-simples-verifier-fraicheur-oeuf-k2m6-138803/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/6/f/16f7c6f3bb_50262474_fraicheur-oeufs.jpg",
       "date": "2026-10-26T10:00:00+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Douleur : une étude géante sur 6 millions de personnes révèle deux surprises majeures sur l'âge et le sexe",
-      "desc": "Et si la douleur ne touchait pas tout le monde de la même façon ? En analysant les données de plus de 6 millions de personnes dans 118 pays, une équipe internationale de chercheurs a mis au jour des différences frappantes entre les femmes et les hommes. Mais ce n’est pas tout : l’étude révèle...",
-      "url": "https://www.futura-sciences.com/sante/actualites/douleur-douleur-etude-geante-6-millions-personnes-revele-deux-surprises-majeures-age-sexe-138735/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/2/8/f2886a9700_50262359_2-douleur-dos.jpg",
-      "date": "2026-10-26T05:27:34+00:00",
       "date_formatted": "26 October 2026",
       "source": "Futura Santé",
       "type": "science"
