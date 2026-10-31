@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-31T02:58:45.706363+00:00",
-  "count": 55,
+  "generated_at": "2026-10-31T11:20:01.474199+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "Aveyron : Le Mammobile dépiste gratuitement le cancer du sein dans deux communes",
+      "desc": "Le Mammobile proposera des examens gratuits les 4 et 5 novembre à Camarès et Saint-Sernin-sur-Rance, selon « Midi Libre »",
+      "url": "https://www.20minutes.fr/sante/4258864-20261031-aveyron-mammobile-depiste-gratuitement-cancer-sein-deux-communes?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/wws5F-BeQ7CbSGkK2fG-tCk/1200x768_les-4-et-5-novembre-le-mammobile-proposera-un-depistage-gratuit-du-cancer-du-sein-a-camares-et-saint-sernin-sur-rance-sur-rendez-vous-photo-d-illustration",
+      "date": "2026-10-31T10:17:36+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Clermont : trois morts dans l’incendie d’un immeuble, un homme interpellé",
+      "desc": "Les secours ont extrait un nouveau cadavre, tard dans la nuit du vendredi 30 au samedi 31 octobre, au lendemain de l’incendie qui a ravagé un immeuble du centre-ville de la ville auvergnate.",
+      "url": "https://www.liberation.fr/societe/police-justice/clermont-trois-morts-dans-lincendie-dun-immeuble-un-homme-interpelle-20261031_UXQGZDYMMFB5LGJJ2XWBCKJUB4/",
+      "image": null,
+      "date": "2026-10-31T09:11:22+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Le nombre de cancers augmente, mais la mortalité diminue\"",
+      "desc": "Thérapies ciblées, intelligence artificielle, dépistage… Reconduit l’été dernier à la tête du premier centre de lutte contre le cancer d’Europe, le Pr Fabrice Barlesi présente les avancées qui doivent permettre de guérir 80 % des patients d’ici à 2040.",
+      "url": "https://www.sciencesetavenir.fr/sante/le-nombre-de-cancers-augmente-mais-la-mortalite-diminue_195772?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/30/cover-r4x3w1200-6ae4b78dc6409-sg-fb-2w3a1023.jpg",
+      "date": "2026-10-31T09:00:00+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Manifestations : la police ne doit plus utiliser les gaz lacrymogènes tant qu’on ne connaît pas leurs effets sur la santé",
+      "desc": "Un mort dans des conditions suspectes à Paris, des cycles menstruels perturbés, des dangers mal évalués… En adoubant l’utilisation massive de cette substance chimique contre la population, le gouvernement l’expose à des risques qu’il ne maîtrise pas, faute d’études médicales précises.",
+      "url": "https://www.liberation.fr/societe/sante/manifestations-la-police-ne-doit-plus-utiliser-les-gaz-lacrymogenes-tant-quon-ne-connait-pas-leurs-effets-sur-la-sante-20261031_5DRP3P54HVDWXBXFA5NDVC7OB4/",
+      "image": null,
+      "date": "2026-10-31T07:00:00+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Remèdes de grand-mère, principes actifs… Sont-ils efficaces et sans danger pour la santé ?",
       "desc": "L'automne est bien là, et la baisse des températures s'accompagne comme chaque année d'une recrudescence des virus. Comment combattre efficacement les infections respiratoires ? À l'ère des réseaux sociaux, certains nous promettent des remèdes miracles pour soi-disant \"booster notre immunité\", mais ",
@@ -10,16 +50,6 @@
       "date": "2026-10-30T23:02:04+00:00",
       "date_formatted": "30 October 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "A Trappes, après l’attentat raciste, un rassemblement aux airs de meeting digne et résolu",
-      "desc": "Une foule dense a répondu, ce vendredi 30 octobre, à l’appel de la commune des Yvelines, endeuillée, il y a une semaine par l’attaque planifiée qui a fait un mort et sept blessés. Un rendez-vous éminemment politique, à six mois de l’élection présidentielle.",
-      "url": "https://www.liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA/",
-      "image": null,
-      "date": "2026-10-30T21:05:38+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -183,16 +213,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Est-ce que ça a pu causer sa mort ?\" : Les gaz lacrymogènes sont-ils dangereux ?",
-      "desc": "Quels sont les risques pour la santé d’une exposition prolongée aux gaz lacrymogènes ? Peuvent-ils parfois tuer ? C’est ce que se demande la famille du manifestant mort à Paris le 17 octobre, à la suite d’un arrêt cardio-respiratoire.",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/est-ce-que-ca-a-pu-causer-sa-mort-les-gaz-lacrymogenes-sont-ils-dangereux_8257946.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/AFds5uvAVVA9odAE3088jN3PVrk/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae267434a77b423276807.jpg",
-      "date": "2026-10-28T23:15:15+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Défenses immunitaires : ce qui fonctionne vraiment pour préparer votre organisme aux virus de l'hiver",
       "desc": "Fin prêts pour passer l'hiver sans rhume, grippe ni autre infection respiratoire ? Les cures de vitamines restent souvent inutiles, voire nocives à haute dose. Il n'existe aucun remède miracle, mais des leviers bien concrets, eux : un bon sommeil, des gestes barrières et un microbiote intestinal...",
       "url": "https://www.futura-sciences.com/sante/actualites/vitamines-defenses-immunitaires-ce-fonctionne-vraiment-preparer-votre-organisme-virus-hiver-138874/#xtor%3DRSS-8",
@@ -313,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Poitiers : L’université étudie l’adaptation des femmes à la haute altitude",
-      "desc": "Dans les Andes, une mission explore les réactions féminines au manque d’oxygène à 5.300 mètres, selon « Aquitaine Matin »",
-      "url": "https://www.20minutes.fr/sante/4257612-20261026-poitiers-universite-etudie-adaptation-femmes-haute-altitude?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/-tBl4xZyTJaj-t0zOUmiSSk/1200x768_avec-expedition-5300-l-universite-de-poitiers-etudie-les-reactions-des-femmes-au-manque-d-oxygene-dans-les-andes-avec-des-perspectives-medicales-photo-d-illustration",
-      "date": "2026-10-26T13:04:14+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancers du poumon à petites cellules : une nouvelle immunothérapie permet un gain de survie « jamais vu »",
       "desc": "Dans les formes avancées de cette maladie très agressive, combiner une immunothérapie innovante à une immunothérapie classique, sans attendre la rechute, réduit le risque de décès de 58 %.",
       "url": "https://www.lemonde.fr/sciences/article/2026/10/26/cancers-du-poumon-a-petites-cellules-une-nouvelle-immunotherapie-permet-un-gain-de-survie-jamais-vu_6800675_1650684.html",
@@ -413,16 +423,6 @@
       "type": "science"
     },
     {
-      "title": "Un vaccin anticancer personnalisé montre, pour la première fois, un bénéfice chez des patients",
-      "desc": "Cette approche thérapeutique innovante a permis, après deux ans, de réduire de 42 % le risque de récidive ou de décès chez des patients atteints de mélanome à haut risque. C’est ce qu’a montré un essai international incluant 1 137 patients, aux résultats divulgués jeudi soir.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/23/un-vaccin-anticancer-personnalise-montre-pour-la-premiere-fois-un-benefice-chez-des-patients_6799027_1650684.html",
-      "image": "https://img.lemde.fr/2025/07/17/338/0/3000/1500/644/322/60/0/8617cfc_upload-1-is1ae86ytzxj-frame-441.jpg",
-      "date": "2026-10-23T08:24:45+00:00",
-      "date_formatted": "23 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Au Nigeria, le \"choc\" après l'annonce d'un premier cas d'Ebola Bundibugyo",
       "desc": "La 17e épidémie Ebola continue de s'étendre. Démarrée voilà cinq mois en RDC, la fièvre hémorragique a atteint l'Ouganda, le Kenya et maintenant le Nigeria. Rien qu'en RDC, l'épidémie a passé la barre des 9.000 cas, pour 4.381 décès",
       "url": "https://www.sciencesetavenir.fr/sante/au-nigeria-le-choc-apres-l-annonce-d-un-premier-cas-d-ebola-de-souche-bundibugyo_195488?xtor=RSS-16",
@@ -479,16 +479,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/13/cover-r4x3w1200-6acdd899abf3c-c594c2d21a2cddf45e7bc388eaaebd9ac86cd292-jpg.jpg",
       "date": "2026-10-15T08:33:41+00:00",
       "date_formatted": "15 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Record d'accidents du travail mortels en 2025",
-      "desc": "Les accidents du travail ont fait 783 morts en 2025 dans le secteur privé, soit 19 de plus qu’en 2024, déjà une année record. Au total, 1331 décès sont liés aux accidents du travail, de trajet et aux maladies professionnelles, selon l’Assurance maladie, qui alerte également sur la hausse des sinistr",
-      "url": "https://www.sciencesetavenir.fr/sante/le-record-d-accidents-du-travail-mortels-en-2025-confirme-par-l-assurance-maladie_195373?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/14/cover-r4x3w1200-6acf4c56a8373-accident.jpg",
-      "date": "2026-10-14T09:55:59+00:00",
-      "date_formatted": "14 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
