@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-10-31T16:25:44.221885+00:00",
-  "count": 55,
+  "generated_at": "2026-10-31T20:44:21.323649+00:00",
+  "count": 56,
   "articles": [
+    {
+      "title": "Des remèdes de grand-mère vraiment inoffensifs ?",
+      "desc": "L'automne est bien là, et la baisse des températures s'accompagne comme chaque année d'une recrudescence des virus. Comment combattre efficacement les infections respiratoires ? À l'ère des réseaux sociaux, certains nous promettent des remèdes miracles pour soi-disant \"booster notre immunité\", mais ",
+      "url": "https://www.franceinfo.fr/sante/maladie/des-remedes-de-grand-mere-vraiment-inoffensifs_8262131.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/dI84epWV4l5wt8Q6atP3wn5k9BY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/31/6ae633e0b8a4f245831117.jpg",
+      "date": "2026-10-31T19:31:24+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Clermont : un quatrième mort découvert après l’incendie «criminel» d’un immeuble",
+      "desc": "Les secours ont extrait un nouveau cadavre, en début d’après-midi le 31 octobre, a annoncé le parquet de la ville auvergnate, ce samedi.",
+      "url": "https://www.liberation.fr/societe/police-justice/clermont-trois-morts-dans-lincendie-dun-immeuble-un-homme-interpelle-20261031_UXQGZDYMMFB5LGJJ2XWBCKJUB4/",
+      "image": null,
+      "date": "2026-10-31T18:08:57+00:00",
+      "date_formatted": "31 October 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Le secret de longévité des chauves-souris",
       "desc": "Elles résistent aux virus, vieillissent beaucoup moins vite que prévu et semblent même capables d'éliminer les cellules qui risquent de devenir cancéreuses. Les chauves-souris cacheraient-elles un véritable secret de longévité ?",
@@ -201,16 +221,6 @@
       "date_formatted": "29 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Pour lutter contre le stress post-traumatique des vétérans, Donald Trump accélère les essais cliniques avec des substances psychédéliques",
-      "desc": "Champignons hallucinogènes, ecstasy… Ces substances aideraient les malades à faire disparaître leurs symptômes. C'est ce qu'affirme une étude soutenue par le président américain.",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/pour-lutter-contre-le-stress-post-traumatique-des-veterans-donald-trump-accelere-les-essais-cliniques-avec-des-substances-psychedeliques_8237959.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/VzvKdXr4pN4WcpYe8uODg3IsjOE/0x409:7867x4835/432x243/filters:format(jpg)/2026/10/29/6ae33ae5b5589448249287.jpg",
-      "date": "2026-10-29T13:53:20+00:00",
-      "date_formatted": "29 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer du sein : des remboursements votés, mais toujours pas appliqués",
