@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-01T12:10:23.224989+00:00",
-  "count": 48,
+  "generated_at": "2026-11-01T21:25:50.485452+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "Incendie mortel à Clermont-Ferrand : deux hommes mis en examen et placés en détention provisoire",
+      "desc": "Ils sont suspectés d’être à l’origine de l’incendie d’un immeuble qui a tué quatre personnes dans la nuit de jeudi à vendredi.",
+      "url": "https://www.liberation.fr/societe/police-justice/incendie-mortel-a-clermont-ferrand-deux-hommes-mis-en-examen-et-places-en-detention-provisoire-20261101_7RBMX6MITVG5LOFHJWV33L2MWY/",
+      "image": null,
+      "date": "2026-11-01T17:57:57+00:00",
+      "date_formatted": "1 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Juan Atkins, père fondateur de la techno",
+      "desc": "Pionnier central de la scène techno, le musicien américain originaire de Détroit est mort dimanche 1er novembre à 64 ans.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-juan-atkins-pere-fondateur-de-la-techno-20261101_NMPXUNVMHNGEFFVBR6KZIVVS4E/",
+      "image": null,
+      "date": "2026-11-01T17:25:56+00:00",
+      "date_formatted": "1 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Trois infos que vous n'aviez pas sur la mort",
+      "desc": "Connait-on réellement la mort ? Pas sûr ! Qu'elle nous fasse peur ou qu'elle nous attriste, les progrès scientifiques récents nous en apprennent plus, comme par exemple que certaines de nos cellules mettent plusieurs jours à mourir... 🎙️ Julien Ménielle 📹 Mathilde Cailliau",
+      "url": "https://www.franceinfo.fr/sante/trois-infos-que-vous-n-aviez-pas-sur-la-mort_8260796.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/fBbztoTKvqUBDH4sAvFAnJlVyTA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/30/6ae4c8ca429b7655963734.jpg",
+      "date": "2026-11-01T16:00:02+00:00",
+      "date_formatted": "1 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de «Nonna Silvi», gardienne des traditions de la cuisine italienne sur les réseaux sociaux",
+      "desc": "La cuisinière et influenceuse culinaire est morte samedi 31 octobre à 85 ans. Elle incarnait la grand-mère de carte postale et était devenue une marque gérée par sa famille.",
+      "url": "https://www.liberation.fr/lifestyle/gastronomie/mort-de-nonna-silvi-gardienne-des-traditions-de-la-cuisine-italienne-sur-les-reseaux-sociaux-20261101_Q4AK3ZSSTVER5PPBECZ27IPU5E/",
+      "image": null,
+      "date": "2026-11-01T15:47:55+00:00",
+      "date_formatted": "1 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les plantes transmettent-elles des maladies aux humains, comme le font les animaux ?",
+      "desc": "En 2023, un champignon habituellement responsable de maladies chez les arbres a été découvert dans la trachée d’un homme. Comment un organisme qui infecte les végétaux peut-il s’attaquer à l’être humain ? C’est l’une de nos questions de lecteur du mois.",
+      "url": "https://www.sciencesetavenir.fr/sante/les-plantes-transmettent-elles-des-maladies-aux-humains-comme-le-font-les-animaux_195779?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/30/cover-r4x3w1200-6ae4c5e869890-shutterstock.jpg",
+      "date": "2026-11-01T13:00:00+00:00",
+      "date_formatted": "1 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "À plus de 70 ans, il ne dort que 4 à 5 heures par nuit et se sent en pleine forme",
       "desc": "Quatre ou cinq heures par nuit, toute une vie, sans réveil et sans café. Une cinquantaine de familles seulement ont été identifiées dans le monde comme porteuses des mutations génétiques responsables. Le problème, c'est que des millions de personnes se croient dans ce cas. Presque aucune n'y...",
@@ -100,16 +150,6 @@
       "date": "2026-10-30T10:23:56+00:00",
       "date_formatted": "30 October 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "ENQUETE. \"Un scandale de santé publique qui émerge\" : après la mort du comédien Arnaud Denis, enquête sur les prothèses de hernies",
-      "desc": "En dix ans, 2,6 millions de personnes ont été opérées d'une hernie abdominale en France. Une intervention dite \"banale\". Mais depuis la mort du comédien Arnaud Denis, euthanasié en septembre en Belgique, les témoignages de patients en souffrance après la pose d'une prothèse se multiplient.",
-      "url": "https://www.franceinfo.fr/enquetes-franceinfo/un-scandale-de-sante-publique-qui-emerge-apres-la-mort-du-comedien-arnaud-denis-enquete-sur-les-protheses-de-hernies_8259347.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/UbZUovcdrInsWnl6rRfibCZljwM/40x0:3880x2160/432x243/filters:format(jpg)/2026/10/29/6ae38c7f26ba7720476804.jpg",
-      "date": "2026-10-30T10:14:05+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -293,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancers du poumon à petites cellules : une nouvelle immunothérapie permet un gain de survie « jamais vu »",
-      "desc": "Dans les formes avancées de cette maladie très agressive, combiner une immunothérapie innovante à une immunothérapie classique, sans attendre la rechute, réduit le risque de décès de 58 %.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/26/cancers-du-poumon-a-petites-cellules-une-nouvelle-immunotherapie-permet-un-gain-de-survie-jamais-vu_6800675_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/26/1480/0/5910/2955/644/322/60/0/ecc5a53_upload-1-y7iptrqkru0z-049-f0438863.jpg",
-      "date": "2026-10-26T11:15:18+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "« Les gens qui me demandent comment ça va, j’ai envie de les tuer » : aux « apéros de la mort », la parole des personnes en deuil se libère",
       "desc": "Dans des bars ou des restaurants, l’association Happy End organise régulièrement, dans 67 villes de France, des rencontres au cours desquelles les personnes endeuillées trouvent un espace de parole pour dire leur peine et leur colère après la mort d’un proche.",
       "url": "https://www.lemonde.fr/m-perso/article/2026/10/25/les-gens-qui-me-demandent-comment-ca-va-j-ai-envie-de-les-tuer-aux-aperos-de-la-mort-la-parole-des-personnes-en-deuil-se-libere_6800044_4497916.html",
@@ -480,6 +510,16 @@
       "date": "2026-08-26T10:59:52+00:00",
       "date_formatted": "26 August 2026",
       "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Nos grands-parents mangeaient-ils plus de collagène que nous ?",
+      "desc": "Face au vieillissement cutané, il est une protéine qui suscite depuis longtemps un grand intérêt : le collagène. Si la question est posée, c’est qu’elle n’est pas si anecdotique que cela et montre une réalité : depuis plusieurs décennies, notre alimentation changeante pourrait avoir entraîné...",
+      "url": "https://www.futura-sciences.com/sante/actualites/complement-alimentaire-nos-grands-parents-mangeaient-ils-plus-collagene-nous-135855/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/4/5/3458858d69_50257526_greenwhey-16.jpg",
+      "date": "2026-07-13T10:30:00+00:00",
+      "date_formatted": "13 July 2026",
+      "source": "Futura Santé",
       "type": "science"
     }
   ]
