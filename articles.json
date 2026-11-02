@@ -1,35 +1,55 @@
 {
-  "generated_at": "2026-11-02T03:00:17.978382+00:00",
-  "count": 52,
+  "generated_at": "2026-11-02T13:59:37.867981+00:00",
+  "count": 46,
   "articles": [
     {
-      "title": "Médecine générale : 3 000 « docteurs juniors » déployés sur le territoire pour répondre aux déserts médicaux",
-      "desc": "Environ 80 % de ces étudiants en dernière année ont été affectés dans des zones en grande difficulté d’accès aux soins. Ils assureront, pendant un an de stage, les consultations, soins et suivi des maladies chroniques, tout en restant sous la responsabilité d’un praticien maître de stage.",
+      "title": "Trous de mémoire : ce n'est pas forcément la vitamine D, une autre carence, fréquente après 60 ans, peut en être la cause",
+      "desc": "On pense souvent à la vitamine D lorsqu’on cherche une explication à certains troubles liés à l’âge. Pourtant, une autre carence, plus discrète, peut affecter le cerveau et la mémoire : celle en vitamine B12. Fréquente chez les personnes âgées, elle peut passer inaperçue pendant longtemps....",
+      "url": "https://www.futura-sciences.com/sante/actualites/memoire-trous-memoire-ce-nest-pas-forcement-vitamine-d-autre-carence-frequente-apres-60-ans-peut-etre-cause-138931/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/1/8/91848aad79_50262824_damiankuzdak.jpg",
+      "date": "2026-11-02T12:41:40+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ce que le pouvoir macroniste fait de la violence, par Didier Fassin",
+      "desc": "Faire le parallèle entre le crime raciste de Pengo Bossio Wangi et la mort du jeune néofasciste Quentin Deranque, visibiliser les pillages et invisibiliser les violences des forces de l’ordre sur les manifestants… Le professeur au Collège de France et à Princeton dénonce les manipulations de l’exécu",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/ce-que-le-pouvoir-macroniste-fait-de-la-violence-par-didier-fassin-20261102_VBP5Z3OLENDTZIW2NOHA4YMCPU/",
+      "image": null,
+      "date": "2026-11-02T11:58:00+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le tour du monde en 10 228 jours : l’aventurier britannique Karl Bushby accueilli en héros dans sa ville natale après 28 ans de marche",
+      "desc": "Après quelque 50 000 kilomètres parcourus et 29 pays traversés, l’ancien parachutiste de l’armée britannique est arrivé ce lundi dans sa ville natale de Hull, dans le nord-est de l’Angleterre. Il avait décidé de partir à l’âge de 29 ans après l’échec de son mariage.",
+      "url": "https://www.liberation.fr/international/europe/le-tour-du-monde-en-10-228-jours-laventurier-britannique-karl-bushby-accueilli-en-heros-dans-sa-ville-natale-apres-28-ans-de-marche-20261102_SSSD2BABZBDY3BIN2TZILAJMJ4/",
+      "image": null,
+      "date": "2026-11-02T11:25:09+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : vers une immunothérapie « surpuissante » contre les tumeurs résistantes ?",
+      "desc": "En modifiant la façon dont les cellules immunitaires utilisent les graisses, des chercheurs ont renforcé leur action contre des tumeurs. Une avancée scientifique qui pourrait débloquer l’efficacité des traitements actuels face à des formes de cancer agressives.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-vers-immunotherapie-surpuissante-tumeurs-resistantes-138736/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/8/7/0873acd72c_50262363_ppard-systeme-immunitaire.jpg",
+      "date": "2026-11-02T05:38:28+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Médecine générale : 3 000 « docteurs juniors » déployés sur le territoire français pour répondre aux déserts médicaux",
+      "desc": "Environ 80 % de ces étudiants en dernière année ont été affectés dans des zones en grande difficulté d’accès aux soins. A partir de lundi, ils assureront, pendant un an de stage, les consultations, soins et suivi des maladies chroniques, tout en restant sous la responsabilité d’un praticien maître d",
       "url": "https://www.lemonde.fr/sante/article/2026/11/02/medecine-generale-3-000-docteurs-juniors-deployes-sur-le-territoire-pour-repondre-aux-deserts-medicaux_6804771_1651302.html",
       "image": "https://img.lemde.fr/2026/11/02/647/0/3500/1750/644/322/60/0/c772135_upload-1-sd8d9p6qj0hg-2015-02-05t120000z-1426210978-pm1eb171g6h01-rtrmadp-3-france-medecine.JPG",
       "date": "2026-11-02T02:16:33+00:00",
       "date_formatted": "2 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Incendie mortel à Clermont-Ferrand : deux hommes mis en examen et placés en détention provisoire",
-      "desc": "Ils sont suspectés d’être à l’origine de l’incendie d’un immeuble qui a tué quatre personnes dans la nuit de jeudi à vendredi.",
-      "url": "https://www.liberation.fr/societe/police-justice/incendie-mortel-a-clermont-ferrand-deux-hommes-mis-en-examen-et-places-en-detention-provisoire-20261101_7RBMX6MITVG5LOFHJWV33L2MWY/",
-      "image": null,
-      "date": "2026-11-01T17:57:57+00:00",
-      "date_formatted": "1 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Juan Atkins, père fondateur de la techno",
-      "desc": "Pionnier central de la scène techno, le musicien américain originaire de Détroit est mort dimanche 1er novembre à 64 ans.",
-      "url": "https://www.liberation.fr/culture/musique/mort-de-juan-atkins-pere-fondateur-de-la-techno-20261101_NMPXUNVMHNGEFFVBR6KZIVVS4E/",
-      "image": null,
-      "date": "2026-11-01T17:25:56+00:00",
-      "date_formatted": "1 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -40,16 +60,6 @@
       "date": "2026-11-01T16:00:02+00:00",
       "date_formatted": "1 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de «Nonna Silvi», gardienne des traditions de la cuisine italienne sur les réseaux sociaux",
-      "desc": "La cuisinière et influenceuse culinaire est morte samedi 31 octobre à 85 ans. Elle incarnait la grand-mère de carte postale et était devenue une marque gérée par sa famille.",
-      "url": "https://www.liberation.fr/lifestyle/gastronomie/mort-de-nonna-silvi-gardienne-des-traditions-de-la-cuisine-italienne-sur-les-reseaux-sociaux-20261101_Q4AK3ZSSTVER5PPBECZ27IPU5E/",
-      "image": null,
-      "date": "2026-11-01T15:47:55+00:00",
-      "date_formatted": "1 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -121,16 +131,6 @@
       "date_formatted": "31 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Remèdes de grand-mère, principes actifs… Sont-ils efficaces et sans danger pour la santé ?",
-      "desc": "L'automne est bien là, et la baisse des températures s'accompagne comme chaque année d'une recrudescence des virus. Comment combattre efficacement les infections respiratoires ? À l'ère des réseaux sociaux, certains nous promettent des remèdes miracles pour soi-disant \"booster notre immunité\", mais ",
-      "url": "https://www.franceinfo.fr/sante/remedes-de-grand-mere-principes-actifs-sont-ils-efficaces-et-sans-danger-pour-la-sante_8261081.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/RzFapi0OTF57ZHHqyhwgoRnvp6Y/0x129:582x457/432x243/filters:format(jpg)/2026/10/30/6ae50f105eff6098179596.jpg",
-      "date": "2026-10-30T23:02:04+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "« Sociable, anxieux, organisé » : quelle est la part de l’ADN dans votre personnalité ?",
@@ -293,16 +293,6 @@
       "type": "science"
     },
     {
-      "title": "Arrêt maladie : Combien de jours de carence en cas de grippe ou de rhume ?",
-      "desc": "Grippe ou rhume, les premiers jours d’un arrêt maladie ne sont pas toujours indemnisés. Le délai de carence varie selon que l’on travaille dans le privé ou dans la fonction publique",
-      "url": "https://www.20minutes.fr/societe/4257936-20261027-arret-maladie-combien-jours-carence-cas-grippe-rhume?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/hhkMNMGIRZ-GZaaAsufqByk/1200x768_photo-illustration-d-un-avis-d-arret-de-travail-07allilimages-sipa-06349-credit-mourad-allili-sipa-2403131228",
-      "date": "2026-10-27T15:07:34+00:00",
-      "date_formatted": "27 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancers pédiatriques: la piste surprenante de l'auto-immunité",
       "desc": "Des chercheurs norvégiens ont mis en évidence que les enfants avec un cancer ont un nombre élevé d’anticorps qui ciblent leurs propres protéines, ce qui pourrait entrainer l’accumulation de mutations génétiques à l’origine du cancer.",
       "url": "https://www.sciencesetavenir.fr/sante/et-si-les-cancers-pediatriques-etaient-declenches-par-une-auto-immunite_195503?xtor=RSS-16",
@@ -310,26 +300,6 @@
       "date": "2026-10-27T13:51:52+00:00",
       "date_formatted": "27 October 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer de la peau : un vaccin personnalisé réduit de 42 % le risque de récidive ou de décès après l'opération",
-      "desc": "Un vaccin à ARNm fabriqué sur mesure vient de franchir une étape majeure contre le mélanome. Associé à une immunothérapie après la chirurgie, il réduit de 42 % le risque de récidive ou de décès dans un essai international.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-peau-cancer-peau-vaccin-personnalise-reduit-42-risque-recidive-deces-apres-operation-138866/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/c/d/ccdc0c131b_50262573_melanome.jpg",
-      "date": "2026-10-27T12:08:36+00:00",
-      "date_formatted": "27 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Qu’est-ce que la dépression « circadienne », un nouveau type de dépression qui concernerait jusqu’à 25% des personnes dépressives ?",
-      "desc": "Les personnes atteintes du sous-type circadien commencent généralement à souffrir de dépression à un âge jeune et présentent des symptômes sévères comme la manie, la psychose et les tendances suicidaires.",
-      "url": "https://www.futura-sciences.com/sante/actualites/depression-quest-ce-depression-circadienne-nouveau-type-depression-concernerait-jusqua-25-personnes-depressives-138726/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/6/1/c6164c56f8_50262550_portrait-double-depression.jpg",
-      "date": "2026-10-27T05:28:00+00:00",
-      "date_formatted": "27 October 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -358,16 +328,6 @@
       "url": "https://www.lemonde.fr/m-perso/article/2026/10/24/votre-papa-est-malade-il-va-bientot-partir-et-il-veut-vous-dire-des-choses-a-paris-un-atelier-permet-de-se-raconter-dans-une-chanson-testament_6799548_4497916.html",
       "image": "https://img.lemde.fr/2026/10/15/1622/0/9000/4500/644/322/60/0/46ac8ca_upload-1-qbelzrt7j81l-05-daniel-marie-tout-court-9.jpg",
       "date": "2026-10-24T06:00:13+00:00",
-      "date_formatted": "24 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola en RDC : un essai clinique du vaccin Tumaini a débuté, selon l’OMS",
-      "desc": "Face à l’absence de vaccin approuvé contre la souche Bundibugyo, moins courante que la souche Zaïre, la République démocratique du Congo mise sur plusieurs candidats, dont Tumaini, pour lutter contre le virus meurtrier.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/24/ebola-en-rdc-un-essai-clinique-du-vaccin-tumaini-a-debute-selon-l-oms_6799247_3244.html",
-      "image": "https://img.lemde.fr/2026/10/23/216/0/6000/3000/644/322/60/0/449c974_ftp-1-d5dncqpgaeqx-e75b48e4b940466e82f3d4137a518120-0-aa9e6ceb9c424bcab8e69e7072b2e2d3.jpg",
-      "date": "2026-10-24T01:07:05+00:00",
       "date_formatted": "24 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -429,26 +389,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/16/cover-r4x3w1200-6ad1f4b5594c5-afp-20261016-d3fn663-v2-midres-mexicohealth.jpg",
       "date": "2026-10-16T09:56:05+00:00",
       "date_formatted": "16 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Guadeloupe : le manque de médecins entrave le traitement des cancers",
-      "desc": "En Guadeloupe, on meurt plus largement du cancer qu'en métropole. La faute à une pénurie de médecins qui entraine des retards de prise en charge qui peuvent être mortels dans une pathologie cancéreuse. Afin d'inverser la tendance, les autorités sanitaires tentent d'attirer de nouveaux médecins",
-      "url": "https://www.sciencesetavenir.fr/sante/guadeloupe-le-manque-de-medecins-entrave-la-prise-en-charge-des-cancers_195420?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/16/cover-r4x3w1200-6ad1cf717596d-7b982af4f4baea3c4884d2c33945251c0b0ce9f3-jpg.jpg",
-      "date": "2026-10-16T07:54:12+00:00",
-      "date_formatted": "16 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Face au cancer du sein, la recherche nantaise traque les failles des tumeurs",
-      "desc": "En vingt ans, le nombre de femmes de moins de 40 ans touchées par un cancer du sein est passé de 2.000 à plus de 3.000 par an en France. Pourquoi ces cancers sont-ils souvent plus agressifs chez les jeunes femmes ? À Nantes, des chercheurs tentent de percer le mystère en étudiant les tumeurs cellule",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-du-sein-comprendre-pourquoi-les-tumeurs-sont-plus-agressives-chez-les-jeunes-femmes_195344?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/13/cover-r4x3w1200-6acdd899abf3c-c594c2d21a2cddf45e7bc388eaaebd9ac86cd292-jpg.jpg",
-      "date": "2026-10-15T08:33:41+00:00",
-      "date_formatted": "15 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
