@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-11-02T13:59:37.867981+00:00",
+  "generated_at": "2026-11-03T00:07:08.282662+00:00",
   "count": 46,
   "articles": [
+    {
+      "title": "«A long terme, le chômage entraîne des pathologies» : Santé publique France alerte sur la mauvaise santé des personnes sans emploi",
+      "desc": "Stigmatisation, dépression, maladies chroniques, inégalités de genre… L’agence publie ce mardi 3 novembre un long dossier sur la santé mentale et physique dégradée des chômeurs. Un «premier signal» pour entraîner une prise de conscience politique.",
+      "url": "https://www.liberation.fr/societe/sante/a-long-terme-le-chomage-entraine-des-pathologies-sante-publique-france-alerte-sur-la-mauvaise-sante-des-personnes-sans-emploi-20261103_4BDYSYMKCVALNM2DZHY27AXYUE/",
+      "image": null,
+      "date": "2026-11-02T23:01:00+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "A Gaza, les attaques menées par l’armée israélienne ne faiblissent pas",
+      "desc": "Au moins cinq personnes sont mortes ce lundi 2 novembre après des bombardements et des tirs de Tsahal. La veille, huit civils dont un enfant ont été tuées par des frappes menées par l’aviation et un drone de l’armée israélienne.",
+      "url": "https://www.liberation.fr/international/moyen-orient/a-gaza-les-attaques-menees-par-larmee-israelienne-ne-faiblissent-pas-20261102_HRJPI3B62ZGD5OPNLDQ3IST73M/",
+      "image": null,
+      "date": "2026-11-02T20:48:12+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cette maladie des artères peut évoluer pendant des années sans symptôme : ce test simple permet de la repérer",
+      "desc": "Quelque 316 millions de personnes dans le monde, et une maladie qui progresse souvent sans le moindre symptôme pendant des années. Un test de dépistage existe, indolore et sans appareillage lourd : il suffit de comparer la pression artérielle à la cheville et au bras. Dans la seule étude de...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-cette-maladie-arteres-peut-evoluer-pendant-annees-symptome-ce-test-simple-permet-reperer-k2m6-139004/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/6/2/862ee06e9b_50262811_jambes-arteres.jpg",
+      "date": "2026-11-02T18:00:00+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Le tour du monde en 10 228 jours : l’aventurier britannique Karl Bushby accueilli en héros dans sa ville natale après 28 ans de marche",
+      "desc": "Après quelque 50 000 kilomètres parcourus et 29 pays traversés, l’ancien parachutiste de l’armée britannique est arrivé ce lundi dans sa ville natale de Hull, dans le nord-est de l’Angleterre. Il avait décidé de partir à l’âge de 29 ans après l’échec de son mariage.",
+      "url": "https://www.liberation.fr/international/europe/le-tour-du-monde-en-10-228-jours-laventurier-britannique-karl-bushby-accueilli-en-heros-dans-sa-ville-natale-apres-28-ans-de-marche-20261102_SSSD2BABZBDY3BIN2TZILAJMJ4/",
+      "image": null,
+      "date": "2026-11-02T17:30:19+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : l’épidémie a fait plus de 5 300 morts en Afrique, dont l’immense majorité en RDC",
+      "desc": "Déclarée en mai, la flambée, due à une souche contre laquelle il n’existe aucun vaccin homologué, a franchi plusieurs frontières, avec des cas en Ouganda, au Kenya et au Nigeria.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/11/02/ebola-l-epidemie-a-fait-plus-de-5-300-morts-en-afrique-dont-l-immense-majorite-en-rdc_6805275_3212.html",
+      "image": "https://img.lemde.fr/2026/10/31/0/0/4608/2304/644/322/60/0/e1332e3_ftp-1-spq1bekybpcp-2026-10-31t191134z-607874693-rc2deoa5tmay-rtrmadp-3-health-ebola-congo.JPG",
+      "date": "2026-11-02T16:26:27+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Un gros truc qui me complexe chez moi »... Jennifer Ayache, chanteuse de Superbus, révèle être née avec six orteils",
+      "desc": "Jennifer Ayache, la chanteuse de Superbus, a récemment expliqué dans un podcast être née avec six orteils et s’être fait opérer à l’âge de 7 ans",
+      "url": "https://www.20minutes.fr/arts-stars/people/4259754-20261102-gros-truc-complexe-chez-jennifer-ayache-chanteuse-superbus-revele-etre-nee-six-orteils?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/zD3lvmL2Qx-RAve1O16_Hik/1200x768_jennifer-ayache-arrive-a-la-28e-ceremonie-des-nrj-music-awards-a-cannes-dans-le-sud-de-la-france-cannes-france-23-10-2026-les-photos-ne-doivent-pas-etre-utilisees-hors-contexte-syspeo-sysc045-credit-syspeo-sipa-2610240726",
+      "date": "2026-11-02T15:47:36+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "50 personnes dans l’antichambre de la mort : leurs dessins révèlent un étrange point commun",
+      "desc": "Un tunnel sombre, une lumière éblouissante. Les expériences de mort imminente fascinent autant qu’elles interrogent. Mais que voient réellement ceux qui disent avoir frôlé la mort ? Des chercheurs ont demandé à 50 personnes non pas de raconter, mais de cartographier ce qu’elles ont vécu. Et...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-50-personnes-antichambre-mort-leurs-dessins-revelent-etrange-point-commun-139012/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/2/8/6287f11c03_50262826_tunnel-experience-mort-imminente.jpg",
+      "date": "2026-11-02T15:43:15+00:00",
+      "date_formatted": "2 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Trous de mémoire : ce n'est pas forcément la vitamine D, une autre carence, fréquente après 60 ans, peut en être la cause",
       "desc": "On pense souvent à la vitamine D lorsqu’on cherche une explication à certains troubles liés à l’âge. Pourtant, une autre carence, plus discrète, peut affecter le cerveau et la mémoire : celle en vitamine B12. Fréquente chez les personnes âgées, elle peut passer inaperçue pendant longtemps....",
@@ -11,26 +81,6 @@
       "date_formatted": "2 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Ce que le pouvoir macroniste fait de la violence, par Didier Fassin",
-      "desc": "Faire le parallèle entre le crime raciste de Pengo Bossio Wangi et la mort du jeune néofasciste Quentin Deranque, visibiliser les pillages et invisibiliser les violences des forces de l’ordre sur les manifestants… Le professeur au Collège de France et à Princeton dénonce les manipulations de l’exécu",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/ce-que-le-pouvoir-macroniste-fait-de-la-violence-par-didier-fassin-20261102_VBP5Z3OLENDTZIW2NOHA4YMCPU/",
-      "image": null,
-      "date": "2026-11-02T11:58:00+00:00",
-      "date_formatted": "2 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le tour du monde en 10 228 jours : l’aventurier britannique Karl Bushby accueilli en héros dans sa ville natale après 28 ans de marche",
-      "desc": "Après quelque 50 000 kilomètres parcourus et 29 pays traversés, l’ancien parachutiste de l’armée britannique est arrivé ce lundi dans sa ville natale de Hull, dans le nord-est de l’Angleterre. Il avait décidé de partir à l’âge de 29 ans après l’échec de son mariage.",
-      "url": "https://www.liberation.fr/international/europe/le-tour-du-monde-en-10-228-jours-laventurier-britannique-karl-bushby-accueilli-en-heros-dans-sa-ville-natale-apres-28-ans-de-marche-20261102_SSSD2BABZBDY3BIN2TZILAJMJ4/",
-      "image": null,
-      "date": "2026-11-02T11:25:09+00:00",
-      "date_formatted": "2 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Cancer : vers une immunothérapie « surpuissante » contre les tumeurs résistantes ?",
@@ -89,26 +139,6 @@
       "image": "https://www.franceinfo.fr/pictures/QadXD07uiI6AE-Cuo2Lw6NQYNy8/0x53:1024x629/432x243/filters:format(jpg)/2026/10/29/6ae2ffb468e59425185440.jpg",
       "date": "2026-11-01T09:00:03+00:00",
       "date_formatted": "1 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des remèdes de grand-mère vraiment inoffensifs ?",
-      "desc": "L'automne est bien là, et la baisse des températures s'accompagne comme chaque année d'une recrudescence des virus. Comment combattre efficacement les infections respiratoires ? À l'ère des réseaux sociaux, certains nous promettent des remèdes miracles pour soi-disant \"booster notre immunité\", mais ",
-      "url": "https://www.franceinfo.fr/sante/maladie/des-remedes-de-grand-mere-vraiment-inoffensifs_8262131.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/dI84epWV4l5wt8Q6atP3wn5k9BY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/31/6ae633e0b8a4f245831117.jpg",
-      "date": "2026-10-31T19:31:24+00:00",
-      "date_formatted": "31 October 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le secret de longévité des chauves-souris",
-      "desc": "Elles résistent aux virus, vieillissent beaucoup moins vite que prévu et semblent même capables d'éliminer les cellules qui risquent de devenir cancéreuses. Les chauves-souris cacheraient-elles un véritable secret de longévité ?",
-      "url": "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-secret-de-longevite-des-chauves-souris_8260736.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/w1gMeoG3Bl7mMGhZooXKmZrQKrg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/30/6ae4c0f81d056043661611.png",
-      "date": "2026-10-31T16:00:04+00:00",
-      "date_formatted": "31 October 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
@@ -263,16 +293,6 @@
       "type": "science"
     },
     {
-      "title": "Forte hausse de 7 types de cancers chez les moins de 50 ans : 250 000 patients suivis pour trouver des réponses",
-      "desc": "Certains cancers progressent avant 50 ans dans plusieurs pays. Les chercheurs ont identifié un signal clair, mais peinent encore à en expliquer les causes. Pour avancer, une équipe veut suivre 250 000 adultes.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-forte-hausse-7-types-cancers-chez-moins-50-ans-250-000-patients-suivis-trouver-reponses-138318/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/d/c/edc3a3e8c2_50261697_adobestock-886769328.jpg",
-      "date": "2026-10-28T05:28:53+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
       "desc": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérablement aggravés depuis la signature de l’accord de Paris, en 2015.",
       "url": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
@@ -309,26 +329,6 @@
       "image": "https://img.lemde.fr/2026/02/09/783/0/4134/2067/644/322/60/0/39be605_upload-1-s9rtydwjzks5-grk4935904.jpg",
       "date": "2026-10-26T13:43:13+00:00",
       "date_formatted": "26 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "« Les gens qui me demandent comment ça va, j’ai envie de les tuer » : aux « apéros de la mort », la parole des personnes en deuil se libère",
-      "desc": "Dans des bars ou des restaurants, l’association Happy End organise régulièrement, dans 67 villes de France, des rencontres au cours desquelles les personnes endeuillées trouvent un espace de parole pour dire leur peine et leur colère après la mort d’un proche.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/10/25/les-gens-qui-me-demandent-comment-ca-va-j-ai-envie-de-les-tuer-aux-aperos-de-la-mort-la-parole-des-personnes-en-deuil-se-libere_6800044_4497916.html",
-      "image": "https://img.lemde.fr/2026/10/13/322/0/2846/1423/644/322/60/0/5f3b940_upload-1-4xmsvcsk4kjd-apero-de-la-mort-18-1-rec.jpg",
-      "date": "2026-10-25T06:00:05+00:00",
-      "date_formatted": "25 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "« Votre papa est malade, il va bientôt partir et il veut vous dire des choses… » : à Paris, un atelier permet de se raconter dans une chanson-testament",
-      "desc": "L’artiste Marie Tout Court retrace la vie de patients parisiens proches de la mort, et transforme leurs souvenirs en chanson. Un processus d’accompagnement qui rend hommage, dans la joie, à leur existence et qui apaise leurs angoisses, comme celles de leurs proches.",
-      "url": "https://www.lemonde.fr/m-perso/article/2026/10/24/votre-papa-est-malade-il-va-bientot-partir-et-il-veut-vous-dire-des-choses-a-paris-un-atelier-permet-de-se-raconter-dans-une-chanson-testament_6799548_4497916.html",
-      "image": "https://img.lemde.fr/2026/10/15/1622/0/9000/4500/644/322/60/0/46ac8ca_upload-1-qbelzrt7j81l-05-daniel-marie-tout-court-9.jpg",
-      "date": "2026-10-24T06:00:13+00:00",
-      "date_formatted": "24 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
