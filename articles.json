@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-03T13:07:57.988357+00:00",
-  "count": 45,
+  "generated_at": "2026-11-03T22:38:31.202551+00:00",
+  "count": 46,
   "articles": [
+    {
+      "title": "Attentat des Yvelines : Kévin T., le tireur présumé, a fait une tentative de suicide en détention",
+      "desc": "D’après les informations de plusieurs médias confirmées par «Libération», le suspect de l’attaque qui a fait un mort et cinq blessés à Trappes et La Verrière a tenté de mettre fin à ses jours. Brièvement hospitalisé, il est désormais hors de danger.",
+      "url": "https://www.liberation.fr/societe/police-justice/attentat-des-yvelines-kevin-t-le-tireur-presume-a-fait-une-tentative-de-suicide-en-detention-20261103_IVWJZXNQTZC2REQS2OIDPKNJKE/",
+      "image": null,
+      "date": "2026-11-03T21:08:38+00:00",
+      "date_formatted": "3 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au procès de «l’inconnue de l’A10», l’enfant dans la couverture bleue et l’enquête impossible",
+      "desc": "En 1987, le corps mutilé d’Inass Touloub, 4 ans, est découvert le long de l’autoroute A10. Pendant des décennies, les gendarmes ont tenté en vain de trouver son identité, parvenant enfin à remonter jusqu’à ses parents en 2017 grâce à l’ADN.",
+      "url": "https://www.liberation.fr/societe/police-justice/au-proces-de-linconnue-de-la10-les-images-de-lenfant-dans-la-couverture-bleue-et-lenquete-impossible-20261103_5N2T3FV6URC4NMCBI2X2EXOHRQ/",
+      "image": null,
+      "date": "2026-11-03T19:47:52+00:00",
+      "date_formatted": "3 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
+      "desc": "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité. Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
+      "image": "https://img.lemde.fr/2023/12/18/101/0/1920/960/644/322/60/0/e0912a3_1702916734985-sans-titre-3.jpg",
+      "date": "2026-11-03T18:30:00+00:00",
+      "date_formatted": "3 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un enfant meurt de la rougeole aux États-Unis, une première depuis 30 ans dans l'Etat de New York",
+      "desc": "C'est une première depuis 30 ans dans l'Etat de New York : un enfant est mort de la rougeole. Alors que la rougeole avait disparu du territoire américain au début des années 2000, elle fait son retour, favorisée par le recul de la vaccination et la défiance envers les vaccins.",
+      "url": "https://www.franceinfo.fr/sante/maladie/un-enfant-meurt-de-la-rougeole-aux-etats-unis-une-premiere-depuis-30-ans-dans-l-etat-de-new-york_8266160.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/xhJKZQx2k_p-KHZJT6GwdL-MeVw/0x433:6000x3808/432x243/filters:format(jpg)/2026/11/03/6aea0daf7e73f078403473.jpg",
+      "date": "2026-11-03T18:17:36+00:00",
+      "date_formatted": "3 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Plan fertilité : le gouvernement lance une campagne d'information auprès des Français de 29 ans",
+      "desc": "Les Français de 29 ans recevront fin novembre un message sur le portail de l'Assurance-maladie pour \"les informer sur les enjeux liés à la fertilité et les possibilités de préservation\", explique le ministère de la Santé.",
+      "url": "https://www.franceinfo.fr/sante/plan-fertilite-le-gouvernement-lance-une-campagne-d-information-aupres-des-francais-de-29-ans_8266028.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/m3bOOLFJgwRsWy7RSNr_ihmL4Y4/0x217:2544x1648/432x243/filters:format(jpg)/2026/11/03/6ae9fd597dbab911164279.jpg",
+      "date": "2026-11-03T17:11:52+00:00",
+      "date_formatted": "3 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Vieillissement du cerveau : cette star de l’apéro aurait un effet inattendu sur la mémoire, selon une étude",
       "desc": "Et si votre apéritif cachait un allié pour vos neurones ? Une nouvelle étude révèle qu'une consommation quotidienne d'une célèbre petite graine pourrait influencer la façon dont le cerveau réagit à l'insuline, dans des zones clés pour la mémorisation.",
@@ -120,16 +170,6 @@
       "date": "2026-11-02T02:16:33+00:00",
       "date_formatted": "2 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Trois infos que vous n'aviez pas sur la mort",
-      "desc": "Connait-on réellement la mort ? Pas sûr ! Qu'elle nous fasse peur ou qu'elle nous attriste, les progrès scientifiques récents nous en apprennent plus, comme par exemple que certaines de nos cellules mettent plusieurs jours à mourir... 🎙️ Julien Ménielle 📹 Mathilde Cailliau",
-      "url": "https://www.franceinfo.fr/sante/trois-infos-que-vous-n-aviez-pas-sur-la-mort_8260796.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/fBbztoTKvqUBDH4sAvFAnJlVyTA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/30/6ae4c8ca429b7655963734.jpg",
-      "date": "2026-11-01T16:00:02+00:00",
-      "date_formatted": "1 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -263,16 +303,6 @@
       "type": "presse"
     },
     {
-      "title": "Défenses immunitaires : ce qui fonctionne vraiment pour préparer votre organisme aux virus de l'hiver",
-      "desc": "Fin prêts pour passer l'hiver sans rhume, grippe ni autre infection respiratoire ? Les cures de vitamines restent souvent inutiles, voire nocives à haute dose. Il n'existe aucun remède miracle, mais des leviers bien concrets, eux : un bon sommeil, des gestes barrières et un microbiote intestinal...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vitamines-defenses-immunitaires-ce-fonctionne-vraiment-preparer-votre-organisme-virus-hiver-138874/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/5/3/f53d6945d9_50262655_vitamines-hiver.jpg",
-      "date": "2026-10-28T12:46:27+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Gaz lacrymo : des milliers de femmes témoignent de troubles menstruels après les manifestations",
       "desc": "Après avoir été exposées à du gaz lacrymogène lors des dernières manifestations, des milliers de femmes ont témoigné de troubles menstruels. En cause, le composant principal des gaz qui pourrait occasionner des douleurs. Mais, il y a un \"vide scientifique\" autour du sujet",
       "url": "https://www.sciencesetavenir.fr/sante/gaz-lacrymogenes-des-femmes-temoignent-de-troubles-menstruels-apres-les-manifestations_195510?xtor=RSS-16",
@@ -288,16 +318,6 @@
       "url": "https://www.lemonde.fr/societe/article/2026/10/28/un-bruit-de-fond-anxieux-permanent-des-professionnels-de-sante-decrivent-les-effets-possibles-de-la-crise-sociale-sur-la-sante-psychique_6801536_3224.html",
       "image": "https://img.lemde.fr/2026/10/25/487/0/4500/2250/644/322/60/0/d7123e4_upload-1-vqfecu4tyxfx-7324102026-1a0a5637-acteii-manifestation-carrot.jpg",
       "date": "2026-10-28T06:02:15+00:00",
-      "date_formatted": "28 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
-      "desc": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérablement aggravés depuis la signature de l’accord de Paris, en 2015.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
-      "image": "https://img.lemde.fr/2026/10/26/479/0/3543/1771/644/322/60/0/d4505ed_upload-1-hdoiyr8bdubj-000-b82x6t3-1.jpg",
-      "date": "2026-10-28T05:00:38+00:00",
       "date_formatted": "28 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -321,16 +341,6 @@
       "date_formatted": "27 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte",
-      "desc": "Cette gynécologue, figure de la droite libérale et sociale, auréolée d’un engagement sans faille dans la lutte contre le sida et dans l’humanitaire, mais dont l’image a été ternie par l’affaire Matzneff, s’est éteinte lundi 26 octobre, à l’âge de 83 ans.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html",
-      "image": "https://img.lemde.fr/2026/02/09/783/0/4134/2067/644/322/60/0/39be605_upload-1-s9rtydwjzks5-grk4935904.jpg",
-      "date": "2026-10-26T13:43:13+00:00",
-      "date_formatted": "26 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "On sait comment tuer les cellules tumorales qui survivent à la chimiothérapie",
