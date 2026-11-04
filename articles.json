@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-04T13:23:40.318759+00:00",
+  "generated_at": "2026-11-04T22:57:20.893065+00:00",
   "count": 44,
   "articles": [
+    {
+      "title": "En RDC, l’OMS alerte sur la « pire épidémie de choléra depuis des décennies », avec 1 800 morts, sur fond de crise liée à Ebola",
+      "desc": "Selon l’OMS, 2025 avait enregistré le nombre de cas signalés le plus élevé depuis plus de vingt-cinq ans, mais « l’année en cours s’annonce encore plus grave ».",
+      "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-rdc-l-oms-alerte-sur-la-pire-epidemie-de-cholera-depuis-des-decennies-avec-1-800-morts-sur-fond-de-crise-liee-a-ebola_6806432_3212.html",
+      "image": "https://img.lemde.fr/2026/11/03/239/0/4608/2304/644/322/60/0/250106f_ftp-1-e43sgltuy7gk-2026-11-03t171806z-49844610-rc2ofoaar22r-rtrmadp-3-health-ebola-bunia.JPG",
+      "date": "2026-11-04T22:17:39+00:00",
+      "date_formatted": "4 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Soirées pizza 2027 : «La jeunesse d’aujourd’hui est une locomotive, et c’est une vraie bouffée d’oxygène»",
+      "desc": "Journée de mobilisation du 5 novembre, vote utile et risque d’une victoire de l’extrême droite… A moins de deux cents jours du scrutin, cinq votants représentatifs de l’électorat de gauche ont été réunis à Lille pour discuter de leurs espoirs et craintes pour 2027. Deuxième épisode de notre série.",
+      "url": "https://www.liberation.fr/politique/elections/soirees-pizza-2027-la-jeunesse-daujourdhui-est-une-locomotive-et-cest-une-vraie-bouffee-doxygene-20261104_6L6KN5NLDBEL3IBJJQBULHEGEI/",
+      "image": null,
+      "date": "2026-11-04T19:01:59+00:00",
+      "date_formatted": "4 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Maladie d'Alzheimer: une IA détecte les personnes à risque",
+      "desc": "Ce modèle a analysé l’activité cérébrale de seniors avec démence et les a comparé avec ceux ayant une mémoire exceptionnelle. L'IA serait ainsi devenue capable de prédire si une personne est à risque ou pas pour la maladie d’Alzheimer.",
+      "url": "https://www.sciencesetavenir.fr/sante/une-ia-detecte-les-personnes-a-risque-de-developper-la-maladie-d-alzheimer_195934?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/04/cover-r4x3w1200-6aeb5336cd2a9-afp-20180530-f0216646-v1-highres-grandfatherandgranddaughterplayingboardgame.jpg",
+      "date": "2026-11-04T19:00:07+00:00",
+      "date_formatted": "4 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Allemagne : On connaît l’origine des trois cas mortels de « paludisme d’aéroport » à Francfort",
+      "desc": "Huit cas de « paludisme d’aéroport » survenus près de l’aéroport de Francfort pendant l’été, dont trois mortels, ont été causés par des parasites originaires d’Afrique de l’Ouest introduits par des moustiques infectés arrivés probablement par avion",
+      "url": "https://www.20minutes.fr/monde/4260397-20261104-allemagne-connait-origine-trois-cas-mortels-paludisme-aeroport-francfort?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/YKJCdZ0LSYCfa3Vwi3d3kCk/1200x768_dpatop-14-octobre-2026-hesse-francfort-sur-le-main-les-avions-du-groupe-lufthansa-sont-gares-a-l-aeroport-de-francfort-tard-dans-la-soiree-le-kerosene-etant-a-court-de-kerosene-a-l-aeroport-de-francfort-les-avions-lufthansa-font-le-plein-avant-leur-arrivee-photo-ardavan-safari-dpa-ur-newsml-dpa-com-20090101-261015-99-955115-ardavan-safari-dpa-sipa-2610150210",
+      "date": "2026-11-04T16:33:36+00:00",
+      "date_formatted": "4 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Montpellier : Des morilles séchées retirées de la vente après la mort d’une jeune femme",
+      "desc": "Une femme de 27 ans est morte à Montpellier quelques heures après avoir mangé des morilles séchées vendues en grande surface",
+      "url": "https://www.20minutes.fr/sante/4260361-20261104-montpellier-morilles-sechees-retirees-vente-apres-mort-jeune-femme?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/btD653nXTCeiN0yAdJzGVSk/1200x768_un-lot-de-morilles-de-la-marque-champi-bon-commercialisee-par-l-enseigne-b-m-a-ete-retire-de-la-vente-apres-la-mort-d-une-consommatrice",
+      "date": "2026-11-04T15:13:13+00:00",
+      "date_formatted": "4 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Comment l'immunothérapie apprend à notre système immunitaire à combattre le cancer",
       "desc": "On imagine souvent que le système immunitaire intervient surtout pour nous défendre contre les bactéries et les virus. Pourtant, il surveille aussi nos propres cellules et peut éliminer celles qui deviennent anormales. Un cancer se développe justement lorsque certaines de ces cellules anormales...",
@@ -193,16 +243,6 @@
       "type": "science"
     },
     {
-      "title": "Aveyron : Le Mammobile dépiste gratuitement le cancer du sein dans deux communes",
-      "desc": "Le Mammobile proposera des examens gratuits les 4 et 5 novembre à Camarès et Saint-Sernin-sur-Rance, selon « Midi Libre »",
-      "url": "https://www.20minutes.fr/sante/4258864-20261031-aveyron-mammobile-depiste-gratuitement-cancer-sein-deux-communes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/wws5F-BeQ7CbSGkK2fG-tCk/1200x768_les-4-et-5-novembre-le-mammobile-proposera-un-depistage-gratuit-du-cancer-du-sein-a-camares-et-saint-sernin-sur-rance-sur-rendez-vous-photo-d-illustration",
-      "date": "2026-10-31T10:17:36+00:00",
-      "date_formatted": "31 October 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "\"Le nombre de cancers augmente, mais la mortalité diminue\"",
       "desc": "Thérapies ciblées, intelligence artificielle, dépistage… Reconduit l’été dernier à la tête du premier centre de lutte contre le cancer d’Europe, le Pr Fabrice Barlesi présente les avancées qui doivent permettre de guérir 80 % des patients d’ici à 2040.",
       "url": "https://www.sciencesetavenir.fr/sante/le-nombre-de-cancers-augmente-mais-la-mortalite-diminue_195772?xtor=RSS-16",
@@ -213,16 +253,6 @@
       "type": "science"
     },
     {
-      "title": "« Sociable, anxieux, organisé » : quelle est la part de l’ADN dans votre personnalité ?",
-      "desc": "Réservé ou sociable, stressé ou plutôt zen : d’où vient votre caractère ? Une étude sur plus d’un million de personnes, a repéré 1 260 variants génétiques associés à la personnalité. Chacune a un effet infime, mais leur combinaison aide à comprendre ce qui nous différencie.",
-      "url": "https://www.futura-sciences.com/sante/actualites/genetique-sociable-anxieux-organise-part-adn-votre-personnalite-138956/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/8/7/7878ca4b59_50262749_trait-personnalite-adn.jpg",
-      "date": "2026-10-30T14:03:35+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Arrêts maladie : les partenaires sociaux et le gouvernement négocient sous contrainte budgétaire en vue d’une réforme structurelle",
       "desc": "Alors que l’exécutif fixe comme objectif 1 milliard d’euros d’économie, les représentants syndicaux et patronaux redoutent des débats tronqués sur les questions de pénibilité et de conditions de travail.",
       "url": "https://www.lemonde.fr/politique/article/2026/10/30/arrets-maladie-les-partenaires-sociaux-et-le-gouvernement-negocient-sous-contrainte-budgetaire-en-vue-d-une-reforme-structurelle_6803077_823448.html",
@@ -230,16 +260,6 @@
       "date": "2026-10-30T12:14:23+00:00",
       "date_formatted": "30 October 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "60 % des Français favorables à l’interdiction de la vente de tabac aux personnes nées après 2014",
-      "desc": "Plus de six Français sur dix sont favorables à l’interdiction de la vente de tabac aux personnes nées après 2014, les plus jeunes adhérant davantage à cette mesure, selon une enquête de la Ligue contre le cancer",
-      "url": "https://www.20minutes.fr/sante/4258828-20261030-60-francais-favorables-interdiction-vente-tabac-personnes-nees-apres-2014?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/r6ycrSgvR5WmwpMJgsWohyk/1200x768_tabac-presse-multiservices-de-la-marina-port-de-marina-baie-des-anges-villeneuve-loubet-france-13-09-2026-syspeo-sys-a009-credit-syspeo-sipa-2609211901",
-      "date": "2026-10-30T10:23:56+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -261,16 +281,6 @@
       "date_formatted": "30 October 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Après 40 ans, l’activité physique est un levier de choix pour vieillir en restant jeune",
-      "desc": "« Dix mille pas et plus ». Si le vieillissement entraîne un déclin progressif des capacités physiques, bouger permet d’en ralentir les effets. Des sportifs, comme l’ultrafondeuse Stéphanie Gicquel, atteignent le sommet de leur forme passé la quarantaine, grâce à un entraînement adapté.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/30/apres-40-ans-l-activite-physique-est-un-levier-de-choix-pour-vieillir-en-restant-jeune_6802768_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/28/1120/0/6720/3360/644/322/60/0/2b486bf_upload-1-4pkjn4c9qsst-t6a5038.jpg",
-      "date": "2026-10-30T05:30:16+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Que sait-on du virus Shamonda qui aurait fait sa première victime en France ?",
@@ -340,16 +350,6 @@
       "date": "2026-10-23T10:21:34+00:00",
       "date_formatted": "23 October 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Au Nigeria, le \"choc\" après l'annonce d'un premier cas d'Ebola Bundibugyo",
-      "desc": "La 17e épidémie Ebola continue de s'étendre. Démarrée voilà cinq mois en RDC, la fièvre hémorragique a atteint l'Ouganda, le Kenya et maintenant le Nigeria. Rien qu'en RDC, l'épidémie a passé la barre des 9.000 cas, pour 4.381 décès",
-      "url": "https://www.sciencesetavenir.fr/sante/au-nigeria-le-choc-apres-l-annonce-d-un-premier-cas-d-ebola-de-souche-bundibugyo_195488?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/21/cover-r4x3w1200-6ad8ac1637291-84e85b90f446139a055dc5e50c12e7ff28f37b87-jpg.jpg",
-      "date": "2026-10-22T12:12:21+00:00",
-      "date_formatted": "22 October 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
