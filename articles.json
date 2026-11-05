@@ -1,25 +1,75 @@
 {
-  "generated_at": "2026-11-05T13:37:58.889611+00:00",
-  "count": 46,
+  "generated_at": "2026-11-05T22:58:18.065484+00:00",
+  "count": 48,
   "articles": [
     {
-      "title": "Un volcanisme actif sur Mars ? On a probablement «détecté un gaz qui s’échappe par une fissure parce qu’il y a du magma en-dessous»",
-      "desc": "Grâce à une sonde européenne, des chercheurs ont détecté du chlorure d’hydrogène s’échappant de failles sur les pentes d’un volcan martien. C’est le signe que Mars est encore active sous sa surface, assure le géologue Daniel Mège. Et une nouvelle encourageante pour la recherche de vie extraterrestre",
-      "url": "https://www.liberation.fr/sciences/espace/un-volcanisme-actif-sur-mars-on-a-detecte-un-gaz-qui-sechappe-probablement-par-une-fissure-20261105_7JW7OEOPZVD25KPOFN4GMXQ4SA/",
+      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
+      "desc": "Elle avait préparé un poulet aux morilles, avec des champignons séchés achetés dans le commerce. Une jeune femme de 27 ans est morte au CHU de Montpellier, après de graves troubles digestifs. Les analyses doivent établir si les morilles sont responsables de son décès. En attendant, un rappel nationa",
+      "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1dCoati-TiVkAedw414axBxbCgE/0x65:1028x644/432x243/filters:format(jpg)/2026/11/05/6aecea4d9b791907474708.png",
+      "date": "2026-11-05T22:34:22+00:00",
+      "date_formatted": "5 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Etats-Unis : le gouverneur de Californie va accorder une grâce partielle aux 548 condamnés à mort son Etat",
+      "desc": "Gavin Newsom a annoncé ce jeudi 5 novembre dans une lettre ouverte commuer la peine de mort de tous les détenus de son Etat. Celui qui quittera ses fonctions en fin d’année se rêve président du pays.",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM/",
       "image": null,
-      "date": "2026-11-05T11:56:40+00:00",
+      "date": "2026-11-05T20:34:58+00:00",
       "date_formatted": "5 November 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Mort du doyen Herbert Blomstedt, chef d’orchestre au legs majeur",
-      "desc": "Le musicien suédois, qui avait gravé des intégrales majeures des symphonies de Beethoven, Schubert, Nielsen et Sibelius, et qui dirigeait encore Mahler en mai dernier, s’est éteint mardi 4 novembre, à 99 ans, chez lui à Göteborg.",
-      "url": "https://www.liberation.fr/culture/musique/mort-du-doyen-herbert-blomstedt-chef-dorchestre-au-legs-majeur-20261105_L4BUEXPUGJEMPEERIPLVKLL6YE/",
+      "title": "Attentat raciste de Trappes : la mère et des sœurs de Pengo Bossio Wangi reçues par Emmanuel Macron mardi",
+      "desc": "Après la mort du jeune homme de 26 ans, tué vendredi 23 octobre dans les Yvelines, le président de la République a convié une partie de ses proches à l’Elysée.",
+      "url": "https://www.liberation.fr/societe/attentat-raciste-de-trappes-la-mere-et-des-soeurs-de-pengo-bossio-wangi-recues-par-emmanuel-macron-mardi-20261105_JC2GMS6FQZB5TAQQCBMWX5FNLU/",
       "image": null,
-      "date": "2026-11-05T10:50:50+00:00",
+      "date": "2026-11-05T17:30:42+00:00",
       "date_formatted": "5 November 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Novembre bleu : qu’est-ce que cette campagne sur la santé des hommes ?",
+      "desc": "Chaque année, Novembre bleu sensibilise aux cancers masculins, comme ceux de la prostate et des testicules. Objectif : encourager la prévention et le dépistage précoce",
+      "url": "https://www.20minutes.fr/societe/4260711-20261105-novembre-bleu-campagne-sante-hommes?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/FDZ6XrGdR2K8tDgiafoIWSk/1200x768_le-medecin-victime-des-menaces-d-un-de-ses-patients-a-depose-plainte-au-commissariat-pour-violence-et-menace-le-mis-en-cause-a-ete-interpelle-mardi-et-place-en-garde-a-vue",
+      "date": "2026-11-05T16:18:12+00:00",
+      "date_formatted": "5 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"On espère mettre fin à cette épidémie\" d'Ebola : deux vaccins ouvrent une nouvelle piste d'espoir en RDC",
+      "desc": "L'OMS recommande de lancer des essais cliniques sur ces deux nouveaux vaccins. Une avancée porteuse d'espoir face à une épidémie qui a déjà fait plus de 5 300 morts et contre laquelle aucun vaccin spécifique n'est actuellement disponible.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/on-espere-mettre-fin-a-cette-epidemie-d-ebola-deux-vaccins-ouvrent-une-nouvelle-piste-d-espoir-en-rdc_8268329.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1lIe26CuJRbmjoRiwMOL-l4KtFg/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/04/6aeb7c881dc3b676597078.jpg",
+      "date": "2026-11-05T15:28:16+00:00",
+      "date_formatted": "5 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des milliers de cas confirmés, plusieurs morts en Pennsylvanie, une vaccination en recul... Ce que l'on sait de l'épidémie de rougeole aux Etats-Unis",
+      "desc": "Au 29 octobre, 4 852 cas confirmés de cette maladie grave et contagieuse avaient été décomptés dans le pays, soit déjà plus du double que sur toute l'année 2025. Entre 2020 et 2024, le nombre de cas ne dépassait pas quelques dizaines ou centaines.",
+      "url": "https://www.franceinfo.fr/sante/maladie/des-milliers-de-cas-confirmes-plusieurs-morts-en-pennsylvanie-une-vaccination-en-recul-ce-que-l-on-sait-de-l-epidemie-de-rougeole-aux-etats-unis_8269070.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/JL18fdZmdi6C7xB093XPMY2gJXA/0x512:6000x3887/432x243/filters:format(jpg)/2026/11/05/6aec7245b53e9795141674.jpg",
+      "date": "2026-11-05T14:57:37+00:00",
+      "date_formatted": "5 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Montpellier : Le parquet ouvre une enquête après la mort d’une jeune fille qui avait mangé des morilles en boîte",
+      "desc": "Si l’autopsie de la jeune femme décédée, mardi, a montré qu’elle avait bien ingéré des morilles de la marque ChampiBon, les analyses toxicologiques sont toujours en cours",
+      "url": "https://www.20minutes.fr/sante/4260657-20261105-montpellier-parquet-ouvre-enquete-apres-mort-jeune-fille-mange-morilles-boite?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/btD653nXTCeiN0yAdJzGVSk/1200x768_un-lot-de-morilles-de-la-marque-champi-bon-commercialisee-par-l-enseigne-b-m-a-ete-retire-de-la-vente-apres-la-mort-d-une-consommatrice",
+      "date": "2026-11-05T14:34:12+00:00",
+      "date_formatted": "5 November 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -113,26 +163,6 @@
       "type": "presse"
     },
     {
-      "title": "Un enfant meurt de la rougeole aux États-Unis, une première depuis 30 ans dans l'Etat de New York",
-      "desc": "C'est une première depuis 30 ans dans l'Etat de New York : un enfant est mort de la rougeole. Alors que la rougeole avait disparu du territoire américain au début des années 2000, elle fait son retour, favorisée par le recul de la vaccination et la défiance envers les vaccins.",
-      "url": "https://www.franceinfo.fr/sante/maladie/un-enfant-meurt-de-la-rougeole-aux-etats-unis-une-premiere-depuis-30-ans-dans-l-etat-de-new-york_8266160.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/xhJKZQx2k_p-KHZJT6GwdL-MeVw/0x433:6000x3808/432x243/filters:format(jpg)/2026/11/03/6aea0daf7e73f078403473.jpg",
-      "date": "2026-11-03T18:17:36+00:00",
-      "date_formatted": "3 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Plan fertilité : le gouvernement lance une campagne d'information auprès des Français de 29 ans",
-      "desc": "Les Français de 29 ans recevront fin novembre un message sur le portail de l'Assurance-maladie pour \"les informer sur les enjeux liés à la fertilité et les possibilités de préservation\", explique le ministère de la Santé.",
-      "url": "https://www.franceinfo.fr/sante/plan-fertilite-le-gouvernement-lance-une-campagne-d-information-aupres-des-francais-de-29-ans_8266028.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/m3bOOLFJgwRsWy7RSNr_ihmL4Y4/0x217:2544x1648/432x243/filters:format(jpg)/2026/11/03/6ae9fd597dbab911164279.jpg",
-      "date": "2026-11-03T17:11:52+00:00",
-      "date_formatted": "3 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Vieillissement du cerveau : cette star de l’apéro aurait un effet inattendu sur la mémoire, selon une étude",
       "desc": "Et si votre apéritif cachait un allié pour vos neurones ? Une nouvelle étude révèle qu'une consommation quotidienne d'une célèbre petite graine pourrait influencer la façon dont le cerveau réagit à l'insuline, dans des zones clés pour la mémorisation.",
       "url": "https://www.futura-sciences.com/sante/actualites/memoire-vieillissement-cerveau-cette-star-apero-aurait-effet-inattendu-memoire-selon-etude-139034/#xtor%3DRSS-8",
@@ -170,16 +200,6 @@
       "date": "2026-11-03T08:48:29+00:00",
       "date_formatted": "3 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un enfant est mort de la rougeole dans l'Etat de New York, une première depuis 30 ans",
-      "desc": "La mort de cet enfant porte à six le nombre de décès attribué à cette maladie depuis le début de l'année aux Etats-Unis, après l'annonce de cinq autres victimes dans l'Etat voisin de Pennsylvanie.",
-      "url": "https://www.franceinfo.fr/monde/usa/un-enfant-est-mort-de-la-rougeole-dans-l-etat-de-new-york-une-premiere-depuis-30-ans_8265347.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/rWvDBlZo0wntFqDnkDJaaBSZVmE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/03/6ae98ce626bea879073721.jpg",
-      "date": "2026-11-03T08:28:29+00:00",
-      "date_formatted": "3 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
