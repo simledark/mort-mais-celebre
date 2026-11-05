@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-05T03:57:24.711766+00:00",
-  "count": 44,
+  "generated_at": "2026-11-05T13:37:58.889611+00:00",
+  "count": 46,
   "articles": [
+    {
+      "title": "Un volcanisme actif sur Mars ? On a probablement «détecté un gaz qui s’échappe par une fissure parce qu’il y a du magma en-dessous»",
+      "desc": "Grâce à une sonde européenne, des chercheurs ont détecté du chlorure d’hydrogène s’échappant de failles sur les pentes d’un volcan martien. C’est le signe que Mars est encore active sous sa surface, assure le géologue Daniel Mège. Et une nouvelle encourageante pour la recherche de vie extraterrestre",
+      "url": "https://www.liberation.fr/sciences/espace/un-volcanisme-actif-sur-mars-on-a-detecte-un-gaz-qui-sechappe-probablement-par-une-fissure-20261105_7JW7OEOPZVD25KPOFN4GMXQ4SA/",
+      "image": null,
+      "date": "2026-11-05T11:56:40+00:00",
+      "date_formatted": "5 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort du doyen Herbert Blomstedt, chef d’orchestre au legs majeur",
+      "desc": "Le musicien suédois, qui avait gravé des intégrales majeures des symphonies de Beethoven, Schubert, Nielsen et Sibelius, et qui dirigeait encore Mahler en mai dernier, s’est éteint mardi 4 novembre, à 99 ans, chez lui à Göteborg.",
+      "url": "https://www.liberation.fr/culture/musique/mort-du-doyen-herbert-blomstedt-chef-dorchestre-au-legs-majeur-20261105_L4BUEXPUGJEMPEERIPLVKLL6YE/",
+      "image": null,
+      "date": "2026-11-05T10:50:50+00:00",
+      "date_formatted": "5 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Paludisme d'aéroport\" mortel à Francfort : des parasites importés par des moustiques infectés",
+      "desc": "Introduits à Francfort par des moustiques anophèles, des agents du paludisme ont infecté huit personnes avec une forme rare de la maladie, le \"paludisme d'aéroport\".",
+      "url": "https://www.sciencesetavenir.fr/sante/paludisme-d-aeroport-mortel-a-francfort-des-parasites-importes-d-afrique-par-des-moustiques_195942?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/04/cover-r4x3w1200-6aeb906898091-96f57f1966b786319f536e791f9acb622034c06e-jpg.jpg",
+      "date": "2026-11-05T09:25:09+00:00",
+      "date_formatted": "5 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "En RDC, l’OMS alerte sur la « pire épidémie de choléra depuis des décennies », avec 1 800 morts, sur fond de crise liée à Ebola",
       "desc": "Selon l’OMS, 2025 avait enregistré le nombre de cas signalés le plus élevé depuis plus de vingt-cinq ans, mais « l’année en cours s’annonce encore plus grave ».",
@@ -13,16 +43,6 @@
       "type": "presse"
     },
     {
-      "title": "Soirées pizza 2027 : «La jeunesse d’aujourd’hui est une locomotive, et c’est une vraie bouffée d’oxygène»",
-      "desc": "Journée de mobilisation du 5 novembre, vote utile et risque d’une victoire de l’extrême droite… A moins de deux cents jours du scrutin, cinq votants représentatifs de l’électorat de gauche ont été réunis à Lille pour discuter de leurs espoirs et craintes pour 2027. Deuxième épisode de notre série.",
-      "url": "https://www.liberation.fr/politique/elections/soirees-pizza-2027-la-jeunesse-daujourdhui-est-une-locomotive-et-cest-une-vraie-bouffee-doxygene-20261104_6L6KN5NLDBEL3IBJJQBULHEGEI/",
-      "image": null,
-      "date": "2026-11-04T19:01:59+00:00",
-      "date_formatted": "4 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Maladie d'Alzheimer: une IA détecte les personnes à risque",
       "desc": "Ce modèle a analysé l’activité cérébrale de seniors avec démence et les a comparé avec ceux ayant une mémoire exceptionnelle. L'IA serait ainsi devenue capable de prédire si une personne est à risque ou pas pour la maladie d’Alzheimer.",
       "url": "https://www.sciencesetavenir.fr/sante/une-ia-detecte-les-personnes-a-risque-de-developper-la-maladie-d-alzheimer_195934?xtor=RSS-16",
@@ -31,6 +51,16 @@
       "date_formatted": "4 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
+    },
+    {
+      "title": "Limoges : Des conférences ouvertes à tous pour découvrir les avancées sur le cancer",
+      "desc": "La recherche contre le cancer se dévoile ce vendredi 6 novembre à Limoges. Au programme : des échanges et des conférences pour tous, selon « Le Populaire »",
+      "url": "https://www.20minutes.fr/sante/4260352-20261104-limoges-conferences-ouvertes-tous-decouvrir-avancees-cancer?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/wDPD4_8VQGSM3fJOnBauGyk/1200x768_vendredi-a-limoges-des-chercheurs-et-medecins-partageront-leurs-travaux-sur-le-cancer-decouvrez-le-programme-et-les-modalites-d-inscription-pour-cette-journee-de-conferences-photo-d-illustration",
+      "date": "2026-11-04T17:20:38+00:00",
+      "date_formatted": "4 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
     },
     {
       "title": "Allemagne : On connaît l’origine des trois cas mortels de « paludisme d’aéroport » à Francfort",
@@ -271,16 +301,6 @@
       "date_formatted": "30 October 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "En Indonésie, la pollution de l’air due aux incendies a causé la mort de 3 560 personnes en septembre",
-      "desc": "Frappé par une sécheresse aggravée par le phénomène climatique El Niño, le pays lutte depuis des mois contre des feux de forêt qui, selon l’organisme Nusantara Atlas, ont ravagé plus de 1,9 million d’hectares au cours des neuf premiers mois de l’année.",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/30/en-indonesie-les-incendies-ont-cause-3-560-morts-liees-a-la-pollution-de-l-air-en-septembre_6802919_3244.html",
-      "image": "https://img.lemde.fr/2026/10/09/720/0/8640/4320/644/322/60/0/6ef2d7e_ftp-1-k030gnofjg12-27eac39bcba64d729889b0e59fd1ad73-0-9b1d2525f71f4166a70da0310bc7dc09.jpg",
-      "date": "2026-10-30T09:40:02+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Que sait-on du virus Shamonda qui aurait fait sa première victime en France ?",
