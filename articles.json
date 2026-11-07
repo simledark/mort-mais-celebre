@@ -1,16 +1,76 @@
 {
-  "generated_at": "2026-11-07T03:29:49.812503+00:00",
-  "count": 51,
+  "generated_at": "2026-11-07T11:59:42.479200+00:00",
+  "count": 52,
   "articles": [
     {
-      "title": "Procès de la «petite inconnue de l’A10» : «C’est affreux, comment j’ai pu faire tout ça ?»",
-      "desc": "La cour d’assises du Loir-et-Cher a interrogé, ce vendredi, Halima El Bakhti, 72 ans, jugée pour «actes de torture et de barbarie ayant entraîné la mort sans intention de la donner». L’accusée, souvent confuse, a peiné à reconnaître les sévices qui ont conduit à la mort de sa fille, Inass Touloub, 4",
-      "url": "https://www.liberation.fr/societe/police-justice/proces-de-la-petite-inconnue-de-la10-cest-affreux-comment-jai-pu-faire-tout-ca-20261106_WLPLLW7ADNBUDGJOODXWGHX4Y4/",
+      "title": "Une IA a créé des virus pour détruire des bactéries résistantes aux antibiotiques : un patient les a déjà reçus",
+      "desc": "Face à la progression inquiétante de l’antibiorésistance, une start-up américaine a franchi une étape historique en administrant à un patient un virus modifié grâce à l’IA dans le but de venir à bout des bactéries les plus résistantes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-ia-cree-virus-detruire-bacteries-resistantes-antibiotiques-patient-deja-recus-139097/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/2/2/e22410b1c6_50263034_bacteriophage.jpg",
+      "date": "2026-11-07T12:27:10+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Incendie mortel du gîte de Wintzenheim : la propriétaire sera jugée début 2027",
+      "desc": "Laure Beccuau, procureure de la République de Paris, a annoncé vendredi 6 novembre que le procès pour homicides involontaires et blessures involontaires se tiendrait du 25 janvier au 10 février après la mort de 11 personnes en août 2023.",
+      "url": "https://www.liberation.fr/societe/police-justice/incendie-mortel-du-gite-de-wintzenheim-la-proprietaire-sera-jugee-debut-2027-20261107_EA6QRUYRDJHMPJN43LVZIBRIRU/",
       "image": null,
-      "date": "2026-11-06T21:16:05+00:00",
-      "date_formatted": "6 November 2026",
+      "date": "2026-11-07T11:31:58+00:00",
+      "date_formatted": "7 November 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Certains médicaments très prescrits après 60 ans font baisser une vitamine indispensable à la mémoire",
+      "desc": "On pense souvent à la vitamine D lorsqu’on cherche une explication à certains troubles liés à l’âge. Pourtant, une autre carence, plus discrète, peut affecter le cerveau et la mémoire : celle en vitamine B12. Fréquente chez les personnes âgées, elle peut passer inaperçue pendant longtemps....",
+      "url": "https://www.futura-sciences.com/sante/actualites/memoire-certains-medicaments-tres-prescrits-apres-60-ans-font-baisser-vitamine-indispensable-memoire-prf21-139124/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/1/8/91848aad79_50262824_damiankuzdak.jpg",
+      "date": "2026-11-07T11:26:30+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Que sait-on des effets sur la santé des gaz lacrymogènes utilisés par les forces de l'ordre dans les manifestations ?",
+      "desc": "Ces armes intermédiaires sont soupçonnées d'être à l'origine de troubles menstruels et de divers effets néfastes sur l'organisme. Mais en l'absence d'études épidémiologiques, les connaissances scientifiques actuelles ne permettent pas d'établir un lien de causalité.",
+      "url": "https://www.franceinfo.fr/societe/manifestations/que-sait-on-des-effets-sur-la-sante-des-gaz-lacrymogenes-utilises-par-les-forces-de-l-ordre-dans-les-manifestations_8264093.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/eH7aXSlpJ7D6dw4r3kcnOd09LA4/0x280:5385x3309/432x243/filters:format(jpg)/2026/11/03/6ae9f10c5bb3e017116386.jpg",
+      "date": "2026-11-07T10:33:28+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Virtue and a Sledgehammer», tout casser pour se reconstruire",
+      "desc": "La dernière création du studio espagnol Deconstructeam propose un projet de deuil par le vide pour aider le personnage principal, Pratelle, à surmonter la mort de sa mère. Une prouesse de narration pensée comme une «rage room» numérique.",
+      "url": "https://www.liberation.fr/culture/jeux-video/virtue-and-a-sledgehammer-tout-casser-pour-se-reconstruire-20261107_4GPPWRUQ2VBANLVL4LOT3GB3S4/",
+      "image": null,
+      "date": "2026-11-07T08:30:00+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tocophobie, «milk-blues», syndrome du nid encombré… Dix épreuves méconnues de la vie d’un parent",
+      "desc": "Dans un guide qui vient de paraître, la psychologue Aline Nativel Id Hammou, spécialiste de la famille, rappelle que la parentalité est aussi un bouleversement psychique pour les parents. «Libé» a dressé un inventaire des troubles et des pathologies qui peuvent les affecter.",
+      "url": "https://www.liberation.fr/societe/familles/tocophobie-milk-blues-syndrome-du-nid-encombre-dix-epreuves-meconnues-de-la-vie-dun-parent-20261107_DIWVRP6UQ5DBDCU6V3U3VKSYQ4/",
+      "image": null,
+      "date": "2026-11-07T08:11:00+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Votre poids pourrait influencer la vitesse à laquelle votre mémoire décline : ce que révèlent 24 ans de suivi",
+      "desc": "Et si le vieillissement de notre cerveau dépendait aussi d’un facteur auquel on ne prête pas assez attention ? Une étude menée sur plus de 8 000 personnes suivies durant 24 ans révèle un lien préoccupant avec le déclin cognitif. Mais la bonne nouvelle, c’est qu’il serait possible d’agir pour...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-votre-poids-pourrait-influencer-vitesse-laquelle-votre-memoire-decline-ce-revelent-24-ans-suivi-139101/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/3/6/f364f4de31_50262964_obesite-memoire.jpg",
+      "date": "2026-11-07T06:03:57+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Tous les alcools présentent-ils les mêmes risques ? Une vaste étude révèle des différences surprenantes",
@@ -21,36 +81,6 @@
       "date_formatted": "6 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Accident dans l’Ain : le conducteur, «hospitalisé sous le régime de la garde à vue», «se serait assoupi» au volant, annonce la procureure",
-      "desc": "Le véhicule a quitté la route ce vendredi matin, au niveau de la commune de Lent, pour une raison encore inconnue. Deux personnes, âgées de 7 et 18 ans, sont mortes. Quatre autres se trouvent en urgence absolue.",
-      "url": "https://www.liberation.fr/societe/en-direct-accident-de-car-scolaire-dans-lain-deux-morts-dont-au-moins-un-mineur-le-ministre-des-transports-attendu-sur-place-20261106_XISAFXXEXJH37OSMP2EGYLG5EA/",
-      "image": null,
-      "date": "2026-11-06T19:45:33+00:00",
-      "date_formatted": "6 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort à 52 ans du cinéaste chilien Sebastián Lelio, oscarisé pour «Une femme fantastique»",
-      "desc": "La famille du réalisateur évoque ce vendredi 6 novembre des raisons de santé, sans plus de précision.",
-      "url": "https://www.liberation.fr/culture/cinema/mort-a-52-ans-du-cineaste-chilien-sebastian-lelio-oscarise-pour-une-femme-fantastique-20261106_HAT6JQ2ORZGRBBBLATDESSHR2U/",
-      "image": null,
-      "date": "2026-11-06T19:36:38+00:00",
-      "date_formatted": "6 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Accident de car dans l’Ain : «Je n’ai pas eu le temps de relever la tête de mon téléphone qu’on était dans le fossé»",
-      "desc": "La sortie de route du véhicule au niveau de la commune de Lent a provoqué la mort d’un jeune adulte et d’une enfant de 7 ans. Quatre personnes sont hospitalisées en état d’urgence absolue. Placé en garde à vue, le chauffeur a déclaré qu’il «se serait assoupi».",
-      "url": "https://www.liberation.fr/societe/accident-de-car-dans-lain-je-nai-pas-eu-le-temps-de-relever-la-tete-de-mon-telephone-quon-etait-dans-le-fosse-20261106_KKD2M35SANHBDKSFEAZBX6FCGU/",
-      "image": null,
-      "date": "2026-11-06T19:05:43+00:00",
-      "date_formatted": "6 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "\"Ce n'est pas un médicament magique\" : les Français consomment trop d'antibiotiques",
@@ -313,16 +343,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer : vers une immunothérapie « surpuissante » contre les tumeurs résistantes ?",
-      "desc": "En modifiant la façon dont les cellules immunitaires utilisent les graisses, des chercheurs ont renforcé leur action contre des tumeurs. Une avancée scientifique qui pourrait débloquer l’efficacité des traitements actuels face à des formes de cancer agressives.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-vers-immunotherapie-surpuissante-tumeurs-resistantes-138736/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/8/7/0873acd72c_50262363_ppard-systeme-immunitaire.jpg",
-      "date": "2026-11-02T05:38:28+00:00",
-      "date_formatted": "2 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Médecine générale : 3 000 « docteurs juniors » déployés sur le territoire français pour répondre aux déserts médicaux",
       "desc": "Environ 80 % de ces étudiants en dernière année ont été affectés dans des zones en grande difficulté d’accès aux soins. A partir de lundi, ils assureront, pendant un an de stage, les consultations, soins et suivi des maladies chroniques, tout en restant sous la responsabilité d’un praticien maître d",
       "url": "https://www.lemonde.fr/sante/article/2026/11/02/medecine-generale-3-000-docteurs-juniors-deployes-sur-le-territoire-pour-repondre-aux-deserts-medicaux_6804771_1651302.html",
@@ -500,16 +520,6 @@
       "date": "2026-08-26T10:59:52+00:00",
       "date_formatted": "26 August 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Nos grands-parents mangeaient-ils plus de collagène que nous ?",
-      "desc": "Face au vieillissement cutané, il est une protéine qui suscite depuis longtemps un grand intérêt : le collagène. Si la question est posée, c’est qu’elle n’est pas si anecdotique que cela et montre une réalité : depuis plusieurs décennies, notre alimentation changeante pourrait avoir entraîné...",
-      "url": "https://www.futura-sciences.com/sante/actualites/complement-alimentaire-nos-grands-parents-mangeaient-ils-plus-collagene-nous-135855/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/4/5/3458858d69_50257526_greenwhey-16.jpg",
-      "date": "2026-07-13T10:30:00+00:00",
-      "date_formatted": "13 July 2026",
-      "source": "Futura Santé",
       "type": "science"
     }
   ]
