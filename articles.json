@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-07T11:59:42.479200+00:00",
-  "count": 52,
+  "generated_at": "2026-11-07T17:29:15.903045+00:00",
+  "count": 53,
   "articles": [
+    {
+      "title": "Au Yémen, 22 morts dans des bombardements saoudiens autour de Sanaa, annoncent les Houthis",
+      "desc": "Le conflit s’intensifie sur le sol yéménite, depuis la reprise des hostilités cet été, l’offensive du groupe sur le littoral en septembre et les représailles saoudiennes en octobre.",
+      "url": "https://www.liberation.fr/international/moyen-orient/au-yemen-22-morts-dans-des-bombardements-saoudiens-autour-de-sanaa-annoncent-les-houthis-20261107_3LFMWR22AJDNLJ3LILURQLOTAE/",
+      "image": null,
+      "date": "2026-11-07T16:47:17+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«C’est une tragédie pour Cracovie, on n’a jamais connu une chose pareille» : 5 morts et une dizaine de blessés dans une fusillade",
+      "desc": "En milieu d’après-midi ce samedi, un homme a fait irruption en voiture dans le centre la deuxième ville de Pologne et ouvert le feu au hasard. Le tireur a été blessé, neutralisé et transféré à l’hôpital.",
+      "url": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
+      "image": null,
+      "date": "2026-11-07T16:05:14+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "A Gaza, des pluies diluviennes privent d’abri des dizaines de milliers de déplacés",
+      "desc": "La coalition des organisations de la société civile palestinienne a mis en garde contre le risque de propagation de maladies et «la catastrophe» qui menacent les habitants de l’enclave palestinienne ravagée par plusieurs années de guerre contre Israël.",
+      "url": "https://www.liberation.fr/international/moyen-orient/a-gaza-des-pluies-diluviennes-privent-dabri-des-dizaines-de-milliers-de-deplaces-20261107_WIXB3O3KX5BDXAYZ74KMU5DHPE/",
+      "image": null,
+      "date": "2026-11-07T14:57:38+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "VIH : le générique du lénacapavir, un médicament qui promet de révolutionner la lutte contre le virus du sida, prêt à être commercialisé",
+      "desc": "L’agence américaine du médicament a donné son feu vert à la mise sur le marché de ce traitement, beaucoup moins contraignant que celui utilisé jusque-là. Une avancée majeure en matière de prévention, en particulier pour le continent africain, le plus touché par la pandémie.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/11/07/vih-le-generique-du-lenacapavir-un-medicament-qui-promet-de-revolutionner-la-lutte-contre-le-virus-du-sida-pret-a-etre-commercialise_6808275_3212.html",
+      "image": "https://img.lemde.fr/2026/11/06/245/0/4200/2100/644/322/60/0/b5aecc8_upload-1-6lotpxdzvlpj-000-99227tp.jpg",
+      "date": "2026-11-07T14:00:02+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Montmirail : Une journée bien-être pour soutenir la lutte contre le cancer ce dimanche 8 novembre",
+      "desc": "Dans la Marne, massages, danse et conseils capillaires sont au programme d’une journée au profit de l’Institut Godinot, selon « Actu.fr »",
+      "url": "https://www.20minutes.fr/sante/4260997-20261107-montmirail-journee-bien-etre-soutenir-lutte-contre-cancer-dimanche-8-novembre?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/g0EkwWZZT8yCCYJ_F2mG8Sk/1200x768_dimanche-a-montmirail-la-parenthese-rose-prolongera-la-mobilisation-contre-le-cancer-avec-des-soins-des-ateliers-et-des-animations-photo-d-illustration",
+      "date": "2026-11-07T13:32:36+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du sein : mieux suivre la maladie grâce à une prise de sang",
+      "desc": "Longtemps attendue, la biopsie liquide s’impose peu à peu dans le suivi du cancer du sein. Une simple prise de sang pourrait bientôt permettre de détecter les résistances aux traitements et d’anticiper les rechutes.",
+      "url": "https://www.sciencesetavenir.fr/sante/biopsie-liquide-une-prise-de-sang-pour-mieux-suivre-le-cancer-du-sein_195862?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac08c0a99-ar-1751831-tf-68438305-1-normal-jpg.jpg",
+      "date": "2026-11-07T13:00:00+00:00",
+      "date_formatted": "7 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Une IA a créé des virus pour détruire des bactéries résistantes aux antibiotiques : un patient les a déjà reçus",
       "desc": "Face à la progression inquiétante de l’antibiorésistance, une start-up américaine a franchi une étape historique en administrant à un patient un virus modifié grâce à l’IA dans le but de venir à bout des bactéries les plus résistantes.",
@@ -40,26 +100,6 @@
       "date": "2026-11-07T10:33:28+00:00",
       "date_formatted": "7 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Virtue and a Sledgehammer», tout casser pour se reconstruire",
-      "desc": "La dernière création du studio espagnol Deconstructeam propose un projet de deuil par le vide pour aider le personnage principal, Pratelle, à surmonter la mort de sa mère. Une prouesse de narration pensée comme une «rage room» numérique.",
-      "url": "https://www.liberation.fr/culture/jeux-video/virtue-and-a-sledgehammer-tout-casser-pour-se-reconstruire-20261107_4GPPWRUQ2VBANLVL4LOT3GB3S4/",
-      "image": null,
-      "date": "2026-11-07T08:30:00+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Tocophobie, «milk-blues», syndrome du nid encombré… Dix épreuves méconnues de la vie d’un parent",
-      "desc": "Dans un guide qui vient de paraître, la psychologue Aline Nativel Id Hammou, spécialiste de la famille, rappelle que la parentalité est aussi un bouleversement psychique pour les parents. «Libé» a dressé un inventaire des troubles et des pathologies qui peuvent les affecter.",
-      "url": "https://www.liberation.fr/societe/familles/tocophobie-milk-blues-syndrome-du-nid-encombre-dix-epreuves-meconnues-de-la-vie-dun-parent-20261107_DIWVRP6UQ5DBDCU6V3U3VKSYQ4/",
-      "image": null,
-      "date": "2026-11-07T08:11:00+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -293,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "États-Unis : Un enfant meurt de la rougeole dans l’État de New York, une première depuis trente ans",
-      "desc": "Alors que la vaccination recule aux États-Unis, certaines maladies éradiquées comme la rougeole refont surface",
-      "url": "https://www.20minutes.fr/monde/etats-unis/4259928-20261103-etats-unis-enfant-meurt-rougeole-etat-new-york-premiere-depuis-trente-ans?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/DxXiIt1TTuWVuxneWpwJSik/1200x768_la-rougeole-se-caracterise-notamment-par-une-eruption-cutanee",
-      "date": "2026-11-03T08:48:29+00:00",
-      "date_formatted": "3 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cette maladie des artères peut évoluer pendant des années sans symptôme : ce test simple permet de la repérer",
       "desc": "Quelque 316 millions de personnes dans le monde, et une maladie qui progresse souvent sans le moindre symptôme pendant des années. Un test de dépistage existe, indolore et sans appareillage lourd : il suffit de comparer la pression artérielle à la cheville et au bras. Dans la seule étude de...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-cette-maladie-arteres-peut-evoluer-pendant-annees-symptome-ce-test-simple-permet-reperer-k2m6-139004/#xtor%3DRSS-8",
@@ -373,16 +403,6 @@
       "type": "science"
     },
     {
-      "title": "Arrêts maladie : les partenaires sociaux et le gouvernement négocient sous contrainte budgétaire en vue d’une réforme structurelle",
-      "desc": "Alors que l’exécutif fixe comme objectif 1 milliard d’euros d’économie, les représentants syndicaux et patronaux redoutent des débats tronqués sur les questions de pénibilité et de conditions de travail.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/30/arrets-maladie-les-partenaires-sociaux-et-le-gouvernement-negocient-sous-contrainte-budgetaire-en-vue-d-une-reforme-structurelle_6803077_823448.html",
-      "image": "https://img.lemde.fr/2026/10/21/230/0/8192/4096/644/322/60/0/00cdef8_ftp-1-gei3x8wlobqu-afp-d3y23j2.jpg",
-      "date": "2026-10-30T12:14:23+00:00",
-      "date_formatted": "30 October 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Que sait-on du virus Shamonda qui aurait fait sa première victime en France ?",
       "desc": "Ce pathogène qui infecte le bétail a été détecté en Europe pour la première fois cet été, quelques mois avant le décès d’une personne immunodéprimée infectée par le virus.",
       "url": "https://www.sciencesetavenir.fr/sante/que-sait-on-du-virus-shamonda-qui-aurait-fait-sa-premiere-victime-en-france_195514?xtor=RSS-16",
@@ -418,16 +438,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/ebola-plus-de-10-000-cas-recenses-en-afrique-la-rdc-toujours-a-l-epicentre_195504?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/20/cover-r4x3w1200-6ae0c43e4abeb-8ec1596fccdbcb135751c3bcfdb4117b6a91c879-jpg.jpg",
       "date": "2026-10-27T15:33:18+00:00",
-      "date_formatted": "27 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancers pédiatriques: la piste surprenante de l'auto-immunité",
-      "desc": "Des chercheurs norvégiens ont mis en évidence que les enfants avec un cancer ont un nombre élevé d’anticorps qui ciblent leurs propres protéines, ce qui pourrait entrainer l’accumulation de mutations génétiques à l’origine du cancer.",
-      "url": "https://www.sciencesetavenir.fr/sante/et-si-les-cancers-pediatriques-etaient-declenches-par-une-auto-immunite_195503?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/27/cover-r4x3w1200-6ae0a731b7e05-afp-20231215-347z8f3-v1-highres-kosovohealthhospitalchildren.jpg",
-      "date": "2026-10-27T13:51:52+00:00",
       "date_formatted": "27 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
