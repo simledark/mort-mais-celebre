@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-08T02:58:39.477956+00:00",
-  "count": 53,
+  "generated_at": "2026-11-08T12:19:38.908136+00:00",
+  "count": 51,
   "articles": [
+    {
+      "title": "Au large du Sénégal, une pirogue fait naufrage, au moins 21 morts",
+      "desc": "Depuis des années, des milliers de personnes venues d’Afrique de l’Ouest tentent de joindre l’Europe, souvent via les Canaries, à bord d’embarcations surchargées, et souvent vétustes.",
+      "url": "https://www.liberation.fr/international/afrique/au-large-du-senegal-une-pirogue-fait-naufrage-au-moins-21-morts-20261108_L7XTUALPAFCO5D6E4IPYUUL2VA/",
+      "image": null,
+      "date": "2026-11-08T10:57:43+00:00",
+      "date_formatted": "8 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pologne : enquête ouverte pour terrorisme, des corps retrouvés chez le tireur, fascination pour l’extrême droite… Ce que l’on sait après l’attentat mortel de Cracovie",
+      "desc": "Après les tirs mortels qui ont ensanglanté le cœur touristique de la deuxième ville de Pologne, samedi 7 novembre, enquêteurs et responsables politiques pointent du doigt les accointances idéologiques du tireur, qui aurait agi seul.",
+      "url": "https://www.liberation.fr/international/europe/pologne-des-corps-retrouves-chez-le-tireur-fascination-pour-lextreme-droite-ce-que-lon-sait-apres-lattentat-mortel-de-cracovie-20261108_X5EYERZROJAVTG4PWU44XJA5JI/",
+      "image": null,
+      "date": "2026-11-08T10:16:01+00:00",
+      "date_formatted": "8 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : « Une famille ne peut pas réduire les contacts dans un logement exigu, sans eau, sans nourriture ni matériel d’hygiène »",
+      "desc": "Si les stratégies déployées pour limiter la propagation du virus en Afrique ne sont pas efficaces, ce n’est pas en raison de la méfiance ou du refus des populations, mais car ces dernières ne peuvent pas les mettre en œuvre, explique, dans une tribune au « Monde », le vice-président de l’ONG Alima T",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/08/ebola-une-famille-ne-peut-pas-reduire-les-contacts-dans-un-logement-exigu-sans-eau-sans-nourriture-ni-materiel-d-hygiene_6808414_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d0c592_upload-1-e72knwmvkkzu-frame-913.jpg",
+      "date": "2026-11-08T10:00:05+00:00",
+      "date_formatted": "8 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le vaccin, nouvel outil de lutte contre le cancer",
+      "desc": "Ça y est, le vaccin serait l'avenir de la lutte contre le cancer. Un vaccin à base d'ARN messager a montré de très bon résultat contre le mélanome. Un espoir pour notre santé et pour l'avenir.",
+      "url": "https://www.franceinfo.fr/sante/le-vaccin-nouvel-outil-de-lutte-contre-le-cancer_8271224.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/5qvZCeXjO1EDl4bC6OC7uS9slrk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/06/6aee0282982c6097211997.jpg",
+      "date": "2026-11-08T10:00:02+00:00",
+      "date_formatted": "8 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quand les jambes empêchent de dormir",
+      "desc": "Certains parlent d'impatiences dans les jambes, d'autres de jambes sans repos. En réalité ces syndromes sont ceux d'une maladie qui peuvent perturber le sommeil.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/quand-les-jambes-empechent-de-dormir_8232046.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/P01ty19GvbTJNoun2y7p_kQNZ8E/0x110:2120x1303/432x243/filters:format(jpg)/2026/11/05/6aec723a5d31b941017056.jpg",
+      "date": "2026-11-08T09:00:02+00:00",
+      "date_formatted": "8 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Le soignant qui a changé ma vie : « J’étais sa patiente pour Covid long, je suis devenue sa collègue »",
       "desc": "Chaque mois, « Le Monde » part à la rencontre d’un soignant et d’un soigné qui, ensemble et au-delà du soin, ont su nouer un lien. Etonnante trajectoire que celle du duo formé par Valérie Triponez, infirmière atteinte d’un Covid long, et Mathieu Saubade, spécialiste de cette maladie complexe, devenu",
@@ -20,36 +70,6 @@
       "date": "2026-11-07T18:32:39+00:00",
       "date_formatted": "7 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«C’est une tragédie pour Cracovie, on n’a jamais connu une chose pareille» : 6 morts et une dizaine de blessés dans une fusillade",
-      "desc": "En milieu d’après-midi ce samedi, un homme a fait irruption en voiture dans le centre la deuxième ville de Pologne et ouvert le feu au hasard. Le tireur a été blessé, neutralisé et transféré à l’hôpital.",
-      "url": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
-      "image": null,
-      "date": "2026-11-07T18:12:18+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Au Yémen, 22 morts dans des bombardements saoudiens autour de Sanaa, annoncent les Houthis",
-      "desc": "Le conflit s’intensifie sur le sol yéménite, depuis la reprise des hostilités cet été, l’offensive du groupe sur le littoral en septembre et les représailles saoudiennes en octobre.",
-      "url": "https://www.liberation.fr/international/moyen-orient/au-yemen-22-morts-dans-des-bombardements-saoudiens-autour-de-sanaa-annoncent-les-houthis-20261107_3LFMWR22AJDNLJ3LILURQLOTAE/",
-      "image": null,
-      "date": "2026-11-07T16:47:17+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "A Gaza, des pluies diluviennes privent d’abri des dizaines de milliers de déplacés",
-      "desc": "La coalition des organisations de la société civile palestinienne a mis en garde contre le risque de propagation de maladies et «la catastrophe» qui menacent les habitants de l’enclave palestinienne ravagée par plusieurs années de guerre contre Israël.",
-      "url": "https://www.liberation.fr/international/moyen-orient/a-gaza-des-pluies-diluviennes-privent-dabri-des-dizaines-de-milliers-de-deplaces-20261107_WIXB3O3KX5BDXAYZ74KMU5DHPE/",
-      "image": null,
-      "date": "2026-11-07T14:57:38+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -91,16 +111,6 @@
       "date_formatted": "7 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Incendie mortel du gîte de Wintzenheim : la propriétaire sera jugée début 2027",
-      "desc": "Laure Beccuau, procureure de la République de Paris, a annoncé vendredi 6 novembre que le procès pour homicides involontaires et blessures involontaires se tiendrait du 25 janvier au 10 février après la mort de 11 personnes en août 2023.",
-      "url": "https://www.liberation.fr/societe/police-justice/incendie-mortel-du-gite-de-wintzenheim-la-proprietaire-sera-jugee-debut-2027-20261107_EA6QRUYRDJHMPJN43LVZIBRIRU/",
-      "image": null,
-      "date": "2026-11-07T11:31:58+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Certains médicaments très prescrits après 60 ans font baisser une vitamine indispensable à la mémoire",
@@ -200,26 +210,6 @@
       "date": "2026-11-05T16:18:12+00:00",
       "date_formatted": "5 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"On espère mettre fin à cette épidémie\" d'Ebola : deux vaccins ouvrent une nouvelle piste d'espoir en RDC",
-      "desc": "L'OMS recommande de lancer des essais cliniques sur ces deux nouveaux vaccins. Une avancée porteuse d'espoir face à une épidémie qui a déjà fait plus de 5 300 morts et contre laquelle aucun vaccin spécifique n'est actuellement disponible.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/on-espere-mettre-fin-a-cette-epidemie-d-ebola-deux-vaccins-ouvrent-une-nouvelle-piste-d-espoir-en-rdc_8268329.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/1lIe26CuJRbmjoRiwMOL-l4KtFg/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/04/6aeb7c881dc3b676597078.jpg",
-      "date": "2026-11-05T15:28:16+00:00",
-      "date_formatted": "5 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des milliers de cas confirmés, plusieurs morts en Pennsylvanie, une vaccination en recul... Ce que l'on sait de l'épidémie de rougeole aux Etats-Unis",
-      "desc": "Au 29 octobre, 4 852 cas confirmés de cette maladie grave et contagieuse avaient été décomptés dans le pays, soit déjà plus du double que sur toute l'année 2025. Entre 2020 et 2024, le nombre de cas ne dépassait pas quelques dizaines ou centaines.",
-      "url": "https://www.franceinfo.fr/sante/maladie/des-milliers-de-cas-confirmes-plusieurs-morts-en-pennsylvanie-une-vaccination-en-recul-ce-que-l-on-sait-de-l-epidemie-de-rougeole-aux-etats-unis_8269070.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/JL18fdZmdi6C7xB093XPMY2gJXA/0x512:6000x3887/432x243/filters:format(jpg)/2026/11/05/6aec7245b53e9795141674.jpg",
-      "date": "2026-11-05T14:57:37+00:00",
-      "date_formatted": "5 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -361,16 +351,6 @@
       "date_formatted": "2 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "50 personnes dans l’antichambre de la mort : leurs dessins révèlent un étrange point commun",
-      "desc": "Un tunnel sombre, une lumière éblouissante. Les expériences de mort imminente fascinent autant qu’elles interrogent. Mais que voient réellement ceux qui disent avoir frôlé la mort ? Des chercheurs ont demandé à 50 personnes non pas de raconter, mais de cartographier ce qu’elles ont vécu. Et...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-50-personnes-antichambre-mort-leurs-dessins-revelent-etrange-point-commun-139012/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/2/8/6287f11c03_50262826_tunnel-experience-mort-imminente.jpg",
-      "date": "2026-11-02T15:43:15+00:00",
-      "date_formatted": "2 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Médecine générale : 3 000 « docteurs juniors » déployés sur le territoire français pour répondre aux déserts médicaux",
