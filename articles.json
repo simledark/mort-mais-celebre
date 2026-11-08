@@ -1,25 +1,35 @@
 {
-  "generated_at": "2026-11-08T12:19:38.908136+00:00",
-  "count": 51,
+  "generated_at": "2026-11-08T21:25:38.435528+00:00",
+  "count": 49,
   "articles": [
     {
-      "title": "Au large du Sénégal, une pirogue fait naufrage, au moins 21 morts",
-      "desc": "Depuis des années, des milliers de personnes venues d’Afrique de l’Ouest tentent de joindre l’Europe, souvent via les Canaries, à bord d’embarcations surchargées, et souvent vétustes.",
-      "url": "https://www.liberation.fr/international/afrique/au-large-du-senegal-une-pirogue-fait-naufrage-au-moins-21-morts-20261108_L7XTUALPAFCO5D6E4IPYUUL2VA/",
+      "title": "«Jamais je n’ai vécu un choc pareil» : après l’attentat à Cracovie, les habitants sidérés",
+      "desc": "Six personnes sont mortes et quinze ont été blessées lors d’une fusillade dans la deuxième ville de Pologne, samedi 7 novembre. Ce drame s’inscrit dans un contexte délicat, après plusieurs attaques au couteau dans des établissements scolaires ces dernières semaines et une polarisation croissante du ",
+      "url": "https://www.liberation.fr/international/europe/jamais-je-nai-vecu-un-choc-pareil-apres-lattentat-a-cracovie-les-habitants-sideres-20261108_LEMMWBOMHRFZDLWGTU5A53NYHQ/",
       "image": null,
-      "date": "2026-11-08T10:57:43+00:00",
+      "date": "2026-11-08T19:17:59+00:00",
       "date_formatted": "8 November 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Pologne : enquête ouverte pour terrorisme, des corps retrouvés chez le tireur, fascination pour l’extrême droite… Ce que l’on sait après l’attentat mortel de Cracovie",
-      "desc": "Après les tirs mortels qui ont ensanglanté le cœur touristique de la deuxième ville de Pologne, samedi 7 novembre, enquêteurs et responsables politiques pointent du doigt les accointances idéologiques du tireur, qui aurait agi seul.",
-      "url": "https://www.liberation.fr/international/europe/pologne-des-corps-retrouves-chez-le-tireur-fascination-pour-lextreme-droite-ce-que-lon-sait-apres-lattentat-mortel-de-cracovie-20261108_X5EYERZROJAVTG4PWU44XJA5JI/",
+      "title": "Au large du Sénégal, une pirogue fait naufrage, au moins 34 morts",
+      "desc": "Depuis des années, des milliers de personnes venues d’Afrique de l’Ouest tentent de joindre l’Europe, souvent via les Canaries, à bord d’embarcations surchargées, et souvent vétustes.",
+      "url": "https://www.liberation.fr/international/afrique/au-large-du-senegal-une-pirogue-fait-naufrage-au-moins-21-morts-20261108_L7XTUALPAFCO5D6E4IPYUUL2VA/",
       "image": null,
-      "date": "2026-11-08T10:16:01+00:00",
+      "date": "2026-11-08T18:43:08+00:00",
       "date_formatted": "8 November 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les infections respiratoires de l'hiver",
+      "desc": "L'automne est bien entamé, les virus et maladies circulent à nouveau. Parfois nos bronches et nos poumons sont mis à rude épreuve : entre grippe, Covid-19 ou bronchiolite pour les plus jeunes",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/les-infections-respiratoires-de-l-hiver_8232070.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GoSPUGGiUYj1w9ZJQpz5odzewD0/0x110:2121x1303/432x243/filters:format(jpg)/2026/11/07/6aef1f7067f13030265380.jpg",
+      "date": "2026-11-08T16:30:03+00:00",
+      "date_formatted": "8 November 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -183,26 +193,6 @@
       "type": "presse"
     },
     {
-      "title": "Nouvelle campagne de prévention de l'assurance maladie sur la consommation d'antibiotiques, toujours très élevée en France",
-      "desc": "\"Les antibiotiques, c'est VRAIMENT pas automatique\", c'est le slogan ressuscité par la Sécurité sociale pour la campagne de cette année. Car l'antibiorésistance qui résulte d'une surconsommation tue chaque année plusieurs milliers de personnes en France.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/nouvelle-campagne-de-prevention-de-l-assurance-maladie-sur-la-consommation-d-antibiotiques-toujours-tres-elevee-en-france_8270336.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/MKCdd-mqO8XDrp9kgTvMpyaUqW8/0x200:3840x2360/432x243/filters:format(jpg)/2026/11/06/6aeda9a8564ec367121902.jpg",
-      "date": "2026-11-06T11:22:07+00:00",
-      "date_formatted": "6 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une jeune femme de 27 ans victime d'une intoxication mortelle après avoir mangé des morilles séchées",
-      "desc": "Elle avait préparé un poulet aux morilles, avec des champignons séchés achetés dans le commerce. Une jeune femme de 27 ans est morte au CHU de Montpellier, après de graves troubles digestifs. Les analyses doivent établir si les morilles sont responsables de son décès. En attendant, un rappel nationa",
-      "url": "https://www.franceinfo.fr/sante/alimentation/une-jeune-femme-de-27-ans-victime-d-une-intoxication-mortelle-apres-avoir-mange-des-morilles-sechees_8269880.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/1dCoati-TiVkAedw414axBxbCgE/0x65:1028x644/432x243/filters:format(jpg)/2026/11/05/6aecea4d9b791907474708.png",
-      "date": "2026-11-05T22:34:22+00:00",
-      "date_formatted": "5 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Novembre bleu : qu’est-ce que cette campagne sur la santé des hommes ?",
       "desc": "Chaque année, Novembre bleu sensibilise aux cancers masculins, comme ceux de la prostate et des testicules. Objectif : encourager la prévention et le dépistage précoce",
       "url": "https://www.20minutes.fr/societe/4260711-20261105-novembre-bleu-campagne-sante-hommes?at_medium=display&at_campaign=149",
@@ -331,16 +321,6 @@
       "date_formatted": "3 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Cette maladie des artères peut évoluer pendant des années sans symptôme : ce test simple permet de la repérer",
-      "desc": "Quelque 316 millions de personnes dans le monde, et une maladie qui progresse souvent sans le moindre symptôme pendant des années. Un test de dépistage existe, indolore et sans appareillage lourd : il suffit de comparer la pression artérielle à la cheville et au bras. Dans la seule étude de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-cette-maladie-arteres-peut-evoluer-pendant-annees-symptome-ce-test-simple-permet-reperer-k2m6-139004/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/6/2/862ee06e9b_50262811_jambes-arteres.jpg",
-      "date": "2026-11-02T18:00:00+00:00",
-      "date_formatted": "2 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Ebola : l’épidémie a fait plus de 5 300 morts en Afrique, dont l’immense majorité en RDC",
