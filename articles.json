@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-11-09T03:21:10.878104+00:00",
-  "count": 49,
+  "generated_at": "2026-11-09T14:31:47.525407+00:00",
+  "count": 51,
   "articles": [
     {
-      "title": "«Jamais je n’ai vécu un choc pareil» : après l’attentat à Cracovie, les habitants sidérés",
-      "desc": "Six personnes sont mortes et quinze ont été blessées lors d’une fusillade dans la deuxième ville de Pologne, samedi 7 novembre. Ce drame s’inscrit dans un contexte délicat, après plusieurs attaques au couteau dans des établissements scolaires ces dernières semaines et une polarisation croissante du ",
-      "url": "https://www.liberation.fr/international/europe/jamais-je-nai-vecu-un-choc-pareil-apres-lattentat-a-cracovie-les-habitants-sideres-20261108_LEMMWBOMHRFZDLWGTU5A53NYHQ/",
-      "image": null,
-      "date": "2026-11-08T19:17:59+00:00",
-      "date_formatted": "8 November 2026",
-      "source": "Libération",
+      "title": "Ebola : en RDC, dans l’épicentre de l’épidémie, le lancement des premiers essais de traitements fait renaître l’espoir",
+      "desc": "A Bunia, dans l’est de la République démocratique du Congo, où l’épidémie frappe durement, des essais cliniques testant l’efficacité de plusieurs vaccins et médicaments sont actuellement menés. Leur but est de protéger les populations de la contamination et d’augmenter les chances de survie des mala",
+      "url": "https://www.lemonde.fr/afrique/article/2026/11/09/ebola-en-rdc-dans-l-epicentre-de-l-epidemie-le-lancement-des-premiers-essais-de-traitements-fait-renaitre-l-espoir_6808646_3212.html",
+      "image": "https://img.lemde.fr/2026/11/05/551/0/6612/3306/644/322/60/0/85b4831_upload-1-d3j2ys9y3awy-07-pb-lemonde-ebola-ituri-essais-cliniques-bunia.jpg",
+      "date": "2026-11-09T12:30:01+00:00",
+      "date_formatted": "9 November 2026",
+      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "Au large du Sénégal, une pirogue fait naufrage, au moins 34 morts",
-      "desc": "Depuis des années, des milliers de personnes venues d’Afrique de l’Ouest tentent de joindre l’Europe, souvent via les Canaries, à bord d’embarcations surchargées, et souvent vétustes.",
-      "url": "https://www.liberation.fr/international/afrique/au-large-du-senegal-une-pirogue-fait-naufrage-au-moins-21-morts-20261108_L7XTUALPAFCO5D6E4IPYUUL2VA/",
-      "image": null,
-      "date": "2026-11-08T18:43:08+00:00",
-      "date_formatted": "8 November 2026",
-      "source": "Libération",
+      "title": "Ni salle de sport ni footing : monter 5 étages par jour est associé à 20 % de risque cardiovasculaire en moins",
+      "desc": "Cinq étages représentent entre 75 et 90 marches au total. Selon une étude menée par des chercheurs de l’Université de Tulane (Nouvelle Orléans), monter cette quantité d’étages chaque jour permet de réduire de 20% le risque de maladie cardiovasculaire.",
+      "url": "https://www.futura-sciences.com/sante/actualites/coeur-ni-salle-sport-ni-footing-monter-5-etages-jour-associe-20-risque-cardiovasculaire-moins-prf21-139033/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/2/9/5290d880a0_50262995_2-damiankuzdak-1.jpg",
+      "date": "2026-11-09T11:31:12+00:00",
+      "date_formatted": "9 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "La santé mentale des plus jeunes toujours plus dégradée",
+      "desc": "Salut c’est Sarah, ça dit quoi ? Solitudes, exclusion, stress… Les blocus des universités et des lycées rappellent des sentiments vécus par certains pendant le confinement lié à l’épidémie de Covid. Des sentiments qui touchent la santé mentale des plus jeunes, déjà très fragilisée.",
+      "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-plus-jeunes-toujours-plus-degradee_8274248.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/PeS1zdLsPLmnU8rWGuZkXeIFPMw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af18dc741116261562538.png",
+      "date": "2026-11-09T10:10:03+00:00",
+      "date_formatted": "9 November 2026",
+      "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "« J’aurais voulu qu’on me dise, “Je vous crois” » : quand les symptômes des femmes atteintes de maladies auto-immunes sont attribués à des troubles psychologiques",
+      "desc": "Une étude internationale révèle que les femmes souffrant de ces pathologies rapportent, plus souvent que les hommes, des diagnostics psychiatriques erronés. Des patientes témoignent de leurs années d’errance, durant lesquelles leurs symptômes ont été attribués au stress, à l’anxiété ou à la dépressi",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/09/j-aurais-voulu-qu-on-me-dise-je-vous-crois-quand-les-symptomes-des-femmes-atteintes-de-maladies-auto-immunes-sont-attribues-a-des-troubles-psychologiques_6808611_1650684.html",
+      "image": "https://img.lemde.fr/2026/11/05/1000/0/6000/3000/644/322/60/0/8f27e73_upload-1-rxpd6spmphzw-sipa-ap22995159-000008.jpg",
+      "date": "2026-11-09T06:00:31+00:00",
+      "date_formatted": "9 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Pourquoi certains développent-ils un cancer et d'autres non ? Des chercheurs français explorent une piste inattendue",
+      "desc": "Pourquoi certains individus, parfois centenaires et pourtant très exposés, restent-ils indemnes de cancer ? Une équipe française s'empare de cette énigme biologique, soutenue par une bourse internationale d'exception.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-certains-developpent-ils-cancer-autres-non-chercheurs-francais-explorent-piste-inattendue-139069/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/2/a/22a4e2253d_50262917_resistance-cancer.jpg",
+      "date": "2026-11-09T05:28:24+00:00",
+      "date_formatted": "9 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
     },
     {
       "title": "Les infections respiratoires de l'hiver",
@@ -67,7 +97,7 @@
       "desc": "Chaque mois, « Le Monde » part à la rencontre d’un soignant et d’un soigné qui, ensemble et au-delà du soin, ont su nouer un lien. Etonnante trajectoire que celle du duo formé par Valérie Triponez, infirmière atteinte d’un Covid long, et Mathieu Saubade, spécialiste de cette maladie complexe, devenu",
       "url": "https://www.lemonde.fr/intimites/article/2026/11/07/le-soignant-qui-a-change-ma-vie-j-etais-sa-patiente-pour-covid-long-je-suis-devenue-sa-collegue_6808308_6190330.html",
       "image": "https://img.lemde.fr/2026/11/05/611/0/4000/2000/644/322/60/0/243ab41_upload-1-ie4fkgbq1nvh-26-10-05-vale-rie-triponez-mathieu-saubade-04-marie-pierre-cravedi.jpg",
-      "date": "2026-11-07T19:00:05+00:00",
+      "date": "2026-11-07T19:00:02+00:00",
       "date_formatted": "7 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -301,16 +331,6 @@
       "date_formatted": "3 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Vieillissement du cerveau : cette star de l’apéro aurait un effet inattendu sur la mémoire, selon une étude",
-      "desc": "Et si votre apéritif cachait un allié pour vos neurones ? Une nouvelle étude révèle qu'une consommation quotidienne d'une célèbre petite graine pourrait influencer la façon dont le cerveau réagit à l'insuline, dans des zones clés pour la mémorisation.",
-      "url": "https://www.futura-sciences.com/sante/actualites/memoire-vieillissement-cerveau-cette-star-apero-aurait-effet-inattendu-memoire-selon-etude-139034/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/0/c/b0c821a296_50262853_cerveau-vieillissant.jpg",
-      "date": "2026-11-03T12:33:35+00:00",
-      "date_formatted": "3 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Fin de vie : l’aide à mourir entrera en vigueur en janvier 2027, confirme la ministre de la santé Stéphanie Rist",
