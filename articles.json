@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-10T13:52:39.457869+00:00",
-  "count": 49,
+  "generated_at": "2026-11-10T22:36:56.188032+00:00",
+  "count": 50,
   "articles": [
+    {
+      "title": "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans",
+      "desc": "Tous les Français et Françaises de 29 ans vont recevoir, à partir du 16 novembre, une lettre de l’Assurance maladie pour sensibiliser à la contraception et à la fertilité. Une lettre qui fait partie d’une grande campagne nationale qui avait été annoncée dès janvier 2024 par Emmanuel Macron, pour fai",
+      "url": "https://www.franceinfo.fr/sante/la-lettre-sur-la-fertilite-bientot-envoyee-aux-francais-es-de-29-ans_8276531.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/WYBxo3GiFLRzL1HzbaLRzhO5COE/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/10/6af33b8e26390516756927.jpg",
+      "date": "2026-11-10T20:00:02+00:00",
+      "date_formatted": "10 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Décision historique» : en Corrèze, une mère de trois enfants fait condamner le distributeur d’eau à cause d’un gaz cancérigène au robinet",
+      "desc": "Un syndicat a été condamné à verser 2 000 euros à une habitante de Nouvelle-Aquitaine exposée au CVM, un gaz classé cancérogène certain, selon une décision de justice dévoilée ce mardi 10 novembre.",
+      "url": "https://www.liberation.fr/environnement/decision-historique-en-correze-une-mere-de-trois-enfants-fait-condamner-le-distributeur-deau-a-cause-dun-gaz-cancerigene-au-robinet-20261110_WEDOTKD7VRCITFC7IPMEPRCTBM/",
+      "image": null,
+      "date": "2026-11-10T18:49:01+00:00",
+      "date_formatted": "10 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "En Corrèze, une condamnation « historique » d’un syndicat de distribution d’eau pour pollution au CVM, un gaz cancérogène",
+      "desc": "A la fin de septembre, le tribunal judiciaire de Tulle a condamné le syndicat à verser 2 000 euros à une usagère, exposée à ce gaz incolore et inodore mais classé « cancérogène certain ». D’autres procédures similaires sont en cours en France.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/10/en-correze-une-condamnation-historique-d-un-syndicat-de-distribution-d-eau-pour-pollution-au-cvm-un-gaz-cancerogene_6808884_3244.html",
+      "image": "https://img.lemde.fr/2026/06/04/226/0/2712/1356/644/322/60/0/c15ace2_upload-1-cdjljx5ip6c6-frame-1135.jpg",
+      "date": "2026-11-10T18:25:53+00:00",
+      "date_formatted": "10 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le choléra a fait plus de 3 000 morts dans le monde depuis le début de l'année, selon l'OMS",
+      "desc": "L'agence estime que le phénomène climatique El Niño, qui secoue le climat mondial, pourrait aggraver la situation, \"le choléra étant exacerbé aussi bien par un excès que par un manque d'eau\".",
+      "url": "https://www.franceinfo.fr/sante/plus-de-3-000-morts-du-cholera-depuis-le-debut-de-l-annee-selon-l-oms_8276561.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/_HrLH6-dLoQLlITIWPP3FawArrY/0x0:4308x2423/432x243/filters:format(jpg)/2026/11/10/6af3421befc76829488118.jpg",
+      "date": "2026-11-10T17:58:51+00:00",
+      "date_formatted": "10 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des cordons bleus vendus chez Leclerc partout en France rappelés",
+      "desc": "Des cordons bleus de dinde Côté Croc, vendus chez E.Leclerc dans toute la France, sont rappelés : ils contiennent du lait, un allergène qui n’était pas indiqué sur l’étiquette",
+      "url": "https://www.20minutes.fr/societe/4261986-20261110-cordons-bleus-vendus-chez-leclerc-partout-france-rappeles?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/TYQEMBPoSSqYX4Wohkx0DSk/1200x768_photo-illustration-enseigne-de-la-grande-surface-leclerc-07allilimages-pxl-20241228-124153842-credit-mourad-allili-sipa-2601261542",
+      "date": "2026-11-10T15:34:23+00:00",
+      "date_formatted": "10 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Quand les tumeurs piratent le système nerveux",
       "desc": "Longtemps considéré comme un simple voisin des tumeurs, le système nerveux apparaît aujourd’hui comme un acteur à part entière de leur développement. Une découverte qui ouvre de nouvelles perspectives thérapeutiques.",
@@ -25,7 +75,7 @@
     {
       "title": "La CLCV demande aux autorités d’évaluer les risques des gaz lacrymogènes pour la santé et l’environnement",
       "desc": "L'association nationale de défense des consommateurs et usagers a saisi l'Anses afin d'identifier plus précisément les effets sur la santé et l'environnement des gaz lacrymogènes, largement utilisés ces dernières semaines.",
-      "url": "https://www.franceinfo.fr/sante/la-clcv-demande-aux-autorites-d-evaluer-les-risques-des-gaz-lacrymogenes-pour-la-sante-et-l-environnement_8276039.html#xtor=RSS-3-%5Bgeneral%5D",
+      "url": "https://www.franceinfo.fr/sante/la-clcv-demande-aux-autorites-d-evaluer-les-risques-des-gaz-lacrymogenes-pour-la-sante-et-l-environnement_8276039.html#xtor=RSS-3-%5Bsante%5D",
       "image": "https://www.franceinfo.fr/pictures/TVbd2K5q175_yrKU1IQscVwrYU8/0x5:1024x581/432x243/filters:format(jpg)/2026/10/24/6adcc7ebc4cf0685254808.jpg",
       "date": "2026-11-10T10:31:25+00:00",
       "date_formatted": "10 November 2026",
@@ -45,7 +95,7 @@
     {
       "title": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
       "desc": "Les drogues de synthèse, très accessibles et en plein essor, représentent une menace supplémentaire, pointe l'Ofast dans une note consultée lundi par l'AFP.",
-      "url": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html#xtor=RSS-3-%5Bgeneral%5D",
+      "url": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html#xtor=RSS-3-%5Bsante%5D",
       "image": "https://www.franceinfo.fr/pictures/LA7FenaVnAu2fn2sCAcNxBgD888/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af21012f38f5863608774.jpg",
       "date": "2026-11-09T20:19:32+00:00",
       "date_formatted": "9 November 2026",
@@ -85,7 +135,7 @@
     {
       "title": "La santé mentale des plus jeunes toujours plus dégradée",
       "desc": "Salut c’est Sarah, ça dit quoi ? Solitudes, exclusion, stress… Les blocus des universités et des lycées rappellent des sentiments vécus par certains pendant le confinement lié à l’épidémie de Covid. Des sentiments qui touchent la santé mentale des plus jeunes, déjà très fragilisée.",
-      "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-plus-jeunes-toujours-plus-degradee_8274248.html#xtor=RSS-3-%5Bgeneral%5D",
+      "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-plus-jeunes-toujours-plus-degradee_8274248.html#xtor=RSS-3-%5Bsante%5D",
       "image": "https://www.franceinfo.fr/pictures/PeS1zdLsPLmnU8rWGuZkXeIFPMw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af18dc741116261562538.png",
       "date": "2026-11-09T10:10:03+00:00",
       "date_formatted": "9 November 2026",
@@ -115,7 +165,7 @@
     {
       "title": "Les infections respiratoires de l'hiver",
       "desc": "L'automne est bien entamé, les virus et maladies circulent à nouveau. Parfois nos bronches et nos poumons sont mis à rude épreuve : entre grippe, Covid-19 ou bronchiolite pour les plus jeunes",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/les-infections-respiratoires-de-l-hiver_8232070.html#xtor=RSS-3-%5Bgeneral%5D",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/les-infections-respiratoires-de-l-hiver_8232070.html#xtor=RSS-3-%5Bsante%5D",
       "image": "https://www.franceinfo.fr/pictures/GoSPUGGiUYj1w9ZJQpz5odzewD0/0x110:2121x1303/432x243/filters:format(jpg)/2026/11/07/6aef1f7067f13030265380.jpg",
       "date": "2026-11-08T16:30:03+00:00",
       "date_formatted": "8 November 2026",
@@ -130,26 +180,6 @@
       "date": "2026-11-08T10:00:05+00:00",
       "date_formatted": "8 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le vaccin, nouvel outil de lutte contre le cancer",
-      "desc": "Ça y est, le vaccin serait l'avenir de la lutte contre le cancer. Un vaccin à base d'ARN messager a montré de très bon résultat contre le mélanome. Un espoir pour notre santé et pour l'avenir.",
-      "url": "https://www.franceinfo.fr/sante/le-vaccin-nouvel-outil-de-lutte-contre-le-cancer_8271224.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/5qvZCeXjO1EDl4bC6OC7uS9slrk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/06/6aee0282982c6097211997.jpg",
-      "date": "2026-11-08T10:00:02+00:00",
-      "date_formatted": "8 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Quand les jambes empêchent de dormir",
-      "desc": "Certains parlent d'impatiences dans les jambes, d'autres de jambes sans repos. En réalité ces syndromes sont ceux d'une maladie qui peuvent perturber le sommeil.",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/quand-les-jambes-empechent-de-dormir_8232046.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/P01ty19GvbTJNoun2y7p_kQNZ8E/0x110:2120x1303/432x243/filters:format(jpg)/2026/11/05/6aec723a5d31b941017056.jpg",
-      "date": "2026-11-08T09:00:02+00:00",
-      "date_formatted": "8 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -333,31 +363,11 @@
       "type": "science"
     },
     {
-      "title": "Ce que révèle une prise de sang à huit ans sur la santé des décennies plus tard",
-      "desc": "Six protéines, repérables dans une simple prise de sang chez des enfants de 8 ans, sont associées à un risque accru de maladie cardiaque, de diabète, d'obésité ou d'atteinte rénale. Les auteurs y voient une occasion d'agir des décennies avant les premiers symptômes. Reste à mesurer précisément...",
-      "url": "https://www.futura-sciences.com/sante/actualites/depistage-ce-revele-prise-sang-huit-ans-sante-decennies-plus-tard-k2m6-139036/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/6/6/a660f8b59a_50262857_prise-sang-enfant-prevoir-maladies.jpg",
-      "date": "2026-11-04T10:00:00+00:00",
-      "date_formatted": "4 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
       "desc": "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité. Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place.",
       "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
       "image": "https://img.lemde.fr/2023/12/18/101/0/1920/960/644/322/60/0/e0912a3_1702916734985-sans-titre-3.jpg",
       "date": "2026-11-03T18:30:00+00:00",
-      "date_formatted": "3 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : l’aide à mourir entrera en vigueur en janvier 2027, confirme la ministre de la santé Stéphanie Rist",
-      "desc": "Après des années de débat, les décrets d’application de cette réforme sociétale majeure de la présidence d’Emmanuel Macron seront particulièrement scrutés.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/03/fin-de-vie-l-aide-a-mourir-entrera-en-vigueur-en-janvier-2027-confirme-la-ministre-de-la-sante-stephanie-rist_6805555_3224.html",
-      "image": "https://img.lemde.fr/2026/10/28/403/0/4836/2418/644/322/60/0/44d13ff_ftp-1-m0wu0s1sydks-afp-d4nc86n.jpg",
-      "date": "2026-11-03T10:28:31+00:00",
       "date_formatted": "3 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
