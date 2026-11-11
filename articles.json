@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-11T03:29:11.935064+00:00",
-  "count": 50,
+  "generated_at": "2026-11-11T13:04:34.109329+00:00",
+  "count": 51,
   "articles": [
+    {
+      "title": "Que sait-on de l’homme mort à Châtelet, en marge des manifestations, dans la nuit du 18 au 19 octobre ?",
+      "desc": "«CheckNews» a retrouvé l’identité de la personne décédée dimanche soir 18 octobre dans le centre de Paris. Agent de sécurité, il travaillait à la protection d’un commerce. Rien, pour l’heure, ne lie son décès à l’intervention des policiers.",
+      "url": "https://www.liberation.fr/checknews/que-sait-on-de-lhomme-mort-a-chatelet-en-marge-des-manifestations-dans-la-nuit-du-18-au-19-octobre-20261111_37D6ASB5X5FI5COMGVYTRLRY5E/",
+      "image": null,
+      "date": "2026-11-11T11:41:11+00:00",
+      "date_formatted": "11 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN IMAGES – «Amélia, la petite fille qui parlait aux animaux», un conte et des rencontres",
+      "desc": "A l’âge de 3 ans, Amélia a rencontré un chimpanzé prénommé Ricky. Coup de cœur réciproque. Robin Schwarz, sa mère photographe, a immortalisé ce moment. Les rencontres et les amitiés se succèdent : un autre petit singe prénommé Ming, un dindon, des alpagas, une biche, un émeu, une chèvre, un bébé tig",
+      "url": "https://www.liberation.fr/culture/photographie/en-images-amelia-la-petite-fille-qui-parlait-aux-animaux-un-conte-et-des-rencontres-20261111_O2CRLDTSCFHZNMNIIDWIFCKOQM/",
+      "image": null,
+      "date": "2026-11-11T10:38:02+00:00",
+      "date_formatted": "11 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un espoir pour les personnes atteintes du syndrome de la personne raide, comme Céline Dion",
+      "desc": "Des avancées médicales redonnent de l’espoir aux personnes atteintes de cette maladie auto-immune rare, dont souffre Céline Dion",
+      "url": "https://www.20minutes.fr/sante/4262134-20261111-espoir-personnes-atteintes-syndrome-personne-raide-comme-celine-dion?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/s-bHrhg5TW2yakcQ_FO2HSk/1200x768_celine-dion-eddy-angelil-et-nelson-angelil-disent-au-revoir-a-paris-et-a-leurs-fans-qui-se-rendent-a-l-aeroport-hotel-royal-monceau-a-paris-france-urman-11000418-credit-lionel-urman-sipa-2610191240",
+      "date": "2026-11-11T10:05:04+00:00",
+      "date_formatted": "11 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Porno, glamourisation de l’inceste et du viol : pourquoi l’IA de Tipsy Chat, accessible aux mineurs, inquiète",
+      "desc": "L’application, qui s’attaque au marché français grâce aux influenceurs, met en relation des utilisateurs avec des personnages de fiction aux pratiques et aux discours sexuels violents, sans vraie vérification d’âge.",
+      "url": "https://www.liberation.fr/lifestyle/hightech/porno-glamourisation-de-linceste-et-du-viol-pourquoi-lia-de-tipsy-chat-accessible-aux-mineurs-inquiete-20261111_LP2TIHLK7NBQBP72MV3UH5AOFU/",
+      "image": null,
+      "date": "2026-11-11T09:42:13+00:00",
+      "date_formatted": "11 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Et si le jeûne permettait de mieux supporter la radiothérapie ? Une étude révèle un mécanisme étonnant dans l’intestin",
+      "desc": "Le jeûne est généralement déconseillé aux personnes atteintes de cancer. Pourtant, une nouvelle étude révèle qu’il pourrait aider l’intestin à mieux récupérer après une radiothérapie. Des chercheurs viennent de décrypter ce mécanisme étonnant, impliquant une bactérie bénéfique et une molécule...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-colorectal-si-jeune-permettait-mieux-supporter-radiotherapie-etude-revele-mecanisme-etonnant-intestin-139236/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/4/7/c479b83e07_50263147_radiotherapie-abdomen.jpg",
+      "date": "2026-11-11T06:08:59+00:00",
+      "date_formatted": "11 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Arrêts maladie pour raisons de santé mentale : la délicate prise en charge des troubles liés au travail",
+      "desc": "Alors que les consultations spécialisées dans les troubles psychiques liés au travail, en Ile-de-France, voient affluer les patients, le gouvernement appelle à une « réforme structurelle » de la prise en charge des arrêts maladie dans le cadre des débats budgétaires. A Garches et à Paris, des équipe",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/11/arrets-maladie-pour-raisons-de-sante-mentale-la-delicate-prise-en-charge-des-troubles-lies-au-travail_6808931_3224.html",
+      "image": "https://img.lemde.fr/2026/11/03/344/0/2752/1376/644/322/60/0/14f7ddc_upload-1-hmyrusds0sw6-image0.jpeg",
+      "date": "2026-11-11T06:00:21+00:00",
+      "date_formatted": "11 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans",
       "desc": "Tous les Français et Françaises de 29 ans vont recevoir, à partir du 16 novembre, une lettre de l’Assurance maladie pour sensibiliser à la contraception et à la fertilité. Une lettre qui fait partie d’une grande campagne nationale qui avait été annoncée dès janvier 2024 par Emmanuel Macron, pour fai",
@@ -10,16 +70,6 @@
       "date": "2026-11-10T20:00:02+00:00",
       "date_formatted": "10 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Décision historique» : en Corrèze, une mère de trois enfants fait condamner le distributeur d’eau à cause d’un gaz cancérigène au robinet",
-      "desc": "Un syndicat a été condamné à verser 2 000 euros à une habitante de Nouvelle-Aquitaine exposée au CVM, un gaz classé cancérogène certain, selon une décision de justice dévoilée ce mardi 10 novembre.",
-      "url": "https://www.liberation.fr/environnement/decision-historique-en-correze-une-mere-de-trois-enfants-fait-condamner-le-distributeur-deau-a-cause-dun-gaz-cancerigene-au-robinet-20261110_WEDOTKD7VRCITFC7IPMEPRCTBM/",
-      "image": null,
-      "date": "2026-11-10T18:49:01+00:00",
-      "date_formatted": "10 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -161,16 +211,6 @@
       "date_formatted": "9 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Les infections respiratoires de l'hiver",
-      "desc": "L'automne est bien entamé, les virus et maladies circulent à nouveau. Parfois nos bronches et nos poumons sont mis à rude épreuve : entre grippe, Covid-19 ou bronchiolite pour les plus jeunes",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/les-infections-respiratoires-de-l-hiver_8232070.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/GoSPUGGiUYj1w9ZJQpz5odzewD0/0x110:2121x1303/432x243/filters:format(jpg)/2026/11/07/6aef1f7067f13030265380.jpg",
-      "date": "2026-11-08T16:30:03+00:00",
-      "date_formatted": "8 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola : « Une famille ne peut pas réduire les contacts dans un logement exigu, sans eau, sans nourriture ni matériel d’hygiène »",
@@ -341,36 +381,6 @@
       "date_formatted": "4 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Allemagne : On connaît l’origine des trois cas mortels de « paludisme d’aéroport » à Francfort",
-      "desc": "Huit cas de « paludisme d’aéroport » survenus près de l’aéroport de Francfort pendant l’été, dont trois mortels, ont été causés par des parasites originaires d’Afrique de l’Ouest introduits par des moustiques infectés arrivés probablement par avion",
-      "url": "https://www.20minutes.fr/monde/4260397-20261104-allemagne-connait-origine-trois-cas-mortels-paludisme-aeroport-francfort?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/YKJCdZ0LSYCfa3Vwi3d3kCk/1200x768_dpatop-14-octobre-2026-hesse-francfort-sur-le-main-les-avions-du-groupe-lufthansa-sont-gares-a-l-aeroport-de-francfort-tard-dans-la-soiree-le-kerosene-etant-a-court-de-kerosene-a-l-aeroport-de-francfort-les-avions-lufthansa-font-le-plein-avant-leur-arrivee-photo-ardavan-safari-dpa-ur-newsml-dpa-com-20090101-261015-99-955115-ardavan-safari-dpa-sipa-2610150210",
-      "date": "2026-11-04T16:33:36+00:00",
-      "date_formatted": "4 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Comment l'immunothérapie apprend à notre système immunitaire à combattre le cancer",
-      "desc": "On imagine souvent que le système immunitaire intervient surtout pour nous défendre contre les bactéries et les virus. Pourtant, il surveille aussi nos propres cellules et peut éliminer celles qui deviennent anormales. Un cancer se développe justement lorsque certaines de ces cellules anormales...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-immunotherapie-apprend-notre-systeme-immunitaire-combattre-cancer-137274/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/c/f/2cfe93f7db_50259892_immunotherapie-cancer.jpg",
-      "date": "2026-11-04T10:30:00+00:00",
-      "date_formatted": "4 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Contre l’infertilité, une première campagne nationale en direction des jeunes",
-      "desc": "L’Assurance-maladie s’apprête à envoyer aux hommes et femmes de 29 ans un message portant sur les enjeux de la fertilité. Une mesure-clé du plan gouvernemental contre l’infertilité, lancé en février, qui se met progressivement en place.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/03/contre-l-infertilite-une-premiere-campagne-nationale-en-direction-des-jeunes_6805640_3224.html",
-      "image": "https://img.lemde.fr/2023/12/18/101/0/1920/960/644/322/60/0/e0912a3_1702916734985-sans-titre-3.jpg",
-      "date": "2026-11-03T18:30:00+00:00",
-      "date_formatted": "3 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Les plantes transmettent-elles des maladies aux humains, comme le font les animaux ?",
