@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-11-12T14:07:08.738730+00:00",
+  "generated_at": "2026-11-12T22:55:57.015419+00:00",
   "count": 54,
   "articles": [
     {
-      "title": "Un immeuble s’effondre à New York, 8 morts et 19 blessés",
-      "desc": "Les causes du drame ne sont pas encore connues ont précisé les autorités, alors que les trois étages du bâtiment se sont écroulés sur un chantier voisin mercredi 11 novembre. Plus de 250 secouristes ont été mobilisés.",
-      "url": "https://www.liberation.fr/international/amerique/un-immeuble-seffondre-a-new-york-au-moins-deux-morts-et-17-blesses-20261112_QJR2MEAFEBGJ7A3JI7YP7SSGS4/",
+      "title": "Hantavirus : décrypter la souche Andes, une étape essentielle pour retracer le parcours de l’épidémie",
+      "desc": "Une seule contamination entre rongeur et humain, mais où et quand ? Quatre mois après la fin de la crise sanitaire déclenchée par la survenue de cas à bord d’un navire de croisière, un article publié jeudi dans la revue « Science » apporte quelques réponses… et beaucoup de questions. Un consortium d",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/12/decrypter-le-genome-du-hantavirus-andes-une-etape-essentielle-pour-retracer-le-parcours-de-l-epidemie_6809156_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/10/133/0/1588/794/644/322/60/0/773303a_ftp-1-h00j8tyc2hsh-336b802dd6d64f7a9f66fe6ac23dd59b-0-b1ed737e2b784c0fbd5b0755c3beeb45.jpg",
+      "date": "2026-11-12T20:00:00+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "En Italie, le gouvernement de Meloni réhabilite une figure néofasciste",
+      "desc": "Député et militant contre la démocratie, inspirateur de plusieurs attentats, Pino Rauti (1926-2012) a droit à une exposition à la Chambre des députés pour le centenaire de sa naissance, et même à un timbre à son effigie.",
+      "url": "https://www.liberation.fr/international/europe/en-italie-le-gouvernement-de-meloni-rehabilite-une-figure-neofasciste-20261112_MNZPYHU22VAUFMGOJMWCZOP5BM/",
       "image": null,
-      "date": "2026-11-12T13:47:45+00:00",
+      "date": "2026-11-12T19:07:12+00:00",
       "date_formatted": "12 November 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Julie Ollivier meurt, Sébastien Cauet chante et tout le monde s’en tape, par Giulia Foïs",
-      "desc": "Après le suicide de Julie Ollivier, qui avait porté plainte pour viol contre l’animateur, celui-ci n’a pas changé une seconde de sa matinale. Symptomatique de l’indifférence généralisée face à la parole des femmes, selon la journaliste.",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/julie-ollivier-meurt-sebastien-cauet-chante-et-tout-le-monde-sen-tape-par-giulia-fois-20261112_QH4D5NDOGVH4XDA6IFSU4YRS3M/",
+      "title": "On fait le point sur la proposition de Jean-Luc Mélenchon d'autodéclarer les arrêts-maladies de courte durée",
+      "desc": "Cette proposition, qui vise à désengorger les cabinets de médecins et à réaliser des économies en remboursant moins de consultations selon les insoumis, a été qualifiée de \"pure démagogie\" par le gouvernement.",
+      "url": "https://www.franceinfo.fr/sante/maladie/on-fait-le-point-sur-la-proposition-de-jean-luc-melenchon-d-autodeclarer-les-arrets-maladie-de-courte-duree_8279177.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/OQl6QfszxxGoMnxHy7q54pstMZA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af5f764c0636520059536.jpg",
+      "date": "2026-11-12T19:05:23+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Plus d'un million de personnes sont mortes de la tuberculose en 2025, les objectifs mondiaux restent lointains s'inquiète l'OMS",
+      "desc": "Les décès dus à la tuberculose ont diminué de 4% par rapport à 2024, tandis que le nombre de cas a stagné à -0,7%.",
+      "url": "https://www.franceinfo.fr/sante/plus-d-un-million-de-personnes-sont-mortes-de-la-tuberculose-en-2025-les-objectifs-mondiaux-restent-lointains-s-inquiete-l-oms_8279858.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/kAKrPPS7gaij2gBbjvsFgDgEaQE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af5fd276aba9822028860.jpg",
+      "date": "2026-11-12T19:04:53+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre à Gaza : 11 morts dans les frappes les plus meurtrières depuis les élections législatives israéliennes",
+      "desc": "Tsahal a affirmé viser un haut responsable du Hamas, qu’elle accuse d’avoir utilisé l’établissement comme «centre de commandement». Le Hamas a dénoncé un mensonge et qualifié l’attaque de «crime de guerre».",
+      "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/",
       "image": null,
-      "date": "2026-11-12T12:53:37+00:00",
+      "date": "2026-11-12T18:00:06+00:00",
       "date_formatted": "12 November 2026",
       "source": "Libération",
       "type": "presse"
@@ -31,16 +61,6 @@
       "date_formatted": "12 November 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Guerre à Gaza : six morts et une vingtaine de blessés dans une frappe israélienne sur un hôpital de Khan Younès",
-      "desc": "L’armée israélienne a affirmé viser un haut responsable du Hamas, qu’elle accuse d’avoir utilisé l’établissement comme «centre de commandement». Le Hamas a dénoncé un mensonge et qualifié l’attaque de «crime de guerre».",
-      "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/",
-      "image": null,
-      "date": "2026-11-12T11:59:08+00:00",
-      "date_formatted": "12 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Les autorités de santé examinent le lien entre une thérapie génique contre une maladie pédiatrique rare et le risque de cancer",
@@ -94,7 +114,7 @@
     },
     {
       "title": "Près de Nice, un nouvel Institut du cœur à la pointe de la technologie financé à 100 % par la philanthropie",
-      "desc": "Propriété d’une fondation détenue majoritairement par la famille de l’entrepreneur Jean-Louis Noisiez, l’Institut Arnault-Tzanck, à Saint-Laurent-du-Var, a inauguré, le 5 novembre, un gigantesque établissement consacré à la prise en charge des maladies cardiovasculaires. D’un coût de 130 millions d’",
+      "desc": "Propriété d’une fondation détenue majoritairement par la famille de l’entrepreneur Jean-Louis Noisiez, l’Institut Arnault-Tzanck, à Saint-Laurent-du-Var, a inauguré, le 5 novembre, un gigantesque établissement consacré à la prise en charge des maladies cardio-vasculaires. D’un coût de 130 millions d",
       "url": "https://www.lemonde.fr/economie/article/2026/11/11/pres-de-nice-un-nouvel-institut-du-c-ur-a-la-pointe-de-la-technologie-finance-a-100-par-la-philanthropie_6808997_3234.html",
       "image": "https://img.lemde.fr/2026/11/09/828/0/4970/2485/644/322/60/0/f175e4a_upload-1-32jjtfzxa2mz-euge-nie-baccotl1009688.jpg",
       "date": "2026-11-11T17:00:07+00:00",
@@ -379,26 +399,6 @@
       "image": "https://img.20mn.fr/5RGMRi45R_akI4xh5QW4Cyk/1200x768_la-face-cachee-du-gaz-lacrymogene",
       "date": "2026-11-06T13:03:24+00:00",
       "date_formatted": "6 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Novembre bleu : qu’est-ce que cette campagne sur la santé des hommes ?",
-      "desc": "Chaque année, Novembre bleu sensibilise aux cancers masculins, comme ceux de la prostate et des testicules. Objectif : encourager la prévention et le dépistage précoce",
-      "url": "https://www.20minutes.fr/societe/4260711-20261105-novembre-bleu-campagne-sante-hommes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/FDZ6XrGdR2K8tDgiafoIWSk/1200x768_le-medecin-victime-des-menaces-d-un-de-ses-patients-a-depose-plainte-au-commissariat-pour-violence-et-menace-le-mis-en-cause-a-ete-interpelle-mardi-et-place-en-garde-a-vue",
-      "date": "2026-11-05T16:18:12+00:00",
-      "date_formatted": "5 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Montpellier : Le parquet ouvre une enquête après la mort d’une jeune fille qui avait mangé des morilles en boîte",
-      "desc": "Si l’autopsie de la jeune femme décédée, mardi, a montré qu’elle avait bien ingéré des morilles de la marque ChampiBon, les analyses toxicologiques sont toujours en cours",
-      "url": "https://www.20minutes.fr/sante/4260657-20261105-montpellier-parquet-ouvre-enquete-apres-mort-jeune-fille-mange-morilles-boite?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/btD653nXTCeiN0yAdJzGVSk/1200x768_un-lot-de-morilles-de-la-marque-champi-bon-commercialisee-par-l-enseigne-b-m-a-ete-retire-de-la-vente-apres-la-mort-d-une-consommatrice",
-      "date": "2026-11-05T14:34:12+00:00",
-      "date_formatted": "5 November 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
     },
