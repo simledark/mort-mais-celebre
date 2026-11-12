@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-11-12T04:38:53.250941+00:00",
-  "count": 52,
+  "generated_at": "2026-11-12T14:07:08.738730+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "Un immeuble s’effondre à New York, 8 morts et 19 blessés",
+      "desc": "Les causes du drame ne sont pas encore connues ont précisé les autorités, alors que les trois étages du bâtiment se sont écroulés sur un chantier voisin mercredi 11 novembre. Plus de 250 secouristes ont été mobilisés.",
+      "url": "https://www.liberation.fr/international/amerique/un-immeuble-seffondre-a-new-york-au-moins-deux-morts-et-17-blesses-20261112_QJR2MEAFEBGJ7A3JI7YP7SSGS4/",
+      "image": null,
+      "date": "2026-11-12T13:47:45+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Julie Ollivier meurt, Sébastien Cauet chante et tout le monde s’en tape, par Giulia Foïs",
+      "desc": "Après le suicide de Julie Ollivier, qui avait porté plainte pour viol contre l’animateur, celui-ci n’a pas changé une seconde de sa matinale. Symptomatique de l’indifférence généralisée face à la parole des femmes, selon la journaliste.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/julie-ollivier-meurt-sebastien-cauet-chante-et-tout-le-monde-sen-tape-par-giulia-fois-20261112_QH4D5NDOGVH4XDA6IFSU4YRS3M/",
+      "image": null,
+      "date": "2026-11-12T12:53:37+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« Einstein. Autopsie d’une photogénie », tentative de dissection d’un secret du célèbre physicien",
+      "desc": "Dans cet essai, l’historienne de l’art Martine Ravache se livre à une enquête pour tenter de comprendre pourquoi le savant est, de loin, le scientifique le plus photographié. A la clé, une hypothèse qui surprend. A découvrir.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/12/einstein-autopsie-d-une-photogenie-tentative-de-dissection-d-un-secret-du-celebre-physicien_6809095_1650684.html",
+      "image": "https://img.lemde.fr/2026/11/10/166/0/1920/960/644/322/60/0/e59cc98_upload-1-m8anqcde0atp-generated-1794317965298.jpg",
+      "date": "2026-11-12T12:30:06+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Guerre à Gaza : six morts et une vingtaine de blessés dans une frappe israélienne sur un hôpital de Khan Younès",
+      "desc": "L’armée israélienne a affirmé viser un haut responsable du Hamas, qu’elle accuse d’avoir utilisé l’établissement comme «centre de commandement». Le Hamas a dénoncé un mensonge et qualifié l’attaque de «crime de guerre».",
+      "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/",
+      "image": null,
+      "date": "2026-11-12T11:59:08+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les autorités de santé examinent le lien entre une thérapie génique contre une maladie pédiatrique rare et le risque de cancer",
+      "desc": "Novartis a annoncé que des tumeurs étaient apparues chez neuf jeunes patients qui bénéficiaient de son traitement contre une maladie mortelle, l’amyotrophie spinale. « La balance bénéfice-risque du médicament n’est pas remise en cause », considère à ce stade l’Agence nationale de sécurité du médicam",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/12/les-autorites-de-sante-examinent-le-lien-entre-une-therapie-genique-contre-une-maladie-pediatrique-rare-et-le-risque-de-cancer_6809086_1650684.html",
+      "image": "https://img.lemde.fr/2026/11/11/216/0/5081/2540/644/322/60/0/6e13608_upload-1-uatnjnxav0vp-ap20034456525843.jpg",
+      "date": "2026-11-12T11:22:05+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "TEMOIGNAGE. \"Plus d'énergie, en pleurs, à bout de forces\" : un éleveur qui a \"craqué\" raconte comment il s'est relevé grâce aux accompagnements mis en place",
+      "desc": "Alors que le Premier ministre Sébastien Lecornu doit détailler jeudi un \"plan de relance agricole\", franceinfo s'est rendu en Loire-Atlantique, chez un éleveur de Saint-Nazaire. Sa détresse psychologique repérée par une \"sentinelIe\", il a bénéficié des cellules d'aide mises en place pour faire face ",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-plus-d-energie-en-pleurs-a-bout-de-forces-un-eleveur-qui-a-craque-raconte-comment-il-s-est-releve-grace-aux-accompagnements-mis-en-place_8258105.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/y5l36qPTvfSWjGs5VXT7GBL0ZEY/0x378:4032x2646/432x243/filters:format(jpg)/2026/11/11/6af4b79c7abf0497533421.jpg",
+      "date": "2026-11-12T07:12:16+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mélenchon propose des arrêts maladie autodéclarés, comment ça se passe à l’étranger ? L’absentéisme a-t-il augmenté ?",
+      "desc": "Le programme de Jean-Luc Mélenchon pour l’élection présidentielle de 2027 comporte l’autodéclaration pour les arrêts maladie de courte durée",
+      "url": "https://www.20minutes.fr/sante/4261712-20261112-melenchon-propose-arrets-maladie-autodeclares-comment-ca-passe-etranger-absenteisme-augmente?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/8XcJjiAvR2-Mk_j8VxRj9yk/1200x768_s-autodeclarer-en-arret-maladie-permettrait-de",
+      "date": "2026-11-12T07:02:36+00:00",
+      "date_formatted": "12 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Drainage lymphatique : le massage miracle ?",
       "desc": "Le drainage lymphatique vendu à longueur de réseaux sociaux est-il vraiment le massage miracle ? S’il peut faire du bien et même être médicalement recommandé après certains cancers, les promesses de perdre du poids, de détruire la graisse et de supprimer la cellulite n’engagent que ceux qui y croien",
@@ -10,26 +80,6 @@
       "date": "2026-11-11T18:56:01+00:00",
       "date_formatted": "11 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Une enquête ouverte pour tentative de féminicide par immolation près de Bordeaux",
-      "desc": "Mardi 10 novembre à Saint-Denis-de-Pile, un des enfants du couple a alerté les gendarmes après que son père a mis le feu dans la chambre où il s’était enfermé avec sa mère. L’homme est mort, le pronostic vital de la femme reste engagé.",
-      "url": "https://www.liberation.fr/societe/police-justice/une-enquete-ouverte-pour-tentative-de-feminicide-par-immolation-pres-de-bordeaux-20261111_73HS2RGOCFEXTIW73K23WB4BKQ/",
-      "image": null,
-      "date": "2026-11-11T18:26:39+00:00",
-      "date_formatted": "11 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Epidémie de rougeole aux Etats-Unis : après les fake news de Trump sur le vaccin, la résurgence d’une maladie éradiquée",
-      "desc": "En raison de la baisse de la couverture vaccinale et de la défiance de l’administration américaine envers les injections, le pays a déjà enregistré une explosion des cas de cette infection grave et très contagieuse en 2026. L’OMS examine cette semaine la situation épidémique locale.",
-      "url": "https://www.liberation.fr/societe/sante/epidemie-de-rougeole-aux-etats-unis-apres-les-fake-news-de-trump-sur-le-vaccin-la-resurgence-dune-maladie-eradiquee-20261111_CZ46AWXTKFAMBHTDEY6DZ4C5V4/",
-      "image": null,
-      "date": "2026-11-11T18:23:34+00:00",
-      "date_formatted": "11 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -153,16 +203,6 @@
       "type": "presse"
     },
     {
-      "title": "La CLCV demande aux autorités d’évaluer les risques des gaz lacrymogènes pour la santé et l’environnement",
-      "desc": "L'association nationale de défense des consommateurs et usagers a saisi l'Anses afin d'identifier plus précisément les effets sur la santé et l'environnement des gaz lacrymogènes, largement utilisés ces dernières semaines.",
-      "url": "https://www.franceinfo.fr/sante/la-clcv-demande-aux-autorites-d-evaluer-les-risques-des-gaz-lacrymogenes-pour-la-sante-et-l-environnement_8276039.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/TVbd2K5q175_yrKU1IQscVwrYU8/0x5:1024x581/432x243/filters:format(jpg)/2026/10/24/6adcc7ebc4cf0685254808.jpg",
-      "date": "2026-11-10T10:31:25+00:00",
-      "date_formatted": "10 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Grippe aviaire : Un foyer « hautement pathogène » détecté dans une basse-cour de Seine-Maritime",
       "desc": "Un foyer de grippe aviaire « hautement pathogène » a été détecté lundi à Saint-Sauveur-d’Emmalleville, en Seine-Maritime. Des zones réglementées ont été instaurées autour de la basse-cour touchée",
       "url": "https://www.20minutes.fr/sante/4261790-20261109-grippe-aviaire-foyer-hautement-pathogene-detecte-basse-cour-seine-maritime?at_medium=display&at_campaign=149",
@@ -170,16 +210,6 @@
       "date": "2026-11-09T21:36:57+00:00",
       "date_formatted": "9 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
-      "desc": "Les drogues de synthèse, très accessibles et en plein essor, représentent une menace supplémentaire, pointe l'Ofast dans une note consultée lundi par l'AFP.",
-      "url": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/LA7FenaVnAu2fn2sCAcNxBgD888/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af21012f38f5863608774.jpg",
-      "date": "2026-11-09T20:19:32+00:00",
-      "date_formatted": "9 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -428,16 +458,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/que-sait-on-du-virus-shamonda-qui-aurait-fait-sa-premiere-victime-en-france_195514?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/29/cover-r4x3w1200-6ae34ca9c135b-afp-20260829-doucelin-newvirus260829-nplxk-v1-highres-newviruscalledorthobunyav.jpg",
       "date": "2026-10-29T14:14:36+00:00",
-      "date_formatted": "29 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du sein : des remboursements votés, mais toujours pas appliqués",
-      "desc": "Cancer du sein : le remboursement des soutiens-gorge adaptés, de la dermopigmentation et de soins protecteurs attendent toujours leurs décrets d’application, près de deux ans après le vote de la loi en février 2025.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-du-sein-pres-de-deux-ans-d-attente-pour-les-derniers-decrets-de-remboursement_195633?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/29/cover-r4x3w1200-6ae32d46201b2-cancer-du-sein2.jpg",
-      "date": "2026-10-29T12:57:41+00:00",
       "date_formatted": "29 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
