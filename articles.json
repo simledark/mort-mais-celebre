@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-13T03:51:37.395609+00:00",
+  "generated_at": "2026-11-13T13:31:30.411465+00:00",
   "count": 54,
   "articles": [
+    {
+      "title": "Scandale Nvidia : on décrypte la chute de Jensen Huang en direct à 15 heures",
+      "desc": "En direct sur Twitch et YouTube, on revient avec Quentin Le Van, journaliste de la cellule IA de «Libération» sur la chute de Jensen Huang, l’homme le plus influent du monde de l’intelligence artificielle.",
+      "url": "https://www.liberation.fr/economie/scandale-nvidia-on-decrypte-la-chute-de-jensen-huang-en-direct-a-15-heures-20261113_KLGFART42RFVXFGOG6MD4I4EXY/",
+      "image": null,
+      "date": "2026-11-13T12:35:27+00:00",
+      "date_formatted": "13 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Aucun enfant n'est concerné en France par les effets indésirables du Zolgensma, indique l'Agence nationale de sécurité du médicament",
+      "desc": "Le géant pharmaceutique Novartis qui fabrique le médicament Zolgensma a rapporté neuf cas de tumeurs survenus depuis 2019 parmi plus de 6 000 patients traités dans le monde. En France, l'Agence nationale de sécurité du médicament affirme vendredi qu'aucun enfant français n'est concerné par des effet",
+      "url": "https://www.franceinfo.fr/sante/medicament/aucun-enfant-n-est-concerne-en-france-par-les-effets-indesirables-du-zolgensma-indique-l-agence-nationale-de-securite-du-medicament_8280953.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/AJ9lBnBxvinaVolUtwTMdeCzuJo/0x0:5513x3101/432x243/filters:format(jpg)/2019/12/28/phpAgN7ae.jpg",
+      "date": "2026-11-13T12:28:27+00:00",
+      "date_formatted": "13 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "13 Novembre : l’ancien président de Life for Paris propose un hommage national citoyen à toutes les victimes du terrorisme pour inclure celles de Trappes",
+      "desc": "Onze ans après les attentats qui ont fait 130 morts et plus de 400 blessés à Paris et Saint-Denis, le porte-voix des rescapés du Bataclan Arthur Dénouveaux souhaite ce vendredi pallier l’incapacité de l’Etat à créer de l’«unité nationale» après l’attentat raciste des Yvelines.",
+      "url": "https://www.liberation.fr/societe/police-justice/13-novembre-lancien-president-de-life-for-paris-propose-un-hommage-national-citoyen-a-toutes-les-victimes-du-terrorisme-pour-inclure-celles-de-trappes-20261113_GR4BSLKLXJH6ZC4S6UUIXGMVTY/",
+      "image": null,
+      "date": "2026-11-13T11:04:17+00:00",
+      "date_formatted": "13 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi les overdoses ont-elles explosé en France ces dix dernières années ?",
+      "desc": "Le nombre de morts liés à la consommation de drogues ou de médicaments en France a bondi de 171 % entre 2014 et 2024",
+      "url": "https://www.20minutes.fr/sante/4261890-20261113-pourquoi-overdoses-elles-explose-france-dix-dernieres-annees?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/IShFwmbwRCGxiABSBnT5Tyk/1200x768_depuis-plusieurs-annees-la-consommation-de-cocaine-augmente-en-france",
+      "date": "2026-11-13T11:02:36+00:00",
+      "date_formatted": "13 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Avoir un chien divise par deux le risque de maladies comme Alzheimer, selon des chercheurs japonais",
+      "desc": "Pour faire des économies dans les dépenses de santé, la solution est-elle de donner un chiot à tout le monde ? Des scientifiques japonais ont scruté pendant plus de sept ans un échantillon de la population. Et les résultats démontre que s'occuper d'un chien est un vrai exercice pour le cerveau.",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/avoir-un-chien-divise-par-deux-le-risque-de-maladies-comme-alzheimer-selon-des-chercheurs-japonais_8259698.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/THQTpzjab29XDKOAm2biPF9_x2k/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6b48d666c1909658985.jpg",
+      "date": "2026-11-13T09:21:36+00:00",
+      "date_formatted": "13 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un chercheur licencié pour avoir « révélé » que les mammographies causent des cancers ? C’est faux",
+      "desc": "Sur les réseaux sociaux, un ancien chercheur de l’Inserm affirme avoir été « renvoyé » pour avoir découvert que la mammographie provoque des cancers. Ce risque, très faible, n’a pourtant rien d’un secret : il est reconnu et documenté.",
+      "url": "https://www.20minutes.fr/societe/4262424-20261113-chercheur-licencie-avoir-revele-mammographies-causent-cancers-faux?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/7Pa6LaA_SdqUOad9_hkaxyk/1200x768_le-compte-sante-nutrition-et-le-site-sante-nutrition-org-relaient-les-propos-de-l-ancien-chercheur-daniel-corcos-qui-affirme-a-tort-que-les-rayons-x-des-mammographies-provoquent-des-cancers",
+      "date": "2026-11-13T08:32:36+00:00",
+      "date_formatted": "13 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : décrypter la souche Andes, une étape essentielle pour retracer le parcours de l’épidémie",
       "desc": "Une seule contamination entre rongeur et humain, mais où et quand ? Quatre mois après la fin de la crise sanitaire déclenchée par la survenue de cas à bord d’un navire de croisière, un article publié jeudi dans la revue « Science » apporte quelques réponses… et beaucoup de questions. Un consortium d",
@@ -11,16 +71,6 @@
       "date_formatted": "12 November 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "En Italie, le gouvernement de Meloni réhabilite une figure néofasciste",
-      "desc": "Député et militant contre la démocratie, inspirateur de plusieurs attentats, Pino Rauti (1926-2012) a droit à une exposition à la Chambre des députés pour le centenaire de sa naissance, et même à un timbre à son effigie.",
-      "url": "https://www.liberation.fr/international/europe/en-italie-le-gouvernement-de-meloni-rehabilite-une-figure-neofasciste-20261112_MNZPYHU22VAUFMGOJMWCZOP5BM/",
-      "image": null,
-      "date": "2026-11-12T19:07:12+00:00",
-      "date_formatted": "12 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "On fait le point sur la proposition de Jean-Luc Mélenchon d'autodéclarer les arrêts-maladies de courte durée",
@@ -40,16 +90,6 @@
       "date": "2026-11-12T19:04:53+00:00",
       "date_formatted": "12 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Guerre à Gaza : 11 morts dans les frappes les plus meurtrières depuis les élections législatives israéliennes",
-      "desc": "Tsahal a affirmé viser un haut responsable du Hamas, qu’elle accuse d’avoir utilisé l’établissement comme «centre de commandement». Le Hamas a dénoncé un mensonge et qualifié l’attaque de «crime de guerre».",
-      "url": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-six-morts-et-une-vingtaine-de-blesses-dans-une-frappe-israelienne-sur-un-hopital-de-khan-younes-20261112_K74VSSRNBRCTHOVMX6LQC26STY/",
-      "image": null,
-      "date": "2026-11-12T18:00:06+00:00",
-      "date_formatted": "12 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -163,16 +203,6 @@
       "type": "presse"
     },
     {
-      "title": "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans",
-      "desc": "Tous les Français et Françaises de 29 ans vont recevoir, à partir du 16 novembre, une lettre de l’Assurance maladie pour sensibiliser à la contraception et à la fertilité. Une lettre qui fait partie d’une grande campagne nationale qui avait été annoncée dès janvier 2024 par Emmanuel Macron, pour fai",
-      "url": "https://www.franceinfo.fr/sante/la-lettre-sur-la-fertilite-bientot-envoyee-aux-francais-es-de-29-ans_8276531.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/WYBxo3GiFLRzL1HzbaLRzhO5COE/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/10/6af33b8e26390516756927.jpg",
-      "date": "2026-11-10T20:00:02+00:00",
-      "date_formatted": "10 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "En Corrèze, une condamnation « historique » d’un syndicat de distribution d’eau pour pollution au CVM, un gaz cancérogène",
       "desc": "A la fin de septembre, le tribunal judiciaire de Tulle a condamné le syndicat à verser 2 000 euros à une usagère, exposée à ce gaz incolore et inodore mais classé « cancérogène certain ». D’autres procédures similaires sont en cours en France.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/10/en-correze-une-condamnation-historique-d-un-syndicat-de-distribution-d-eau-pour-pollution-au-cvm-un-gaz-cancerogene_6808884_3244.html",
@@ -180,16 +210,6 @@
       "date": "2026-11-10T18:25:53+00:00",
       "date_formatted": "10 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le choléra a fait plus de 3 000 morts dans le monde depuis le début de l'année, selon l'OMS",
-      "desc": "L'agence estime que le phénomène climatique El Niño, qui secoue le climat mondial, pourrait aggraver la situation, \"le choléra étant exacerbé aussi bien par un excès que par un manque d'eau\".",
-      "url": "https://www.franceinfo.fr/sante/plus-de-3-000-morts-du-cholera-depuis-le-debut-de-l-annee-selon-l-oms_8276561.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/_HrLH6-dLoQLlITIWPP3FawArrY/0x0:4308x2423/432x243/filters:format(jpg)/2026/11/10/6af3421befc76829488118.jpg",
-      "date": "2026-11-10T17:58:51+00:00",
-      "date_formatted": "10 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -323,16 +343,6 @@
       "type": "presse"
     },
     {
-      "title": "Montmirail : Une journée bien-être pour soutenir la lutte contre le cancer ce dimanche 8 novembre",
-      "desc": "Dans la Marne, massages, danse et conseils capillaires sont au programme d’une journée au profit de l’Institut Godinot, selon « Actu.fr »",
-      "url": "https://www.20minutes.fr/sante/4260997-20261107-montmirail-journee-bien-etre-soutenir-lutte-contre-cancer-dimanche-8-novembre?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/g0EkwWZZT8yCCYJ_F2mG8Sk/1200x768_dimanche-a-montmirail-la-parenthese-rose-prolongera-la-mobilisation-contre-le-cancer-avec-des-soins-des-ateliers-et-des-animations-photo-d-illustration",
-      "date": "2026-11-07T13:32:36+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer du sein : mieux suivre la maladie grâce à une prise de sang",
       "desc": "Longtemps attendue, la biopsie liquide s’impose peu à peu dans le suivi du cancer du sein. Une simple prise de sang pourrait bientôt permettre de détecter les résistances aux traitements et d’anticiper les rechutes.",
       "url": "https://www.sciencesetavenir.fr/sante/biopsie-liquide-une-prise-de-sang-pour-mieux-suivre-le-cancer-du-sein_195862?xtor=RSS-16",
@@ -388,16 +398,6 @@
       "url": "https://www.20minutes.fr/sante/4261043-20261106-tumeurs-diagnostiquees-chez-neuf-jeunes-enfants-soignes-zolgensma-novartis?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/nCaK9RACT-iS0OgZNvECqik/1200x768_dossier-ce-13-aout-2016-une-photo-d-archive-montre-le-logo-de-la-societe-pharmaceutique-suisse-novartis-a-seoul-en-coree-du-sud-le-vendredi-24-mai-2019-les-regulateurs-americains-ont-approuve-le-zolgensma-le-medicament-le-plus-cher-de-tous-les-temps-un-traitement-destine-a-guerir-un-trouble-qui-detruit-rapidement-le-controle-musculaire-du-bebe-et-tue-la-plupart-des-enfants-en-quelques-annees-ap-photo-ahn-young-joon-dossier-nysh101-19144611285910-ap-photo-d-archive-du-13-aout-2016-1905242000",
       "date": "2026-11-06T15:53:39+00:00",
-      "date_formatted": "6 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La face cachée du gaz lacrymogène : le respirer est-il vraiment dangereux ?",
-      "desc": "Le gaz lacrymogène libère un épais nuage de fumée blanche très irritant pour le nez et la gorge. Mais depuis quelques semaines, plusieurs témoignages font état d’effets étranges sur les voies respiratoires, mais aussi relatifs à la santé des femmes.",
-      "url": "https://www.20minutes.fr/tv/mini-docs/4260890-20261106-face-cachee-gaz-lacrymogene-respirer-vraiment-dangereux?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/5RGMRi45R_akI4xh5QW4Cyk/1200x768_la-face-cachee-du-gaz-lacrymogene",
-      "date": "2026-11-06T13:03:24+00:00",
       "date_formatted": "6 November 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
