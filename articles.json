@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-11-13T13:31:30.411465+00:00",
-  "count": 54,
+  "generated_at": "2026-11-13T22:58:02.186491+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "Scandale Nvidia : on décrypte la chute de Jensen Huang en direct à 15 heures",
-      "desc": "En direct sur Twitch et YouTube, on revient avec Quentin Le Van, journaliste de la cellule IA de «Libération» sur la chute de Jensen Huang, l’homme le plus influent du monde de l’intelligence artificielle.",
-      "url": "https://www.liberation.fr/economie/scandale-nvidia-on-decrypte-la-chute-de-jensen-huang-en-direct-a-15-heures-20261113_KLGFART42RFVXFGOG6MD4I4EXY/",
+      "title": "DJ, jeux vidéo, réseaux sociaux... Pour certains seniors, l'âge c'est dans la tête !",
+      "desc": "DJ à 67 ans, passionnés de jeux vidéo à plus de 70 ans ou star des réseaux sociaux après 90 ans : certains seniors bousculent les idées reçues sur la vieillesse. À travers des activités souvent associées aux jeunes générations, ils revendiquent leur liberté et prouvent que l’âge n’empêche pas de se ",
+      "url": "https://www.franceinfo.fr/sante/senior/dj-jeux-video-reseaux-sociaux-pour-certains-seniors-l-age-c-est-dans-la-tete_8281667.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/EBvoz8Y49zFKaKBpx0HB33lBSVk/0x41:1490x880/432x243/filters:format(jpg)/2026/11/13/6af77933288b4487764767.jpg",
+      "date": "2026-11-13T23:37:32+00:00",
+      "date_formatted": "13 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La Madrague de Brigitte Bardot à Saint-Tropez ouvrira au public à partir de l’été prochain",
+      "desc": "La légendaire maison de pêcheur, où la star a vécu jusqu’à sa mort, pourra être visitée par petits groupes et sur réservation, a annoncé ce vendredi 13 novembre la Fondation Bardot.",
+      "url": "https://www.liberation.fr/societe/la-madrague-de-brigitte-bardot-a-saint-tropez-ouvrira-au-public-a-partir-de-lete-prochain-20261113_3AU76CB7YJGKFPB3VQZBPPNR7U/",
       "image": null,
-      "date": "2026-11-13T12:35:27+00:00",
+      "date": "2026-11-13T20:58:40+00:00",
       "date_formatted": "13 November 2026",
       "source": "Libération",
       "type": "presse"
@@ -17,19 +27,9 @@
       "desc": "Le géant pharmaceutique Novartis qui fabrique le médicament Zolgensma a rapporté neuf cas de tumeurs survenus depuis 2019 parmi plus de 6 000 patients traités dans le monde. En France, l'Agence nationale de sécurité du médicament affirme vendredi qu'aucun enfant français n'est concerné par des effet",
       "url": "https://www.franceinfo.fr/sante/medicament/aucun-enfant-n-est-concerne-en-france-par-les-effets-indesirables-du-zolgensma-indique-l-agence-nationale-de-securite-du-medicament_8280953.html#xtor=RSS-3-%5Bsante%5D",
       "image": "https://www.franceinfo.fr/pictures/AJ9lBnBxvinaVolUtwTMdeCzuJo/0x0:5513x3101/432x243/filters:format(jpg)/2019/12/28/phpAgN7ae.jpg",
-      "date": "2026-11-13T12:28:27+00:00",
+      "date": "2026-11-13T16:24:44+00:00",
       "date_formatted": "13 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "13 Novembre : l’ancien président de Life for Paris propose un hommage national citoyen à toutes les victimes du terrorisme pour inclure celles de Trappes",
-      "desc": "Onze ans après les attentats qui ont fait 130 morts et plus de 400 blessés à Paris et Saint-Denis, le porte-voix des rescapés du Bataclan Arthur Dénouveaux souhaite ce vendredi pallier l’incapacité de l’Etat à créer de l’«unité nationale» après l’attentat raciste des Yvelines.",
-      "url": "https://www.liberation.fr/societe/police-justice/13-novembre-lancien-president-de-life-for-paris-propose-un-hommage-national-citoyen-a-toutes-les-victimes-du-terrorisme-pour-inclure-celles-de-trappes-20261113_GR4BSLKLXJH6ZC4S6UUIXGMVTY/",
-      "image": null,
-      "date": "2026-11-13T11:04:17+00:00",
-      "date_formatted": "13 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -320,16 +320,6 @@
       "date": "2026-11-07T19:00:02+00:00",
       "date_formatted": "7 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Arrêt maladie : votre employeur peut-il vous appeler ou vous écrire pendant votre absence ?",
-      "desc": "Pas toujours simple de couper les ponts avec le bureau pendant un arrêt maladie. Mais jusqu’où votre employeur peut-il aller pour vous contacter ?",
-      "url": "https://www.20minutes.fr/vie-pro/4261023-20261107-arret-maladie-employeur-peut-appeler-ecrire-pendant-absence?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/oxxktU_yRauJ0zwd6eCrlyk/1200x768_photo-illustration-arret-de-travail-d-un-medecin-07allilimages-il1959-credit-mourad-allili-sipa-2507291006",
-      "date": "2026-11-07T18:32:39+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
