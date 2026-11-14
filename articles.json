@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-14T03:50:07.934482+00:00",
-  "count": 53,
+  "generated_at": "2026-11-14T12:37:21.135186+00:00",
+  "count": 48,
   "articles": [
+    {
+      "title": "La fabuleuse découverte de l’insuline : une révolution médicale sur fond de guerre d’ego",
+      "desc": "En 1922, l'insuline a sorti du coma un adolescent de 14 ans, échappant ainsi à une mort certaine grâce à un extrait pancréatique purifié. Aujourd'hui, environ 9 millions de personnes sont en vie grâce à cette découverte couronnée l'année suivante par un prix Nobel. Mais elle fut aussi un drame...",
+      "url": "https://www.futura-sciences.com/sante/actualites/diabete-fabuleuse-decouverte-insuline-revolution-medicale-fond-guerre-ego-139273/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/c/0/7c0455e4c9_50263231_frederick-banting-john-macleod.jpg",
+      "date": "2026-11-14T11:30:00+00:00",
+      "date_formatted": "14 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Mobilisation étudiante : la présidente de l’université de Lorraine porte plainte après des menaces de mort",
+      "desc": "Les intimidations sont notamment liées au refus de la présidence de valider automatiquement le semestre perturbé par la grogne, comme demandé par les étudiants.",
+      "url": "https://www.liberation.fr/societe/education/mobilisation-etudiante-la-presidente-de-luniversite-de-lorraine-porte-plainte-apres-des-menaces-de-mort-20261114_TE6MTBNTJFEFHMTN2VDVZQEUMI/",
+      "image": null,
+      "date": "2026-11-14T11:29:29+00:00",
+      "date_formatted": "14 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un nouvel espoir contre le cancer du pancréas",
+      "desc": "C’est une avancée que les spécialistes n’attendaient plus vraiment. Pour la première fois, un médicament semble parvenir à faire reculer significativement l’un des cancers les plus redoutables.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer-du-pancreas-la-percee-du-daraxonrasib_195859?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0739911-ar-1751825-tf-68438303-1-notext-jpg.jpg",
+      "date": "2026-11-14T09:00:00+00:00",
+      "date_formatted": "14 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Chien : Quels restes alimentaires vaut-il mieux éviter de donner à votre animal ?",
+      "desc": "Malgré la tentation de partager votre repas avec votre chien, l’idée reste à proscrire. Beaucoup de restes représentent un danger, parfois mortel, pour votre animal",
+      "url": "https://www.20minutes.fr/animaux/4262105-20261114-chien-restes-alimentaires-vaut-mieux-eviter-donner-animal?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/wV6T_xt8SGe2kSmvBxCdyik/1200x768_chien",
+      "date": "2026-11-14T06:02:39+00:00",
+      "date_formatted": "14 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "DJ, jeux vidéo, réseaux sociaux... Pour certains seniors, l'âge c'est dans la tête !",
       "desc": "DJ à 67 ans, passionnés de jeux vidéo à plus de 70 ans ou star des réseaux sociaux après 90 ans : certains seniors bousculent les idées reçues sur la vieillesse. À travers des activités souvent associées aux jeunes générations, ils revendiquent leur liberté et prouvent que l’âge n’empêche pas de se ",
@@ -10,16 +50,6 @@
       "date": "2026-11-13T23:37:32+00:00",
       "date_formatted": "13 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La Madrague de Brigitte Bardot à Saint-Tropez ouvrira au public à partir de l’été prochain",
-      "desc": "La légendaire maison de pêcheur, où la star a vécu jusqu’à sa mort, pourra être visitée par petits groupes et sur réservation, a annoncé ce vendredi 13 novembre la Fondation Bardot.",
-      "url": "https://www.liberation.fr/societe/la-madrague-de-brigitte-bardot-a-saint-tropez-ouvrira-au-public-a-partir-de-lete-prochain-20261113_3AU76CB7YJGKFPB3VQZBPPNR7U/",
-      "image": null,
-      "date": "2026-11-13T20:58:40+00:00",
-      "date_formatted": "13 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -97,7 +127,7 @@
       "desc": "Dans cet essai, l’historienne de l’art Martine Ravache se livre à une enquête pour tenter de comprendre pourquoi le savant est, de loin, le scientifique le plus photographié. A la clé, une hypothèse qui surprend. A découvrir.",
       "url": "https://www.lemonde.fr/sciences/article/2026/11/12/einstein-autopsie-d-une-photogenie-tentative-de-dissection-d-un-secret-du-celebre-physicien_6809095_1650684.html",
       "image": "https://img.lemde.fr/2026/11/10/166/0/1920/960/644/322/60/0/e59cc98_upload-1-m8anqcde0atp-generated-1794317965298.jpg",
-      "date": "2026-11-12T12:30:06+00:00",
+      "date": "2026-11-12T12:30:03+00:00",
       "date_formatted": "12 November 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -130,16 +160,6 @@
       "date": "2026-11-12T07:02:36+00:00",
       "date_formatted": "12 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Drainage lymphatique : le massage miracle ?",
-      "desc": "Le drainage lymphatique vendu à longueur de réseaux sociaux est-il vraiment le massage miracle ? S’il peut faire du bien et même être médicalement recommandé après certains cancers, les promesses de perdre du poids, de détruire la graisse et de supprimer la cellulite n’engagent que ceux qui y croien",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/drainage-lymphatique-le-massage-miracle_8278196.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/uQ0P5wZUzLYhgOGAo7SU3mu1pgI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/11/6af4ac2a03567221302798.png",
-      "date": "2026-11-11T18:56:01+00:00",
-      "date_formatted": "11 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -343,56 +363,6 @@
       "type": "science"
     },
     {
-      "title": "Une IA a créé des virus pour détruire des bactéries résistantes aux antibiotiques : un patient les a déjà reçus",
-      "desc": "Face à la progression inquiétante de l’antibiorésistance, une start-up américaine a franchi une étape historique en administrant à un patient un virus modifié grâce à l’IA dans le but de venir à bout des bactéries les plus résistantes.",
-      "url": "https://www.futura-sciences.com/sante/actualites/virus-ia-cree-virus-detruire-bacteries-resistantes-antibiotiques-patient-deja-recus-139097/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/2/2/e22410b1c6_50263034_bacteriophage.jpg",
-      "date": "2026-11-07T12:27:10+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Certains médicaments très prescrits après 60 ans font baisser une vitamine indispensable à la mémoire",
-      "desc": "On pense souvent à la vitamine D lorsqu’on cherche une explication à certains troubles liés à l’âge. Pourtant, une autre carence, plus discrète, peut affecter le cerveau et la mémoire : celle en vitamine B12. Fréquente chez les personnes âgées, elle peut passer inaperçue pendant longtemps....",
-      "url": "https://www.futura-sciences.com/sante/actualites/memoire-certains-medicaments-tres-prescrits-apres-60-ans-font-baisser-vitamine-indispensable-memoire-prf21-139124/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/1/8/91848aad79_50262824_damiankuzdak.jpg",
-      "date": "2026-11-07T11:26:30+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Votre poids pourrait influencer la vitesse à laquelle votre mémoire décline : ce que révèlent 24 ans de suivi",
-      "desc": "Et si le vieillissement de notre cerveau dépendait aussi d’un facteur auquel on ne prête pas assez attention ? Une étude menée sur plus de 8 000 personnes suivies durant 24 ans révèle un lien préoccupant avec le déclin cognitif. Mais la bonne nouvelle, c’est qu’il serait possible d’agir pour...",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-votre-poids-pourrait-influencer-vitesse-laquelle-votre-memoire-decline-ce-revelent-24-ans-suivi-139101/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/3/6/f364f4de31_50262964_obesite-memoire.jpg",
-      "date": "2026-11-07T06:03:57+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Tous les alcools présentent-ils les mêmes risques ? Une vaste étude révèle des différences surprenantes",
-      "desc": "Bière, vin, cidre, gin, vodka… Tous les alcools se valent-ils vraiment lorsqu’il s’agit de préserver sa santé ? Une vaste étude menée auprès de près de 350 000 personnes révèle des différences inattendues entre les boissons et leurs liens avec la mortalité. Mais derrière ces résultats...",
-      "url": "https://www.futura-sciences.com/sante/actualites/alcoolisme-tous-alcools-presentent-ils-memes-risques-vaste-etude-revele-differences-surprenantes-139075/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/6/9/c69e09e8f2_50262923_vin-biere-alcool.jpg",
-      "date": "2026-11-06T20:03:44+00:00",
-      "date_formatted": "6 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Des tumeurs diagnostiquées chez neuf jeunes enfants soignés avec du Zolgensma de Novartis",
-      "desc": "Le géant pharmaceutique Novartis a annoncé ce vendredi que des tumeurs ont été diagnostiquées chez neuf enfants (sur 6.000 soignés dans le monde) qui suivent une thérapie pour une amyotrophie spinale",
-      "url": "https://www.20minutes.fr/sante/4261043-20261106-tumeurs-diagnostiquees-chez-neuf-jeunes-enfants-soignes-zolgensma-novartis?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/nCaK9RACT-iS0OgZNvECqik/1200x768_dossier-ce-13-aout-2016-une-photo-d-archive-montre-le-logo-de-la-societe-pharmaceutique-suisse-novartis-a-seoul-en-coree-du-sud-le-vendredi-24-mai-2019-les-regulateurs-americains-ont-approuve-le-zolgensma-le-medicament-le-plus-cher-de-tous-les-temps-un-traitement-destine-a-guerir-un-trouble-qui-detruit-rapidement-le-controle-musculaire-du-bebe-et-tue-la-plupart-des-enfants-en-quelques-annees-ap-photo-ahn-young-joon-dossier-nysh101-19144611285910-ap-photo-d-archive-du-13-aout-2016-1905242000",
-      "date": "2026-11-06T15:53:39+00:00",
-      "date_formatted": "6 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "\"Paludisme d'aéroport\" mortel à Francfort : des parasites importés par des moustiques infectés",
       "desc": "Introduits à Francfort par des moustiques anophèles, des agents du paludisme ont infecté huit personnes avec une forme rare de la maladie, le \"paludisme d'aéroport\".",
       "url": "https://www.sciencesetavenir.fr/sante/paludisme-d-aeroport-mortel-a-francfort-des-parasites-importes-d-afrique-par-des-moustiques_195942?xtor=RSS-16",
@@ -401,16 +371,6 @@
       "date_formatted": "5 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "En RDC, l’OMS alerte sur la « pire épidémie de choléra depuis des décennies », avec 1 800 morts, sur fond de crise liée à Ebola",
-      "desc": "Selon l’OMS, 2025 avait enregistré le nombre de cas signalés le plus élevé depuis plus de vingt-cinq ans, mais « l’année en cours s’annonce encore plus grave ».",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/04/en-rdc-l-oms-alerte-sur-la-pire-epidemie-de-cholera-depuis-des-decennies-avec-1-800-morts-sur-fond-de-crise-liee-a-ebola_6806432_3212.html",
-      "image": "https://img.lemde.fr/2026/11/03/239/0/4608/2304/644/322/60/0/250106f_ftp-1-e43sgltuy7gk-2026-11-03t171806z-49844610-rc2ofoaar22r-rtrmadp-3-health-ebola-bunia.JPG",
-      "date": "2026-11-04T22:17:39+00:00",
-      "date_formatted": "4 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Maladie d'Alzheimer: une IA détecte les personnes à risque",
@@ -439,16 +399,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/30/cover-r4x3w1200-6ae4b78dc6409-sg-fb-2w3a1023.jpg",
       "date": "2026-10-31T09:00:00+00:00",
       "date_formatted": "31 October 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Que sait-on du virus Shamonda qui aurait fait sa première victime en France ?",
-      "desc": "Ce pathogène qui infecte le bétail a été détecté en Europe pour la première fois cet été, quelques mois avant le décès d’une personne immunodéprimée infectée par le virus.",
-      "url": "https://www.sciencesetavenir.fr/sante/que-sait-on-du-virus-shamonda-qui-aurait-fait-sa-premiere-victime-en-france_195514?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/29/cover-r4x3w1200-6ae34ca9c135b-afp-20260829-doucelin-newvirus260829-nplxk-v1-highres-newviruscalledorthobunyav.jpg",
-      "date": "2026-10-29T14:14:36+00:00",
-      "date_formatted": "29 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
