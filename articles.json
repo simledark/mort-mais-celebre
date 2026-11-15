@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-15T03:30:14.559842+00:00",
-  "count": 47,
+  "generated_at": "2026-11-15T13:03:02.918594+00:00",
+  "count": 45,
   "articles": [
+    {
+      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
+      "desc": "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces. En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et l",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
+      "image": "https://img.lemde.fr/2026/11/11/648/0/7784/3892/644/322/60/0/8c07bff_upload-1-idy6bwvje7rc-20250628lmt2372.jpg",
+      "date": "2026-11-15T10:00:10+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le gouvernement interdit la vente de mortiers d’artifice jusqu’à fin novembre",
+      "desc": "Inscrite ce dimanche 15 novembre au Journal officiel, la mesure porte sur les fusées F2 et F3, après plusieurs incidents relevés ces dernières semaines lors de la mobilisation des lycéens.",
+      "url": "https://www.liberation.fr/societe/le-gouvernement-interdit-la-vente-de-mortiers-dartifice-jusqua-fin-novembre-20261115_JABUS45GTZD6VC35B4P76OLO2Y/",
+      "image": null,
+      "date": "2026-11-15T07:54:04+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort à 80 ans de l’ancien maire de Grenoble Michel Destot",
+      "desc": "Le socialiste, qui dirigea la ville pendant trois mandats, fut également près de trente ans député de l’Isère.",
+      "url": "https://www.liberation.fr/politique/mort-a-80-ans-de-lancien-maire-de-grenoble-michel-destot-20261115_63I7RYUCMNESJFOMA7FN6FNTMM/",
+      "image": null,
+      "date": "2026-11-15T07:03:14+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
+      "desc": "Depuis la déclaration officielle de l’épidémie le 15 mai, plus de 5 400 personnes en sont mortes en République démocratique du Congo. « Le Monde » est allé à la rencontre d’humanitaires, d’infirmiers, de victimes qui, chaque jour, font face à ce fléau invisible.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
+      "image": "https://img.lemde.fr/2026/11/12/584/0/7008/3504/644/322/60/0/ec621ad_upload-1-lwnlnctfp1wj-02-pb-lemonde-ebola-ituri-temoignages-acteurs-riposte.jpg",
+      "date": "2026-11-15T06:30:09+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Additifs et conservateurs : ce que deux grandes études révèlent sur leurs liens avec le cancer et le diabète de type 2",
       "desc": "Les additifs conservateurs protègent les aliments des contaminations et de l'oxydation, mais pourraient-ils aussi présenter des risques pour la santé ? Deux études portant sur plus de 100 000 participants établissent des liens entre la consommation de plusieurs d'entre eux et l'incidence de...",
@@ -11,16 +51,6 @@
       "date_formatted": "14 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Bollorisation des médias : signes de résistance à BFM TV, par Daniel Schneidermann",
-      "desc": "Création d’une «cellule invités», interview offensive de Jordan Bardella… Depuis l’embauche de Sonia Mabrouk, transfuge de CNews, et après un moment de sidération, les choses bougent dans la chaîne d’info sous la pression des reporters, dépités d’être assimilés aux éditorialistes réacs de plateau.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/bollorisation-des-medias-signes-de-resistance-a-bfm-tv-par-daniel-schneidermann-20261114_C2GV4EE7NJASNGQRC6V47WNXXU/",
-      "image": null,
-      "date": "2026-11-14T14:00:37+00:00",
-      "date_formatted": "14 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "La fabuleuse découverte de l’insuline : une révolution médicale sur fond de guerre d’ego",
@@ -283,16 +313,6 @@
       "type": "science"
     },
     {
-      "title": "Ebola : en RDC, dans le principal foyer épidémique, le lancement des premiers essais de traitements fait renaître l’espoir",
-      "desc": "A Bunia, dans l’est de la République démocratique du Congo, où l’épidémie frappe durement, des essais cliniques testant l’efficacité de plusieurs vaccins et médicaments sont actuellement menés. Leur but est de protéger les populations de la contamination et d’augmenter les chances de survie des mala",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/09/ebola-en-rdc-dans-l-epicentre-de-l-epidemie-le-lancement-des-premiers-essais-de-traitements-fait-renaitre-l-espoir_6808646_3212.html",
-      "image": "https://img.lemde.fr/2026/11/05/551/0/6612/3306/644/322/60/0/85b4831_upload-1-d3j2ys9y3awy-07-pb-lemonde-ebola-ituri-essais-cliniques-bunia.jpg",
-      "date": "2026-11-09T12:30:01+00:00",
-      "date_formatted": "9 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ni salle de sport ni footing : monter 5 étages par jour est associé à 20 % de risque cardiovasculaire en moins",
       "desc": "Cinq étages représentent entre 75 et 90 marches au total. Selon une étude menée par des chercheurs de l’Université de Tulane (Nouvelle Orléans), monter cette quantité d’étages chaque jour permet de réduire de 20% le risque de maladie cardiovasculaire.",
       "url": "https://www.futura-sciences.com/sante/actualites/coeur-ni-salle-sport-ni-footing-monter-5-etages-jour-associe-20-risque-cardiovasculaire-moins-prf21-139033/#xtor%3DRSS-8",
@@ -301,46 +321,6 @@
       "date_formatted": "9 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Pourquoi certains développent-ils un cancer et d'autres non ? Des chercheurs français explorent une piste inattendue",
-      "desc": "Pourquoi certains individus, parfois centenaires et pourtant très exposés, restent-ils indemnes de cancer ? Une équipe française s'empare de cette énigme biologique, soutenue par une bourse internationale d'exception.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-certains-developpent-ils-cancer-autres-non-chercheurs-francais-explorent-piste-inattendue-139069/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/2/a/22a4e2253d_50262917_resistance-cancer.jpg",
-      "date": "2026-11-09T05:28:24+00:00",
-      "date_formatted": "9 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Ebola : « Une famille ne peut pas réduire les contacts dans un logement exigu, sans eau, sans nourriture ni matériel d’hygiène »",
-      "desc": "Si les stratégies déployées pour limiter la propagation du virus en Afrique ne sont pas efficaces, ce n’est pas en raison de la méfiance ou du refus des populations, mais car ces dernières ne peuvent pas les mettre en œuvre, explique, dans une tribune au « Monde », le vice-président de l’ONG Alima T",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/08/ebola-une-famille-ne-peut-pas-reduire-les-contacts-dans-un-logement-exigu-sans-eau-sans-nourriture-ni-materiel-d-hygiene_6808414_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/0d0c592_upload-1-e72knwmvkkzu-frame-913.jpg",
-      "date": "2026-11-08T10:00:05+00:00",
-      "date_formatted": "8 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le soignant qui a changé ma vie : « J’étais sa patiente pour Covid long, je suis devenue sa collègue »",
-      "desc": "Chaque mois, « Le Monde » part à la rencontre d’un soignant et d’un soigné qui, ensemble et au-delà du soin, ont su nouer un lien. Etonnante trajectoire que celle du duo formé par Valérie Triponez, infirmière atteinte d’un Covid long, et Mathieu Saubade, spécialiste de cette maladie complexe, devenu",
-      "url": "https://www.lemonde.fr/intimites/article/2026/11/07/le-soignant-qui-a-change-ma-vie-j-etais-sa-patiente-pour-covid-long-je-suis-devenue-sa-collegue_6808308_6190330.html",
-      "image": "https://img.lemde.fr/2026/11/05/611/0/4000/2000/644/322/60/0/243ab41_upload-1-ie4fkgbq1nvh-26-10-05-vale-rie-triponez-mathieu-saubade-04-marie-pierre-cravedi.jpg",
-      "date": "2026-11-07T19:00:02+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "VIH : le générique du lénacapavir, un médicament qui promet de révolutionner la lutte contre le virus du sida, prêt à être commercialisé",
-      "desc": "L’agence américaine du médicament a donné son feu vert à la mise sur le marché de ce traitement, beaucoup moins contraignant que celui utilisé jusque-là. Une avancée majeure en matière de prévention, en particulier pour le continent africain, le plus touché par la pandémie.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/07/vih-le-generique-du-lenacapavir-un-medicament-qui-promet-de-revolutionner-la-lutte-contre-le-virus-du-sida-pret-a-etre-commercialise_6808275_3212.html",
-      "image": "https://img.lemde.fr/2026/11/06/245/0/4200/2100/644/322/60/0/b5aecc8_upload-1-6lotpxdzvlpj-000-99227tp.jpg",
-      "date": "2026-11-07T14:00:02+00:00",
-      "date_formatted": "7 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer du sein : mieux suivre la maladie grâce à une prise de sang",
