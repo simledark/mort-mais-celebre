@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-11-15T13:03:02.918594+00:00",
-  "count": 45,
+  "generated_at": "2026-11-15T22:11:14.862950+00:00",
+  "count": 47,
   "articles": [
+    {
+      "title": "Guadeloupe : des tirs font un mort et plusieurs blessés lors d’une soirée",
+      "desc": "La fusillade a eu lieu en marge d’une fête privée qui réunissait 300 personnes dans une villa, samedi 14 novembre aux Abymes, dans l’agglomération de Pointe-à-Pitre.",
+      "url": "https://www.liberation.fr/societe/police-justice/guadeloupe-des-tirs-font-un-mort-et-plusieurs-blesses-lors-dune-soiree-20261115_INCPTYTDFFHIXNUTKN3N2JYUGQ/",
+      "image": null,
+      "date": "2026-11-15T18:15:49+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la peau : ce vaccin ARN « sur mesure » réduit de 42 % le risque de rechute ou de décès",
+      "desc": "Un chiffre retient l'attention : 42 % de risque de récidive ou de décès en moins. Un vaccin personnalisé contre le mélanome vient de franchir une étape historique dans la lutte contre le cancer. Pour la première fois, un essai clinique de grande envergure confirme le bénéfice réel d'une telle...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-peau-ce-vaccin-arn-mesure-reduit-42-risque-rechute-deces-k2m6-139292/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/8/d/88dc42d986_50263270_vaccin-cancer.jpg",
+      "date": "2026-11-15T18:00:00+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Quels sont les nouveaux moyens pour surveiller son diabète de type 2 ?",
+      "desc": "Le diabète est une maladie silencieuse qui reflète un excès de sucre dans le sang. Pour ceux qui suivent un traitement à l'insuline, des capteurs aident à surveiller son évolution. (Rendez-vous en partenariat avec l'Assistance Publiquye - Hôpitaux de Paris)",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/quels-sont-les-nouveaux-moyens-pour-surveiller-son-diabete-de-type-2_8242234.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/X143VP-EqtKakBQtvXeQ_Ge3jfY/0x40:1024x616/432x243/filters:format(jpg)/2026/11/14/6af825000cbff814299190.jpg",
+      "date": "2026-11-15T17:00:01+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La femme «très grièvement brûlée» par son conjoint, près de Bordeaux, est morte de ses blessures",
+      "desc": "Le parquet de Libourne, qui avait ouvert une enquête pour «tentative de féminicide» a requalifié la procédure en «homicide par conjoint», à la suite du décès de la victime dans la nuit de samedi à dimanche.",
+      "url": "https://www.liberation.fr/societe/police-justice/la-femme-tres-grievement-brulee-par-son-conjoint-pres-de-bordeaux-est-morte-de-ses-blessures-20261115_QMAKFOPBSZBTDGZCPFPCMAUYOM/",
+      "image": null,
+      "date": "2026-11-15T16:02:03+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pilules, régimes, sport : que valent vraiment les promesses anti-âge selon la science ?",
+      "desc": "Et si les clés du vieillissement se cachaient au cœur de nos cellules ? Pour le découvrir, des chercheurs ont passé au crible 51 études et traqué des marqueurs biologiques invisibles à l'œil nu. Leur objectif : identifier les habitudes et les interventions qui influencent le plus notre horloge...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-pilules-regimes-sport-valent-vraiment-promesses-anti-age-selon-science-139063/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/3/c/a3c2b0d4a7_50263329_sport-complements-regime.jpg",
+      "date": "2026-11-15T14:02:04+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "desc": "Cette maladie neurodégénérative touche près de 300 000 personnes en France. Elle augmente fortement en raison principalement du vieillissement de la population mais aussi de la présence des métaux lourds et des pesticides dans l'environnement.",
+      "url": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/v8kAAJjb2Dnq2FqdjSvIItbl82U/0x234:4500x2765/432x243/filters:format(jpg)/2026/11/12/6af617bb67f2f775111105.jpg",
+      "date": "2026-11-15T14:01:53+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer de la prostate : une radiothérapie ultraciblée contre les tumeurs agressives",
+      "desc": "Traquer les cellules cancéreuses pour mieux les détruire : c'est la promesse du Pluvicto, un médicament qui repose sur le principe de la théranostique, à mi-chemin entre diagnostic et traitement.",
+      "url": "https://www.sciencesetavenir.fr/sante/une-radiotherapie-ultraciblee-contre-les-tumeurs-agressives_195864?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac09835c1-ar-1751835-tf-68438309-1-notext-jpg.jpg",
+      "date": "2026-11-15T13:00:00+00:00",
+      "date_formatted": "15 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
       "desc": "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces. En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et l",
@@ -13,31 +83,11 @@
       "type": "presse"
     },
     {
-      "title": "Le gouvernement interdit la vente de mortiers d’artifice jusqu’à fin novembre",
-      "desc": "Inscrite ce dimanche 15 novembre au Journal officiel, la mesure porte sur les fusées F2 et F3, après plusieurs incidents relevés ces dernières semaines lors de la mobilisation des lycéens.",
-      "url": "https://www.liberation.fr/societe/le-gouvernement-interdit-la-vente-de-mortiers-dartifice-jusqua-fin-novembre-20261115_JABUS45GTZD6VC35B4P76OLO2Y/",
-      "image": null,
-      "date": "2026-11-15T07:54:04+00:00",
-      "date_formatted": "15 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort à 80 ans de l’ancien maire de Grenoble Michel Destot",
-      "desc": "Le socialiste, qui dirigea la ville pendant trois mandats, fut également près de trente ans député de l’Isère.",
-      "url": "https://www.liberation.fr/politique/mort-a-80-ans-de-lancien-maire-de-grenoble-michel-destot-20261115_63I7RYUCMNESJFOMA7FN6FNTMM/",
-      "image": null,
-      "date": "2026-11-15T07:03:14+00:00",
-      "date_formatted": "15 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
       "desc": "Depuis la déclaration officielle de l’épidémie le 15 mai, plus de 5 400 personnes en sont mortes en République démocratique du Congo. « Le Monde » est allé à la rencontre d’humanitaires, d’infirmiers, de victimes qui, chaque jour, font face à ce fléau invisible.",
       "url": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
       "image": "https://img.lemde.fr/2026/11/12/584/0/7008/3504/644/322/60/0/ec621ad_upload-1-lwnlnctfp1wj-02-pb-lemonde-ebola-ituri-temoignages-acteurs-riposte.jpg",
-      "date": "2026-11-15T06:30:09+00:00",
+      "date": "2026-11-15T06:30:01+00:00",
       "date_formatted": "15 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -141,16 +191,6 @@
       "date_formatted": "12 November 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "On fait le point sur la proposition de Jean-Luc Mélenchon d'autodéclarer les arrêts-maladies de courte durée",
-      "desc": "Cette proposition, qui vise à désengorger les cabinets de médecins et à réaliser des économies en remboursant moins de consultations selon les insoumis, a été qualifiée de \"pure démagogie\" par le gouvernement.",
-      "url": "https://www.franceinfo.fr/sante/maladie/on-fait-le-point-sur-la-proposition-de-jean-luc-melenchon-d-autodeclarer-les-arrets-maladie-de-courte-duree_8279177.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/OQl6QfszxxGoMnxHy7q54pstMZA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af5f764c0636520059536.jpg",
-      "date": "2026-11-12T19:05:23+00:00",
-      "date_formatted": "12 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Plus d'un million de personnes sont mortes de la tuberculose en 2025, les objectifs mondiaux restent lointains s'inquiète l'OMS",
@@ -309,18 +349,8 @@
       "image": "https://img.lemde.fr/2026/10/29/652/0/4027/2013/644/322/60/0/4455b87_upload-1-xdl0zoc8cjq6-recherche-participative-02-hd.jpg",
       "date": "2026-11-09T19:30:05+00:00",
       "date_formatted": "9 November 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Ni salle de sport ni footing : monter 5 étages par jour est associé à 20 % de risque cardiovasculaire en moins",
-      "desc": "Cinq étages représentent entre 75 et 90 marches au total. Selon une étude menée par des chercheurs de l’Université de Tulane (Nouvelle Orléans), monter cette quantité d’étages chaque jour permet de réduire de 20% le risque de maladie cardiovasculaire.",
-      "url": "https://www.futura-sciences.com/sante/actualites/coeur-ni-salle-sport-ni-footing-monter-5-etages-jour-associe-20-risque-cardiovasculaire-moins-prf21-139033/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/2/9/5290d880a0_50262995_2-damiankuzdak-1.jpg",
-      "date": "2026-11-09T11:31:12+00:00",
-      "date_formatted": "9 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Cancer du sein : mieux suivre la maladie grâce à une prise de sang",
@@ -359,16 +389,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/30/cover-r4x3w1200-6ae4c5e869890-shutterstock.jpg",
       "date": "2026-11-01T13:00:00+00:00",
       "date_formatted": "1 November 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "\"Le nombre de cancers augmente, mais la mortalité diminue\"",
-      "desc": "Thérapies ciblées, intelligence artificielle, dépistage… Reconduit l’été dernier à la tête du premier centre de lutte contre le cancer d’Europe, le Pr Fabrice Barlesi présente les avancées qui doivent permettre de guérir 80 % des patients d’ici à 2040.",
-      "url": "https://www.sciencesetavenir.fr/sante/le-nombre-de-cancers-augmente-mais-la-mortalite-diminue_195772?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/30/cover-r4x3w1200-6ae4b78dc6409-sg-fb-2w3a1023.jpg",
-      "date": "2026-10-31T09:00:00+00:00",
-      "date_formatted": "31 October 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
