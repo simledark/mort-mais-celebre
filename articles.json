@@ -1,16 +1,86 @@
 {
-  "generated_at": "2026-11-16T03:29:36.922790+00:00",
+  "generated_at": "2026-11-16T14:08:08.637100+00:00",
   "count": 47,
   "articles": [
     {
-      "title": "Guadeloupe : des tirs font un mort et plusieurs blessés lors d’une soirée",
-      "desc": "La fusillade a eu lieu en marge d’une fête privée qui réunissait 300 personnes dans une villa, samedi 14 novembre aux Abymes, dans l’agglomération de Pointe-à-Pitre.",
-      "url": "https://www.liberation.fr/societe/police-justice/guadeloupe-des-tirs-font-un-mort-et-plusieurs-blesses-lors-dune-soiree-20261115_INCPTYTDFFHIXNUTKN3N2JYUGQ/",
+      "title": "« Une stratégie simple » : cette habitude quotidienne est associée à un risque plus faible de démence, même plusieurs années plus tard",
+      "desc": "Selon une étude récente menée auprès de près de 88 000 personnes âgées, celles qui pratiquent une routine quotidienne simple protègent leur cerveau contre le déclin cognitif.",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-strategie-simple-cette-habitude-quotidienne-associee-risque-plus-faible-demence-meme-plusieurs-annees-plus-tard-139217/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/1/b/01bf59bef3_50263118_homme-lecture-1.jpg",
+      "date": "2026-11-16T13:01:29+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Mobilisation étudiante : la présidente de l’université de Lorraine porte plainte après des menaces de mort",
+      "desc": "Les intimidations sont notamment liées au refus de la présidence de valider automatiquement le semestre perturbé par la grogne, comme demandé par les étudiants.",
+      "url": "https://www.liberation.fr/societe/education/mobilisation-etudiante-la-presidente-de-luniversite-de-lorraine-porte-plainte-apres-des-menaces-de-mort-20261114_TE6MTBNTJFEFHMTN2VDVZQEUMI/",
       "image": null,
-      "date": "2026-11-15T18:15:49+00:00",
-      "date_formatted": "15 November 2026",
+      "date": "2026-11-16T12:33:59+00:00",
+      "date_formatted": "16 November 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Sensibilisation à l’infertilité : un courrier de l’assurance maladie envoyé aux Français de 29 ans dès ce lundi, «c’est bien d’être obligé d’y penser»",
+      "desc": "Le courrier aborde les méthodes de contraception pour ceux qui ne veulent pas d’enfants comme les consultations spécialisées de fertilité ou l’autoconservation de gamètes pour ceux qui en souhaitent.",
+      "url": "https://www.liberation.fr/societe/sante/plan-contre-linfertilite-un-courrier-de-lassurance-maladie-envoye-aux-francais-de-29-ans-a-partir-de-ce-lundi-16-novembre-20261116_TF5J74KZNBGQDK3JLOJ67NYIGI/",
+      "image": null,
+      "date": "2026-11-16T12:23:53+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Résistance des bactéries aux médicaments : l’OMS note des progrès, mais appelle à redoubler d’efforts",
+      "desc": "Les bactéries développent depuis longtemps une résistance aux médicaments conçus pour les combattre, rendant de nombreuses molécules inefficaces. Au total, 39 millions de morts pourraient être imputables à la résistance aux antimicrobiens d’ici à 2050.",
+      "url": "https://www.lemonde.fr/sante/article/2026/11/16/resistance-des-bacteries-aux-medicaments-l-oms-note-des-progres-mais-appelle-a-redoubler-d-efforts_6811683_1651302.html",
+      "image": "https://img.lemde.fr/2025/07/17/173/0/3000/1500/644/322/60/0/9e1e69a_upload-1-ce1dmbounuhh-frame-253.jpg",
+      "date": "2026-11-16T10:47:06+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Cancer de la prostate : après près de 8 ans de suivi, cette triple association offre presque 2 ans de vie en plus",
+      "desc": "Un chiffre qui change tout : deux années de vie supplémentaires. Pour les patients atteints d'un cancer de la prostate avec métastases, cette avancée publiée fin octobre 2026 représente bien plus qu'une statistique. Comment un simple comprimé ajouté au traitement existant peut-il bouleverser le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-prostate-cancer-prostate-apres-pres-8-ans-suivi-cette-triple-association-offre-presque-2-ans-vie-plus-k8p9-139329/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/3/2/c32165fec6_50263313_2-cancer-prostate.jpg",
+      "date": "2026-11-16T10:00:00+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Des résultats prometteurs pour une thérapie qui permet de freiner les symptômes du syndrome de Rett",
+      "desc": "Cette maladie génétique rare affectent généralement les jeunes filles et provoque un handicap mental ainsi que des atteintes motrices. La perspective de ce nouveau traitement ouvre la voie à une guérison des malades, et le retour à une vie normale.",
+      "url": "https://www.franceinfo.fr/sante/info-radio-france-des-resultats-prometteurs-pour-une-therapie-qui-permet-de-freiner-les-symptomes-du-syndrome-de-rett_8284385.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/ivqAkOOk5vB-02biQMlELeTO-UU/0x0:6000x3375/432x243/filters:format(jpg)/2023/06/16/648c6803d0338_080-hl-mcohen-2024995.jpg",
+      "date": "2026-11-16T08:36:17+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Salomé Saqué, essayiste : « Il est temps de faire des douleurs des femmes un enjeu politique qui concerne aussi les hommes »",
+      "desc": "La journaliste souffre depuis l’adolescence de plusieurs maladies féminines, dont l’endométriose. Elle évoque, dans un entretien au « Monde », les inégalités subies par les femmes en matière de recherche et de traitements médicaux, auxquelles elle consacre une enquête.",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/16/salome-saque-essayiste-il-est-temps-de-faire-des-douleurs-des-femmes-un-enjeu-politique-qui-concerne-aussi-les-hommes_6811435_3232.html",
+      "image": "https://img.lemde.fr/2026/11/12/1088/0/3335/1667/644/322/60/0/2336b9f_upload-1-tjozvtj0tsbf-salome-saque.jpg",
+      "date": "2026-11-16T06:30:03+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi la Silicon Valley veut-elle fabriquer des bébés génétiquement modifiés ?",
+      "desc": "Dans cet épisode, Alexandre Piquard, journaliste au service Economie du « Monde », chargé du suivi des géants de la tech et de l’intelligence artificielle, décrit la pente eugéniste induite par de récentes innovations technologiques dans ce secteur.",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/11/16/pourquoi-la-silicon-valley-veut-elle-fabriquer-des-bebes-genetiquement-modifies_6811237_5463015.html",
+      "image": "https://img.lemde.fr/2026/11/13/0/0/1800/900/644/322/60/0/6213b85_upload-1-qtkngk0xcn41-gimp-babies.jpeg",
+      "date": "2026-11-16T05:00:07+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "Cancer de la peau : ce vaccin ARN « sur mesure » réduit de 42 % le risque de rechute ou de décès",
@@ -30,16 +100,6 @@
       "date": "2026-11-15T17:00:01+00:00",
       "date_formatted": "15 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La femme «très grièvement brûlée» par son conjoint, près de Bordeaux, est morte de ses blessures",
-      "desc": "Le parquet de Libourne, qui avait ouvert une enquête pour «tentative de féminicide» a requalifié la procédure en «homicide par conjoint», à la suite du décès de la victime dans la nuit de samedi à dimanche.",
-      "url": "https://www.liberation.fr/societe/police-justice/la-femme-tres-grievement-brulee-par-son-conjoint-pres-de-bordeaux-est-morte-de-ses-blessures-20261115_QMAKFOPBSZBTDGZCPFPCMAUYOM/",
-      "image": null,
-      "date": "2026-11-15T16:02:03+00:00",
-      "date_formatted": "15 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -144,7 +204,7 @@
     },
     {
       "title": "Aucun enfant n'est concerné en France par les effets indésirables du Zolgensma, indique l'Agence nationale de sécurité du médicament",
-      "desc": "Le géant pharmaceutique Novartis qui fabrique le médicament Zolgensma a rapporté neuf cas de tumeurs survenus depuis 2019 parmi plus de 6 000 patients traités dans le monde. En France, l'Agence nationale de sécurité du médicament affirme vendredi qu'aucun enfant français n'est concerné par des effet",
+      "desc": "Le géant pharmaceutique Novartis qui fabrique le médicament Zolgensma a rapporté neuf cas de tumeurs survenus depuis 2019 parmi plus de 6 000 patients traités dans le monde. En France, l'ANSM affirme vendredi qu'aucun enfant français n'est concerné par des effets secondaires.",
       "url": "https://www.franceinfo.fr/sante/medicament/aucun-enfant-n-est-concerne-en-france-par-les-effets-indesirables-du-zolgensma-indique-l-agence-nationale-de-securite-du-medicament_8280953.html#xtor=RSS-3-%5Bsante%5D",
       "image": "https://www.franceinfo.fr/pictures/AJ9lBnBxvinaVolUtwTMdeCzuJo/0x0:5513x3101/432x243/filters:format(jpg)/2019/12/28/phpAgN7ae.jpg",
       "date": "2026-11-13T16:24:44+00:00",
@@ -160,16 +220,6 @@
       "date": "2026-11-13T11:02:36+00:00",
       "date_formatted": "13 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Avoir un chien divise par deux le risque de maladies comme Alzheimer, selon des chercheurs japonais",
-      "desc": "Pour faire des économies dans les dépenses de santé, la solution est-elle de donner un chiot à tout le monde ? Des scientifiques japonais ont scruté pendant plus de sept ans un échantillon de la population. Et les résultats démontre que s'occuper d'un chien est un vrai exercice pour le cerveau.",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/avoir-un-chien-divise-par-deux-le-risque-de-maladies-comme-alzheimer-selon-des-chercheurs-japonais_8259698.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/THQTpzjab29XDKOAm2biPF9_x2k/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6b48d666c1909658985.jpg",
-      "date": "2026-11-13T09:21:36+00:00",
-      "date_formatted": "13 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -193,16 +243,6 @@
       "type": "science"
     },
     {
-      "title": "Plus d'un million de personnes sont mortes de la tuberculose en 2025, les objectifs mondiaux restent lointains s'inquiète l'OMS",
-      "desc": "Les décès dus à la tuberculose ont diminué de 4% par rapport à 2024, tandis que le nombre de cas a stagné à -0,7%.",
-      "url": "https://www.franceinfo.fr/sante/plus-d-un-million-de-personnes-sont-mortes-de-la-tuberculose-en-2025-les-objectifs-mondiaux-restent-lointains-s-inquiete-l-oms_8279858.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/kAKrPPS7gaij2gBbjvsFgDgEaQE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af5fd276aba9822028860.jpg",
-      "date": "2026-11-12T19:04:53+00:00",
-      "date_formatted": "12 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Einstein. Autopsie d’une photogénie », tentative de dissection d’un secret du célèbre physicien",
       "desc": "Dans cet essai, l’historienne de l’art Martine Ravache se livre à une enquête pour tenter de comprendre pourquoi le savant est, de loin, le scientifique le plus photographié. A la clé, une hypothèse qui surprend. A découvrir.",
       "url": "https://www.lemonde.fr/sciences/article/2026/11/12/einstein-autopsie-d-une-photogenie-tentative-de-dissection-d-un-secret-du-celebre-physicien_6809095_1650684.html",
@@ -221,16 +261,6 @@
       "date_formatted": "12 November 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Mélenchon propose des arrêts maladie autodéclarés, comment ça se passe à l’étranger ? L’absentéisme a-t-il augmenté ?",
-      "desc": "Le programme de Jean-Luc Mélenchon pour l’élection présidentielle de 2027 comporte l’autodéclaration pour les arrêts maladie de courte durée",
-      "url": "https://www.20minutes.fr/sante/4261712-20261112-melenchon-propose-arrets-maladie-autodeclares-comment-ca-passe-etranger-absenteisme-augmente?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/8XcJjiAvR2-Mk_j8VxRj9yk/1200x768_s-autodeclarer-en-arret-maladie-permettrait-de",
-      "date": "2026-11-12T07:02:36+00:00",
-      "date_formatted": "12 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Le venin de ce crapaud du désert inspire un spray nasal contre les dépressions sévères : les premiers résultats surprennent",
@@ -271,16 +301,6 @@
       "date_formatted": "11 November 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
-    },
-    {
-      "title": "Et si le jeûne permettait de mieux supporter la radiothérapie ? Une étude révèle un mécanisme étonnant dans l’intestin",
-      "desc": "Le jeûne est généralement déconseillé aux personnes atteintes de cancer. Pourtant, une nouvelle étude révèle qu’il pourrait aider l’intestin à mieux récupérer après une radiothérapie. Des chercheurs viennent de décrypter ce mécanisme étonnant, impliquant une bactérie bénéfique et une molécule...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-colorectal-si-jeune-permettait-mieux-supporter-radiotherapie-etude-revele-mecanisme-etonnant-intestin-139236/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/4/7/c479b83e07_50263147_radiotherapie-abdomen.jpg",
-      "date": "2026-11-11T06:08:59+00:00",
-      "date_formatted": "11 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Arrêts maladie pour raisons de santé mentale : la délicate prise en charge des troubles liés au travail",
@@ -340,16 +360,6 @@
       "date": "2026-11-09T21:36:57+00:00",
       "date_formatted": "9 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Quand les citoyens s’associent à la recherche en santé, des protocoles aux résultats : « Ça me plaît de pouvoir participer à quelque chose autour d’Alzheimer»",
-      "desc": "La recherche participative, qui consiste à inclure les citoyens dans les projets scientifiques, connaît un essor dans le domaine de la santé. Ouvrant de nouvelles perspectives aux chercheurs, elle répond aussi à des enjeux de démocratie sanitaire.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/11/09/quand-les-citoyens-s-associent-a-la-recherche-en-sante-des-protocoles-aux-resultats-ca-me-plait-de-pouvoir-participer-a-quelque-chose-autour-d-alzheimer_6808692_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/29/652/0/4027/2013/644/322/60/0/4455b87_upload-1-xdl0zoc8cjq6-recherche-participative-02-hd.jpg",
-      "date": "2026-11-09T19:30:05+00:00",
-      "date_formatted": "9 November 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -459,16 +469,6 @@
       "image": null,
       "date": "2026-09-03T08:00:08+00:00",
       "date_formatted": "3 September 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un lien entre « jetlag alimentaire » et risque de maladies cardiovasculaires chez les hommes",
-      "desc": "Une équipe d’INRAE, de l’Inserm, de l’université Sorbonne Paris Nord, de l’université Paris Cité et du Cnam publie une première étude sur les liens entre « jetlag alimentaire » et risque de maladies cardiovasculaires. Le jetlag alimentaire correspond au décalage dans le temps entre les heures de pri",
-      "url": "https://presse.inserm.fr/un-lien-entre-jetlag-alimentaire-et-risque-de-maladies-cardiovasculaires-chez-les-hommes/73162/",
-      "image": null,
-      "date": "2026-09-01T09:14:33+00:00",
-      "date_formatted": "1 September 2026",
       "source": "Inserm",
       "type": "science"
     }
