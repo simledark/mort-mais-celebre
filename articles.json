@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-16T14:08:08.637100+00:00",
-  "count": 47,
+  "generated_at": "2026-11-17T01:12:19.799710+00:00",
+  "count": 46,
   "articles": [
+    {
+      "title": "Pourquoi La maladie de Parkinson touche plus certains départements",
+      "desc": "Avec un nouveau cas toutes les vingt minutes, la maladie de Parkinson est en forte augmentation en France. Un malade atteint de Parkinson sur cinq a moins de 65 ans au moment du diagnostic, c'est ce que révèle le premier observatoire national dédié à la maladie de Parkinson élaboré avec Santé publiq",
+      "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/pourquoi-la-maladie-de-parkinson-touche-plus-certains-departements_8285360.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/tocQH3-UE4R3e-tdrGaNbXy2WKQ/110x0:1303x2121/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/16/6afb4f1b7a344730841839.jpg",
+      "date": "2026-11-16T19:45:07+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Olivio Gomes : le procès pour meurtre du policier Gilles Guilbert perturbé par des suspicions de subornation de témoin et faux témoignage",
+      "desc": "Au cours de l’audition en visioconférence du policier Harry S., collègue de l’accusé, une voix hors champ indiquant une réponse à donner, a été entendue par la cour d’assises d’appel des Hauts-de-Seine. L’incident a été relevé par les magistrats et va faire l’objet d’un courrier pour permettre l’ouv",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-dolivio-gomes-le-proces-pour-meurtre-du-policier-gilles-guilbert-perturbe-par-des-suspicions-de-subornation-de-temoin-et-faux-temoignage-20261116_5XHHLGGMUNEGJMA3EQCMFD2DPM/",
+      "image": null,
+      "date": "2026-11-16T18:59:14+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Il y a une vraie nécessité de faire de la prévention\" au sujet de l'infertilité, estime la cofondatrice d'une association",
+      "desc": "Manque d'information sur l'âge, méconnaissance des limites de la fécondation in vitro, idées reçues sur la congélation des ovocytes… Pour Virginie Rio, cofondatrice du collectif BAMP, la prévention doit aller plus loin pour permettre à chacun de mieux connaître les enjeux de la fertilité.",
+      "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/il-y-a-une-vraie-necessite-de-faire-de-la-prevention-au-sujet-de-l-infertilite-estime-la-cofondatrice-d-une-association_8263331.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/XBfVjj-G4hzOU0PMHWLVPZ7WYA0/0x139:2650x1629/432x243/filters:format(jpg)/2026/11/16/6afb40849f66a770058235.jpg",
+      "date": "2026-11-16T18:43:45+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "PFAS : deux polluants éternels associés à une hausse du risque d'un cancer du sein agressif pouvant atteindre 93 %",
+      "desc": "Ils sont dans l’eau, les emballages alimentaires, les ustensiles de cuisine et même dans notre organisme. Les PFAS, surnommés « polluants éternels », sont déjà connus pour leurs effets préoccupants sur la santé. Mais une nouvelle étude américaine vient de mettre en évidence qu’ils pourraient...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-pfas-deux-polluants-eternels-associes-hausse-risque-cancer-sein-agressif-pouvant-atteindre-93-139374/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/9/b/39b75281ae_50263398_3-cancer-sein.jpg",
+      "date": "2026-11-16T17:29:54+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Paul-Henri Rebut, pionnier de la recherche sur la fusion nucléaire contrôlée, est mort",
+      "desc": "Cet ingénieur et physicien avait développé et dirigé d’importantes expériences en vue de produire de l’électricité en fusionnant des atomes légers. Il s’est éteint le 3 novembre à l’âge de 91 ans.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/11/16/paul-henri-rebut-pionnier-de-la-recherche-sur-la-fusion-nucleaire-controlee-est-mort_6812129_3382.html",
+      "image": "https://img.lemde.fr/2026/11/16/214/0/1256/628/644/322/60/0/852ca46_upload-1-r4bunazqnft3-rebut-2-jpg-1024-crop.jpg",
+      "date": "2026-11-16T16:32:42+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "« Une stratégie simple » : cette habitude quotidienne est associée à un risque plus faible de démence, même plusieurs années plus tard",
       "desc": "Selon une étude récente menée auprès de près de 88 000 personnes âgées, celles qui pratiquent une routine quotidienne simple protègent leur cerveau contre le déclin cognitif.",
@@ -11,26 +61,6 @@
       "date_formatted": "16 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mobilisation étudiante : la présidente de l’université de Lorraine porte plainte après des menaces de mort",
-      "desc": "Les intimidations sont notamment liées au refus de la présidence de valider automatiquement le semestre perturbé par la grogne, comme demandé par les étudiants.",
-      "url": "https://www.liberation.fr/societe/education/mobilisation-etudiante-la-presidente-de-luniversite-de-lorraine-porte-plainte-apres-des-menaces-de-mort-20261114_TE6MTBNTJFEFHMTN2VDVZQEUMI/",
-      "image": null,
-      "date": "2026-11-16T12:33:59+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Sensibilisation à l’infertilité : un courrier de l’assurance maladie envoyé aux Français de 29 ans dès ce lundi, «c’est bien d’être obligé d’y penser»",
-      "desc": "Le courrier aborde les méthodes de contraception pour ceux qui ne veulent pas d’enfants comme les consultations spécialisées de fertilité ou l’autoconservation de gamètes pour ceux qui en souhaitent.",
-      "url": "https://www.liberation.fr/societe/sante/plan-contre-linfertilite-un-courrier-de-lassurance-maladie-envoye-aux-francais-de-29-ans-a-partir-de-ce-lundi-16-novembre-20261116_TF5J74KZNBGQDK3JLOJ67NYIGI/",
-      "image": null,
-      "date": "2026-11-16T12:23:53+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Résistance des bactéries aux médicaments : l’OMS note des progrès, mais appelle à redoubler d’efforts",
@@ -193,26 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "DJ, jeux vidéo, réseaux sociaux... Pour certains seniors, l'âge c'est dans la tête !",
-      "desc": "DJ à 67 ans, passionnés de jeux vidéo à plus de 70 ans ou star des réseaux sociaux après 90 ans : certains seniors bousculent les idées reçues sur la vieillesse. À travers des activités souvent associées aux jeunes générations, ils revendiquent leur liberté et prouvent que l’âge n’empêche pas de se ",
-      "url": "https://www.franceinfo.fr/sante/senior/dj-jeux-video-reseaux-sociaux-pour-certains-seniors-l-age-c-est-dans-la-tete_8281667.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/EBvoz8Y49zFKaKBpx0HB33lBSVk/0x41:1490x880/432x243/filters:format(jpg)/2026/11/13/6af77933288b4487764767.jpg",
-      "date": "2026-11-13T23:37:32+00:00",
-      "date_formatted": "13 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Aucun enfant n'est concerné en France par les effets indésirables du Zolgensma, indique l'Agence nationale de sécurité du médicament",
-      "desc": "Le géant pharmaceutique Novartis qui fabrique le médicament Zolgensma a rapporté neuf cas de tumeurs survenus depuis 2019 parmi plus de 6 000 patients traités dans le monde. En France, l'ANSM affirme vendredi qu'aucun enfant français n'est concerné par des effets secondaires.",
-      "url": "https://www.franceinfo.fr/sante/medicament/aucun-enfant-n-est-concerne-en-france-par-les-effets-indesirables-du-zolgensma-indique-l-agence-nationale-de-securite-du-medicament_8280953.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/AJ9lBnBxvinaVolUtwTMdeCzuJo/0x0:5513x3101/432x243/filters:format(jpg)/2019/12/28/phpAgN7ae.jpg",
-      "date": "2026-11-13T16:24:44+00:00",
-      "date_formatted": "13 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Pourquoi les overdoses ont-elles explosé en France ces dix dernières années ?",
       "desc": "Le nombre de morts liés à la consommation de drogues ou de médicaments en France a bondi de 171 % entre 2014 et 2024",
       "url": "https://www.20minutes.fr/sante/4261890-20261113-pourquoi-overdoses-elles-explose-france-dix-dernieres-annees?at_medium=display&at_campaign=149",
@@ -260,16 +270,6 @@
       "date": "2026-11-12T11:22:05+00:00",
       "date_formatted": "12 November 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Le venin de ce crapaud du désert inspire un spray nasal contre les dépressions sévères : les premiers résultats surprennent",
-      "desc": "Des ados qui lèchent des crapauds pour se défoncer : l’alerte des parcs nationaux américains prête à sourire. Pourtant, la sécrétion de cet amphibien cache une molécule hallucinogène que la science prend très au sérieux. Administrée en spray nasal, elle a soulagé rapidement des patients atteints...",
-      "url": "https://www.futura-sciences.com/sante/actualites/depression-venin-ce-crapaud-desert-inspire-spray-nasal-depressions-severes-premiers-resultats-surprennent-139193/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/a/e/1ae4e1db80_50263149_venin-crapaud-depression.jpg",
-      "date": "2026-11-11T17:23:36+00:00",
-      "date_formatted": "11 November 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -341,16 +341,6 @@
       "date_formatted": "10 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "En France, 659 morts liées à la consommation de drogues ou de médicaments en 2024, une hausse de 171 % en dix ans",
-      "desc": "Les médicaments de substitution restent « la première cause de surdose en France », avec, en 2024, « 338 décès, soit 51 % des cas », suivis par la cocaïne (222 décès), l’héroïne (75), le cannabis (65), les amphétamines dont le MDMA (41) et les nouveaux produits de synthèse (33), dont les cathinones ",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/10/en-france-le-nombre-de-morts-liees-a-la-consommation-de-drogues-ou-de-medicaments-a-augmente-de-171-en-dix-ans_6808807_3224.html",
-      "image": "https://img.lemde.fr/2026/11/10/1037/0/6419/3209/644/322/60/0/814fe2e_upload-1-nbi0ycclrrmd-000-c9ua8fa.jpg",
-      "date": "2026-11-10T10:32:22+00:00",
-      "date_formatted": "10 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Grippe aviaire : Un foyer « hautement pathogène » détecté dans une basse-cour de Seine-Maritime",
