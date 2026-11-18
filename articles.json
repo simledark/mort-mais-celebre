@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-18T00:06:28.126892+00:00",
-  "count": 56,
+  "generated_at": "2026-11-18T14:42:08.489492+00:00",
+  "count": 45,
   "articles": [
+    {
+      "title": "Prostitution des mineurs : un rapport parlementaire appelle à «renverser la charge de la preuve»",
+      "desc": "Remis par la délégation aux droits des enfants, le rapport propose de changer la loi afin que les clients aient à prouver qu’ils ne connaissaient pas l’âge de la personne prostituée, afin de «taper un peu plus sur ces clients pédocriminels», selon la députée Modem Perrine Goulet.",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/prostitution-des-mineurs-un-rapport-parlementaire-appelle-a-renverser-la-charge-de-la-preuve-20261118_ODNC3A6B6RA27A5Y5NSVZ4JIO4/",
+      "image": null,
+      "date": "2026-11-18T14:22:56+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Charente-Maritime : Un hôpital investit 8 millions d’euros dans deux nouvelles machines pour traiter les cancers",
+      "desc": "Le centre hospitalier de Saintes vient de s’équiper de deux nouveaux accélérateurs de particules Halcyon pour son service de radiothérapie, indique « Sud Ouest »",
+      "url": "https://www.20minutes.fr/sante/4263834-20261118-charente-maritime-hopital-investit-8-millions-euros-deux-nouvelles-machines-traiter-cancers?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/cqw7yFlBSTirt9Vgc1JHkik/1200x768_premiere-en-france-traitement-et-depistage-du-cancer-adulte-et-enfant-sur-les-trois-centres-de-proton-therapie-celui-du-centre-antoine-lacassagne-dispose-d-un-scanner-3d-faible-dose-systeme-cone-beam-ct-integre-permet-de-traiter-de-nouvelles-indications-et-d-etre-au-plus-pres-de-la-tumeur-la-technologie-envoie-les-rayons-avec-une-parfaite-precision-sans-que-la-variation-de-taille-des-tissus-voisins-de-la-tumeur-devient-le-tir-de-ces-rayons-accelerateur-de-protontherapie-haute-energie-proteus-one-et-a-pouvoir-traiter-par-radiotherapie-par-protons-les-particules-de-protons-ont-l-avantage-par-rapport-aux-autres-particules-de-delivrer-leur-dose-sur-la-tumeur-sans-irradier-au-dela-4-fevrier-journee-mondiale-contre-le-cancer-le-departement-des-alpes-maritimes-s-est-associe-avec-le-centre-antoine-lacassagne-et-la-ligue-contre-le-cancer-pour-creer-l-institut-axel-kahn-sa-mission-sera-d-accompagner-chaque-malade-et-son-entourage-en-proposant-une-offre-de-soins-globale-et-personnalisee-cet-institut-devrait-ouvrir-a-l-automne-nice-france-04-02-2022-syspeo-sys-a024-2202051649-credit-syspeo-sipa-2202051656",
+      "date": "2026-11-18T13:33:23+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Santé : une proposition de loi pour interdire les gaz lacrymogènes en manifestation",
+      "desc": "Une proposition de loi veut interdire les gaz lacrymogènes en manifestation. En cause : leurs effets potentiels sur la santé, encore largement méconnus faute de données scientifiques suffisantes.",
+      "url": "https://www.sciencesetavenir.fr/sante/une-loi-pour-interdire-les-gaz-lacrymogenes-dont-les-effets-restent-mal-connus_196190?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/17/cover-r4x3w1200-6afccdaf73eff-deadc1e676c01439e248d2bdd04037b5d8d00470-jpg.jpg",
+      "date": "2026-11-18T13:02:55+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Comment une mobilisation scientifique a permis à un dinosaure normand d’échapper à une vente aux enchères",
+      "desc": "Unique représentant connu de son espèce, le « Dubreuillosaurus valesdunensis », découvert en Normandie en 1994, a été menacé de vente aux enchères à la mort de son propriétaire. Refusant qu’il soit livré aux appétits du marché privé, le milieu de la paléontologie a lutté pour l’intégrer aux collecti",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/18/comment-une-mobilisation-scientifique-a-permis-a-un-dinosaure-normand-d-echapper-a-une-vente-aux-encheres_6813121_1650684.html",
+      "image": "https://img.lemde.fr/2026/11/17/113/0/908/454/644/322/60/0/ce21b9f_upload-1-oa5dvyasb1cb-maquette-du-cra-ne-de-dubreuillosaurus-re-alise-e-en-2005-par-renaud-vacant-assistant-inge-nieur-du-cnrs-c-renaud-vacant.png",
+      "date": "2026-11-18T12:45:20+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Mort de Jean-Marie Duthilleul, architecte renommé pour ses gares TGV et ses églises",
+      "desc": "Ingénieur de formation, il avait rénové «toutes les grandes gares parisiennes» ainsi que de nombreuses stations à travers le monde. Il allait avoir 74 ans.",
+      "url": "https://www.liberation.fr/lifestyle/design/mort-de-jean-marie-duthilleul-architecte-renomme-pour-ses-gares-tgv-et-ses-eglises-20261118_L3WLQFGLLZATRP5ZUWSND4NXHE/",
+      "image": null,
+      "date": "2026-11-18T12:02:56+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Peut-on développer un cancer du poumon sans avoir jamais fumé ?",
+      "desc": "Le cancer du poumon est spontanément associé au tabac, à juste titre puisqu’il reste responsable d’environ huit cas sur dix. Pourtant, cette maladie ne touche pas uniquement les fumeurs. En France, environ 20 % des cancers pulmonaires sont aujourd’hui diagnostiqués chez des personnes n'ayant...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-peut-on-developper-cancer-poumon-avoir-jamais-fume-137222/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/e/c/cecff6ffd9_50259780_3-cancer-poumon.jpg",
+      "date": "2026-11-18T10:30:00+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Après 60 ans, votre vie sociale pourrait jouer un rôle insoupçonné dans le vieillissement du cerveau",
+      "desc": "Environ 153 millions de personnes pourraient souffrir de démence d'ici 2050. Face à ce chiffre vertigineux, la science cherche des leviers accessibles à tous pour préserver le cerveau vieillissant. Une vaste étude internationale publiée en octobre 2026 dans le Journal of Epidemiology & Community...",
+      "url": "https://www.futura-sciences.com/sante/actualites/demence-apres-60-ans-votre-vie-sociale-pourrait-jouer-role-insoupconne-vieillissement-cerveau-k8p9-139394/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/9/5/595693763e_50263452_sante-mentale-activites-seniors.jpg",
+      "date": "2026-11-18T10:00:00+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "En RDC, Ebola tue massivement les enfants : « Je ne peux même pas le prendre dans mes bras pour le réconforter »",
+      "desc": "Près des trois quarts des moins de 5 ans contaminés par la maladie à virus Ebola n’y survivent pas. A Bunia et Beni, épicentres de l’épidémie, les deuils s’enchaînent, tandis que plus de 2 280 enfants se retrouvent orphelins.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/11/18/en-rdc-ebola-tue-massivement-les-enfants-je-ne-peux-meme-pas-le-prendre-dans-mes-bras-pour-le-reconforter_6813071_3212.html",
+      "image": "https://img.lemde.fr/2026/11/17/1109/0/7008/3504/644/322/60/0/7c12231_upload-1-vrgprwqyplw5-18-pb-lemonde-ebola-enfants-bunia-beni-rdc.jpg",
+      "date": "2026-11-18T06:00:16+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Produits défrisants accusés de causer des cancers : L’Oréal conclut un accord avec quatre plaignantes aux Etats-Unis",
       "desc": "Le montant de l’indemnisation de ces quatre femmes afro-américaines n’a pas été rendu public. Le groupe français, qui défend la sûreté de ses produits supposés lisser les cheveux, fait face à de nombreuses plaintes de clientes américaines.",
@@ -10,16 +90,6 @@
       "date": "2026-11-17T21:49:57+00:00",
       "date_formatted": "17 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Vorace» de Malgorzata Lebda : la faune et la mort",
-      "desc": "Dans ce premier roman, où la narratrice accompagne sa grand-mère mourante, l’écrivaine polonaise raconte la nature avec poésie.",
-      "url": "https://www.liberation.fr/culture/livres/vorace-de-malgorzata-lebda-la-faune-et-la-mort-20261117_XPOEBNJ3WZCUFILXAGSO6Z7FC4/",
-      "image": null,
-      "date": "2026-11-17T21:38:00+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -33,36 +103,6 @@
       "type": "presse"
     },
     {
-      "title": "Une proposition de loi bientôt déposée pour interdire l’usage des gaz lacrymogènes contre les manifestants",
-      "desc": "Face aux incertitudes quant aux effets néfastes des gaz irritants sur la santé des femmes, les députés de La France insoumise vont déposer un texte pour ne plus qu’ils soient employés lors des rassemblements.",
-      "url": "https://www.liberation.fr/societe/sante/une-proposition-de-loi-bientot-deposee-pour-interdire-lusage-des-gaz-lacrymogenes-contre-les-manifestants-20261117_GOLYCDTSQJA2PG7CGPZ27ECB5A/",
-      "image": null,
-      "date": "2026-11-17T20:59:04+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Sur quels éléments s’appuie le Premier ministre pour accuser des agents publics d’avoir fourni des mortiers d’artifice à des lycéens ?",
-      "desc": "Depuis quelques jours, Sébastien Lecornu et plusieurs ministres affirment que des personnels de l’Education nationale auraient aidé des lycéens à se procurer des feux d’artifice. L’exécutif évoque «des dizaines de cas» et des enquêtes en cours, mais sans pouvoir donner de détails précis.",
-      "url": "https://www.liberation.fr/checknews/sur-quels-elements-sappuie-le-premier-ministre-pour-accuser-des-agents-publics-davoir-fourni-des-mortiers-dartifice-a-des-lyceens-20261117_VTEPJFH6ANAGTGYCRJKX3CI4WQ/",
-      "image": null,
-      "date": "2026-11-17T19:05:43+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Les États-Unis perdent leur statut de pays ayant éliminé la rougeole",
-      "desc": "En raison d’une couverture vaccinale en baisse et de la défiance de l’administration Trump envers les injections, le pays fait aujourd’hui face à sa pire épidémie en trois décennies. Depuis le début de l’année, 12 personnes sont mortes, dont de très jeunes enfants.",
-      "url": "https://www.liberation.fr/international/amerique/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-20261117_NOO3PV3TINFC3MY5MVWJ6MAZ4U/",
-      "image": null,
-      "date": "2026-11-17T18:46:16+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Cancer : L’Oréal trouve un accord avec quatre Américaines pour éteindre les poursuites liées à un produit défrisant",
       "desc": "L’Oréal a conclu un accord financier confidentiel avec quatre femmes afro-américaines qui accusaient le géant français des cosmétiques de commercialiser un défrisant responsable de leur cancer",
       "url": "https://www.20minutes.fr/sante/4263674-20261117-cancer-oreal-trouve-accord-quatre-americaines-eteindre-poursuites-liees-produit-defrisant?at_medium=display&at_campaign=149",
@@ -70,16 +110,6 @@
       "date": "2026-11-17T18:40:32+00:00",
       "date_formatted": "17 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Plus de neuf manifestantes sur dix affirment avoir ressenti des troubles gynécologiques après avoir été exposées au gaz lacrymogène, selon un collectif",
-      "desc": "Depuis le début du mouvement lycéen, les témoignages de manifestantes relatant des troubles gynécologiques se multiplient sur les réseaux sociaux. Pour mieux comprendre le phénomène, le collectif Lacrymos de sang a mené une enquête auprès de 10 000 internautes et présenté ses conclusions devant les ",
-      "url": "https://www.franceinfo.fr/societe/manifestations/plus-de-neuf-manifestantes-sur-dix-affirment-avoir-ressenti-des-troubles-gynecologiques-apres-avoir-ete-exposees-au-gaz-lacrymogene-selon-un-collectif_8286335.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/7UXpqg1RWCka9Y1DVzh4I3Kdg54/0x61:1024x637/432x243/filters:format(jpg)/2026/11/17/6afc355162b4b002220419.jpg",
-      "date": "2026-11-17T18:08:48+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -111,26 +141,6 @@
       "date_formatted": "17 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Six mois après le début de l'épidémie d'Ebola en RDC, \"la situation est dramatique et les enfants restent les plus vulnérables\", selon l'Unicef",
-      "desc": "Les enfants représentent à eux seuls plus d'un quart des cas d'Ebola, et un tiers des décès en RDC. \"On travaille donc sur une détection précoce du virus pour réduire le taux de mortalité\", souligne Jérome Kouachi, responsable des programmes d'urgence de l'Unicef en RDC.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/six-mois-apres-le-debut-de-l-epidemie-d-ebola-en-rdc-la-situation-est-dramatique-et-les-enfants-restent-les-plus-vulnerables-selon-l-unicef_8286533.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/1lIe26CuJRbmjoRiwMOL-l4KtFg/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/04/6aeb7c881dc3b676597078.jpg",
-      "date": "2026-11-17T13:48:36+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "À quoi servent les antibiotiques ?",
-      "desc": "Ils sont depuis quelques années au cœur d'une campagne de l'assurance maladie car, utilisés à tort, ils engendrent une antibiorésistance, c'est-à-dire que les bactéries finissent par s'y adapter et les rendent donc inefficaces.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/a-quoi-servent-les-antibiotiques_8286056.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/OLp5nHlOMmI_-q529Ty9BG68Hi0/0x0:5211x2931/432x243/filters:format(jpg)/2026/11/17/6afc437d42775556662371.jpg",
-      "date": "2026-11-17T13:24:20+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "« Jusqu'à 55 % de risque en moins » : ce que l'on sait du lien entre ce vaccin contre la grippe pas comme les autres et Alzheimer",
@@ -173,26 +183,6 @@
       "type": "science"
     },
     {
-      "title": "A suivre Loïc de la Mornais : infertilité, un courrier envoyé aux Français de 29 ans",
-      "desc": "Dans cette deuxième partie, Loïc de la Mornais et ses invités parlent du courrier de l'Assurance Maladie, envoyé à partir de lundi 16 novembre aux personnes de 29 ans pour les informer sur leur fertilité. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et",
-      "url": "https://www.franceinfo.fr/sante/a-suivre-loic-de-la-mornais-infertilite-un-courrier-envoye-aux-francais-de-29-ans_8286002.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/4XDSLEjuabVKwseFVOonKH5wOTc/0x0:1507x847/432x243/filters:format(jpg)/2026/11/17/6afbe8d11dac4791671176.jpg",
-      "date": "2026-11-17T06:41:33+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les françaises à la traîne",
-      "desc": "La pollution de l'air constitue le premier risque environnemental pour la santé en France, celle-ci cause chaque année plus de 700 morts à Marseille, plus de 800 à Lyon ou encore plus de 4 000 dans la métropole du Grand Paris.",
-      "url": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/mIgiCoJN20O4JE6-WoJ9SaFTD4I/0x401:5568x3533/432x243/filters:format(jpg)/2025/05/12/000-9pq4uy-682197d9c270e995593776.jpg",
-      "date": "2026-11-17T06:00:21+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins demandent leur interdiction",
       "desc": "Les témoignages de près de 10 000 femmes exposées à des gaz lacrymogènes depuis le début du mouvement lycéen et de la mobilisation sociale doivent être présentés, mardi, à l’Assemblée nationale. Ils mettent en évidence de nombreux troubles gynécologiques.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html",
@@ -200,26 +190,6 @@
       "date": "2026-11-17T05:42:21+00:00",
       "date_formatted": "17 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Pourquoi La maladie de Parkinson touche plus certains départements",
-      "desc": "Avec un nouveau cas toutes les vingt minutes, la maladie de Parkinson est en forte augmentation en France. Un malade atteint de Parkinson sur cinq a moins de 65 ans au moment du diagnostic, c'est ce que révèle le premier observatoire national dédié à la maladie de Parkinson élaboré avec Santé publiq",
-      "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/pourquoi-la-maladie-de-parkinson-touche-plus-certains-departements_8285360.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/tocQH3-UE4R3e-tdrGaNbXy2WKQ/110x0:1303x2121/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/16/6afb4f1b7a344730841839.jpg",
-      "date": "2026-11-16T19:45:07+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Il y a une vraie nécessité de faire de la prévention\" au sujet de l'infertilité, estime la cofondatrice d'une association",
-      "desc": "Manque d'information sur l'âge, méconnaissance des limites de la fécondation in vitro, idées reçues sur la congélation des ovocytes… Pour Virginie Rio, cofondatrice du collectif BAMP, la prévention doit aller plus loin pour permettre à chacun de mieux connaître les enjeux de la fertilité.",
-      "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/il-y-a-une-vraie-necessite-de-faire-de-la-prevention-au-sujet-de-l-infertilite-estime-la-cofondatrice-d-une-association_8263331.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/XBfVjj-G4hzOU0PMHWLVPZ7WYA0/0x139:2650x1629/432x243/filters:format(jpg)/2026/11/16/6afb40849f66a770058235.jpg",
-      "date": "2026-11-16T18:43:45+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -273,16 +243,6 @@
       "type": "science"
     },
     {
-      "title": "Des résultats prometteurs pour une thérapie qui permet de freiner les symptômes du syndrome de Rett",
-      "desc": "Cette maladie génétique rare affectent généralement les jeunes filles et provoque un handicap mental ainsi que des atteintes motrices. La perspective de ce nouveau traitement ouvre la voie à une guérison des malades, et le retour à une vie normale.",
-      "url": "https://www.franceinfo.fr/sante/info-radio-france-des-resultats-prometteurs-pour-une-therapie-qui-permet-de-freiner-les-symptomes-du-syndrome-de-rett_8284385.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/ivqAkOOk5vB-02biQMlELeTO-UU/0x0:6000x3375/432x243/filters:format(jpg)/2023/06/16/648c6803d0338_080-hl-mcohen-2024995.jpg",
-      "date": "2026-11-16T08:36:17+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Salomé Saqué, essayiste : « Il est temps de faire des douleurs des femmes un enjeu politique qui concerne aussi les hommes »",
       "desc": "La journaliste souffre depuis l’adolescence de plusieurs maladies féminines, dont l’endométriose. Elle évoque, dans un entretien au « Monde », les inégalités subies par les femmes en matière de recherche et de traitements médicaux, auxquelles elle consacre une enquête.",
       "url": "https://www.lemonde.fr/idees/article/2026/11/16/salome-saque-essayiste-il-est-temps-de-faire-des-douleurs-des-femmes-un-enjeu-politique-qui-concerne-aussi-les-hommes_6811435_3232.html",
@@ -313,16 +273,6 @@
       "type": "science"
     },
     {
-      "title": "Quels sont les nouveaux moyens pour surveiller son diabète de type 2 ?",
-      "desc": "Le diabète est une maladie silencieuse qui reflète un excès de sucre dans le sang. Pour ceux qui suivent un traitement à l'insuline, des capteurs aident à surveiller son évolution. (Rendez-vous en partenariat avec l'Assistance Publiquye - Hôpitaux de Paris)",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/quels-sont-les-nouveaux-moyens-pour-surveiller-son-diabete-de-type-2_8242234.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/X143VP-EqtKakBQtvXeQ_Ge3jfY/0x40:1024x616/432x243/filters:format(jpg)/2026/11/14/6af825000cbff814299190.jpg",
-      "date": "2026-11-15T17:00:01+00:00",
-      "date_formatted": "15 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Pilules, régimes, sport : que valent vraiment les promesses anti-âge selon la science ?",
       "desc": "Et si les clés du vieillissement se cachaient au cœur de nos cellules ? Pour le découvrir, des chercheurs ont passé au crible 51 études et traqué des marqueurs biologiques invisibles à l'œil nu. Leur objectif : identifier les habitudes et les interventions qui influencent le plus notre horloge...",
       "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-pilules-regimes-sport-valent-vraiment-promesses-anti-age-selon-science-139063/#xtor%3DRSS-8",
@@ -331,16 +281,6 @@
       "date_formatted": "15 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
-      "desc": "Cette maladie neurodégénérative touche près de 300 000 personnes en France. Elle augmente fortement en raison principalement du vieillissement de la population mais aussi de la présence des métaux lourds et des pesticides dans l'environnement.",
-      "url": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/v8kAAJjb2Dnq2FqdjSvIItbl82U/0x234:4500x2765/432x243/filters:format(jpg)/2026/11/12/6af617bb67f2f775111105.jpg",
-      "date": "2026-11-15T14:01:53+00:00",
-      "date_formatted": "15 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer de la prostate : une radiothérapie ultraciblée contre les tumeurs agressives",
@@ -383,16 +323,6 @@
       "type": "science"
     },
     {
-      "title": "La fabuleuse découverte de l’insuline : une révolution médicale sur fond de guerre d’ego",
-      "desc": "En 1922, l'insuline a sorti du coma un adolescent de 14 ans, échappant ainsi à une mort certaine grâce à un extrait pancréatique purifié. Aujourd'hui, environ 9 millions de personnes sont en vie grâce à cette découverte couronnée l'année suivante par un prix Nobel. Mais elle fut aussi un drame...",
-      "url": "https://www.futura-sciences.com/sante/actualites/diabete-fabuleuse-decouverte-insuline-revolution-medicale-fond-guerre-ego-139273/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/c/0/7c0455e4c9_50263231_frederick-banting-john-macleod.jpg",
-      "date": "2026-11-14T11:30:00+00:00",
-      "date_formatted": "14 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Un nouvel espoir contre le cancer du pancréas",
       "desc": "C’est une avancée que les spécialistes n’attendaient plus vraiment. Pour la première fois, un médicament semble parvenir à faire reculer significativement l’un des cancers les plus redoutables.",
       "url": "https://www.sciencesetavenir.fr/sante/cancer-du-pancreas-la-percee-du-daraxonrasib_195859?xtor=RSS-16",
@@ -401,16 +331,6 @@
       "date_formatted": "14 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Chien : Quels restes alimentaires vaut-il mieux éviter de donner à votre animal ?",
-      "desc": "Malgré la tentation de partager votre repas avec votre chien, l’idée reste à proscrire. Beaucoup de restes représentent un danger, parfois mortel, pour votre animal",
-      "url": "https://www.20minutes.fr/animaux/4262105-20261114-chien-restes-alimentaires-vaut-mieux-eviter-donner-animal?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/wV6T_xt8SGe2kSmvBxCdyik/1200x768_chien",
-      "date": "2026-11-14T06:02:39+00:00",
-      "date_formatted": "14 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Un chercheur licencié pour avoir « révélé » que les mammographies causent des cancers ? C’est faux",
@@ -431,26 +351,6 @@
       "date_formatted": "11 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Un espoir pour les personnes atteintes du syndrome de la personne raide, comme Céline Dion",
-      "desc": "Des avancées médicales redonnent de l’espoir aux personnes atteintes de cette maladie auto-immune rare, dont souffre Céline Dion",
-      "url": "https://www.20minutes.fr/sante/4262134-20261111-espoir-personnes-atteintes-syndrome-personne-raide-comme-celine-dion?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/s-bHrhg5TW2yakcQ_FO2HSk/1200x768_celine-dion-eddy-angelil-et-nelson-angelil-disent-au-revoir-a-paris-et-a-leurs-fans-qui-se-rendent-a-l-aeroport-hotel-royal-monceau-a-paris-france-urman-11000418-credit-lionel-urman-sipa-2610191240",
-      "date": "2026-11-11T10:05:04+00:00",
-      "date_formatted": "11 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des cordons bleus vendus chez Leclerc partout en France rappelés",
-      "desc": "Des cordons bleus de dinde Côté Croc, vendus chez E.Leclerc dans toute la France, sont rappelés : ils contiennent du lait, un allergène qui n’était pas indiqué sur l’étiquette",
-      "url": "https://www.20minutes.fr/societe/4261986-20261110-cordons-bleus-vendus-chez-leclerc-partout-france-rappeles?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/TYQEMBPoSSqYX4Wohkx0DSk/1200x768_photo-illustration-enseigne-de-la-grande-surface-leclerc-07allilimages-pxl-20241228-124153842-credit-mourad-allili-sipa-2601261542",
-      "date": "2026-11-10T15:34:23+00:00",
-      "date_formatted": "10 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Quand les tumeurs piratent le système nerveux",
@@ -479,16 +379,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/04/cover-r4x3w1200-6aeb906898091-96f57f1966b786319f536e791f9acb622034c06e-jpg.jpg",
       "date": "2026-11-05T09:25:09+00:00",
       "date_formatted": "5 November 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Maladie d'Alzheimer: une IA détecte les personnes à risque",
-      "desc": "Ce modèle a analysé l’activité cérébrale de seniors avec démence et les a comparé avec ceux ayant une mémoire exceptionnelle. L'IA serait ainsi devenue capable de prédire si une personne est à risque ou pas pour la maladie d’Alzheimer.",
-      "url": "https://www.sciencesetavenir.fr/sante/une-ia-detecte-les-personnes-a-risque-de-developper-la-maladie-d-alzheimer_195934?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/04/cover-r4x3w1200-6aeb5336cd2a9-afp-20180530-f0216646-v1-highres-grandfatherandgranddaughterplayingboardgame.jpg",
-      "date": "2026-11-04T19:00:07+00:00",
-      "date_formatted": "4 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
