@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-11-18T14:42:08.489492+00:00",
-  "count": 45,
+  "generated_at": "2026-11-18T23:39:22.167871+00:00",
+  "count": 54,
   "articles": [
     {
-      "title": "Prostitution des mineurs : un rapport parlementaire appelle à «renverser la charge de la preuve»",
-      "desc": "Remis par la délégation aux droits des enfants, le rapport propose de changer la loi afin que les clients aient à prouver qu’ils ne connaissaient pas l’âge de la personne prostituée, afin de «taper un peu plus sur ces clients pédocriminels», selon la députée Modem Perrine Goulet.",
-      "url": "https://www.liberation.fr/societe/droits-des-femmes/prostitution-des-mineurs-un-rapport-parlementaire-appelle-a-renverser-la-charge-de-la-preuve-20261118_ODNC3A6B6RA27A5Y5NSVZ4JIO4/",
+      "title": "« Nous avons analysé les résultats de 51 études sur le ralentissement du vieillissement » : voici les bonnes habitudes qui font vraiment vivre plus longtemps",
+      "desc": "Des chercheurs ont analysé les résultats de 51 études ayant mesuré plus de 110 biomarqueurs liés au vieillissement. Il se sont intéressés aux effets de diverses interventions (alimentation, exercice physique, prise de certains médicaments et compléments alimentaires) sur ces biomarqueurs....",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-nous-avons-analyse-resultats-51-etudes-ralentissement-vieillissement-voici-bonnes-habitudes-font-vraiment-vivre-plus-longtemps-139412/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/5/6/856f9db376_50263467_femme-senior-velo.jpg",
+      "date": "2026-11-18T20:08:56+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Un professeur d’un lycée à Paris menacé de mort «à la Samuel Paty», le suspect s’est rendu",
+      "desc": "Un homme habitant dans l’Ain a menacé d’égorger un enseignant du lycée Edgar-Quinet à Paris, lors d’un cours en distanciel vendredi. Le parquet n’a pas encore communiqué sur ses motivations.",
+      "url": "https://www.liberation.fr/societe/police-justice/un-professeur-dun-lycee-a-paris-menace-de-mort-a-la-samuel-paty-le-suspect-sest-rendu-20261118_I6RBCGZ455H5FBM7PVSXAYHHB4/",
       "image": null,
-      "date": "2026-11-18T14:22:56+00:00",
+      "date": "2026-11-18T18:39:29+00:00",
       "date_formatted": "18 November 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "Procès en appel de la mort d’Olivio Gomes : l’ex-policier Gilles Guilbert condamné à huit ans de prison",
+      "desc": "La cour d’assises d’appel des Hauts-de-Seine a prononcé ce mercredi une peine plus légère qu’en première instance à l’encontre de l’ex-agent de la brigade anticriminalité, qui avait abattu l’automobiliste dans les Yvelines en 2020.",
+      "url": "https://www.liberation.fr/societe/police-justice/proces-en-appel-de-la-mort-dolivio-gomes-lex-policier-gilles-guilbert-condamne-a-huit-ans-de-prison-20261118_4JW7NPC2FZCY7DKTY5FMWJHYCQ/",
+      "image": null,
+      "date": "2026-11-18T18:28:14+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Non à la loi qui donne un «permis de tuer» aux forces de l’ordre",
+      "desc": "Pour la sénatrice Mélanie Vogel et la députée Cyrielle Chatelain du groupe Ecologiste, la proposition de loi qui consiste à reconnaître une présomption de légitime défense aux policiers quand ils tirent se situe non seulement en dehors du pacte républicain, mais engendrerait inévitablement plus de m",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/non-a-la-loi-qui-donne-un-permis-de-tuer-aux-forces-de-lordre-20261118_LYB6775ZLNDVJMBQUDESCI7JOY/",
+      "image": null,
+      "date": "2026-11-18T18:09:57+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pays-Bas : Les médecins retirent à un patient une tumeur de la taille d’un ballon de basket",
+      "desc": "Pour retirer l’énorme tumeur d’un patient, des médecins néerlandais ont dû temporairement extraire ses intestins de son corps",
+      "url": "https://www.20minutes.fr/monde/4263900-20261118-pays-bas-medecins-retirent-patient-tumeur-taille-ballon-basket?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/oUUC6l5ISx-JV0WGWjARSCk/1200x768_illustration-d-une-operation-de-chirurgie",
+      "date": "2026-11-18T15:32:37+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Vingt ans de gestion de l’hépatite C chez les usagers de drogues en France",
+      "desc": "L’hépatite C, qui affecte près de 50 millions de personnes dans le monde, est une maladie pouvant être mortelle. Les personnes consommatrices de substances par injection représentent jusqu’à 70 % des cas dans le monde. En France, depuis 2004, l’Inserm, l’ANRS MIE, Santé publique France et le CHU de ",
+      "url": "https://presse.inserm.fr/vingt-ans-de-gestion-de-lhepatite-c-chez-les-usagers-de-drogues-en-france/73700/",
+      "image": null,
+      "date": "2026-11-18T15:23:56+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "Charente-Maritime : Un hôpital investit 8 millions d’euros dans deux nouvelles machines pour traiter les cancers",
@@ -43,16 +93,6 @@
       "type": "science"
     },
     {
-      "title": "Mort de Jean-Marie Duthilleul, architecte renommé pour ses gares TGV et ses églises",
-      "desc": "Ingénieur de formation, il avait rénové «toutes les grandes gares parisiennes» ainsi que de nombreuses stations à travers le monde. Il allait avoir 74 ans.",
-      "url": "https://www.liberation.fr/lifestyle/design/mort-de-jean-marie-duthilleul-architecte-renomme-pour-ses-gares-tgv-et-ses-eglises-20261118_L3WLQFGLLZATRP5ZUWSND4NXHE/",
-      "image": null,
-      "date": "2026-11-18T12:02:56+00:00",
-      "date_formatted": "18 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Peut-on développer un cancer du poumon sans avoir jamais fumé ?",
       "desc": "Le cancer du poumon est spontanément associé au tabac, à juste titre puisqu’il reste responsable d’environ huit cas sur dix. Pourtant, cette maladie ne touche pas uniquement les fumeurs. En France, environ 20 % des cancers pulmonaires sont aujourd’hui diagnostiqués chez des personnes n'ayant...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-peut-on-developper-cancer-poumon-avoir-jamais-fume-137222/#xtor%3DRSS-8",
@@ -80,6 +120,16 @@
       "date": "2026-11-18T06:00:16+00:00",
       "date_formatted": "18 November 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des médicaments moins efficaces à cause de votre ADN",
+      "desc": "Un médicament fonctionne bien sur votre voisin mais moins bien sur vous ? C’est peut-être à cause de votre ADN, selon une étude menée par des chercheurs de l’université de Pittsburgh, en Pennsylvanie. #franceinfoRF 🖊 Ludovic Pauchant",
+      "url": "https://www.franceinfo.fr/sante/des-medicaments-moins-efficaces-a-cause-de-votre-adn_8284787.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/JGYsI31SaDJTNfU-neBg9-oYjzs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/16/6afae9c656538296073263.jpg",
+      "date": "2026-11-18T06:00:02+00:00",
+      "date_formatted": "18 November 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -113,6 +163,16 @@
       "type": "presse"
     },
     {
+      "title": "Plus de neuf manifestantes sur dix affirment avoir ressenti des troubles gynécologiques après avoir été exposées au gaz lacrymogène, selon un collectif",
+      "desc": "Depuis le début du mouvement lycéen, les témoignages de manifestantes relatant des troubles gynécologiques se multiplient sur les réseaux sociaux. Pour mieux comprendre le phénomène, le collectif Lacrymos de sang a mené une enquête auprès de 10 000 internautes et présenté ses conclusions devant les ",
+      "url": "https://www.franceinfo.fr/societe/manifestations/plus-de-neuf-manifestantes-sur-dix-affirment-avoir-ressenti-des-troubles-gynecologiques-apres-avoir-ete-exposees-au-gaz-lacrymogene-selon-un-collectif_8286335.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/7UXpqg1RWCka9Y1DVzh4I3Kdg54/0x61:1024x637/432x243/filters:format(jpg)/2026/11/17/6afc355162b4b002220419.jpg",
+      "date": "2026-11-17T18:08:48+00:00",
+      "date_formatted": "17 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
       "title": "Cancer du sein : un traitement réduit le risque de décès de 19 %, une avancée majeure après six ans d'études",
       "desc": "Un médicament qui repousse les limites du cancer du sein précoce. Kisqali, développé par le laboratoire suisse Novartis, vient de attester une réduction de 19 % du risque de décès après six ans de suivi clinique. Des chiffres qui ont surpris jusqu'aux chercheurs eux-mêmes.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-traitement-reduit-risque-deces-19-avancee-majeure-apres-six-ans-etudes-k8p9-139370/#xtor%3DRSS-8",
@@ -141,6 +201,26 @@
       "date_formatted": "17 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
+    },
+    {
+      "title": "Six mois après le début de l'épidémie d'Ebola en RDC, \"la situation est dramatique et les enfants restent les plus vulnérables\", selon l'Unicef",
+      "desc": "Les enfants représentent à eux seuls plus d'un quart des cas d'Ebola, et un tiers des décès en RDC. \"On travaille donc sur une détection précoce du virus pour réduire le taux de mortalité\", souligne Jérome Kouachi, responsable des programmes d'urgence de l'Unicef en RDC.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/six-mois-apres-le-debut-de-l-epidemie-d-ebola-en-rdc-la-situation-est-dramatique-et-les-enfants-restent-les-plus-vulnerables-selon-l-unicef_8286533.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/1lIe26CuJRbmjoRiwMOL-l4KtFg/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/04/6aeb7c881dc3b676597078.jpg",
+      "date": "2026-11-17T13:48:36+00:00",
+      "date_formatted": "17 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "À quoi servent les antibiotiques ?",
+      "desc": "Ils sont depuis quelques années au cœur d'une campagne de l'assurance maladie car, utilisés à tort, ils engendrent une antibiorésistance, c'est-à-dire que les bactéries finissent par s'y adapter et les rendent donc inefficaces.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/a-quoi-servent-les-antibiotiques_8286056.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/OLp5nHlOMmI_-q529Ty9BG68Hi0/0x0:5211x2931/432x243/filters:format(jpg)/2026/11/17/6afc437d42775556662371.jpg",
+      "date": "2026-11-17T13:24:20+00:00",
+      "date_formatted": "17 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
     },
     {
       "title": "« Jusqu'à 55 % de risque en moins » : ce que l'on sait du lien entre ce vaccin contre la grippe pas comme les autres et Alzheimer",
@@ -183,6 +263,26 @@
       "type": "science"
     },
     {
+      "title": "A suivre Loïc de la Mornais : infertilité, un courrier envoyé aux Français de 29 ans",
+      "desc": "Dans cette deuxième partie, Loïc de la Mornais et ses invités parlent du courrier de l'Assurance Maladie, envoyé à partir de lundi 16 novembre aux personnes de 29 ans pour les informer sur leur fertilité. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et",
+      "url": "https://www.franceinfo.fr/sante/a-suivre-loic-de-la-mornais-infertilite-un-courrier-envoye-aux-francais-de-29-ans_8286002.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/4XDSLEjuabVKwseFVOonKH5wOTc/0x0:1507x847/432x243/filters:format(jpg)/2026/11/17/6afbe8d11dac4791671176.jpg",
+      "date": "2026-11-17T06:41:33+00:00",
+      "date_formatted": "17 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les françaises à la traîne",
+      "desc": "La pollution de l'air constitue le premier risque environnemental pour la santé en France, celle-ci cause chaque année plus de 700 morts à Marseille, plus de 800 à Lyon ou encore plus de 4 000 dans la métropole du Grand Paris.",
+      "url": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/mIgiCoJN20O4JE6-WoJ9SaFTD4I/0x401:5568x3533/432x243/filters:format(jpg)/2025/05/12/000-9pq4uy-682197d9c270e995593776.jpg",
+      "date": "2026-11-17T06:00:21+00:00",
+      "date_formatted": "17 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
       "title": "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins demandent leur interdiction",
       "desc": "Les témoignages de près de 10 000 femmes exposées à des gaz lacrymogènes depuis le début du mouvement lycéen et de la mobilisation sociale doivent être présentés, mardi, à l’Assemblée nationale. Ils mettent en évidence de nombreux troubles gynécologiques.",
       "url": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html",
@@ -190,6 +290,26 @@
       "date": "2026-11-17T05:42:21+00:00",
       "date_formatted": "17 November 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi La maladie de Parkinson touche plus certains départements",
+      "desc": "Avec un nouveau cas toutes les vingt minutes, la maladie de Parkinson est en forte augmentation en France. Un malade atteint de Parkinson sur cinq a moins de 65 ans au moment du diagnostic, c'est ce que révèle le premier observatoire national dédié à la maladie de Parkinson élaboré avec Santé publiq",
+      "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/pourquoi-la-maladie-de-parkinson-touche-plus-certains-departements_8285360.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/tocQH3-UE4R3e-tdrGaNbXy2WKQ/110x0:1303x2121/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/16/6afb4f1b7a344730841839.jpg",
+      "date": "2026-11-16T19:45:07+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Il y a une vraie nécessité de faire de la prévention\" au sujet de l'infertilité, estime la cofondatrice d'une association",
+      "desc": "Manque d'information sur l'âge, méconnaissance des limites de la fécondation in vitro, idées reçues sur la congélation des ovocytes… Pour Virginie Rio, cofondatrice du collectif BAMP, la prévention doit aller plus loin pour permettre à chacun de mieux connaître les enjeux de la fertilité.",
+      "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/il-y-a-une-vraie-necessite-de-faire-de-la-prevention-au-sujet-de-l-infertilite-estime-la-cofondatrice-d-une-association_8263331.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/XBfVjj-G4hzOU0PMHWLVPZ7WYA0/0x139:2650x1629/432x243/filters:format(jpg)/2026/11/16/6afb40849f66a770058235.jpg",
+      "date": "2026-11-16T18:43:45+00:00",
+      "date_formatted": "16 November 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -313,16 +433,6 @@
       "type": "presse"
     },
     {
-      "title": "Additifs et conservateurs : ce que deux grandes études révèlent sur leurs liens avec le cancer et le diabète de type 2",
-      "desc": "Les additifs conservateurs protègent les aliments des contaminations et de l'oxydation, mais pourraient-ils aussi présenter des risques pour la santé ? Deux études portant sur plus de 100 000 participants établissent des liens entre la consommation de plusieurs d'entre eux et l'incidence de...",
-      "url": "https://www.futura-sciences.com/sante/actualites/additif-alimentaire-additifs-conservateurs-ce-deux-grandes-etudes-revelent-leurs-liens-cancer-diabete-type-2-139334/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/7/f/17fbe50227_50263319_diabete-type-2-cancer.jpg",
-      "date": "2026-11-14T18:00:00+00:00",
-      "date_formatted": "14 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Un nouvel espoir contre le cancer du pancréas",
       "desc": "C’est une avancée que les spécialistes n’attendaient plus vraiment. Pour la première fois, un médicament semble parvenir à faire reculer significativement l’un des cancers les plus redoutables.",
       "url": "https://www.sciencesetavenir.fr/sante/cancer-du-pancreas-la-percee-du-daraxonrasib_195859?xtor=RSS-16",
@@ -331,16 +441,6 @@
       "date_formatted": "14 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Un chercheur licencié pour avoir « révélé » que les mammographies causent des cancers ? C’est faux",
-      "desc": "Sur les réseaux sociaux, un ancien chercheur de l’Inserm affirme avoir été « renvoyé » pour avoir découvert que la mammographie provoque des cancers. Ce risque, très faible, n’a pourtant rien d’un secret : il est reconnu et documenté.",
-      "url": "https://www.20minutes.fr/societe/4262424-20261113-chercheur-licencie-avoir-revele-mammographies-causent-cancers-faux?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/7Pa6LaA_SdqUOad9_hkaxyk/1200x768_le-compte-sante-nutrition-et-le-site-sante-nutrition-org-relaient-les-propos-de-l-ancien-chercheur-daniel-corcos-qui-affirme-a-tort-que-les-rayons-x-des-mammographies-provoquent-des-cancers",
-      "date": "2026-11-13T08:32:36+00:00",
-      "date_formatted": "13 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer colorectal : l’immunothérapie pour éviter la chirurgie",
@@ -439,16 +539,6 @@
       "image": null,
       "date": "2026-09-07T12:00:01+00:00",
       "date_formatted": "7 September 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Diabète de type 2 : de nouveaux sous-types identifiés pour mieux prédire l’évolution de la maladie",
-      "desc": "Des chercheurs et chercheuses de l’Inserm, du CNRS, et de l’Université Paris Cité décrivent pour la première fois différents profils immunitaires chez les patients atteints d’un diabète de type 2. Facilement identifiables avec une simple prise de sang, les patients avec des cellules immunitaires en ",
-      "url": "https://presse.inserm.fr/diabete-de-type-2-de-nouveaux-sous-types-identifies-pour-mieux-predire-levolution-de-la-maladie/73174/",
-      "image": null,
-      "date": "2026-09-03T08:00:08+00:00",
-      "date_formatted": "3 September 2026",
       "source": "Inserm",
       "type": "science"
     }
