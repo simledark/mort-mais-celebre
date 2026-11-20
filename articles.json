@@ -1,43 +1,53 @@
 {
-  "generated_at": "2026-11-19T23:58:08.077776+00:00",
-  "count": 58,
+  "generated_at": "2026-11-20T05:31:29.110898+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Alimentation, tabagisme, sédentarité ou stress... La Haute Autorité de Santé souligne l'importance du mode de vie face aux risques cardiovasculaires",
+      "desc": "Les maladies cardiovasculaires sont la deuxième cause de mortalité en France, après le cancer. Pour mieux prévenir les accidents cardiaques, la Haute Autorité de Santé recommande aux médecins de tenir davantage compte du mode de vie des patients.",
+      "url": "https://www.franceinfo.fr/sante/alimentation-tabagisme-sedentarite-ou-stress-la-haute-autorite-de-sante-souligne-l-importance-du-mode-de-vie-face-aux-risques-cardiovasculaires_8290709.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/d1neJDaNZZw4kCfoWmpgSYP2vts/0x52:4300x2468/432x243/filters:format(jpg)/2023/11/28/maxstockworld348348-6566428593f37481625035.jpg",
+      "date": "2026-11-20T06:09:21+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Quand les feuilles soignent leurs blessures par le froid",
+      "desc": "« La vie cachée des plantes ». Une lésion foliaire provoque un refroidissement rapide, ce qui active des gènes induisant le dépôt de biomolécules sur la plaie. La cicatrisation est ainsi favorisée.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/20/quand-les-feuilles-soignent-leurs-blessures-par-le-froid_6813588_1650684.html",
+      "image": "https://img.lemde.fr/2026/11/15/254/0/502/251/644/322/60/0/25f14eb_upload-1-u2o0evjqljzv-default.jpg",
+      "date": "2026-11-20T06:00:28+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "La circulation du Covid-19 repart à la hausse, mais l'impact sur les hopitaux du virus reste faible",
+      "desc": "Les différents indicateurs compilés par le service d'enquête numérique de Radio France montrent une importante circulation du Covid-19 ces derniers jours. En revanche, les autorités sanitaires précisent que, pour l'instant, l'impact reste \"limité sur le recours aux soins.",
+      "url": "https://www.franceinfo.fr/sante/maladie/coronavirus/la-circulation-du-covid-19-repart-a-la-hausse-mais-l-impact-sur-les-hopitaux-du-virus-reste-faible_8290619.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/fekt6q-GkS_y4N2OwTJR4iunUKA/432x243/filters:format(jpg)/2026/09/30/6abd385f496c4845380467.jpg",
+      "date": "2026-11-20T05:00:03+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Génocide des Rohingyas : Min Aung Hlaing, l’architecte de la machine de mort birmane",
+      "desc": "La décision de la Cour internationale de justice, ce jeudi 19 novembre, met en lumière le rôle de l’actuel président, qui dirigeait l’armée lors des massacres de 2016 et 2017 dans la communauté musulmane.",
+      "url": "https://www.liberation.fr/international/asie-pacifique/min-aung-hlaing-larchitecte-de-la-machine-de-mort-birmane-contre-les-rohingyas-20261120_ODGW6OWDNVC4FBO3ZPCFC7IC24/",
+      "image": null,
+      "date": "2026-11-20T04:22:00+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Fontenay-sous-Bois : un mort et au moins cinq blessés dans un violent incendie d’habitation",
       "desc": "L’origine du sinistre, qui s’est déclaré en fin d’après-midi ce jeudi 19 novembre dans une barre d’immeuble de la commune du Val-de-Marne en région parisienne, est pour l’instant inconnue. Au moins deux personnes sont gravement blessées.",
       "url": "https://www.liberation.fr/societe/fontenay-sous-bois-un-mort-et-au-moins-cinq-blesses-dans-un-violent-incendie-dhabitation-20261119_I6V6AROPQ5DK3F36BL64FKDTU4/",
       "image": null,
       "date": "2026-11-19T21:05:19+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "David Habib, député des Pyrénées-Atlantiques, meurt subitement à 65 ans",
-      "desc": "La présidente de l’Assemblée nationale a annoncé ce jeudi la mort dans la nuit de l’ancien socialiste qui siégeait au sein du groupe indépendant Liot. Dans l’hémicycle, les élus ont observé une minute de silence.",
-      "url": "https://www.liberation.fr/politique/david-habib-depute-des-pyrenees-atlantiques-meurt-a-65-ans-20261119_MNFSZ5HHXJBV5FI6XT6RB5EQYM/",
-      "image": null,
-      "date": "2026-11-19T19:08:56+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Pistes cyclables glissantes et risques de chute sur les trottoirs : à Paris, l’épineux ramassage des feuilles mortes",
-      "desc": "Après plusieurs jours marqués par des vents violents et de fortes précipitations, des riverains alertent sur les amas de feuillages qui encombrent les chaussées de la capitale. La mairie assure être «mobilisée» mais sollicite l’aide des Parisiens.",
-      "url": "https://www.liberation.fr/societe/ville/pistes-cyclables-glissantes-et-risques-de-chute-sur-les-trottoirs-a-paris-lepineux-ramassage-des-feuilles-mortes-20261119_2UZ2OATKCRC55OFAX4T66UZHSA/",
-      "image": null,
-      "date": "2026-11-19T18:42:10+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Sarah El Haïry saisit le parquet de Paris contre les sites Tipsy Chat et Lady’s One",
-      "desc": "L’application, dont nous avions révélé qu’elle mettait en relation des utilisateurs avec des personnages de fiction aux pratiques et aux discours sexuels violents sans vérification d’âge, est dans le viseur de la haute-commissaire à l’Enfance.",
-      "url": "https://www.liberation.fr/lifestyle/hightech/sarah-el-hairy-saisit-le-parquet-de-paris-contre-les-sites-tipsy-chat-et-ladys-one-20261119_YMNHU53ROFDFNA5KWRVSVLTTKM/",
-      "image": null,
-      "date": "2026-11-19T18:41:59+00:00",
       "date_formatted": "19 November 2026",
       "source": "Libération",
       "type": "presse"
@@ -313,16 +323,6 @@
       "type": "presse"
     },
     {
-      "title": "À quoi servent les antibiotiques ?",
-      "desc": "Ils sont depuis quelques années au cœur d'une campagne de l'assurance maladie car, utilisés à tort, ils engendrent une antibiorésistance, c'est-à-dire que les bactéries finissent par s'y adapter et les rendent donc inefficaces.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/a-quoi-servent-les-antibiotiques_8286056.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/OLp5nHlOMmI_-q529Ty9BG68Hi0/0x0:5211x2931/432x243/filters:format(jpg)/2026/11/17/6afc437d42775556662371.jpg",
-      "date": "2026-11-17T13:24:20+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Jusqu'à 55 % de risque en moins » : ce que l'on sait du lien entre ce vaccin contre la grippe pas comme les autres et Alzheimer",
       "desc": "Des chercheurs américains révèlent que les personnes ayant reçu une dose élevée du vaccin antigrippal auraient un risque réduit de développer la maladie d’Alzheimer, par rapport à celles qui ont reçu une dose standard. Cette réduction du risque serait encore plus importante par rapport aux...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-jusqua-55-risque-moins-ce-on-sait-lien-ce-vaccin-grippe-pas-comme-autres-alzheimer-139381/#xtor%3DRSS-8",
@@ -433,26 +433,6 @@
       "type": "presse"
     },
     {
-      "title": "Pourquoi la Silicon Valley veut-elle fabriquer des bébés génétiquement modifiés ?",
-      "desc": "Dans cet épisode, Alexandre Piquard, journaliste au service Economie du « Monde », chargé du suivi des géants de la tech et de l’intelligence artificielle, décrit la pente eugéniste induite par de récentes innovations technologiques dans ce secteur.",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/11/16/pourquoi-la-silicon-valley-veut-elle-fabriquer-des-bebes-genetiquement-modifies_6811237_5463015.html",
-      "image": "https://img.lemde.fr/2026/11/13/0/0/1800/900/644/322/60/0/6213b85_upload-1-qtkngk0xcn41-gimp-babies.jpeg",
-      "date": "2026-11-16T05:00:07+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Cancer de la peau : ce vaccin ARN « sur mesure » réduit de 42 % le risque de rechute ou de décès",
-      "desc": "Un chiffre retient l'attention : 42 % de risque de récidive ou de décès en moins. Un vaccin personnalisé contre le mélanome vient de franchir une étape historique dans la lutte contre le cancer. Pour la première fois, un essai clinique de grande envergure confirme le bénéfice réel d'une telle...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-peau-ce-vaccin-arn-mesure-reduit-42-risque-rechute-deces-k2m6-139292/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/8/8/d/88dc42d986_50263270_vaccin-cancer.jpg",
-      "date": "2026-11-15T18:00:00+00:00",
-      "date_formatted": "15 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Cancer de la prostate : une radiothérapie ultraciblée contre les tumeurs agressives",
       "desc": "Traquer les cellules cancéreuses pour mieux les détruire : c'est la promesse du Pluvicto, un médicament qui repose sur le principe de la théranostique, à mi-chemin entre diagnostic et traitement.",
       "url": "https://www.sciencesetavenir.fr/sante/une-radiotherapie-ultraciblee-contre-les-tumeurs-agressives_195864?xtor=RSS-16",
@@ -468,16 +448,6 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
       "image": "https://img.lemde.fr/2026/11/11/648/0/7784/3892/644/322/60/0/8c07bff_upload-1-idy6bwvje7rc-20250628lmt2372.jpg",
       "date": "2026-11-15T10:00:10+00:00",
-      "date_formatted": "15 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
-      "desc": "Depuis la déclaration officielle de l’épidémie le 15 mai, plus de 5 400 personnes en sont mortes en République démocratique du Congo. « Le Monde » est allé à la rencontre d’humanitaires, d’infirmiers, de victimes qui, chaque jour, font face à ce fléau invisible.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
-      "image": "https://img.lemde.fr/2026/11/12/584/0/7008/3504/644/322/60/0/ec621ad_upload-1-lwnlnctfp1wj-02-pb-lemonde-ebola-ituri-temoignages-acteurs-riposte.jpg",
-      "date": "2026-11-15T06:30:01+00:00",
       "date_formatted": "15 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
