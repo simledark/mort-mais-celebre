@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-11-20T05:31:29.110898+00:00",
-  "count": 55,
+  "generated_at": "2026-11-20T14:29:48.952003+00:00",
+  "count": 54,
   "articles": [
+    {
+      "title": "Parkinson : les chercheurs ont repéré un signe dans la marche jusqu'à 7 ans avant le diagnostic",
+      "desc": "Et si les premiers signes de la maladie de Parkinson se cachaient dans notre façon de marcher ? Des chercheurs ont découvert que de subtiles différences dans les mouvements des bras pouvaient être observées près de sept ans avant le diagnostic. Une piste prometteuse qui pourrait, à terme, aider...",
+      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-chercheurs-ont-repere-signe-marche-jusqua-7-ans-avant-diagnostic-139480/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/6/0/560e6ba3b9_50263685_marche-parkinson.jpg",
+      "date": "2026-11-20T15:08:40+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Cinquantenaire de la mort d’André Malraux : correspondances et rééditions pour discourir le monde",
+      "desc": "A l’occasion des cinquante ans de la mort de l’écrivain et mythique ministre de la Culture paraissent ses «Correspondances» avec Roger Martin du Gard et Gaëtan Picon. Son mémorable discours lors de l’entrée de Jean Moulin au Panthéon est réédité.",
+      "url": "https://www.liberation.fr/culture/livres/cinquantenaire-de-la-mort-dandre-malraux-correspondances-et-reeditions-pour-discourir-le-monde-20261120_AK7SQHGPKNHATOP5DD3QFRTWZ4/",
+      "image": null,
+      "date": "2026-11-20T13:47:00+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Manifestant mort d’un malaise le 17 octobre à Paris : les analyses de sang n’ont pas permis de trouver de gaz lacrymogène",
+      "desc": "Les analyses sanguines de Christophe M., âgé de 59 ans, révélées par la presse ce vendredi 20 novembre, ont en revanche mis au jour des traces d’alcool, de cocaïne, de cannabis et de méthadone.",
+      "url": "https://www.liberation.fr/societe/police-justice/manifestant-mort-dun-malaise-le-17-octobre-a-paris-les-analyses-nont-pas-permis-de-trouver-de-gaz-lacrymogene-20261120_YSJMAKZGWVCONM66VTZ36AKSSQ/",
+      "image": null,
+      "date": "2026-11-20T13:04:36+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mélanome : des résultats positifs pour un vaccin anticancer sur mesure",
+      "desc": "Après des résultats encourageants en phase II, un vaccin personnalisé à ARN messager franchit une nouvelle étape dans le traitement du mélanome. Associé à une immunothérapie, il réduit significativement le risque de récidive et de métastases chez les patients opérés présentant un risque élevé.",
+      "url": "https://www.sciencesetavenir.fr/sante/melanome-la-promesse-des-vaccins-anticancer-personnalises-se-concretise_195871?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0d33241-ar-1751849-tf-68438329-1-notext-jpg.jpg",
+      "date": "2026-11-20T13:00:00+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Elle pleure du sang chaque mois : les médecins soupçonnent une maladie là où personne ne l'attendait",
+      "desc": "Une adolescente pleure du sang à chaque fois qu'elle a ses règles. Les examens médicaux reviennent tous normaux. Les médecins d'Istanbul évoquent alors une hypothèse rarissime : de l'endométriose près des yeux. Un cas publié en octobre 2026 qui bouscule les certitudes.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cycle-menstruel-elle-pleure-sang-chaque-mois-medecins-soupconnent-maladie-personne-ne-attendait-k8p9-139419/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/8/e/d8ec907c82_50263480_larmes-sang-menstruations.jpg",
+      "date": "2026-11-20T10:00:00+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "\"Dès que le virus arrive, il est détruit\" : des chercheurs français développent un vaccin nasal contre les futures pandémies",
+      "desc": "À l'Institut Pasteur de Lille, des scientifiques travaillent à la mise au point d'un vaccin nasal capable de protéger contre de futurs virus respiratoires. Leur objectif est de développer des molécules permettant de renforcer la réponse immunitaire et réagir rapidement en cas de pandémie.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/des-que-le-virus-arrive-il-est-detruit-des-chercheurs-francais-developpent-un-vaccin-nasal-contre-les-futures-pandemies_8270114.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/Wt5-juVAXiBzv_r9RlC-IHAG4Nc/0x378:4032x2646/432x243/filters:format(jpg)/2026/11/19/6aff1e065d7c1046839418.jpg",
+      "date": "2026-11-20T08:46:46+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« J’avais peur de tuer ma famille » : Amelle raconte l’enfer des phobies d’impulsion qui rythment sa vie",
+      "desc": "Depuis l’âge de 8 ans, Amelle souffre de phobies d’impulsion, des TOC qui lui font craindre de commettre des actes contraires à sa volonté. Aujourd’hui, elle témoigne pour briser le tabou autour de ce trouble méconnu",
+      "url": "https://www.20minutes.fr/societe/4263867-20261120-peur-tuer-famille-amelle-raconte-enfer-phobies-impulsion-rythment-vie?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/7vDHBRHTRJWFXiKoU6Awkik/1200x768_depuis-age-8-ans-amelle-souffre-phobies-impulsion-forme-toc-pensees-intrusives-font-craindre-commettre-actes-contraires-volonte-aujourd-hui-apprend-vi",
+      "date": "2026-11-20T07:02:36+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Alimentation, tabagisme, sédentarité ou stress... La Haute Autorité de Santé souligne l'importance du mode de vie face aux risques cardiovasculaires",
       "desc": "Les maladies cardiovasculaires sont la deuxième cause de mortalité en France, après le cancer. Pour mieux prévenir les accidents cardiaques, la Haute Autorité de Santé recommande aux médecins de tenir davantage compte du mode de vie des patients.",
@@ -21,36 +91,6 @@
       "date_formatted": "20 November 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "La circulation du Covid-19 repart à la hausse, mais l'impact sur les hopitaux du virus reste faible",
-      "desc": "Les différents indicateurs compilés par le service d'enquête numérique de Radio France montrent une importante circulation du Covid-19 ces derniers jours. En revanche, les autorités sanitaires précisent que, pour l'instant, l'impact reste \"limité sur le recours aux soins.",
-      "url": "https://www.franceinfo.fr/sante/maladie/coronavirus/la-circulation-du-covid-19-repart-a-la-hausse-mais-l-impact-sur-les-hopitaux-du-virus-reste-faible_8290619.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/fekt6q-GkS_y4N2OwTJR4iunUKA/432x243/filters:format(jpg)/2026/09/30/6abd385f496c4845380467.jpg",
-      "date": "2026-11-20T05:00:03+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Génocide des Rohingyas : Min Aung Hlaing, l’architecte de la machine de mort birmane",
-      "desc": "La décision de la Cour internationale de justice, ce jeudi 19 novembre, met en lumière le rôle de l’actuel président, qui dirigeait l’armée lors des massacres de 2016 et 2017 dans la communauté musulmane.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/min-aung-hlaing-larchitecte-de-la-machine-de-mort-birmane-contre-les-rohingyas-20261120_ODGW6OWDNVC4FBO3ZPCFC7IC24/",
-      "image": null,
-      "date": "2026-11-20T04:22:00+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Fontenay-sous-Bois : un mort et au moins cinq blessés dans un violent incendie d’habitation",
-      "desc": "L’origine du sinistre, qui s’est déclaré en fin d’après-midi ce jeudi 19 novembre dans une barre d’immeuble de la commune du Val-de-Marne en région parisienne, est pour l’instant inconnue. Au moins deux personnes sont gravement blessées.",
-      "url": "https://www.liberation.fr/societe/fontenay-sous-bois-un-mort-et-au-moins-cinq-blesses-dans-un-violent-incendie-dhabitation-20261119_I6V6AROPQ5DK3F36BL64FKDTU4/",
-      "image": null,
-      "date": "2026-11-19T21:05:19+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Aide à mourir : \"Ce qu'il y a de primordial, c'est la formation technique et humaine\" pour le président de la Fédération nationale des infirmiers",
@@ -273,16 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "Plus de neuf manifestantes sur dix affirment avoir ressenti des troubles gynécologiques après avoir été exposées au gaz lacrymogène, selon un collectif",
-      "desc": "Depuis le début du mouvement lycéen, les témoignages de manifestantes relatant des troubles gynécologiques se multiplient sur les réseaux sociaux. Pour mieux comprendre le phénomène, le collectif Lacrymos de sang a mené une enquête auprès de 10 000 internautes et présenté ses conclusions devant les ",
-      "url": "https://www.franceinfo.fr/societe/manifestations/plus-de-neuf-manifestantes-sur-dix-affirment-avoir-ressenti-des-troubles-gynecologiques-apres-avoir-ete-exposees-au-gaz-lacrymogene-selon-un-collectif_8286335.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/7UXpqg1RWCka9Y1DVzh4I3Kdg54/0x61:1024x637/432x243/filters:format(jpg)/2026/11/17/6afc355162b4b002220419.jpg",
-      "date": "2026-11-17T18:08:48+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer du sein : un traitement réduit le risque de décès de 19 %, une avancée majeure après six ans d'études",
       "desc": "Un médicament qui repousse les limites du cancer du sein précoce. Kisqali, développé par le laboratoire suisse Novartis, vient de attester une réduction de 19 % du risque de décès après six ans de suivi clinique. Des chiffres qui ont surpris jusqu'aux chercheurs eux-mêmes.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-traitement-reduit-risque-deces-19-avancee-majeure-apres-six-ans-etudes-k8p9-139370/#xtor%3DRSS-8",
@@ -311,16 +341,6 @@
       "date_formatted": "17 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Six mois après le début de l'épidémie d'Ebola en RDC, \"la situation est dramatique et les enfants restent les plus vulnérables\", selon l'Unicef",
-      "desc": "Les enfants représentent à eux seuls plus d'un quart des cas d'Ebola, et un tiers des décès en RDC. \"On travaille donc sur une détection précoce du virus pour réduire le taux de mortalité\", souligne Jérome Kouachi, responsable des programmes d'urgence de l'Unicef en RDC.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/six-mois-apres-le-debut-de-l-epidemie-d-ebola-en-rdc-la-situation-est-dramatique-et-les-enfants-restent-les-plus-vulnerables-selon-l-unicef_8286533.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/1lIe26CuJRbmjoRiwMOL-l4KtFg/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/04/6aeb7c881dc3b676597078.jpg",
-      "date": "2026-11-17T13:48:36+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "« Jusqu'à 55 % de risque en moins » : ce que l'on sait du lien entre ce vaccin contre la grippe pas comme les autres et Alzheimer",
@@ -393,34 +413,14 @@
       "type": "science"
     },
     {
-      "title": "« Une stratégie simple » : cette habitude quotidienne est associée à un risque plus faible de démence, même plusieurs années plus tard",
-      "desc": "Selon une étude récente menée auprès de près de 88 000 personnes âgées, celles qui pratiquent une routine quotidienne simple protègent leur cerveau contre le déclin cognitif.",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-strategie-simple-cette-habitude-quotidienne-associee-risque-plus-faible-demence-meme-plusieurs-annees-plus-tard-139217/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/0/1/b/01bf59bef3_50263118_homme-lecture-1.jpg",
-      "date": "2026-11-16T13:01:29+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Résistance des bactéries aux médicaments : l’OMS note des progrès, mais appelle à redoubler d’efforts",
       "desc": "Les bactéries développent depuis longtemps une résistance aux médicaments conçus pour les combattre, rendant de nombreuses molécules inefficaces. Au total, 39 millions de morts pourraient être imputables à la résistance aux antimicrobiens d’ici à 2050.",
       "url": "https://www.lemonde.fr/sante/article/2026/11/16/resistance-des-bacteries-aux-medicaments-l-oms-note-des-progres-mais-appelle-a-redoubler-d-efforts_6811683_1651302.html",
       "image": "https://img.lemde.fr/2025/07/17/173/0/3000/1500/644/322/60/0/9e1e69a_upload-1-ce1dmbounuhh-frame-253.jpg",
       "date": "2026-11-16T10:47:06+00:00",
       "date_formatted": "16 November 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Cancer de la prostate : après près de 8 ans de suivi, cette triple association offre presque 2 ans de vie en plus",
-      "desc": "Un chiffre qui change tout : deux années de vie supplémentaires. Pour les patients atteints d'un cancer de la prostate avec métastases, cette avancée publiée fin octobre 2026 représente bien plus qu'une statistique. Comment un simple comprimé ajouté au traitement existant peut-il bouleverser le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-prostate-cancer-prostate-apres-pres-8-ans-suivi-cette-triple-association-offre-presque-2-ans-vie-plus-k8p9-139329/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/3/2/c32165fec6_50263313_2-cancer-prostate.jpg",
-      "date": "2026-11-16T10:00:00+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
+      "source": "Le Monde Santé",
+      "type": "presse"
     },
     {
       "title": "Salomé Saqué, essayiste : « Il est temps de faire des douleurs des femmes un enjeu politique qui concerne aussi les hommes »",
@@ -479,16 +479,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0de53ed-ar-1751851-tf-68438331-1-notext-jpg.jpg",
       "date": "2026-11-10T13:00:00+00:00",
       "date_formatted": "10 November 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du sein : mieux suivre la maladie grâce à une prise de sang",
-      "desc": "Longtemps attendue, la biopsie liquide s’impose peu à peu dans le suivi du cancer du sein. Une simple prise de sang pourrait bientôt permettre de détecter les résistances aux traitements et d’anticiper les rechutes.",
-      "url": "https://www.sciencesetavenir.fr/sante/biopsie-liquide-une-prise-de-sang-pour-mieux-suivre-le-cancer-du-sein_195862?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac08c0a99-ar-1751831-tf-68438305-1-normal-jpg.jpg",
-      "date": "2026-11-07T13:00:00+00:00",
-      "date_formatted": "7 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
