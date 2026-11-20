@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-20T14:29:48.952003+00:00",
-  "count": 54,
+  "generated_at": "2026-11-20T23:27:08.509674+00:00",
+  "count": 50,
   "articles": [
+    {
+      "title": "Cancer de la vessie : vers des traitements plus efficaces et moins invasifs ?",
+      "desc": "De nouvelles stratégies thérapeutiques améliorent la prise en charge du cancer de la vessie, notamment lorsque la tumeur a atteint le muscle. Associations d'immunothérapie et d'anticorps conjugués, dispositifs intravésicaux et biomarqueurs : tour d'horizon des avancées récentes.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer-de-la-vessie-de-nouvelles-armes-pour-mieux-combattre-la-maladie_195869?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0c5a417-ar-1751845-tf-68438317-1-notext-jpg.jpg",
+      "date": "2026-11-20T17:00:00+00:00",
+      "date_formatted": "20 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Parkinson : les chercheurs ont repéré un signe dans la marche jusqu'à 7 ans avant le diagnostic",
       "desc": "Et si les premiers signes de la maladie de Parkinson se cachaient dans notre façon de marcher ? Des chercheurs ont découvert que de subtiles différences dans les mouvements des bras pouvaient être observées près de sept ans avant le diagnostic. Une piste prometteuse qui pourrait, à terme, aider...",
@@ -11,26 +21,6 @@
       "date_formatted": "20 November 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Cinquantenaire de la mort d’André Malraux : correspondances et rééditions pour discourir le monde",
-      "desc": "A l’occasion des cinquante ans de la mort de l’écrivain et mythique ministre de la Culture paraissent ses «Correspondances» avec Roger Martin du Gard et Gaëtan Picon. Son mémorable discours lors de l’entrée de Jean Moulin au Panthéon est réédité.",
-      "url": "https://www.liberation.fr/culture/livres/cinquantenaire-de-la-mort-dandre-malraux-correspondances-et-reeditions-pour-discourir-le-monde-20261120_AK7SQHGPKNHATOP5DD3QFRTWZ4/",
-      "image": null,
-      "date": "2026-11-20T13:47:00+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Manifestant mort d’un malaise le 17 octobre à Paris : les analyses de sang n’ont pas permis de trouver de gaz lacrymogène",
-      "desc": "Les analyses sanguines de Christophe M., âgé de 59 ans, révélées par la presse ce vendredi 20 novembre, ont en revanche mis au jour des traces d’alcool, de cocaïne, de cannabis et de méthadone.",
-      "url": "https://www.liberation.fr/societe/police-justice/manifestant-mort-dun-malaise-le-17-octobre-a-paris-les-analyses-nont-pas-permis-de-trouver-de-gaz-lacrymogene-20261120_YSJMAKZGWVCONM66VTZ36AKSSQ/",
-      "image": null,
-      "date": "2026-11-20T13:04:36+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Mélanome : des résultats positifs pour un vaccin anticancer sur mesure",
@@ -237,7 +227,7 @@
       "desc": "Unique représentant connu de son espèce, le « Dubreuillosaurus valesdunensis », découvert en Normandie en 1994, a été menacé de vente aux enchères à la mort de son propriétaire. Refusant qu’il soit livré aux appétits du marché privé, le milieu de la paléontologie a lutté pour l’intégrer aux collecti",
       "url": "https://www.lemonde.fr/sciences/article/2026/11/18/comment-une-mobilisation-scientifique-a-permis-a-un-dinosaure-normand-d-echapper-a-une-vente-aux-encheres_6813121_1650684.html",
       "image": "https://img.lemde.fr/2026/11/17/113/0/908/454/644/322/60/0/ce21b9f_upload-1-oa5dvyasb1cb-maquette-du-cra-ne-de-dubreuillosaurus-re-alise-e-en-2005-par-renaud-vacant-assistant-inge-nieur-du-cnrs-c-renaud-vacant.png",
-      "date": "2026-11-18T12:45:20+00:00",
+      "date": "2026-11-18T12:45:18+00:00",
       "date_formatted": "18 November 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -270,16 +260,6 @@
       "date": "2026-11-18T06:00:16+00:00",
       "date_formatted": "18 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des médicaments moins efficaces à cause de votre ADN",
-      "desc": "Un médicament fonctionne bien sur votre voisin mais moins bien sur vous ? C’est peut-être à cause de votre ADN, selon une étude menée par des chercheurs de l’université de Pittsburgh, en Pennsylvanie. #franceinfoRF 🖊 Ludovic Pauchant",
-      "url": "https://www.franceinfo.fr/sante/des-medicaments-moins-efficaces-a-cause-de-votre-adn_8284787.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/JGYsI31SaDJTNfU-neBg9-oYjzs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/16/6afae9c656538296073263.jpg",
-      "date": "2026-11-18T06:00:02+00:00",
-      "date_formatted": "18 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -393,16 +373,6 @@
       "type": "presse"
     },
     {
-      "title": "PFAS : deux polluants éternels associés à une hausse du risque d'un cancer du sein agressif pouvant atteindre 93 %",
-      "desc": "Ils sont dans l’eau, les emballages alimentaires, les ustensiles de cuisine et même dans notre organisme. Les PFAS, surnommés « polluants éternels », sont déjà connus pour leurs effets préoccupants sur la santé. Mais une nouvelle étude américaine vient de mettre en évidence qu’ils pourraient...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-pfas-deux-polluants-eternels-associes-hausse-risque-cancer-sein-agressif-pouvant-atteindre-93-139374/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/9/b/39b75281ae_50263398_3-cancer-sein.jpg",
-      "date": "2026-11-16T17:29:54+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Paul-Henri Rebut, pionnier de la recherche sur la fusion nucléaire contrôlée, est mort",
       "desc": "Cet ingénieur et physicien avait développé et dirigé d’importantes expériences en vue de produire de l’électricité en fusionnant des atomes légers. Il s’est éteint le 3 novembre à l’âge de 91 ans.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/11/16/paul-henri-rebut-pionnier-de-la-recherche-sur-la-fusion-nucleaire-controlee-est-mort_6812129_3382.html",
@@ -469,16 +439,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0a46093-ar-1751839-tf-68438311-1-notext-jpg.jpg",
       "date": "2026-11-11T14:00:00+00:00",
       "date_formatted": "11 November 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Quand les tumeurs piratent le système nerveux",
-      "desc": "Longtemps considéré comme un simple voisin des tumeurs, le système nerveux apparaît aujourd’hui comme un acteur à part entière de leur développement. Une découverte qui ouvre de nouvelles perspectives thérapeutiques.",
-      "url": "https://www.sciencesetavenir.fr/sante/quand-les-tumeurs-piratent-le-systeme-nerveux_195872?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0de53ed-ar-1751851-tf-68438331-1-notext-jpg.jpg",
-      "date": "2026-11-10T13:00:00+00:00",
-      "date_formatted": "10 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
