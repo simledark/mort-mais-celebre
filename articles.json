@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-11-21T04:32:37.871139+00:00",
-  "count": 50,
+  "generated_at": "2026-11-21T13:48:46.959069+00:00",
+  "count": 51,
   "articles": [
+    {
+      "title": "Chronothérapie : et si l’heure du traitement faisait la différence ?",
+      "desc": "Le bon médicament au bon moment. Apparue il y a une trentaine d’années, la chronothérapie cherche à adapter les traitements à notre horloge biologique et au rythme d’activité des cellules concernées.",
+      "url": "https://www.sciencesetavenir.fr/sante/remettre-les-gelules-a-l-heure_195959?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/05/cover-r4x3w1200-6aec92f8ed5ba-ar-1747003-tf-68278637-1-notext-jpg.jpg",
+      "date": "2026-11-21T13:00:00+00:00",
+      "date_formatted": "21 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Un mois après l’attentat de Trappes, Samba Coulibaly, le dernier blessé en urgence absolue, est sorti du coma",
+      "desc": "Les jours de l’agent d’entretien de 29 ans, entre la vie et la mort après avoir été perforé par onze balles par Kévin Tessier, ne sont plus en danger, a annoncé son avocat cette semaine. L’état de santé de Ramatou, 11 ans, elle aussi victime de l’attaque, s’améliore également.",
+      "url": "https://www.liberation.fr/societe/attentat-de-trappes-samba-coulibaly-victime-de-lattaque-est-sorti-du-coma-apres-plusieurs-semaines-20261119_GKOAYY7WTBH3JNXVZ3BK3XXBNE/",
+      "image": null,
+      "date": "2026-11-21T12:24:19+00:00",
+      "date_formatted": "21 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "« On est à 500 nouveaux cas par semaine » : Handicap International alerte sur la propagation du virus Ebola en RDC",
+      "desc": "L’ONG voit son action sur le terrain par différents phénomènes, dont certains culturels",
+      "url": "https://www.20minutes.fr/monde/4264646-20261121-500-nouveaux-cas-semaine-handicap-international-alerte-propagation-virus-ebola-rdc?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/lrPO7EGBTgG8evjLmvSREyk/1200x768_les-agents-de-sante-ont-revetu-un-equipement-de-protection-individuelle-avant-de-transferer-le-corps-d-une-victime-du-virus-ebola-devant-une-morgue-de-bunia-au-congo-le-dimanche-15-novembre-2026-ap-photo-dieudonne-dirole-xms101-26319787617498-2611152307",
+      "date": "2026-11-21T10:30:04+00:00",
+      "date_formatted": "21 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au Brésil, Lula reconnaît les terres ancestrales du chef Raoni",
+      "desc": "En signant une ordonnance pour protéger ce territoire du Mato Grosso, le président brésilien réalise en geste fort en faveur des populations indigènes. Mais sa décision attise les tensions avec les propriétaires agricoles, très présents dans la région.",
+      "url": "https://www.liberation.fr/international/amerique/au-bresil-lula-reconnait-les-terres-ancestrales-du-chef-raoni-20261121_GJLXDOY2RBHHXBPNCHNOVNE3OU/",
+      "image": null,
+      "date": "2026-11-21T10:09:45+00:00",
+      "date_formatted": "21 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Arrêter de fumer : une vaste analyse révèle une bonne nouvelle inattendue pour notre cerveau",
+      "desc": "Plus on fume de cigarettes par jour, plus le risque de démence augmente, selon une vaste analyse menée auprès de près de 2,8 millions de personnes. Mais les chercheurs se sont aussi intéressés à ceux qui avaient arrêté de fumer.",
+      "url": "https://www.futura-sciences.com/sante/actualites/mois-tabac-arreter-fumer-vaste-analyse-revele-bonne-nouvelle-inattendue-notre-cerveau-139427/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/c/d/3cd420610c_50263521_arret-tabac-demence.jpg",
+      "date": "2026-11-21T06:08:25+00:00",
+      "date_formatted": "21 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Cancer de la vessie : vers des traitements plus efficaces et moins invasifs ?",
       "desc": "De nouvelles stratégies thérapeutiques améliorent la prise en charge du cancer de la vessie, notamment lorsque la tumeur a atteint le muscle. Associations d'immunothérapie et d'anticorps conjugués, dispositifs intravésicaux et biomarqueurs : tour d'horizon des avancées récentes.",
@@ -343,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer du poumon : cette IA quantique atteint 91,9 % de prédictions correctes avec seulement 108 exemples",
-      "desc": "L'informatique quantique pourrait, à terme, aider à identifier les personnes présentant un risque de cancer du poumon à partir d'un nombre limité d'informations médicales. C'est ce que suggère une étude américaine ayant comparé plusieurs méthodes d'intelligence artificielle quantique.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-cancer-poumon-cette-ia-quantique-atteint-919-predictions-correctes-seulement-108-exemples-139355/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/5/3/453378f866_50263352_quantique-cancer-poumonjpg.jpg",
-      "date": "2026-11-17T09:05:59+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Immunothérapie, génétique : les nouvelles pistes pour le traitement du cancer du poumon",
       "desc": "Longtemps associé à un pronostic particulièrement sombre, le cancer du poumon bénéficie aujourd’hui d’avancées thérapeutiques. Anticorps bispécifiques, immunothérapies et traitements ciblés bouleversent progressivement sa prise en charge, en permettant de prolonger la survie des patients et de frein",
       "url": "https://www.sciencesetavenir.fr/sante/adapter-le-traitement-au-profil-genetique_195867?xtor=RSS-16",
@@ -371,16 +411,6 @@
       "date_formatted": "17 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Paul-Henri Rebut, pionnier de la recherche sur la fusion nucléaire contrôlée, est mort",
-      "desc": "Cet ingénieur et physicien avait développé et dirigé d’importantes expériences en vue de produire de l’électricité en fusionnant des atomes légers. Il s’est éteint le 3 novembre à l’âge de 91 ans.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/11/16/paul-henri-rebut-pionnier-de-la-recherche-sur-la-fusion-nucleaire-controlee-est-mort_6812129_3382.html",
-      "image": "https://img.lemde.fr/2026/11/16/214/0/1256/628/644/322/60/0/852ca46_upload-1-r4bunazqnft3-rebut-2-jpg-1024-crop.jpg",
-      "date": "2026-11-16T16:32:38+00:00",
-      "date_formatted": "16 November 2026",
-      "source": "Le Monde Science",
-      "type": "science"
     },
     {
       "title": "Résistance des bactéries aux médicaments : l’OMS note des progrès, mais appelle à redoubler d’efforts",
@@ -413,32 +443,12 @@
       "type": "science"
     },
     {
-      "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
-      "desc": "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces. En proposant de transférer 200 millions d’euros de prise en charge des cures aux complémentaires de santé, le gouvernement a provoqué une fronde chez les professionnels et l",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
-      "image": "https://img.lemde.fr/2026/11/11/648/0/7784/3892/644/322/60/0/8c07bff_upload-1-idy6bwvje7rc-20250628lmt2372.jpg",
-      "date": "2026-11-15T10:00:10+00:00",
-      "date_formatted": "15 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Un nouvel espoir contre le cancer du pancréas",
       "desc": "C’est une avancée que les spécialistes n’attendaient plus vraiment. Pour la première fois, un médicament semble parvenir à faire reculer significativement l’un des cancers les plus redoutables.",
       "url": "https://www.sciencesetavenir.fr/sante/cancer-du-pancreas-la-percee-du-daraxonrasib_195859?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0739911-ar-1751825-tf-68438303-1-notext-jpg.jpg",
       "date": "2026-11-14T09:00:00+00:00",
       "date_formatted": "14 November 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer colorectal : l’immunothérapie pour éviter la chirurgie",
-      "desc": "Grâce aux progrès de l’immunothérapie, certains patients atteints d’un cancer du rectum peuvent désormais éviter la chirurgie et ses lourdes conséquences.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-colorectal-l-immunotherapie-pour-eviter-la-chirurgie_195866?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0a46093-ar-1751839-tf-68438311-1-notext-jpg.jpg",
-      "date": "2026-11-11T14:00:00+00:00",
-      "date_formatted": "11 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
