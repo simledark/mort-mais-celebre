@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-23T04:24:52.674221+00:00",
-  "count": 50,
+  "generated_at": "2026-11-23T16:41:14.298349+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "Eure : Cette association aide les malades d’Alzheimer à entretenir leur mémoire avec des jeux",
+      "desc": "Le Lions Club de Vernon a offert, début novembre, deux valises mémoire aux résidents de l’Ehpad Auguste-Ridou pour lutter contre la maladie, rapporte « Le Démocrate Vernonnais »",
+      "url": "https://www.20minutes.fr/societe/4265093-20261123-eure-association-aide-malades-alzheimer-entretenir-memoire-jeux?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/34tvSN_LTIyjue_hhwJ4USk/1200x768_dealing-with-the-late-breaking-heat-wave-in-france-at-ehpad-henri-dunant-in-bordeaux-some-rooms-have-been-air-conditioned-and-residents-are-encouraged-to-drink-water-regularly-bordeaux-august-22-2023-amezugo-002398-credit-ugo-amez-sipa-2308221212",
+      "date": "2026-11-23T15:44:05+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Une femme très originale et un esprit universel» : mort de Catherine Clément, philosophe passionnée de l’Inde",
+      "desc": "La romancière qui avait publié il y a quelques jours son dernier roman, avait 87 ans. Elle a été journaliste au «Matin de Paris» et productrice à France Culture. C’était la sœur de Jérôme Clément, l’ancien président de la chaîne Arte.",
+      "url": "https://www.liberation.fr/culture/livres/une-femme-tres-originale-et-un-esprit-universel-mort-de-catherine-clement-philosophe-passionnee-de-linde-20261123_Q76PIY5U5RGDNN5U3TW5XIG5KA/",
+      "image": null,
+      "date": "2026-11-23T15:40:29+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Types cagoulés tirant au mortier» liés au député Louis Boyard : le ministre Jeanbrun incapable d’étayer ses accusations",
+      "desc": "Le 22 novembre sur CNews, le ministre du Logement laissait entendre que l’élu insoumis était rattaché à «des types cagoulés [tirant] au mortier sur les forces de l’ordre». Interrogé par «CheckNews», son cabinet n’a fourni aucun élément de preuve sérieux.",
+      "url": "https://www.liberation.fr/checknews/types-cagoules-tirant-au-mortier-lies-au-depute-louis-boyard-le-ministre-jeanbrun-incapable-detayer-ses-accusations-20261123_E5U2S2BR4VGFRFRS4NRR56JB2M/",
+      "image": null,
+      "date": "2026-11-23T14:39:11+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. \"Comme des aiguilles dans l'intérieur du cou et du crâne\" : les premiers traitements efficaces contre le syndrome de Sjögren ont été présentés",
+      "desc": "Des chercheurs ont trouvé quatre nouveaux médicaments contre cette maladie auto-immune qui prive de larmes et salive, et pour laquelle il n'existait jusqu'alors aucun traitement : la maladie de Sjögren, qui touche principalement des femmes. Franceinfo a rencontré une patiente qui a pu tester l'un de",
+      "url": "https://www.franceinfo.fr/sante/premiers-traitements-efficaces-contre-la-maladie-de-sjogren-une-maladie-auto-immune-qui-prive-de-larmes-et-salive_8295764.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/WmSHdYiGuDZH9tSzcmmllqWzr0o/0x110:2120x1303/432x243/filters:format(jpg)/2026/11/23/6b042468045d5404667036.jpg",
+      "date": "2026-11-23T12:33:49+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "En Russie, les frappes ukrainiennes sur les raffineries touchent au brut",
+      "desc": "De la production de carburants aux finances publiques, les attaques de Kyiv accentuent les difficultés d’un secteur stratégique, déjà fragilisé par les sanctions et le vieillissement de ses gisements.",
+      "url": "https://www.liberation.fr/international/europe/en-russie-les-frappes-ukrainiennes-sur-les-raffineries-touchent-au-brut-20261123_VTOROTMCCJHGDEKFLJBH3EF3CQ/",
+      "image": null,
+      "date": "2026-11-23T11:53:28+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Une simple photo de votre visage pourrait révéler votre âge biologique, selon une nouvelle étude",
+      "desc": "Une simple photo de visage pourrait bientôt renseigner votre médecin sur vos chances de survie face au cancer. Des chercheurs américains ont développé une IA capable de lire des signaux biologiques invisibles à l'œil nu directement sur vos traits. Quarante millions d'images analysées, deux...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-simple-photo-votre-visage-pourrait-reveler-votre-age-biologique-selon-nouvelle-etude-k8p9-139520/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/1/2/0/120560b09e_50263696_detection-age-survie-cancer-visage.jpg",
+      "date": "2026-11-23T10:00:00+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Les protocoles d’aide à mourir suscitent des interrogations parmi les soignants : « Il n’existe pas de pilule létale magique, mourir n’est jamais simple »",
+      "desc": "Rendues publiques le 19 novembre, les recommandations de la Haute Autorité de santé sur les substances létales permettant d’appliquer la loi sont diversement accueillies par les médecins et infirmiers, en première ligne face aux demandes de patients. Les décrets d’application du texte sont attendus ",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/23/aide-a-mourir-il-n-existe-pas-de-pilule-letale-magique-mourir-n-est-jamais-simple_6814359_3224.html",
+      "image": "https://img.lemde.fr/2026/11/23/492/0/5901/2950/644/322/60/0/338f388_upload-1-ky8b9c7zlhsy-000-499j9g2.jpg",
+      "date": "2026-11-23T09:08:45+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des défis considérables pour endiguer l'épidémie d'Ebola en RDC, selon Handicap International",
+      "desc": "Dans la lutte contre Ebola, les autorités sanitaires sont confrontés à trois défis majeurs: l'accès aux zones infectés, l'insécurité et la méfiance des communautés touchées.",
+      "url": "https://www.sciencesetavenir.fr/sante/des-defis-considerables-pour-endiguer-l-epidemie-d-ebola-en-rdc-selon-handicap-international_196339?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/21/cover-r4x3w1200-6b016513e63b2-38cc43e9c7999139dc245c0eae968a22c687997b-jpg.jpg",
+      "date": "2026-11-23T08:58:07+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
     {
       "title": "Une patiente atteinte d’un cancer du sein bénéficie d’un examen inédit pour contrer sa réaction allergique",
       "desc": "L’institut Gustave-Roussy, dans le Val-de-Marne, a réalisé un scanner pulmonaire sans iode sur une patiente allergique, une première mondiale selon Actu Paris. Une prouesse permise par un appareil de dernière génération",
@@ -163,16 +243,6 @@
       "type": "presse"
     },
     {
-      "title": "« J’avais peur de tuer ma famille » : Amelle raconte l’enfer des phobies d’impulsion qui rythment sa vie",
-      "desc": "Depuis l’âge de 8 ans, Amelle souffre de phobies d’impulsion, des TOC qui lui font craindre de commettre des actes contraires à sa volonté. Aujourd’hui, elle témoigne pour briser le tabou autour de ce trouble méconnu",
-      "url": "https://www.20minutes.fr/societe/4263867-20261120-peur-tuer-famille-amelle-raconte-enfer-phobies-impulsion-rythment-vie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/7vDHBRHTRJWFXiKoU6Awkik/1200x768_depuis-age-8-ans-amelle-souffre-phobies-impulsion-forme-toc-pensees-intrusives-font-craindre-commettre-actes-contraires-volonte-aujourd-hui-apprend-vi",
-      "date": "2026-11-20T07:02:36+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Alimentation, tabagisme, sédentarité ou stress... La Haute Autorité de Santé souligne l'importance du mode de vie face aux risques cardiovasculaires",
       "desc": "Les maladies cardiovasculaires sont la deuxième cause de mortalité en France, après le cancer. Pour mieux prévenir les accidents cardiaques, la Haute Autorité de Santé recommande aux médecins de tenir davantage compte du mode de vie des patients.",
       "url": "https://www.franceinfo.fr/sante/alimentation-tabagisme-sedentarite-ou-stress-la-haute-autorite-de-sante-souligne-l-importance-du-mode-de-vie-face-aux-risques-cardiovasculaires_8290709.html#xtor=RSS-3-%5Bsante%5D",
@@ -187,20 +257,10 @@
       "desc": "« La vie cachée des plantes ». Une lésion foliaire provoque un refroidissement rapide, ce qui active des gènes induisant le dépôt de biomolécules sur la plaie. La cicatrisation est ainsi favorisée.",
       "url": "https://www.lemonde.fr/sciences/article/2026/11/20/quand-les-feuilles-soignent-leurs-blessures-par-le-froid_6813588_1650684.html",
       "image": "https://img.lemde.fr/2026/11/15/254/0/502/251/644/322/60/0/25f14eb_upload-1-u2o0evjqljzv-default.jpg",
-      "date": "2026-11-20T06:00:28+00:00",
+      "date": "2026-11-20T06:00:07+00:00",
       "date_formatted": "20 November 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Aide à mourir : \"Ce qu'il y a de primordial, c'est la formation technique et humaine\" pour le président de la Fédération nationale des infirmiers",
-      "desc": "La Haute Autorité de santé a publié ce jeudi un texte de recommandation pour encadrer l'aide à mourir.",
-      "url": "https://www.franceinfo.fr/sante/aide-a-mourir-ce-qu-il-y-a-de-primordial-c-est-la-formation-technique-et-humaine-pour-le-president-de-la-federation-nationale-des-infirmiers_8290340.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/gIfNu9OHC9sGZJt49y7rtdFjFFk/0x223:4299x2642/432x243/filters:format(jpg)/2026/11/19/6aff217ea1621467605739.jpg",
-      "date": "2026-11-19T17:20:19+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Aide à mourir : Produits, complications… Un guide pour encadrer la pratique",
@@ -253,16 +313,6 @@
       "type": "science"
     },
     {
-      "title": "La grippe débarque, déjà deux régions en pré-épidémie",
-      "desc": "Les régions Île-de-France et Hauts-de-France sont passés en pré-épidémie, avec des cas de grippe qui augmentent ces derniers jours",
-      "url": "https://www.20minutes.fr/sante/4264038-20261119-grippe-debarque-deja-deux-regions-pre-epidemie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/TvJ1qZszTWyixrWzy_V_Rik/1200x768_vaccination-contre-l-epidemie-de-grippe-2024-2025-disponible-dans-certaines-pharmacies-en-fonction-de-l-approvisionnement-des-stocks-archive-nice-france-21-10-2024-syspeo-sys-a007-credit-syspeo-sipa-2501211524",
-      "date": "2026-11-19T08:26:21+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Nous avons analysé les résultats de 51 études sur le ralentissement du vieillissement » : voici les bonnes habitudes qui font vraiment vivre plus longtemps",
       "desc": "Des chercheurs ont analysé les résultats de 51 études ayant mesuré plus de 110 biomarqueurs liés au vieillissement. Il se sont intéressés aux effets de diverses interventions (alimentation, exercice physique, prise de certains médicaments et compléments alimentaires) sur ces biomarqueurs....",
       "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-nous-avons-analyse-resultats-51-etudes-ralentissement-vieillissement-voici-bonnes-habitudes-font-vraiment-vivre-plus-longtemps-139412/#xtor%3DRSS-8",
@@ -273,16 +323,6 @@
       "type": "science"
     },
     {
-      "title": "Pays-Bas : Les médecins retirent à un patient une tumeur de la taille d’un ballon de basket",
-      "desc": "Pour retirer l’énorme tumeur d’un patient, des médecins néerlandais ont dû temporairement extraire ses intestins de son corps",
-      "url": "https://www.20minutes.fr/monde/4263900-20261118-pays-bas-medecins-retirent-patient-tumeur-taille-ballon-basket?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/oUUC6l5ISx-JV0WGWjARSCk/1200x768_illustration-d-une-operation-de-chirurgie",
-      "date": "2026-11-18T15:32:37+00:00",
-      "date_formatted": "18 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Vingt ans de gestion de l’hépatite C chez les usagers de drogues en France",
       "desc": "L’hépatite C, qui affecte près de 50 millions de personnes dans le monde, est une maladie pouvant être mortelle. Les personnes consommatrices de substances par injection représentent jusqu’à 70 % des cas dans le monde. En France, depuis 2004, l’Inserm, l’ANRS MIE, Santé publique France et le CHU de ",
       "url": "https://presse.inserm.fr/vingt-ans-de-gestion-de-lhepatite-c-chez-les-usagers-de-drogues-en-france/73700/",
@@ -291,16 +331,6 @@
       "date_formatted": "18 November 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "Charente-Maritime : Un hôpital investit 8 millions d’euros dans deux nouvelles machines pour traiter les cancers",
-      "desc": "Le centre hospitalier de Saintes vient de s’équiper de deux nouveaux accélérateurs de particules Halcyon pour son service de radiothérapie, indique « Sud Ouest »",
-      "url": "https://www.20minutes.fr/sante/4263834-20261118-charente-maritime-hopital-investit-8-millions-euros-deux-nouvelles-machines-traiter-cancers?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/cqw7yFlBSTirt9Vgc1JHkik/1200x768_premiere-en-france-traitement-et-depistage-du-cancer-adulte-et-enfant-sur-les-trois-centres-de-proton-therapie-celui-du-centre-antoine-lacassagne-dispose-d-un-scanner-3d-faible-dose-systeme-cone-beam-ct-integre-permet-de-traiter-de-nouvelles-indications-et-d-etre-au-plus-pres-de-la-tumeur-la-technologie-envoie-les-rayons-avec-une-parfaite-precision-sans-que-la-variation-de-taille-des-tissus-voisins-de-la-tumeur-devient-le-tir-de-ces-rayons-accelerateur-de-protontherapie-haute-energie-proteus-one-et-a-pouvoir-traiter-par-radiotherapie-par-protons-les-particules-de-protons-ont-l-avantage-par-rapport-aux-autres-particules-de-delivrer-leur-dose-sur-la-tumeur-sans-irradier-au-dela-4-fevrier-journee-mondiale-contre-le-cancer-le-departement-des-alpes-maritimes-s-est-associe-avec-le-centre-antoine-lacassagne-et-la-ligue-contre-le-cancer-pour-creer-l-institut-axel-kahn-sa-mission-sera-d-accompagner-chaque-malade-et-son-entourage-en-proposant-une-offre-de-soins-globale-et-personnalisee-cet-institut-devrait-ouvrir-a-l-automne-nice-france-04-02-2022-syspeo-sys-a024-2202051649-credit-syspeo-sipa-2202051656",
-      "date": "2026-11-18T13:33:23+00:00",
-      "date_formatted": "18 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Santé : une proposition de loi pour interdire les gaz lacrymogènes en manifestation",
@@ -371,16 +401,6 @@
       "date_formatted": "17 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Cancer du sein : un traitement réduit le risque de décès de 19 %, une avancée majeure après six ans d'études",
-      "desc": "Un médicament qui repousse les limites du cancer du sein précoce. Kisqali, développé par le laboratoire suisse Novartis, vient de attester une réduction de 19 % du risque de décès après six ans de suivi clinique. Des chiffres qui ont surpris jusqu'aux chercheurs eux-mêmes.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-traitement-reduit-risque-deces-19-avancee-majeure-apres-six-ans-etudes-k8p9-139370/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/d/2/3d29b804ad_50263394_cancer-sein-precoce.jpg",
-      "date": "2026-11-17T18:00:00+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
     },
     {
       "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, annonce l’Organisation panaméricaine de la santé",
