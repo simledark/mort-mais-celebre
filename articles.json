@@ -1,16 +1,106 @@
 {
-  "generated_at": "2026-11-24T03:32:33.053888+00:00",
-  "count": 50,
+  "generated_at": "2026-11-24T16:37:11.503439+00:00",
+  "count": 49,
   "articles": [
     {
-      "title": "Un exilé somalien de 30 ans tué par balles dans un camp près de Dunkerque",
-      "desc": "Une enquête a été ouverte ce lundi 23 novembre après la mort d’un exilé au camp de Loon-Plage, victime de plusieurs coups de feu. Le tireur est toujours en fuite.",
-      "url": "https://www.liberation.fr/societe/police-justice/un-exile-somalien-de-30-ans-tue-par-balles-dans-un-camp-pres-de-dunkerque-20261123_OMH2OOSSTVEDFFWRJSIWLXZOAU/",
+      "title": "Plus de 1 000 victimes en 2025 : les suicides forcés, la «face cachée des féminicides»",
+      "desc": "En plus des 111 féminicides et 333 tentatives, 1 011 femmes se sont suicidées ou ont tenté de le faire en 2025. Comptabilisés depuis trois ans, les chiffres des «féminicides indirects» permettent de sortir de la sous-estimation et de se rapprocher un peu plus de la réalité d’un «phénomène de masse».",
+      "url": "https://www.liberation.fr/societe/droits-des-femmes/plus-de-1-000-victimes-en-2025-les-suicides-forces-la-face-cachee-des-feminicides-20261124_H7SDQRY6QNAILMXDCGRXJOORPM/",
       "image": null,
-      "date": "2026-11-23T20:34:06+00:00",
-      "date_formatted": "23 November 2026",
+      "date": "2026-11-24T16:00:00+00:00",
+      "date_formatted": "24 November 2026",
       "source": "Libération",
       "type": "presse"
+    },
+    {
+      "title": "L'alcool progresse chez les mineurs et reste meurtrier sur les routes",
+      "desc": "L'alcool gagne du terrain chez les mineurs et reste impliqué dans plus d'un quart des décès sur les routes. Un double constat alarmant dressé par l'Observatoire français des drogues et des tendances addictives (OFDT) dans une étude publiée mardi 24 novembre.",
+      "url": "https://www.sciencesetavenir.fr/sante/l-alcool-progresse-chez-les-mineurs-et-reste-meurtrier-sur-les-routes_196379?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/24/cover-r4x3w1200-6b0561bde9d6d-jeune-alcool.jpg",
+      "date": "2026-11-24T15:37:48+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "\"Il y a un déficit important de radiologues\" : le Royaume-Uni lance une expérimentation de dépistage du cancer du sein à grande échelle assistée par l'IA",
+      "desc": "Près de 700 000 femmes devraient participer à un dépistage de cancers du sein grâce à l'intelligence artificielle. Le NHS, l’hôpital public britannique, espère améliorer ainsi les diagnostics alors qu’il fait face à une pénurie de radiologues.",
+      "url": "https://www.franceinfo.fr/sante/cancer/il-y-a-un-deficit-important-de-radiologues-le-royaume-uni-lance-une-experimentation-de-depistage-du-cancer-du-sein-a-grande-echelle-assistee-par-l-ia_8297310.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/Krg6AbjOz4E4oh6yNiiBk_HKdNo/0x243:4790x2937/432x243/filters:format(jpg)/2026/11/24/6b055eace9fab367445570.jpg",
+      "date": "2026-11-24T14:07:33+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "VIH/sida : la chute des financements internationaux fragilise la lutte contre l’épidémie, pointe l’Onusida",
+      "desc": "Si le nombre de morts liés au sida dans le monde est tombé à son niveau le plus bas depuis plus de deux décennies, les financements internationaux des programmes de lutte ont baissé de 18 % en 2025, alerte le programme commun de l’ONU sur le VIH.",
+      "url": "https://www.lemonde.fr/international/article/2026/11/24/vih-sida-la-chute-des-financements-internationaux-fragilise-la-lutte-contre-l-epidemie-pointe-l-onusida_6814760_3210.html",
+      "image": "https://img.lemde.fr/2026/11/24/394/0/4721/2360/644/322/60/0/34e7414_upload-1-cqdlrh046jrk-2025-03-11t071919z-887998235-rc2h3dafnt9q-rtrmadp-3-usa-trump-kenya.JPG",
+      "date": "2026-11-24T13:28:36+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le groupe pharmaceutique français Sanofi va racheter l'américain Insmed pour 37,6 milliards d'euros",
+      "desc": "Via ce rachat, Sanofi s'empare de deux médicaments d'Insmed déjà approuvés contre des maladies pulmonaires chroniques et invalidantes.",
+      "url": "https://www.franceinfo.fr/sante/medicament/le-groupe-pharmaceutique-francais-sanofi-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_8297424.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/34ZVXHTRhbpi57511xxQ5OO6_nY/0x269:5169x3176/432x243/filters:format(jpg)/2026/11/24/6b05644ddb563671571216.jpg",
+      "date": "2026-11-24T11:49:40+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Essonne : Six pharmacies habilitées à vacciner de futurs voyageurs contre des maladies exotiques",
+      "desc": "Grâce à un nouveau protocole de coopération, les officines du sud du département peuvent administrer douze vaccins, selon « Ouest-France »",
+      "url": "https://www.20minutes.fr/sante/4265307-20261124-essonne-six-pharmacies-habilitees-vacciner-futurs-voyageurs-contre-maladies-exotiques?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/DVEnP_iHT3KVGtPs0livlCk/1200x768_un-agent-de-sante-prepare-une-dose-de-vaccin-pfizer-bio-n-tech-contre-le-nouveau-coronavirus-a-injecter-au-departement-de-dermatologie-et-d-allergologie-de-l-universite-de-szeged-a-szeged-en-hongrie-le-samedi-23-janvier-2021-tibor-rosta-mti-via-ap-mti102-21023506466085-2101231755",
+      "date": "2026-11-24T11:14:08+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi les femmes cicatrisent plus vite",
+      "desc": "Le renouvellement des cellules souches cutanées s'avère mieux coordonné sous l'effet des œstrogènes.",
+      "url": "https://www.sciencesetavenir.fr/sante/pourquoi-les-femmes-cicatrisent-plus-vite_196255?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/19/cover-r4x3w1200-6aff08049e0ad-ar-1790687-tf-70235955-1-notext-jpg.jpg",
+      "date": "2026-11-24T08:00:00+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "L’alcool, toujours un fléau sur les routes, en hausse d’expérimentation chez les mineurs",
+      "desc": "Si la consommation d’alcool a baissé chez les adultes, elle reste un danger sur la route et joue un rôle dans un quart des accidents mortels en 2025, selon une étude de l’Observatoire français des drogues et des tendances addictives.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/24/l-alcool-toujours-un-fleau-sur-les-routes-en-hausse-d-experimentation-chez-les-mineurs_6814713_3224.html",
+      "image": "https://img.lemde.fr/2026/11/24/620/0/7441/3720/644/322/60/0/674380e_upload-1-yqtvybss9jze-000-94kj9nq.jpg",
+      "date": "2026-11-24T06:46:25+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Près de 100 % de repousse en un mois : l'étonnant résultat d'un peigne électrique testé contre la calvitie !",
+      "desc": "En délivrant de brèves impulsions électriques, ce prototype aide deux molécules ciblées à franchir la barrière de la peau jusque dans les cellules des follicules. Après quatre semaines, la repousse dépasse celle obtenue avec le minoxidil dans un modèle expérimental.",
+      "url": "https://www.futura-sciences.com/sante/actualites/calvitie-pres-100-repousse-mois-etonnant-resultat-peigne-electrique-teste-calvitie-139550/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/0/8/5081e58806_50263790_calvitie.jpg",
+      "date": "2026-11-24T05:28:21+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Alerte canicule : un dispositif associé à une baisse de la mortalité, surtout chez les personnes les plus âgées",
+      "desc": "À la suite de la canicule de 2003, la France a mis en place un dispositif national d’alerte visant à déclencher des mesures préventives locales pour protéger les populations vulnérables. Dans une nouvelle étude, des chercheuses et des chercheurs de l’Inserm, de l’EHESP et de l’université de Rennes, ",
+      "url": "https://presse.inserm.fr/alerte-canicule-un-dispositif-associe-a-une-baisse-de-la-mortalite-surtout-chez-les-personnes-les-plus-agees/73764/",
+      "image": null,
+      "date": "2026-11-24T05:00:51+00:00",
+      "date_formatted": "24 November 2026",
+      "source": "Inserm",
+      "type": "science"
     },
     {
       "title": "Sur la piste de Robert Surcouf et de l’« Aurore », navire esclavagiste du XVIIIᵉ siècle, à bord duquel plus de 300 Africains ont été livrés à la mort",
@@ -123,26 +213,6 @@
       "type": "science"
     },
     {
-      "title": "\"Le cancer vous change \" : la princesse Kate partage son expérience de la maladie dans un documentaire très personnel intitulé \"Guérir\"",
-      "desc": "En rémission depuis janvier 2025, l'épouse du prince William espère avec ce film aider d'autres personnes à traverser le diagnostic, la guérison et la vie après le cancer.",
-      "url": "https://www.franceinfo.fr/culture/cinema/documentaires/le-cancer-vous-change-la-princesse-kate-partage-son-experience-de-la-maladie-dans-un-documentaire-tres-personnel-intitule-guerir_8293802.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/wtnW_brEZ0nIelzB7XHiYlnqJqo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/21/6b01b1ac4754e224576357.jpg",
-      "date": "2026-11-21T16:11:59+00:00",
-      "date_formatted": "21 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "REPORTAGE. \"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
-      "desc": "En deux heures, les participants apprennent notamment à réagir face aux effets des gaz lacrymogènes, mais les formateurs insistent aussi sur les limites de leur rôle : les street medics ne sont pas des secouristes.",
-      "url": "https://www.franceinfo.fr/societe/manifestations/j-ai-fait-une-formation-a-250-personnes-a-paris-les-formations-de-street-medics-attirent-de-plus-en-plus-de-militants_8293769.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/ZHkRY69V7BTi1FAxqkxlbe2ILNo/0x430:8256x5074/432x243/filters:format(jpg)/2026/11/21/6b01a31385a08145106471.jpg",
-      "date": "2026-11-21T15:33:07+00:00",
-      "date_formatted": "21 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Kate Middleton partage son expérience du cancer dans « Guérir », un documentaire intime diffusé sur la BBC",
       "desc": "L’épouse de William, l’héritier du trône, partage sa propre expérience de la maladie dans un film personnel",
       "url": "https://www.20minutes.fr/sante/4264665-20261121-kate-middleton-partage-experience-cancer-guerir-documentaire-intime-bbc?at_medium=display&at_campaign=149",
@@ -223,16 +293,6 @@
       "type": "science"
     },
     {
-      "title": "\"Dès que le virus arrive, il est détruit\" : des chercheurs français développent un vaccin nasal contre les futures pandémies",
-      "desc": "À l'Institut Pasteur de Lille, des scientifiques travaillent à la mise au point d'un vaccin nasal capable de protéger contre de futurs virus respiratoires. Leur objectif est de développer des molécules permettant de renforcer la réponse immunitaire et réagir rapidement en cas de pandémie.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/des-que-le-virus-arrive-il-est-detruit-des-chercheurs-francais-developpent-un-vaccin-nasal-contre-les-futures-pandemies_8270114.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/Wt5-juVAXiBzv_r9RlC-IHAG4Nc/0x378:4032x2646/432x243/filters:format(jpg)/2026/11/19/6aff1e065d7c1046839418.jpg",
-      "date": "2026-11-20T08:46:46+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Quand les feuilles soignent leurs blessures par le froid",
       "desc": "« La vie cachée des plantes ». Une lésion foliaire provoque un refroidissement rapide, ce qui active des gènes induisant le dépôt de biomolécules sur la plaie. La cicatrisation est ainsi favorisée.",
       "url": "https://www.lemonde.fr/sciences/article/2026/11/20/quand-les-feuilles-soignent-leurs-blessures-par-le-froid_6813588_1650684.html",
@@ -241,26 +301,6 @@
       "date_formatted": "20 November 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Aide à mourir : Produits, complications… Un guide pour encadrer la pratique",
-      "desc": "La loi promulguée le 18 août a ouvert un droit à l’aide à mourir pour les personnes majeures atteintes d’une affection grave et incurable",
-      "url": "https://www.20minutes.fr/societe/4264149-20261119-aide-mourir-produits-complications-guide-encadrer-pratique?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/STDZYa-XS6Ol517n83lmvSk/1200x768_les-soins-aux-personnes-agees-couvrent-divers-services-et-soutiens-destines-aux-personnes-agees-notamment-les-maisons-de-retraite-les-soins-de-fin-de-vie-et-l-assistance-medicale-il-implique-des-professionnels-de-sante-tels-que-des-medecins-des-infirmieres-et-des-soignants-pour-traiter-des-maladies-telles-que-la-maladie-d-alzheimer-et-la-maladie-de-parkinson-le-soutien-comprend-egalement-la-readaptation-les-aides-a-la-mobilite-et-les-therapies-visant-a-ameliorer-le-bien-etre-et-la-qualite-de-vie-biau-christine-sipa2965-credit-christine-biau-sipa-2502261509",
-      "date": "2026-11-19T13:33:42+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer : Des personnes malades déversent « les cendres de nos morts » sur le commissaire européen à la Santé",
-      "desc": "Jeudi, à Bruxelles, des personnes malades du cancer ont déversé des cendres sur Olivér Várhelyi pour dénoncer la loi « Omnibus X », un projet européen qui assouplirait l’autorisation des pesticides",
-      "url": "https://www.20minutes.fr/sante/4264130-20261119-cancer-personnes-malades-deversent-cendres-morts-commissaire-europeen-sante?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/czBXMwHzRjiF3Kg5AbekKSk/1200x768_ce-jeudi-19-novembre-des-personnes-malades-du-cancer-ont-deverse-des-cendres-sur-le-commissaire-europeen-a-la-sante-et-au-bien-etre-animal-oliver-varhelyi-durant-son-intervention-au-sommet-europeen-du-cancer",
-      "date": "2026-11-19T12:33:35+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "« Epidémia », le péril microbien n’est pas inéluctable",
@@ -320,36 +360,6 @@
       "date": "2026-11-18T13:02:55+00:00",
       "date_formatted": "18 November 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Comment une mobilisation scientifique a permis à un dinosaure normand d’échapper à une vente aux enchères",
-      "desc": "Unique représentant connu de son espèce, le « Dubreuillosaurus valesdunensis », découvert en Normandie en 1994, a été menacé de vente aux enchères à la mort de son propriétaire. Refusant qu’il soit livré aux appétits du marché privé, le milieu de la paléontologie a lutté pour l’intégrer aux collecti",
-      "url": "https://www.lemonde.fr/sciences/article/2026/11/18/comment-une-mobilisation-scientifique-a-permis-a-un-dinosaure-normand-d-echapper-a-une-vente-aux-encheres_6813121_1650684.html",
-      "image": "https://img.lemde.fr/2026/11/17/113/0/908/454/644/322/60/0/ce21b9f_upload-1-oa5dvyasb1cb-maquette-du-cra-ne-de-dubreuillosaurus-re-alise-e-en-2005-par-renaud-vacant-assistant-inge-nieur-du-cnrs-c-renaud-vacant.png",
-      "date": "2026-11-18T12:45:18+00:00",
-      "date_formatted": "18 November 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Peut-on développer un cancer du poumon sans avoir jamais fumé ?",
-      "desc": "Le cancer du poumon est spontanément associé au tabac, à juste titre puisqu’il reste responsable d’environ huit cas sur dix. Pourtant, cette maladie ne touche pas uniquement les fumeurs. En France, environ 20 % des cancers pulmonaires sont aujourd’hui diagnostiqués chez des personnes n'ayant...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-peut-on-developper-cancer-poumon-avoir-jamais-fume-137222/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/e/c/cecff6ffd9_50259780_3-cancer-poumon.jpg",
-      "date": "2026-11-18T10:30:00+00:00",
-      "date_formatted": "18 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Après 60 ans, votre vie sociale pourrait jouer un rôle insoupçonné dans le vieillissement du cerveau",
-      "desc": "Environ 153 millions de personnes pourraient souffrir de démence d'ici 2050. Face à ce chiffre vertigineux, la science cherche des leviers accessibles à tous pour préserver le cerveau vieillissant. Une vaste étude internationale publiée en octobre 2026 dans le Journal of Epidemiology & Community...",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-apres-60-ans-votre-vie-sociale-pourrait-jouer-role-insoupconne-vieillissement-cerveau-k8p9-139394/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/9/5/595693763e_50263452_sante-mentale-activites-seniors.jpg",
-      "date": "2026-11-18T10:00:00+00:00",
-      "date_formatted": "18 November 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -433,16 +443,6 @@
       "type": "science"
     },
     {
-      "title": "Un nouvel espoir contre le cancer du pancréas",
-      "desc": "C’est une avancée que les spécialistes n’attendaient plus vraiment. Pour la première fois, un médicament semble parvenir à faire reculer significativement l’un des cancers les plus redoutables.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer-du-pancreas-la-percee-du-daraxonrasib_195859?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac0739911-ar-1751825-tf-68438303-1-notext-jpg.jpg",
-      "date": "2026-11-14T09:00:00+00:00",
-      "date_formatted": "14 November 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Première détection chez l’humain, transmission, risques… Que sait-on du virus Shamonda ?",
       "desc": "Un premier cas humain d’infection par le virus Shamonda, jusque-là connu uniquement chez l’animal, a été identifié en France. Dans l’état actuel des connaissances, les autorités sanitaires n’identifient pas de risque pour la population générale. Tandis que les investigations se poursuivent pour comp",
       "url": "https://presse.inserm.fr/canal-detox/premiere-detection-chez-lhumain-transmission-risques-que-sait-on-du-virus-shamonda/",
@@ -489,16 +489,6 @@
       "image": null,
       "date": "2026-10-02T10:00:59+00:00",
       "date_formatted": "2 October 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Comment nos organes savent-ils distinguer leur droite de leur gauche ?",
-      "desc": "Dans une étude publiée dans Science Advances, l'équipe de Sigolène Meilhac (Inserm, Institut Imagine, Institut Pasteur, Université Paris Cité) montre, dans un modèle murin, que le mécanisme longtemps tenu pour l'événement fondateur de l'asymétrie gauche-droite, le courant ciliaire, n'en est pas le g",
-      "url": "https://presse.inserm.fr/comment-nos-organes-savent-ils-distinguer-leur-droite-de-leur-gauche/73206/",
-      "image": null,
-      "date": "2026-09-07T12:00:01+00:00",
-      "date_formatted": "7 September 2026",
       "source": "Inserm",
       "type": "science"
     }
