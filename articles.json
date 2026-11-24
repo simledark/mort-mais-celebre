@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-11-23T16:41:14.298349+00:00",
-  "count": 52,
+  "generated_at": "2026-11-24T03:32:33.053888+00:00",
+  "count": 50,
   "articles": [
+    {
+      "title": "Un exilé somalien de 30 ans tué par balles dans un camp près de Dunkerque",
+      "desc": "Une enquête a été ouverte ce lundi 23 novembre après la mort d’un exilé au camp de Loon-Plage, victime de plusieurs coups de feu. Le tireur est toujours en fuite.",
+      "url": "https://www.liberation.fr/societe/police-justice/un-exile-somalien-de-30-ans-tue-par-balles-dans-un-camp-pres-de-dunkerque-20261123_OMH2OOSSTVEDFFWRJSIWLXZOAU/",
+      "image": null,
+      "date": "2026-11-23T20:34:06+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Sur la piste de Robert Surcouf et de l’« Aurore », navire esclavagiste du XVIIIᵉ siècle, à bord duquel plus de 300 Africains ont été livrés à la mort",
+      "desc": "« L’esclavage en héritage » (1/3). Descendante de celui qui est présenté comme un illustre corsaire, notre journaliste se plonge dans les archives pour retracer le parcours du navire qui a sombré au large du Mozambique. L’enquête éclaire les circonstances de la mort de plusieurs centaines d’Africain",
+      "url": "https://www.lemonde.fr/histoire/article/2026/11/23/sur-la-piste-de-robert-surcouf-et-de-l-aurore-navire-esclavagiste-du-xviii-siecle-a-bord-duquel-plus-de-300-africains-ont-ete-livres-a-la-mort_6814443_4655323.html",
+      "image": "https://img.lemde.fr/2026/11/20/125/0/1500/750/644/322/60/0/b69ee37_upload-1-ipelf668pltr-aurore-1.jpg",
+      "date": "2026-11-23T20:00:04+00:00",
+      "date_formatted": "23 November 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "Eure : Cette association aide les malades d’Alzheimer à entretenir leur mémoire avec des jeux",
       "desc": "Le Lions Club de Vernon a offert, début novembre, deux valises mémoire aux résidents de l’Ehpad Auguste-Ridou pour lutter contre la maladie, rapporte « Le Démocrate Vernonnais »",
@@ -13,26 +33,6 @@
       "type": "presse"
     },
     {
-      "title": "«Une femme très originale et un esprit universel» : mort de Catherine Clément, philosophe passionnée de l’Inde",
-      "desc": "La romancière qui avait publié il y a quelques jours son dernier roman, avait 87 ans. Elle a été journaliste au «Matin de Paris» et productrice à France Culture. C’était la sœur de Jérôme Clément, l’ancien président de la chaîne Arte.",
-      "url": "https://www.liberation.fr/culture/livres/une-femme-tres-originale-et-un-esprit-universel-mort-de-catherine-clement-philosophe-passionnee-de-linde-20261123_Q76PIY5U5RGDNN5U3TW5XIG5KA/",
-      "image": null,
-      "date": "2026-11-23T15:40:29+00:00",
-      "date_formatted": "23 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Types cagoulés tirant au mortier» liés au député Louis Boyard : le ministre Jeanbrun incapable d’étayer ses accusations",
-      "desc": "Le 22 novembre sur CNews, le ministre du Logement laissait entendre que l’élu insoumis était rattaché à «des types cagoulés [tirant] au mortier sur les forces de l’ordre». Interrogé par «CheckNews», son cabinet n’a fourni aucun élément de preuve sérieux.",
-      "url": "https://www.liberation.fr/checknews/types-cagoules-tirant-au-mortier-lies-au-depute-louis-boyard-le-ministre-jeanbrun-incapable-detayer-ses-accusations-20261123_E5U2S2BR4VGFRFRS4NRR56JB2M/",
-      "image": null,
-      "date": "2026-11-23T14:39:11+00:00",
-      "date_formatted": "23 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "REPORTAGE. \"Comme des aiguilles dans l'intérieur du cou et du crâne\" : les premiers traitements efficaces contre le syndrome de Sjögren ont été présentés",
       "desc": "Des chercheurs ont trouvé quatre nouveaux médicaments contre cette maladie auto-immune qui prive de larmes et salive, et pour laquelle il n'existait jusqu'alors aucun traitement : la maladie de Sjögren, qui touche principalement des femmes. Franceinfo a rencontré une patiente qui a pu tester l'un de",
       "url": "https://www.franceinfo.fr/sante/premiers-traitements-efficaces-contre-la-maladie-de-sjogren-une-maladie-auto-immune-qui-prive-de-larmes-et-salive_8295764.html#xtor=RSS-3-%5Bsante%5D",
@@ -40,16 +40,6 @@
       "date": "2026-11-23T12:33:49+00:00",
       "date_formatted": "23 November 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En Russie, les frappes ukrainiennes sur les raffineries touchent au brut",
-      "desc": "De la production de carburants aux finances publiques, les attaques de Kyiv accentuent les difficultés d’un secteur stratégique, déjà fragilisé par les sanctions et le vieillissement de ses gisements.",
-      "url": "https://www.liberation.fr/international/europe/en-russie-les-frappes-ukrainiennes-sur-les-raffineries-touchent-au-brut-20261123_VTOROTMCCJHGDEKFLJBH3EF3CQ/",
-      "image": null,
-      "date": "2026-11-23T11:53:28+00:00",
-      "date_formatted": "23 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -238,16 +228,6 @@
       "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/des-que-le-virus-arrive-il-est-detruit-des-chercheurs-francais-developpent-un-vaccin-nasal-contre-les-futures-pandemies_8270114.html#xtor=RSS-3-%5Bsante%5D",
       "image": "https://www.franceinfo.fr/pictures/Wt5-juVAXiBzv_r9RlC-IHAG4Nc/0x378:4032x2646/432x243/filters:format(jpg)/2026/11/19/6aff1e065d7c1046839418.jpg",
       "date": "2026-11-20T08:46:46+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Alimentation, tabagisme, sédentarité ou stress... La Haute Autorité de Santé souligne l'importance du mode de vie face aux risques cardiovasculaires",
-      "desc": "Les maladies cardiovasculaires sont la deuxième cause de mortalité en France, après le cancer. Pour mieux prévenir les accidents cardiaques, la Haute Autorité de Santé recommande aux médecins de tenir davantage compte du mode de vie des patients.",
-      "url": "https://www.franceinfo.fr/sante/alimentation-tabagisme-sedentarite-ou-stress-la-haute-autorite-de-sante-souligne-l-importance-du-mode-de-vie-face-aux-risques-cardiovasculaires_8290709.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/d1neJDaNZZw4kCfoWmpgSYP2vts/0x52:4300x2468/432x243/filters:format(jpg)/2023/11/28/maxstockworld348348-6566428593f37481625035.jpg",
-      "date": "2026-11-20T06:09:21+00:00",
       "date_formatted": "20 November 2026",
       "source": "France Info Santé",
       "type": "presse"
