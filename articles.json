@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-11-24T16:37:11.503439+00:00",
-  "count": 49,
+  "generated_at": "2026-11-25T01:41:20.434616+00:00",
+  "count": 45,
   "articles": [
-    {
-      "title": "Plus de 1 000 victimes en 2025 : les suicides forcés, la «face cachée des féminicides»",
-      "desc": "En plus des 111 féminicides et 333 tentatives, 1 011 femmes se sont suicidées ou ont tenté de le faire en 2025. Comptabilisés depuis trois ans, les chiffres des «féminicides indirects» permettent de sortir de la sous-estimation et de se rapprocher un peu plus de la réalité d’un «phénomène de masse».",
-      "url": "https://www.liberation.fr/societe/droits-des-femmes/plus-de-1-000-victimes-en-2025-les-suicides-forces-la-face-cachee-des-feminicides-20261124_H7SDQRY6QNAILMXDCGRXJOORPM/",
-      "image": null,
-      "date": "2026-11-24T16:00:00+00:00",
-      "date_formatted": "24 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
     {
       "title": "L'alcool progresse chez les mineurs et reste meurtrier sur les routes",
       "desc": "L'alcool gagne du terrain chez les mineurs et reste impliqué dans plus d'un quart des décès sur les routes. Un double constat alarmant dressé par l'Observatoire français des drogues et des tendances addictives (OFDT) dans une étude publiée mardi 24 novembre.",
@@ -213,16 +203,6 @@
       "type": "science"
     },
     {
-      "title": "Kate Middleton partage son expérience du cancer dans « Guérir », un documentaire intime diffusé sur la BBC",
-      "desc": "L’épouse de William, l’héritier du trône, partage sa propre expérience de la maladie dans un film personnel",
-      "url": "https://www.20minutes.fr/sante/4264665-20261121-kate-middleton-partage-experience-cancer-guerir-documentaire-intime-bbc?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/SX1fTur8SPWrQZ5PzO0w_ik/1200x768_la-princesse-kate-middleton-dans-le-documentaire-heal-guerir-de-la-bbc",
-      "date": "2026-11-21T14:36:51+00:00",
-      "date_formatted": "21 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Chronothérapie : et si l’heure du traitement faisait la différence ?",
       "desc": "Le bon médicament au bon moment. Apparue il y a une trentaine d’années, la chronothérapie cherche à adapter les traitements à notre horloge biologique et au rythme d’activité des cellules concernées.",
       "url": "https://www.sciencesetavenir.fr/sante/remettre-les-gelules-a-l-heure_195959?xtor=RSS-16",
@@ -231,16 +211,6 @@
       "date_formatted": "21 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "« On est à 500 nouveaux cas par semaine » : Handicap International alerte sur la propagation du virus Ebola en RDC",
-      "desc": "L’ONG voit son action sur le terrain par différents phénomènes, dont certains culturels",
-      "url": "https://www.20minutes.fr/monde/4264646-20261121-500-nouveaux-cas-semaine-handicap-international-alerte-propagation-virus-ebola-rdc?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/lrPO7EGBTgG8evjLmvSREyk/1200x768_les-agents-de-sante-ont-revetu-un-equipement-de-protection-individuelle-avant-de-transferer-le-corps-d-une-victime-du-virus-ebola-devant-une-morgue-de-bunia-au-congo-le-dimanche-15-novembre-2026-ap-photo-dieudonne-dirole-xms101-26319787617498-2611152307",
-      "date": "2026-11-21T10:30:04+00:00",
-      "date_formatted": "21 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Arrêter de fumer : une vaste analyse révèle une bonne nouvelle inattendue pour notre cerveau",
@@ -421,16 +391,6 @@
       "date_formatted": "17 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins demandent leur interdiction",
-      "desc": "Les témoignages de près de 10 000 femmes exposées à des gaz lacrymogènes depuis le début du mouvement lycéen et de la mobilisation sociale doivent être présentés, mardi, à l’Assemblée nationale. Ils mettent en évidence de nombreux troubles gynécologiques.",
-      "url": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html",
-      "image": "https://img.lemde.fr/2026/10/18/250/0/3000/1500/644/322/60/0/3feb64c_upload-1-v6uamr8c6mc2-asurp-manif17oct-108633.jpg",
-      "date": "2026-11-17T05:42:21+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer de la prostate : une radiothérapie ultraciblée contre les tumeurs agressives",
