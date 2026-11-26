@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-11-25T16:19:25.032652+00:00",
-  "count": 41,
+  "generated_at": "2026-11-26T01:14:32.781421+00:00",
+  "count": 44,
   "articles": [
     {
-      "title": "Ascensoriste tué lors d’une réparation en Seine-Saint-Denis : enquête ouverte pour homicide involontaire",
-      "desc": "La justice a annoncé ce mercredi 25 novembre le lancement d’une procédure après qu’un câble, destiné à maintenir temporairement l’ascenseur s’est rompu, entraînant la mort lundi d’un technicien de 52 ans à Épinay-sur-Seine.",
-      "url": "https://www.liberation.fr/societe/ascensoriste-tue-lors-dune-reparation-en-seine-saint-denis-enquete-ouverte-pour-homicide-involontaire-20261125_FVDOXGYIXJD5DJNZOGIMJJVH2I/",
+      "title": "Le rein comme on ne l’a jamais vu à l’échographie",
+      "desc": "Pour la première fois, une équipe de recherche de l’Inserm de l’institut Physique pour la médecine (Inserm/ESPCI Paris-PSL/CNRS) à Paris est parvenue à visualiser chez l’humain, l’ensemble du réseau vasculaire et les flux sanguins, à l’échelle d’un rein entier. Une première qui ouvre de belles persp",
+      "url": "https://presse.inserm.fr/le-rein-comme-on-ne-la-jamais-vu-a-lechographie/73606/",
       "image": null,
-      "date": "2026-11-25T13:49:24+00:00",
+      "date": "2026-11-25T23:30:19+00:00",
+      "date_formatted": "25 November 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "L’actrice et mannequin Veruschka, célèbre pour «Blow Up», est morte à 87 ans",
+      "desc": "Longue silhouette mondialement connue dans les années 60, la comtesse Vera Anna Gottliebe von Lehndorff avait posé pour David Bailey, Richard Avedon ou Irving Penn.",
+      "url": "https://www.liberation.fr/lifestyle/mode/lactrice-et-mannequin-veruschka-celebre-pour-blow-up-est-morte-a-87-ans-20261125_CHY545EPMJAKHNFCSRI6H35BWQ/",
+      "image": null,
+      "date": "2026-11-25T21:24:40+00:00",
       "date_formatted": "25 November 2026",
       "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Un vaste incendie fait au moins 30 morts au Caire",
+      "desc": "Le sinistre aurait été déclenché par le renversement d’un camion-citerne chargé de carburant sur l’axe périphérique qui ceinture la capitale égyptienne.",
+      "url": "https://www.liberation.fr/international/afrique/au-moins-30-morts-dans-un-quartier-densement-peuple-du-caire-ravage-par-un-incendie-20261125_BIUTUS5IPJGKDCP7EFIWZVRBZQ/",
+      "image": null,
+      "date": "2026-11-25T20:16:30+00:00",
+      "date_formatted": "25 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "A Téhéran, la peur au coin de la rue",
+      "desc": "Si pendant longtemps, les Iraniens excellaient dans l’art de la débrouille et étaient passés maîtres dans celui de contourner les interdits, aujourd’hui, beaucoup d’entre eux se sentent prisonniers d’un régime moyenâgeux qui reprend petit à petit le contrôle de l’espace public.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/a-teheran-la-peur-au-coin-de-la-rue-20261125_TFPSZYSFSFGYXICJUJB2QTENCQ/",
+      "image": null,
+      "date": "2026-11-25T19:19:13+00:00",
+      "date_formatted": "25 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La grippe s’installe en France, où la majorité des régions de l’Hexagone sont passées en pré-épidémie",
+      "desc": "La circulation des virus grippaux s’intensifie et les recours aux soins apparaissent globalement « à des niveaux toujours supérieurs à ceux de l’année précédente à la même période », constate Santé publique France.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/25/la-grippe-s-installe-en-france-ou-la-majorite-des-regions-de-l-hexagone-sont-passees-en-pre-epidemie_6815156_3224.html",
+      "image": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/c3c5cc0_upload-1-6zj15hmhp6kd-frame-645.jpg",
+      "date": "2026-11-25T18:33:07+00:00",
+      "date_formatted": "25 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Grippe : Sept régions de l’Hexagone désormais en pré-épidémie",
+      "desc": "La grippe gagne du terrain : selon Santé publique France, sept régions sont en pré-épidémie, le Covid progresse aussi et la vaccination des personnes à risque est plus que jamais recommandée",
+      "url": "https://www.20minutes.fr/sante/4265772-20261125-grippe-sept-regions-hexagone-desormais-pre-epidemie?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/LWO8SyPkQ0KbwXy8WrezLSk/1200x768_11-novembre-2026-basse-saxe-hanovre-une-seringue-contenant-le-vaccin-antigrippal-efluelda-est-brandie-devant-un-bras-lors-d-un-evenement-public-de-vaccination-au-ministere-de-la-sante-le-ministere-fait-la-promotion-de-la-vaccination-antigrippale-en-basse-saxe-photo-julian-stratenschulte-dpa-urn-newsml-dpa-com-20090101-261111-99-244379-julian-stratenschulte-dpa-sipa-2611111441",
+      "date": "2026-11-25T17:28:14+00:00",
+      "date_formatted": "25 November 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -253,16 +303,6 @@
       "type": "science"
     },
     {
-      "title": "Quand les feuilles soignent leurs blessures par le froid",
-      "desc": "« La vie cachée des plantes ». Une lésion foliaire provoque un refroidissement rapide, ce qui active des gènes induisant le dépôt de biomolécules sur la plaie. La cicatrisation est ainsi favorisée.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/11/20/quand-les-feuilles-soignent-leurs-blessures-par-le-froid_6813588_1650684.html",
-      "image": "https://img.lemde.fr/2026/11/15/254/0/502/251/644/322/60/0/25f14eb_upload-1-u2o0evjqljzv-default.jpg",
-      "date": "2026-11-20T06:00:07+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Le « mode d’emploi » de l’aide à mourir publié par la Haute Autorité de santé",
       "desc": "L’organisme a défini dans un document, rendu public jeudi, les protocoles médicaux permettant en pratique une aide à mourir pour des patients en fin de vie. Ces recommandations feront l’objet d’un décret en Conseil d’Etat début 2027.",
       "url": "https://www.lemonde.fr/societe/article/2026/11/19/la-haute-autorite-de-sante-publie-le-mode-d-emploi-de-l-aide-a-mourir_6813279_3224.html",
@@ -318,16 +358,6 @@
       "url": "https://www.lemonde.fr/sante/article/2026/11/17/produits-defrisants-accuses-de-causer-des-cancers-l-oreal-conclut-un-accord-avec-quatre-plaignantes-aux-etats-unis_6813045_1651302.html",
       "image": "https://img.lemde.fr/2026/11/17/418/0/4706/2353/644/322/60/0/007c737_upload-1-rmxenrpyu4fg-000-1oq068.jpg",
       "date": "2026-11-17T21:49:57+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancer du pancréas : la Commission européenne donne son feu vert à un nouveau traitement",
-      "desc": "L’essai clinique mené par Revolution Medicines, la biotech américaine à l’origine du daraxonrasib, montre un doublement de la survie médiane chez les patients l’ayant reçu.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/17/cancer-du-pancreas-la-commission-europeenne-donne-son-feu-vert-a-un-nouveau-traitement_6813042_3234.html",
-      "image": "https://img.lemde.fr/2025/09/19/125/0/1500/750/644/322/60/0/2caf481_upload-1-poqu3qyhcird-mei-dia-35.png",
-      "date": "2026-11-17T21:21:40+00:00",
       "date_formatted": "17 November 2026",
       "source": "Le Monde Santé",
       "type": "presse"
