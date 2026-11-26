@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-11-26T01:14:32.781421+00:00",
-  "count": 44,
+  "generated_at": "2026-11-26T15:54:48.641031+00:00",
+  "count": 40,
   "articles": [
+    {
+      "title": "«Mayotte est devenue une fabrique de barbares» : un adolescent tué lors d’une rixe dans un lycée, le troisième en moins d’une semaine",
+      "desc": "Un garçon de 17 ans est mort après des affrontements entre bandes rivales dans l’enceinte d’un établissement scolaire mercredi 25 novembre. Depuis plusieurs semaines, le département fait face à une explosion des violences.",
+      "url": "https://www.liberation.fr/societe/education/mayotte-est-devenue-une-fabrique-de-barbares-un-adolescent-tue-lors-dune-rixe-dans-un-lycee-le-troisieme-en-moins-dune-semaine-20261126_3N75IRQFRNFTFBV5JPE7HRIKSE/",
+      "image": null,
+      "date": "2026-11-26T15:45:53+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La grippe s’installe en France, la majorité des régions de l’Hexagone en pré-épidémie",
+      "desc": "La plupart des indicateurs sont passés à l’orange dans 7 régions sur 13, a indiqué mercredi 25 novembre Santé Publique France. Toutes les classes d’âge sont touchées, notamment en ville.",
+      "url": "https://www.liberation.fr/societe/sante/la-grippe-sinstalle-en-france-la-majorite-des-regions-de-lhexagone-en-pre-epidemie-20261126_VPWCN22TMJFURF6JNHLJ2HYABA/",
+      "image": null,
+      "date": "2026-11-26T15:17:06+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«J’entendais ses cris depuis ma cellule» : deux manifestants racontent leur garde à vue cauchemardesque à Paris",
+      "desc": "Léo, 22 ans, et Laurent, 20 ans, ont porté plainte auprès de l’IGPN pour violences aggravées et agression sexuelle après leur interpellation en marge de la manifestation du 31 octobre. «Libération» a recueilli le récit de plusieurs heures de brutalité physique et psychologique.",
+      "url": "https://www.liberation.fr/societe/police-justice/jentendais-ses-cris-depuis-ma-cellule-deux-manifestants-racontent-leur-garde-a-vue-cauchemardesque-a-paris-20261126_6VK7AJNW6ZGO5FB7YLDUDPABKM/",
+      "image": null,
+      "date": "2026-11-26T15:05:37+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Fumées toxiques : « Les mégafeux de l’été sont éteints, les cancers, eux, ne s’éteignent pas l’hiver »",
+      "desc": "Les incendies mettent professionnels et volontaires en présence de substances cancérogènes, dans l’air comme dans leurs équipements. Face à cette situation, les autorités continuent de faire preuve d’apathie, dénonce un collectif de sapeurs-pompiers et de chercheurs, dans une tribune au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/26/fumees-toxiques-les-megafeux-de-l-ete-sont-eteints-les-cancers-eux-ne-s-eteignent-pas-l-hiver_6815541_3232.html",
+      "image": "https://img.lemde.fr/2026/11/20/125/0/1500/750/644/322/60/0/e6a5782_upload-1-dihj3jdcj7fv-frame-1537.jpg",
+      "date": "2026-11-26T15:00:11+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancers chez les jeunes : plusieurs collectifs et ONG lancent une cartographie citoyenne et participative pour \"mieux comprendre l'exposition aux polluants chimiques\"",
+      "desc": "Ouverte aux personnes ayant eu un cancer avant 25 ans et à leurs parents, \"cette plateforme participative vise à recueillir des données sur les parcours d’exposition environnementale\" pour \"faire avancer la recherche indépendante et redonner la parole aux personnes concernées\".",
+      "url": "https://www.franceinfo.fr/sante/cancer/cancers-chez-les-jeunes-plusieurs-collectifs-et-ong-lancent-une-cartographie-citoyenne-et-participative-pour-mieux-comprendre-l-exposition-aux-polluants-chimiques_8300925.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/dm8zKJawplGJ8VV-XBVcVwT9QZE/0x448:4300x2867/432x243/filters:format(jpg)/2026/11/26/6b080ed50f5ea367985948.jpg",
+      "date": "2026-11-26T11:50:29+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"Il lui disait de se calmer, que c'était ridicule\" : un médecin régulateur du Samu jugé six ans après la mort de Sarah, décédée des suites d'une grossesse extra-utérine malgré ses appels au 15",
+      "desc": "Un médecin régulateur du Samu va devoir s'expliquer ce jeudi devant la justice, après la mort d'une femme enceinte. Selon la famille de Sarah Tijou, la jeune femme aurait pu être sauvée. En 2020, malgré plusieurs appels au 15, le médecin n'avait pas envoyé de secours.",
+      "url": "https://www.franceinfo.fr/faits-divers/justice-proces/il-lui-disait-de-se-calmer-que-c-etait-ridicule-un-medecin-regulateur-du-samu-juge-six-ans-apres-la-mort-de-sarah-decedee-des-suites-d-une-grossesse-extra-uterine-malgre-ses-appels-au-15_8300997.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/qZm9kF9O4WUn6NqNnAyGeGSqivE/0x46:1175x706/432x243/filters:format(jpg)/2026/11/26/6b07f2356c561070041028.jpg",
+      "date": "2026-11-26T09:49:37+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. \"Je suis mitigée, il y a trop de vaccins\" : la vaccination contre le papillomavirus patine dans certains quartiers",
+      "desc": "En France, la couverture vaccinale contre les papillomavirus reste bien en deçà de l'objectif de 80% fixé pour 2030, particulièrement dans les quartiers prioritaires. À Lyon, des \"ambassadeurs santé\" vont à la rencontre des parents pour les convaincre de faire vacciner leurs adolescents.",
+      "url": "https://www.franceinfo.fr/sante/vaccins/reportage-je-suis-mitigee-il-y-a-trop-de-vaccins-la-vaccination-contre-le-papillomavirus-patine-dans-certains-quartiers_8300304.html#xtor=RSS-3-%5Bsante%5D",
+      "image": "https://www.franceinfo.fr/pictures/OS2GVcemLCfOhbJZwEKBNroZSeg/0x175:3358x2063/432x243/filters:format(jpg)/2026/11/25/6b074cd5ea219574521961.jpg",
+      "date": "2026-11-26T08:13:58+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Peau de papillon » sur HBO Max : Avec Colin Farrell, Emma Fogarty veut sortir sa maladie de l’ombre",
+      "desc": "Dans le documentaire disponible le 26 novembre sur HBO Max, l’Irlandaise Emma Fogarty et son ami Colin Farrell se mobilisent pour faire connaître l’épidermolyse bulleuse, une maladie génétique rare, particulièrement douloureuse",
+      "url": "https://www.20minutes.fr/arts-stars/culture/4265447-20261126-peau-papillon-hbo-max-colin-farrell-emma-fogarty-veut-sortir-maladie-ombre?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/ciEOGkwRTfO9qrvvNMn6BCk/1200x768_l-acteur-colin-farrell-court-avec-son-amie-proche-emma-fogarty-la-plus-ancienne-survivante-de-l-epidermolyse-bullsosa-lors-du-marathon-irish-life-dublin-2024-a-dublin-en-irlande-le-dimanche-27-octobre-2024-photo-ap-peter-morrison",
+      "date": "2026-11-26T06:32:37+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des laits infantiles vendus en France sont contaminés par des PFAS interdits et cancérogènes",
+      "desc": "Pour la première fois, des analyses sur des laits infantiles vendus en France révèlent la présence de polluants éternels, et à des niveaux qui exposent les nourrissons à des dépassements de la dose hebdomadaire tolérable fixée par les autorités sanitaires.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/26/des-laits-infantiles-vendus-en-france-sont-contamines-par-des-pfas-interdits-et-cancerogenes_6815474_3244.html",
+      "image": "https://img.lemde.fr/2026/11/25/500/0/6000/3000/644/322/60/0/3b13464_upload-1-xhbc8vgzuups-000-94g22ke-1.jpg",
+      "date": "2026-11-26T06:00:19+00:00",
+      "date_formatted": "26 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Le rein comme on ne l’a jamais vu à l’échographie",
       "desc": "Pour la première fois, une équipe de recherche de l’Inserm de l’institut Physique pour la médecine (Inserm/ESPCI Paris-PSL/CNRS) à Paris est parvenue à visualiser chez l’humain, l’ensemble du réseau vasculaire et les flux sanguins, à l’échelle d’un rein entier. Une première qui ouvre de belles persp",
@@ -11,36 +101,6 @@
       "date_formatted": "25 November 2026",
       "source": "Inserm",
       "type": "science"
-    },
-    {
-      "title": "L’actrice et mannequin Veruschka, célèbre pour «Blow Up», est morte à 87 ans",
-      "desc": "Longue silhouette mondialement connue dans les années 60, la comtesse Vera Anna Gottliebe von Lehndorff avait posé pour David Bailey, Richard Avedon ou Irving Penn.",
-      "url": "https://www.liberation.fr/lifestyle/mode/lactrice-et-mannequin-veruschka-celebre-pour-blow-up-est-morte-a-87-ans-20261125_CHY545EPMJAKHNFCSRI6H35BWQ/",
-      "image": null,
-      "date": "2026-11-25T21:24:40+00:00",
-      "date_formatted": "25 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Un vaste incendie fait au moins 30 morts au Caire",
-      "desc": "Le sinistre aurait été déclenché par le renversement d’un camion-citerne chargé de carburant sur l’axe périphérique qui ceinture la capitale égyptienne.",
-      "url": "https://www.liberation.fr/international/afrique/au-moins-30-morts-dans-un-quartier-densement-peuple-du-caire-ravage-par-un-incendie-20261125_BIUTUS5IPJGKDCP7EFIWZVRBZQ/",
-      "image": null,
-      "date": "2026-11-25T20:16:30+00:00",
-      "date_formatted": "25 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "A Téhéran, la peur au coin de la rue",
-      "desc": "Si pendant longtemps, les Iraniens excellaient dans l’art de la débrouille et étaient passés maîtres dans celui de contourner les interdits, aujourd’hui, beaucoup d’entre eux se sentent prisonniers d’un régime moyenâgeux qui reprend petit à petit le contrôle de l’espace public.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/a-teheran-la-peur-au-coin-de-la-rue-20261125_TFPSZYSFSFGYXICJUJB2QTENCQ/",
-      "image": null,
-      "date": "2026-11-25T19:19:13+00:00",
-      "date_formatted": "25 November 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "La grippe s’installe en France, où la majorité des régions de l’Hexagone sont passées en pré-épidémie",
@@ -83,16 +143,6 @@
       "type": "science"
     },
     {
-      "title": "\"Il y a un déficit important de radiologues\" : le Royaume-Uni lance une expérimentation de dépistage du cancer du sein à grande échelle assistée par l'IA",
-      "desc": "Près de 700 000 femmes devraient participer à un dépistage de cancers du sein grâce à l'intelligence artificielle. Le NHS, l’hôpital public britannique, espère améliorer ainsi les diagnostics alors qu’il fait face à une pénurie de radiologues.",
-      "url": "https://www.franceinfo.fr/sante/cancer/il-y-a-un-deficit-important-de-radiologues-le-royaume-uni-lance-une-experimentation-de-depistage-du-cancer-du-sein-a-grande-echelle-assistee-par-l-ia_8297310.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/Krg6AbjOz4E4oh6yNiiBk_HKdNo/0x243:4790x2937/432x243/filters:format(jpg)/2026/11/24/6b055eace9fab367445570.jpg",
-      "date": "2026-11-24T14:07:33+00:00",
-      "date_formatted": "24 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "VIH/sida : la chute des financements internationaux fragilise la lutte contre l’épidémie, pointe l’Onusida",
       "desc": "Si le nombre de morts liés au sida dans le monde est tombé à son niveau le plus bas depuis plus de deux décennies, les financements internationaux des programmes de lutte ont baissé de 18 % en 2025, alerte le programme commun de l’ONU sur le VIH.",
       "url": "https://www.lemonde.fr/international/article/2026/11/24/vih-sida-la-chute-des-financements-internationaux-fragilise-la-lutte-contre-l-epidemie-pointe-l-onusida_6814760_3210.html",
@@ -100,26 +150,6 @@
       "date": "2026-11-24T13:28:36+00:00",
       "date_formatted": "24 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le groupe pharmaceutique français Sanofi va racheter l'américain Insmed pour 37,6 milliards d'euros",
-      "desc": "Via ce rachat, Sanofi s'empare de deux médicaments d'Insmed déjà approuvés contre des maladies pulmonaires chroniques et invalidantes.",
-      "url": "https://www.franceinfo.fr/sante/medicament/le-groupe-pharmaceutique-francais-sanofi-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_8297424.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/34ZVXHTRhbpi57511xxQ5OO6_nY/0x269:5169x3176/432x243/filters:format(jpg)/2026/11/24/6b05644ddb563671571216.jpg",
-      "date": "2026-11-24T11:49:40+00:00",
-      "date_formatted": "24 November 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Essonne : Six pharmacies habilitées à vacciner de futurs voyageurs contre des maladies exotiques",
-      "desc": "Grâce à un nouveau protocole de coopération, les officines du sud du département peuvent administrer douze vaccins, selon « Ouest-France »",
-      "url": "https://www.20minutes.fr/sante/4265307-20261124-essonne-six-pharmacies-habilitees-vacciner-futurs-voyageurs-contre-maladies-exotiques?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/DVEnP_iHT3KVGtPs0livlCk/1200x768_un-agent-de-sante-prepare-une-dose-de-vaccin-pfizer-bio-n-tech-contre-le-nouveau-coronavirus-a-injecter-au-departement-de-dermatologie-et-d-allergologie-de-l-universite-de-szeged-a-szeged-en-hongrie-le-samedi-23-janvier-2021-tibor-rosta-mti-via-ap-mti102-21023506466085-2101231755",
-      "date": "2026-11-24T11:14:08+00:00",
-      "date_formatted": "24 November 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -171,16 +201,6 @@
       "date_formatted": "23 November 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Eure : Cette association aide les malades d’Alzheimer à entretenir leur mémoire avec des jeux",
-      "desc": "Le Lions Club de Vernon a offert, début novembre, deux valises mémoire aux résidents de l’Ehpad Auguste-Ridou pour lutter contre la maladie, rapporte « Le Démocrate Vernonnais »",
-      "url": "https://www.20minutes.fr/societe/4265093-20261123-eure-association-aide-malades-alzheimer-entretenir-memoire-jeux?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/34tvSN_LTIyjue_hhwJ4USk/1200x768_dealing-with-the-late-breaking-heat-wave-in-france-at-ehpad-henri-dunant-in-bordeaux-some-rooms-have-been-air-conditioned-and-residents-are-encouraged-to-drink-water-regularly-bordeaux-august-22-2023-amezugo-002398-credit-ugo-amez-sipa-2308221212",
-      "date": "2026-11-23T15:44:05+00:00",
-      "date_formatted": "23 November 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Une simple photo de votre visage pourrait révéler votre âge biologique, selon une nouvelle étude",
@@ -253,16 +273,6 @@
       "type": "science"
     },
     {
-      "title": "Arrêter de fumer : une vaste analyse révèle une bonne nouvelle inattendue pour notre cerveau",
-      "desc": "Plus on fume de cigarettes par jour, plus le risque de démence augmente, selon une vaste analyse menée auprès de près de 2,8 millions de personnes. Mais les chercheurs se sont aussi intéressés à ceux qui avaient arrêté de fumer.",
-      "url": "https://www.futura-sciences.com/sante/actualites/mois-tabac-arreter-fumer-vaste-analyse-revele-bonne-nouvelle-inattendue-notre-cerveau-139427/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/c/d/3cd420610c_50263521_arret-tabac-demence.jpg",
-      "date": "2026-11-21T06:08:25+00:00",
-      "date_formatted": "21 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Cancer de la vessie : vers des traitements plus efficaces et moins invasifs ?",
       "desc": "De nouvelles stratégies thérapeutiques améliorent la prise en charge du cancer de la vessie, notamment lorsque la tumeur a atteint le muscle. Associations d'immunothérapie et d'anticorps conjugués, dispositifs intravésicaux et biomarqueurs : tour d'horizon des avancées récentes.",
       "url": "https://www.sciencesetavenir.fr/sante/cancer-de-la-vessie-de-nouvelles-armes-pour-mieux-combattre-la-maladie_195869?xtor=RSS-16",
@@ -270,16 +280,6 @@
       "date": "2026-11-20T17:00:00+00:00",
       "date_formatted": "20 November 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Parkinson : les chercheurs ont repéré un signe dans la marche jusqu'à 7 ans avant le diagnostic",
-      "desc": "Et si les premiers signes de la maladie de Parkinson se cachaient dans notre façon de marcher ? Des chercheurs ont découvert que de subtiles différences dans les mouvements des bras pouvaient être observées près de sept ans avant le diagnostic. Une piste prometteuse qui pourrait, à terme, aider...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-chercheurs-ont-repere-signe-marche-jusqua-7-ans-avant-diagnostic-139480/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/6/0/560e6ba3b9_50263685_marche-parkinson.jpg",
-      "date": "2026-11-20T15:08:40+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
@@ -291,26 +291,6 @@
       "date_formatted": "20 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Elle pleure du sang chaque mois : les médecins soupçonnent une maladie là où personne ne l'attendait",
-      "desc": "Une adolescente pleure du sang à chaque fois qu'elle a ses règles. Les examens médicaux reviennent tous normaux. Les médecins d'Istanbul évoquent alors une hypothèse rarissime : de l'endométriose près des yeux. Un cas publié en octobre 2026 qui bouscule les certitudes.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cycle-menstruel-elle-pleure-sang-chaque-mois-medecins-soupconnent-maladie-personne-ne-attendait-k8p9-139419/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/d/8/e/d8ec907c82_50263480_larmes-sang-menstruations.jpg",
-      "date": "2026-11-20T10:00:00+00:00",
-      "date_formatted": "20 November 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Le « mode d’emploi » de l’aide à mourir publié par la Haute Autorité de santé",
-      "desc": "L’organisme a défini dans un document, rendu public jeudi, les protocoles médicaux permettant en pratique une aide à mourir pour des patients en fin de vie. Ces recommandations feront l’objet d’un décret en Conseil d’Etat début 2027.",
-      "url": "https://www.lemonde.fr/societe/article/2026/11/19/la-haute-autorite-de-sante-publie-le-mode-d-emploi-de-l-aide-a-mourir_6813279_3224.html",
-      "image": "https://img.lemde.fr/2026/11/19/647/0/6000/3000/644/322/60/0/ab6c655_upload-1-edyhhezosn3e-000-74jg8g7.jpg",
-      "date": "2026-11-19T11:54:27+00:00",
-      "date_formatted": "19 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Produits défrisants et risques de cancer : L'Oréal trouve un accord avec quatre plaignantes",
@@ -341,26 +321,6 @@
       "date_formatted": "18 November 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "En RDC, Ebola tue massivement les enfants : « Je ne peux même pas le prendre dans mes bras pour le réconforter »",
-      "desc": "Près des trois quarts des moins de 5 ans contaminés par la maladie à virus Ebola n’y survivent pas. A Bunia et Beni, épicentres de l’épidémie, les deuils s’enchaînent, tandis que plus de 2 280 enfants se retrouvent orphelins.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/18/en-rdc-ebola-tue-massivement-les-enfants-je-ne-peux-meme-pas-le-prendre-dans-mes-bras-pour-le-reconforter_6813071_3212.html",
-      "image": "https://img.lemde.fr/2026/11/17/1109/0/7008/3504/644/322/60/0/7c12231_upload-1-vrgprwqyplw5-18-pb-lemonde-ebola-enfants-bunia-beni-rdc.jpg",
-      "date": "2026-11-18T06:00:16+00:00",
-      "date_formatted": "18 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Produits défrisants accusés de causer des cancers : L’Oréal conclut un accord avec quatre plaignantes aux Etats-Unis",
-      "desc": "Le montant de l’indemnisation de ces quatre femmes afro-américaines n’a pas été rendu public. Le groupe français, qui défend la sûreté de ses produits supposés lisser les cheveux, fait face à de nombreuses plaintes de clientes américaines.",
-      "url": "https://www.lemonde.fr/sante/article/2026/11/17/produits-defrisants-accuses-de-causer-des-cancers-l-oreal-conclut-un-accord-avec-quatre-plaignantes-aux-etats-unis_6813045_1651302.html",
-      "image": "https://img.lemde.fr/2026/11/17/418/0/4706/2353/644/322/60/0/007c737_upload-1-rmxenrpyu4fg-000-1oq068.jpg",
-      "date": "2026-11-17T21:49:57+00:00",
-      "date_formatted": "17 November 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Gaz lacrymogène et douleurs gynécologiques, le vide scientifique",
