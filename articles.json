@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-27T15:43:32.514605+00:00",
+  "generated_at": "2026-11-28T00:45:51.421835+00:00",
   "count": 46,
   "articles": [
+    {
+      "title": "LFI : Mathilde Panot saisit la justice après des menaces de mort envoyées à des députés avec une adresse au nom de l’assaillant de Trappes",
+      "desc": "La présidente du groupe insoumis à l’Assemblée nationale a annoncé ce vendredi 27 novembre qu’elle et trois autres élus, Danièle Obono, Manuel Bompard, Aly Diouara, ont reçu des insultes dans la nuit.",
+      "url": "https://www.liberation.fr/politique/lfi-mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-envoyees-a-des-deputes-avec-une-adresse-au-nom-de-lassaillant-de-trappes-20261127_OUKDM3ITY5BRDHIYR77OUH4KXI/",
+      "image": null,
+      "date": "2026-11-27T20:56:27+00:00",
+      "date_formatted": "27 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au procès de Bernard Pallot, jugé pour avoir tué sa compagne malade : «Il n’y avait aucune solution douce et rapide pour elle»",
+      "desc": "L’homme de 80 ans, accusé d’avoir assassiné son épouse, à sa demande en 2021, comparaît en appel devant la cour d’assises des Ardennes depuis jeudi 26 novembre. Ce vendredi, l’ancien médecin de Vincent Lambert, Eric Kariger, et la militante Claude Hury, ont témoigné. Deux prises de parole au cœur du",
+      "url": "https://www.liberation.fr/societe/sante/au-proces-de-bernard-pallot-juge-pour-avoir-tue-sa-compagne-malade-il-ny-avait-aucune-solution-douce-et-rapide-pour-elle-20261127_K433S4UNC5BOXMECOPMHWXCBHI/",
+      "image": null,
+      "date": "2026-11-27T19:26:45+00:00",
+      "date_formatted": "27 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de l’arrangeur Jean-Claude Vannier, artisan invisible du sublime comme de l’ordinaire",
+      "desc": "Trop souvent réduit à sa collaboration avec Serge Gainsbourg sur le culte «l’Histoire de Melody Nelson», le musicien qui a mis son éventail de talents au service des grands noms de la chanson française laisse derrière lui un corpus faramineux. Il est mort jeudi 26 novembre à 83 ans.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-jean-claude-vannier-arrangeur-historique-de-serge-gainsbourg-20261127_XCWLPFFNIRHQZINVDIFL23IP6I/",
+      "image": null,
+      "date": "2026-11-27T18:20:24+00:00",
+      "date_formatted": "27 November 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi la rougeole, maladie humaine la plus contagieuse connue, flambe de nouveau dans de nombreux pays",
+      "desc": "A la suite d’un affaiblissement de la couverture vaccinale sous l’effet des discours et politiques antivax, la rougeole s’étend notamment en Amérique du Nord. Mais la France n’est pas non plus à l’abri.",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/27/pourquoi-la-rougeole-maladie-humaine-la-plus-contagieuse-connue-flambe-de-nouveau-dans-de-nombreux-pays_6815908_3244.html",
+      "image": "https://img.lemde.fr/2026/11/25/655/0/7859/3929/644/322/60/0/31ad98f_ftp-1-pkjesejbdd7o-afp-d8lr8be.jpg",
+      "date": "2026-11-27T18:00:05+00:00",
+      "date_formatted": "27 November 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "La couverture vaccinale des adolescents contre le papillomavirus reste loin de l'objectif, après une campagne 2025-2026 au bilan stable selon Santé publique France",
       "desc": "Dans la génération née en 2013, 53% des filles et 45% des garçons ont reçu au moins une dose de vaccin contre ce virus, principale cause du cancer du col de l'utérus, alors qu'une couverture de 80% est visée à l'horizon 2030, déplore l'agence.",
@@ -13,26 +53,6 @@
       "type": "presse"
     },
     {
-      "title": "Centenaire de Michel Butor : les souvenirs de l’écrivain réunis",
-      "desc": "Pour les 100 ans de la naissance de l’écrivain, paraissent les «souvenirs» de sa sœur Colette auprès de l’enfant «pataud» devenu un «artiste complet», et ressortent son premier roman, «Passage de Milan», ainsi que ses «Improvisations».",
-      "url": "https://www.liberation.fr/culture/livres/michel-butor-mode-demploi-20261127_VOXRUKQZFRAOJDHJV5LTOUZFWY/",
-      "image": null,
-      "date": "2026-11-27T15:12:00+00:00",
-      "date_formatted": "27 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mathilde Oskeritzian, fille de Michel Butor : «Pour lui, l’écriture était le plus grand des engagements»",
-      "desc": "Investie dans la transmission de l’héritage littéraire de Michel Butor, dont on fête le centenaire, sa fille revient sur son «œuvre colossale» et son rapport à l’écriture, capable selon lui de «changer le monde».",
-      "url": "https://www.liberation.fr/culture/livres/mathilde-oskeritzian-fille-de-michel-butor-pour-lui-lecriture-etait-le-plus-grand-des-engagements-20261127_SNA7DLEIB5EFBFJR3CKD4GO45U/",
-      "image": null,
-      "date": "2026-11-27T15:10:00+00:00",
-      "date_formatted": "27 November 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Des associations lancent une cartographie participative des cancers chez les jeunes pour faire avancer la recherche",
       "desc": "Quatre associations lancent une plateforme participative pour recenser les cas de cancer chez les enfants et adolescents et documenter les expositions aux polluants chimiques",
       "url": "https://www.20minutes.fr/sante/4266311-20261127-associations-lancent-cartographie-participative-cancers-chez-jeunes-faire-avancer-recherche?at_medium=display&at_campaign=149",
@@ -40,16 +60,6 @@
       "date": "2026-11-27T14:12:36+00:00",
       "date_formatted": "27 November 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Selon sa femme, le boxeur britannique Tyson Fury n’est pas (plus) schizophrène",
-      "desc": "Dans la première version d’un documentaire Netflix sorti ce vendredi 27 novembre, elle parlait d’un diagnostic datant de 2016. Elle évoque désormais de simples symptômes alors que le très attendu match de son mari contre Anthony Joshua pourrait être menacé si la maladie était avérée.",
-      "url": "https://www.liberation.fr/sports/selon-sa-femme-le-boxeur-britannique-tyson-fury-nest-pas-plus-schizophrene-20261127_TOSSOGWQO5DJFOBDZPAPFDDXNQ/",
-      "image": null,
-      "date": "2026-11-27T13:51:38+00:00",
-      "date_formatted": "27 November 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -150,16 +160,6 @@
       "date": "2026-11-26T15:00:11+00:00",
       "date_formatted": "26 November 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cancers chez les jeunes : plusieurs collectifs et ONG lancent une cartographie citoyenne et participative pour \"mieux comprendre l'exposition aux polluants chimiques\"",
-      "desc": "Ouverte aux personnes ayant eu un cancer avant 25 ans et à leurs parents, \"cette plateforme participative vise à recueillir des données sur les parcours d’exposition environnementale\" pour \"faire avancer la recherche indépendante et redonner la parole aux personnes concernées\".",
-      "url": "https://www.franceinfo.fr/sante/cancer/cancers-chez-les-jeunes-plusieurs-collectifs-et-ong-lancent-une-cartographie-citoyenne-et-participative-pour-mieux-comprendre-l-exposition-aux-polluants-chimiques_8300925.html#xtor=RSS-3-%5Bsante%5D",
-      "image": "https://www.franceinfo.fr/pictures/dm8zKJawplGJ8VV-XBVcVwT9QZE/0x448:4300x2867/432x243/filters:format(jpg)/2026/11/26/6b080ed50f5ea367985948.jpg",
-      "date": "2026-11-26T11:50:29+00:00",
-      "date_formatted": "26 November 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
